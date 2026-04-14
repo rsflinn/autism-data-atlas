@@ -560,8 +560,9 @@ function renderPaperCard(p) {
     else if (p.relevance === 'HIGH') badges.push('<span class="badge badge-high">high</span>');
     if (p.track) badges.push('<span class="badge badge-track">Track ' + p.track + '</span>');
     if (p.genes_mentioned && p.genes_mentioned.length) {
-        p.genes_mentioned.slice(0, 5).forEach(g => badges.push('<span class="badge badge-gene">' + g + '</span>'));
-        if (p.genes_mentioned.length > 5) badges.push('<span class="badge badge-gene">+' + (p.genes_mentioned.length - 5) + '</span>');
+        const genes = Array.isArray(p.genes_mentioned) ? p.genes_mentioned : p.genes_mentioned.split(',').map(g => g.trim()).filter(Boolean);
+        genes.slice(0, 5).forEach(g => badges.push('<span class="badge badge-gene">' + g + '</span>'));
+        if (genes.length > 5) badges.push('<span class="badge badge-gene">+' + (genes.length - 5) + '</span>');
     }
     return '<div class="feed-card">' +
         '<div class="card-title"><a href="' + url + '" target="_blank">' + (p.title || 'Untitled') + '</a></div>' +
@@ -581,7 +582,8 @@ function renderTrialCard(t) {
     else if (t.relevance === 'HIGH') badges.push('<span class="badge badge-high">high</span>');
     if (t.track) badges.push('<span class="badge badge-track">Track ' + t.track + '</span>');
     if (t.genes_relevant && t.genes_relevant.length) {
-        t.genes_relevant.forEach(g => badges.push('<span class="badge badge-gene">' + g + '</span>'));
+        const genes = Array.isArray(t.genes_relevant) ? t.genes_relevant : t.genes_relevant.split(',').map(g => g.trim()).filter(Boolean);
+        genes.forEach(g => badges.push('<span class="badge badge-gene">' + g + '</span>'));
     }
     const url = t.url || 'https://clinicaltrials.gov/study/' + t.id;
     return '<div class="feed-card">' +
