@@ -114,3 +114,17 @@ Master index of all wiki pages with one-line summaries.
 
 - [WAC / DeSanto-Shinawi Syndrome vertebrate models](findings/biorxiv_WAC_DeSanto_Shinawi_2026.md) — INTEGRATE (23/50). First mouse+zebrafish WAC knockouts showing GABAergic neuron impacts, seizures, autism-relevant behaviors.
 - [EVEE: Variant effect prediction via Evo 2 foundation model](findings/biorxiv_EVEE_variant_prediction_2026.md) — INTEGRATE (25/50). SOTA variant pathogenicity prediction (0.997 AUROC), 4.2M ClinVar variants pre-scored.
+
+## Daily Scan - 2026-04-14
+
+| Score | Decision | Title | Source | Genes |
+|-------|----------|-------|--------|-------|
+| 29 | INTEGRATE | [Tic Disorders GWAS - 6 Risk Loci incl. HCN1](findings/10_64898_2026_04_09_26350245.md) | medRxiv | HCN1 |
+| 28 | INTEGRATE | [Federated single-cell QTL meta-analysis](findings/10_64898_2026_01_20_700519.md) | bioRxiv | - |
+| 26 | INTEGRATE | [FKH-7/FOXP1 in C. elegans chemosensory neurons](findings/41974488.md) | Genetics | FOXP1 |
+| 26 | INTEGRATE | [De novo mutation timing in male germline](findings/10_64898_2026_04_09_26350474.md) | medRxiv | - |
+| 23 | INTEGRATE | [Cortical morphology x psychiatric disorders](findings/10_64898_2026_04_10_26349224.md) | medRxiv | - |
+| 18 | INTEGRATE | [ASD Genetic Architecture Review](findings/41977462.md) | Int J Mol Sci | SHANK3, MECP2+ |
+| 18 | INTEGRATE | [CK2alpha OCNDS variant characterization](findings/41978434.md) | FEBS J | CSNK2A1 |
+| 10 | REVIEW | Nrp2 deletion - autism/seizure behaviors (letter) | Mol Psychiatry | NRP2 |
+| 10 | REVIEW | Cytoskeletal dynamics in SZ and ASD | Biology | SHANK3 |

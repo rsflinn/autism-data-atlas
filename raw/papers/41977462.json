@@ -1,0 +1,30 @@
+{
+  "id": "41977462",
+  "pmid": "41977462",
+  "doi": "10.3390/ijms27073278",
+  "title": "Unraveling the Genetic and Molecular Architecture of Autism Spectrum Disorder: Implications for Clinical Genetics and Genomic Diagnostics",
+  "authors": "Treccarichi S et al.",
+  "journal": "Int J Mol Sci",
+  "date": "2026-04-04",
+  "source": "pubmed",
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 2
+  },
+  "score": 18,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "SHANK3",
+    "SYNGAP1",
+    "CHD8",
+    "ADNP",
+    "ARID1B",
+    "MECP2"
+  ],
+  "summary": "Review summarizing ASD genetic architecture including CNVs, SNVs, de novo vs inherited variants, and convergent biological pathways (transcriptional regulation, chromatin remodeling, synaptic function). Discusses diagnostic yield limitations of array-CGH, WES, and WGS.",
+  "url": "https://doi.org/10.3390/ijms27073278"
+}

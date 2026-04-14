@@ -1,0 +1,22 @@
+{
+  "id": "10.64898/2026.04.09.26350474",
+  "doi": "10.64898/2026.04.09.26350474",
+  "title": "Mutation timing, accumulation and selection in the male germline shape inheritance risk for developmental disorders",
+  "authors": "Neville MDC et al.",
+  "journal": "medRxiv",
+  "date": "2026-04-13",
+  "source": "medrxiv",
+  "score_breakdown": {
+    "autism_relevance": 5,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 7,
+    "novelty": 8,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 3
+  },
+  "score": 26,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "WGS of 168 trios + duplex sequencing of paternal sperm. Most fathers of DD children show normal sperm mutation burden. 6/127 carried early mosaic pathogenic variants (0.7-14.8% VAF) accounting for ~11% of exome pathogenic burden. Remaining risk from low-VAF mutations and age-associated accumulation. Clarifies de novo mutation origins for developmental disorders.",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.09.26350474v1"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "10.64898/2026.04.09.26350245",
+  "doi": "10.64898/2026.04.09.26350245",
+  "title": "Genome-Wide Association Analysis of Tic Disorders Reveals 6 Independent Risk Loci and Highlights Tic-Associated Cell Types and Brain Circuitry",
+  "authors": "Yu D et al.",
+  "journal": "medRxiv",
+  "date": "2026-04-13",
+  "source": "medrxiv",
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 5,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 2
+  },
+  "score": 29,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "HCN1",
+    "PCDH9"
+  ],
+  "summary": "GWAS of 13,247 tic disorder cases identifies 6 loci including HCN1 (in our 49-gene set). Highlights cortico-striato-thalamo-cortical circuits, D1/D2 MSNs, cortical pyramidal neurons, oligodendrocytes. Extensive genetic correlations with NDD/psychiatric but not neurological disorders. HCN1 prioritized as risk gene.",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.09.26350245v1"
+}

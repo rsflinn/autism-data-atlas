@@ -535,6 +535,127 @@
             border-color: var(--color-perturbation);
         }
 
+        /* Research Feed Section */
+        .research-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+        .research-header h1 {
+            font-size: 1.875rem;
+            font-weight: 700;
+        }
+        .research-updated {
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+        }
+        .feed-tabs {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+        .feed-tab {
+            padding: 0.5rem 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            font-size: 0.875rem;
+            font-family: inherit;
+            transition: all 0.2s;
+        }
+        .feed-tab:hover { border-color: var(--color-perturbation); color: var(--text-primary); }
+        .feed-tab.active { background: var(--color-perturbation); color: #fff; border-color: var(--color-perturbation); }
+        .feed-tab .count { opacity: 0.7; font-size: 0.75rem; margin-left: 0.25rem; }
+        .feed-search {
+            width: 100%;
+            max-width: 400px;
+            padding: 0.625rem 1rem;
+            background: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.5rem;
+            color: var(--text-primary);
+            font-size: 0.875rem;
+            font-family: inherit;
+            margin-bottom: 1.5rem;
+        }
+        .feed-search:focus { outline: none; border-color: var(--color-perturbation); }
+        .feed-search::placeholder { color: var(--text-muted); }
+        .feed-list { display: flex; flex-direction: column; gap: 0.75rem; }
+        .feed-card {
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+            padding: 1.25rem;
+            transition: border-color 0.2s;
+        }
+        .feed-card:hover { border-color: var(--color-perturbation); }
+        .feed-card-title {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 0.375rem;
+            line-height: 1.4;
+        }
+        .feed-card-title a { color: var(--text-primary); }
+        .feed-card-title a:hover { color: var(--color-perturbation); }
+        .feed-card-meta {
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+        .feed-card-summary {
+            font-size: 0.875rem;
+            color: var(--text-primary);
+            line-height: 1.6;
+            margin-bottom: 0.5rem;
+        }
+        .feed-card-genes {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.375rem;
+        }
+        .gene-chip {
+            font-size: 0.6875rem;
+            font-family: 'JetBrains Mono', monospace;
+            padding: 0.125rem 0.5rem;
+            background: rgba(59,130,246,0.15);
+            color: var(--color-perturbation);
+            border-radius: 0.25rem;
+        }
+        .feed-score {
+            display: inline-block;
+            font-size: 0.6875rem;
+            font-weight: 600;
+            padding: 0.125rem 0.375rem;
+            border-radius: 0.25rem;
+            margin-right: 0.5rem;
+        }
+        .score-high { background: rgba(34,197,94,0.15); color: #22c55e; }
+        .score-med  { background: rgba(234,179,8,0.15); color: #eab308; }
+        .score-low  { background: rgba(148,163,184,0.15); color: #94a3b8; }
+        .feed-empty {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-muted);
+            font-size: 0.9375rem;
+        }
+        .trial-status {
+            display: inline-block;
+            font-size: 0.6875rem;
+            font-weight: 600;
+            padding: 0.125rem 0.5rem;
+            border-radius: 0.25rem;
+            margin-right: 0.5rem;
+        }
+        .status-recruiting { background: rgba(34,197,94,0.15); color: #22c55e; }
+        .status-active { background: rgba(59,130,246,0.15); color: #3b82f6; }
+        .status-completed { background: rgba(148,163,184,0.15); color: #94a3b8; }
+
         /* Getting Started Section */
         .guide-section {
             margin-bottom: 3rem;
@@ -719,6 +840,7 @@
                     <button class="nav-button active" data-section="brain-explorer">Brain Explorer</button>
                     <button class="nav-button" data-section="timeline">Timeline</button>
                     <button class="nav-button" data-section="datasets">Datasets</button>
+                    <button class="nav-button" data-section="research">Research</button>
                     <button class="nav-button" data-section="getting-started">Getting Started</button>
                     <button class="nav-button" data-section="about">About</button>
                 </nav>
@@ -811,6 +933,28 @@
                         <div class="datasets-grid" id="datasetsGrid">
                             <!-- Populated by JavaScript -->
                         </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Research Section -->
+            <section id="research" class="section">
+                <div class="section-content">
+                    <div class="max-width">
+                        <div class="research-header">
+                            <div>
+                                <h1>Research Feed</h1>
+                                <p style="color: var(--text-muted); font-size: 0.9375rem;">New papers, datasets and clinical trials -- updated daily by automated scanners</p>
+                            </div>
+                            <div class="research-updated" id="feedUpdated"></div>
+                        </div>
+                        <div class="feed-tabs" id="feedTabs">
+                            <button class="feed-tab active" data-feed="papers">Papers <span class="count" id="papersCount"></span></button>
+                            <button class="feed-tab" data-feed="trials">Clinical Trials <span class="count" id="trialsCount"></span></button>
+                            <button class="feed-tab" data-feed="datasets-new">New Datasets <span class="count" id="datasetsNewCount"></span></button>
+                        </div>
+                        <input type="text" class="feed-search" id="feedSearch" placeholder="Search papers, trials, genes...">
+                        <div class="feed-list" id="feedList"></div>
                     </div>
                 </div>
             </section>
@@ -1310,6 +1454,174 @@ phenotypes = pd.DataFrame({
 
         // Initialize
         loadDatasets();
+    </script>
+
+    <!-- Feed data files (auto-updated by scheduled scans) -->
+    <script src="papers_feed.js"></script>
+    <script src="clinical_feed.js"></script>
+    <script src="datasets_feed.js"></script>
+
+    <script>
+        // Research Feed rendering
+        (function() {
+            let activeFeed = 'papers';
+            let feedSearchTerm = '';
+
+            function getPapers() {
+                return (window.PAPERS_FEED && window.PAPERS_FEED.papers) || [];
+            }
+            function getTrials() {
+                return (window.CLINICAL_FEED && window.CLINICAL_FEED.trials) || [];
+            }
+            function getNewDatasets() {
+                return (window.DATASETS_FEED && window.DATASETS_FEED.datasets) || [];
+            }
+
+            function scoreClass(score) {
+                if (score >= 25) return 'score-high';
+                if (score >= 15) return 'score-med';
+                return 'score-low';
+            }
+
+            function trialStatusClass(status) {
+                if (!status) return '';
+                const s = status.toUpperCase();
+                if (s.includes('RECRUIT')) return 'status-recruiting';
+                if (s.includes('ACTIVE') || s.includes('ENROLL')) return 'status-active';
+                return 'status-completed';
+            }
+
+            function esc(text) {
+                if (!text) return '';
+                const d = document.createElement('div');
+                d.textContent = text;
+                return d.innerHTML;
+            }
+
+            function matchesSearch(item) {
+                if (!feedSearchTerm) return true;
+                const q = feedSearchTerm.toLowerCase();
+                const fields = [
+                    item.title, item.summary, item.authors, item.journal,
+                    item.condition, item.sponsor, item.intervention,
+                    (item.genes_mentioned || []).join(' '),
+                    (item.genes_relevant || '')
+                ].join(' ').toLowerCase();
+                return fields.includes(q);
+            }
+
+            function renderPaperCard(p) {
+                const genes = (p.genes_mentioned || []).map(g =>
+                    '<span class="gene-chip">' + esc(g) + '</span>'
+                ).join('');
+                const sc = typeof p.score === 'number'
+                    ? '<span class="feed-score ' + scoreClass(p.score) + '">' + p.score + '</span>'
+                    : '';
+                return '<div class="feed-card">' +
+                    '<div class="feed-card-title"><a href="' + esc(p.url || p.doi ? 'https://doi.org/' + p.doi : '#') + '" target="_blank">' + esc(p.title) + '</a></div>' +
+                    '<div class="feed-card-meta">' + sc + esc(p.authors || '') + (p.journal ? ' &middot; ' + esc(p.journal) : '') + (p.date ? ' &middot; ' + esc(p.date) : '') + '</div>' +
+                    '<div class="feed-card-summary">' + esc(p.summary || '') + '</div>' +
+                    (genes ? '<div class="feed-card-genes">' + genes + '</div>' : '') +
+                '</div>';
+            }
+
+            function renderTrialCard(t) {
+                const genes = t.genes_relevant
+                    ? t.genes_relevant.split(',').map(g => g.trim()).filter(Boolean).map(g =>
+                        '<span class="gene-chip">' + esc(g) + '</span>'
+                    ).join('')
+                    : '';
+                const status = t.status
+                    ? '<span class="trial-status ' + trialStatusClass(t.status) + '">' + esc(t.status) + '</span>'
+                    : '';
+                return '<div class="feed-card">' +
+                    '<div class="feed-card-title"><a href="' + esc(t.url || '#') + '" target="_blank">' + esc(t.title) + '</a></div>' +
+                    '<div class="feed-card-meta">' + status + esc(t.sponsor || '') + (t.phase ? ' &middot; ' + esc(t.phase) : '') + (t.start_date ? ' &middot; Started ' + esc(t.start_date) : '') + '</div>' +
+                    '<div class="feed-card-summary">' + esc(t.summary || '') + '</div>' +
+                    (genes ? '<div class="feed-card-genes">' + genes + '</div>' : '') +
+                '</div>';
+            }
+
+            function renderDatasetCard(d) {
+                const genes = (d.genes_relevant || []).map(g =>
+                    '<span class="gene-chip">' + esc(g) + '</span>'
+                ).join('');
+                return '<div class="feed-card">' +
+                    '<div class="feed-card-title"><a href="' + esc(d.source_url || '#') + '" target="_blank">' + esc(d.name) + '</a></div>' +
+                    '<div class="feed-card-meta">' + esc(d.data_type || '') + (d.organism ? ' &middot; ' + esc(d.organism) : '') + (d.sample_size ? ' &middot; ' + esc(d.sample_size) : '') + (d.access ? ' &middot; ' + esc(d.access) : '') + '</div>' +
+                    '<div class="feed-card-summary">' + esc(d.description || '') + '</div>' +
+                    (genes ? '<div class="feed-card-genes">' + genes + '</div>' : '') +
+                '</div>';
+            }
+
+            function renderFeed() {
+                const list = document.getElementById('feedList');
+                if (!list) return;
+
+                let items, html;
+                if (activeFeed === 'papers') {
+                    items = getPapers().filter(matchesSearch);
+                    html = items.length
+                        ? items.map(renderPaperCard).join('')
+                        : '<div class="feed-empty">No papers found' + (feedSearchTerm ? ' matching "' + esc(feedSearchTerm) + '"' : '') + '</div>';
+                } else if (activeFeed === 'trials') {
+                    items = getTrials().filter(matchesSearch);
+                    html = items.length
+                        ? items.map(renderTrialCard).join('')
+                        : '<div class="feed-empty">No clinical trials found' + (feedSearchTerm ? ' matching "' + esc(feedSearchTerm) + '"' : '') + '</div>';
+                } else {
+                    items = getNewDatasets().filter(matchesSearch);
+                    html = items.length
+                        ? items.map(renderDatasetCard).join('')
+                        : '<div class="feed-empty">No new datasets yet. The weekly scan adds entries here automatically.</div>';
+                }
+                list.innerHTML = html;
+
+                // Update counts
+                const pc = document.getElementById('papersCount');
+                const tc = document.getElementById('trialsCount');
+                const dc = document.getElementById('datasetsNewCount');
+                if (pc) pc.textContent = '(' + getPapers().length + ')';
+                if (tc) tc.textContent = '(' + getTrials().length + ')';
+                if (dc) dc.textContent = '(' + getNewDatasets().length + ')';
+
+                // Update timestamp
+                const upd = document.getElementById('feedUpdated');
+                if (upd) {
+                    const dates = [
+                        window.PAPERS_FEED && window.PAPERS_FEED.last_updated,
+                        window.CLINICAL_FEED && window.CLINICAL_FEED.last_updated,
+                        window.DATASETS_FEED && window.DATASETS_FEED.last_updated
+                    ].filter(Boolean).sort().reverse();
+                    upd.textContent = dates.length ? 'Last updated: ' + dates[0] : '';
+                }
+            }
+
+            // Feed tab switching
+            var feedTabsEl = document.getElementById('feedTabs');
+            if (feedTabsEl) {
+                feedTabsEl.addEventListener('click', function(e) {
+                    if (e.target.classList.contains('feed-tab')) {
+                        feedTabsEl.querySelectorAll('.feed-tab').forEach(function(t) { t.classList.remove('active'); });
+                        e.target.classList.add('active');
+                        activeFeed = e.target.dataset.feed;
+                        renderFeed();
+                    }
+                });
+            }
+
+            // Feed search
+            var feedSearchEl = document.getElementById('feedSearch');
+            if (feedSearchEl) {
+                feedSearchEl.addEventListener('input', function() {
+                    feedSearchTerm = feedSearchEl.value.trim();
+                    renderFeed();
+                });
+            }
+
+            // Initial render (delayed slightly to ensure feed JS files are loaded)
+            setTimeout(renderFeed, 100);
+        })();
     </script>
 </body>
 </html>
