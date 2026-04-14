@@ -1,0 +1,20 @@
+{
+  "pmid": "41951624",
+  "doi": "10.1038/s41420-026-03095-x",
+  "title": "Proteasome dysfunction underlies HERC2-linked neurodevelopmental disorder with Angelman-like clinical features",
+  "authors": "Sala-Gaston J et al.",
+  "journal": "Cell Death Discovery",
+  "date": "2026-04-08",
+  "abstract": "HERC2 biallelic variants cause NDD resembling Angelman. Proteomic analysis reveals proteasome as most prominently affected complex. Patient fibroblasts show aberrant proteasome activity.",
+  "source": "pubmed",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "autism_relevance": 5,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 5,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}

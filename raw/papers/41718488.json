@@ -1,0 +1,45 @@
+{
+  "pmid": "41718488",
+  "title": "Loss of cyclin-dependent kinase-like 5 results in susceptibility to audiogenic seizures in mice.",
+  "abstract": "CDKL5 deficiency disorder (CDD) is a severe neurodevelopmental encephalopathy characterized by early-onset, treatment-resistant epilepsy. Mice lacking CDKL5 display several clinically relevant phenotypes, but spontaneous seizures are not consistently reported, and it is unknown if CDD model mice are susceptible to sensory stimulus-triggered seizures, a well-documented clinical feature of CDD. Here, we tested the hypothesis that CDKL5 deficiency confers susceptibility to audiogenic seizures (AGS). We exposed adult male Cdkl5 knockout, female heterozygous, and wildtype littermates (P80-217) to audiogenic challenges and, in a separate cohort, monitored for spontaneous seizures. Audiogenic stimulation triggered severe, lethal (80%) seizures in Cdkl5 knockout mice. In contrast, heterozygous mice were largely resistant to audiogenic stimulus (92% survival). These findings establish susceptibility to AGS as a highly penetrant phenotype in a CDD mouse model. Furthermore, spontaneous seizures were detected in a subset of Cdkl5 knockout mice during chronic video-EEG monitoring. AGS may provide a translationally relevant screen for investigating hyperexcitability and for evaluating potential therapeutics to prevent seizures in CDD. PLAIN LANGUAGE SUMMARY: CDKL5 deficiency disorder (CDD) is a severe genetic condition causing early-onset seizures. Mice with the same mutation are useful models but don't consistently have epilepsy. We tested if these mice in our lab are sensitive to sound-triggered seizures. We discovered that male CDD mice are highly vulnerable to sound, which triggered severe seizures in most of them. Female CDD mice and normal mice were resistant. This is the first report of sound-triggered seizures in a CDD model and provides a useful new method to study epilepsy in CDD and screen for antiseizure treatments.",
+  "authors": [
+    "{'last_name': 'Higgins', 'fore_name': 'Jordan', 'initials': 'J', 'affiliations': ['Department of Physiology & Medical Physics, RCSI University of Medicine & Health Sciences, Dublin, Ireland.', 'FutureNeuro Research Ireland Centre for Translational Brain Science, RCSI University of Medicine & Health Sciences, Dublin, Ireland.']}",
+    "{'last_name': 'Egan', 'fore_name': 'Samuel', 'initials': 'S', 'affiliations': ['Department of Physiology & Medical Physics, RCSI University of Medicine & Health Sciences, Dublin, Ireland.', 'FutureNeuro Research Ireland Centre for Translational Brain Science, RCSI University of Medicine & Health Sciences, Dublin, Ireland.']}",
+    "{'last_name': 'El-Mansoury', 'fore_name': 'Bilal', 'initials': 'B', 'affiliations': ['Department of Physiology & Medical Physics, RCSI University of Medicine & Health Sciences, Dublin, Ireland.', 'FutureNeuro Research Ireland Centre for Translational Brain Science, RCSI University of Medicine & Health Sciences, Dublin, Ireland.']}",
+    "{'last_name': 'Henshall', 'fore_name': 'David C', 'initials': 'DC', 'affiliations': ['Department of Physiology & Medical Physics, RCSI University of Medicine & Health Sciences, Dublin, Ireland.', 'FutureNeuro Research Ireland Centre for Translational Brain Science, RCSI University of Medicine & Health Sciences, Dublin, Ireland.']}",
+    "{'last_name': 'Mamad', 'fore_name': 'Omar', 'initials': 'O', 'affiliations': ['Department of Physiology & Medical Physics, RCSI University of Medicine & Health Sciences, Dublin, Ireland.', 'FutureNeuro Research Ireland Centre for Translational Brain Science, RCSI University of Medicine & Health Sciences, Dublin, Ireland.']}"
+  ],
+  "journal": "Epilepsia open",
+  "date": {
+    "year": "2026",
+    "month": "02",
+    "day": "20"
+  },
+  "doi": "10.1002/epi4.70240",
+  "mesh_terms": [
+    "Animals",
+    "Epilepsy, Reflex",
+    "Mice, Knockout",
+    "Female",
+    "Male",
+    "Mice",
+    "Disease Models, Animal",
+    "Protein Serine-Threonine Kinases",
+    "Electroencephalography",
+    "Seizures",
+    "Acoustic Stimulation",
+    "Epileptic Syndromes",
+    "Mice, Inbred C57BL",
+    "Spasms, Infantile",
+    "Disease Susceptibility"
+  ],
+  "keywords": [
+    "CDKL5&#x2010;deficiency disorder",
+    "audiogenic seizures",
+    "epilepsy",
+    "spontaneous seizures"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

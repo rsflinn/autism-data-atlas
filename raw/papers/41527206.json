@@ -1,0 +1,62 @@
+{
+  "pmid": "41527206",
+  "title": "Black EquaLity in OCD NeuroGenomics (BELONG): Study Protocol.",
+  "abstract": "Obsessive-compulsive disorder (OCD) is a chronic, serious psychiatric disorder that affects 2%-3% of the population and is associated with high personal and societal costs. Genetic factors are estimated to explain roughly half the risk of developing OCD, and genomic studies are just beginning to identify common and rare genetic variants mediating this risk. A major goal of genomic studies is to yield insights into the etiology of OCD and identify molecular targets for the development of novel therapeutics. However, the overwhelming majority of subjects in existing genetic studies are of European ancestry, limiting the generalizability of these findings. To address this gap in understanding, we established the Black EquaLity in OCD NeuroGenomics (BELONG) study (https://belongocd.com/). BELONG aims to collect DNA and clinical data from 1250 richly phenotyped OCD cases of African ancestry in a culturally sensitive manner. In addition, BELONG includes the collection of parental DNA samples for trio-based analyses and unrelated matched controls for case-control analysis. DNA samples will be sequenced using optimized approaches that will allow us to examine both rare and common genome-wide variation to identify OCD risk genes. We will also meta-analyze these data with other existing OCD genomic data. Overall, BELONG will increase the representation of Black Americans in OCD genetic research, which is necessary to generalize precision medicine discoveries in psychiatric genetics.",
+  "authors": [
+    "{'last_name': 'Williams', 'fore_name': 'Iasha J', 'initials': 'IJ', 'affiliations': ['Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, Texas, USA.']}",
+    "{'last_name': 'Marquez', 'fore_name': 'Dalia Y', 'initials': 'DY', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Division of Tics, OCD, and Related Disorders, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Lopez-Lengowski', 'fore_name': 'Kara E', 'initials': 'KE', 'affiliations': ['Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.']}",
+    "{'last_name': 'Bommiasamy', 'fore_name': 'Malini', 'initials': 'M', 'affiliations': ['Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.']}",
+    "{'last_name': 'Onyeka', 'fore_name': 'Ogechi Cynthia', 'initials': 'OC', 'affiliations': ['Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, Texas, USA.']}",
+    "{'last_name': 'Underwood', 'fore_name': 'Slayton J', 'initials': 'SJ', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Avery', 'fore_name': 'Juliana E', 'initials': 'JE', 'affiliations': ['Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, Texas, USA.']}",
+    "{'last_name': 'Gluckman', 'fore_name': 'Jacob', 'initials': 'J', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Division of Tics, OCD, and Related Disorders, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Pichardo', 'fore_name': 'Thariana', 'initials': 'T', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Chandler', 'fore_name': 'Rhea', 'initials': 'R', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Brown', 'fore_name': 'Yulu', 'initials': 'Y', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Mangen', 'fore_name': 'Katie', 'initials': 'K', 'affiliations': ['Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, Texas, USA.']}",
+    "{'last_name': 'Choplin', 'fore_name': 'Emma Grace', 'initials': 'EG', 'affiliations': ['Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.']}",
+    "{}",
+    "{'last_name': 'Richardson', 'fore_name': 'Sonyia C', 'initials': 'SC', 'affiliations': ['School of Social Work, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.', 'Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.']}",
+    "{'last_name': 'Buxbaum', 'fore_name': 'Joseph D', 'initials': 'JD', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Mindich Child Health and Development Institute, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Friedman Brain Institute, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Department of Neuroscience, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Storch', 'fore_name': 'Eric A', 'initials': 'EA', 'affiliations': ['Department of Psychiatry and Behavioral Sciences, Baylor College of Medicine, Houston, Texas, USA.']}",
+    "{'last_name': 'Crowley', 'fore_name': 'James J', 'initials': 'JJ', 'affiliations': ['Department of Genetics, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.', 'Department of Psychiatry, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina, USA.']}",
+    "{'last_name': 'Hankerson', 'fore_name': 'Sidney H', 'initials': 'SH', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}",
+    "{'last_name': 'Grice', 'fore_name': 'Dorothy E', 'initials': 'DE', 'affiliations': ['Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Seaver Autism Center, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Division of Tics, OCD, and Related Disorders, Icahn School of Medicine at Mount Sinai, New York, New York, USA.', 'Mindich Child Health and Development Institute, Icahn School of Medicine at Mount Sinai, New York, New York, USA.']}"
+  ],
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "12"
+  },
+  "doi": "10.1002/ajmgb.70002",
+  "mesh_terms": [
+    "Humans",
+    "Obsessive-Compulsive Disorder",
+    "Genetic Predisposition to Disease",
+    "Genomics",
+    "Black or African American",
+    "Black People",
+    "Case-Control Studies",
+    "Female",
+    "Male",
+    "Polymorphism, Single Nucleotide",
+    "White People",
+    "Genome-Wide Association Study",
+    "White"
+  ],
+  "keywords": [
+    "African ancestry",
+    "Black",
+    "OCD",
+    "exome",
+    "genetic",
+    "genomic",
+    "obsessive&#x2010;compulsive disorder",
+    "trio"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

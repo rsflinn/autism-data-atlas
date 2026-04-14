@@ -1,0 +1,32 @@
+{
+  "id": "41947537",
+  "id_type": "pmid",
+  "title": "Convergent genetic pathways linking neuropsychiatric and ocular disorders in children",
+  "authors": "Pan M et al.",
+  "journal": "J Child Psychol Psychiatry",
+  "date": "2026-04-07",
+  "abstract": "Clinical and epidemiological studies conducted in children have suggested a potential link between neuropsychiatric and ocular disorders. We investigated the overall and local genetic correlations and causal relationship between eight neuropsychiatric disorders and five ocular disorders based on large-scale GWAS cohorts from PGC and UK Biobank. We discovered significant positive genetic correlations between ASD and myopia/astigmatism; inverse genetic correlation and potential causal relationship between ADHD and myopia/astigmatism. 124 loci were found to be shared between psychiatric diseases and refractive errors. Enrichment analyses highlighted early neurodevelopmental processes as key shared genetic mechanisms.",
+  "source": "pubmed",
+  "doi": "10.1111/jcpp.70151",
+  "score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 4,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 2
+  },
+  "genes": [
+    "SCN2A"
+  ],
+  "concepts": [
+    "GWAS",
+    "genetic correlation",
+    "pleiotropy",
+    "neurodevelopment",
+    "refractive error"
+  ],
+  "evidence_tier": "B"
+}

@@ -1,0 +1,116 @@
+{
+  "dataset_id": "encode",
+  "name": "ENCODE Project (Encyclopedia of DNA Elements)",
+  "short_name": "ENCODE",
+  "organization": "ENCODE Consortium (Lead: Zhiping Weng, Jill Moore at UMass Chan Medical School)",
+  "version": "Phase 4 (January 2026)",
+  "data_types": [
+    "ChIP-seq",
+    "ATAC-seq",
+    "DNase-seq",
+    "Hi-C",
+    "candidate cis-regulatory elements (cCREs)",
+    "STARR-seq",
+    "massively parallel reporter assays",
+    "CRISPR perturbation",
+    "transgenic mouse assays"
+  ],
+  "access_level": "PUBLIC",
+  "access_urls": {
+    "main_portal": "https://www.encodeproject.org/",
+    "screen_portal": "https://screen.wenglab.org/",
+    "screen_alternative": "https://screen.encodeproject.org/",
+    "ccre_github": "https://github.com/weng-lab/ENCODE-cCREs"
+  },
+  "genome_coverage": {
+    "organism": "Homo sapiens (human), Mus musculus (mouse)",
+    "human_ccres": 2373014,
+    "human_genome_fraction": 0.21,
+    "mouse_ccres": 926843,
+    "mouse_genome_fraction": 0.09,
+    "ccre_increase_over_encode3": "3-fold expansion (from 0.9M to 2.37M human cCREs)"
+  },
+  "brain_coverage": {
+    "cell_types_available": "Multiple brain-derived cell types including primary neurons, glia, oligodendrocytes, astrocytes, differentiated neural cells from iPSCs",
+    "developmental_stages": "Prenatal (8 PCW), postnatal through adult (40 years)",
+    "samples_note": "Brain tissue and brain-derived primary cells across multiple studies in consortium",
+    "assay_coverage": {
+      "atac_seq": true,
+      "chip_seq": true,
+      "dnase_seq": true,
+      "hi_c": true,
+      "rna_seq": true
+    }
+  },
+  "experiments": {
+    "total_human_experiments": 5712,
+    "total_mouse_experiments": 758,
+    "functional_validation": "90% of human cCREs functionally validated via STARR-seq, reporter assays, CRISPR, transgenic mouse assays"
+  },
+  "regulatory_relevance": "DIRECT",
+  "regulatory_relevance_explanation": "ENCODE provides direct functional annotation of regulatory elements and comprehensive chromatin maps. Enables variant-to-regulatory-element mapping, cell-type-specific regulatory annotation, and GWAS fine-mapping. Essential for identifying which noncoding variants affect regulatory elements.",
+  "publication_key": {
+    "title": "An expanded registry of candidate cis-regulatory elements",
+    "journal": "Nature",
+    "year": 2026,
+    "doi": "10.1038/s41586-025-09909-9",
+    "pmid": null,
+    "status": "Published January 2026"
+  },
+  "related_publications": [
+    {
+      "title": "Expanded encyclopaedias of DNA elements in the human and mouse genomes",
+      "journal": "Nature",
+      "year": 2020,
+      "doi": "10.1038/s41586-020-2493-4",
+      "description": "ENCODE Phase 3, foundational for current atlas development"
+    },
+    {
+      "title": "Regulatory transposable elements in the encyclopedia of DNA elements",
+      "journal": "Nature Communications",
+      "year": 2024,
+      "doi": "10.1038/s41467-024-51921-6",
+      "description": "Regulatory TEs as cis-regulatory elements in ENCODE"
+    }
+  ],
+  "backfill_phase": 1,
+  "priority": "critical",
+  "atlas_integration_status": "not_started",
+  "evidence_tier": "A",
+  "data_format": "BED, BAM, BigWig, GTF, JSON (via API)",
+  "estimated_storage_brain_subset": "80+ GB",
+  "download_methods": [
+    "ENCODE Portal direct download (browser)",
+    "SCREEN Portal (web interface, no download needed)",
+    "Google Cloud Storage (bulk, requester pays)",
+    "API access via ENCODE REST API"
+  ],
+  "computational_requirements": {
+    "disk_space": "80+ GB for brain-relevant experiments",
+    "memory": "16+ GB RAM for analysis of large datasets",
+    "cpu": "Multi-core recommended for processing"
+  },
+  "integration_plan": {
+    "phase_1": "Identify all ENCODE brain-derived cell types and assays; completeness check",
+    "phase_2": "Filter cCRE catalog for brain-specific regulatory elements; annotate by cell type",
+    "phase_3": "Cross-reference with autism candidate genes and noncoding variants",
+    "phase_4": "Build annotation pipeline for variant effect prediction using ENCODE profiles"
+  },
+  "atlas_outputs": [
+    "Annotated catalog of autism noncoding variants with ENCODE regulatory evidence",
+    "Cell-type-specific regulatory element annotations (BED/VCF format)",
+    "Brain-specific variant impact predictions (high-confidence via STARR-seq/CRISPR validation)"
+  ],
+  "technical_challenges": [
+    "Large data volume (80+ GB)",
+    "Cell type nomenclature standardization across datasets",
+    "Requires mapping to autism-relevant circuit nodes"
+  ],
+  "dependencies_for_atlas": [
+    "GTEx v8 (for tissue-level validation)",
+    "PsychENCODE GRN (for transcription factor connection)",
+    "Allen Brain Atlas (for cell-type taxonomy)"
+  ],
+  "last_updated": "2026-04-06",
+  "last_updated_by": "atlas_curator"
+}

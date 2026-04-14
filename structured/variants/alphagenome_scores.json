@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "tool": "AlphaGenome",
+    "scoring_date": "2026-04-06T19:52:30.076584",
+    "source_gwas": "Grove et al. 2019, Nature Genetics",
+    "source_doi": "10.1038/s41588-019-0344-8",
+    "variants_scored": 5,
+    "variants_failed": 0,
+    "tracks_note": "19 tracks per variant. Tracks 0-6 are normalized effect scores (CAGE, splice, RNA-seq, etc). Tracks 7-8 are contact maps. Tracks 9-12 are splice/junction tracks (empty for some variants). Tracks 13-18 are raw-scale scores (same modalities as 0-6 but unnormalized). Track 16 has the largest raw values across all variants."
+  },
+  "summary": {
+    "description": "Ranked by track 16 max effect (largest raw-scale track). All 5 variants show nonzero functional predictions, consistent with being regulatory rather than inert.",
+    "ranking": [
+      {"rank": 1, "rsid": "rs142920272", "locus": "17q21.31", "gene": "KANSL1", "gwas_p": 4.58e-08, "track16_max": 15024.0, "track16_mean": 2031.09},
+      {"rank": 2, "rsid": "rs201910565", "locus": "1p21.3",   "gene": "PTBP2",  "gwas_p": 2.48e-08, "track16_max": 7033.0,  "track16_mean": 1328.09},
+      {"rank": 3, "rsid": "rs910805",    "locus": "20p11.22", "gene": "KIF3B",  "gwas_p": 2.04e-09, "track16_max": 5619.6,  "track16_mean": 1394.15},
+      {"rank": 4, "rsid": "rs10099100",  "locus": "8p23.1",   "gene": "XKR6",   "gwas_p": 1.07e-08, "track16_max": 4899.0,  "track16_mean": 887.23},
+      {"rank": 5, "rsid": "rs13188074",  "locus": "5q21.2",   "gene": "NUDT12",  "gwas_p": 3.48e-08, "track16_max": 3774.5,  "track16_mean": 944.41}
+    ]
+  },
+  "full_results_file": "../../../mnt/uploads/alphagenome_asd_gwas_scores (3).json"
+}

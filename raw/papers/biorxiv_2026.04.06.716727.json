@@ -1,0 +1,20 @@
+{
+  "pmid": "biorxiv_2026.04.06.716727",
+  "doi": "10.64898/2026.04.06.716727",
+  "title": "Somatic variants activating the RAS-MAPK pathway confer susceptibility to hippocampal sclerosis in drug-resistant epilepsy",
+  "authors": "Warren LM et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-09",
+  "abstract": "Somatic RAS-MAPK variants in hippocampal sclerosis + drug-resistant epilepsy. Not autism-specific.",
+  "source": "biorxiv",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "autism_relevance": 2,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}

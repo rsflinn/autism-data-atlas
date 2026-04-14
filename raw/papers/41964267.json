@@ -1,0 +1,20 @@
+{
+  "pmid": "41964267",
+  "title": "Reliability and stability of cerebral palsy classification scales for individuals with STXBP1- and SYNGAP1-related disorders",
+  "authors": "Pierce SR, Orlando JM, Cunningham KG, Ruggiero SM, Kaufman MC, Mckee JL, Helbig I",
+  "journal": "Developmental Medicine and Child Neurology",
+  "date": "2026-04-10",
+  "abstract": "Determines interrater reliability and stability of GMFCS, MACS/Mini-MACS, and CFCS in individuals with STXBP1- and SYNGAP1-related disorders. N=83 STXBP1, N=101 SYNGAP1 from prospective natural history study.",
+  "doi": "10.1111/dmcn.70265",
+  "source": "pubmed",
+  "relevance_score": 15,
+  "score_breakdown": {
+    "autism_relevance": 5,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 3,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE"
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "40929566",
+  "title": "FDG PET Findings in Rare Brain Sodium Channelopathy Associated with SCN2A Gene Mutation.",
+  "abstract": "SCN2A gene mutations, which affect the function of the voltage-gated sodium channel NaV1.2, are associated with a spectrum of neurological disorders, including epileptic encephalopathies and autism spectrum disorders. Advanced imaging modalities such as magnetic resonance imaging (MRI) and positron emission tomography (PET) have been instrumental in elucidating the neuroanatomic and functional alterations associated with these mutations.",
+  "authors": [
+    "{'last_name': 'Seniaray', 'fore_name': 'Nikhil', 'initials': 'N', 'affiliations': ['Department of Nuclear Medicine & PET/CT, Mahajan Imaging & Labs.', 'Department of Nuclear Medicine & PET/CT, Sir Ganga Ram Hospital.']}",
+    "{'last_name': 'Verma', 'fore_name': 'Ritu', 'initials': 'R', 'affiliations': ['Department of Nuclear Medicine & PET/CT, Mahajan Imaging & Labs.']}",
+    "{'last_name': 'Kumar', 'fore_name': 'Praveen', 'initials': 'P', 'affiliations': ['Department of Pediatric Neurology, Sir Ganga Ram Hospital, Rajinder Nagar, New Delhi, India.']}",
+    "{'last_name': 'Belho', 'fore_name': 'Ethel', 'initials': 'E', 'affiliations': ['Department of Nuclear Medicine & PET/CT, Mahajan Imaging & Labs.']}"
+  ],
+  "journal": "Clinical nuclear medicine",
+  "date": {
+    "year": "2025",
+    "month": "09",
+    "day": "10"
+  },
+  "doi": "10.1097/RLU.0000000000006110",
+  "mesh_terms": [
+    "Humans",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Positron-Emission Tomography",
+    "Mutation",
+    "Fluorodeoxyglucose F18",
+    "Brain",
+    "Channelopathies",
+    "Male",
+    "Female"
+  ],
+  "keywords": [
+    "FDG PET",
+    "MRI",
+    "SCN2A"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

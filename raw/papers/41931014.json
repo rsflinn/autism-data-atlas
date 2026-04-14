@@ -1,0 +1,12 @@
+{
+  "pmid": "41931014",
+  "title": "Autism whole genome sequencing cohort/trio study (metadata pending)",
+  "date_added": "2026-04-04",
+  "source": "pubmed_weekly_scan",
+  "scan_query": "autism AND whole genome sequencing AND (cohort OR family OR trio)",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "notes": "Retrieved by WGS cohort/trio query. Appears to be a new or recently-indexed WGS autism family study. PubMed metadata API was unavailable during scan; full integration pending. Check for SRA/dbGaP data deposition.",
+  "pubmed_metadata_status": "pending - API error during scan",
+  "potential_dataset": true
+}

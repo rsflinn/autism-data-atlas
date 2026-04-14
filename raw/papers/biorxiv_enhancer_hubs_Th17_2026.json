@@ -1,0 +1,20 @@
+{
+  "doi": "10.64898/2026.04.02.715458",
+  "title": "Enhancer hubs govern chromatin topology and Th17 identity",
+  "authors": "Siklenka K, Zhang C, Li L, Parker ME, Mehta NU, Barrera A, Venukuttan R, Crawford GE, Gersbach CA, Ciofani M, Reddy TE",
+  "journal": "bioRxiv (preprint)",
+  "date": "2026-04-05",
+  "abstract": "A wealth of noncoding regulatory elements has been described across mammalian cell types, yet determining their functional role remains a challenge. Regulatory control of gene expression is critical during cell differentiation and identity maintenance. This study examines enhancer hubs that govern chromatin topology and Th17 cell identity.",
+  "source": "biorxiv",
+  "relevance_score": 16,
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 3,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "decision": "INTEGRATE",
+  "note": "Methods-relevant only. Enhancer hub and chromatin topology approaches applicable to autism regulatory analysis, but study content is immunology (Th17 cells), not brain or autism."
+}

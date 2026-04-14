@@ -1,0 +1,22 @@
+{
+  "doi": "10.1101/2025.04.11.648472",
+  "title": "Analysis of 14q12 microdeletions reveals novel regulatory loci for the neurodevelopmental disorder-related gene, FOXG1",
+  "authors": "Ramamurthy, A.; Bandouil, M. D.; Aluru, L.; Joshi, O.; Yoon, E.; Bodkin, N.; Cheng, J. Z.; Biar, C. G.; Calhoun, J. D.; Carvill, G. L.",
+  "date": "2026-03-30",
+  "server": "biorxiv",
+  "category": "genetics",
+  "source": "weekly_preprint_sweep",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "scoring_notes": {
+    "neurodevelopmental_disorder_gene": 5,
+    "noncoding_regulatory_variants": 5,
+    "structural_variants": 3,
+    "novel_regulatory_loci": 5,
+    "total": 18
+  },
+  "abstract_preview": "Up to 17% of neurodevelopmental disorders (NDDs) can be explained by pathogenic structural variants (SVs) that disrupt coding regions and elicit gene dosage defects. However, noncoding SVs which can perturb gene regulation are increasingly recognized as disease-relevant.",
+  "atlas_relevance": "Directly addresses noncoding regulatory SVs in neurodevelopmental disorders - exactly the atlas focus. FOXG1 is not yet in atlas gene pages. Identifies novel cis-regulatory elements for FOXG1 via 14q12 microdeletion mapping. High relevance to 'Noncoding Variants in Autism' concept page.",
+  "genes_mentioned": ["FOXG1"],
+  "suggested_gene_page": "FOXG1 - strong candidate for new gene page; multiple NDDs, regulatory element work directly relevant"
+}

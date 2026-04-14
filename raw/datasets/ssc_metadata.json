@@ -1,0 +1,152 @@
+{
+  "id": "ssc",
+  "name": "Simons Simplex Collection",
+  "short_name": "SSC",
+  "consortium": "Simons Foundation",
+  "parent_organization": "Simons Foundation Autism Research Initiative (SFARI)",
+  "data_types": ["WGS", "WES", "genotyping", "phenotype", "deep_phenotype"],
+  "sample_size": "Approximately 2,600 simplex families (one affected child, unaffected parents, 80%+ with unaffected sibling); WGS from 6,383 individuals across 2,274 families as of SFARI_SSC_WGS_2a release",
+  "access_level": "CONTROLLED",
+  "access_url": "https://www.sfari.org/resource/simons-simplex-collection/",
+  "wgs_available": true,
+  "wes_available": true,
+  "phenotype_depth": "deep",
+  "has_noncoding_data": true,
+  "has_family_structure": true,
+  "has_simplex_design": true,
+  "has_epilepsy_data": false,
+  "has_iq_data": true,
+  "has_ados_data": true,
+  "has_vineland_data": true,
+  "has_medical_history": true,
+  "backfill_phase": 1,
+  "atlas_integration_status": "not_started",
+  "evidence_tier": "C",
+  "last_updated": "2026-04-06",
+  "access_requirements": {
+    "institution_affiliation_required": true,
+    "approval_timeline_weeks": "4-12",
+    "platform": "SFARI Base",
+    "embargo_months": 0
+  },
+  "family_structure": {
+    "design": "Simplex families only",
+    "definition": "One child with autism spectrum disorder (ASD), unaffected parents, unaffected sibling when available",
+    "total_families": 2600,
+    "families_with_wgs": 2274,
+    "unaffected_siblings_percent": 80,
+    "optimal_for_de_novo_discovery": true
+  },
+  "phenotyping": {
+    "depth": "Rigorous and comprehensive",
+    "standardization": "Highly standardized phenotyping protocol",
+    "available_measures": [
+      "Autism Diagnostic Interview (ADI)",
+      "Autism Diagnostic Observation Schedule (ADOS)",
+      "Vineland Adaptive Behavior Scales",
+      "Wechsler Intelligence Scales (IQ)",
+      "Medical history and comorbidities",
+      "Developmental history",
+      "Family psychiatric history"
+    ]
+  },
+  "genome_coverage": {
+    "depth": "30x coverage typical",
+    "platform": "Illumina sequencing (primary)",
+    "complementary_data": "Whole exome sequencing also available for subset"
+  },
+  "gene_coverage": "genome-wide",
+  "key_publications": [
+    {
+      "pmid": "20955926",
+      "title": "The Simons Simplex Collection: A Resource for Identification of Autism Genetic Risk Factors",
+      "authors": "Fischbach GD, Lord C",
+      "year": 2010,
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2010.05.014",
+      "relevance": "Original SSC resource paper describing family structure and phenotyping"
+    },
+    {
+      "pmid": "25363768",
+      "title": "The contribution of de novo coding mutations to autism spectrum disorder",
+      "authors": "Iossifov I, et al.",
+      "year": 2014,
+      "journal": "Nature",
+      "doi": "10.1038/nature13908",
+      "relevance": "Landmark study showing 30% of simplex cases driven by de novo mutations; genome-wide discovery"
+    },
+    {
+      "pmid": "26364307",
+      "title": "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci",
+      "authors": "Sanders SJ, et al.",
+      "year": 2015,
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2015.09.029",
+      "relevance": "TADA analysis combining SSC and ASC data; definitive list of high-confidence autism genes"
+    },
+    {
+      "pmid": "40468385",
+      "title": "Identifying associations of de novo noncoding variants with autism through integration of gene expression, sequence, and sex information",
+      "year": 2024,
+      "journal": "Nature Genetics",
+      "relevance": "Recent noncoding variant analysis from SSC WGS data"
+    }
+  ],
+  "available_analyses": [
+    "De novo mutation discovery (coding and noncoding)",
+    "Gene identification and prioritization",
+    "Genetic architecture of autism",
+    "Sex differences in genetic effects",
+    "Phenotype-genotype correlations",
+    "Functional annotation of variants",
+    "Family transmission and segregation analysis",
+    "Inherited variant burden analysis"
+  ],
+  "noncoding_variant_data": {
+    "de_novo_noncoding_available": true,
+    "regulatory_variant_available": true,
+    "intronic_variant_available": true,
+    "intergenic_variant_available": true,
+    "estimated_noncoding_de_novo_contribution": "4.3% of autism cases (recent WGS analysis)",
+    "note": "WGS enables comprehensive noncoding variant detection not possible with WES"
+  },
+  "clinical_phenotypes": {
+    "epilepsy_seizure_data": false,
+    "medical_history": true,
+    "behavioral_assessment": true,
+    "intellectual_disability": true,
+    "language_impairment": true,
+    "adaptive_functioning": true,
+    "psychiatric_comorbidity": "Family history available"
+  },
+  "de_novo_contribution_estimates": {
+    "coding_de_novo_percent": 30,
+    "female_coding_de_novo_percent": 45,
+    "noncoding_de_novo_percent": 4.3,
+    "total_simplex_explained_percent": "34-39"
+  },
+  "regulatory_relevance": "comprehensive",
+  "receptor_separation_relevance": "not_applicable",
+  "research_impact": "Foundation for >100 publications on autism genetic architecture",
+  "data_use_restrictions": "Not-For-Profit Research Use",
+  "quality_metrics": {
+    "phenotype_standardization": "Gold standard",
+    "genetic_quality": "High (30x WGS)",
+    "family_structure_rigor": "Optimal for de novo discovery",
+    "validation_studies": true
+  },
+  "distinctive_features": [
+    "Simplex-only design is optimal for de novo variant discovery",
+    "Deepest phenotyping of any major autism cohort",
+    "Gold-standard resource for validating autism genes",
+    "Primary discovery resource for de novo mutations in autism",
+    "Foundation for most major autism gene discoveries 2010-2025"
+  ],
+  "sources": [
+    "https://www.sfari.org/resource/simons-simplex-collection/",
+    "https://pubmed.ncbi.nlm.nih.gov/20955926/",
+    "https://pubmed.ncbi.nlm.nih.gov/25363768/",
+    "https://pubmed.ncbi.nlm.nih.gov/26364307/",
+    "https://pubmed.ncbi.nlm.nih.gov/40468385/"
+  ]
+}

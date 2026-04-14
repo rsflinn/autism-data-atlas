@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 123,
+  "date": "2026-03-27",
+  "author": "@lizzyzhao",
+  "summary": "AlphaFold2 Multimer predicts ~28K protein-protein interactions in Drosophila (PLOS Comp Bio)",
+  "category": "Science Findings",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - structural biology dataset, computational biology methods",
+  "link": "",
+  "ingested_at": "2026-04-04T12:36:44.168533",
+  "atlas_integration_status": "pending"
+}

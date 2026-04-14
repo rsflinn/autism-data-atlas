@@ -1,0 +1,44 @@
+{
+  "pmid": "41384780",
+  "title": "Functional evaluation of NAA10 variants in patients with Ogden syndrome.",
+  "abstract": "The catalytic subunit of NatA, the main component of the N-terminal acetyltransferase complex, which is involved in most of the acetylation of the human proteome, is encoded by the NAA10 gene. Mutations in the NAA10 gene lead to neurodegenerative diseases associated with disruption of acetylation. Ogden syndrome (OS) is a rare X-linked recessive or dominantly inherited disorder associated with NAA10 gene mutations, characterized by variable findings such as autism spectrum disorder, intellectual disability, and cardiac anomalies. In this article, it is aimed to clarify the functionality of two novel NAA10 gene variants in two female patients with OS.\n\nA whole-exome sequencing (WES) study was performed from the blood samples of the patients. The effects of the two variants found by tertiary structure modeling, protein stability analysis, and molecular docking analyses on NAA10 were examined.\n\nAutism, intellectual retardation, and epilepsy were prominent in the patients, and heterozygous variants c.346C>T and c.439A>T in the NAA10 gene were detected in WES. The clinical findings were compatible with OS. The p.Arg116Trp and p.Met147Leu changes in the NAA10 gene caused changes in the overall topological structure of NAA10, including the substrate and ligand binding site.\n\nIn this study, c.346C>T and c.439A>T variants were found to alter the functional stability, structure, and energy of NAA10. Functional analyses of NAA10 variants in two rare OS patients have once again demonstrated that novel variants are essential studies for phenotype-genotype correlation association steps.",
+  "authors": [
+    "{'last_name': 'Aydin Gumus', 'fore_name': 'Aydeniz', 'initials': 'A', 'affiliations': ['Department of Medical Genetics, Basaksehir Cam and Sakura City Hospital, Istanbul.']}",
+    "{'last_name': 'Dogan', 'fore_name': 'Mustafa', 'initials': 'M', 'affiliations': ['Department of Medical Genetics, Basaksehir Cam and Sakura City Hospital, Istanbul.']}",
+    "{'last_name': 'Gezdirici', 'fore_name': 'Alper', 'initials': 'A', 'affiliations': ['Department of Medical Genetics, Basaksehir Cam and Sakura City Hospital, Istanbul.']}",
+    "{'last_name': 'Akbulut', 'fore_name': 'Ekrem', 'initials': 'E', 'affiliations': ['Department of Bioengineering, Malatya Turgut Ozal University, Malatya.']}",
+    "{'last_name': 'Kinay Ermis', 'fore_name': 'Duygu', 'initials': 'D', 'affiliations': ['Department of Child and Adolescent Mental Health, Basaksehir Cam and Sakura City Hospital, Istanbul, Turkey.']}"
+  ],
+  "journal": "Psychiatric genetics",
+  "date": {
+    "year": "2025",
+    "month": "12",
+    "day": "09"
+  },
+  "doi": "10.1097/YPG.0000000000000409",
+  "mesh_terms": [
+    "Child",
+    "Female",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Exome Sequencing",
+    "Heart Defects, Congenital",
+    "Intellectual Disability",
+    "Molecular Docking Simulation",
+    "Mutation",
+    "N-Terminal Acetyltransferase A",
+    "N-Terminal Acetyltransferase E",
+    "Pedigree",
+    "Genetic Diseases, X-Linked"
+  ],
+  "keywords": [
+    "Ogden syndrome",
+    "autism",
+    "gene",
+    "structure",
+    "tertiary"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

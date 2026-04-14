@@ -1,0 +1,29 @@
+{
+  "pmid": "41845890",
+  "title": "Clinical and genetic characterization of intellectual disability.",
+  "abstract": "To examine the clinical and genetic characteristics of intellectual disability.\n\nWe conducted a population-based retrospective analysis on the clinical and genetic data of 959 children with diagnosed intellectual disability during a 5-year period (2017-2021) at Oulu University Hospital, Finland.\n\nPathogenic or likely pathogenic gene variants were detected in 89 of 194 patients (46%) who underwent exome sequencing. Chromosomal abnormalities, including those with low penetrance, were observed in 106 of 530 patients (20%) who underwent chromosomal microarray testing. Chromosomal abnormalities and causative gene variants were more frequently identified in patients with moderate to profound intellectual disability than in those with mild intellectual disability; however, this difference was not significant in the diagnostic yield analysis. Epilepsy, congenital heart disease, hearing loss, ophthalmological abnormalities, and autism spectrum disorder were more common among patients with moderate to profound intellectual disability, whereas attention-deficit/hyperactivity disorder was associated with mild intellectual disability. Chromosomal abnormalities were associated with congenital heart disease and hearing loss, while pathogenic gene variants were associated with epilepsy and ophthalmological abnormalities.\n\nSomatic comorbidities were more common in moderate to profound intellectual disability, whereas attention-deficit/hyperactivity disorder was more frequent in mild intellectual disability.",
+  "authors": [
+    "{'last_name': 'Venetvaara', 'fore_name': 'Aarni', 'initials': 'A', 'affiliations': ['Clinical Genetics Unit, Oulu University Hospital, Oulu, Finland.', 'Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.']}",
+    "{'last_name': 'Kraatari-Tiri', 'fore_name': 'Minna', 'initials': 'M', 'affiliations': ['Clinical Genetics Unit, Oulu University Hospital, Oulu, Finland.', 'Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.']}",
+    "{'last_name': 'Tolonen', 'fore_name': 'Jussi-Pekka', 'initials': 'JP', 'affiliations': ['Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.', 'Pediatric Neurology Unit, Oulu University Hospital, Oulu, Finland.']}",
+    "{'last_name': 'Merikukka', 'fore_name': 'Marko', 'initials': 'M', 'affiliations': ['Research Service Unit, Research Unit of Clinical Medicine, Oulu University Hospital, Oulu, Finland.']}",
+    "{'affiliations': ['Clinical Genetics Unit, Oulu University Hospital, Oulu, Finland.', 'Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.', 'Northern Finland Laboratory Centre, NordLab, Oulu, Finland.', 'Intellectual Disabilities Unit, Oulu University Hospital, Oulu, Finland.']}",
+    "{'last_name': 'Komulainen-Ebrahim', 'fore_name': 'Jonna', 'initials': 'J', 'affiliations': ['Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.', 'Pediatric Neurology Unit, Oulu University Hospital, Oulu, Finland.']}",
+    "{'last_name': 'Moilanen', 'fore_name': 'Jukka', 'initials': 'J', 'affiliations': ['Clinical Genetics Unit, Oulu University Hospital, Oulu, Finland.', 'Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.']}",
+    "{'last_name': 'Uusimaa', 'fore_name': 'Johanna', 'initials': 'J', 'affiliations': ['Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.', 'Pediatric Neurology Unit, Oulu University Hospital, Oulu, Finland.']}",
+    "{'last_name': 'Kuismin', 'fore_name': 'Outi', 'initials': 'O', 'affiliations': ['Clinical Genetics Unit, Oulu University Hospital, Oulu, Finland.', 'Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.']}",
+    "{'last_name': 'Rahikkala', 'fore_name': 'Elisa', 'initials': 'E', 'affiliations': ['Clinical Genetics Unit, Oulu University Hospital, Oulu, Finland.', 'Research Unit of Clinical Medicine and Medical Research Center Oulu, Oulu University Hospital and University of Oulu, Oulu, Finland.', 'Genomics Unit, Laboratory Division, Turku University Hospital, Turku, Finland.']}"
+  ],
+  "journal": "Developmental medicine and child neurology",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "17"
+  },
+  "doi": "10.1111/dmcn.70252",
+  "mesh_terms": [],
+  "keywords": [],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

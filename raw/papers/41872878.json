@@ -1,0 +1,47 @@
+{
+  "pmid": "41872878",
+  "title": "Co-occurrence of rare variants implicates gene pairs in cytoskeletal pathways and is associated with increased severity in autism spectrum disorder.",
+  "abstract": "The genetic basis of autism spectrum disorder (ASD) is complicated by high heritability and substantial heterogeneity, in which de novo variants and polygenic burden from common variants have not been comprehensively elucidated. Increasing evidence indicates that aggregates of rare variants can exert additive or synergistic effects that modulate disease risk. Using an approach that considers variant co-occurrence, we aim to detect the contribution of rare variants with modest effect in ASD.\n\nWe analyze large-scale genomic data from individuals of East-Asian and European ancestry and identify disrupted gene pairs affected by co-occurring rare deleterious variants. Candidate genes comprising disrupted gene pairs are enriched in cytoskeletal pathways, and those involving cytoskeletal genes are highly co-expressed in neural precursor cells. Phenotype analysis reveals that affected males with co-occurring rare variants in disrupted gene pairs exhibit increased symptom severity, a pattern not observed in females. Unaffected parents harboring these variants display elevated autistic traits, suggesting potential impacts beyond diagnosed individuals.\n\nThis study employs large-scale, multi-ancestry genomic datasets to identify gene pairs affected by the co-occurrence of rare variants and assess their biological and clinical impact. Our findings highlight the significance of rare variants with modest effects in ASD and offer insights into the complex mechanisms underlying ASD.",
+  "authors": [
+    "{'last_name': 'Lee', 'fore_name': 'Hyeji', 'initials': 'H', 'affiliations': ['Department of Integrated Biomedical and Life Science, Korea University, Seoul, 02841, Republic of Korea.', 'L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, 02841, Republic of Korea.', 'National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Ko', 'fore_name': 'Kahee', 'initials': 'K', 'affiliations': ['Department of Anatomy, Korea University College of Medicine, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Kim', 'fore_name': 'Seoyeon', 'initials': 'S', 'affiliations': ['Department of Integrated Biomedical and Life Science, Korea University, Seoul, 02841, Republic of Korea.', 'L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Lee', 'fore_name': 'Ganghee', 'initials': 'G', 'affiliations': ['Department of Integrated Biomedical and Life Science, Korea University, Seoul, 02841, Republic of Korea.', 'L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Kim', 'fore_name': 'Soowhee', 'initials': 'S', 'affiliations': ['Department of Integrated Biomedical and Life Science, Korea University, Seoul, 02841, Republic of Korea.', 'L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, 02841, Republic of Korea.', 'National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Lee', 'fore_name': 'Jihae', 'initials': 'J', 'affiliations': ['School of Biosystems and Biomedical Science, College of Health Science, Korea University, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Song', 'fore_name': 'Da-Yea', 'initials': 'DY', 'affiliations': ['Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea.', 'Department of Psychiatry, Seoul National University College of Medicine, Seoul, 03080, Republic of Korea.']}",
+    "{'last_name': 'Bong', 'fore_name': 'Guiyoung', 'initials': 'G', 'affiliations': ['Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea.']}",
+    "{'last_name': 'Han', 'fore_name': 'Jae Hyun', 'initials': 'JH', 'affiliations': ['Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea.', 'Department of Psychiatry, Seoul National University College of Medicine, Seoul, 03080, Republic of Korea.']}",
+    "{'last_name': 'Lee', 'fore_name': 'Jeewon', 'initials': 'J', 'affiliations': ['Department of Psychiatry, Soonchunhyang University Bucheon Hospital, Bucheon-si, Gyeonggi-do, Republic of Korea.']}",
+    "{'last_name': 'Kim', 'fore_name': 'Ye Rim', 'initials': 'YR', 'affiliations': ['Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea.', 'Department of Psychiatry, Seoul National University College of Medicine, Seoul, 03080, Republic of Korea.']}",
+    "{'last_name': 'Lee', 'fore_name': 'Yoojeong', 'initials': 'Y', 'affiliations': ['Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea.', 'Department of Psychiatry, Seoul National University College of Medicine, Seoul, 03080, Republic of Korea.']}",
+    "{'last_name': 'Kim', 'fore_name': 'Eunjoon', 'initials': 'E', 'affiliations': ['Department of Biological Sciences, Korea Advanced Institute of Science and Technology, Daejeon, Republic of Korea.', 'Center for Synaptic Brain Dysfunctions, Institute for Basic Science, Daejeon, Republic of Korea.']}",
+    "{'last_name': 'B&#xf8;rglum', 'fore_name': 'Anders D', 'initials': 'AD', 'affiliations': ['The Lundbeck Foundation Initiative for Integrative Psychiatric Research, iPSYCH, Aarhus, Denmark.', 'Center for Genomics and Personalized Medicine, Aarhus, Denmark.', 'Department of Biomedicine, Aarhus University, Aarhus, Denmark.']}",
+    "{'last_name': 'Grove', 'fore_name': 'Jakob', 'initials': 'J', 'affiliations': ['The Lundbeck Foundation Initiative for Integrative Psychiatric Research, iPSYCH, Aarhus, Denmark.', 'Center for Genomics and Personalized Medicine, Aarhus, Denmark.', 'Department of Biomedicine, Aarhus University, Aarhus, Denmark.', 'Bioinformatics Research Centre, BiRC, Aarhus University, Aarhus, Denmark.']}",
+    "{'last_name': 'Kim', 'fore_name': 'So Hyun', 'initials': 'SH', 'affiliations': ['School of Psychology, Korea University, Seoul, Republic of Korea.']}",
+    "{'last_name': 'Sun', 'fore_name': 'Woong', 'initials': 'W', 'affiliations': ['Department of Anatomy, Korea University College of Medicine, Seoul, 02841, Republic of Korea.']}",
+    "{'last_name': 'Yoo', 'fore_name': 'Hee Jeong', 'initials': 'HJ', 'affiliations': ['Department of Psychiatry, Seoul National University Bundang Hospital, Seongnam, 13620, Republic of Korea. hjyoo@snu.ac.kr.', 'Department of Psychiatry, Seoul National University College of Medicine, Seoul, 03080, Republic of Korea. hjyoo@snu.ac.kr.']}",
+    "{'last_name': 'An', 'fore_name': 'Joon-Yong', 'initials': 'JY', 'affiliations': ['Department of Integrated Biomedical and Life Science, Korea University, Seoul, 02841, Republic of Korea. joonan30@korea.ac.kr.', 'L-HOPE Program for Community-Based Total Learning Health Systems, Korea University, Seoul, 02841, Republic of Korea. joonan30@korea.ac.kr.', 'National Research Laboratory for Convergence Degradation Biology, Korea University, Seoul, 02841, Republic of Korea. joonan30@korea.ac.kr.', 'School of Biosystems and Biomedical Science, College of Health Science, Korea University, Seoul, 02841, Republic of Korea. joonan30@korea.ac.kr.']}"
+  ],
+  "journal": "Genome biology",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "23"
+  },
+  "doi": "10.1186/s13059-026-04041-x",
+  "mesh_terms": [],
+  "keywords": [
+    "ASD",
+    "Cell-type specificity",
+    "Cytoskeleton pathway",
+    "Gene combinations",
+    "Phenotypic heterogeneity",
+    "Rare variants",
+    "Whole-exome sequencing",
+    "Whole-genome sequencing"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

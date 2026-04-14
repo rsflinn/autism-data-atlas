@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 61,
+  "date": "2026-03-22",
+  "author": "@unknown",
+  "summary": "LiteLLM supply chain security vulnerability",
+  "category": "AI Workflow / Tools",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - security awareness for AI tool dependencies",
+  "link": "https://x.com/unknown/status/litellm_attack",
+  "ingested_at": "2026-04-04T12:36:44.131122",
+  "atlas_integration_status": "pending"
+}

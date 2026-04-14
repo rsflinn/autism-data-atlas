@@ -1,0 +1,12 @@
+{
+  "pmid": "41898708",
+  "title": "Single-cell genomics study of autism spectrum disorder - cell-type-specific transcriptomic signatures (dataset-linked)",
+  "date_added": "2026-04-04",
+  "source": "pubmed_weekly_scan",
+  "scan_query": "autism AND (scRNA-seq OR ATAC-seq) AND dataset",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "notes": "Retrieved by GEO/SRA scan query. Based on search context, appears related to single-nucleus RNA-seq of autism postmortem brain. PubMed metadata API was unavailable during scan; full integration pending manual review. Likely deposited data in GEO. High priority for follow-up to retrieve GEO accession.",
+  "pubmed_metadata_status": "pending - API error during scan",
+  "potential_dataset": true
+}

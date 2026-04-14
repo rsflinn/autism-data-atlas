@@ -1,0 +1,51 @@
+{
+  "pmid": "41898648",
+  "title": "So Fragile, So Human: Noncoding DNA Regions Orchestrating Gene Expression Involved in Neurodevelopmental Disorders and in Human Brain Evolution.",
+  "abstract": "The development of the human brain starts with the orchestrated expression of our genes during embryogenesis. Non-protein-coding DNA sequences (gene promoters and enhancers) dynamically interact to form a three-dimensional (3D) network, orchestrating gene expression. We discuss novel perspectives on how DNA sequence variants within regulatory DNA, identified by whole-genome sequencing (WGS), contribute to the development of neurodevelopmental disorders (NDDs), including autism spectrum disorders (ASDs). We discuss two recent models explaining the evolution of a subset of regulatory sequences, Human Accelerated DNA Regions (HARs), proposed to be involved in the evolution of uniquely human brain features through their participation in the 3D interactions network. We connect this with the recent proposal that rare, recessive inherited sequence variants within HARs, interacting with distant target genes in neural cells, represent risk factors for the development of ASDs. The SOX2 transcription factor, whose heterozygous mutation causes NDDs, shapes the noncoding-DNA interaction network in neural cells, and binds DNA together with FOS, whose recognition sequence is enriched within HARs carrying human-specific substitutions modulating enhancer activity. SOX2 also binds regulatory regions (including HARs) carrying ASD-associated mutations. We highlight research directions based on these findings, which will hopefully improve our understanding of the connection between SOX2-dependent gene regulatory networks, NDDs, and brain evolution.",
+  "authors": [
+    "{'last_name': 'Marenco', 'fore_name': 'Carolina', 'initials': 'C', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Pozzolini', 'fore_name': 'Giorgia', 'initials': 'G', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Casciaro', 'fore_name': 'Martina', 'initials': 'M', 'affiliations': ['Dipartimento di Farmacia e Biotecnologie, Universit&#xe0; di Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Morales', 'fore_name': 'Matheo', 'initials': 'M', 'affiliations': ['Department of Genetics, Yale School of Medicine, New Haven, CT 06510, USA.']}",
+    "{'last_name': 'Barone', 'fore_name': 'Cristiana', 'initials': 'C', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Morciano', 'fore_name': 'Delia', 'initials': 'D', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Barillari', 'fore_name': 'Cristian', 'initials': 'C', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Zakirova', 'fore_name': 'Elvira', 'initials': 'E', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Antoniazzi', 'fore_name': 'Gabriele', 'initials': 'G', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Lahoud', 'fore_name': 'Theresa', 'initials': 'T', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Mosconi', 'fore_name': 'Filippo', 'initials': 'F', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}",
+    "{'last_name': 'Cabassi', 'fore_name': 'Davide', 'initials': 'D', 'affiliations': ['Conservatorio Luca Marenzio, 25121 Brescia, Italy.']}",
+    "{'last_name': 'Noonan', 'fore_name': 'James P', 'initials': 'JP', 'affiliations': ['Department of Genetics, Yale School of Medicine, New Haven, CT 06510, USA.']}",
+    "{'last_name': 'Bacchelli', 'fore_name': 'Elena', 'initials': 'E', 'affiliations': ['Dipartimento di Farmacia e Biotecnologie, Universit&#xe0; di Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Nicolis', 'fore_name': 'Silvia K', 'initials': 'SK', 'affiliations': ['Dipartimento di Biotecnologie e Bioscienze, Universit&#xe0; di Milano-Bicocca, 20126 Milano, Italy.']}"
+  ],
+  "journal": "International journal of molecular sciences",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "19"
+  },
+  "doi": "10.3390/ijms27062785",
+  "mesh_terms": [
+    "Humans",
+    "Brain",
+    "Neurodevelopmental Disorders",
+    "Autism Spectrum Disorder",
+    "Gene Expression Regulation",
+    "Evolution, Molecular",
+    "SOXB1 Transcription Factors"
+  ],
+  "keywords": [
+    "SOX2",
+    "autism",
+    "brain development",
+    "gene regulation",
+    "gene regulatory networks",
+    "nervous system",
+    "neurodevelopmental disorders",
+    "transcription factors"
+  ],
+  "pmc": "PMC13026096",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 125,
+  "date": "2026-03-27",
+  "author": "@HaoYin20",
+  "summary": "scRNAseq Human Lung Aging: 60 donors, 200K cells, transcriptional entropy metric",
+  "category": "Science Findings",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - single-cell aging atlas, methodological insight on entropy",
+  "link": "",
+  "ingested_at": "2026-04-04T12:36:44.169485",
+  "atlas_integration_status": "pending"
+}

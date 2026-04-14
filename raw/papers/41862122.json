@@ -1,0 +1,30 @@
+{
+  "pmid": "41862122",
+  "title": "Polymorphisms in GPCR genes: Their role in schizophrenia, autism diseases and response to antipsychotic treatment - A systematic review.",
+  "abstract": "Albeit different in their clinical presentations, schizophrenia (SZ) and autism spectrum disorder (ASD) share different features, with mounting evidence supporting a neurodevelopmental origin for both disorders and a common genetic susceptibility. Among associated genes, G protein-coupled receptors (GPCR) have frequently been related to both disorders. The aim of this systematic review is to gather evidence of the association between GPCR polymorphisms and the manifestation of SZ and ASD, and the potential effect of GPCR polymorphisms in treatment response to antipsychotics, the main pharmacological therapy used in both disorders. A total number of 301 polymorphisms within GPCR coding loci were reported as risk variants for SZ and/or ASD. Among these, association studies identified 171 polymorphisms associated with SZ, most frequently in DRD2 and DRD3 genes and 55 polymorphisms associated with ASD, mainly in OXTR and AVPR1A. GPCR variants have been shown to affect antipsychotic treatment response. In our analysis of the SZ population, mutations in the DRD2 gene were most frequently associated with clozapine and risperidone treatment response, whereas HTR2A mutations were more commonly linked to olanzapine response. In contrast, for antipsychotic treatment in ASD, response to risperidone appeared to be more strongly influenced by mutations in the HTR2C gene. Additionally, a further literature search was conducted to determine whether these polymorphisms had any known functional consequences affecting gene or protein expression, signalling, activity, binding, structure, or chemical properties. Functional biological mechanisms have been described for 59 polymorphisms, with DRD2 being the most extensively studied. In conclusion, this systematic review brings together compelling evidence highlighting the genetic influence of GPCRs in these two mental disorders.",
+  "authors": [
+    "{'last_name': 'DelaCuesta-Barrutia', 'fore_name': 'Jon', 'initials': 'J', 'affiliations': ['Department of Pharmacology, University of the Basque Country, UPV/EHU, Leioa, Spain.']}",
+    "{'last_name': 'Pe&#xf1;agarikano', 'fore_name': 'Olga', 'initials': 'O', 'affiliations': ['Department of Pharmacology, University of the Basque Country, UPV/EHU, Leioa, Spain; Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Salud Mental (CIBERSAM), Leioa, Spain.']}",
+    "{'last_name': 'Ramos-Miguel', 'fore_name': 'Alfredo', 'initials': 'A', 'affiliations': ['Department of Pharmacology, University of the Basque Country, UPV/EHU, Leioa, Spain; Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Salud Mental (CIBERSAM), Leioa, Spain; Biocruces Bizkaia Health Research Institute, Barakaldo, Spain.']}",
+    "{'last_name': 'Erdozain', 'fore_name': 'Amaia M', 'initials': 'AM', 'affiliations': ['Department of Pharmacology, University of the Basque Country, UPV/EHU, Leioa, Spain; Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Salud Mental (CIBERSAM), Leioa, Spain. Electronic address: amaia_erdozain@ehu.eus.']}"
+  ],
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "18"
+  },
+  "doi": "10.1016/j.pnpbp.2026.111669",
+  "mesh_terms": [],
+  "keywords": [
+    "Antipsychotics",
+    "Autism spectrum disorder",
+    "GPCR",
+    "Genetic overlap",
+    "Polymorphism",
+    "Schizophrenia"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "biorxiv_10.1101_2024.05.26.595966",
+  "pmid": null,
+  "doi": "10.1101/2024.05.26.595966",
+  "title": "Complementary vertebrate Wac models exhibit phenotypes relevant to DeSanto-Shinawi Syndrome",
+  "authors": "Lee K-H, Stafford AM, Pacheco-Vergara M, et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-12",
+  "source": "biorxiv",
+  "abstract": "Monogenic syndromes are associated with neurodevelopmental changes that result in cognitive impairments and neurobehavioral phenotypes including autism and seizures. Limited studies and resources are available to make meaningful headway into the underlying molecular mechanisms that result in these symptoms. One such example is DeSanto-Shinawi Syndrome (DESSH), a rare disorder caused by pathogenic variants in the WAC gene. Individuals with DESSH syndrome exhibit a recognizable craniofacial gestalt, developmental delay/intellectual disability, neurobehavioral symptoms that include autism, ADHD, behavioral difficulties and seizures. However, no thorough studies from a vertebrate model exist to understand how these changes occur. To overcome this, we developed both murine and zebrafish Wac/wac deletion mutants and studied whether their phenotypes recapitulate those described in individuals with DESSH syndrome. We first show that the two Wac models exhibit craniofacial and behavioral changes, reminiscent of abnormalities found in DESSH syndrome. In addition, each model revealed impacts to GABAergic neurons and further studies showed that the mouse mutants are susceptible to seizures, changes in brain volumes that are different between sexes and relevant behaviors. Finally, we uncovered transcriptional impacts of Wac loss of function in mice that will pave the way for future molecular studies into DESSH.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 5,
+    "noncoding_regulatory_relevance": 2,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "genes_note": "WAC not in 49-gene set but relevant to GABAergic neuron biology shared with GABRB3, GABRG2, GABRA1, GABRB2, SLC6A1",
+  "summary": "First comprehensive vertebrate models of WAC (DeSanto-Shinawi Syndrome). Mouse and zebrafish knockouts show craniofacial changes, GABAergic neuron impacts, seizure susceptibility, and sex-different brain volumes. Transcriptional profiling reveals downstream impacts.",
+  "url": "https://www.biorxiv.org/content/10.1101/2024.05.26.595966v4",
+  "concepts": [
+    "monogenic NDD",
+    "GABAergic neurons",
+    "seizures",
+    "autism",
+    "animal models",
+    "WAC"
+  ]
+}

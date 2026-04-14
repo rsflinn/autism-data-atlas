@@ -1,0 +1,31 @@
+{
+  "pmid": "41907316",
+  "title": "Genetic susceptibility for neurodevelopmental disorders in children born to women with epilepsy.",
+  "abstract": "Children of women with epilepsy have higher rates of neurodevelopmental disorders including attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD), than the general population. This likely reflects a complex gene-environment interplay, but the specific contribution of genetic susceptibility, independent ofantiseizure medication exposure, remains unclear. The objective of this study was to evaluate whether polygenic risk scores (PRSs) for ADHD and ASD are elevated in these children compared to the general population and to assess associations with childhood neurodevelopmental traits. We analysed genetic and questionnaire data from the Norwegian Mother, Father and Child Cohort Study (MoBa). We included children born to women with epilepsy (= 422) and children of mothers without epilepsy (= 73 300). The parent-reported neurodevelopmental traits hyperactivity, inattention, social difficulties, language difficulties, repetitive behaviour and motor difficulties were measured usingscores at ages 0.5, 1.5, 3, 5 and 8 years. The genetic susceptibility was calculated as PRSs for ADHD and ASD. Children born to women with epilepsy had higher PRSs for ADHD (mean difference = 0.09,= 0.07), not ASD (mean difference = 0.014,= 0.78), compared to those without epilepsy. In these children, we observed stronger associations between the ADHD PRSs and neurodevelopmental traits closely linked to ADHD, specifically hyperactivity and inattention for all ages examined with the strongest association at 8 years. For the ASD PRSs, we observed stronger associations with motor development and language difficulties particularly at 5 years in children born to women with epilepsy. Although these associations were in the same direction and statistically significant for all ages in the general population, they did not reach statistical significance in children born to women with epilepsy. Findings from this study show that the ADHD and ASD PRSs were more strongly associated with hyperactivity/inattention, and with language/motor difficulties respectively in children born to women with epilepsy, compared to the general population. However, statistical significance was not reached likely due to limited sample size. These findings underscore the importance of considering genetic predisposition when assessing neurodevelopmental risks in this population.",
+  "authors": [
+    "{'last_name': 'Kinge-Rasmussen', 'fore_name': 'Mathilde', 'initials': 'M', 'affiliations': ['Department of Research and Innovation, Division of Clinical Neuroscience, Oslo University Hospital, 0424 Oslo, Norway.', 'Institute of Clinical Medicine, University of Oslo, 0318 Oslo, Norway.']}",
+    "{'last_name': 'Olstad', 'fore_name': 'Emilie Willoch', 'initials': 'EW', 'affiliations': ['Department of Research and Innovation, Division of Clinical Neuroscience, Oslo University Hospital, 0424 Oslo, Norway.', 'Pharmacoepidemiology and Drug Safety Research Group, Department of Pharmacy, Faculty of Mathematics and Natural Sciences, University of Oslo, 0371 Oslo, Norway.', 'UiO:RealArt Convergence Environment, University of Oslo, 0371 Oslo, Norway.']}",
+    "{'last_name': 'Bj&#xf8;rk', 'fore_name': 'Marte-Helene', 'initials': 'MH', 'affiliations': ['Department of Clinical Medicine, University of Bergen, 5020 Bergen, Norway.', 'Department of Neurology, Haukeland University Hospital, 5021 Bergen, Norway.']}",
+    "{'last_name': 'Egeland Nordeng', 'fore_name': 'Hedvig Marie', 'initials': 'HM', 'affiliations': ['Pharmacoepidemiology and Drug Safety Research Group, Department of Pharmacy, Faculty of Mathematics and Natural Sciences, University of Oslo, 0371 Oslo, Norway.', 'UiO:RealArt Convergence Environment, University of Oslo, 0371 Oslo, Norway.', 'Department of Child Health and Development, Norwegian Institute of Public Health, 0404 Oslo, Norway.']}",
+    "{'last_name': 'Tan', 'fore_name': 'Manuela M X', 'initials': 'MMX', 'affiliations': ['Department of Neurology, Oslo University Hospital, 0450 Oslo, Norway.']}",
+    "{'last_name': 'Gervin', 'fore_name': 'Kristina', 'initials': 'K', 'affiliations': ['Department of Research and Innovation, Division of Clinical Neuroscience, Oslo University Hospital, 0424 Oslo, Norway.', 'Pharmacoepidemiology and Drug Safety Research Group, Department of Pharmacy, Faculty of Mathematics and Natural Sciences, University of Oslo, 0371 Oslo, Norway.', 'UiO:RealArt Convergence Environment, University of Oslo, 0371 Oslo, Norway.']}",
+    "{'last_name': 'Selmer', 'fore_name': 'Kaja Kristine', 'initials': 'KK', 'affiliations': ['Department of Research and Innovation, Division of Clinical Neuroscience, Oslo University Hospital, 0424 Oslo, Norway.', 'National Centre for Epilepsy, Full Member of EpiCARE European Reference Network for Rare and Complex Epilepsy, Oslo University Hospital, 0424 Oslo, Norway.']}"
+  ],
+  "journal": "Brain communications",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "16"
+  },
+  "doi": "10.1093/braincomms/fcag078",
+  "mesh_terms": [],
+  "keywords": [
+    "attention-deficit/hyperactivity disorder",
+    "autism spectrum disorder",
+    "epilepsy",
+    "polygenic risk score"
+  ],
+  "pmc": "PMC13022828",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

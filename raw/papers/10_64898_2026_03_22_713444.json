@@ -1,0 +1,31 @@
+{
+  "id": "10.64898/2026.03.22.713444",
+  "id_type": "doi",
+  "title": "Comprehensive mapping of Neurofibromin 1 (NF1) expression in developing mouse brain",
+  "authors": "Lolam V, Roy A",
+  "journal": "bioRxiv",
+  "date": "2026-03-24",
+  "abstract": "High-resolution spatiotemporal map of NF1 expression in developing mouse brain. Using ISH and IHC from early embryonic stages through postnatal maturation. Integrated with snRNA-seq from adult mouse brain. Reveals previously undocumented graded expression pattern across brain regions and cell lineages. Framework for studying NF1-associated brain disorders.",
+  "source": "biorxiv",
+  "doi": "10.64898/2026.03.22.713444",
+  "score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 1
+  },
+  "genes": [],
+  "concepts": [
+    "NF1",
+    "neurofibromin",
+    "brain development",
+    "expression atlas",
+    "cell-type resolution",
+    "snRNA-seq"
+  ],
+  "evidence_tier": "C"
+}

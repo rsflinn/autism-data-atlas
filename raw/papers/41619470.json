@@ -1,0 +1,49 @@
+{
+  "pmid": "41619470",
+  "title": "Developmental and Epileptic Encephalopathy due to Cyclin-Dependent Kinase-Like 5 Deficiency: A Single-Center Experience Across Sex Differences.",
+  "abstract": "The cyclin-dependent kinase-like 5 deficiency disorder (CDD) is an ultrarare X-linked disorder causing early-onset epileptic encephalopathy and severe developmental deficits. Few studies exist on its electroclinical features, outcomes, sex differences, and neuroimaging, particularly from India. This study aims to describe the electroclinical syndrome, developmental profile, radiological findings, and outcomes in patients with CDD and to compare these factors between males and females.\n\nThis is a hospital-based observational study of patients diagnosed with CDD identified from a prospectively maintained registry of children with developmental and epileptic encephalopathy. Data on demographics, seizure types, epilepsy syndromes, antiseizure medications, electroencephalography findings, developmental assessments, genetic characteristics, brain magnetic resonance imaging, and outcomes were collected.\n\nWe included 12 patients with pathogenic (9) and likely pathogenic (3) variants in cyclin-dependent kinase-like 5 (CDKL5), among whom seven were female. The mean age at onset of seizures was 5.95 &#xb1; 5.56 months and was higher for males than females (8.6 &#xb1; 7.23 vs 3.19 &#xb1; 2.47). The most common seizure types at onset were tonic seizures in 6 (50%) children and epileptic spasms in 4 (33.3%). Lennox-Gastaut syndrome and West syndrome were the most frequent epilepsy syndromes. The median number of seizures per person was 2.9, and the median number of antiseizure medications used was 6 during their lifetime. Magnetic resonance imaging revealed cerebral volume loss in 7 children and white matter lesions in 6. Severe developmental deficits, a Rett-like phenotype, and cortical visual impairment were observed in three-fourths of the children, and regression of milestones occurred in two-thirds. Repetitive motor behavior (P 0.0455) and regression (P 0.0101) were more common in females.\n\nCDD causes refractory epilepsy and severe developmental deficits irrespective of the sex of the patient, variant type, and treatment.",
+  "authors": [
+    "{'last_name': 'Fasaludeen', 'fore_name': 'Alfiya', 'initials': 'A', 'affiliations': ['R. Madhavan Nayar Center for Comprehensive Epilepsy Care (RMNC), Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Thiruvananthapuram, Kerala, India.']}",
+    "{'last_name': 'Menon', 'fore_name': 'Ramshekhar N', 'initials': 'RN', 'affiliations': ['R. Madhavan Nayar Center for Comprehensive Epilepsy Care (RMNC), Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Thiruvananthapuram, Kerala, India.']}",
+    "{'last_name': 'Jose', 'fore_name': 'Manna', 'initials': 'M', 'affiliations': ['R. Madhavan Nayar Center for Comprehensive Epilepsy Care (RMNC), Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Thiruvananthapuram, Kerala, India.']}",
+    "{'last_name': 'Kumar', 'fore_name': 'Adarsh Anil', 'initials': 'AA', 'affiliations': ['Department of Imaging Sciences and Intervention Radiology, SCTIMST, Thiruvananthapuram, Kerala, India.']}",
+    "{'last_name': 'Manisha', 'fore_name': 'Karamala Yalapalli', 'initials': 'KY', 'affiliations': ['R. Madhavan Nayar Center for Comprehensive Epilepsy Care (RMNC), Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Thiruvananthapuram, Kerala, India.']}",
+    "{'last_name': 'Radhakrishnan', 'fore_name': 'Ashalatha', 'initials': 'A', 'affiliations': ['R. Madhavan Nayar Center for Comprehensive Epilepsy Care (RMNC), Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences and Technology (SCTIMST), Thiruvananthapuram, Kerala, India.']}",
+    "{'last_name': 'Sundaram', 'fore_name': 'Soumya', 'initials': 'S', 'affiliations': ['Pediatric Neurology and Neurodevelopmental Disorders, Department of Neurology, SCTIMST, Thiruvananthapuram, Kerala, India. Electronic address: ssdr.soumya@gmail.com.']}"
+  ],
+  "journal": "Pediatric neurology",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "09"
+  },
+  "doi": "10.1016/j.pediatrneurol.2026.01.001",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Child, Preschool",
+    "Infant",
+    "Spasms, Infantile",
+    "Protein Serine-Threonine Kinases",
+    "Genetic Diseases, X-Linked",
+    "Child",
+    "Sex Characteristics",
+    "Epilepsy",
+    "Developmental Disabilities",
+    "Electroencephalography",
+    "Magnetic Resonance Imaging",
+    "India",
+    "Epileptic Syndromes"
+  ],
+  "keywords": [
+    "CDKL5 deficiency disorder",
+    "Cyclin-dependent kinase-like 5",
+    "Development",
+    "Developmental and epileptic encephalopathy",
+    "Rett-like syndrome"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

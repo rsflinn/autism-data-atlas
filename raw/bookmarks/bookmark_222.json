@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 222,
+  "date": "2026-04-04 00:00:00",
+  "author": "@bravo_abad",
+  "summary": "Gradient boosting classifier trained on protein language model embeddings to map bacterial immunity systems",
+  "category": "Science Findings",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - protein language model application; relevant to comp bio context",
+  "link": "",
+  "ingested_at": "2026-04-04T12:36:44.227636",
+  "atlas_integration_status": "pending"
+}

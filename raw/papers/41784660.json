@@ -1,0 +1,29 @@
+{
+  "pmid": "41784660",
+  "title": "The causal relationships between childhood-onset asthma and major mental disorders: an MR study.",
+  "abstract": "Childhood-onset asthma is associated with an increased risk of severe mental illnesses later in life. However, the causal relationship between childhood-onset asthma and major mental disorders remains unclear.\n\nA two-sample Mendelian randomization (MR) analysis was conducted to investigate the causal effects of childhood-onset asthma (n&#x2009;=&#x2009;327,670) on six major mental illnesses, including major depressive disorder (n&#x2009;=&#x2009;143,265), bipolar disorder (n&#x2009;=&#x2009;353,899), schizophrenia (n&#x2009;=&#x2009;130,644), anxiety (n&#x2009;=&#x2009;10,240), autism (n&#x2009;=&#x2009;46,350), and ADHD (n&#x2009;=&#x2009;225,534), using summary statistics of genome-wide association studies (GWAS). The inverse variance weighted (IVW) method, along with the weighted median and the MR-Egger method, was employed to obtain causal estimates. Multiple sensitivity analyses were conducted to examine the robustness of the estimates. Additionally, the direct effects of childhood-onset asthma on mental disorders after accounting for the effects of adult-onset asthma were evaluated through the multivariable MR (MVMR) analysis. To eliminate potential reverse causality, a reverse MR analysis was conducted, treating mental disorders as the exposure and childhood-onset asthma as the outcome.\n\nGenetically determined, childhood-onset asthma was significantly associated with an increased risk of depression (IVW OR&#x2009;=&#x2009;1.059, 95% CI: 1.025-1.095, p&#x2009;=&#x2009;5.72e-04) and bipolar disorder (IVW OR&#x2009;=&#x2009;1.065, 95% CI: 1.027- 0.105, p&#x2009;=&#x2009;6.75e-04). However, it was not associated with other mental disorders. Further MVMR analysis indicated that the causal relationships remained significant after accounting for adult-onset asthma. Interestingly, childhood- and adult-onset asthma exerted distinct causal effects on depression and bipolar disorder. Reverse MR analysis revealed no causal relationships between the six assessed mental disorders and either childhood-onset asthma or the age of asthma onset.\n\nThe MR analysis revealed a significant causal relationship between genetically determined, childhood-onset asthma and an elevated risk of depression and bipolar disorder later in life. The causal effects of childhood-onset asthma were distinct from those of adult-onset asthma. Further studies are warranted to investigate the underlying mechanisms of these causal relationships.",
+  "authors": [
+    "{'last_name': 'He', 'fore_name': 'Zirong', 'initials': 'Z', 'affiliations': [\"Department of Pediatric Surgery, Sichuan Provincial People's Hospital, University of Electronic Science and Technology of China, No. 32, First Ring Road West, Qingyang District, Chengdu, 610072, Sichuan, China. hezirong@med.uestc.edu.cn.\"]}",
+    "{'last_name': 'Chen', 'fore_name': 'Banghong', 'initials': 'B', 'affiliations': ['Data Science Research and Development Center of Yanchang Technology, Chengdu, 610041, Sichuan, China.']}",
+    "{'last_name': 'Xue', 'fore_name': 'Mingzhu', 'initials': 'M', 'affiliations': ['Data Science Research and Development Center of Yanchang Technology, Chengdu, 610041, Sichuan, China.']}",
+    "{'last_name': 'Deng', 'fore_name': 'QinQing', 'initials': 'Q', 'affiliations': ['Data Science Research and Development Center of Yanchang Technology, Chengdu, 610041, Sichuan, China.']}"
+  ],
+  "journal": "European archives of psychiatry and clinical neuroscience",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "05"
+  },
+  "doi": "10.1007/s00406-026-02200-6",
+  "mesh_terms": [],
+  "keywords": [
+    "Causal relationships",
+    "Childhood asthma",
+    "Mendelian randomization",
+    "Mental disorders",
+    "Multivariable MR (MVMR)"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

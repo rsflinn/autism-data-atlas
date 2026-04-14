@@ -1,0 +1,31 @@
+{
+  "pmid": "41542841",
+  "title": "Etiology of autism spectrum disorders: recent advances and emerging directions.",
+  "abstract": "This narrative review synthesizes advances from the past 18&#x200a;months on the etiology of autism spectrum disorder (ASD), integrating findings from genetics, neurobiology, environmental epidemiology, and developmental psychiatry. Given the profound clinical heterogeneity of ASD, improved etiologic clarity is essential for risk stratification, early identification, and targeted intervention.\n\nExtensive genomic and multiancestry studies are now further clarifying how both common polygenic and rare high-impact variants contribute to ASD. These studies reveal different patterns of genetic liability that underlie distinct ASD subgroups. In parallel, functional and multiomic research is highlighting shared pathways involving synaptic signaling, gene regulation, immune processes, and the balance between excitatory and inhibitory signals. Environmental research, especially on maternal immune activation and maternal metabolic factors, uses causal inference methods to clarify modest but plausible causal effects, tempering earlier claims. Longitudinal imaging and infant cohort studies continue to show that atypical connectivity and social-brain differences occur before behavioral diagnosis. Sex differences and global diversity underscore the need for etiology models to incorporate sex-specific genetic architecture and address significant gaps in ancestral representation.\n\nASD arises from a dynamic interplay of genetic liability, early neurodevelopmental processes, and environmental exposures. Etiologic progress now depends on integrating multilevel and multiomic data - including genomic, transcriptomic, epigenetic, imaging, and epidemiologic information - toward stratified developmental models and better-tailored interventions.",
+  "authors": [
+    "{'last_name': 'Munir', 'fore_name': 'Kerim M', 'initials': 'KM', 'affiliations': ['Developmental Medicine Center, Division of Developmental Medicine.', \"Department of Pediatrics, and Department of Psychiatry and Behavioral Sciences, Boston Children's Hospital.\", 'Departments of Pediatrics and Psychiatry and Hinton Society, Harvard Medical School, Boston, Massachusetts, USA.']}"
+  ],
+  "journal": "Current opinion in psychiatry",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "16"
+  },
+  "doi": "10.1097/YCO.0000000000001063",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Genetic Predisposition to Disease"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "environment",
+    "etiology",
+    "genetics",
+    "maternal immune activation",
+    "neurodevelopment"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

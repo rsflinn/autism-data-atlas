@@ -1,0 +1,35 @@
+{
+  "pmid": "41819009",
+  "title": "Clinical characterization of SPTBN1, SPTBN2, and SPTBN5 variants: A case series and systematic review.",
+  "abstract": "To characterize the clinical phenotypes and genotype-phenotype correlations of neurodevelopmental disorders caused by pathogenic variants in &#x3b2;-spectrin family genes (SPTBN1, SPTBN2, SPTBN4, and SPTBN5) through systematic analysis of novel cases and comprehensive literature review.\n\nThrough retrospective analysis at Children's Medical Centre of Peking University First Hospital (February 2017 to March 2025), ten patients with SPTBN variants were identified and characterized. Genotype-phenotype correlation analysis was performed in 91 patients including 81 cases from literature review.\n\nGenotype-phenotype analysis of 91 patients (10 novel cases and 81 from literature) revealed distinct gene-specific clinical profiles. Epilepsy was most prevalent in SPTBN5 (83.3%) and SPTBN1 (45.5%) variants. Ataxia was a hallmark of SPTBN2 variants (82.4%), while hypotonia predominated in SPTBN4 variants (91.7%). Aggressive behavior was relatively common in SPTBN5 variants (66.7%). Abnormal brain MRI findings, particularly cerebellar atrophy, were most frequent in SPTBN2 variants (70.6%), whereas neuroimaging remained normal in all SPTBN5 variant carriers. In our cohort, all five patients with de novo heterozygous SPTBN1 variants presented with epileptic seizures and most had DD/ID. The three patients with biallelic SPTBN2 variants showed early-onset developmental delay, hypotonia, and cerebellar dysfunction without epilepsy. Both patients with biallelic SPTBN5 variants had epileptic seizures with phenotypic heterogeneity ranging from normal development to severe intellectual disability and autism spectrum disorder.\n\nThis study characterizes distinct gene-specific clinical profiles of neurodevelopmental disorders linked to the &#x3b2;-spectrin protein family through comprehensive analysis of 91 patients. Variants in SPTBN1 and SPTBN5 are predominantly characterized by epilepsy and developmental delay, SPTBN2 variants by ataxia and cerebellar dysfunction, and SPTBN4 variants by hypotonia and severe developmental delay. These findings provide critical evidence to inform clinical diagnosis, genetic counseling, and therapeutic decision-making for spectrin-related disorders.",
+  "authors": [
+    "{'last_name': 'Luo', 'fore_name': 'Jihang', 'initials': 'J', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Wang', 'fore_name': 'Ting', 'initials': 'T', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Yan', 'fore_name': 'Huifang', 'initials': 'H', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Zhang', 'fore_name': 'Yu', 'initials': 'Y', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Wang', 'fore_name': 'Junyu', 'initials': 'J', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Ouyang', 'fore_name': 'Shijia', 'initials': 'S', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Yang', 'fore_name': 'Shiqi', 'initials': 'S', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Jiao', 'fore_name': 'Aoran', 'initials': 'A', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China.\"]}",
+    "{'last_name': 'Zhang', 'fore_name': 'Yuehua', 'initials': 'Y', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China. Electronic address: zhangyhdr@126.com.\"]}",
+    "{'last_name': 'Wang', 'fore_name': 'Jingmin', 'initials': 'J', 'affiliations': [\"Children's Medical Center of Peking University First Hospital, Beijing 102627, China. Electronic address: wang66jm@163.com.\"]}"
+  ],
+  "journal": "Seizure",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "06"
+  },
+  "doi": "10.1016/j.seizure.2026.02.018",
+  "mesh_terms": [],
+  "keywords": [
+    "Ataxia",
+    "DD/ID",
+    "Epilepsy",
+    "SPTBN genes",
+    "&#x3b2;-spectrin"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

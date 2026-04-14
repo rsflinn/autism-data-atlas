@@ -1,0 +1,63 @@
+{
+  "pmid": "41163438",
+  "title": "Expansion of the Phenotypic and Genotypic Spectrum for PRKAR1B -Related Marbach-Schaaf Neurodevelopmental Syndrome: A Case Series.",
+  "abstract": "Marbach-Schaaf neurodevelopmental syndrome (MASNS) is an ultra-rare, monogenic disease caused by pathogenic variation in PRKAR1B, which codes for the R1&#x3b2; regulatory subunit of protein kinase A (PKA), a key effector of cAMP signaling within the nervous system. This work provides a comprehensive clinical description of 12 subjects with pathogenic PRKAR1B variants, including two individuals with a heterozygous deletion including PRKAR1B, supporting haploinsufficiency as a possible mechanism of disease. Phenotypic information was obtained by interview, using a systematic multi-dimensional questionnaire. Besides expanding the evidence for established MASNS phenotypes like developmental delay, ID, ASD, pain insensitivity, as well as mild dysmorphisms, we broaden the clinical spectrum through the description of new and underreported findings, in particular increased body weight. In addition, the presence of genomic deletions suggests dosage sensitivity of PRKAR1B, demonstrating that both sequence and copy number variants should be considered in diagnostic testing. This work gives valuable insight into the pathophysiology of MASNS and sets a framework upon which to design future mechanistic studies of PKA signaling in brain development.",
+  "authors": [
+    "{'last_name': 'Burkart', 'fore_name': 'Sebastian', 'initials': 'S', 'affiliations': ['Institute of Human Genetics, University Hospital Heidelberg, Heidelberg, Germany.']}",
+    "{'last_name': 'Guzeloglu', 'fore_name': 'Tarik', 'initials': 'T', 'affiliations': ['Institute of Human Genetics, University Hospital Heidelberg, Heidelberg, Germany.']}",
+    "{'last_name': 'Soares', 'fore_name': 'Ana R', 'initials': 'AR', 'affiliations': ['Medical Genetics Department, Santo Antonio University Hospital Center, Porto, Portugal.']}",
+    "{'last_name': 'Valenzuela', 'fore_name': 'Irene', 'initials': 'I', 'affiliations': [\"Clinical and Molecular Genetics Area, Vall D'hebron Hospital, Medicine Genetics Group, Vall D'hebron Research Institute (VHIR), Barcelona, Spain.\"]}",
+    "{'last_name': 'Tizzano', 'fore_name': 'Eduardo F', 'initials': 'EF', 'affiliations': [\"Clinical and Molecular Genetics Area, Vall D'hebron Hospital, Medicine Genetics Group, Vall D'hebron Research Institute (VHIR), Barcelona, Spain.\"]}",
+    "{'last_name': 'G&#xf3;mez-Andres', 'fore_name': 'David', 'initials': 'D', 'affiliations': [\"Pediatric Neurology, Vall D'hebron Institut de Recerca (VHIR), Hospital Universitari Vall D'hebron, Vall D'hebron Barcelona Hospital Campus, Barcelona, Spain.\"]}",
+    "{'last_name': 'Pasquier', 'fore_name': 'Laurent', 'initials': 'L', 'affiliations': ['Service de G&#xe9;n&#xe9;tique Clinique, CRMR Anomalies du D&#xe9;veloppement CLAD-Ouest, CRDI (Centre de R&#xe9;f&#xe9;rence D&#xe9;ficiences Intellectuelles de Causes Rares), CHU Rennes, Rennes, France.']}",
+    "{'last_name': 'Legendre', 'fore_name': 'Marine', 'initials': 'M', 'affiliations': ['Service de G&#xe9;n&#xe9;tique M&#xe9;dicale-CHU Bordeaux, Bordeaux, France.']}",
+    "{'last_name': 'Berges', 'fore_name': 'Camille', 'initials': 'C', 'affiliations': ['Service de G&#xe9;n&#xe9;tique M&#xe9;dicale-CHU Bordeaux, Bordeaux, France.']}",
+    "{'last_name': 'Thevenon', 'fore_name': 'Julien', 'initials': 'J', 'affiliations': ['Genetic, Genomic and Procreation Department, Grenoble Alpes University Hospital, Grenoble, France.']}",
+    "{'last_name': 'Gauthier', 'fore_name': 'Marjolaine', 'initials': 'M', 'affiliations': ['Genetic, Genomic and Procreation Department, Grenoble Alpes University Hospital, Grenoble, France.']}",
+    "{'last_name': 'Heid', 'fore_name': 'Caleb', 'initials': 'C', 'affiliations': ['Thompson Center for Autism & Neurodevelopment, University of Missouri, Columbia, Missouri, USA.']}",
+    "{'last_name': 'Ranum', 'fore_name': 'Elly', 'initials': 'E', 'affiliations': ['Thompson Center for Autism & Neurodevelopment, University of Missouri, Columbia, Missouri, USA.']}",
+    "{'last_name': 'Shen', 'fore_name': 'Joseph', 'initials': 'J', 'affiliations': ['Division of Genomic Medicine, Department of Pediatrics, University of California Davis, Sacramento, California, USA.']}",
+    "{'last_name': 'Frees', 'fore_name': 'Michelle', 'initials': 'M', 'affiliations': ['Division of Genomic Medicine, Department of Pediatrics, University of California Davis, Sacramento, California, USA.']}",
+    "{'last_name': 'Schmidtke', 'fore_name': 'Michael W', 'initials': 'MW', 'affiliations': ['Department of Biological Sciences, Wayne State University, Detroit, Michigan, USA.']}",
+    "{'last_name': 'Pilar', 'fore_name': 'Caro', 'initials': 'C', 'affiliations': ['Institute of Human Genetics, University Hospital Heidelberg, Heidelberg, Germany.']}",
+    "{'last_name': 'Schaaf', 'fore_name': 'Christian P', 'initials': 'CP', 'affiliations': ['Institute of Human Genetics, University Hospital Heidelberg, Heidelberg, Germany.', 'Institute of Human Genetics, Heidelberg University, Heidelberg, Germany.']}"
+  ],
+  "journal": "Clinical genetics",
+  "date": {
+    "year": "2025",
+    "month": "10",
+    "day": "29"
+  },
+  "doi": "10.1111/cge.70094",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Phenotype",
+    "Child",
+    "Child, Preschool",
+    "Neurodevelopmental Disorders",
+    "Adolescent",
+    "Genotype",
+    "Cyclic AMP-Dependent Protein Kinase RIIbeta Subunit",
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "Haploinsufficiency",
+    "Genetic Association Studies",
+    "Infant",
+    "Mutation"
+  ],
+  "keywords": [
+    "PRKAR1B",
+    "autism",
+    "case series",
+    "disability",
+    "genotype",
+    "neurodevelopmental disorder",
+    "pathophysiology",
+    "phenotype"
+  ],
+  "pmc": "PMC12958008",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

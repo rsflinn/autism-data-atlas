@@ -1,0 +1,46 @@
+{
+  "pmid": "41621282",
+  "title": "CHD2-related disorders: A conceptual disease model informed by caregiver experience.",
+  "abstract": "CHD2-related disorders (CHD2-RDs) are ultra-rare neurodevelopmental conditions caused by pathogenic variants in the CHD2 gene, which plays a crucial role in chromatin remodeling during brain development. These disorders present with a complex phenotype that includes refractory epilepsy, intellectual disability, autism spectrum disorder, speech and motor delays, and behavioral challenges. Despite emerging clinical descriptions, limited research has captured the lived experience of affected families or organized this complexity into a patient-centered disease model.\n\nTo develop a conceptual disease model (CDM) for CHD2-RDs, we conducted a systematic literature review alongside in-depth qualitative interviews with 15 caregivers of individuals with CHD2. Thematic saturation was reached, and findings were analyzed using inductive and deductive coding. Reflexive and AI-supported analytic techniques were employed to ensure trustworthiness. Caregiver quotes were integrated to illustrate how symptoms translate into real-world impact.\n\nThe resulting CDM identifies three core domains: patient symptoms, patient impacts, and caregiver impacts. Symptom domains include seizures, cognitive impairment, communication difficulties, behavioral issues, sensory sensitivities, motor delays, and other comorbidities (e.g., GI, endocrine, vision). These symptoms disrupt sleep, development, socialization, and autonomy. Caregivers reported sleep loss, mental health strain, career disruption, and social isolation. Emergent themes, such as reliance on routine, diagnostic odyssey, and fears about the future, further contextualize the burden of CHD2-RDs.\n\nThis is the first caregiver-informed CDM for CHD2-RDs and provides a foundational tool for future research, clinical care, and regulatory engagement. It can inform the development of meaningful outcome measures, trial readiness, and patient-centered endpoints. The model highlights the need for integrated support and underscores the critical role of caregiver insight in understanding and addressing rare neurodevelopmental disorders.",
+  "authors": [
+    "{'last_name': 'SanInocencio', 'fore_name': 'Christina', 'initials': 'C', 'affiliations': ['Department of Communication, Fairfield University, United States; Coalition to Cure CHD2, United States. Electronic address: csaninocencio@fairfield.edu.']}",
+    "{'last_name': 'Prince', 'fore_name': 'Stephanie', 'initials': 'S', 'affiliations': ['Coalition to Cure CHD2, United States; Universities Hospital Dorset, UK.']}",
+    "{'last_name': 'Chandran', 'fore_name': 'Ilakkiah', 'initials': 'I', 'affiliations': ['Adult Genetic Epilepsy Program, Toronto Western Hospital, University Health Network, Toronto, Canada; Institute of Medical Science, Temerty Faculty of Medicine, University of Toronto, Toronto, Canada.']}",
+    "{'last_name': 'Simon', 'fore_name': 'Elijah W', 'initials': 'EW', 'affiliations': [\"COMBINEDBrain, United States; Department of Neurology, Boston Children's Hospital, United States.\"]}",
+    "{'last_name': 'Marks', 'fore_name': 'Laura', 'initials': 'L', 'affiliations': ['Coalition to Cure CHD2, United States.']}"
+  ],
+  "journal": "Epilepsy research",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "28"
+  },
+  "doi": "10.1016/j.eplepsyres.2026.107735",
+  "mesh_terms": [
+    "Humans",
+    "Caregivers",
+    "Male",
+    "Female",
+    "Adult",
+    "DNA-Binding Proteins",
+    "Middle Aged",
+    "Neurodevelopmental Disorders",
+    "Intellectual Disability",
+    "Epilepsy"
+  ],
+  "keywords": [
+    "Autism",
+    "CHD2",
+    "CHD2-Related Disorders",
+    "Chromatin Remodeling",
+    "Conceptual Disease Model",
+    "Developmental and Epileptic Encephalopathy",
+    "Disease Concept Model",
+    "Epilepsy",
+    "Lived Experience",
+    "Patient-Centered Outcomes"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

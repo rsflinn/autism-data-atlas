@@ -1,0 +1,20 @@
+{
+  "pmid": "41956077",
+  "doi": "10.1016/j.devcel.2026.03.004",
+  "title": "Non-canonical roles for Hif-1alpha in interneuron progenitor proliferation and cortical circuit maturation",
+  "authors": "Li L, Pasca AM",
+  "journal": "Developmental Cell",
+  "date": "2026-04-08",
+  "abstract": "Preview article: Hif-1alpha plays non-canonical role in cortical interneuron development, interacts with Grin2b. Controlled Hif-1alpha expression essential for brain development without activating hypoxia-response pathway.",
+  "source": "pubmed",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 3,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

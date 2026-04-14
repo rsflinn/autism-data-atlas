@@ -1,0 +1,31 @@
+{
+  "id": "41946887",
+  "id_type": "pmid",
+  "title": "SPG601-associated modulation of resting-state EEG and improvement in executive function in a fragile X syndrome randomized controlled crossover study",
+  "authors": "Pedapati EV et al.",
+  "journal": "Sci Rep",
+  "date": "2026-04-07",
+  "abstract": "FXS is the most common inherited cause of intellectual disability and ASD. SPG601 represents the first BK channel activator to enter clinical testing for FXS, designed to restore synaptic function by correcting ion channel dysfunction downstream of FMRP loss. In 10 adult men with FXS, SPG601 demonstrated significant modulation of resting-state EEG power spectral density vs placebo. Significant effects for gamma power (p=0.023), alpha2 power (p<0.001), theta power (p=0.008). Cognitive improvement in NIH Toolbox Flanker test (p=0.027).",
+  "source": "pubmed",
+  "doi": "10.1038/s41598-026-46928-6",
+  "score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 3,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 4
+  },
+  "genes": [],
+  "concepts": [
+    "Fragile X",
+    "BK channel",
+    "ion channel",
+    "EEG biomarker",
+    "clinical trial",
+    "FMRP"
+  ],
+  "evidence_tier": "B"
+}

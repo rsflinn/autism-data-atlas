@@ -1,0 +1,32 @@
+{
+  "pmid": "41646830",
+  "title": "Disorder-Specific Genetic Effects Drive the Associations Between Psychopathology and Cognitive Functioning.",
+  "abstract": "Cognitive functioning is a critical dimension of psychopathology that remains underinvestigated. Because cognitive deficits often transcend diagnostic boundaries, it has been challenging to delineate specific relationships between psychiatric disorders and cognitive functioning. Genetic research offers novel, powerful tools to disentangle shared (transdiagnostic) from disorder-specific effects, thereby opening new avenues for understanding how psychopathology relates to cognition.\n\nWe used genomic structural equation modeling to identify transdiagnostic and disorder-specific genetic risk. We derived polygenic scores in a longitudinal twin sample (= 7764) to examine associations between genetic risk for psychopathology and domains of cognitive functioning across development.\n\nThe results showed that relationships between psychopathology and cognition are primarily driven by disorder-specific genetic risk rather than by transdiagnostic factors. Associations differed across disorders and cognitive domains. Within-family analyses indicated that associations between genetic risk for psychopathology and cognition operated through distinct pathways. While for some disorders (e.g., attention-deficit/hyperactivity disorder), the effects could be attributed to confounding by environmental differences between nuclear families, for others (e.g., autism spectrum disorder), effects were robust to environmental confounding.\n\nIn contrast to psychiatric symptoms, which are most effectively predicted by transdiagnostic genetic risk, our findings highlight the need to consider disorder-specific genetic effects when examining associations between psychopathology and cognition. Focusing solely on transdiagnostic risk is unlikely to capture the full complexity of these relationships or enhance our understanding of the distinct cognitive profiles associated with psychopathology.",
+  "authors": [
+    "{'last_name': 'Liao', 'fore_name': 'Wangjingyi', 'initials': 'W', 'affiliations': ['Centre for Brain and Behaviour, School of Biological and Behavioural Sciences, Queen Mary University of London, London, United Kingdom.']}",
+    "{'last_name': 'Keser', 'fore_name': 'Engin', 'initials': 'E', 'affiliations': [\"Social, Genetic and Developmental Psychiatry Centre, King's College London, London, United Kingdom.\"]}",
+    "{'last_name': 'Allegrini', 'fore_name': 'Andrea', 'initials': 'A', 'affiliations': [\"Social, Genetic and Developmental Psychiatry Centre, King's College London, London, United Kingdom.\", 'Division of Psychology and Language Sciences, University College London, London, United Kingdom.']}",
+    "{'last_name': 'Rimfeld', 'fore_name': 'Kaili', 'initials': 'K', 'affiliations': [\"Social, Genetic and Developmental Psychiatry Centre, King's College London, London, United Kingdom.\", 'Department of Psychology, Royal Holloway University of London, London, United Kingdom.']}",
+    "{'last_name': 'Plomin', 'fore_name': 'Robert', 'initials': 'R', 'affiliations': [\"Social, Genetic and Developmental Psychiatry Centre, King's College London, London, United Kingdom.\"]}",
+    "{'last_name': 'Malanchini', 'fore_name': 'Margherita', 'initials': 'M', 'affiliations': ['Centre for Brain and Behaviour, School of Biological and Behavioural Sciences, Queen Mary University of London, London, United Kingdom.', \"Social, Genetic and Developmental Psychiatry Centre, King's College London, London, United Kingdom.\"]}"
+  ],
+  "journal": "Biological psychiatry global open science",
+  "date": {
+    "year": "2025",
+    "month": "12",
+    "day": "18"
+  },
+  "doi": "10.1016/j.bpsgos.2025.100680",
+  "mesh_terms": [],
+  "keywords": [
+    "Cognitive development",
+    "Cognitive functioning",
+    "Polygenic scores",
+    "Psychopathology",
+    "Transdiagnostic genetic risk",
+    "Within-siblings analyses"
+  ],
+  "pmc": "PMC12870865",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "biorxiv_10.64898_2026.04.10.717844",
+  "pmid": null,
+  "doi": "10.64898/2026.04.10.717844",
+  "title": "EVEE: Interpretable variant effect prediction from genomic foundation model embeddings",
+  "authors": "Pearce MT, Dooms T, Yamamoto R, et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-11",
+  "source": "biorxiv",
+  "abstract": "Predicting the clinical significance of genetic variants remains a central challenge in genomic medicine, with most observed variants classified as variants of uncertain significance. Here we show that representations from Evo 2, a 7-billion-parameter genomic foundation model, support accurate and interpretable pathogenicity prediction across variant types from a single framework. An embedding-based classifier, or 'probe', trained on Evo 2 embeddings achieves state-of-the-art performance across single nucleotide variant consequence types (0.997 overall AUROC on 839k ClinVar variants) and generalizes zero-shot to indels (0.991 AUROC), outperforming bioinformatic meta-predictors, protein models, and existing foundation model approaches. Performance is robust across conservation levels and transfers to deep mutational scanning datasets for BRCA1, BRCA2, TP53, and LDLR. To make these predictions interpretable, we train supervised annotation probes to quantify predicted disruptions caused by each variant, then synthesize these disruption profiles into natural language explanations using a frontier reasoning model. We provide pre-computed predictions and on-demand explanations for all 4.2 million ClinVar variants through the Evo Variant Effect Explorer (EVEE), an interactive web resource for the community.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 3,
+    "noncoding_regulatory_relevance": 6,
+    "dataset_availability": 7,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "genes_note": "Not gene-specific but applicable to all 49 atlas genes for VUS reclassification",
+  "summary": "SOTA variant effect prediction using Evo 2 7B-parameter genomic foundation model. 0.997 AUROC on 839k ClinVar SNVs, 0.991 zero-shot on indels. Interpretable disruption profiles with natural language explanations. Pre-computed for 4.2M ClinVar variants via EVEE web tool.",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717844v1",
+  "concepts": [
+    "variant effect prediction",
+    "foundation model",
+    "ClinVar",
+    "VUS",
+    "pathogenicity",
+    "Evo 2"
+  ]
+}

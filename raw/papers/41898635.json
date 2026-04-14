@@ -1,0 +1,57 @@
+{
+  "pmid": "41898635",
+  "title": "Endocannabinoid Enhancement via MAGL Inhibition in CDKL5 Deficiency: Selective Cellular Benefits and Domain-Specific Functional Effects in AdultKO Mice.",
+  "abstract": "CDKL5 Deficiency Disorder (CDD) is a severe neurodevelopmental encephalopathy characterized by early disruptions of synaptic maturation and network stability, leading to persistent motor, cognitive, and behavioral impairments. Given the role of the endocannabinoid system in synaptic development, neuroinflammation, and neuronal resilience, we investigated whether the sustained enhancement of endogenous 2-arachidonoylglycerol (2-AG) signaling via monoacylglycerol lipase (MAGL) inhibition could mitigate key pathological features in adultknockout (KO) mice. Using an intermittent 6-week treatment, the MAGL inhibitor JZL184 robustly increased plasma 2-AG levels, reduced MAGL protein levels, and activated CB1-AKT signaling without evidence of receptor desensitization. Despite this clear pharmacodynamic efficacy, behavioral effects were domain-specific: neither dose ameliorated core behavioral deficits, although the higher dose selectively reduced stereotypic jumping and modestly improved cue-dependent associative memory. At the cellular level, JZL184 induced biologically meaningful effects, partially restoring dendritic spine maturation in the primary somatosensory cortex and increasing neuronal survival in the vulnerable CA1 hippocampal region. In contrast, microglial responses were dose-dependent and divergent, with the lower dose exerting anti-inflammatory effects, while the higher dose increased cortical microglial density and Allograft Inflammatory Factor-1 (AIF-1) expression, suggesting engagement of compensatory or off-target mechanisms. Overall, these findings show that MAGL inhibition activates neuroprotective pathways and ameliorates select structural deficits in adultKO mice, but is insufficient to produce broad behavioral recovery, highlighting the domain-specific effects of selective 2-AG enhancement via MAGL inhibition and the need for developmentally informed or multimodal therapeutic strategies in CDD.",
+  "authors": [
+    "{'last_name': 'Loi', 'fore_name': 'Manuela', 'initials': 'M', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Mottolese', 'fore_name': 'Nicola', 'initials': 'N', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Medici', 'fore_name': 'Giorgio', 'initials': 'G', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Iannibelli', 'fore_name': 'Feliciana', 'initials': 'F', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Interino', 'fore_name': 'Nicol&#xf2;', 'initials': 'N', 'affiliations': ['IRCCS Istituto Delle Scienze Neurologiche di Bologna, 40139 Bologna, Italy.']}",
+    "{'last_name': 'Candini', 'fore_name': 'Giulia', 'initials': 'G', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Trebbi', 'fore_name': 'Federica', 'initials': 'F', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Bove', 'fore_name': 'Angelica Marina', 'initials': 'AM', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Fiori', 'fore_name': 'Jessica', 'initials': 'J', 'affiliations': ['IRCCS Istituto Delle Scienze Neurologiche di Bologna, 40139 Bologna, Italy.', 'Department of Chemistry \"G. Ciamician\", University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Trazzi', 'fore_name': 'Stefania', 'initials': 'S', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}",
+    "{'last_name': 'Ciani', 'fore_name': 'Elisabetta', 'initials': 'E', 'affiliations': ['Department of Biomedical and Neuromotor Science, University of Bologna, 40126 Bologna, Italy.']}"
+  ],
+  "journal": "International journal of molecular sciences",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "19"
+  },
+  "doi": "10.3390/ijms27062773",
+  "mesh_terms": [
+    "Animals",
+    "Endocannabinoids",
+    "Mice, Knockout",
+    "Mice",
+    "Arachidonic Acids",
+    "Monoacylglycerol Lipases",
+    "Glycerides",
+    "Piperidines",
+    "Benzodioxoles",
+    "Protein Serine-Threonine Kinases",
+    "Spasms, Infantile",
+    "Epileptic Syndromes",
+    "Male",
+    "Microglia",
+    "Signal Transduction",
+    "Receptor, Cannabinoid, CB1",
+    "Neurons",
+    "Behavior, Animal",
+    "Dendritic Spines",
+    "Mice, Inbred C57BL"
+  ],
+  "keywords": [
+    "CDKL5 deficiency disorder",
+    "MAGL inhibition",
+    "endocannabinoid system",
+    "microglial activation and neuroinflammation",
+    "synaptic maturation and neuroprotection"
+  ],
+  "pmc": "PMC13026865",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

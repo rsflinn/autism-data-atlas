@@ -1,0 +1,33 @@
+{
+  "id": "10.64898/2026.04.07.717039",
+  "id_type": "doi",
+  "title": "Evolutionary transfer learning enables organism-wide inference of mammalian enhancer landscapes",
+  "authors": "Qiu C et al. (Shendure lab)",
+  "journal": "bioRxiv",
+  "date": "2026-04-08",
+  "abstract": "STEAM (Synteny-aware Transfer learning for Enhancer Activity Modeling) expands training corpus to include enhancer orthologs from up to 241 mammalian genomes (Zoonomia). Profiled 3.9M nuclei from 36 staged mouse embryos (E10-P0), resolving 36 cell classes and 140 cell types. Predicts enhancers for all major developmental lineages across 241 mammalian genomes (7,712 genome-wide enhancer tracks). Addresses overprediction at tandem repeats and conflation of promoter/distal enhancer grammars.",
+  "source": "biorxiv",
+  "doi": "10.64898/2026.04.07.717039",
+  "score": 32,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 9,
+    "dataset_availability": 8,
+    "novelty": 8,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 0
+  },
+  "genes": [],
+  "concepts": [
+    "enhancer prediction",
+    "deep learning",
+    "transfer learning",
+    "scATAC-seq",
+    "comparative genomics",
+    "Zoonomia",
+    "developmental atlas",
+    "noncoding regulatory"
+  ],
+  "evidence_tier": "C"
+}

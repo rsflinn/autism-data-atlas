@@ -1,0 +1,46 @@
+{
+  "pmid": "40767165",
+  "title": "Cortical Visual Impairment Across a Range of Neurodevelopmental Disorders: Clinical Characterization, Diagnostic Tool Evaluation, and Association with Developmental Outcomes.",
+  "abstract": "Cortical visual impairment is particularly relevant in children with neurodevelopmental disorders yet remains underdiagnosed. This study assessed the prevalence and severity of cortical visual impairment in 4 neurogenetic conditions: STXBP1, SLC6A1, Ring 14, and 8p-related disorders. We also evaluated the-Clinical Severity Assessment-Clinician vision subdomain as a diagnostic tool and examined the association between cortical visual impairment and developmental outcomes. A retrospective chart review of 85 patients found cortical visual impairment in 44%, most commonly in 8p (54%) and STXBP1 (50%); no cases were seen in. The-Clinical Severity Assessment-Clinician vision subdomain effectively distinguished cortical visual impairment cases (mean score 25.9 vs 2.6,&#x2009;<&#x2009;.0001). A cutoff score &#x2265;11 showed high specificity (95.9%) and positive predictive value (94.3%). Cortical visual impairment was significantly associated with greater developmental impairment, with higher overall-Clinical Severity Assessment-Clinician scores and lower Vineland Adaptive Behavioral Scales-Third Edition scores. Early identification of cortical visual impairment is critical for ensuring access to appropriate therapies and therefore should be more systematically evaluated for in neurogenetic conditions.",
+  "authors": [
+    "{'last_name': 'Abbott', 'fore_name': 'Megan', 'initials': 'M', 'affiliations': [\"Precision Medicine Institute, Children's Hospital Colorado, Anschutz Medical Campus, Aurora, CO, USA.\", 'Department of Pediatrics, Section of Neurology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}",
+    "{'last_name': 'Angione', 'fore_name': 'Katie', 'initials': 'K', 'affiliations': [\"Precision Medicine Institute, Children's Hospital Colorado, Anschutz Medical Campus, Aurora, CO, USA.\", 'Department of Pediatrics, Section of Neurology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}",
+    "{'last_name': 'Stringfellow', 'fore_name': 'Megan', 'initials': 'M', 'affiliations': [\"Children's Hospital Colorado, Anschutz Medical Campus, Aurora, Aurora, CO, USA.\"]}",
+    "{'last_name': 'Malik', 'fore_name': 'Kristina', 'initials': 'K', 'affiliations': [\"Children's Hospital Colorado, Anschutz Medical Campus, Aurora, Aurora, CO, USA.\", 'Department of Pediatrics, Section of General Academic Pediatrics, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}",
+    "{'last_name': 'Saenz', 'fore_name': 'Margarita', 'initials': 'M', 'affiliations': [\"Children's Hospital Colorado, Anschutz Medical Campus, Aurora, Aurora, CO, USA.\", 'Department of Pediatrics, Section of Genetics, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}",
+    "{'last_name': 'McCourt', 'fore_name': 'Emily', 'initials': 'E', 'affiliations': [\"Children's Hospital Colorado, Anschutz Medical Campus, Aurora, Aurora, CO, USA.\", 'Department of Ophthalmology, Section of Pediatric Ophthalmology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}",
+    "{'last_name': 'Silveira', 'fore_name': 'Lori', 'initials': 'L', 'affiliations': ['Department of Pediatrics, Section of Neurology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}",
+    "{'last_name': 'Miele', 'fore_name': 'Andrea', 'initials': 'A', 'affiliations': ['Department of Pediatrics, Section of Neurology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.', \"Children's Hospital Colorado, Anschutz Medical Campus, Aurora, Aurora, CO, USA.\"]}",
+    "{'last_name': 'Benke', 'fore_name': 'Tim A', 'initials': 'TA', 'affiliations': ['Department of Pediatrics, Section of Neurology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.', \"Children's Hospital Colorado, Anschutz Medical Campus, Aurora, Aurora, CO, USA.\"]}",
+    "{'last_name': 'Demarest', 'fore_name': 'Scott', 'initials': 'S', 'affiliations': [\"Precision Medicine Institute, Children's Hospital Colorado, Anschutz Medical Campus, Aurora, CO, USA.\", 'Department of Pediatrics, Section of Neurology, School of Medicine, University of Colorado | Anschutz Medical Campus, Aurora, CO, USA.']}"
+  ],
+  "journal": "Journal of child neurology",
+  "date": {
+    "year": "2025",
+    "month": "08",
+    "day": "06"
+  },
+  "doi": "10.1177/08830738251361698",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Child",
+    "Neurodevelopmental Disorders",
+    "Retrospective Studies",
+    "Child, Preschool",
+    "Adolescent",
+    "Vision Disorders",
+    "Severity of Illness Index",
+    "Developmental Disabilities",
+    "Infant"
+  ],
+  "keywords": [
+    "cortical visual impairment",
+    "developmental and epileptic encephalopathies",
+    "neurodevelopmental disorders"
+  ],
+  "pmc": "PMC12360487",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

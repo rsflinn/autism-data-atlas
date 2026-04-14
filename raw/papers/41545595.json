@@ -1,0 +1,48 @@
+{
+  "pmid": "41545595",
+  "title": "Single-cell atlas of the developing Down syndrome brain cortex.",
+  "abstract": "Down syndrome (DS), caused by trisomy of chromosome 21, is the leading genetic cause of intellectual disability, yet the mechanisms disrupting fetal brain development remain unclear. We performed single-cell transcriptomic and chromatin accessibility profiling of approximately 250,000 cells from 15 DS and 15 control human fetal cortices (10-20&#x2009;weeks postconception). Our analysis revealed a subtype-specific reduction in RORB- and FOXP1-expressing excitatory neurons and widespread disruption of neurodevelopmental transcriptional programs. Chromosome 21 transcription factors BACH1, PKNOX1 and GABPA emerged as dosage-sensitive hubs regulating genes linked to intellectual disability. Antisense oligonucleotide-mediated normalization of these transcription factors in human neural progenitors in vitro partially rescued target gene expression. Benchmarking a humanized in vivo model captured additional molecular and cellular signatures of DS, complementing the in vitro model. Together, we present a resource defining the gene-regulatory landscape underlying cortical development in DS and highlight molecular pathways for further investigation.",
+  "authors": [
+    "{'last_name': 'Lattke', 'fore_name': 'Michael', 'initials': 'M', 'affiliations': ['Department of Brain Sciences, Imperial College London, London, UK. m.lattke@imperial.ac.uk.']}",
+    "{'last_name': 'Tan', 'fore_name': 'Wee Leng', 'initials': 'WL', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Sukumaran', 'fore_name': 'Salil Kalarikkal', 'initials': 'SK', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Utami', 'fore_name': 'Kagistia Hana', 'initials': 'KH', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Sintes', 'fore_name': 'Marcos', 'initials': 'M', 'affiliations': ['Department of Brain Sciences, Imperial College London, London, UK.', 'Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Sakthivel', 'fore_name': 'Srinivasan', 'initials': 'S', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Tan', 'fore_name': 'Jonathan', 'initials': 'J', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Lim', 'fore_name': 'Auriel', 'initials': 'A', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Bansal', 'fore_name': 'Vibhavari Aysha', 'initials': 'VA', 'affiliations': ['Duke-NUS Medical School, Singapore, Singapore.']}",
+    "{'last_name': 'Rekopoulou', 'fore_name': 'Katerina', 'initials': 'K', 'affiliations': ['NIHR Imperial BRC Genomics Facility, Imperial College London, London, UK.']}",
+    "{'last_name': 'Matthews', 'fore_name': 'Nik', 'initials': 'N', 'affiliations': ['NIHR Imperial BRC Genomics Facility, Imperial College London, London, UK.']}",
+    "{'last_name': 'Ali&#x107;', 'fore_name': 'Ivan', 'initials': 'I', 'affiliations': ['The Blizard Institute, Queen Mary University of London, London, UK.', 'Department of Anatomy, Histology and Embryology, University of Zagreb, Zagreb, Croatia.']}",
+    "{'last_name': 'Krsnik', 'fore_name': '&#x17d;eljka', 'initials': '&#x17d;', 'affiliations': ['Croatian Institute for Brain Research, School of Medicine, University of Zagreb, Zagreb, Croatia.']}",
+    "{'last_name': 'Ni&#x17e;eti&#x107;', 'fore_name': 'Dean', 'initials': 'D', 'affiliations': ['The Blizard Institute, Queen Mary University of London, London, UK.']}",
+    "{'last_name': 'Levi', 'fore_name': 'Boaz P', 'initials': 'BP', 'affiliations': ['Allen Institute for Brain Science, Seattle, WA, USA.']}",
+    "{'last_name': 'De Paola', 'fore_name': 'Vincenzo', 'initials': 'V', 'affiliations': ['Department of Brain Sciences, Imperial College London, London, UK. videpa@nus.edu.sg.', 'Duke-NUS Medical School, Singapore, Singapore. videpa@nus.edu.sg.']}"
+  ],
+  "journal": "Nature medicine",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "16"
+  },
+  "doi": "10.1038/s41591-026-04211-1",
+  "mesh_terms": [
+    "Down Syndrome",
+    "Humans",
+    "Single-Cell Analysis",
+    "Cerebral Cortex",
+    "Animals",
+    "Neurons",
+    "Gene Expression Regulation, Developmental",
+    "Transcriptome",
+    "Mice",
+    "Neural Stem Cells",
+    "Gene Expression Profiling",
+    "Female"
+  ],
+  "keywords": [],
+  "pmc": "PMC13004680",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

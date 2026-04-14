@@ -1,0 +1,20 @@
+{
+  "pmid": "41958697",
+  "doi": "10.18699/vjgb-26-04",
+  "title": "Base editing in the AUTS2 gene and high-throughput NGS genotyping of clones: a strategy for generating a cellular model",
+  "authors": "Yan AP et al.",
+  "journal": "Vavilovskii Zhurnal Genetiki i Selektsii",
+  "date": "2026-03",
+  "abstract": "iPSC model using adenine base editor to introduce synonymous SNVs in AUTS2 for allele-specific expression tracking. NGS genotyping strategy for clones.",
+  "source": "pubmed",
+  "relevance_score": 22,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

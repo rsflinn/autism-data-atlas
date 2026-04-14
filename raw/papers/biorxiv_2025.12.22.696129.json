@@ -1,0 +1,20 @@
+{
+  "pmid": "biorxiv_2025.12.22.696129",
+  "doi": "10.64898/2025.12.22.696129",
+  "title": "In vivo human embryonic spinal cord atlas validates stem cell-derived human dorsal interneurons and reveals ASD spinal signatures",
+  "authors": "Gupta S et al.",
+  "journal": "bioRxiv",
+  "date": "2025-12-24",
+  "abstract": "Reference atlas of early human somatosensory circuit development from 6 scRNA-seq datasets (GW 4-25). ASD-associated genes enriched within mechanosensory interneuron populations (dI4/dI5).",
+  "source": "biorxiv",
+  "relevance_score": 29,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

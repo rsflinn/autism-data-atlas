@@ -1,0 +1,36 @@
+{
+  "pmid": "40928518",
+  "title": "Identification and prioritization of gene sets associated with schizophrenia risk by network analysis.",
+  "abstract": "Genome-wide association studies (GWASs) are used to identify genetic variants for association with schizophrenia (SCZ) risk; however, each GWAS can only reveal a small fraction of this association.\n\nThis study systematically analyzed multiple GWAS data sets to identify gene subnetwork and pathways associated with SCZ.\n\nWe identified gene subnetwork using dmGWAS program by combining SCZ GWASs and a human interaction network, performed gene-set analysis to test the association of gene subnetwork with clinical symptom scores and disease state, meanwhile, conducted spatiotemporal and tissue-specific expression patterns and cell-type-specific analysis of genes in the subnetwork.\n\nWe identified a gene subnetwork comprising 48 genes was associated with SCZ, and confirmed gene subnetwork's gene-set association with SCZ (Case vs. Control) in two independent cohorts. Gene prioritization identified CALM1 and TCF4 as hub genes in the subnetwork. Meanwhile, using gene-set analysis, it was determined that the gene subnetwork was also linked to generality symptoms and Positive and Negative Syndrome Scale (PANSS) total score in SCZ. 12 out of 48 genes were higher expression in early prenatal brain. In addition, expressions of CALM1, NCAM1, and TCF4 were dysregulated in cerebral organoids of SCZ patients compared with healthy controls. CALM1 and NCAM1 were mainly expressed on the surface of glutamatergic neurons.\n\nOur findings identified CALM1, NCAM1, and TCF4 as SCZ risk genes and provided important clues to support the neurodevelopmental hypothesis and new therapeutic targets of SCZ.",
+  "authors": [
+    "{'last_name': 'Yu', 'fore_name': 'Minglan', 'initials': 'M', 'affiliations': ['Institute of Cardiovascular Research, Sleep Medical Center, Department of Psychiatry, Fundamental and Clinical Research on Mental Disorders Key Laboratory of Luzhou, Affiliated Hospital, Southwest Medical University, Luzhou, Sichuan Province, 646000, China.']}",
+    "{'last_name': 'Tan', 'fore_name': 'Qingyu', 'initials': 'Q', 'affiliations': ['Institute of Cardiovascular Research, Sleep Medical Center, Department of Psychiatry, Fundamental and Clinical Research on Mental Disorders Key Laboratory of Luzhou, Affiliated Hospital, Southwest Medical University, Luzhou, Sichuan Province, 646000, China.', \"Department of Psychosomatic Medicine, Deyang People's Hospital, Deyang, Sichuan Province, 646000, China.\"]}",
+    "{'last_name': 'Dong', 'fore_name': 'Wei', 'initials': 'W', 'affiliations': ['Institute of Cardiovascular Research, Sleep Medical Center, Department of Psychiatry, Fundamental and Clinical Research on Mental Disorders Key Laboratory of Luzhou, Affiliated Hospital, Southwest Medical University, Luzhou, Sichuan Province, 646000, China. dongwei@swmu.edu.cn.']}",
+    "{'last_name': 'Xiang', 'fore_name': 'Bo', 'initials': 'B', 'affiliations': ['Institute of Cardiovascular Research, Sleep Medical Center, Department of Psychiatry, Fundamental and Clinical Research on Mental Disorders Key Laboratory of Luzhou, Affiliated Hospital, Southwest Medical University, Luzhou, Sichuan Province, 646000, China. xiangbo@swmu.edu.cn.', 'Zigong Affiliated Hospital of Southwest Medical University & Zigong Institute of Brain Science, Zigong, Sichuan Province, China. xiangbo@swmu.edu.cn.', 'Central Nervous System Drug Key Laboratory of Sichuan Province, Luzhou, Sichuan Province, China. xiangbo@swmu.edu.cn.']}"
+  ],
+  "journal": "Psychopharmacology",
+  "date": {
+    "year": "2025",
+    "month": "09",
+    "day": "10"
+  },
+  "doi": "10.1007/s00213-025-06867-y",
+  "mesh_terms": [
+    "Humans",
+    "Schizophrenia",
+    "Genome-Wide Association Study",
+    "Genetic Predisposition to Disease",
+    "Gene Regulatory Networks",
+    "Transcription Factor 4"
+  ],
+  "keywords": [
+    "CALM1",
+    "NCAM1",
+    "TCF4",
+    "Gene network",
+    "Schizophrenia"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

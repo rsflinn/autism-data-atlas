@@ -1,0 +1,55 @@
+{
+  "pmid": "41919501",
+  "title": "Conserved sleep disturbances in FOXP1 syndrome originate from developmental dysregulation of peptidergic signaling.",
+  "abstract": "Sleep disturbances are among the most prevalent clinical features of FOXP1 syndrome, yet their nature and underlying mechanisms remain unclear. Here, we report that individuals with FOXP1 syndrome suffer from insomnia with sleep maintenance problems and early waking. Consistently, common variants in FOXP genes were associated with insomnia symptoms and short sleep. These sleep disturbances were recapitulated in Drosophila FoxP mutants, which exhibit severely fragmented and reduced sleep. FoxP loss also led to circadian arrhythmicity and impaired the plasticity of neuropeptide pigment dispersing factor-secreting (PDF-secreting) neurons in a non-cell-autonomous manner. FoxP was required during development for adult sleep integrity, particularly in peptidergic neurons. Transcriptomic analyses revealed a dysregulation of genes involved in peptidergic signaling, including hugin. FoxP was expressed in hugin+ neurons (afferent to PDF-secreting neurons) during development, and its knockdown in these cells was sufficient to induce sleep fragmentation. Our findings establish an evolutionarily conserved role for FOXP proteins in the peptidergic regulation of sleep.",
+  "authors": [
+    "{'last_name': 'Coll-Tan&#xe9;', 'fore_name': 'Mireia', 'initials': 'M', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.']}",
+    "{'last_name': 'Eidhof', 'fore_name': 'Ilse', 'initials': 'I', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.']}",
+    "{'last_name': 'Han', 'fore_name': 'Jie', 'initials': 'J', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.']}",
+    "{'last_name': 'Raun', 'fore_name': 'Nicholas', 'initials': 'N', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.']}",
+    "{'last_name': 'van Renssen', 'fore_name': 'Lara V', 'initials': 'LV', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.']}",
+    "{'last_name': 'Fisher', 'fore_name': 'Simon E', 'initials': 'SE', 'affiliations': ['Language and Genetics Department, Max Planck Institute for Psycholinguistics, Nijmegen, Netherlands.', 'Donders Centre for Neuroscience, Donders Institute for Brain, Cognition, and Behaviour, Radboud University, Nijmegen, Netherlands.']}",
+    "{'last_name': 'Kayser', 'fore_name': 'Matthew S', 'initials': 'MS', 'affiliations': ['Departments of Psychiatry and Neuroscience, Chronobiology and Sleep Institute, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, Pennsylvania, USA.']}",
+    "{'last_name': 'Kleefstra', 'fore_name': 'Tjitske', 'initials': 'T', 'affiliations': ['Department of Human Genetics and.', 'Department of Clinical Genetics, Erasmus University Rotterdam, Rotterdam, Netherlands.', 'Center of Excellence for Neuropsychiatry, Vincent van Gogh Institute for Psychiatry, Venray, Netherlands.']}",
+    "{'last_name': 'Pillen', 'fore_name': 'Sigrid', 'initials': 'S', 'affiliations': ['Kinderslaapexpert BV (Pediatric Sleep Expert Ltd.), Mook, Netherlands.']}",
+    "{'last_name': 'Hudac', 'fore_name': 'Caitlin M', 'initials': 'CM', 'affiliations': ['Department of Psychology and.', 'Carolina Autism and Neurodevelopment Research Center, University of South Carolina, Columbia, South Carolina, USA.']}",
+    "{'last_name': 'Mayneris-Perxachs', 'fore_name': 'Jordi', 'initials': 'J', 'affiliations': ['Nutrition, Eumetabolism and Health Group and Integrative Systems Medicine and Biology Group, Girona Biomedical Research Institute (IDIBGI-CERCA), Girona, Spain.', 'Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Fisiopatolog&#xed;a de la Obesidad y Nutrici&#xf3;n (CIBEROBN), Madrid, Spain.']}",
+    "{'last_name': 'Klein', 'fore_name': 'Marieke', 'initials': 'M', 'affiliations': ['Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.', 'Department of Medical Neuroscience, Radboud University Medical Center, Nijmegen, Netherlands.']}",
+    "{'last_name': 'Koene', 'fore_name': 'Saskia', 'initials': 'S', 'affiliations': ['Department of Human Genetics and.']}",
+    "{'last_name': 'Castells-Nobau', 'fore_name': 'Anna', 'initials': 'A', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.', 'Nutrition, Eumetabolism and Health Group and Integrative Systems Medicine and Biology Group, Girona Biomedical Research Institute (IDIBGI-CERCA), Girona, Spain.', 'Centro de Investigaci&#xf3;n Biom&#xe9;dica en Red de Fisiopatolog&#xed;a de la Obesidad y Nutrici&#xf3;n (CIBEROBN), Madrid, Spain.']}",
+    "{'last_name': 'Schenck', 'fore_name': 'Annette', 'initials': 'A', 'affiliations': ['Department of Human Genetics and.', 'Donders Institute for Brain, Cognition, and Behaviour, Radboud University Medical Center, Nijmegen, Netherlands.']}"
+  ],
+  "journal": "The Journal of clinical investigation",
+  "date": {
+    "year": "2026",
+    "month": "04",
+    "day": "01"
+  },
+  "doi": "10.1172/JCI193475",
+  "mesh_terms": [
+    "Forkhead Transcription Factors",
+    "Animals",
+    "Humans",
+    "Signal Transduction",
+    "Repressor Proteins",
+    "Male",
+    "Drosophila Proteins",
+    "Female",
+    "Drosophila melanogaster",
+    "Neurons",
+    "Neuropeptides",
+    "Sleep Initiation and Maintenance Disorders",
+    "Adult",
+    "Sleep Wake Disorders"
+  ],
+  "keywords": [
+    "Behavior",
+    "Clinical Research",
+    "Complex traits",
+    "Genetic diseases",
+    "Neuroscience"
+  ],
+  "pmc": "PMC13038207",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

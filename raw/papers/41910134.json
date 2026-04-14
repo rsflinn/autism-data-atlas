@@ -1,0 +1,32 @@
+{
+  "pmid": "41910134",
+  "title": "Spatial Lipidomics Reveals Region-Specific Lipid Remodeling in-Deficient Mouse Brain.",
+  "abstract": "Mass spectrometry imaging (MSI) is a powerful tool for mapping the spatial distribution of biomolecules in biological samples. Among the various MSI techniques, nanospray desorption electrospray ionization (nano-DESI) is ideally suited for quantitative imaging of a wide range of biomolecules in biological tissues due to its capabilities as an ambient, liquid extraction-based technique. In this study, we used nano-DESI MSI to investigate the effects ofa gene deficiency in the mouse brain., which encodes the voltage-gated sodium channel Na1.2, is critical to neuronal excitability, and its dysfunction is linked to epilepsy and neurodevelopmental disorders such as autism. Despite its importance, the molecular alterations associated withdysfunction are still poorly understood. Herein, we present the first comprehensive study of regional lipid and metabolite alterations associated withdeficiency, achieved by comparing brain tissues from wild-type (WT) andhomozygous gene-trap (HOM) mice. Nano-DESI MSI experiments were performed on an Orbitrap mass spectrometer in both positive and negative ionization modes, with three biological replicates per group to ensure reproducible detection and broad coverage of biomolecules. Region-of-interest (ROI) analysis revealed multiple species with altered abundance in the HOM mouse brain. Notably, several phosphatidylethanolamine (PE) lipids were observed at higher abundance in different regions of the brain. For example, PE(O-36:5) is more abundant in both the cortex and hippocampus of the HOM brains, while PE(40:4) is more abundant in the hippocampus. Meanwhile, several lipid species, including phosphatidylserine, PS(38:1), were at lower abundance in the cortex. In contrast, abundant structural lipids, including phosphatidylinositol, PI(38:4), and phosphatidylcholine, PC(34:1), showed no significant differences between WT and HOM brains. Our findings offer new insights into the lipid alterations underlying epilepsy and related neurodevelopmental disorders associated withdeficiency.",
+  "authors": [
+    "{'last_name': 'Moore', 'fore_name': 'Alyssa', 'initials': 'A', 'affiliations': ['James Tarpo Jr. and Margaret Tarpo Department of Chemistry, Purdue University, West Lafayette, Indiana 47907, United States.']}",
+    "{'last_name': 'Chen', 'fore_name': 'Xiaoling', 'initials': 'X', 'affiliations': ['Borch Department of Medicinal Chemistry and Molecular Pharmacology, College of Pharmacy, Purdue University, West Lafayette, Indiana 47907, United States.', 'Purdue Institute for Integrative Neuroscience, Purdue University, West Lafayette, Indiana 47907, United States.']}",
+    "{'last_name': 'Hernly', 'fore_name': 'Emerson', 'initials': 'E', 'affiliations': ['James Tarpo Jr. and Margaret Tarpo Department of Chemistry, Purdue University, West Lafayette, Indiana 47907, United States.']}",
+    "{'last_name': 'Zhang', 'fore_name': 'Jingliang', 'initials': 'J', 'affiliations': ['Borch Department of Medicinal Chemistry and Molecular Pharmacology, College of Pharmacy, Purdue University, West Lafayette, Indiana 47907, United States.', 'Purdue Institute for Integrative Neuroscience, Purdue University, West Lafayette, Indiana 47907, United States.']}",
+    "{'last_name': 'Yang', 'fore_name': 'Yang', 'initials': 'Y', 'affiliations': ['Borch Department of Medicinal Chemistry and Molecular Pharmacology, College of Pharmacy, Purdue University, West Lafayette, Indiana 47907, United States.', 'Purdue Institute for Integrative Neuroscience, Purdue University, West Lafayette, Indiana 47907, United States.']}",
+    "{'last_name': 'Laskin', 'fore_name': 'Julia', 'initials': 'J', 'affiliations': ['James Tarpo Jr. and Margaret Tarpo Department of Chemistry, Purdue University, West Lafayette, Indiana 47907, United States.']}"
+  ],
+  "journal": "ACS chemical neuroscience",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "30"
+  },
+  "doi": "10.1021/acschemneuro.6c00199",
+  "mesh_terms": [],
+  "keywords": [
+    "epilepsy",
+    "lipidomics",
+    "mass spectrometry imaging",
+    "nano-DESI",
+    "neurodevelopmental disorders",
+    "spatial neurobiology"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

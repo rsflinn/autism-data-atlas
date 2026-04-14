@@ -1,0 +1,235 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Autism Genomics Atlas - Dataset Catalog Schema",
+  "description": "Extended schema for dataset entries in the autism genomics atlas, building on the base datasets format",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the dataset"
+    },
+    "name": {
+      "type": "string",
+      "description": "Full name of the dataset"
+    },
+    "shortName": {
+      "type": "string",
+      "description": "Abbreviated name"
+    },
+    "description": {
+      "type": "string",
+      "description": "Detailed description of the dataset"
+    },
+    "whatYouCanDo": {
+      "type": "string",
+      "description": "Summary of analyses and queries possible with this dataset"
+    },
+    "whatYouCant": {
+      "type": "string",
+      "description": "Limitations and constraints of the dataset"
+    },
+    "citation": {
+      "type": "string",
+      "description": "Preferred citation for the dataset"
+    },
+    "doi": {
+      "type": "string",
+      "description": "Digital Object Identifier"
+    },
+    "dataType": {
+      "type": "string",
+      "enum": [
+        "whole_genome_sequencing",
+        "whole_exome_sequencing",
+        "targeted_sequencing",
+        "single_cell_rna_seq",
+        "bulk_rna_seq",
+        "atac_seq",
+        "chip_seq",
+        "hi_c",
+        "snp_array",
+        "clinical",
+        "phenotype",
+        "structural_variants",
+        "noncoding_variants",
+        "regulatory_elements",
+        "cell_type_specific",
+        "imaging",
+        "other"
+      ],
+      "description": "Primary type of genomic data"
+    },
+    "organism": {
+      "type": "string",
+      "enum": ["human", "mouse", "drosophila", "other"],
+      "description": "Organism the data is derived from"
+    },
+    "sampleSize": {
+      "type": "integer",
+      "description": "Number of samples in the dataset"
+    },
+    "accessLevel": {
+      "type": "string",
+      "enum": ["public", "dbgap", "controlled", "contact_authors"],
+      "description": "Level of access required"
+    },
+    "accessNotes": {
+      "type": "string",
+      "description": "Specific access instructions or requirements"
+    },
+    "primaryUrl": {
+      "type": "string",
+      "format": "uri",
+      "description": "Primary web link to the dataset"
+    },
+    "downloadUrls": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      },
+      "description": "Direct download links"
+    },
+    "fileFormats": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "File formats available (VCF, BAM, FASTQ, HDF5, CSV, etc.)"
+    },
+    "genesRelevant": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Gene symbols of particular relevance to autism"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Searchable tags for categorization"
+    },
+    "category": {
+      "type": "string",
+      "enum": [
+        "primary_sequencing",
+        "functional_genomics",
+        "cell_type_profiling",
+        "regulatory_elements",
+        "reference_genome",
+        "clinical_phenotypes",
+        "comorbidity_studies",
+        "other"
+      ],
+      "description": "Broad category of the dataset"
+    },
+    "publicationYear": {
+      "type": "integer",
+      "description": "Year of publication or data release"
+    },
+    "codeSnippet": {
+      "type": "string",
+      "description": "Example code for accessing or analyzing the dataset"
+    },
+    "relatedDatasets": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "IDs of related datasets"
+    },
+    "lastVerified": {
+      "type": "string",
+      "format": "date-time",
+      "description": "Timestamp of last verification of dataset access/status"
+    },
+    "regulatoryRelevance": {
+      "type": "string",
+      "description": "How this dataset relates to noncoding/regulatory variant analysis. Describe functional annotation capacity, enhancer data, promoter elements, etc."
+    },
+    "cellTypes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Cell types profiled in the dataset (e.g., 'excitatory neurons', 'parvalbumin interneurons', 'astrocytes')"
+    },
+    "phenotypeData": {
+      "type": "object",
+      "description": "Phenotype information available in the dataset",
+      "properties": {
+        "hasSeverity": {
+          "type": "boolean",
+          "description": "Whether autism severity/symptom severity is quantified"
+        },
+        "hasEpilepsyComorbidity": {
+          "type": "boolean",
+          "description": "Whether epilepsy comorbidity status is recorded"
+        },
+        "hasIQ": {
+          "type": "boolean",
+          "description": "Whether IQ or cognitive assessment data is available"
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed description of phenotype data structure and availability"
+        }
+      }
+    },
+    "variantTypes": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "de novo coding",
+          "de novo noncoding",
+          "noncoding regulatory",
+          "common SNP",
+          "rare coding",
+          "CNV",
+          "SV",
+          "indel",
+          "repeat expansion",
+          "other"
+        ]
+      },
+      "description": "Types of variants covered in the dataset"
+    },
+    "atlasIntegrationStatus": {
+      "type": "string",
+      "enum": ["not_started", "metadata_only", "partially_integrated", "fully_integrated"],
+      "description": "Current integration status into the atlas"
+    },
+    "evidenceTier": {
+      "type": ["string", "null"],
+      "enum": ["A", "B", "C", "D", null],
+      "description": "Evidence tier classification (A=highest quality, D=lowest). Null if not applicable."
+    },
+    "receptorSeparationRelevance": {
+      "type": ["string", "null"],
+      "description": "How this dataset relates to glutamate/GABA receptor separation model. Null if not relevant."
+    },
+    "backfillPriority": {
+      "type": "string",
+      "enum": ["critical", "high", "medium", "low"],
+      "description": "Priority level for atlas backfill integration"
+    },
+    "scanSource": {
+      "type": "string",
+      "description": "How this dataset was discovered (e.g., 'manual', 'pubmed_scan', 'geo_scan', 'dbgap_browse')"
+    }
+  },
+  "required": [
+    "id",
+    "name",
+    "dataType",
+    "accessLevel",
+    "primaryUrl",
+    "atlasIntegrationStatus",
+    "backfillPriority",
+    "scanSource"
+  ],
+  "additionalProperties": false
+}

@@ -1,0 +1,1315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Autism Data Atlas - Genetics Research Database</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --bg-primary: #0a0a0f;
+            --bg-secondary: #111318;
+            --bg-tertiary: #1a1a23;
+            --text-primary: #e2e8f0;
+            --text-muted: #94a3b8;
+            --border-color: #2d3748;
+
+            --color-perturbation: #3b82f6;
+            --color-organoid: #06b6d4;
+            --color-postmortem: #a78bfa;
+            --color-genetic: #f97316;
+            --color-regulatory: #eab308;
+            --color-developmental: #22c55e;
+            --color-reference: #94a3b8;
+            --color-controlled: #ef4444;
+        }
+
+        html, body {
+            height: 100%;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            line-height: 1.6;
+        }
+
+        a {
+            color: var(--color-perturbation);
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+
+        a:hover {
+            color: #60a5fa;
+        }
+
+        button {
+            background: none;
+            border: none;
+            color: inherit;
+            font-family: inherit;
+            cursor: pointer;
+            font-size: inherit;
+        }
+
+        /* Layout */
+        #app {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+        }
+
+        header {
+            background-color: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+            padding: 1.5rem 2rem;
+            flex-shrink: 0;
+        }
+
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .logo {
+            font-size: 1.25rem;
+            font-weight: 700;
+            margin-bottom: 1rem;
+            letter-spacing: -0.5px;
+        }
+
+        .logo-subtitle {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+        }
+
+        nav {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .nav-button {
+            padding: 0.625rem 1rem;
+            border-radius: 6px;
+            border: 1px solid transparent;
+            color: var(--text-muted);
+            font-weight: 500;
+            font-size: 0.9375rem;
+            transition: all 0.2s;
+            background-color: transparent;
+        }
+
+        .nav-button:hover {
+            color: var(--text-primary);
+            background-color: var(--bg-tertiary);
+        }
+
+        .nav-button.active {
+            color: var(--text-primary);
+            border-color: var(--color-perturbation);
+            background-color: rgba(59, 130, 246, 0.1);
+        }
+
+        main {
+            flex: 1;
+            overflow-y: auto;
+            display: flex;
+        }
+
+        .section {
+            display: none;
+            width: 100%;
+            height: 100%;
+            flex-direction: column;
+        }
+
+        .section.active {
+            display: flex;
+        }
+
+        .section-content {
+            flex: 1;
+            overflow-y: auto;
+            padding: 2rem;
+        }
+
+        .max-width {
+            max-width: 1400px;
+            margin: 0 auto;
+            width: 100%;
+        }
+
+        /* Explore Section */
+        .explore-container {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .iframe-container {
+            flex: 1;
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: var(--bg-tertiary);
+        }
+
+        .iframe-container iframe {
+            width: 100%;
+            height: 100%;
+            border: none;
+        }
+
+        .iframe-controls {
+            display: flex;
+            gap: 1rem;
+            padding: 1rem 0;
+            justify-content: flex-end;
+        }
+
+        .iframe-link {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            background-color: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            color: var(--color-perturbation);
+            font-size: 0.875rem;
+            transition: all 0.2s;
+        }
+
+        .iframe-link:hover {
+            background-color: rgba(59, 130, 246, 0.1);
+            border-color: var(--color-perturbation);
+        }
+
+        /* Datasets Section */
+        .datasets-toolbar {
+            display: grid;
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        .search-container {
+            display: flex;
+            gap: 0.75rem;
+        }
+
+        .search-input {
+            flex: 1;
+            padding: 0.875rem 1rem;
+            background-color: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            color: var(--text-primary);
+            font-size: 1rem;
+            font-family: inherit;
+            transition: border-color 0.2s;
+        }
+
+        .search-input:focus {
+            outline: none;
+            border-color: var(--color-perturbation);
+            background-color: rgba(59, 130, 246, 0.05);
+        }
+
+        .filter-section {
+            display: grid;
+            gap: 0.75rem;
+        }
+
+        .filter-label {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .filter-chips {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .chip {
+            padding: 0.5rem 1rem;
+            background-color: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 20px;
+            color: var(--text-primary);
+            font-size: 0.875rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .chip:hover {
+            border-color: var(--text-primary);
+        }
+
+        .chip.active {
+            background-color: rgba(59, 130, 246, 0.2);
+            border-color: var(--color-perturbation);
+            color: var(--text-primary);
+        }
+
+        .chip[data-category="perturbation"].active {
+            background-color: rgba(59, 130, 246, 0.2);
+            border-color: var(--color-perturbation);
+        }
+
+        .chip[data-category="organoid"].active {
+            background-color: rgba(6, 182, 212, 0.2);
+            border-color: var(--color-organoid);
+        }
+
+        .chip[data-category="postmortem"].active {
+            background-color: rgba(167, 139, 250, 0.2);
+            border-color: var(--color-postmortem);
+        }
+
+        .chip[data-category="genetic"].active {
+            background-color: rgba(249, 115, 22, 0.2);
+            border-color: var(--color-genetic);
+        }
+
+        .chip[data-category="regulatory"].active {
+            background-color: rgba(234, 179, 8, 0.2);
+            border-color: var(--color-regulatory);
+        }
+
+        .chip[data-category="developmental"].active {
+            background-color: rgba(34, 197, 94, 0.2);
+            border-color: var(--color-developmental);
+        }
+
+        .datasets-count {
+            font-size: 0.9375rem;
+            color: var(--text-muted);
+            padding: 1rem 0 0 0;
+        }
+
+        .datasets-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 2rem;
+        }
+
+        @media (max-width: 768px) {
+            .datasets-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        .dataset-card {
+            background-color: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            padding: 1.5rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .dataset-card:hover {
+            border-color: var(--color-perturbation);
+            background-color: rgba(59, 130, 246, 0.05);
+            box-shadow: 0 0 20px rgba(59, 130, 246, 0.1);
+        }
+
+        .dataset-title {
+            font-size: 1rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            line-height: 1.4;
+        }
+
+        .dataset-description {
+            font-size: 0.875rem;
+            color: var(--text-muted);
+            line-height: 1.5;
+        }
+
+        .dataset-meta {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            font-size: 0.8125rem;
+        }
+
+        .badge {
+            padding: 0.375rem 0.75rem;
+            border-radius: 4px;
+            font-weight: 500;
+            display: inline-block;
+        }
+
+        .badge-category {
+            background-color: rgba(59, 130, 246, 0.2);
+            color: #60a5fa;
+        }
+
+        .badge-category[data-type="perturbation"] {
+            background-color: rgba(59, 130, 246, 0.2);
+            color: #60a5fa;
+        }
+
+        .badge-category[data-type="organoid"] {
+            background-color: rgba(6, 182, 212, 0.2);
+            color: #22d3ee;
+        }
+
+        .badge-category[data-type="postmortem"] {
+            background-color: rgba(167, 139, 250, 0.2);
+            color: #c4b5fd;
+        }
+
+        .badge-category[data-type="genetic"] {
+            background-color: rgba(249, 115, 22, 0.2);
+            color: #fb923c;
+        }
+
+        .badge-category[data-type="regulatory"] {
+            background-color: rgba(234, 179, 8, 0.2);
+            color: #facc15;
+        }
+
+        .badge-category[data-type="developmental"] {
+            background-color: rgba(34, 197, 94, 0.2);
+            color: #4ade80;
+        }
+
+        .badge-category[data-type="reference"] {
+            background-color: rgba(148, 163, 184, 0.2);
+            color: #cbd5e1;
+        }
+
+        .badge-access {
+            padding: 0.375rem 0.75rem;
+            border-radius: 4px;
+            font-weight: 500;
+            display: inline-block;
+        }
+
+        .badge-access[data-access="PUBLIC"] {
+            background-color: rgba(34, 197, 94, 0.2);
+            color: #4ade80;
+        }
+
+        .badge-access[data-access="REGISTERED"] {
+            background-color: rgba(234, 179, 8, 0.2);
+            color: #facc15;
+        }
+
+        .badge-access[data-access="CONTROLLED"] {
+            background-color: rgba(239, 68, 68, 0.2);
+            color: #f87171;
+        }
+
+        .badge-access[data-access="GATED"] {
+            background-color: rgba(249, 115, 22, 0.2);
+            color: #fb923c;
+        }
+
+        .badge-organism {
+            background-color: rgba(167, 139, 250, 0.2);
+            color: #c4b5fd;
+        }
+
+        .dataset-stats {
+            display: flex;
+            gap: 1rem;
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+            padding-top: 0.5rem;
+            border-top: 1px solid var(--border-color);
+        }
+
+        .dataset-card-expanded {
+            display: none;
+        }
+
+        .dataset-card-expanded.active {
+            display: block;
+            grid-column: 1 / -1;
+            padding: 2rem;
+            background-color: rgba(59, 130, 246, 0.05);
+            border-top: 2px solid var(--color-perturbation);
+        }
+
+        .expanded-section {
+            margin-bottom: 1.5rem;
+        }
+
+        .expanded-title {
+            font-size: 0.875rem;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            margin-bottom: 0.5rem;
+        }
+
+        .expanded-content {
+            font-size: 0.9375rem;
+            color: var(--text-primary);
+            line-height: 1.6;
+        }
+
+        .code-block {
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            padding: 1rem;
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.8125rem;
+            overflow-x: auto;
+            margin: 0.5rem 0;
+            position: relative;
+        }
+
+        .copy-button {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            padding: 0.375rem 0.75rem;
+            background-color: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 0.75rem;
+            color: var(--text-muted);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .copy-button:hover {
+            background-color: var(--color-perturbation);
+            color: white;
+            border-color: var(--color-perturbation);
+        }
+
+        .related-datasets {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .related-link {
+            padding: 0.375rem 0.75rem;
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 0.8125rem;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .related-link:hover {
+            border-color: var(--color-perturbation);
+            color: var(--color-perturbation);
+        }
+
+        .close-expanded {
+            display: inline-block;
+            padding: 0.375rem 0.75rem;
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 4px;
+            font-size: 0.8125rem;
+            cursor: pointer;
+            margin-top: 1rem;
+        }
+
+        .close-expanded:hover {
+            border-color: var(--color-perturbation);
+        }
+
+        /* Getting Started Section */
+        .guide-section {
+            margin-bottom: 3rem;
+        }
+
+        .guide-title {
+            font-size: 1.5rem;
+            font-weight: 700;
+            margin-bottom: 0.5rem;
+            color: var(--text-primary);
+        }
+
+        .guide-subtitle {
+            font-size: 1rem;
+            color: var(--text-muted);
+            margin-bottom: 2rem;
+        }
+
+        .guide-subsection {
+            margin-bottom: 2rem;
+        }
+
+        .guide-heading {
+            font-size: 1.125rem;
+            font-weight: 600;
+            margin-bottom: 1rem;
+            color: var(--text-primary);
+        }
+
+        .guide-text {
+            font-size: 0.9375rem;
+            line-height: 1.7;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+        }
+
+        .guide-list {
+            margin-left: 1.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .guide-list-item {
+            list-style: disc;
+            margin-bottom: 0.75rem;
+            color: var(--text-primary);
+        }
+
+        .guide-list strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        /* About Section */
+        .about-section {
+            max-width: 800px;
+        }
+
+        .about-title {
+            font-size: 2rem;
+            font-weight: 700;
+            margin-bottom: 1.5rem;
+            color: var(--text-primary);
+        }
+
+        .about-text {
+            font-size: 1rem;
+            line-height: 1.8;
+            color: var(--text-primary);
+            margin-bottom: 1.5rem;
+        }
+
+        .about-text strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .about-text em {
+            font-style: italic;
+            color: var(--text-muted);
+        }
+
+        /* Footer */
+        footer {
+            background-color: var(--bg-secondary);
+            border-top: 1px solid var(--border-color);
+            padding: 2rem;
+            font-size: 0.8125rem;
+            color: var(--text-muted);
+            text-align: center;
+            flex-shrink: 0;
+        }
+
+        .footer-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 1rem;
+        }
+
+        .footer-text {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        .footer-link {
+            color: var(--color-perturbation);
+        }
+
+        .footer-link:hover {
+            color: #60a5fa;
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 2rem;
+            color: var(--text-muted);
+        }
+
+        .empty-state-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        .empty-state-text {
+            font-size: 1rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            header {
+                padding: 1rem;
+            }
+
+            .section-content {
+                padding: 1rem;
+            }
+
+            nav {
+                gap: 0.25rem;
+            }
+
+            .nav-button {
+                padding: 0.5rem 0.75rem;
+                font-size: 0.875rem;
+            }
+
+            .datasets-toolbar {
+                gap: 1rem;
+            }
+
+            .filter-chips {
+                gap: 0.4rem;
+            }
+
+            .chip {
+                padding: 0.4rem 0.8rem;
+                font-size: 0.8rem;
+            }
+
+            .datasets-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .footer-content {
+                flex-direction: column;
+                text-align: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div id="app">
+        <header>
+            <div class="header-content">
+                <div class="logo">Autism Data Atlas</div>
+                <div class="logo-subtitle">An open source genetics research database</div>
+                <nav id="nav">
+                    <button class="nav-button active" data-section="brain-explorer">Brain Explorer</button>
+                    <button class="nav-button" data-section="timeline">Timeline</button>
+                    <button class="nav-button" data-section="datasets">Datasets</button>
+                    <button class="nav-button" data-section="getting-started">Getting Started</button>
+                    <button class="nav-button" data-section="about">About</button>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <!-- Brain Explorer Section -->
+            <section id="brain-explorer" class="section active">
+                <div class="section-content" style="padding: 0;">
+                    <div class="explore-container">
+                        <div class="iframe-controls">
+                            <a href="brain-explorer.html" target="_blank" class="iframe-link">Open Full Screen →</a>
+                        </div>
+                        <div class="iframe-container">
+                            <iframe src="brain-explorer.html" title="Brain Explorer"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Timeline Section -->
+            <section id="timeline" class="section">
+                <div class="section-content" style="padding: 0;">
+                    <div class="explore-container">
+                        <div class="iframe-controls">
+                            <a href="study-timeline.html" target="_blank" class="iframe-link">Open Full Screen →</a>
+                        </div>
+                        <div class="iframe-container">
+                            <iframe src="study-timeline.html" title="Research Timeline"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Datasets Section -->
+            <section id="datasets" class="section">
+                <div class="section-content">
+                    <div class="max-width">
+                        <div style="margin-bottom: 2rem;">
+                            <h1 style="font-size: 1.875rem; font-weight: 700; margin-bottom: 0.5rem;">Datasets</h1>
+                            <p style="color: var(--text-muted); font-size: 1rem;">Browse and filter research datasets for autism genetics</p>
+                        </div>
+
+                        <div class="datasets-toolbar">
+                            <div class="search-container">
+                                <input
+                                    type="text"
+                                    id="datasetSearch"
+                                    class="search-input"
+                                    placeholder="Search by name, genes, description..."
+                                    aria-label="Search datasets"
+                                />
+                            </div>
+
+                            <div class="filter-section">
+                                <div class="filter-label">Category</div>
+                                <div class="filter-chips" id="categoryFilters">
+                                    <button class="chip" data-category="perturbation">Perturbation Studies</button>
+                                    <button class="chip" data-category="organoid">Patient-Derived Organoids</button>
+                                    <button class="chip" data-category="postmortem">Postmortem Brain</button>
+                                    <button class="chip" data-category="genetic">Genetic Variation</button>
+                                    <button class="chip" data-category="regulatory">Regulatory Networks</button>
+                                    <button class="chip" data-category="developmental">Developmental</button>
+                                    <button class="chip" data-category="reference">Reference Databases</button>
+                                </div>
+                            </div>
+
+                            <div class="filter-section">
+                                <div class="filter-label">Access Level</div>
+                                <div class="filter-chips" id="accessFilters">
+                                    <button class="chip" data-access="PUBLIC">Public</button>
+                                    <button class="chip" data-access="REGISTERED">Registered</button>
+                                    <button class="chip" data-access="CONTROLLED">Controlled</button>
+                                    <button class="chip" data-access="GATED">Gated</button>
+                                </div>
+                            </div>
+
+                            <div class="filter-section">
+                                <div class="filter-label">Organism</div>
+                                <div class="filter-chips" id="organismFilters">
+                                    <button class="chip" data-organism="Human">Human</button>
+                                    <button class="chip" data-organism="Mouse">Mouse</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="datasets-count" id="datasetsCount"></div>
+
+                        <div class="datasets-grid" id="datasetsGrid">
+                            <!-- Populated by JavaScript -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Getting Started Section -->
+            <section id="getting-started" class="section">
+                <div class="section-content">
+                    <div class="max-width">
+                        <div class="guide-section">
+                            <h1 class="guide-title">Getting Started with Autism Genetics Data</h1>
+                            <p class="guide-subtitle">A practical guide for citizen scientists, parents, students and independent researchers</p>
+                        </div>
+
+                        <div class="guide-section">
+                            <h2 class="guide-heading">What You're Looking At</h2>
+                            <p class="guide-text">Autism genetics data comes in several flavors, each answering a different biological question:</p>
+                            <div class="guide-list">
+                                <li class="guide-list-item"><strong>Gene expression data (RNA-seq)</strong> measures which genes are turned on in which cells. A typical RNA-seq experiment produces a spreadsheet where rows are genes and columns are individual cells or tissue samples, with values representing how much mRNA each gene produced.</li>
+                                <li class="guide-list-item"><strong>Variant data (WGS/WES)</strong> catalogs differences in DNA sequence between individuals. Think of it as a diff file: positions where your DNA differs from the reference genome, what the difference is, and how common it is in the general population.</li>
+                                <li class="guide-list-item"><strong>GWAS summary statistics</strong> test whether common genetic variations are more frequent in people with autism than in controls. The output is a table of SNP positions with p-values and effect sizes.</li>
+                                <li class="guide-list-item"><strong>Regulatory networks</strong> map how genes control each other. These come from ChIP-seq (which transcription factors bind where), ATAC-seq (which DNA regions are accessible), or computational inference (which genes likely regulate which).</li>
+                            </div>
+                        </div>
+
+                        <div class="guide-section">
+                            <h2 class="guide-heading">File Formats You'll Encounter</h2>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">VCF (Variant Call Format)</strong>
+                                <p class="guide-text">A text file listing every place someone's DNA differs from the reference genome. Each row = one variant. Columns = chromosome, position, reference allele, alternate allele, quality scores, and sample-level information. Opens with <code>pysam</code> in Python or <code>bcftools</code> on the command line.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">H5AD</strong>
+                                <p class="guide-text">The standard format for single-cell RNA-seq data. Stores a matrix where rows = cells and columns = genes, plus metadata about each cell (cell type, donor, condition, etc.). Opens with <code>scanpy</code> in Python. Usually compressed to gigabyte-scale files.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">FASTQ</strong>
+                                <p class="guide-text">Raw sequencing reads from the sequencer. You almost never need these unless you're reprocessing data from scratch. Each read is 4 lines: identifier, sequence, separator, and quality scores. Files are huge (10–100 GB per sample).</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">GZ / BGZ</strong>
+                                <p class="guide-text">Compressed files. Most genomic data lives compressed. Python's <code>gzip</code> library or pandas can read them directly without decompressing to disk.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">TSV / CSV</strong>
+                                <p class="guide-text">Tab or comma separated text. The friendliest format. Opens in Excel, Google Sheets, pandas, R, or any text editor. Most supplementary tables from papers arrive as TSV or CSV.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">BED</strong>
+                                <p class="guide-text">Genomic coordinates. Three columns minimum: chromosome, start position, end position. Used for regulatory elements, peaks, regions of interest. Often extended with additional columns for scores or metadata.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: var(--text-primary);">XLSX</strong>
+                                <p class="guide-text">Excel files. Common for supplementary tables in papers. Opens with <code>openpyxl</code> or <code>pandas</code> in Python.</p>
+                            </div>
+                        </div>
+
+                        <div class="guide-section">
+                            <h2 class="guide-heading">Setting Up Your Environment</h2>
+                            <p class="guide-text">You need Python 3.9 or later. Install a few essential packages:</p>
+                            <div class="code-block">pip install pandas numpy scanpy anndata openpyxl GEOparse requests
+                            </div>
+                            <p class="guide-text">For variant analysis, add:</p>
+                            <div class="code-block">pip install pysam pyliftover vcf
+                            </div>
+                            <p class="guide-text">For plotting:</p>
+                            <div class="code-block">pip install matplotlib seaborn plotly
+                            </div>
+                            <p class="guide-text">For interactive exploration, we recommend <a href="https://jupyter.org/" target="_blank">Jupyter notebooks</a>. If you want zero setup, use <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>.</p>
+                        </div>
+
+                        <div class="guide-section">
+                            <h2 class="guide-heading">Your First Analysis</h2>
+                            <p class="guide-text">Let's walk through downloading a real dataset from GEO: GSE28521, a microarray study comparing cortical gene expression in people with and without autism. It's fully public, small enough to handle on a laptop, and published in a peer-reviewed journal.</p>
+                            <div class="code-block">import GEOparse
+import pandas as pd
+
+# Download the dataset
+gse = GEOparse.get_GEO('GSE28521', destdir='./data')
+
+# List the samples
+for sample in gse.metadata['sample_ids']:
+    print(f"{sample}: {gse.gsms[sample].metadata['title']}")
+
+# Extract expression matrix (rows = genes, columns = samples)
+expression = gse.pivot_samples('VALUE')
+print(expression.shape)  # (number of genes, number of samples)
+
+# Load phenotype data
+phenotypes = pd.DataFrame({
+    sample: gse.gsms[sample].metadata
+    for sample in gse.metadata['sample_ids']
+}).T
+                            </div>
+                            <p class="guide-text">Now you have the expression data and sample metadata. You could compare gene expression between autism and control samples, look for patterns using dimensionality reduction, or cross-reference your findings with genetic databases.</p>
+                        </div>
+
+                        <div class="guide-section">
+                            <h2 class="guide-heading">Access Levels Explained</h2>
+                            <div class="guide-subsection">
+                                <strong style="color: #4ade80;">PUBLIC</strong>
+                                <p class="guide-text">Download immediately, no barriers. Start here. GEO, Zenodo, and most bioRxiv preprints fall into this category.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: #facc15;">REGISTERED</strong>
+                                <p class="guide-text">Create a free account (GEO, Synapse, Zenodo). Takes 5 minutes. Minor friction, but data is still freely accessible to anyone.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: #f87171;">CONTROLLED</strong>
+                                <p class="guide-text">Requires institutional affiliation and an approved Data Use Agreement (DUA). Timeline: weeks to months. Protects participant privacy for sensitive datasets like patient cohorts. NIH dbGaP and the Simons Simplex Collection work this way.</p>
+                            </div>
+                            <div class="guide-subsection">
+                                <strong style="color: #fb923c;">GATED</strong>
+                                <p class="guide-text">Available "upon reasonable request" to the corresponding author. Success rate varies. Email them politely with your affiliation and research plan. This is where independent researchers sometimes hit a wall.</p>
+                            </div>
+                        </div>
+
+                        <div class="guide-section">
+                            <h2 class="guide-heading">Where to Learn More</h2>
+                            <div class="guide-list">
+                                <li class="guide-list-item"><a href="https://bioinformatics.stackexchange.com/" target="_blank">Bioinformatics Stack Exchange</a> — Ask questions, get real answers from the community</li>
+                                <li class="guide-list-item"><a href="https://scanpy.readthedocs.io/" target="_blank">Scanpy tutorials</a> — Official documentation for single-cell analysis</li>
+                                <li class="guide-list-item"><a href="https://genome.ucsc.edu/" target="_blank">UCSC Genome Browser</a> — Visual exploration of genomic coordinates and annotations</li>
+                                <li class="guide-list-item"><a href="https://www.ncbi.nlm.nih.gov/geo/" target="_blank">GEO (Gene Expression Omnibus)</a> — The largest public repository for expression data</li>
+                                <li class="guide-list-item"><a href="https://www.sfari.org/" target="_blank">SFARI (Simon Foundation Autism Research Initiative)</a> — Autism-specific genomic resources and genes database</li>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- About Section -->
+            <section id="about" class="section">
+                <div class="section-content">
+                    <div class="max-width">
+                        <div class="about-section">
+                            <h1 class="about-title">About This Project</h1>
+
+                            <p class="about-text">This resource was built by <strong>Ryan Flinn</strong>, a journalist and parent of a child with profound autism and drug-resistant epilepsy. Over 130+ working sessions beginning in early 2025, Flinn independently reanalyzed his daughter's genetic data using publicly available research datasets and AI-assisted analysis tools.</p>
+
+                            <p class="about-text">The biggest recurring barrier wasn't the analysis itself — it was <em>finding the data</em>. Datasets are scattered across GEO, Synapse, Zenodo, journal supplements, and institutional portals with different access requirements, file formats, and naming conventions. This catalog exists so other parents, citizen scientists, graduate students, and independent researchers don't have to repeat the scavenger hunt.</p>
+
+                            <p class="about-text">The <strong>gene network explorer</strong> visualizes how autism-associated genes interact across biological layers, from regulatory factors at the top through transcription factors and ion channels down to clinical phenotype. It's built from published research data and is intended as a learning tool, not a diagnostic instrument.</p>
+
+                            <p class="about-text">This is an <strong>open-source project</strong>. The dataset catalog lives as a JSON file on GitHub. Anyone can submit a pull request to add a dataset, correct an error, or update access information.</p>
+
+                            <p class="about-text" style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+                                <strong>Contact:</strong> <a href="mailto:ryan_flinn@outlook.com">ryan_flinn@outlook.com</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <div class="footer-text">
+                    Autism Data Atlas is an independent open-source project. Not affiliated with any institution. Data descriptions are based on published research and may contain errors. Always verify access requirements and terms of use before downloading data. Last updated: March 2026.
+                </div>
+                <div style="text-align: right;">
+                    <a href="https://github.com/" target="_blank" class="footer-link">Contribute on GitHub →</a>
+                </div>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        let datasetsData = [];
+        let expandedDatasetId = null;
+
+        // Load datasets from JSON file
+        async function loadDatasets() {
+            try {
+                const response = await fetch('datasets.json');
+                if (response.ok) {
+                    datasetsData = await response.json();
+                    renderDatasets();
+                } else {
+                    showDatasetLoadError();
+                }
+            } catch(e) {
+                showDatasetLoadError();
+            }
+        }
+
+        function showDatasetLoadError() {
+            const grid = document.getElementById('datasetsGrid');
+            grid.innerHTML = `
+                <div class="empty-state" style="grid-column: 1 / -1;">
+                    <div class="empty-state-icon">⚠️</div>
+                    <div class="empty-state-text">Could not load datasets.json</div>
+                    <p style="margin-top: 1rem; font-size: 0.9375rem;">
+                        To view datasets, serve this directory with a local web server:<br/>
+                        <code style="background: var(--bg-tertiary); padding: 0.5rem; border-radius: 4px; display: inline-block; margin-top: 0.5rem;">python3 -m http.server</code><br/>
+                        Or deploy to GitHub Pages.
+                    </p>
+                </div>
+            `;
+        }
+
+        // Map category values from JSON to CSS class values
+        function mapCategoryForCSS(category) {
+            const mapping = {
+                'perturbation': 'perturbation',
+                'patient-organoid': 'organoid',
+                'postmortem': 'postmortem',
+                'genetic-variation': 'genetic',
+                'regulatory': 'regulatory',
+                'developmental': 'developmental',
+                'reference': 'reference',
+                'controlled-access': 'controlled'
+            };
+            return mapping[category] || category;
+        }
+
+        // Filter datasets based on active filters and search
+        function getFilteredDatasets() {
+            const searchTerm = document.getElementById('datasetSearch').value.toLowerCase();
+
+            // Get active filters
+            const activeCategories = Array.from(document.querySelectorAll('#categoryFilters .chip.active'))
+                .map(el => el.dataset.category);
+            const activeAccess = Array.from(document.querySelectorAll('#accessFilters .chip.active'))
+                .map(el => el.dataset.access);
+            const activeOrganisms = Array.from(document.querySelectorAll('#organismFilters .chip.active'))
+                .map(el => el.dataset.organism);
+
+            return datasetsData.filter(dataset => {
+                // Search filter
+                if (searchTerm) {
+                    const searchableText = [
+                        dataset.name,
+                        dataset.description,
+                        dataset.citation,
+                        (dataset.tags || []).join(' '),
+                        (dataset.genesRelevant || []).join(' ')
+                    ].join(' ').toLowerCase();
+
+                    if (!searchableText.includes(searchTerm)) return false;
+                }
+
+                // Category filter
+                if (activeCategories.length > 0) {
+                    if (!activeCategories.includes(dataset.category)) return false;
+                }
+
+                // Access filter
+                if (activeAccess.length > 0) {
+                    if (!activeAccess.includes(dataset.accessLevel)) return false;
+                }
+
+                // Organism filter
+                if (activeOrganisms.length > 0) {
+                    if (!activeOrganisms.includes(dataset.organism)) return false;
+                }
+
+                return true;
+            });
+        }
+
+        // Render dataset cards
+        function renderDatasets() {
+            const filtered = getFilteredDatasets();
+            const grid = document.getElementById('datasetsGrid');
+            const countEl = document.getElementById('datasetsCount');
+
+            if (filtered.length === 0) {
+                grid.innerHTML = `
+                    <div class="empty-state" style="grid-column: 1 / -1;">
+                        <div class="empty-state-icon">🔍</div>
+                        <div class="empty-state-text">No datasets found matching your filters</div>
+                    </div>
+                `;
+                countEl.textContent = `Showing 0 datasets`;
+                return;
+            }
+
+            countEl.textContent = `Showing ${filtered.length} dataset${filtered.length !== 1 ? 's' : ''}`;
+
+            grid.innerHTML = filtered.map(dataset => {
+                const cssCategory = mapCategoryForCSS(dataset.category);
+                const truncatedDesc = dataset.description.substring(0, 150) + (dataset.description.length > 150 ? '...' : '');
+                const dataTypes = (dataset.dataType || []).join(', ');
+
+                return `
+                    <div class="dataset-card" onclick="expandDataset('${dataset.id}')">
+                        <div class="dataset-title">${dataset.name}</div>
+                        <div class="dataset-description">${truncatedDesc}</div>
+                        <div class="dataset-meta">
+                            <span class="badge badge-category" data-type="${cssCategory}">${dataset.category.replace('-', ' ')}</span>
+                            <span class="badge badge-access" data-access="${dataset.accessLevel}">${dataset.accessLevel}</span>
+                            <span class="badge badge-organism">${dataset.organism}</span>
+                        </div>
+                        <div class="dataset-stats">
+                            ${dataset.sampleSize ? `<span>n=${dataset.sampleSize}</span>` : ''}
+                            ${dataset.publicationYear ? `<span>${dataset.publicationYear}</span>` : ''}
+                            ${dataTypes ? `<span>${dataTypes}</span>` : ''}
+                        </div>
+                    </div>
+                `;
+            }).join('');
+
+            // Add expanded view if one is selected
+            if (expandedDatasetId) {
+                const expanded = filtered.find(d => d.id === expandedDatasetId);
+                if (expanded) {
+                    grid.innerHTML += renderExpandedDataset(expanded);
+                }
+            }
+        }
+
+        // Render expanded dataset view
+        function renderExpandedDataset(dataset) {
+            const cssCategory = mapCategoryForCSS(dataset.category);
+            const downloadLinksHTML = (dataset.downloadUrls || [])
+                .map(link => `<a href="${link.url}" target="_blank">${link.label}${link.format ? ` (${link.format})` : ''}${link.sizeApprox ? ` - ${link.sizeApprox}` : ''}</a>`)
+                .join('<br/>');
+
+            const relatedHTML = (dataset.relatedDatasets || [])
+                .map(id => `<button class="related-link" onclick="expandDataset('${id}')">${id}</button>`)
+                .join('');
+
+            const genesHTML = (dataset.genesRelevant || [])
+                .map(gene => `<span style="background: var(--bg-secondary); padding: 0.25rem 0.5rem; border-radius: 3px; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem;">${gene}</span>`)
+                .join(' ');
+
+            return `
+                <div class="dataset-card-expanded active" onclick="event.stopPropagation()">
+                    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5rem;">
+                        <div>
+                            <h2 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">${dataset.name}</h2>
+                            <div class="dataset-meta">
+                                <span class="badge badge-category" data-type="${cssCategory}">${dataset.category.replace('-', ' ')}</span>
+                                <span class="badge badge-access" data-access="${dataset.accessLevel}">${dataset.accessLevel}</span>
+                            </div>
+                        </div>
+                        <button class="close-expanded" onclick="closeExpanded()">Close</button>
+                    </div>
+
+                    ${dataset.citation ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Citation</div>
+                            <div class="expanded-content">
+                                ${dataset.citation}
+                                ${dataset.doi ? ` <a href="https://doi.org/${dataset.doi}" target="_blank">DOI: ${dataset.doi}</a>` : ''}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.description ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Description</div>
+                            <div class="expanded-content">${dataset.description}</div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.whatYouCanDo ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">What You Can Do</div>
+                            <div class="expanded-content">${dataset.whatYouCanDo}</div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.whatYouCant ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">What You Can't Do</div>
+                            <div class="expanded-content">${dataset.whatYouCant}</div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.downloadUrls && dataset.downloadUrls.length > 0 ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Download</div>
+                            <div class="expanded-content">
+                                ${downloadLinksHTML}
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.codeSnippet ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Code Example</div>
+                            <div class="code-block">
+                                <button class="copy-button" onclick="copyCode(this)">Copy</button>
+                                <pre style="margin: 0; overflow-x: auto;">${escapeHtml(dataset.codeSnippet)}</pre>
+                            </div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.relatedDatasets && dataset.relatedDatasets.length > 0 ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Related Datasets</div>
+                            <div class="related-datasets">${relatedHTML}</div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.accessNotes ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Access Notes</div>
+                            <div class="expanded-content">${dataset.accessNotes}</div>
+                        </div>
+                    ` : ''}
+
+                    ${genesHTML ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Genes of Interest</div>
+                            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">${genesHTML}</div>
+                        </div>
+                    ` : ''}
+
+                    ${dataset.tags && dataset.tags.length > 0 ? `
+                        <div class="expanded-section">
+                            <div class="expanded-title">Tags</div>
+                            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+                                ${dataset.tags.map(tag => `<span style="background: var(--bg-secondary); padding: 0.25rem 0.5rem; border-radius: 3px; font-size: 0.8rem;">${tag}</span>`).join('')}
+                            </div>
+                        </div>
+                    ` : ''}
+                </div>
+            `;
+        }
+
+        function expandDataset(datasetId) {
+            expandedDatasetId = datasetId;
+            renderDatasets();
+            // Scroll to expanded view
+            setTimeout(() => {
+                document.querySelector('.dataset-card-expanded')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }, 100);
+        }
+
+        function closeExpanded() {
+            expandedDatasetId = null;
+            renderDatasets();
+        }
+
+        function copyCode(button) {
+            const code = button.nextElementSibling.textContent;
+            navigator.clipboard.writeText(code).then(() => {
+                const originalText = button.textContent;
+                button.textContent = 'Copied!';
+                setTimeout(() => {
+                    button.textContent = originalText;
+                }, 2000);
+            });
+        }
+
+        function escapeHtml(text) {
+            const map = {
+                '&': '&amp;',
+                '<': '&lt;',
+                '>': '&gt;',
+                '"': '&quot;',
+                "'": '&#039;'
+            };
+            return text.replace(/[&<>"']/g, m => map[m]);
+        }
+
+        // Filter event listeners
+        document.getElementById('categoryFilters').addEventListener('click', e => {
+            if (e.target.classList.contains('chip')) {
+                e.target.classList.toggle('active');
+                renderDatasets();
+            }
+        });
+
+        document.getElementById('accessFilters').addEventListener('click', e => {
+            if (e.target.classList.contains('chip')) {
+                e.target.classList.toggle('active');
+                renderDatasets();
+            }
+        });
+
+        document.getElementById('organismFilters').addEventListener('click', e => {
+            if (e.target.classList.contains('chip')) {
+                e.target.classList.toggle('active');
+                renderDatasets();
+            }
+        });
+
+        // Search event listener
+        document.getElementById('datasetSearch').addEventListener('input', () => {
+            renderDatasets();
+        });
+
+        // Navigation
+        document.getElementById('nav').addEventListener('click', e => {
+            if (e.target.classList.contains('nav-button')) {
+                document.querySelectorAll('.nav-button').forEach(btn => btn.classList.remove('active'));
+                document.querySelectorAll('.section').forEach(sec => sec.classList.remove('active'));
+
+                e.target.classList.add('active');
+                const sectionId = e.target.dataset.section;
+                document.getElementById(sectionId).classList.add('active');
+            }
+        });
+
+        // Initialize
+        loadDatasets();
+    </script>
+</body>
+</html>

@@ -1,0 +1,39 @@
+{
+  "pmid": "41801223",
+  "title": "An Open-Source Pipeline for Calcium Imaging and All-Optical Physiology in Human Stem Cell-Derived Neurons.",
+  "abstract": "High-throughput, single-cell resolution profiling of neuronal activity is critical for understanding brain function and modeling neurological disorders, yet existing approaches are often limited by scalability and manual workflows. Here, we present an open-source, scalable imaging and analysis platform that integrates optogenetic stimulation, calcium imaging, automated acquisition, single-cell and network analyses. The platform enables robust quantification of spontaneous and evoked neuronal activity across hundreds of human stem cell-derived neurons over multiple timepoints, supporting functional phenotyping at both cellular and network levels. We demonstrate the versatility of the platform across multiple disease-relevant contexts, including models of CDKL5 Deficiency, SSADH Deficiency, and tuberous sclerosis complex (TSC). Additionally, we generate CRISPR-Cas9 knock-in hiPSC lines expressing GCaMP6s and demonstrate partial reversal through pharmacological intervention in TSC. By linking single-cell dynamics to network-level measures, this platform provides a generalizable framework for scalable functional phenotyping and high-throughput screening in human neuronal models.",
+  "authors": [
+    "{'last_name': 'Afshar-Saber', 'fore_name': 'Wardiya', 'initials': 'W', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Gasparoli', 'fore_name': 'Federico M', 'initials': 'FM', 'affiliations': ['Department of Systems Biology, Harvard Medical School, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Yang', 'fore_name': 'Ziqin', 'initials': 'Z', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Teaney', 'fore_name': 'Nicole A', 'initials': 'NA', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Hobson', 'fore_name': 'Rachel', 'initials': 'R', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Lalani', 'fore_name': 'Lahin', 'initials': 'L', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Srinivasan', 'fore_name': 'Gayathri', 'initials': 'G', 'affiliations': ['Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.', \"Human Neuron Core, Boston Children's Hospital, Boston, Massachusetts, USA.\"]}",
+    "{'last_name': 'Whye', 'fore_name': 'Dosh', 'initials': 'D', 'affiliations': ['Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.', \"Human Neuron Core, Boston Children's Hospital, Boston, Massachusetts, USA.\"]}",
+    "{'last_name': 'Karmakar', 'fore_name': 'Ranit', 'initials': 'R', 'affiliations': ['Department of Systems Biology, Harvard Medical School, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Buttermore', 'fore_name': 'Elizabeth D', 'initials': 'ED', 'affiliations': ['Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.', \"Human Neuron Core, Boston Children's Hospital, Boston, Massachusetts, USA.\"]}",
+    "{'last_name': 'Winden', 'fore_name': 'Kellen D', 'initials': 'KD', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.']}",
+    "{'last_name': 'Chen', 'fore_name': 'Cidi', 'initials': 'C', 'affiliations': ['Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.', \"Human Neuron Core, Boston Children's Hospital, Boston, Massachusetts, USA.\"]}",
+    "{'last_name': 'Sahin', 'fore_name': 'Mustafa', 'initials': 'M', 'affiliations': [\"Department of Neurology, F.M. Kirby Neurobiology Center, Harvard Medical School, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Boston, Massachusetts, USA.', \"Human Neuron Core, Boston Children's Hospital, Boston, Massachusetts, USA.\"]}"
+  ],
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "09"
+  },
+  "doi": "10.1002/advs.202515887",
+  "mesh_terms": [],
+  "keywords": [
+    "calcium imaging",
+    "machine learning",
+    "neurodevelopmental disorders",
+    "open&#x2010;source",
+    "optogenetics",
+    "stem cells"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

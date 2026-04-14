@@ -1,0 +1,184 @@
+{
+  "dataset_id": "allen-brain-atlas",
+  "name": "Allen Brain Atlas - Human Brain Gene Expression and Cell Types",
+  "short_name": "Allen Brain Atlas",
+  "organization": "Allen Institute for Brain Science",
+  "version": "ABC Atlas (Allen Brain Cell Atlas) - Current as of 2026",
+  "data_types": [
+    "single-cell RNA-seq (snRNA-seq)",
+    "single-nucleus RNA-seq",
+    "spatial transcriptomics (MERFISH)",
+    "multiomics (RNA + ATAC, RNA + protein)"
+  ],
+  "access_level": "PUBLIC",
+  "access_urls": {
+    "main_portal": "https://portal.brain-map.org/atlases-and-data/bkp/abc-atlas",
+    "explorer": "https://brain-map.org/bkp/explore/abc-atlas",
+    "github_access": "https://alleninstitute.github.io/abc_atlas_access/intro.html",
+    "documentation": "https://brain-map.org/support/documentation"
+  },
+  "single_cell_data": {
+    "total_cells": 2780000,
+    "platform": "10x Genomics (snRNA-seq predominant)",
+    "genes_per_cell": 16000,
+    "donor_count": 84,
+    "brain_regions": [
+      "Middle Temporal Gyrus (MTG)",
+      "Dorsolateral Prefrontal Cortex (DFC)"
+    ],
+    "mtg_cells": 1500000,
+    "dfc_cells": 1280000,
+    "quality_metrics": [
+      "Doublet detection",
+      "Cell cycle scoring",
+      "Mitochondrial content",
+      "Quality control flags"
+    ]
+  },
+  "spatial_transcriptomics_data": {
+    "method": "MERFISH (Multiplexed error-robust FISH)",
+    "description": "Largest cell-resolution spatial transcriptomics dataset in human brain",
+    "donor_count": 24,
+    "cohort": "SEA-AD (Seattle Alzheimer's Disease)",
+    "genes_profiled_per_region": "~200 gene probes per brain section",
+    "spatial_resolution": "Single-cell level",
+    "includes_disease_samples": true,
+    "includes_control_samples": true
+  },
+  "multiomics_data": {
+    "rna_plus_atac": true,
+    "rna_plus_protein": true,
+    "description": "Gene expression and regulatory state measured in same cells"
+  },
+  "brain_coverage": {
+    "primary_regions": [
+      "Middle Temporal Gyrus (MTG)",
+      "Dorsolateral Prefrontal Cortex (DFC)"
+    ],
+    "expanding_coverage": [
+      "Basal Ganglia (in development, cross-species)",
+      "Hippocampus (planned)",
+      "Cerebellum (planned)",
+      "Developmental brain (methods being extended)"
+    ],
+    "developmental_coverage_current": "Adult only",
+    "developmental_coverage_future": "Fetal and early postnatal in development"
+  },
+  "cell_type_taxonomy": {
+    "total_cell_types": "100+ distinct types identified",
+    "major_classes": [
+      "Glutamatergic neurons (excitatory)",
+      "GABAergic neurons (inhibitory, 30+ subtypes)",
+      "Astrocytes",
+      "Oligodendrocytes",
+      "Oligodendrocyte precursor cells (OPCs)",
+      "Microglia",
+      "Endothelial cells",
+      "Pericytes",
+      "Other cell types"
+    ],
+    "glutamatergic_subtypes": [
+      "L2/3 pyramidal neurons",
+      "L5 pyramidal neurons",
+      "L6 pyramidal neurons"
+    ],
+    "gabaergic_subtypes": [
+      "VIP-positive neurons (disinhibitory)",
+      "Parvalbumin-positive neurons (fast-spiking, critical for gamma)",
+      "Somatostatin-positive neurons (regular-spiking)",
+      "Non-fast-spiking interneurons (other subtypes)"
+    ],
+    "glial_subtypes": [
+      "Astrocyte morphology subtypes",
+      "Oligodendrocyte developmental subtypes",
+      "Microglial activation states",
+      "Vascular cell subtypes"
+    ]
+  },
+  "regulatory_relevance": "INDIRECT",
+  "regulatory_relevance_explanation": "Allen Brain Atlas provides cell-type expression context for understanding where and in which cells regulatory variants might have functional impact. Does not directly annotate regulatory elements (that is ENCODE's role), but essential for: (1) determining which cell types express autism genes, (2) identifying cell-type-specific vulnerability to regulatory variants, (3) connecting variants to cell-type-specific consequences.",
+  "autism_relevance": {
+    "excitatory_inhibitory_balance": "Enables exploration of E/I imbalance hypothesis through detailed GABAergic and glutamatergic neuron profiling",
+    "receptor_type_separation": "Supports identification of glutamate-specific vs. GABA-specific effects through neuron subtype specificity",
+    "cell_vulnerability": "Can identify which cell types express multiple autism genes (vulnerable types)",
+    "network_analysis": "Enables cell-type-specific network analysis (TF→gene connections within cell types)"
+  },
+  "publication_key": {
+    "title": "A brain cell atlas integrating single-cell transcriptomes across human brain regions",
+    "journal": "Nature Medicine",
+    "year": 2024,
+    "doi": "10.1038/s41591-024-03150-z",
+    "pmid": null,
+    "authors": "Hodge et al. (Allen Institute)"
+  },
+  "related_publications": [
+    {
+      "title": "A multimodal cell census and atlas of the mammalian primary motor cortex",
+      "journal": "Nature",
+      "year": 2021,
+      "doi": "10.1038/s41586-021-03950-0",
+      "authors": "Yao et al. (Allen Institute)",
+      "description": "Similar methodology and cell-type taxonomy approach; foundation for ABC Atlas"
+    }
+  ],
+  "backfill_phase": 1,
+  "priority": "critical",
+  "atlas_integration_status": "not_started",
+  "evidence_tier": "A",
+  "data_format": [
+    "h5ad (standard single-cell format)",
+    "Zarr (compressed, efficient for large datasets)",
+    "CSV/TSV (metadata and annotations)",
+    "JSON (API responses)"
+  ],
+  "estimated_storage": {
+    "single_nucleus_data": "100+ GB",
+    "processed_expression_matrices": "20+ GB",
+    "spatial_transcriptomics": "50+ GB"
+  },
+  "download_methods": [
+    "Interactive web portal (no download needed for browsing)",
+    "GitHub repository with programmatic access (Python/R)",
+    "AWS S3 bucket (public, requester pays)",
+    "Local analysis via standard single-cell tools (Seurat, Scanpy)"
+  ],
+  "computational_requirements": {
+    "disk_space": "100+ GB for complete dataset",
+    "memory": "64+ GB RAM recommended (single-cell analysis memory-intensive)",
+    "cpu": "Multi-core recommended for analysis",
+    "gpu": "Optional (beneficial for downstream ML)"
+  },
+  "integration_plan": {
+    "phase_1": "Download and parse ABC Atlas cell-type taxonomy and gene expression",
+    "phase_2": "Map autism candidate genes to cell-type expression profiles",
+    "phase_3": "Integrate with ENCODE/GTEx to connect variants→regulatory elements→cell types",
+    "phase_4": "Build cell-type-specific prediction models for noncoding variant effects"
+  },
+  "atlas_outputs": [
+    "Annotated table: autism genes with cell-type expression profiles",
+    "Cell-type expression specificity scores for each autism gene",
+    "Cell-type-specific regulatory networks (TF→target gene)",
+    "Cell-type vulnerability assessment (genes per type)"
+  ],
+  "technical_challenges": [
+    "Large data volume (100+ GB+)",
+    "Computational resources needed for expression analysis",
+    "Multiple cell-type definitions/taxonomies across studies",
+    "Limited coverage of some brain regions (MTG + DFC currently comprehensive)"
+  ],
+  "developmental_limitation": "Currently adult brain only. Must combine with BrainSpan for developmental trajectory. Developing mouse brain atlas methods being extended to humans.",
+  "dependencies_for_atlas": [
+    "ENCODE (for chromatin accessibility context)",
+    "GTEx (for adult tissue eQTL context)",
+    "PsychENCODE GRN (for regulatory network validation)",
+    "BrainSpan (for developmental trajectory)"
+  ],
+  "validation_strategies": [
+    "Cross-species alignment (human-mouse comparison)",
+    "Integration with spatial transcriptomics (within MTG/DFC)",
+    "Enrichment analysis (autism genes in specific cell types)",
+    "Co-expression analysis within cell types"
+  ],
+  "last_updated": "2026-04-06",
+  "last_updated_by": "atlas_curator"
+}

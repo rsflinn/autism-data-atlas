@@ -1,0 +1,40 @@
+{
+  "pmid": "41821829",
+  "title": "Brain patterns linked to neuropsychiatric genetic risk mirror those seen in disease.",
+  "abstract": "Analyzing brain morphological changes across individuals with varying genetic risk scores may reveal patterns of brain alterations from health to disease. This study investigates gray matter structural alterations in individuals with clinical diagnoses compared with those with genetic risk alone. UK Biobank MRI and genotypes (N = 34,720) were used to derive brain measures and polygenic risk scores, creating genetic risk brain maps for 14 neuropsychiatric disorders. Eight disorders from ENIGMA were used to construct disease brain maps. Brain maps of genetic risk and clinical diagnosis show overall alignment for ADHD, schizophrenia, bipolar disorder, and autism. Other conditions, including Alzheimer's disease, show specific brain regions linked to genetic risk aligning with established patient patterns. Incomplete data for some conditions limit analyses. ADHD and PTSD polygenic burden was associated with smaller global brain sizes, while Parkinson's disease was linked to larger brain volume. Mendelian randomization analyses revealed unidirectional relationships where the brain influences ADHD and Parkinson's disease, while a bidirectional causal association was observed for schizophrenia. Focusing on schizophrenia and bipolar disorder, we found that individuals with high genetic risk combined with smaller brain structures were more likely to have these diagnoses. Overall, the study demonstrates marked similarities in brain changes between clinical diagnoses and genetic risk for several disorders, albeit with mild effect sizes in the latter. These findings underscore the importance of genetic risk in influencing brain anatomy and the progression of neuropsychiatric disorders.",
+  "authors": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "journal": "Imaging neuroscience (Cambridge, Mass.)",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "10"
+  },
+  "doi": "10.1162/IMAG.a.1152",
+  "mesh_terms": [],
+  "keywords": [
+    "MRI",
+    "Mendelian randomization",
+    "brain morphology",
+    "imaging genetics",
+    "neuropsychiatric disorders",
+    "polygenic risk score"
+  ],
+  "pmc": "PMC12977089",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04",
+  "queries": [
+    "autism_noncoding",
+    "autism_gwas",
+    "gene_specific"
+  ]
+}
