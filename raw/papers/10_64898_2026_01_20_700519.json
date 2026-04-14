@@ -1,0 +1,22 @@
+{
+  "id": "10.64898/2026.01.20.700519",
+  "doi": "10.64898/2026.01.20.700519",
+  "title": "Federated single-cell QTL meta-analysis reveals novel disease mechanisms",
+  "authors": "Kaptijn D et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-14",
+  "source": "biorxiv",
+  "score_breakdown": {
+    "autism_relevance": 2,
+    "noncoding_regulatory": 7,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 0
+  },
+  "score": 28,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Federated single-cell cis-eQTL meta-analysis across 12 PBMC datasets (2,032 individuals, 2.5M cells). 42% of eQTLs undetected in bulk showed STRONGER enrichment for disease GWAS loci. Reconstructed 6,382 trans-eGenes with upstream regulators. Demonstrates power of cell-type-specific eQTL mapping for complex trait genetics -- methodology directly relevant to noncoding variant interpretation.",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.01.20.700519v1"
+}

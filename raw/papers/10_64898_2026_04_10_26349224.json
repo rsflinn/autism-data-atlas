@@ -1,0 +1,22 @@
+{
+  "id": "10.64898/2026.04.10.26349224",
+  "doi": "10.64898/2026.04.10.26349224",
+  "title": "Shared genetic architecture of cortical morphology and psychiatric disorders: insights from cross-trait analyses across 180 cortical regions",
+  "authors": "Zhang Y et al.",
+  "journal": "medRxiv",
+  "date": "2026-04-13",
+  "source": "medrxiv",
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 4,
+    "dataset_availability": 5,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 2
+  },
+  "score": 23,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Cross-trait genetic analysis across 180 cortical regions and 6 psychiatric disorders. Key finding: NDD share fewer but more widespread-effect genetic loci with cortical morphology than internalizing disorders. Directional heterogeneity within pleiotropic loci limits predictive utility of brain morphology for psychiatric disorders.",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.26349224v1"
+}
