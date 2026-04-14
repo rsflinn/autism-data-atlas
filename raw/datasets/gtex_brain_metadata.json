@@ -1,0 +1,172 @@
+{
+  "dataset_id": "gtex-brain",
+  "name": "GTEx (Genotype-Tissue Expression) - Brain Tissues",
+  "short_name": "GTEx Brain",
+  "organization": "GTEx Consortium (NIH Common Fund)",
+  "version": "v8 (current as of 2026)",
+  "release_details": {
+    "dbgap_accession": "phs000424.v8.p2",
+    "release_date": "2020 (v8 release)",
+    "total_donors": 838,
+    "total_samples": 15201,
+    "total_tissues": 54
+  },
+  "data_types": [
+    "bulk RNA-seq",
+    "expression quantitative trait loci (eQTL)",
+    "splicing quantitative trait loci (sQTL)",
+    "genotype data (SNPs, indels)"
+  ],
+  "access_level": "MIXED",
+  "access_level_details": {
+    "processed_data": "PUBLIC (no authentication required)",
+    "raw_sequence_data": "dbGaP protected (requires approval)",
+    "genotypes": "dbGaP protected (requires approval)"
+  },
+  "access_urls": {
+    "main_portal": "https://www.gtexportal.org/",
+    "eqtl_dashboard": "https://www.gtexportal.org/home/eqtlDashboardPage",
+    "downloads": "https://www.gtexportal.org/home/downloads/adult-gtex/qtl",
+    "documentation": "https://www.gtexportal.org/home/documentationPage",
+    "dbgap": "https://www.ncbi.nlm.nih.gov/gap/",
+    "google_cloud_bucket": "https://console.cloud.google.com/storage/browser/gtex-resources"
+  },
+  "brain_coverage": {
+    "brain_regions_total": 13,
+    "brain_regions": [
+      "Brain - Amygdala",
+      "Brain - Anterior Cingulate Cortex (ACC)",
+      "Brain - Caudate",
+      "Brain - Cerebellar Hemisphere",
+      "Brain - Cerebellum",
+      "Brain - Cortex",
+      "Brain - Frontal Cortex",
+      "Brain - Hippocampus",
+      "Brain - Hypothalamus",
+      "Brain - Nucleus Accumbens",
+      "Brain - Putamen",
+      "Brain - Spinal Cord",
+      "Brain - Substantia Nigra"
+    ],
+    "sample_counts": {
+      "amygdala": 105,
+      "anterior_cingulate_cortex": 104,
+      "caudate": 113,
+      "cerebellar_hemisphere": 111,
+      "cerebellum": 121,
+      "cortex": 132,
+      "frontal_cortex": 137,
+      "hippocampus": 118,
+      "hypothalamus": 87,
+      "nucleus_accumbens": 116,
+      "putamen": 105,
+      "spinal_cord": 83,
+      "substantia_nigra": 80
+    },
+    "total_brain_samples": 1312,
+    "donor_age_range": "18-80 years (predominantly adult)",
+    "developmental_coverage": "Limited (postmortem samples, adult-focused)"
+  },
+  "expression_data": {
+    "platform": "RNA-seq (Illumina)",
+    "sequencing_depth": "High coverage (median 73M reads per sample)",
+    "gene_coverage": "All protein-coding and noncoding genes",
+    "normalization_formats": ["Raw counts", "TPM (Transcripts Per Million)", "RPKM"],
+    "strand_specificity": "Strand-specific library preparation"
+  },
+  "qtl_data": {
+    "eqtl_coverage": {
+      "description": "cis-eQTLs mapping genetic variants to expression levels",
+      "window": "±1 Mb from gene",
+      "tested_tissues": "All 13 brain regions plus others",
+      "eqtls_per_tissue_range": "Multiple eGenes per tissue (doubled from v6 to v8)",
+      "effect_size_available": true,
+      "fine_mapping_available": true,
+      "fine_mapping_method": "Posterior probability of causality per variant"
+    },
+    "sqtl_coverage": {
+      "description": "Splicing QTLs mapping variants to intron excision and exon inclusion",
+      "availability": "Expanded in v8 (doubled eQTLs per tissue)",
+      "biological_relevance": "Often more sensitive to variant effects than overall expression"
+    }
+  },
+  "genotype_data": {
+    "variant_types": ["SNPs", "indels"],
+    "common_variants": true,
+    "rare_variants": true,
+    "linkage_disequilibrium": "Available for fine-mapping",
+    "population_frequencies": "Provided for filtering and interpretation"
+  },
+  "regulatory_relevance": "DIRECT",
+  "regulatory_relevance_explanation": "GTEx eQTLs directly map noncoding variants to gene expression changes in brain tissues. Enables: (1) identification of which noncoding variants affect expression of autism genes, (2) tissue-specific regulatory effects, (3) effect size quantification, (4) colocation with GWAS signals, (5) validation of predicted variant effects.",
+  "cell_type_limitation": "BULK tissue RNA-seq (no cell-type resolution). Brain regions are heterogeneous and contain multiple neuron subtypes and glia. eQTL effects cannot be attributed to specific cell types without additional data (e.g., single-cell studies).",
+  "publication_key": {
+    "title": "The GTEx Consortium atlas of genetic regulatory effects across human tissues",
+    "journal": "Science",
+    "year": 2020,
+    "doi": "10.1126/science.aaz1776",
+    "pmid": "29961862"
+  },
+  "related_publications": [
+    {
+      "title": "Large eQTL meta-analysis reveals differing patterns between cerebral cortical and cerebellar brain regions",
+      "journal": "Scientific Data",
+      "year": 2020,
+      "doi": "10.1038/s41597-020-00642-8",
+      "description": "Brain-specific eQTL analysis across GTEx tissues"
+    }
+  ],
+  "backfill_phase": 1,
+  "priority": "critical",
+  "atlas_integration_status": "not_started",
+  "evidence_tier": "A",
+  "data_format": "TSV (tab-separated values), BED, VCF",
+  "estimated_storage": {
+    "processed_eqtl_files": "10+ GB",
+    "all_associations": "260 GB (Google Cloud)",
+    "raw_sequence_data": "200+ GB (protected)"
+  },
+  "download_methods": [
+    "GTEx Portal (web interface, top 1000 variants per gene per tissue)",
+    "Bulk download from portal (all formatted eQTL files)",
+    "Google Cloud bucket (all associations, requester pays)",
+    "dbGaP (raw data via approved access)"
+  ],
+  "computational_requirements": {
+    "disk_space": "10+ GB for processed eQTL data",
+    "memory": "8+ GB RAM for typical analysis",
+    "cpu": "Standard for tabular data analysis"
+  },
+  "integration_plan": {
+    "phase_1": "Extract all eQTL associations for autism candidate genes across brain tissues",
+    "phase_2": "Fine-map eQTLs to identify likely causal variants",
+    "phase_3": "Integrate with ENCODE regulatory elements",
+    "phase_4": "Cross-reference with PsychENCODE GRN for transcription factor mechanisms"
+  },
+  "atlas_outputs": [
+    "Table: autism genes × brain tissues with eQTL signals and effect sizes",
+    "Prioritized variant list: eQTL variants affecting autism genes",
+    "Fine-mapped credible sets for each eQTL signal (likely causal variants)",
+    "Tissue-specificity annotations per variant"
+  ],
+  "technical_challenges": [
+    "Large file sizes for bulk download",
+    "Limited sample size for some brain regions (83-137 per tissue)",
+    "Adult-only samples (limited developmental trajectory)",
+    "Lack of cell-type resolution"
+  ],
+  "dependencies_for_atlas": [
+    "ENCODE (for linking variants to regulatory elements)",
+    "PsychENCODE GRN (for TF→target gene links)",
+    "Autism GWAS data (for colocation analysis)",
+    "BrainSpan (for developmental context)"
+  ],
+  "validation_strategies": [
+    "Colocation analysis with autism GWAS (eCAVIAR, fastENLOC)",
+    "Cross-validation with single-cell eQTL studies (when available)",
+    "Integration with ENCODE chromatin accessibility",
+    "Comparison of effect sizes across tissues"
+  ],
+  "last_updated": "2026-04-06",
+  "last_updated_by": "atlas_curator"
+}

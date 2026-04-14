@@ -1,0 +1,116 @@
+---
+title: Autism Genomics Atlas Wiki
+last_updated: 2026-04-04
+type: index
+---
+
+# Autism Genomics Atlas Wiki
+
+Master index of all wiki pages with one-line summaries.
+
+## Genes
+
+- [MEF2C](./genes/MEF2C.md) -- Network hub whose haploinsufficiency specifically dysregulates ORC network members in organoids
+- [SCN2A](./genes/SCN2A.md) -- Sodium channel at the autism-epilepsy comorbidity boundary; convergent target of multiple autism gene perturbations
+- [FOXP1](./genes/FOXP1.md) -- Transcription factor; loss-of-function causes FOXP1 syndrome with universal autism, intellectual disability, and speech impairment
+- [TCF4](./genes/TCF4.md) -- Transcription factor; mutations cause Pitt-Hopkins syndrome, the most severe syndromic autism phenotype
+- [CDKL5](./genes/CDKL5.md) -- Developmental kinase; deficiency causes severe early-onset epilepsy with autism and neurodevelopmental encephalopathy
+- [SHANK3](./genes/SHANK3.md) -- Postsynaptic scaffolding protein; loss-of-function causes Phelan-McDermid syndrome with 80% autism penetrance
+- [CHD8](./genes/CHD8.md) -- Chromatin remodeler; haploinsufficiency causes syndromic autism with macrocephaly and distinctive facial features
+- [DYRK1A](./genes/DYRK1A.md) -- Developmental kinase; loss-of-function causes DYRK1A syndrome with intellectual disability and autism
+
+## Concepts
+
+- [Receptor Type Separation](./concepts/receptor_type_separation.md) -- GABA receptors drive epilepsy signal, glutamate receptors drive autism convergence, shared genes predict comorbidity
+- [Convergence Phenomenon](./concepts/convergence_phenomenon.md) -- Multiple autism gene knockouts produce overlapping downstream effects, but specificity is dataset-dependent
+- [Noncoding Variants in Autism](./concepts/noncoding_variants_in_autism.md) -- Common inherited variants account for ~49% of autism liability; all GWAS-significant loci are regulatory
+- [Evidence Tiers](./concepts/evidence_tiers.md) -- Classification system for experimental evidence quality (A: properly nulled; B: real but not specific; C: descriptive; D: corrected)
+
+## Datasets
+
+### Phase 1 Backfill Priority (Foundational Autism Cohorts)
+
+- [SPARK Whole Genome Sequencing](./datasets/spark-wgs.md) -- Largest autism family cohort (330,000+ participants; 123,444 with autism) with comprehensive WGS, WES, deep phenotyping (ADOS, IQ, adaptive behavior)
+- [MSSNG (Autism Speaks)](./datasets/sfari-base.md) -- World's largest autism WGS resource (5,100 with autism + 6,212 family members) with world-class structural variant characterization and free cloud-based access
+- [Simons Simplex Collection (SSC)](./datasets/ssc.md) -- Gold-standard de novo discovery resource (2,600 simplex families; 6,383 individuals with WGS) with deepest phenotyping; foundation for most major autism gene discoveries
+
+### Regulatory & Functional Genomics (Phase 1)
+
+- [ENCODE Project](./datasets/encode.md) -- 2.37M candidate cis-regulatory elements with >90% experimental validation; comprehensive chromatin accessibility and transcription factor binding across hundreds of cell types
+- [GTEx Brain Tissues](./datasets/gtex-brain.md) -- Gene expression and eQTL/sQTL mapping across 13 brain regions from 838 donors; tissue-specific variant effects on gene expression
+- [Allen Brain Atlas](./datasets/allen-brain-atlas.md) -- 2.78M single-nucleus transcriptomes and spatial transcriptomics; comprehensive human brain cell-type taxonomy with 100+ distinct types
+
+### Supporting Datasets
+
+- [BrainSpan](./datasets/brainspan.md) -- Developmental brain expression atlas spanning prenatal to adult periods
+- [PsychENCODE Gene Regulatory Networks](./datasets/psychencode-grn.md) -- Single-cell transcriptomics and regulatory annotations of developing and adult brain
+- [Epi25 Whole Exome Sequencing](./datasets/epi25-wes.md) -- Large-scale epilepsy sequencing consortium essential for understanding autism-epilepsy comorbidity
+
+## Methods
+
+### Tools
+
+- [varTFBridge](./tools/varTFBridge.md) -- Traces noncoding variants to transcription factors and genes, identifying regulatory variants rewiring gene networks
+- [ANNEVO](./tools/ANNEVO.md) -- Deep learning model for accurate ab initio gene annotation from sequence alone
+- [GET](./tools/GET.md) -- Foundation model predicting gene expression across human cell types from chromatin and sequence data
+- [PARM](./tools/PARM.md) -- Deep learning model predicting promoter activity and regulatory effects of variants
+- [Genotype-Phenotype Map](./tools/genotype_phenotype_map.md) -- Comprehensive database mapping genetic associations across 16K traits and 2.7M molecular measurements
+- [AlphaGenome](./tools/AlphaGenome.md) -- Google DeepMind unified DNA sequence model; best-in-class regulatory variant effect prediction across chromatin, TF binding, and gene expression modalities (Nature 2026)
+
+## Findings
+
+(Placeholder for key findings synthesis pages)
+
+- [So Fragile, So Human: Noncoding DNA Regions Orchestrating Gene Expression Involved in Neurodevelopmental Disorders and in Human Brain Evolution.](./findings/41898648.md) -- PMID: 41898648
+- [Closing the Gap in Autism Genetics: Population-Specific Variants and the Imperative for Global Inclusion.](./findings/41921886.md) -- PMID: 41921886
+- [Etiology of autism spectrum disorders: recent advances and emerging directions.](./findings/41542841.md) -- PMID: 41542841
+- [Co-occurrence of rare variants implicates gene pairs in cytoskeletal pathways and is associated with increased severity in autism spectrum disorder.](./findings/41872878.md) -- PMID: 41872878
+- [NLGN3 autism variants have distinct functional impact on synapses and sleep behavior in Drosophila](./findings/biorxiv_NLGN3_2026.md) -- bioRxiv 2026; variant-specific synaptic phenotypes in Drosophila NLGN3 model
+- [Analysis of 14q12 microdeletions reveals novel regulatory loci for the neurodevelopmental disorder-related gene, FOXG1](./findings/biorxiv_FOXG1_regulatory_2026.md) -- bioRxiv 2026; noncoding SVs disrupting FOXG1 CREs cause NDD; highest-scoring new preprint this week
+- [Assessing molecular gene by treatment interactions using a population of neural progenitors exposed to valproic acid and lithium](./findings/41935183.md) -- PMID: 41935183; VPA/lithium gene-treatment interactions mapped via chromatin accessibility in 83-donor neural progenitor population; psychiatric risk variant enrichment (score: 36)
+- [Enhancer hubs govern chromatin topology and Th17 identity](./findings/biorxiv_enhancer_hubs_Th17_2026.md) -- bioRxiv 2026; enhancer hub framework for chromatin topology; methods-transferable to autism regulatory analysis (score: 16)
+- [Brain cell type nuclei enrichment without fixative for nanoCUT&Tag and other omics approaches](./findings/biorxiv_brain_nuclei_nanoCUTTag_2026.md) -- bioRxiv 2026; fixative-free brain cell-type epigenomic profiling workflow applicable to autism variant characterization (score: 17)
+---
+
+**Last Updated:** 2026-04-09 (daily scan)
+
+- [Pan et al. 2026 — Convergent genetic pathways linking neuropsychiatric and ocular disorders](findings/41947537.md) (2026-04-07, score 25)
+- [Pedapati et al. 2026 — SPG601 BK channel activator in Fragile X syndrome](findings/41946887.md) (2026-04-07, score 23)
+- [Sala-Gaston et al. 2026 — Proteasome dysfunction in HERC2-linked NDD](findings/41951624.md) (2026-04-08, score 19)
+- [Qiu et al. 2026 — STEAM: Evolutionary transfer learning for mammalian enhancer landscapes](findings/10_64898_2026_04_07_717039.md) (2026-04-08, score 32)
+- [Li et al. 2025 — FMRP regulates neuronal RNA granules containing stalled ribosomes](findings/10_1101_2025_02_21_639553.md) (2025-02-21, score 22)
+- [Lolam & Roy 2026 — NF1 expression atlas in developing mouse brain](findings/10_64898_2026_03_22_713444.md) (2026-03-24, score 20)
+- [Kumar et al. 2026 — Subunit-selective GABAA receptor modulation via neurosteroid DARTs](findings/10_64898_2026_03_23_713679.md) (2026-03-26, score 18)
+
+## 2026-04-10 Daily Scan
+
+### INTEGRATE (9 papers)
+- [Distinct cellular DNA methylation mechanisms underlie common and rare genetic risk for brain disorders](findings/41959448.md) - Zhou et al. 2026 | Score: 43/50 | **Top pick**: mCG vs mCH distinct mechanisms for common vs rare noncoding ASD variants, 186 cell subtypes, replicated in 5,782 probands
+- [ICePop: Linking Genetic Risk to Disease-Relevant Cellular States](findings/41959181.md) - Yuan et al. 2026 | Score: 35/50 | Metacell-resolution GWAS mapping, ASD risk in enteric neuron subtypes
+- [SYNGAP1 Synchronizes Relative Neuronal Maturation](findings/41959404.md) - Golovin et al. 2026 | Score: 31/50 | SYNGAP1 haplo produces opposing cortical activity patterns via maturation timing
+- [In vivo human embryonic spinal cord atlas reveals ASD spinal signatures](findings/biorxiv_2025.12.22.696129.md) - Gupta et al. 2025 | Score: 29/50 | ASD genes enriched in mechanosensory spinal interneurons
+- [Cell-specific variant-to-gene mapping for sleep](findings/biorxiv_2026.04.07.715910.md) - Zimmerman et al. 2026 | Score: 23/50 | V2G methods applicable to ASD GWAS
+- [Non-canonical Hif-1alpha roles in interneuron development](findings/41956077.md) - Li & Pasca 2026 | Score: 23/50 | GRIN2B interaction, Pasca lab
+- [Base editing in AUTS2](findings/41958697.md) - Yan et al. 2026 | Score: 22/50 | iPSC allele-specific model for ASD gene
+- [Proteasome dysfunction in HERC2-linked NDD](findings/41951624.md) - Sala-Gaston et al. 2026 | Score: 21/50 | Angelman-like, proteasome mechanism
+- [Somatic RAS-MAPK variants in drug-resistant epilepsy](findings/biorxiv_2026.04.06.716727.md) - Warren et al. 2026 | Score: 21/50 | Hippocampal sclerosis genetic basis
+
+### REVIEW (1 paper)
+- ML functional connectomes in ASD (Grassia et al. 2026, PMID 41957158) - Score: 14/50 - fMRI deep learning, no genetics
+
+### SKIP (4 papers)
+- Sweet potato metabolomics (tangential autism mention)
+- Pediatrician ASD screening barriers (qualitative)
+- Literacy instruction for minimally verbal autism (no genetics)
+- Family resilience interventions review (no genetics)
+
+### 2026-04-12 Daily Scan
+
+- **[PMID 41963441](findings/41963441.md)** (Score: 29) - Base editing restores CDKL5 expression and rescues neuronal deficits in a patient-derived model of CDKL5 deficiency disorder. *Genes: CDKL5*
+- **[PMID 41964267](findings/41964267.md)** (Score: 15) - Reliability and stability of cerebral palsy classification scales for individuals with STXBP1- and SYNGAP1-related disorders. *Genes: STXBP1, SYNGAP1*
+- **[DOI 10.1101/2024.05.26.595966](findings/10.1101_2024.05.26.595966.md)** (Score: 16) - Complementary vertebrate Wac models exhibit phenotypes relevant to DeSanto-Shinawi Syndrome. *Genes: WAC*
+
+### 2026-04-13 Daily Scan
+
+- [WAC / DeSanto-Shinawi Syndrome vertebrate models](findings/biorxiv_WAC_DeSanto_Shinawi_2026.md) — INTEGRATE (23/50). First mouse+zebrafish WAC knockouts showing GABAergic neuron impacts, seizures, autism-relevant behaviors.
+- [EVEE: Variant effect prediction via Evo 2 foundation model](findings/biorxiv_EVEE_variant_prediction_2026.md) — INTEGRATE (25/50). SOTA variant pathogenicity prediction (0.997 AUROC), 4.2M ClinVar variants pre-scored.

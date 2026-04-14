@@ -1,0 +1,20 @@
+{
+  "pmid": "41959404",
+  "doi": "10.64898/2026.03.27.714839",
+  "title": "SYNGAP1 Synchronizes Relative Neuronal Maturation Across Cortical Areas to Organize Distributed Functional Networks",
+  "authors": "Golovin RM et al.",
+  "journal": "bioRxiv (indexed PubMed)",
+  "date": "2026-03-31",
+  "abstract": "SYNGAP1 haploinsufficiency produces opposing cortical activity patterns: reduced sensory-evoked gain and amplified movement/arousal activity. Layer 2/3 populations across cortical regions occupy distinct maturation states. Perturbing SYNGAP1 reduces developmental separability through region-dependent, opposite-direction effects on dendritic maturation.",
+  "source": "pubmed",
+  "relevance_score": 31,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 6,
+    "novelty": 8,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}

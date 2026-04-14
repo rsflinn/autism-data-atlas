@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 8,
+  "date": "2026-03-21",
+  "author": "@tom_doerr",
+  "summary": "Local LLM (likely Qwen) rivaling Claude Opus quality",
+  "category": "AI Workflow / Tools",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - option for local AI processing of sensitive genetic data",
+  "link": "https://x.com/tom_doerr/status/2035256705022329183",
+  "ingested_at": "2026-04-04T12:36:44.100674",
+  "atlas_integration_status": "pending"
+}

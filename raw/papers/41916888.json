@@ -1,0 +1,34 @@
+{
+  "pmid": "41916888",
+  "title": "[Clinical phenotype and genetic analysis of a child with Autosomal dominant intellectual developmental disorder type 5 caused by SYNGAP1 gene variant: A case report and literature review].",
+  "abstract": "To delineate the clinical and genetic features of a Chinese girl harboring a rare de novo variant of SYNGAP1 associated with Mental retardation, autosomal dominant 5 (MRD5), and to conduct a comprehensive genotype-phenotype correlation analysis within the Chinese population through an extensive literature review.\n\nA 5-year-old girl presenting with seizures without an obvious cause was enrolled in September 2020. Genomic DNA was extracted from the patient and her parents. Whole exome sequencing (WES) was performed on the proband to identify suspected pathogenic variants based on her clinical phenotype. Sanger sequencing was used for validation, followed by bioinformatic analysis of the variant. Additionally, data from 54 previously reported Chinese cases with SYNGAP1 variants were integrated to summarize the distribution of variant types and clinical characteristics. Ethical approval was obtained from the Ethics Committee of Kunming Children's Hospital (Ethics No.: 2021-03-055-K01).\n\nWES identified a heterozygous nonsense variant, SYNGAP1 c.725G>A (p.Trp242*), in the proband. Sanger sequencing confirmed it was a de novo variant. According to the ACMG guidelines, this variant was classified as pathogenic (PVS1+PS2). Based on the clinical manifestations, the patient was diagnosed with MRD5. Bioinformatic analysis suggested that this variant introduces a premature stop codon at tryptophan 242, disrupting the PH domain and leading to the loss of the C2, Ras-GAP, and C-terminal domains. The pooled analysis of Chinese cases revealed that nonsense (38.2%) and frameshift (36.4%) variants were the predominant types. Intellectual disability/developmental delay was present in 100.0% of patients, epilepsy in 83.6%, and autism spectrum disorder in 41.3%. The incidence of epilepsy differed significantly among variant types (P = 0.045). Exons 8 and 15 were identified as mutation hotspots.\n\nThis study has identified a SYNGAP1 c.725G>A variant in the Chinese population and confirmed it as a potential cause of MRD5, which expanded the mutational spectrum of this disorder.",
+  "authors": [
+    "{'last_name': 'Wang', 'fore_name': 'Zihao', 'initials': 'Z', 'affiliations': ['Institute of Medical Biology, Chinese Academy of Medical Sciences and Peking Union Medical College, Kunming, Yunnan 650118, China. zyang@imbcams.com.cn.']}",
+    "{'last_name': 'Duan', 'fore_name': 'Lifen', 'initials': 'L'}",
+    "{'last_name': 'Wanyan', 'fore_name': 'Zhangxiang', 'initials': 'Z'}",
+    "{'last_name': 'Tao', 'fore_name': 'Ruixi', 'initials': 'R'}",
+    "{'last_name': 'Ye', 'fore_name': 'Weitao', 'initials': 'W'}",
+    "{'last_name': 'Yang', 'fore_name': 'Zhaoqing', 'initials': 'Z'}"
+  ],
+  "journal": "Zhonghua yi xue yi chuan xue za zhi = Zhonghua yixue yichuanxue zazhi = Chinese journal of medical genetics",
+  "date": {
+    "year": "2026",
+    "month": "Mar",
+    "day": "10"
+  },
+  "doi": "10.3760/cma.j.cn511374-20250616-00370",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Child, Preschool",
+    "Intellectual Disability",
+    "ras GTPase-Activating Proteins",
+    "Phenotype",
+    "Exome Sequencing",
+    "Genetic Association Studies"
+  ],
+  "keywords": [],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

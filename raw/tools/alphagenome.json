@@ -1,0 +1,20 @@
+{
+  "name": "AlphaGenome",
+  "repo_url": "https://github.com/google-deepmind/alphagenome_research",
+  "api_repo_url": "https://github.com/google-deepmind/alphagenome",
+  "description": "Unified DNA sequence model from Google DeepMind that takes up to 1 Mb of DNA sequence as input and predicts thousands of functional genomic tracks at single base-pair resolution. Modalities include gene expression, transcription initiation, chromatin accessibility, histone modifications, TF binding, chromatin contact maps, splice site usage, and splice junction strength.",
+  "stars": null,
+  "last_updated": "2026-01",
+  "language": "JAX/Python",
+  "publication": {
+    "journal": "Nature",
+    "date": "2026-01",
+    "doi": "10.1038/s41586-025-10014-0",
+    "pubmed": "41606153",
+    "title": "Advancing regulatory variant effect prediction with AlphaGenome"
+  },
+  "relevance_to_atlas": "HIGH - Matches or exceeds all prior variant effect prediction models in 25 of 26 evaluations. Directly applicable to scoring noncoding autism variants in regulatory elements. Integrates chromatin accessibility, TF binding, and gene expression prediction in a single model — covers the full pipeline from variant to regulatory consequence to gene expression. Available for noncommercial use via API.",
+  "access": "API at https://deepmind.google.com/science/alphagenome plus research code/weights at GitHub",
+  "date_added": "2026-04-04",
+  "source": "weekly_github_tool_scan"
+}

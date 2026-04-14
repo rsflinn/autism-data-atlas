@@ -1,0 +1,20 @@
+{
+  "pmid": "41959448",
+  "doi": "10.64898/2026.03.09.710649",
+  "title": "Distinct cellular DNA methylation mechanisms underlie common and rare genetic risk for brain disorders",
+  "authors": "Zhou J et al.",
+  "journal": "bioRxiv (indexed PubMed)",
+  "date": "2026-03-11",
+  "abstract": "Deep learning framework predicts DNA methylation from sequence across 186 brain cell subtypes. Common variants predicted to affect mCG in excitatory neurons show heritability enrichment for brain traits. Noncoding de novo mutations in autism preferentially perturb mCH at conserved neuronal regulatory regions. Replicated across two cohorts (5,782 probands, 4,053 unaffected siblings). Common and rare noncoding variants contribute through distinct methylation mechanisms.",
+  "source": "pubmed",
+  "relevance_score": 43,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 10,
+    "dataset_availability": 8,
+    "novelty": 9,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

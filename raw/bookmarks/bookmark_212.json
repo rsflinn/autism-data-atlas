@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 212,
+  "date": "2026-03-31 00:00:00",
+  "author": "@fabian_theis",
+  "summary": "Causal single-cell atlas in colorectal cancer: largest CRC atlas (>300 patients, 1.5M cells) using continual learning + Tahoe-100M foundation model",
+  "category": "Science Findings",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - large-scale single-cell atlas relevant to computational biology context",
+  "link": "",
+  "ingested_at": "2026-04-04T12:36:44.221012",
+  "atlas_integration_status": "pending"
+}

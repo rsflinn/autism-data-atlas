@@ -1,0 +1,229 @@
+{
+  "model": "receptor_type_separation",
+  "version": "1.0",
+  "evidence_tier": "B",
+  "description": "Receptor type separation model for autism and epilepsy: hypothesis that autism-predominant presentations involve glutamatergic dysfunction while epilepsy-predominant presentations involve GABAergic dysfunction, with some genes involved in both conditions",
+  "categories": {
+    "autism_predominant": {
+      "receptor_class": "glutamate",
+      "description": "Genes primarily implicated in autism through glutamatergic ionotropic receptor dysfunction",
+      "genes": [
+        {
+          "symbol": "GRIK1",
+          "entrez_id": 2897,
+          "full_name": "Glutamate ionotropic receptor kainate type subunit 1",
+          "function": "Ionotropic glutamate receptor, kainate family",
+          "evidence_type": "convergent",
+          "sources": ["CHOOSE dataset"]
+        },
+        {
+          "symbol": "GRIK2",
+          "entrez_id": 2898,
+          "full_name": "Glutamate ionotropic receptor kainate type subunit 2",
+          "function": "Ionotropic glutamate receptor, kainate family",
+          "evidence_type": "convergent",
+          "sources": ["CHOOSE dataset"]
+        },
+        {
+          "symbol": "GRIA4",
+          "entrez_id": 2891,
+          "full_name": "Glutamate ionotropic receptor AMPA type subunit 4",
+          "function": "Ionotropic glutamate receptor, AMPA family",
+          "evidence_type": "convergent",
+          "sources": ["CHOOSE dataset"]
+        },
+        {
+          "symbol": "GRID2",
+          "entrez_id": 2895,
+          "full_name": "Glutamate ionotropic receptor delta type subunit 2",
+          "function": "Ionotropic glutamate receptor, delta family",
+          "evidence_type": "convergent",
+          "sources": ["CHOOSE dataset"]
+        }
+      ],
+      "evidence": {
+        "odds_ratio": 45.7,
+        "odds_ratio_dataset": "CHOOSE",
+        "significance": "Multiple rare variants in glutamate receptor genes show enrichment in autism cases vs controls"
+      }
+    },
+    "epilepsy_predominant": {
+      "receptor_class": "GABA",
+      "description": "Genes primarily implicated in developmental and genetic epilepsies through GABAergic inhibitory dysfunction",
+      "genes": [
+        {
+          "symbol": "GABRB3",
+          "entrez_id": 2560,
+          "full_name": "Gamma-aminobutyric acid type A receptor subunit beta3",
+          "function": "GABA-A receptor subunit, inhibitory neurotransmission",
+          "evidence_type": "de novo mutations, loss of function",
+          "p_value": 6.8e-6,
+          "sources": ["Developmental and Epileptic Encephalopathies studies"]
+        },
+        {
+          "symbol": "GABRG2",
+          "entrez_id": 2568,
+          "full_name": "Gamma-aminobutyric acid type A receptor subunit gamma2",
+          "function": "GABA-A receptor subunit, inhibitory neurotransmission",
+          "evidence_type": "de novo mutations",
+          "p_value": 2.8e-5,
+          "sources": ["Epilepsy genetics studies"]
+        },
+        {
+          "symbol": "GABRA1",
+          "entrez_id": 2554,
+          "full_name": "Gamma-aminobutyric acid type A receptor subunit alpha1",
+          "function": "GABA-A receptor subunit, inhibitory neurotransmission",
+          "evidence_type": "de novo mutations",
+          "p_value": 1.3e-3,
+          "sources": ["Developmental and Epileptic Encephalopathies studies"]
+        },
+        {
+          "symbol": "GABRB2",
+          "entrez_id": 2556,
+          "full_name": "Gamma-aminobutyric acid type A receptor subunit beta2",
+          "function": "GABA-A receptor subunit, inhibitory neurotransmission",
+          "evidence_type": "de novo mutations",
+          "p_value": 2.2e-3,
+          "sources": ["Epilepsy genetics studies"]
+        }
+      ],
+      "evidence": {
+        "primary_variant_type": "de novo loss of function mutations",
+        "significance": "Strong burden of de novo variants in GABA-A receptor genes in developmental and genetic epilepsy cohorts"
+      }
+    },
+    "comorbid": {
+      "description": "Genes involved in both autism and epilepsy, with evidence of convergent dysfunction in ion channels and synaptic proteins",
+      "genes": [
+        {
+          "symbol": "PCDH19",
+          "entrez_id": 57526,
+          "full_name": "Protocadherin 19",
+          "function": "Cell adhesion molecule, synaptic organization",
+          "evidence_autism": {
+            "type": "convergent in autism cohort"
+          },
+          "evidence_epilepsy": {
+            "type": "de novo protein truncating variants",
+            "p_value": 1.4e-3
+          },
+          "sources": ["Autism and epilepsy convergence studies"]
+        },
+        {
+          "symbol": "SCN2A",
+          "entrez_id": 6331,
+          "full_name": "Sodium voltage-gated channel alpha subunit 2",
+          "function": "Voltage-gated sodium channel, action potential initiation",
+          "evidence_autism": {
+            "type": "convergent in autism cohort"
+          },
+          "evidence_epilepsy": {
+            "type": "de novo mutations",
+            "p_value": 4.2e-4
+          },
+          "sources": ["Developmental and Epileptic Encephalopathies and autism studies"]
+        },
+        {
+          "symbol": "KCNB1",
+          "entrez_id": 3745,
+          "full_name": "Potassium voltage-gated channel subfamily B member 1",
+          "function": "Voltage-gated potassium channel, repolarization",
+          "evidence_autism": {
+            "type": "convergent in autism cohort"
+          },
+          "evidence_epilepsy": {
+            "type": "de novo mutations and protein truncating variants",
+            "p_value_de_novo": 1.3e-3,
+            "p_value_ptv": 4.6e-4
+          },
+          "sources": ["Developmental and Epileptic Encephalopathies and autism studies"]
+        },
+        {
+          "symbol": "GRIN2A",
+          "entrez_id": 2903,
+          "full_name": "Glutamate ionotropic receptor NMDA type subunit 2A",
+          "function": "NMDA receptor subunit, excitatory neurotransmission",
+          "evidence_autism": {
+            "type": "convergent in autism cohort"
+          },
+          "evidence_epilepsy": {
+            "type": "protein truncating variants",
+            "p_value": 8.6e-3
+          },
+          "sources": ["Developmental and Epileptic Encephalopathies and autism studies"]
+        }
+      ]
+    }
+  },
+  "data_sources": [
+    {
+      "source_id": "choose_dataset",
+      "name": "CHOOSE Study",
+      "type": "case_control_sequencing",
+      "organism": "human",
+      "autism_cases": true,
+      "epilepsy_cases": false,
+      "comorbidity_data": false,
+      "description": "Large autism case-control study with whole exome sequencing showing OR=45.7 enrichment for ionotropic glutamate receptor variants"
+    },
+    {
+      "source_id": "dee_studies",
+      "name": "Developmental and Epileptic Encephalopathies Studies",
+      "type": "clinical_cohort",
+      "organism": "human",
+      "autism_cases": false,
+      "epilepsy_cases": true,
+      "comorbidity_data": true,
+      "description": "Multiple published studies of developmental and epileptic encephalopathy cohorts showing de novo variants in GABA receptor and ion channel genes"
+    },
+    {
+      "source_id": "autism_convergence",
+      "name": "Autism Convergence Studies",
+      "type": "functional_validation",
+      "organism": "human",
+      "autism_cases": true,
+      "epilepsy_cases": false,
+      "comorbidity_data": false,
+      "description": "Studies showing evidence of convergent dysfunction in comorbid genes across autism cohorts"
+    }
+  ],
+  "cell_type_evidence": {
+    "source": "Sanders/Nowakowski BA22 2026 (Suresh, Wigdor, Hao et al.)",
+    "description": "Single-nucleus multiomics of BA22 speech cortex in 100 donors provides cell-type resolution for receptor framework",
+    "findings": {
+      "excitatory_neurons_most_affected": "L4/5 IT neurons show strongest DEG burden and chromatin accessibility changes across all comparisons. Deep-layer excitatory neurons are the primary cellular substrate.",
+      "inhibitory_neuron_concordance": "Genome-wide log2FC correlation between genetically diagnosed and undiagnosed ASD is strongest in inhibitory neurons, suggesting GABAergic populations carry the most concordant signal across genetic backgrounds.",
+      "downregulated_pathways": "Mitochondrial, oxidative phosphorylation, ATP metabolic, ribosomal processes (P < 1e-20)",
+      "upregulated_pathways": "Neuronal projection development, dendrite morphogenesis, synapse organization, cell junction assembly, small GTPase signaling (P < 1e-9)",
+      "rfx3_regulatory_hub": "RFX3 motif accessibility increased across excitatory neuron subtypes. RFX3 regulates IEGs via CREB/CREBBP. IEGs enriched but paradoxically downregulated (compensatory pattern)."
+    }
+  },
+  "verbal_nonverbal_dimension": {
+    "source": "Sanders/Nowakowski BA22 2026",
+    "description": "Verbal vs non-verbal differences within ASD cohort map to specific neuron types and regulatory programs",
+    "sample_size_caveat": "Small Ns (~20-26 donors with verbal phenotype data). Interpret cautiously.",
+    "findings": {
+      "cell_types_affected": ["L2/3 IT3", "L2/3 IT4", "L5 ET2"],
+      "key_regulators": ["RFX3", "EGR4"],
+      "rfx3_pattern": "Coordinated differences in RFX3 RNA expression, motif accessibility, and eRegulon activity between verbal and non-verbal individuals. Cell-type dependent.",
+      "evolutionary_enrichment": "Regulatory regions associated with verbal/non-verbal differences enriched in human-gained enhancers (HGEs) and primate-conserved regions linked to language.",
+      "evidence_tier": "C -- descriptive, small sample, not replicated"
+    }
+  },
+  "diagnosed_vs_undiagnosed": {
+    "source": "Sanders/Nowakowski BA22 2026",
+    "description": "Same biology, different effect sizes across genetic backgrounds",
+    "findings": {
+      "ndd_asd_degs": 7828,
+      "asd_only_degs": 33,
+      "genome_wide_correlation": "Moderate Spearman rho between NDD/ASD and ASD-only log2FCs using split controls (1000 iterations). Strongest in inhibitory neurons.",
+      "interpretation": "Consistent with spectrum from high-penetrance rare variants to distributed common risk converging on same neuronal programs at different magnitudes."
+    }
+  },
+  "interpretation": {
+    "key_insight": "The receptor type separation model proposes that dissociable biological pathways underlie autism vs epilepsy phenotypes: glutamatergic excitatory dysfunction in autism-predominant presentations, GABAergic inhibitory dysfunction in epilepsy-predominant presentations, with shared ion channel genes involved in both conditions. Sanders BA22 2026 adds cell-type resolution: excitatory L4/5 IT neurons are most affected, and the diagnosed-vs-undiagnosed comparison shows same biology at different effect sizes.",
+    "clinical_implications": "This framework may help stratify patients into mechanistically distinct groups for targeted therapeutic approaches: GABA-enhancing or glutamate-reducing strategies for epilepsy-predominant, GABA-reducing or glutamate-enhancing for autism-predominant. The verbal/non-verbal dimension adds a language-specific axis linked to RFX3 regulatory activity in specific neuron types.",
+    "research_priorities": "Functional validation of rare variants in glutamate and GABA receptor genes; cell-type specific expression analysis; electrophysiological characterization of variant effects; translational studies in patient-derived neurons; replication of verbal/non-verbal RFX3 finding in independent cohorts; investigation of RFX3-CREB-IEG pathway in autism models"
+  }
+}

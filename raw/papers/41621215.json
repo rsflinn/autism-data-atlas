@@ -1,0 +1,37 @@
+{
+  "pmid": "41621215",
+  "title": "Generation of a human induced pluripotent stem cell line (FDIBSi002-A) derived from a patient with DYRK1A syndrome carrying a heterozygous DYRK1A mutation (c.1042G>A).",
+  "abstract": "DYRK1A syndrome is a neurodevelopmental disorder caused by DYRK1A haploinsufficiency. We generated a human induced pluripotent stem cell (iPSC) line, FDIBSi002-A, from a 4-year-old female patient carrying a de novo heterozygous c.1042G>A (p.G348R) mutation in DYRK1A. Peripheral blood mononuclear cells (PBMCs) were reprogrammed using non-integrating episomal vectors. The established iPSC line exhibited a normal karyotype (46, XX), expressed pluripotency markers, and demonstrated trilineage differentiation potential. This patient-specific cell line provides a valuable model for investigating the pathogenic mechanisms of DYRK1A-related intellectual disability and for drug screening.",
+  "authors": [
+    "{'last_name': 'Peng', 'fore_name': 'Xingsheng', 'initials': 'X', 'affiliations': ['State Key Laboratory of Brain Function and Disorders and MOE Frontiers Center for Brain Science, Institutes of Brain Science, Department of Pediatrics, Zhongshan Hospital, Fudan University, Shanghai 200032, China.']}",
+    "{'last_name': 'Li', 'fore_name': 'Yuan', 'initials': 'Y', 'affiliations': ['State Key Laboratory of Brain Function and Disorders and MOE Frontiers Center for Brain Science, Institutes of Brain Science, Department of Pediatrics, Zhongshan Hospital, Fudan University, Shanghai 200032, China.']}",
+    "{'last_name': 'Zhang', 'fore_name': 'Meiling', 'initials': 'M', 'affiliations': ['Institute of Neuroscience, State Key Laboratory of Neuroscience, CAS Center for Excellence in Brain Science and Intelligence Technology, Chinese Academy of Sciences, Shanghai 200031, China.']}",
+    "{'last_name': 'Wang', 'fore_name': 'Huijun', 'initials': 'H', 'affiliations': [\"Center for Molecular Medicine, Children's Hospital of Fudan University, National Children's Medical Center, Shanghai 201102, China.\"]}",
+    "{'last_name': 'Zhou', 'fore_name': 'Wenhao', 'initials': 'W', 'affiliations': [\"Guangzhou Women and Children's Medical Center, Guangzhou Medical University, Guangzhou 510623, China. Electronic address: zwhchfu@126.com.\"]}",
+    "{'last_name': 'Xiong', 'fore_name': 'Man', 'initials': 'M', 'affiliations': ['State Key Laboratory of Brain Function and Disorders and MOE Frontiers Center for Brain Science, Institutes of Brain Science, Department of Pediatrics, Zhongshan Hospital, Fudan University, Shanghai 200032, China. Electronic address: man_xiong@fudan.edu.cn.']}"
+  ],
+  "journal": "Stem cell research",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "26"
+  },
+  "doi": "10.1016/j.scr.2026.103917",
+  "mesh_terms": [
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Dyrk Kinases",
+    "Female",
+    "Protein-Tyrosine Kinases",
+    "Protein Serine-Threonine Kinases",
+    "Child, Preschool",
+    "Heterozygote",
+    "Mutation",
+    "Cell Line",
+    "Cell Differentiation"
+  ],
+  "keywords": [],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

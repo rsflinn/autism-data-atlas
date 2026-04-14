@@ -1,0 +1,36 @@
+{
+  "pmid": "41408787",
+  "title": "What do European clinical guidelines say about genetic testing for people with neuropsychiatric disorders? A scoping review.",
+  "abstract": "Genomic medicine has progressed rapidly, and many high-risk genetic variants for neuropsychiatric disorders have now been identified. However, clinical genetic testing is rarely utilized in psychiatric settings. This scoping review examined European clinical practice guidelines (CPGs) for genetic testing in neuropsychiatric disorders to map recommendations and identify gaps. Seventeen CPGs published since 2010 met the inclusion criteria. There was a wide variation in scope, quality, and conditions covered. Seven CPGs addressed autism spectrum disorder, generally recommending testing when additional features such as intellectual disability or dysmorphology were present. One CPG covered the investigation of intellectual disability, advising Fragile X testing, chromosomal microarray, and whole-genome sequencing. Most CPGs (11/17), related to dementia, advising testing with very early onset and/or an indicative family history. Overall, European CPGs for genetic testing in psychiatry vary significantly, contributing to clinician uncertainty. Harmonizing evidence-based CPGs is crucial to advance the integration of genetic testing in psychiatric practice.",
+  "authors": [
+    "{'last_name': 'Arican', 'fore_name': 'Izemnur', 'initials': 'I', 'affiliations': ['Mental Health Neuroscience Department, Division of Psychiatry, University College London.', 'East London NHS Foundation Trust, London, UK.']}",
+    "{'last_name': 'van der Horst', 'fore_name': 'Marte', 'initials': 'M', 'affiliations': ['Department of Psychiatry, Brain Center, University Medical Center Utrecht, Utrecht.']}",
+    "{'last_name': 'Bass', 'fore_name': 'Nicholas', 'initials': 'N', 'affiliations': ['Mental Health Neuroscience Department, Division of Psychiatry, University College London.']}",
+    "{'last_name': 'Zinkstok', 'fore_name': 'Janneke R', 'initials': 'JR', 'affiliations': ['Department of Psychiatry, Brain Center, University Medical Center Utrecht, Utrecht.', 'Department of Psychiatry, Radboud University Medical Center, Donders Institute for Brain, Cognition, and Behavior.', 'Karakter Child and Adolescent Mental Health Care, Nijmegen, The Netherlands.']}"
+  ],
+  "journal": "Psychiatric genetics",
+  "date": {
+    "year": "2025",
+    "month": "12",
+    "day": "03"
+  },
+  "doi": "10.1097/YPG.0000000000000407",
+  "mesh_terms": [
+    "Humans",
+    "Genetic Testing",
+    "Europe",
+    "Practice Guidelines as Topic",
+    "Mental Disorders"
+  ],
+  "keywords": [
+    "genetic",
+    "guideline",
+    "neuropsychiatric disorders",
+    "review",
+    "scoping",
+    "testing"
+  ],
+  "pmc": "PMC12834271",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

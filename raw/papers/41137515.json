@@ -1,0 +1,52 @@
+{
+  "pmid": "41137515",
+  "title": "Towards Characterizing the Developmental and Behavioral Profiles of ODLURO Syndrome: Shared Features With Wiedemann-Steiner Syndrome and Kabuki Syndrome.",
+  "abstract": "O'Donnell-Luria-Rodan syndrome (ODLURO) is a rare disorder caused by a pathogenic variant in KMT2E and associated with intellectual disability. To date, the neurobehavioral phenotype of this disorder remains elusive. Here, we aimed to characterize the cognitive and behavioral profiles associated with ODLURO and compare the trends with those of other disorders associated with epigenetic regulation of gene expression at H3K4, Wiedemann-Steiner syndrome (WDSTS) and Kabuki syndrome type 1 (KABUK1). Findings show prominent behavioral features in ODLURO include problems with anxiety (33%), attention (67%), and executive function (50%) (working memory, cognitive inflexibility), with similar severity ratings as WDSTS and KABUK1. Two-thirds of participants were rated in the moderate-to-severe range in overall autism-like behaviors on the SRS-2; however, study findings highlighted a pattern of most day-to-day difficulties in Restricted/Repetitive Behaviors paired with relatively fewer challenges in Social Motivation, comparable to trends reported in WDSTS. Sleep disturbances are common in ODLURO (85%) and associated with behavior regulation difficulties, highlighting the importance of early screening/intervention. In brief, ODLURO shares similarities in neurobehavioral functioning with other disorders of H3K4 modulation of gene expression, warranting further systematic research with cross-syndrome comparisons to elucidate the relationship between epigenetic regulation and pathogenesis of neurodevelopmental disorders.",
+  "authors": [
+    "{'last_name': 'Ng', 'fore_name': 'Rowena', 'initials': 'R', 'affiliations': ['Kennedy Krieger Institute, Baltimore, Maryland, USA.', 'Department of Psychiatry and Behavioral Sciences, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.']}",
+    "{'last_name': \"O'Donnell-Luria\", 'fore_name': 'Anne', 'initials': 'A', 'affiliations': [\"Division of Genetics and Genomics, Boston Children's Hospital, Boston, Massachusetts, USA.\", 'Department of Pediatrics, Harvard Medical School, Boston, Massachusetts, USA.', 'Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, Massachusetts, USA.']}",
+    "{'last_name': 'Harris', 'fore_name': 'Jacqueline', 'initials': 'J', 'affiliations': ['Kennedy Krieger Institute, Baltimore, Maryland, USA.', 'Department of Neurology, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.', 'Department of Genetic Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.', 'Department of Pediatrics, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.']}"
+  ],
+  "journal": "Clinical genetics",
+  "date": {
+    "year": "2025",
+    "month": "10",
+    "day": "25"
+  },
+  "doi": "10.1111/cge.70090",
+  "mesh_terms": [
+    "Humans",
+    "Hematologic Diseases",
+    "Abnormalities, Multiple",
+    "Vestibular Diseases",
+    "Male",
+    "Face",
+    "Female",
+    "Child",
+    "Intellectual Disability",
+    "Child, Preschool",
+    "Epigenesis, Genetic",
+    "Phenotype",
+    "Adolescent",
+    "Myeloid-Lymphoid Leukemia Protein",
+    "Histone-Lysine N-Methyltransferase",
+    "Autistic Disorder",
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Facies"
+  ],
+  "keywords": [
+    "ADHD",
+    "KMT2E",
+    "anxiety",
+    "attention",
+    "autism",
+    "epigenetics",
+    "genetic disorders",
+    "histone methyltransferase",
+    "social functioning"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

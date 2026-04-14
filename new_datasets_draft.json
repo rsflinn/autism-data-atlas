@@ -1,0 +1,57 @@
+[
+  {
+    "id": "alonso-2025-tr-cregreg",
+    "name": "Alonso-Gonzalez 2025 De Novo Regulatory Tandem Repeats in ASD (Spanish Cohort + SSC integration)",
+    "shortName": "TR Regulatory ASD 2025",
+    "description": "Targeted sequencing of about 85,000 active regulatory regions (cis-regulatory elements from ENCODE) in 200 Spanish autism trios, looking for new tandem repeat mutations -- short DNA sequences that repeat back-to-back and are usually skipped by standard exome and whole-genome pipelines. The Spanish data is integrated with tandem repeat calls from 1,637 Simons Simplex Collection quad families to find regulatory regions hit in both cohorts. The paper points to a region on chromosome 10 (DRD1IP/ECHS1 area) as a top candidate.",
+    "whatYouCanDo": "Pull tandem repeat call sets generated on regulatory regions in 200 ASD trios. Test whether your gene of interest is downstream of a TR-mutated cCRE in either cohort. Combine with the SSC TR catalog from Mitra et al. 2021.",
+    "whatYouCant": "Access raw Spanish CRAM/VCF files without an EGA Data Access Committee approval. Detect TR expansions larger than ~150 bp (short-read limitation). Get clinical phenotype detail beyond DSM-IV/V diagnoses.",
+    "citation": "Alonso-Gonzalez A et al. Large-scale sequencing study of de novo regulatory Tandem Repeats (TRs) identifies new ASD candidate genes integrating gene expression mapping, brain scRNA-seq and organoid models. Research Square preprint, 2025.",
+    "doi": "10.21203/rs.3.rs-8374597/v1",
+    "dataType": ["targeted sequencing", "tandem repeats", "regulatory variants"],
+    "organism": "Human",
+    "sampleSize": "200 Spanish ASD trios + 1,637 SSC quad families (integrative)",
+    "accessLevel": "CONTROLLED",
+    "accessNotes": "Spanish cohort raw sequencing data deposited in EGA under accession EGAS50000001395 (Data Access Committee approval required). SSC TR data available via SFARI Base.",
+    "primaryUrl": "https://ega-archive.org/studies/EGAS50000001395",
+    "downloadUrls": [
+      {"label": "EGA study record", "url": "https://ega-archive.org/studies/EGAS50000001395", "format": "CRAM/VCF", "sizeApprox": "[NEEDS VERIFICATION]"},
+      {"label": "Research Square preprint", "url": "https://doi.org/10.21203/rs.3.rs-8374597/v1", "format": "PDF", "sizeApprox": "Small"}
+    ],
+    "fileFormats": ["CRAM", "VCF"],
+    "genesRelevant": ["DRD1IP", "ECHS1"],
+    "tags": ["tandem-repeats", "regulatory", "non-coding", "trios", "EGA", "missing-heritability"],
+    "category": "genetic-variation",
+    "publicationYear": 2025,
+    "codeSnippet": "# Requires EGA approval. After download:\nimport pysam\nbam = pysam.AlignmentFile('proband.cram', 'rc')\n# TR genotyping pipeline: GangSTR + MonSTR (see paper Methods)",
+    "relatedDatasets": ["sfari-base", "spark-wgs", "denovo-db"],
+    "lastVerified": "2026-04-06"
+  },
+  {
+    "id": "cao-2025-nrxn1-isoforms",
+    "name": "Cao 2025 Cell-Type-Resolved NRXN1 Isoforms (Adult/Fetal Brain + hiPSC Organoids)",
+    "shortName": "NRXN1 Iso-Atlas 2025",
+    "description": "A long-read sequencing atlas of NRXN1 splice isoforms across single cell types in human adult prefrontal cortex, fetal brain, and hiPSC-derived cortical organoids. NRXN1 is a synapse gene with hundreds of alternative isoforms; the authors developed a targeted enrichment plus long-read approach to capture full isoform diversity at low expression levels. Includes a cerebellum sample from an autism case and organoids from schizophrenia patients with NRXN1 deletions, with mutant isoforms catalogued.",
+    "whatYouCanDo": "Look up which NRXN1 isoforms are expressed in specific brain cell types. Compare adult vs. fetal vs. organoid splicing patterns. See how heterozygous NRXN1 deletions disrupt isoform expression in patient samples.",
+    "whatYouCant": "Generalize beyond NRXN1 -- this is targeted to one gene. Distinguish autism-specific from schizophrenia-specific patterns (small case numbers).",
+    "citation": "Cao L, Fan Y, Ghorbani S, et al. Cell-type-resolved NRXN1 isoforms across human brain tissues and hiPSC organoids. bioRxiv preprint, November 2025.",
+    "doi": "10.1101/2025.11.11.687875",
+    "dataType": ["long-read RNA-seq", "single-cell", "targeted enrichment", "Iso-seq"],
+    "organism": "Human",
+    "sampleSize": "Adult PFC + fetal brain + hiPSC organoids; one autism cerebellum case",
+    "accessLevel": "REGISTERED",
+    "accessNotes": "Preprint posted November 2025. Data deposit accession not yet pulled in this scan -- check the bioRxiv preprint Data Availability statement (PDF link below). [NEEDS VERIFICATION] of GEO/SRA accession.",
+    "primaryUrl": "https://www.biorxiv.org/content/10.1101/2025.11.11.687875v1",
+    "downloadUrls": [
+      {"label": "bioRxiv preprint PDF", "url": "https://www.biorxiv.org/content/10.1101/2025.11.11.687875v1.full.pdf", "format": "PDF", "sizeApprox": "Small"}
+    ],
+    "fileFormats": ["FASTQ", "BAM"],
+    "genesRelevant": ["NRXN1"],
+    "tags": ["NRXN1", "isoforms", "long-read", "single-cell", "organoid", "synaptic"],
+    "category": "patient-organoid",
+    "publicationYear": 2025,
+    "codeSnippet": "# Long-read isoform analysis after deposit retrieval\n# Suggested tools: IsoQuant, FLAIR, or SQANTI3 for isoform classification",
+    "relatedDatasets": ["pasca-2026-organoids", "lipton-2024-mef2c"],
+    "lastVerified": "2026-04-06"
+  }
+]

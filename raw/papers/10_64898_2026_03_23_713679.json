@@ -1,0 +1,35 @@
+{
+  "id": "10.64898/2026.03.23.713679",
+  "id_type": "doi",
+  "title": "Subunit selective modulation of GABAA receptors using pharmacogenetically tethered neurosteroids",
+  "authors": "Kumar A et al.",
+  "journal": "bioRxiv",
+  "date": "2026-03-26",
+  "abstract": "Engineered neurosteroid DART platform for cell-restricted, subunit-resolved GABAA receptor modulation. Lead compound YX85.1DART.2 enhanced GABA-evoked currents in alpha4/delta-containing GABAA receptors but spared gamma2-containing receptors. Complementary benzodiazepine DART showed opposite selectivity. Tools enable dissection of how distinct GABAA receptor subclasses contribute to circuit function and therapeutic outcomes in epilepsy.",
+  "source": "biorxiv",
+  "doi": "10.64898/2026.03.23.713679",
+  "score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 3,
+    "novelty": 5,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 2
+  },
+  "genes": [
+    "GABRB3",
+    "GABRG2",
+    "GABRA1"
+  ],
+  "concepts": [
+    "GABAA receptor",
+    "neurosteroids",
+    "subunit selectivity",
+    "epilepsy therapeutics",
+    "DART",
+    "inhibitory circuits"
+  ],
+  "evidence_tier": "C"
+}

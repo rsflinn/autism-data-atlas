@@ -1,0 +1,41 @@
+{
+  "pmid": "41621526",
+  "title": "Causal relationships between ADHD, ASD and brain structure: A mendelian randomization study.",
+  "abstract": "Neurodevelopmental disorders (NDDs) are debilitating conditions that impose significant burdens on individuals, families, and society. Despite evidence demonstrated altered brain structure in NDDs, definitive conclusions remain elusive. Using two-sample mendelian randomization (MR) and the latest GWAS findings, the current study aimed to elucidate the causal relationships between grey matter (GM), white matter (WM), subcortical regions, and two prevalent NDDs: attention deficit hyperactivity disorder (ADHD) and autism spectrum disorder (ASD). Our findings identified two frontal regions as key neural substrates in NDDs. Specifically, an increased surface area (SA) of the superior frontal gyrus (SFG) was significantly associated with an enhanced risk of ADHD (P&#xa0;=&#xa0;2.04E-13, &#x3b2;&#xa0;=&#xa0;4.28E-02, SE&#xa0;=&#xa0;5.82E-03), while a larger SA of the orbital frontal gyrus (OFG) was associated with a reduced risk of ASD (P&#xa0;=&#xa0;1.98E-42, &#x3b2;&#xa0;=&#xa0;-9.8E-02; SE&#xa0;=&#xa0;0.007). Regarding WM tracts, the mode of anisotropy (MO) in the inferior fronto-occipital fasciculus (IFO) emerged as a causal factor for ADHD (P&#xa0;=&#xa0;3.36E-70, &#x3b2;&#xa0;=&#xa0;-18.35; SE&#xa0;=&#xa0;1.04), whereas the MO in the retro-lenticular part of the internal capsule (RLIC) was implicated in ASD (P&#xa0;=&#xa0;1.37E-04, &#x3b2;&#xa0;=&#xa0;-12.73, SE&#xa0;=&#xa0;3.34). No reverse causal link, i.e., brain alteration caused by NDDs was identified. Further mediation analyses using functional MRI (fMRI) GWAS data revealed that brain functional activities mediated the relationship between structural brain changes and NDDs risk. In conclusion, our findings underscored the critical role of the frontal lobe and association and projection fibers in the pathophysiology of NDDs, provide novel insights into the neural mechanisms underlying ADHD and ASD.",
+  "authors": [
+    "{'last_name': 'Zhao', 'fore_name': 'Yilu', 'initials': 'Y', 'affiliations': [\"Affiliated Mental Health Center and Hangzhou Seventh People's Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China; Nanhu Brain-computer Interface Institute, Hangzhou, Zhejiang, China; MOE Frontier Science Center for Brain Science and Brain-machine Integration, Zhejiang University, Hangzhou, Zhejiang, China; State Key Laboratory of Brain-machine Intelligence, Zhejiang University, Hangzhou, Zhejiang, China. Electronic address: zhao_yilu@zju.edu.cn.\"]}",
+    "{'last_name': 'Zhang', 'fore_name': 'Yamin', 'initials': 'Y', 'affiliations': [\"Affiliated Mental Health Center and Hangzhou Seventh People's Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China; Nanhu Brain-computer Interface Institute, Hangzhou, Zhejiang, China; MOE Frontier Science Center for Brain Science and Brain-machine Integration, Zhejiang University, Hangzhou, Zhejiang, China; State Key Laboratory of Brain-machine Intelligence, Zhejiang University, Hangzhou, Zhejiang, China.\"]}",
+    "{'last_name': 'Li', 'fore_name': 'Tao', 'initials': 'T', 'affiliations': [\"Affiliated Mental Health Center and Hangzhou Seventh People's Hospital, Zhejiang University School of Medicine, Hangzhou, Zhejiang, China; Nanhu Brain-computer Interface Institute, Hangzhou, Zhejiang, China; MOE Frontier Science Center for Brain Science and Brain-machine Integration, Zhejiang University, Hangzhou, Zhejiang, China; State Key Laboratory of Brain-machine Intelligence, Zhejiang University, Hangzhou, Zhejiang, China. Electronic address: litaozjusc@zju.edu.cn.\"]}"
+  ],
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "30"
+  },
+  "doi": "10.1016/j.pnpbp.2026.111631",
+  "mesh_terms": [
+    "Humans",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Mendelian Randomization Analysis",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Genome-Wide Association Study",
+    "Male",
+    "White Matter",
+    "Gray Matter",
+    "Female",
+    "Magnetic Resonance Imaging",
+    "Child",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "ADHD",
+    "ASD",
+    "Brain structure",
+    "Mendelian randomization"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

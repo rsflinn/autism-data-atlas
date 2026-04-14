@@ -1,0 +1,20 @@
+{
+  "doi": "10.64898/2026.03.31.715540",
+  "title": "Brain cell type nuclei enrichment without fixative for nanoCUT&Tag and other omics approaches",
+  "authors": "Ziegler KC, van Dalen JD, Bedwell LA, Transfeld JL, Nott A",
+  "journal": "bioRxiv (preprint)",
+  "date": "2026-04-06",
+  "abstract": "We present a workflow for cell-type-enriched epigenomic profiling of the neurovascular unit and associated cell types, including brain endothelial cells, mural cells, microglia, astrocytes, neurons, and oligodendrocytes, using nanoCUT&Tag and other omics approaches without fixative.",
+  "source": "biorxiv",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "direct_autism_relevance": 2,
+    "noncoding_regulatory_relevance": 5,
+    "dataset_availability": 3,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "decision": "INTEGRATE",
+  "note": "Methods paper. Brain cell-type-specific epigenomic profiling workflow directly applicable to autism regulatory variant characterization across neuronal and glial cell types."
+}

@@ -1,0 +1,121 @@
+{
+  "id": "spark-wgs",
+  "name": "SPARK Whole Genome Sequencing",
+  "short_name": "SPARK WGS",
+  "consortium": "Simons Foundation",
+  "parent_organization": "Simons Foundation Autism Research Initiative (SFARI)",
+  "data_types": ["WGS", "phenotype", "clinical", "genotyping"],
+  "sample_size": "330,000+ total participants (123,444 with autism); 3,568 WGS from individuals with ASD, 34,164 WES from individuals with ASD, as of 2023",
+  "access_level": "CONTROLLED",
+  "access_url": "https://www.sfari.org/resource/spark/",
+  "wgs_available": true,
+  "wes_available": true,
+  "phenotype_depth": "deep",
+  "has_noncoding_data": true,
+  "has_family_structure": true,
+  "has_epilepsy_data": false,
+  "has_iq_data": true,
+  "has_ados_data": true,
+  "has_adaptive_behavior": true,
+  "backfill_phase": 1,
+  "atlas_integration_status": "not_started",
+  "evidence_tier": "C",
+  "last_updated": "2026-04-06",
+  "access_requirements": {
+    "institution_affiliation_required": true,
+    "approval_timeline_weeks": "4-12",
+    "cloud_based_analysis_available": true,
+    "embargo_genomic_months": 6,
+    "embargo_phenotype_months": 0
+  },
+  "genotyping": {
+    "array_available": true,
+    "array_type": "Infinium Global Screening Array-24 v1.0",
+    "snp_count": 690000,
+    "population_diverse": true
+  },
+  "available_phenotypes": [
+    "Adult Self Report (ASR)",
+    "Developmental Coordination Disorder Questionnaire (DCDQ)",
+    "Child Behavior Checklist (CBCL)",
+    "Repetitive Behavior Scale-Revised (RBS-R)",
+    "Social Communication Questionnaire (SCQ)",
+    "Social Responsiveness Scale-2 Adult Self Report (SRS-2)",
+    "Vineland Adaptive Behavior Scales (Vineland-3)",
+    "ADOS (Autism Diagnostic Observation Schedule) - subset",
+    "IQ measurement - subset",
+    "Clinical diagnosis confirmation"
+  ],
+  "gene_coverage": "genome-wide",
+  "key_publications": [
+    {
+      "pmid": "29420931",
+      "title": "SPARK: A US Cohort of 50,000 Families to Accelerate Autism Research",
+      "authors": "SPARK Consortium",
+      "year": 2018,
+      "journal": "Neuron",
+      "doi": "10.1016/j.neuron.2018.01.015",
+      "relevance": "Original SPARK cohort description and launch"
+    },
+    {
+      "pmid": "34328611",
+      "title": "Validation of Autism Diagnosis and Clinical Data in the SPARK Cohort",
+      "year": 2021,
+      "journal": "Scientific Data",
+      "doi": "10.1038/s41597-021-00924-1",
+      "relevance": "Validation of phenotypic data quality and autism diagnosis"
+    },
+    {
+      "pmid": "37656099",
+      "title": "SPARK December 2022 update: New phenotypic data available",
+      "year": 2023,
+      "journal": "SFARI Blog",
+      "relevance": "Latest data release notes for SPARK"
+    }
+  ],
+  "available_analyses": [
+    "Genome-wide association studies (GWAS) of autism traits",
+    "De novo variant discovery in coding and non-coding regions",
+    "Family-based genetic studies",
+    "Phenotype-genotype correlations",
+    "Sex differences in genetic architecture",
+    "Comorbidity analysis (medical history available)",
+    "Expression quantitative trait loci (eQTL) studies"
+  ],
+  "noncoding_variant_data": {
+    "de_novo_noncoding_available": true,
+    "regulatory_variant_available": true,
+    "intergenic_variant_available": true,
+    "intronic_variant_available": true,
+    "estimated_noncoding_de_novo_count": "Not specifically reported; genome-wide WGS enables systematic study"
+  },
+  "clinical_phenotypes": {
+    "epilepsy_seizure_data": false,
+    "medical_history": true,
+    "behavioral_assessment": true,
+    "intellectual_disability": true,
+    "language_impairment": true,
+    "adaptive_functioning": true
+  },
+  "family_structure": {
+    "simplex_available": true,
+    "multiplex_available": true,
+    "unaffected_siblings_percent": "Subset available",
+    "parents_sequenced": "Majority available"
+  },
+  "regulatory_relevance": "comprehensive",
+  "receptor_separation_relevance": "not_applicable",
+  "research_activity": "100+ active studies using SPARK data as of 2023",
+  "data_use_restrictions": "Not-For-Profit Research Use",
+  "quality_metrics": {
+    "sequencing_depth_wgs": "30x coverage average",
+    "call_rate": "High quality (>99%)",
+    "validation_studies": true
+  },
+  "sources": [
+    "https://www.sfari.org/resource/spark/",
+    "https://sparkforautism.org/",
+    "https://pubmed.ncbi.nlm.nih.gov/29420931/",
+    "https://www.sfari.org/2023/01/04/spark-december-2022-update-new-phenotypic-data-available/"
+  ]
+}

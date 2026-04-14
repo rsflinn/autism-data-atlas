@@ -1,0 +1,36 @@
+{
+  "pmid": "41827018",
+  "title": "Resolving non&#x2011;coding splice&#x2011;altering variants using an integrative genomic and transcriptomic workflow: application to FOXP1.",
+  "abstract": "Genome sequencing (GS) often reveals non-coding variants of uncertain significance, especially those predicted to affect pre-mRNA splicing. We present an integrative workflow combining splice prediction, a minigene assay and long-read RNA sequencing to assess their functional impact. Applied to a de novo heterozygous 17-bp intronic deletion in FOXP1 from a child with a neurodevelopmental disorder, this approach showed impaired exon recognition and multiple aberrant transcript isoforms, supporting a loss-of-function mechanism consistent with FOXP1 haploinsufficiency. Our results illustrate how experimental and isoform-resolved transcriptomic analyses can refine the interpretation of non-coding splice-altering variants detected by GS in clinical genomics.",
+  "authors": [
+    "{'last_name': 'Plant&#xe9;-Bordeneuve', 'fore_name': 'Pauline', 'initials': 'P', 'affiliations': ['Univ. Lille, ULR7364 RADEME, FHU-G4 G&#xe9;nomique, Lille, F-59000, France.', 'CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France.', 'Laboratoire de biologie m&#xe9;dicale multisites Seqoia-PFMG2025, F-75000, Paris, France.']}",
+    "{'last_name': 'Jourdain', 'fore_name': 'Anne-Sophie', 'initials': 'AS', 'affiliations': ['Univ. Lille, ULR7364 RADEME, FHU-G4 G&#xe9;nomique, Lille, F-59000, France.', 'CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France.']}",
+    "{'last_name': 'Thuillier', 'fore_name': 'Caroline', 'initials': 'C', 'affiliations': ['CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France.']}",
+    "{'last_name': 'Caux', 'fore_name': 'Aur&#xe9;lien', 'initials': 'A', 'affiliations': ['CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France.']}",
+    "{'last_name': 'Tessarech', 'fore_name': 'Marine', 'initials': 'M', 'affiliations': ['Univ. Lille, ULR7364 RADEME, FHU-G4 G&#xe9;nomique, Lille, F-59000, France.', 'CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France.', 'Laboratoire de biologie m&#xe9;dicale multisites Seqoia-PFMG2025, F-75000, Paris, France.']}",
+    "{'last_name': 'Meneboo', 'fore_name': 'Jean-Pascal', 'initials': 'JP', 'affiliations': ['Univ. Lille, CNRS, Inserm, CHU Lille, Institut Pasteur de Lille, US 41-UAR 2014-PLBS, Lille, France.']}",
+    "{'last_name': 'Ait-Yahya', 'fore_name': 'Emilie', 'initials': 'E', 'affiliations': ['Cellule de Bioinformatique, CHU Lille, Plateau Commun de S&#xe9;quen&#xe7;age, CHU Lille, Lille, F-59000, France.']}",
+    "{'last_name': 'Costantini', 'fore_name': 'Sara', 'initials': 'S', 'affiliations': ['CHU Lille, Clinique de G&#xe9;n&#xe9;tique, Lille, F-59000, France.']}",
+    "{'last_name': 'Brunelle', 'fore_name': 'Perrine', 'initials': 'P', 'affiliations': ['Univ. Lille, ULR7364 RADEME, FHU-G4 G&#xe9;nomique, Lille, F-59000, France.', 'CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France.', 'Laboratoire de biologie m&#xe9;dicale multisites Seqoia-PFMG2025, F-75000, Paris, France.']}",
+    "{'last_name': 'Smol', 'fore_name': 'Thomas', 'initials': 'T', 'affiliations': ['Univ. Lille, ULR7364 RADEME, FHU-G4 G&#xe9;nomique, Lille, F-59000, France. thomas.smol@chu-lille.fr.', 'CHU Lille, Institut de G&#xe9;n&#xe9;tique M&#xe9;dicale, F-59000, Lille, France. thomas.smol@chu-lille.fr.', 'Laboratoire de biologie m&#xe9;dicale multisites Seqoia-PFMG2025, F-75000, Paris, France. thomas.smol@chu-lille.fr.']}"
+  ],
+  "journal": "Human genomics",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "13"
+  },
+  "doi": "10.1186/s40246-026-00946-7",
+  "mesh_terms": [],
+  "keywords": [
+    "FOXP1",
+    "Genome diagnostics",
+    "Long&#x2011;read RNA sequencing",
+    "Minigene assay",
+    "Non&#x2011;coding variants",
+    "RNA splicing"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

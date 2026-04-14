@@ -1,0 +1,43 @@
+{
+  "pmid": "41865373",
+  "title": "Distinct synaptic mechanisms underlie NRXN1 variant and disorder background-dependent phenotypes in iPSC-derived neurons.",
+  "abstract": "Copy-number deletions in the 2p16.3/NRXN1 locus confer genetic risk for autism spectrum disorder (ASD) and schizophrenia (SCZ). Prior studies showed that heterozygous NRXN1 deletions reduce excitatory synaptic transmission in human induced pluripotent stem cell (iPSC)-derived cortical induced neurons, a phenotype also observed in SCZ patient lines carrying NRXN1 deletions. However, it remains unknown whether similar synaptic deficits exist in ASD patients with NRXN1 deletions. Clarifying this is important for determining whether NRXN1-deletion carriers should be approached uniformly or with consideration of disorder background, genetic modifiers, and deletion breakpoints. Here, we show that ASD-associated NRXN1 deletions alter cortical synaptic function in distinct ways. ASD deletions selectively enhance excitatory synaptic signaling without affecting inhibitory synapses, whereas SCZ deletions reduce both. At the network level, ASD deletions generate irregular firing patterns and impair homeostatic synaptic plasticity. Our study uncovers disorder-dependent synaptic mechanisms linked to NRXN1 deletions, providing a foundation for targeted therapeutic strategies for NRXN1-related disorders.",
+  "authors": [
+    "{'last_name': 'English', 'fore_name': 'Jay', 'initials': 'J', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA; Graduate Program in Molecular and Cellular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'McSweeney', 'fore_name': 'Danny', 'initials': 'D', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA; Graduate Program in Molecular and Cellular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'Geng', 'fore_name': 'Jinghui', 'initials': 'J', 'affiliations': ['Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA 95064, USA; Department of Electrical and Computer Engineering, University of California, Santa Cruz, Santa Cruz, CA 95064, USA.']}",
+    "{'last_name': 'Howell', 'fore_name': 'Ethan', 'initials': 'E', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'Ribbe', 'fore_name': 'Fumiko', 'initials': 'F', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'Hinderhofer', 'fore_name': 'Matthew', 'initials': 'M', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA; Graduate Program in Molecular and Cellular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'Proskauer', 'fore_name': 'Lydia', 'initials': 'L', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA; Graduate Program in Molecular and Cellular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'Sebastian', 'fore_name': 'Rebecca', 'initials': 'R', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA.']}",
+    "{'last_name': 'Wang', 'fore_name': 'Le', 'initials': 'L', 'affiliations': ['Department of Neuroscience and Cell Biology, Robert Wood Johnson Medical School, New Brunswick, NJ 08901, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ 08901, USA.']}",
+    "{'last_name': 'Sharf', 'fore_name': 'Tal', 'initials': 'T', 'affiliations': ['Department of Biomolecular Engineering, University of California, Santa Cruz, Santa Cruz, CA 95064, USA.']}",
+    "{'last_name': 'Pang', 'fore_name': 'Zhiping P', 'initials': 'ZP', 'affiliations': ['Department of Neuroscience and Cell Biology, Robert Wood Johnson Medical School, New Brunswick, NJ 08901, USA; Center for NeuroMetabolism, Child Health Institute of New Jersey, Rutgers Robert Wood Johnson Medical School, New Brunswick, NJ 08901, USA.']}",
+    "{'last_name': 'Pak', 'fore_name': 'ChangHui', 'initials': 'C', 'affiliations': ['Department of Biochemistry and Molecular Biology, University of Massachusetts Amherst, Amherst, MA 01003, USA. Electronic address: cpak@umass.edu.']}"
+  ],
+  "journal": "Cell reports",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "20"
+  },
+  "doi": "10.1016/j.celrep.2026.117115",
+  "mesh_terms": [],
+  "keywords": [
+    "CP: neuroscience",
+    "CP: stem cell research",
+    "E-I balance",
+    "HD-MEAs",
+    "NRXN1",
+    "autism spectrum disorders",
+    "human iPSCs",
+    "induced neurons",
+    "schizophrenia",
+    "synapse",
+    "synaptic transmission"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

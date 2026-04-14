@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 99,
+  "date": "2026-03-26",
+  "author": "@trychroma",
+  "summary": "Context-1: 20B parameter search agent, order of magnitude faster agentic search",
+  "category": "AI Workflow / Tools",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - search infrastructure improvement for research tasks",
+  "link": "",
+  "ingested_at": "2026-04-04T12:36:44.154184",
+  "atlas_integration_status": "pending"
+}

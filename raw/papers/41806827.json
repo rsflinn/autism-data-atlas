@@ -1,0 +1,43 @@
+{
+  "pmid": "41806827",
+  "title": "Long-read genome sequencing improves detection and functional interpretation of structural and repeat variants in autism.",
+  "abstract": "Long-read whole-genome sequencing (LR-WGS) technologies enhance the discovery of structural variants (SVs) and tandem repeats (TRs). We performed LR-WGS on 267 individuals from 63 autism spectrum disorder (ASD) families and generated an integrated call set combining long- and short-read data. LR-WGS increased detection of gene-disrupting SVs and TRs by 33% and 38%, respectively, and enabled identification of novel exonic de novo germline and somatic SVs. We observed complex SV patterns, including a class of nested duplication-deletion events. By joint analysis of phased genetic variation and DNA methylation, we identified deletions of imprinted genes and demonstrated the effect of intermediate TR expansions (35-54 CGG) on the methylation of FMR1 promoter. Rare SVs, TRs, and damaging SNVs together accounted for 7.4% (95% confidence interval [CI], 2.7%-17%) of the heritability of ASD. These findings demonstrate how LR-WGS can resolve complex genetic variation and its functional consequences and regulatory effects in a single assay.",
+  "authors": [
+    "{'last_name': 'Mortazavi', 'fore_name': 'Milad', 'initials': 'M', 'affiliations': ['Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Guevara', 'fore_name': 'James', 'initials': 'J', 'affiliations': ['Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Diaz', 'fore_name': 'Joshua', 'initials': 'J', 'affiliations': ['Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Tran', 'fore_name': 'Stephen', 'initials': 'S', 'affiliations': ['Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Ziaei Jam', 'fore_name': 'Helyaneh', 'initials': 'H', 'affiliations': ['Department of Computer Science and Engineering, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Reeves', 'fore_name': 'Chloe', 'initials': 'C', 'affiliations': ['Institute for Genomic Medicine, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Batalov', 'fore_name': 'Sergey', 'initials': 'S', 'affiliations': [\"Rady Children's Institute for Genomic Medicine, San Diego, CA 92123, USA.\"]}",
+    "{'last_name': 'Jepsen', 'fore_name': 'Kristen', 'initials': 'K', 'affiliations': ['Institute for Genomic Medicine, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Bainbridge', 'fore_name': 'Matthew', 'initials': 'M', 'affiliations': [\"Rady Children's Institute for Genomic Medicine, San Diego, CA 92123, USA; Codified Genomics LLC, Houston, TX 77030, USA.\"]}",
+    "{'last_name': 'Besterman', 'fore_name': 'Aaron D', 'initials': 'AD', 'affiliations': [\"Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA; Rady Children's Institute for Genomic Medicine, San Diego, CA 92123, USA; Rady Children's Hospital San Diego, San Diego, CA 92123, USA; Laura Rodriguez Research Institute, Family Health Centers of San Diego, San Diego, CA 92101, USA.\"]}",
+    "{'last_name': 'Gymrek', 'fore_name': 'Melissa', 'initials': 'M', 'affiliations': ['Department of Computer Science and Engineering, University of California, San Diego, La Jolla, CA 92093, USA; Department of Medicine, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Palmer', 'fore_name': 'Abraham A', 'initials': 'AA', 'affiliations': ['Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA; Institute for Genomic Medicine, University of California, San Diego, La Jolla, CA 92093, USA.']}",
+    "{'last_name': 'Sebat', 'fore_name': 'Jonathan', 'initials': 'J', 'affiliations': ['Department of Psychiatry, University of California, San Diego, La Jolla, CA 92093, USA; Institute for Genomic Medicine, University of California, San Diego, La Jolla, CA 92093, USA; Department of Cellular and Molecular Medicine and Pediatrics, University of California, San Diego, La Jolla, CA 92093, USA. Electronic address: jsebat@ucsd.edu.']}"
+  ],
+  "journal": "Cell genomics",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "09"
+  },
+  "doi": "10.1016/j.xgen.2026.101186",
+  "mesh_terms": [],
+  "keywords": [
+    "CGG repeat",
+    "FMR1",
+    "autism",
+    "burden test",
+    "complex SVs",
+    "de novo mutation",
+    "long-read sequencing",
+    "methylation",
+    "structural variation",
+    "tandem repeat"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

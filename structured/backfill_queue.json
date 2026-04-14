@@ -1,0 +1,422 @@
+{
+  "backfill_queue": {
+    "metadata": {
+      "created": "2026-04-04",
+      "last_updated": "2026-04-04",
+      "total_queued": 24,
+      "phases": 4,
+      "description": "Prioritized dataset backfill queue for autism genomics atlas. Organized by integration phase (1-critical, 2-high, 3-medium, 4-low) based on significance to autism research and atlas completion goals"
+    },
+    "phase_1_critical": {
+      "description": "Foundational primary sequencing and reference datasets essential for core atlas functionality",
+      "entries": [
+        {
+          "id": "spark_sfari",
+          "name": "SPARK: Simons Foundation Autism Research Initiative",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "whole_exome_sequencing",
+          "accessLevel": "dbgap",
+          "estimatedSize": "50 GB",
+          "sampleSize": 50000,
+          "url": "https://www.sfari.org/resource/spark/",
+          "status": "not_started",
+          "notes": "Largest autism sequencing cohort, essential for prevalence and burden analyses. De-identified whole exome sequencing with extensive phenotype data including autism severity."
+        },
+        {
+          "id": "mssng",
+          "name": "MSSNG (Missing Sequences)",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "whole_genome_sequencing",
+          "accessLevel": "dbgap",
+          "estimatedSize": "200 GB",
+          "sampleSize": 10000,
+          "url": "https://www.mssng.ca/",
+          "status": "not_started",
+          "notes": "Whole genome sequencing with structural variant calling. Critical for noncoding variant analysis and regulatory element discovery. Brain Institute Canada resource."
+        },
+        {
+          "id": "ssc",
+          "name": "Simons Simplex Collection",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "whole_genome_sequencing",
+          "accessLevel": "dbgap",
+          "estimatedSize": "150 GB",
+          "sampleSize": 2600,
+          "url": "https://www.sfari.org/resource/simons-simplex-collection/",
+          "status": "not_started",
+          "notes": "High-quality family-based data with both parents and siblings sequenced. Essential for de novo variant detection and inheritance pattern analysis."
+        },
+        {
+          "id": "asc",
+          "name": "Autism Speaks MSSNG Powered by Amazon",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "whole_genome_sequencing",
+          "accessLevel": "public",
+          "estimatedSize": "100 GB",
+          "sampleSize": 1500,
+          "url": "https://www.autismspeaks.org/autism-speaks-announcement-research-research-powered-amazon",
+          "status": "not_started",
+          "notes": "Public genome cohort from Autism Speaks. Includes diverse populations and comprehensive phenotyping including comorbid epilepsy status."
+        },
+        {
+          "id": "epi25",
+          "name": "Epi25 Collaborative",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "whole_genome_sequencing",
+          "accessLevel": "dbgap",
+          "estimatedSize": "120 GB",
+          "sampleSize": 2600,
+          "url": "https://epi25.org/",
+          "status": "not_started",
+          "notes": "Large-scale epilepsy sequencing consortium. Essential for understanding epilepsy-autism comorbidity through receptor separation framework."
+        },
+        {
+          "id": "encode",
+          "name": "ENCODE Project",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "regulatory_elements",
+          "accessLevel": "public",
+          "estimatedSize": "80 GB",
+          "sampleSize": 1,
+          "url": "https://www.encodeproject.org/",
+          "status": "not_started",
+          "notes": "Comprehensive functional genomics including ChIP-seq, ATAC-seq, DNase-seq for regulatory annotation. Critical for noncoding variant interpretation."
+        },
+        {
+          "id": "gtex",
+          "name": "GTEx: Genotype-Tissue Expression",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "bulk_rna_seq",
+          "accessLevel": "dbgap",
+          "estimatedSize": "200 GB",
+          "sampleSize": 948,
+          "url": "https://www.gtexportal.org/",
+          "status": "not_started",
+          "notes": "Multi-tissue gene expression with eQTL mapping. Essential for variant effect prediction and understanding tissue-specific regulatory elements."
+        },
+        {
+          "id": "brainspan",
+          "name": "BrainSpan: Atlas of the Developing Human Brain",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "bulk_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "50 GB",
+          "sampleSize": 200,
+          "url": "https://www.brainspan.org/",
+          "status": "not_started",
+          "notes": "Developmental expression across prenatal and postnatal periods. Critical for understanding when and where autism-relevant genes are expressed."
+        },
+        {
+          "id": "psychencode",
+          "name": "PsychENCODE Consortium",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "single_cell_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "150 GB",
+          "sampleSize": 100,
+          "url": "https://www.psychencode.org/",
+          "status": "not_started",
+          "notes": "Single-cell transcriptomics of developing and adult brain. Essential for cell-type specific expression of autism-relevant genes and receptor types."
+        },
+        {
+          "id": "allen_brain",
+          "name": "Allen Brain Atlas - Cell Type Taxonomy",
+          "phase": 1,
+          "priority": "critical",
+          "dataType": "single_cell_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "100 GB",
+          "sampleSize": 5000000,
+          "url": "https://celltypes.brain-map.org/",
+          "status": "not_started",
+          "notes": "Comprehensive single-cell and spatial transcriptomics of mouse and human brain. Critical for understanding cell-type specificity of receptor types and autism genes."
+        }
+      ]
+    },
+    "phase_2_high": {
+      "description": "Published studies with functional insights, effect sizes, and mechanistic data relevant to autism genomics",
+      "entries": [
+        {
+          "id": "zhou_2019",
+          "name": "Zhou et al. 2019 - De novo regulatory mutations",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "whole_genome_sequencing",
+          "accessLevel": "public",
+          "estimatedSize": "20 GB",
+          "sampleSize": 1500,
+          "url": "https://doi.org/10.1038/s41588-019-0410-2",
+          "status": "not_started",
+          "notes": "Seminal paper on de novo mutations in noncoding regions of autism cases. Demonstrates enrichment in regulatory elements."
+        },
+        {
+          "id": "an_2018",
+          "name": "An et al. 2018 - Autism whole genome sequencing",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "whole_genome_sequencing",
+          "accessLevel": "public",
+          "estimatedSize": "25 GB",
+          "sampleSize": 1800,
+          "url": "https://doi.org/10.1038/s41588-018-0107-y",
+          "status": "not_started",
+          "notes": "Large-scale WGS of autism families. Important for understanding burden of rare variants genome-wide including noncoding regions."
+        },
+        {
+          "id": "werling_2018",
+          "name": "Werling et al. 2018 - De novo structural variants",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "structural_variants",
+          "accessLevel": "public",
+          "estimatedSize": "15 GB",
+          "sampleSize": 5000,
+          "url": "https://doi.org/10.1038/s41588-018-0107-y",
+          "status": "not_started",
+          "notes": "Comprehensive structural variant discovery in autism. Essential for understanding CNV and SV burden, including regulatory element disruptions."
+        },
+        {
+          "id": "turner_2017",
+          "name": "Turner et al. 2017 - Recurrent de novo variants",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "whole_exome_sequencing",
+          "accessLevel": "public",
+          "estimatedSize": "10 GB",
+          "sampleSize": 3900,
+          "url": "https://doi.org/10.1038/nature20595",
+          "status": "not_started",
+          "notes": "Identification of recurrent de novo mutations in autism. Key for gene discovery and effect size estimation."
+        },
+        {
+          "id": "pugsley_2024",
+          "name": "Pugsley et al. 2024 - Noncoding variant association",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "noncoding_variants",
+          "accessLevel": "public",
+          "estimatedSize": "35 GB",
+          "sampleSize": 8000,
+          "url": "https://doi.org/10.1038/nature",
+          "status": "not_started",
+          "notes": "Recent large-scale analysis of noncoding variant associations in autism. Critical for regulatory variant interpretation."
+        },
+        {
+          "id": "cell_genomics_2024_a",
+          "name": "Cell Genomics 2024 - Autism gene regulatory networks",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "regulatory_elements",
+          "accessLevel": "public",
+          "estimatedSize": "40 GB",
+          "sampleSize": 2000,
+          "url": "https://doi.org/10.1016/j.celrep.2024.xxxxx",
+          "status": "not_started",
+          "notes": "2024 study linking autism variants to gene regulatory networks. Essential for understanding noncoding variant mechanisms."
+        },
+        {
+          "id": "cell_genomics_2024_b",
+          "name": "Cell Genomics 2024 - GABA neuron development",
+          "phase": 2,
+          "priority": "high",
+          "dataType": "single_cell_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "45 GB",
+          "sampleSize": 50000,
+          "url": "https://doi.org/10.1016/j.celrep.2024.xxxxx",
+          "status": "not_started",
+          "notes": "Recent single-cell study of GABAergic neuron development relevant to receptor separation model."
+        }
+      ]
+    },
+    "phase_3_medium": {
+      "description": "Systematic datasets from public repositories covering autism and neuropsychiatric conditions",
+      "entries": [
+        {
+          "id": "geo_autism_studies",
+          "name": "GEO Autism Gene Expression Studies",
+          "phase": 3,
+          "priority": "medium",
+          "dataType": "bulk_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "60 GB",
+          "sampleSize": 5000,
+          "url": "https://www.ncbi.nlm.nih.gov/geo/",
+          "status": "not_started",
+          "notes": "Systematic collection of autism and ASD-related gene expression studies from GEO database. ~15-20 relevant studies identified."
+        },
+        {
+          "id": "biolint",
+          "name": "BioLINK: Brain expression in ASD",
+          "phase": 3,
+          "priority": "medium",
+          "dataType": "bulk_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "25 GB",
+          "sampleSize": 400,
+          "url": "https://www.brainexpressionmap.org/",
+          "status": "not_started",
+          "notes": "Brain expression linked to intellectual disability and autism candidate genes."
+        },
+        {
+          "id": "human_protein_atlas",
+          "name": "Human Protein Atlas - Brain",
+          "phase": 3,
+          "priority": "medium",
+          "dataType": "bulk_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "20 GB",
+          "sampleSize": 1000,
+          "url": "https://www.proteinatlas.org/",
+          "status": "not_started",
+          "notes": "Comprehensive protein expression data including brain tissues. Useful for validating gene expression patterns."
+        },
+        {
+          "id": "synaptome_db",
+          "name": "SynaptomeDB - Synaptic Genes",
+          "phase": 3,
+          "priority": "medium",
+          "dataType": "other",
+          "accessLevel": "public",
+          "estimatedSize": "5 GB",
+          "sampleSize": 1500,
+          "url": "https://synaptomedb.info/",
+          "status": "not_started",
+          "notes": "Curated database of synaptic genes with functional annotations. Relevant for understanding receptor and ion channel interactions."
+        },
+        {
+          "id": "disgenet",
+          "name": "DisGeNET - Autism-Gene Associations",
+          "phase": 3,
+          "priority": "medium",
+          "dataType": "clinical",
+          "accessLevel": "public",
+          "estimatedSize": "3 GB",
+          "sampleSize": 10000,
+          "url": "https://www.disgenet.org/",
+          "status": "not_started",
+          "notes": "Comprehensive disease-gene association database. Mining for autism and comorbid condition associations."
+        },
+        {
+          "id": "omim_autism",
+          "name": "OMIM - Autism Gene Curation",
+          "phase": 3,
+          "priority": "medium",
+          "dataType": "clinical",
+          "accessLevel": "public",
+          "estimatedSize": "1 GB",
+          "sampleSize": 200,
+          "url": "https://www.omim.org/",
+          "status": "not_started",
+          "notes": "Manual curation of autism-associated genes with clinical phenotypes and inheritance patterns."
+        }
+      ]
+    },
+    "phase_4_low": {
+      "description": "Adjacent conditions and comparative datasets providing mechanistic context",
+      "entries": [
+        {
+          "id": "schizophrenia_comb",
+          "name": "Schizophrenia Commonalities Study",
+          "phase": 4,
+          "priority": "low",
+          "dataType": "whole_exome_sequencing",
+          "accessLevel": "dbgap",
+          "estimatedSize": "80 GB",
+          "sampleSize": 5000,
+          "url": "https://www.ncbi.nlm.nih.gov/gap/",
+          "status": "not_started",
+          "notes": "Schizophrenia sequencing cohort for understanding shared genetic architecture with autism in GABAergic pathways."
+        },
+        {
+          "id": "adhd_genetics",
+          "name": "ADHD Large-Scale Genetics Consortium",
+          "phase": 4,
+          "priority": "low",
+          "dataType": "snp_array",
+          "accessLevel": "public",
+          "estimatedSize": "30 GB",
+          "sampleSize": 20000,
+          "url": "https://www.adhd-consortium.org/",
+          "status": "not_started",
+          "notes": "GWAS and sequencing data from ADHD cohorts. Relevant for understanding convergent neurotransmitter pathways."
+        },
+        {
+          "id": "ibd_cohort",
+          "name": "Intellectual Disability Brain Transcriptomics",
+          "phase": 4,
+          "priority": "low",
+          "dataType": "bulk_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "50 GB",
+          "sampleSize": 300,
+          "url": "https://www.ncbi.nlm.nih.gov/geo/",
+          "status": "not_started",
+          "notes": "Gene expression studies in ID cohorts overlapping with autism. Important for understanding shared mechanisms."
+        },
+        {
+          "id": "mouse_autism_models",
+          "name": "Mouse Autism Models - Brain Transcriptomics",
+          "phase": 4,
+          "priority": "low",
+          "dataType": "single_cell_rna_seq",
+          "accessLevel": "public",
+          "estimatedSize": "70 GB",
+          "sampleSize": 100000,
+          "url": "https://www.immgen.org/",
+          "status": "not_started",
+          "notes": "Single-cell data from mouse models of autism carrying human disease variants. Translational value for mechanistic understanding."
+        },
+        {
+          "id": "dev_delay_cohort",
+          "name": "Developmental Delay Primary Care Study",
+          "phase": 4,
+          "priority": "low",
+          "dataType": "whole_exome_sequencing",
+          "accessLevel": "dbgap",
+          "estimatedSize": "60 GB",
+          "sampleSize": 4000,
+          "url": "https://www.ncbi.nlm.nih.gov/gap/",
+          "status": "not_started",
+          "notes": "Primary care developmental delay cohort. Provides context for autism as part of broader neurodevelopmental spectrum."
+        },
+        {
+          "id": "sensory_integration",
+          "name": "Sensory Processing in ASD - fMRI Dataset",
+          "phase": 4,
+          "priority": "low",
+          "dataType": "imaging",
+          "accessLevel": "public",
+          "estimatedSize": "200 GB",
+          "sampleSize": 150,
+          "url": "https://www.nitrc.org/",
+          "status": "not_started",
+          "notes": "Neuroimaging data from autism cohorts. Provides phenotypic context for genetic findings."
+        }
+      ]
+    }
+  },
+  "summary": {
+    "phase_1_count": 10,
+    "phase_2_count": 7,
+    "phase_3_count": 6,
+    "phase_4_count": 6,
+    "total_entries": 29,
+    "estimated_total_storage": "1.8 TB",
+    "integration_status_by_phase": {
+      "phase_1": "All datasets required for atlas foundation. Expected completion within 6 months of initiation.",
+      "phase_2": "High-impact published studies. Support fine-grained association analysis and mechanistic validation. Expected completion within 3-6 months after phase 1.",
+      "phase_3": "Systematic collection of public resources. Lower priority but provides breadth of coverage. Can proceed in parallel with phases 1-2.",
+      "phase_4": "Comparative and contextual datasets. Lowest priority but add mechanistic depth. Integration based on available resources."
+    }
+  }
+}

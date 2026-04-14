@@ -1,0 +1,40 @@
+{
+  "pmid": "41807047",
+  "title": "The CDKL5 kinase undergoes liquid-liquid phase separation driven by a serine-rich C-terminal region.",
+  "abstract": "Thegene encodes a protein kinase involved in nervous system development and function. Pathogenic variants in this gene can cause a severe neurodevelopmental CDKL5 deficiency disorder (CDD). The CDKL5 protein contains a catalytic N-terminal domain (NTD) and a less characterized C-terminal domain (CTD). We discovered that the CTD is a serine-rich low-complexity region driving liquid-liquid phase separation (LLPS), a biophysical process controlling protein localization and function, by which CDKL5 forms intracellular membraneless condensates. A CTD internal fragment (CTIF) plays a pivotal LLPS-promoting role, along with the distal portion of the protein. In CDD, transcripts carrying pathogenic nonsense or frameshift mutations introducing distal premature termination codons may escape nonsense-mediated decay, producing CDKL5 proteins with a variably truncated CTD. We found that two distal truncations, removing part of the CTIF and the downstream protein tail, significantly reduce CDKL5 LLPS and catalytic function. These findings demonstrate that CDKL5 undergoes LLPS, driven by a CTD region whose loss in distally truncated forms of the protein-by impairing LLPS and functional activity-may play a role in the molecular pathogenesis of CDD.",
+  "authors": [
+    "{'last_name': 'Boggio Bozzo', 'fore_name': 'Stefania', 'initials': 'S', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy.']}",
+    "{'last_name': \"Dell'Oca\", 'fore_name': 'Marco', 'initials': 'M', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy.']}",
+    "{'last_name': 'Vaglietti', 'fore_name': 'Serena', 'initials': 'S', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy.']}",
+    "{'last_name': 'Gurgone', 'fore_name': 'Antonia', 'initials': 'A', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy.']}",
+    "{'last_name': 'Cardinale', 'fore_name': 'Vita', 'initials': 'V', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy.']}",
+    "{'last_name': 'Ragazzini', 'fore_name': 'Gregorio', 'initials': 'G', 'affiliations': ['Department of Physics, Informatics and Mathematics, University of Modena, Modena, Italy.', 'CNR Nanoscience Institute, Modena, Italy.']}",
+    "{'last_name': 'Alessandrini', 'fore_name': 'Andrea', 'initials': 'A', 'affiliations': ['Department of Physics, Informatics and Mathematics, University of Modena, Modena, Italy.', 'CNR Nanoscience Institute, Modena, Italy.']}",
+    "{'last_name': 'Colnaghi', 'fore_name': 'Luca', 'initials': 'L', 'affiliations': ['Division of Neuroscience, IRCCS San Raffaele Scientific Institute, Milan, Italy.']}",
+    "{'last_name': 'Bazan', 'fore_name': 'J Fernando', 'initials': 'JF', 'affiliations': ['&#x210f; Bioconsulting LLC, Stillwater, MN, USA.']}",
+    "{'last_name': 'Ghirardi', 'fore_name': 'Mirella', 'initials': 'M', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy.']}",
+    "{'last_name': 'Giustetto', 'fore_name': 'Maurizio', 'initials': 'M', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy maurizio.giustetto@unito.it.']}",
+    "{'last_name': 'Fiumara', 'fore_name': 'Ferdinando', 'initials': 'F', 'affiliations': ['Rita Levi-Montalcini Department of Neuroscience, University of Turin, Turin, Italy ferdinando.fiumara@unito.it.']}"
+  ],
+  "journal": "Life science alliance",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "10"
+  },
+  "doi": "10.26508/lsa.202503402",
+  "mesh_terms": [
+    "Protein Serine-Threonine Kinases",
+    "Humans",
+    "Serine",
+    "Epileptic Syndromes",
+    "Protein Domains",
+    "Spasms, Infantile",
+    "HEK293 Cells",
+    "Phase Separation"
+  ],
+  "keywords": [],
+  "pmc": "PMC12976563",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

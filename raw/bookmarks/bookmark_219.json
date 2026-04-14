@@ -1,0 +1,12 @@
+{
+  "bookmark_number": 219,
+  "date": "2026-04-03 00:00:00",
+  "author": "@daniel_mac8",
+  "summary": "Every Mac with Apple Silicon has an LLM locked behind Siri; \"apfel\" unlocks it as CLI + OpenAI-compatible API -- free, no cloud",
+  "category": "AI Workflow / Tools",
+  "usefulness_rating": "UNKNOWN",
+  "usefulness_detail": "MED - free local LLM option for Mac; potential for sensitive data processing",
+  "link": "https://x.com/daniel_mac8/status/2040201770173895023",
+  "ingested_at": "2026-04-04T12:36:44.225284",
+  "atlas_integration_status": "pending"
+}

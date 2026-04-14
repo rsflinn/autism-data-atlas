@@ -1,0 +1,9 @@
+{
+  "pmid": "36999999",
+  "title": "SCN2A mutations cause autism spectrum disorder",
+  "authors": ["Chen X", "Lee K", "Park J", "Thompson R"],
+  "abstract": "SCN2A encodes a sodium channel critical for neuronal excitability. We identified 8 novel mutations in SCN2A from individuals with autism spectrum disorder using whole genome sequencing. The mutations localize to key functional domains of the channel. Patient-derived organoids show altered calcium signaling in excitatory neurons. Convergent evidence from pathway analysis suggests SCN2A perturbations overlap with effects of MEF2C and SHANK3 disruptions. Expression data from GEO (GSE198765) and supplementary RNA-seq data are provided. Our findings support SCN2A as a convergent autism risk gene.",
+  "journal": "Cell Genomics",
+  "publication_date": "2023-02-10",
+  "doi": "10.1016/j.xgen.2023.100234"
+}

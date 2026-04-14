@@ -1,0 +1,33 @@
+{
+  "pmid": "41844650",
+  "title": "Genomic modifiers of malignant and neurodevelopmental phenotypes in individuals with PTEN hamartoma tumor syndrome.",
+  "abstract": "PTEN hamartoma tumor syndrome (PHTS), caused by germline PTEN variants, exhibits marked phenotypic heterogeneity, most notably cancer, neurodevelopmental disorders (NDD), or both. The basis for this divergence, even among carriers of identical PTEN variants, remains poorly defined. We performed whole-genome sequencing of 599 individuals with PHTS and family members, complemented by analyses of PTEN variant carriers from the All of Us Research Program. Analyses included both targeted evaluation of genes previously implicated in cancer and NDD and agnostic genome-wide single-variant and rare-variant burden testing. The analytic cohort comprised 543 PHTS probands, including individuals with NDD (n&#x2009;=&#x2009;171), cancer (n&#x2009;=&#x2009;221), both phenotypes (n&#x2009;=&#x2009;21), or neither (n&#x2009;=&#x2009;130) at the time of enrollment. Pathogenic or likely pathogenic variants in cancer-associated genes were identified in 37 (6.8%), most frequently in MITF, DICER1, and BRCA2, while 43 (7.9%) harbored variants in NDD-related genes, including DHCR7, POLG, and ARSA. Such secondary variants were less common in PTEN variant carriers in All of Us. Genome-wide analyses identified candidate modifier loci functionally linked to PTEN, including in ZNF713, TPTE2P1, and PDPK1. These findings demonstrate that PHTS phenotypes are shaped by complex gene-gene interactions beyond PTEN alone, informing mechanisms underlying the cancer-NDD dichotomy and advancing precision risk stratification.",
+  "authors": [
+    "{'last_name': 'Yehia', 'fore_name': 'Lamis', 'initials': 'L', 'affiliations': ['Genomic Medicine Institute, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.', 'Epilepsy Center, Neurological Institute, Cleveland Clinic, Cleveland, OH, USA.']}",
+    "{'last_name': 'Li', 'fore_name': 'Lin', 'initials': 'L', 'affiliations': ['Cancer Sciences, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.']}",
+    "{'last_name': 'Idumah', 'fore_name': 'Gideon', 'initials': 'G', 'affiliations': ['Cancer Sciences, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.']}",
+    "{'last_name': 'Frazier', 'fore_name': 'Thomas W', 'initials': 'TW', 'affiliations': ['Autism Speaks, Cleveland, OH, USA.', 'Department of Psychology, John Carroll University, University Heights, OH, USA.', 'Departments of Pediatrics and Psychiatry, SUNY Upstate Medical University, Syracuse, NY, USA.']}",
+    "{'last_name': 'Makarov', 'fore_name': 'Vladimir', 'initials': 'V', 'affiliations': ['Cancer Sciences, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.']}",
+    "{'last_name': 'Bose', 'fore_name': 'Aritra', 'initials': 'A', 'affiliations': ['IBM Research, Yorktown Heights, NY, USA.']}",
+    "{'last_name': 'Parida', 'fore_name': 'Laxmi', 'initials': 'L', 'affiliations': ['IBM Research, Yorktown Heights, NY, USA.']}",
+    "{'last_name': 'Hardan', 'fore_name': 'Antonio', 'initials': 'A', 'affiliations': ['Psychiatry and Behavioral Sciences, Stanford University Medical Center, Stanford, CA, USA.']}",
+    "{'last_name': 'Martinez-Agosto', 'fore_name': 'Julian A', 'initials': 'JA', 'affiliations': ['Departments of Pediatrics and Human Genetics, David Geffen School of Medicine at UCLA, Los Angeles, CA, USA.']}",
+    "{'last_name': 'Ritter', 'fore_name': 'David M', 'initials': 'DM', 'affiliations': [\"Division of Neurology, Cincinnati Children's Hospital Medical Center; Department of Pediatrics, University of Cincinnati College of Medicine, Cincinnati, OH, USA.\"]}",
+    "{'last_name': 'Sahin', 'fore_name': 'Mustafa', 'initials': 'M', 'affiliations': [\"Department of Neurology, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA.\", \"F.M. Kirby Neurobiology Center, Boston Children's Hospital, Harvard Medical School, Boston, MA, USA.\"]}",
+    "{'last_name': 'Eng', 'fore_name': 'Charis', 'initials': 'C', 'affiliations': ['Genomic Medicine Institute, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA.', 'Center for Personalized Genetic Healthcare, Community Care, Cleveland Clinic, Cleveland, OH, USA.', 'Taussig Cancer Institute, Cleveland Clinic, Cleveland, OH, USA.', 'Department of Genetics and Genome Sciences, Case Western Reserve University School of Medicine, Cleveland, OH, USA.', 'Germline High Risk Cancer Focus Group, CASE Comprehensive Cancer Center, Case Western Reserve University, Cleveland, OH, USA.']}",
+    "{'last_name': 'Ni', 'fore_name': 'Ying', 'initials': 'Y', 'affiliations': ['Cancer Sciences, Cleveland Clinic Research, Cleveland Clinic, Cleveland, OH, USA. niy@ccf.org.', 'School of Medicine, Case Western Reserve University, Cleveland, OH, USA. niy@ccf.org.']}",
+    "{}"
+  ],
+  "journal": "NPJ genomic medicine",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "17"
+  },
+  "doi": "10.1038/s41525-026-00556-1",
+  "mesh_terms": [],
+  "keywords": [],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

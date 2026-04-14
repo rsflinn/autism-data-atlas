@@ -1,0 +1,1293 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Evidence Timeline | Autism Research Atlas</title>
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..146,400;0,9..146,500;0,9..146,700;1,9..146,400&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            background: #08080c;
+            color: #e5e7eb;
+            font-family: 'DM Sans', sans-serif;
+            line-height: 1.6;
+            overflow-x: hidden;
+        }
+
+        .header {
+            position: relative;
+            padding: 80px 40px 60px;
+            text-align: center;
+            border-bottom: 1px solid rgba(96, 165, 250, 0.1);
+            background: linear-gradient(180deg, rgba(96, 165, 250, 0.08) 0%, transparent 100%);
+        }
+
+        .header h1 {
+            font-size: 3em;
+            font-weight: 700;
+            margin-bottom: 16px;
+            background: linear-gradient(135deg, #60a5fa 0%, #a78bfa 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            letter-spacing: -1px;
+        }
+
+        .header p {
+            font-size: 1.15em;
+            color: #9ca3af;
+            margin-bottom: 28px;
+            max-width: 600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .study-count {
+            display: inline-block;
+            padding: 10px 20px;
+            background: rgba(96, 165, 250, 0.1);
+            border: 1px solid rgba(96, 165, 250, 0.3);
+            border-radius: 8px;
+            color: #60a5fa;
+            font-size: 0.95em;
+            font-weight: 500;
+        }
+
+        .controls {
+            max-width: 1400px;
+            margin: 50px auto;
+            padding: 0 40px;
+        }
+
+        .filter-label {
+            display: block;
+            font-size: 0.8em;
+            font-weight: 600;
+            color: #9ca3af;
+            margin-bottom: 16px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        .filter-btn {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 9px 15px;
+            background: transparent;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            border-radius: 6px;
+            color: #d1d5db;
+            font-size: 0.85em;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .filter-btn:hover {
+            border-color: rgba(96, 165, 250, 0.4);
+            color: #60a5fa;
+            background: rgba(96, 165, 250, 0.05);
+        }
+
+        .filter-btn.active {
+            background: rgba(96, 165, 250, 0.15);
+            border-color: rgba(96, 165, 250, 0.6);
+            color: #60a5fa;
+        }
+
+        .filter-count {
+            font-size: 0.75em;
+            opacity: 0.7;
+        }
+
+        .timeline-wrapper {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 0 40px;
+        }
+
+        .timeline-container {
+            position: relative;
+        }
+
+        .year-block {
+            margin-bottom: 100px;
+            position: relative;
+        }
+
+        .year-marker {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 120px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .year-label {
+            font-size: 1.4em;
+            font-weight: 700;
+            color: #60a5fa;
+            opacity: 0.8;
+        }
+
+        .studies-row {
+            margin-left: 140px;
+        }
+
+        .study-entry {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 50px;
+            align-items: center;
+            margin-bottom: 80px;
+            animation: slideIn 0.6s ease-out backwards;
+        }
+
+        .study-entry.img-right {
+            direction: rtl;
+        }
+
+        .study-entry.img-right > * {
+            direction: ltr;
+        }
+
+        .study-illustration {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            perspective: 1000px;
+        }
+
+        .study-illustration img {
+            max-width: 100%;
+            height: auto;
+            max-height: 400px;
+            border-radius: 12px;
+            filter: drop-shadow(0 20px 40px rgba(96, 165, 250, 0.15));
+            transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .study-illustration img:hover {
+            transform: scale(1.05);
+            filter: drop-shadow(0 30px 60px rgba(96, 165, 250, 0.25));
+        }
+
+        .study-illustration svg {
+            width: 150px;
+            height: 150px;
+            filter: drop-shadow(0 20px 40px rgba(96, 165, 250, 0.15));
+            transition: all 0.4s cubic-bezier(0.34, 1.56, 0.64, 1);
+        }
+
+        .study-illustration svg:hover {
+            transform: scale(1.08);
+            filter: drop-shadow(0 30px 60px rgba(96, 165, 250, 0.25));
+        }
+
+        .study-card {
+            background: linear-gradient(135deg, rgba(96, 165, 250, 0.05) 0%, rgba(167, 139, 250, 0.02) 100%);
+            border: 1px solid rgba(96, 165, 250, 0.2);
+            border-radius: 16px;
+            padding: 40px;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .study-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, rgba(96, 165, 250, 0.5), transparent);
+        }
+
+        .study-card:hover {
+            border-color: rgba(96, 165, 250, 0.4);
+            background: linear-gradient(135deg, rgba(96, 165, 250, 0.08) 0%, rgba(167, 139, 250, 0.05) 100%);
+            box-shadow: 0 20px 50px rgba(96, 165, 250, 0.1);
+        }
+
+        .study-card-inner {
+            position: relative;
+            z-index: 1;
+        }
+
+        .study-stat {
+            font-size: 2.8em;
+            font-weight: 700;
+            color: #60a5fa;
+            margin-bottom: 8px;
+            line-height: 1;
+        }
+
+        .study-stat-label {
+            font-size: 0.9em;
+            color: #9ca3af;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            font-weight: 500;
+        }
+
+        .study-title {
+            font-size: 1.6em;
+            font-weight: 700;
+            color: #f3f4f6;
+            margin-bottom: 16px;
+            line-height: 1.3;
+        }
+
+        .study-type-badge {
+            display: inline-block;
+            padding: 7px 13px;
+            background: rgba(96, 165, 250, 0.15);
+            border: 1px solid rgba(96, 165, 250, 0.3);
+            border-radius: 6px;
+            font-size: 0.8em;
+            font-weight: 600;
+            color: #93c5fd;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            cursor: pointer;
+            user-select: none;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            width: fit-content;
+        }
+
+        .study-type-badge:hover {
+            background: rgba(96, 165, 250, 0.25);
+            border-color: rgba(96, 165, 250, 0.5);
+        }
+
+        .expand-chevron {
+            transition: transform 0.3s ease;
+            display: inline-block;
+        }
+
+        .expanded-content {
+            max-height: 0;
+            overflow: hidden;
+            transition: max-height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .expanded-content.open {
+            max-height: 1000px;
+        }
+
+        .expanded-section {
+            margin-top: 20px;
+            padding-top: 16px;
+            border-top: 1px solid rgba(96, 165, 250, 0.1);
+        }
+
+        .expanded-section:first-child {
+            margin-top: 24px;
+            border-top: none;
+        }
+
+        .expanded-label {
+            font-size: 0.85em;
+            font-weight: 700;
+            color: #93c5fd;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 8px;
+        }
+
+        .expanded-text {
+            font-size: 0.95em;
+            color: #d1d5db;
+            line-height: 1.7;
+        }
+
+        .doi-link {
+            color: #60a5fa;
+            text-decoration: none;
+            font-weight: 500;
+            border-bottom: 1px solid rgba(96, 165, 250, 0.3);
+            transition: all 0.2s ease;
+        }
+
+        .doi-link:hover {
+            color: #93c5fd;
+            border-bottom-color: rgba(96, 165, 250, 0.6);
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .study-entry:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+
+        .study-entry:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .study-entry:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+
+        .study-entry:nth-child(4) {
+            animation-delay: 0.4s;
+        }
+
+        .study-entry:nth-child(5) {
+            animation-delay: 0.5s;
+        }
+
+        .study-entry:nth-child(n+6) {
+            animation-delay: 0.5s;
+        }
+
+        @media (max-width: 1024px) {
+            .study-entry {
+                grid-template-columns: 1fr;
+                gap: 30px;
+            }
+
+            .study-entry.img-right {
+                direction: ltr;
+            }
+
+            .study-illustration {
+                order: -1;
+            }
+
+            .header h1 {
+                font-size: 2.2em;
+            }
+
+            .study-title {
+                font-size: 1.3em;
+            }
+
+            .study-stat {
+                font-size: 2.2em;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .header {
+                padding: 50px 20px 40px;
+            }
+
+            .header h1 {
+                font-size: 1.8em;
+            }
+
+            .controls {
+                padding: 0 20px;
+            }
+
+            .filter-group {
+                gap: 8px;
+            }
+
+            .filter-btn {
+                padding: 7px 12px;
+                font-size: 0.8em;
+            }
+
+            .timeline-wrapper {
+                padding: 0 20px;
+            }
+
+            .year-marker {
+                position: relative;
+                width: 100%;
+                margin-bottom: 20px;
+                justify-content: flex-start;
+            }
+
+            .studies-row {
+                margin-left: 0;
+            }
+
+            .study-entry {
+                margin-bottom: 60px;
+            }
+
+            .study-card {
+                padding: 30px;
+            }
+
+            .study-stat {
+                font-size: 1.8em;
+            }
+
+            .study-title {
+                font-size: 1.1em;
+            }
+
+            .study-illustration svg {
+                width: 120px;
+                height: 120px;
+            }
+
+            .study-illustration img {
+                max-height: 300px;
+            }
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .fade-out {
+            animation: fadeOut 0.3s ease forwards;
+        }
+
+        .fade-in {
+            animation: fadeIn 0.3s ease forwards;
+        }
+
+        @keyframes fadeOut {
+            to {
+                opacity: 0;
+            }
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>The Evidence Timeline</h1>
+        <p>A chronology of the landmark studies that map the autism research landscape and inform our investigation into regulatory mechanisms driving core phenotypes.</p>
+        <div class="study-count"><span id="visible-count">18</span> studies across 15 years</div>
+    </div>
+
+    <div class="controls">
+        <div class="filter-label">Filter by Study Type</div>
+        <div class="filter-group">
+            <button class="filter-btn active" data-type="all">
+                All Studies
+                <span class="filter-count">(<span data-count-all>18</span>)</span>
+            </button>
+            <button class="filter-btn" data-type="postmortem">
+                Postmortem Brain
+                <span class="filter-count">(<span data-count-postmortem>0</span>)</span>
+            </button>
+            <button class="filter-btn" data-type="organoid">
+                Brain Organoid
+                <span class="filter-count">(<span data-count-organoid>0</span>)</span>
+            </button>
+            <button class="filter-btn" data-type="mouse">
+                Mouse Model
+                <span class="filter-count">(<span data-count-mouse>0</span>)</span>
+            </button>
+            <button class="filter-btn" data-type="genetic">
+                Genetic Cohort
+                <span class="filter-count">(<span data-count-genetic>0</span>)</span>
+            </button>
+            <button class="filter-btn" data-type="computational">
+                Computational
+                <span class="filter-count">(<span data-count-computational>0</span>)</span>
+            </button>
+            <button class="filter-btn" data-type="clinical">
+                Clinical Data
+                <span class="filter-count">(<span data-count-clinical>0</span>)</span>
+            </button>
+        </div>
+    </div>
+
+    <div class="timeline-wrapper">
+        <div class="timeline-container">
+            <!-- 2011 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2011</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="postmortem">
+                        <div class="study-illustration">
+                            <img src="img/brain_temporal.png" alt="Brain development timeline">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">524</div>
+                                <div class="study-stat-label">tissue samples</div>
+                                <div class="study-title">When Genes Turn On in the Developing Brain</div>
+                                <span class="study-type-badge">Postmortem Brain <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">BrainSpan maps the developmental transcriptome from 8 weeks post-conception through 40 years. Shows exactly when and where genes turn on and off during critical periods of brain formation.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Establishes the normal timeline of gene activity — essential context for understanding when autism-associated genes are active during critical developmental windows.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Shows normal development. Doesn't directly identify what goes wrong in autism, but provides critical baseline for comparison.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://www.brainspan.org/" class="doi-link" target="_blank">brainspan.org</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2012 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2012</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="computational">
+                        <div class="study-illustration">
+                            <img src="img/dna_switches.png" alt="DNA regulatory switches">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">4M+</div>
+                                <div class="study-stat-label">regulatory switches found</div>
+                                <div class="study-title">The Hidden Switches That Control Our Genes</div>
+                                <span class="study-type-badge">Computational <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">ENCODE Phase 1 produced genome-wide maps of transcription factor binding sites, histone modifications, and chromatin accessibility across hundreds of cell types. Created the foundation for understanding DNA regulatory architecture.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Non-coding variants that disrupt transcription factor binding sites are invisible to gene-centric analyses. ENCODE maps gave us the reference to predict which variants affect regulation.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Describes potential regulatory sites. Doesn't explain causation or prioritize which are functionally important in brain.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://www.encodeproject.org/" class="doi-link" target="_blank">encodeproject.org</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2015 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2015</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="genetic">
+                        <div class="study-illustration">
+                            <img src="img/dna_reference.png" alt="DNA double helix with variant markers">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">141K+</div>
+                                <div class="study-stat-label">genomes sequenced</div>
+                                <div class="study-title">What's Normal? A Genetic Reference for Everyone</div>
+                                <span class="study-type-badge">Genetic Cohort <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">gnomAD aggregated exome and genome sequencing from 60K+ individuals, creating population-level allele frequency data for every possible coding variant. Became the reference standard for filtering variants.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Can't distinguish disease variants from common benign variation without knowing population frequencies. gnomAD made it possible to confidently identify rare variants that don't appear in controls.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Coding variants only in original data. Regulatory variants require different frequency databases. Doesn't explain what makes a variant pathogenic.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://gnomad.broadinstitute.org/" class="doi-link" target="_blank">gnomad.broadinstitute.org</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2017 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2017</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="postmortem">
+                        <div class="study-illustration">
+                            <img src="img/body_tissues.png" alt="Gene activity across body tissues">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">54</div>
+                                <div class="study-stat-label">human tissues profiled</div>
+                                <div class="study-title">Which Genes Are Active in Which Body Parts</div>
+                                <span class="study-type-badge">Postmortem Brain <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">GTEx surveyed gene expression across 26 brain regions and 48 total tissue types from 900+ individuals. Revealed that most genes show tissue-specific and brain-region-specific expression patterns.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Autism-relevant genes don't all express in cortex. Some are specific to striatum, amygdala, or other circuits. GTEx provides the reference for interpreting which regulatory changes matter in brain specifically.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Adult postmortem tissues. Doesn't capture developmental stage-specific expression or cell-type-specific patterns within regions.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://gtexportal.org/" class="doi-link" target="_blank">gtexportal.org</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2018 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2018</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="genetic">
+                        <div class="study-illustration">
+                            <img src="img/gene_galaxy.png" alt="Galaxy of autism-linked genes">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">1,000+</div>
+                                <div class="study-stat-label">autism genes cataloged</div>
+                                <div class="study-title">The Definitive List of Autism-Linked Genes</div>
+                                <span class="study-type-badge">Genetic Cohort <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">SFARI Base aggregated published autism association data, creating a curated gene list ranked by evidence strength. Started with hundreds of candidate genes and methodically sorted by experimental support.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Not all "autism genes" are equal. SFARI provided a structured way to distinguish high-confidence genes (de novo LoF recurrence, functional validation) from speculative associations.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Only published data. Small de novo sample sizes mean many real genes may not yet reach genome-wide significance. Limited functional validation.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://sfari.autismresearchcentre.com/" class="doi-link" target="_blank">sfari.autismresearchcentre.com</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2018 continued -->
+            <div class="year-block">
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="postmortem">
+                        <div class="study-illustration">
+                            <img src="img/brains_compared.png" alt="Field of overlapping brain silhouettes">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">1,695</div>
+                                <div class="study-stat-label">brains compared</div>
+                                <div class="study-title">Autism and Schizophrenia Share Molecular Roots</div>
+                                <span class="study-type-badge">Postmortem Brain <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers analyzed RNA-seq from cortical and subcortical brain regions in autism vs. controls, discovering that different mutations converge on overlapping transcriptional disruptions despite being caused by different genes.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Different genetic causes can produce similar downstream molecular phenotypes. This supports a convergence model where many genes affect shared pathways, explaining why autism appears clinically similar despite heterogeneous genetic origins.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Adult postmortem tissue. Can't determine if convergence is primary (direct common pathway) or secondary (compensation/downstream effects). No functional validation of disrupted genes.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/29483656/" class="doi-link" target="_blank">Gandal et al. Nat Neurosci 2018</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2019 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2019</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="computational">
+                        <div class="study-illustration">
+                            <img src="img/variant_grid.png" alt="Classified genetic variants">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">700K+</div>
+                                <div class="study-stat-label">variants classified</div>
+                                <div class="study-title">A Clinical Dictionary for Genetic Variants</div>
+                                <span class="study-type-badge">Computational <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">ClinVar aggregates expert-curated clinical interpretations of genetic variants. Laboratories worldwide contribute evidence of pathogenicity or benignity, building a community database of variant classification.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Single variants sometimes have conflicting interpretations. ClinVar metadata shows which genes have strong clinical evidence and which remain speculative. Essential for filtering Teagan's VCF.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Only coding variants in scope. Pathogenicity interpretations are delayed (most interpretation happens after papers publish). Many rare variants remain unclassified.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://www.ncbi.nlm.nih.gov/clinvar/" class="doi-link" target="_blank">ncbi.nlm.nih.gov/clinvar/</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2019 continued -->
+            <div class="year-block">
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="postmortem">
+                        <div class="study-illustration">
+                            <img src="img/brain_celltype.png" alt="Concentric rings showing neuron-specific variant clustering">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">4</div>
+                                <div class="study-stat-label">brain cell types separated</div>
+                                <div class="study-title">Autism Variants Target Specific Brain Cell Types</div>
+                                <span class="study-type-badge">Postmortem Brain <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers produced the most comprehensive map of chromatin state across 8 human brain cell types (excitatory neurons, inhibitory neurons, astrocytes, oligodendrocytes, etc.). Showed that chromatin accessibility varies dramatically by cell type.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">A regulatory variant in a GABAergic inhibitory neuron enhancer won't affect glutamatergic neurons. Nott's cell-type-specific chromatin map made it possible to predict which cell types are affected by which variants.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Adult brain only. Regulatory landscape changes dramatically during development. Early developmental enhancers in iPSCs or organoids may differ from adult.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/31748389/" class="doi-link" target="_blank">Nott et al. Nature 2019</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2020 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2020</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="mouse">
+                        <div class="study-illustration">
+                            <img src="img/mouse_crispr.png" alt="CRISPR gene knockouts in mouse brain">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">35</div>
+                                <div class="study-stat-label">genes perturbed</div>
+                                <div class="study-title">Knocking Out Autism Genes in Living Mouse Brains</div>
+                                <span class="study-type-badge">Mouse Model <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers performed in vivo CRISPR perturbation of 35 autism risk genes in developing mouse neocortex at E12.5, then profiled with scRNA-seq at P7. First systematic functional test of whether these genes affect neural development.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Genetic association doesn't prove function. Jin's perturb-seq showed which genes actually disrupt neuronal identity, migration, or differentiation. Started moving beyond "this gene is associated" to "this gene does this."</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Mouse cortex, complete knockout, early developmental stage. Single-gene perturbations don't model polygenic regulatory burden. Adult human brain may differ substantially.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/33243861/" class="doi-link" target="_blank">Jin et al. Science 2020</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2021 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2021</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="mouse">
+                        <div class="study-illustration">
+                            <img src="img/cell_array.png" alt="Array of cells with gene knockouts">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">10,000</div>
+                                <div class="study-stat-label">genes tested at once</div>
+                                <div class="study-title">Knocking Out 10,000 Genes to See What Breaks</div>
+                                <span class="study-type-badge">Mouse Model <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers developed pooled CRISPR screening coupled to scRNA-seq (Perturb-seq), allowing thousands of single-gene knockouts to be profiled simultaneously in K562 cells. Major technological advance in functional genomics.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Single perturbations are labor-intensive. Perturb-seq enabled genome-scale screening with single-cell resolution. Applied to autism genes, it showed which genes affect common downstream pathways.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">K562 cells are immortalized cancer cells, not brain. Cell-line-specific effects may not translate to neurons. Doesn't capture cell-type-specific or developmental-stage-specific effects.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/34880584/" class="doi-link" target="_blank">Replogle et al. Cell 2022</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2023 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2023</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="organoid">
+                        <div class="study-illustration">
+                            <img src="img/gene_knockout_36.png" alt="Grid of 36 genes being systematically knocked out">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">36</div>
+                                <div class="study-stat-label">genes perturbed</div>
+                                <div class="study-title">36 Autism Genes Knocked Out in Mini-Brains</div>
+                                <span class="study-type-badge">Brain Organoid <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers created mosaic cerebral organoids with CRISPR knockouts of 36 autism genes, performed scRNA-seq to profile effects on neuronal differentiation across excitatory and inhibitory lineages.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">First systematic screen of autism genes in human-derived organoid development. Moves beyond mouse models to human developmental biology. Shows which genes affect which neuronal lineages.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Fetal-equivalent stage. Mosaic design (one KO per cell) has less power for cell-non-autonomous effects. No environmental/genetic background variation from real patients.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/37751171/" class="doi-link" target="_blank">Paulsen et al. Nature 2023</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2023 continued -->
+            <div class="year-block">
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="genetic">
+                        <div class="study-illustration">
+                            <img src="img/receptor_split.png" alt="Glutamate and GABA receptor clusters separating">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">20,979</div>
+                                <div class="study-stat-label">epilepsy cases vs 33,444 controls</div>
+                                <div class="study-title">Different Receptor Types Separate Autism from Epilepsy</div>
+                                <span class="study-type-badge">Genetic Cohort <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Epi25 Collaborative exome sequenced ~21K epilepsy cases and 33K controls, identified genes with significant rare variant burden in epilepsy. Separated genes by phenotype (DEE, GGE, focal epilepsy).</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Not all epilepsy genes cause autism. Epi25 revealed that GABA receptors carry high burden in epilepsy but are rarely disrupted in pure autism GWAS. Suggests distinct genetic architectures for autism vs. epilepsy despite phenotypic overlap.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Phenotypes are broad (all epilepsy types lumped). Rare variants might be clinically actionable but genetically heterogeneous. Doesn't explain mechanism.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://www.epi-25.org/" class="doi-link" target="_blank">epi-25.org</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2024 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2024</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="postmortem">
+                        <div class="study-illustration">
+                            <img src="img/ion_channels_quiet.png" alt="Ion channel activity fading">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">122</div>
+                                <div class="study-stat-label">brains at single-cell level</div>
+                                <div class="study-title">Ion Channels Go Quiet in Autistic Brains</div>
+                                <span class="study-type-badge">Postmortem Brain <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers performed single-cell RNA-seq on postmortem cortex from autism and control brains, revealing that transcriptomic disruptions in autism are cell-type-specific — some cell types show strong signatures while others are largely spared.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Autism isn't a brain-wide disruption — it's cell-type-selective. Excitatory neurons and some interneuron populations show stronger convergence than others. Points toward specific circuits being disrupted.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Pooled data across genotypes. Can't attribute specific transcriptomic changes to specific mutations. Doesn't distinguish primary effects from compensation.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/38526946/" class="doi-link" target="_blank">Gandal et al. Nature 2024</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2024 continued -->
+            <div class="year-block">
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="organoid">
+                        <div class="study-illustration">
+                            <img src="img/largest_organoid.png" alt="Field of brain organoid spheres">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">70</div>
+                                <div class="study-stat-label">patient cell lines</div>
+                                <div class="study-title">The Largest Study of Lab-Grown Autism Brain Tissue</div>
+                                <span class="study-type-badge">Brain Organoid <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers generated hiPS cell-derived organoids from 70 ASD patients (55 individuals) carrying rare mutations, plus idiopathic ASD cases. Identified convergent transcriptional programs despite genetic heterogeneity.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">First large-scale study of real patient mutations in human organoids at scale. Shows early developmental convergence: different mutations cause similar patterns of dysregulation by mid-organoid development.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Fetal-stage organoids only. Postnatal brain may diverge. Idiopathic cases (no known mutation) produce weak signals. Some mutations may require postnatal environment to show effects.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/" class="doi-link" target="_blank">Pasca et al. Nature 2026</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2024 continued -->
+            <div class="year-block">
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="clinical">
+                        <div class="study-illustration">
+                            <img src="img/compensation.png" alt="Network showing compensatory gene response">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">5 of 7</div>
+                                <div class="study-stat-label">network genes responded</div>
+                                <div class="study-title">When One Gene Fails, Others Try to Compensate</div>
+                                <span class="study-type-badge">Clinical Data <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Researchers studied patient-derived iPSC organoids from MEF2C haploinsufficiency cases, discovered that MEF2C loss specifically dysregulates autism-linked transcription factors (FOXP1, TCF4, MYT1L) with compensatory upregulation in neurons.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">MEF2C sits at a topological convergence point where its loss reverberates through the regulatory network. Shows network causation: one hub gene disruption affects multiple downstream partners, not just direct targets.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Single monogenic model (uniform 50% loss). Doesn't test partial regulatory reductions from polygenic burden. Effect may not generalize to other autism genes.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://pubmed.ncbi.nlm.nih.gov/38526946/" class="doi-link" target="_blank">Lipton et al. Mol Psych 2024</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2025 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2025</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-right" data-type="postmortem">
+                        <div class="study-illustration">
+                            <img src="img/brain_regions.png" alt="Brain regions mapped">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">21</div>
+                                <div class="study-stat-label">brain regions</div>
+                                <div class="study-title">Updated Maps of Gene Control Regions</div>
+                                <span class="study-type-badge">Postmortem Brain <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">Roadmap Epigenomics updated chromatin maps across 21 brain regions with modern sequencing technology (ATAC-seq, ChIP-seq), achieving higher resolution and sensitivity than earlier Phase 1 data.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Regulatory landscape maps improve over time as sequencing deepens. Updated Roadmap data enables better prediction of which non-coding variants affect brain-specific regulatory elements across multiple regions.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Adult tissue only. Developmental chromatin patterns differ. Region-averaged samples mask cell-type-specific effects within regions.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://egg2.wustl.edu/roadmap/web_portal/index.html" class="doi-link" target="_blank">Roadmap Epigenomics</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 2026 -->
+            <div class="year-block">
+                <div class="year-marker">
+                    <span class="year-label">2026</span>
+                </div>
+                <div class="studies-row">
+                    <div class="study-entry img-left" data-type="computational">
+                        <div class="study-illustration">
+                            <img src="img/neural_network.png" alt="Neural network scoring variants">
+                        </div>
+                        <div class="study-card">
+                            <div class="study-card-inner">
+                                <div class="study-stat">42,863</div>
+                                <div class="study-stat-label">variants scored</div>
+                                <div class="study-title">Machine Learning Predicts Which Variants Matter</div>
+                                <span class="study-type-badge">Computational <span class="expand-chevron">▼</span></span>
+                                <div class="expanded-content">
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Study</div>
+                                        <div class="expanded-text">ChromBPNet scored 42K+ SNVs across autism-linked regulatory genes in brain cell types using deep learning trained on ATAC-seq and ChIP-seq data. Predicted which variants most likely disrupt transcription factor binding in specific cell types.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Why It Matters</div>
+                                        <div class="expanded-text">Regulatory variant prediction has moved from heuristics to machine learning. ChromBPNet enables genome-scale prioritization of variants by predicted functional impact in brain-specific context.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">The Limitation</div>
+                                        <div class="expanded-text">Predictions, not validation. Top-scoring variants are overwhelmingly common polymorphisms. Lack independent functional validation. Cell-type predictions don't capture developmental dynamics.</div>
+                                    </div>
+                                    <div class="expanded-section">
+                                        <div class="expanded-label">Access</div>
+                                        <div class="expanded-text"><a href="https://github.com/kundajelab/chrombpnet" class="doi-link" target="_blank">ChromBPNet GitHub</a></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Study type counts
+        const typeCounts = {
+            postmortem: 0,
+            organoid: 0,
+            mouse: 0,
+            genetic: 0,
+            computational: 0,
+            clinical: 0
+        };
+
+        const studyEntries = document.querySelectorAll('.study-entry');
+        studyEntries.forEach(entry => {
+            const type = entry.getAttribute('data-type');
+            if (type && type !== 'all') {
+                typeCounts[type]++;
+            }
+        });
+
+        // Update filter buttons with counts
+        Object.keys(typeCounts).forEach(type => {
+            const countEl = document.querySelector(`[data-count-${type}]`);
+            if (countEl) {
+                countEl.textContent = typeCounts[type];
+            }
+        });
+
+        // Filter functionality
+        const filterBtns = document.querySelectorAll('.filter-btn');
+        filterBtns.forEach(btn => {
+            btn.addEventListener('click', () => {
+                const filterType = btn.getAttribute('data-type');
+
+                // Update active state
+                filterBtns.forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+
+                // Update visible studies
+                let visibleCount = 0;
+                studyEntries.forEach(entry => {
+                    const entryType = entry.getAttribute('data-type');
+                    const isVisible = filterType === 'all' || entryType === filterType;
+
+                    entry.classList.toggle('hidden', !isVisible);
+                    if (isVisible) visibleCount++;
+                });
+
+                // Update counter
+                document.getElementById('visible-count').textContent = visibleCount;
+            });
+        });
+
+        // Expand/collapse functionality - click anywhere on card
+        document.querySelectorAll('.study-card').forEach(card => {
+            card.style.cursor = 'pointer';
+            card.addEventListener('click', (e) => {
+                if (e.target.closest('a')) return;
+                const content = card.querySelector('.expanded-content');
+                const chevron = card.querySelector('.expand-chevron');
+                if (content) {
+                    content.classList.toggle('open');
+                    if (chevron) {
+                        chevron.style.transform = content.classList.contains('open') ? 'rotate(180deg)' : 'rotate(0)';
+                    }
+                }
+            });
+        });
+
+        // Intersection Observer for scroll animations
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.animation = 'slideIn 0.6s ease-out forwards';
+                }
+            });
+        }, observerOptions);
+
+        studyEntries.forEach((entry, index) => {
+            entry.style.animationDelay = `${Math.min(index * 0.1, 0.5)}s`;
+            observer.observe(entry);
+        });
+    </script>
+</body>
+</html>

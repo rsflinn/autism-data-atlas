@@ -1,0 +1,12 @@
+{
+  "pmid": "41922322",
+  "title": "Autism organoid/iPSC RNA-seq study (metadata pending)",
+  "date_added": "2026-04-04",
+  "source": "pubmed_weekly_scan",
+  "scan_query": "autism AND (organoid OR iPSC) AND (RNA-seq OR sequencing)",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "notes": "Retrieved by organoid/iPSC + sequencing query. Related to autism iPSC or brain organoid transcriptomics study. PubMed metadata API was unavailable during scan; full integration pending. May have associated GEO accession.",
+  "pubmed_metadata_status": "pending - API error during scan",
+  "potential_dataset": true
+}

@@ -1,0 +1,31 @@
+{
+  "id": "10.1101/2025.02.21.639553",
+  "id_type": "doi",
+  "title": "FMRP Regulates Neuronal RNA Granules Containing Stalled Ribosomes, Not Where Ribosomes Stall",
+  "authors": "Li JT-Y et al.",
+  "journal": "bioRxiv",
+  "date": "2025-02-21",
+  "abstract": "FMRP, lost in Fragile X syndrome, is enriched in RNA granules containing stalled ribosomes. Loss of FMRP had no significant effect on proteins associated with neuronal stalled ribosomes, on ribosome structure, or stalling sites. However, small but significant decrease in RPF levels from FMRP-associated mRNAs. Number of neuronal RNA granules containing stalled ribosomes decreased. Remaining granules were resistant to reactivation. Suggests FMRP role in neuronal RNA granules, though loss doesn't influence where ribosomes stall.",
+  "source": "biorxiv",
+  "doi": "10.1101/2025.02.21.639553",
+  "score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 1
+  },
+  "genes": [],
+  "concepts": [
+    "FMRP",
+    "Fragile X",
+    "RNA granules",
+    "stalled ribosomes",
+    "translational regulation",
+    "local protein synthesis"
+  ],
+  "evidence_tier": "C"
+}

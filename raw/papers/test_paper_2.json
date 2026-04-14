@@ -1,0 +1,6 @@
+{
+  "pmid": "34575310",
+  "title": "A novel CRISPR perturbation study of neurotransmitter signaling in organoids",
+  "authors": ["Garcia M", "Chen L", "Brown K"],
+  "abstract": "We used CRISPR-based perturbations in human brain organoids to study the role of neurotransmitter genes in neuronal differentiation. Our organoid models were derived from patient-derived induced pluripotent stem cells and cultured for 100 days. Single-cell RNA-seq identified changes in multiple cell types including inhibitory and excitatory neurons. We observed disruption of epilepsy-related genes including GRIN2B and effects on neuronal phenotypes."
+}

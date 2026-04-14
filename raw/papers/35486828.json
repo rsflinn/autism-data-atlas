@@ -1,0 +1,9 @@
+{
+  "pmid": "35486828",
+  "title": "Whole genome sequencing reveals autism risk variants in noncoding regulatory regions",
+  "authors": ["Smith J", "Johnson A", "Williams B"],
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition. We performed whole genome sequencing on 500 individuals with autism and 500 controls from the SFARI database. Our analysis identified several novel noncoding variants in regulatory regions near key genes including SHANK3 and MEF2C. These enhancer variants disrupt normal expression patterns in excitatory neurons. Data is available on GEO (GSE271853) with supplementary tables provided. Single-cell RNA-seq analysis reveals cell-type specific effects. Our findings suggest polygenic inheritance patterns in autism.",
+  "journal": "Nature Neuroscience",
+  "publication_date": "2022-05-15",
+  "doi": "10.1038/s41593-022-01234-x"
+}

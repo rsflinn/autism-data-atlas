@@ -1,0 +1,35 @@
+{
+  "pmid": "41902612",
+  "title": "The 3-Hit Metabolic Signaling Model for Autism Spectrum Disorder: A Summary.",
+  "abstract": "Autism spectrum disorder (ASD) is a highly heritable yet environmentally sensitive neurodevelopmental condition whose biological heterogeneity has resisted a unifying causal explanation for over 100&#x2009;years. The 3-hit metabolic signaling model proposes that ASD arises from abnormal persistence of an evolutionarily conserved stress-response program-the cell danger response (CDR)-during critical windows of neurodevelopment. In this framework, ASD emerges from the sequential interaction of: (1) inherited genetic or epigenetic variants that sensitize mitochondrial metabolism, intracellular calcium handling, and purinergic signaling to environmental change; (2) early prenatal or postnatal activation of the CDR by infection, immune dysregulation, metabolic disturbance, or environmental toxicant exposure; and (3) prolonged or recurrent exposure to CDR-activating triggers for 3-6&#x2009;months from the late 1st trimester to 18-36&#x2009;months of age. The CDR is initiated by extracellular ATP (eATP)-associated purinergic signaling and mitochondrial changes that are resource- and energy-intensive. Persistent or recurrent activation of the CDR during the critical neurodevelopmental window is proposed to sensitize developing cells to eATP-related signaling, leading to false alarms and a mixture of chemical, immune, and neurosensory under- and over-responsivity. More frequent cycles of CDR activation and recovery are proposed to cause cellular competition for key bioenergetic, mitochondrial, and metabolic resources needed to support the normal trajectory of child development. Phenylketonuria (PKU) provides a proof-of-principle example. Untreated PKU historically caused intellectual disability and autistic features, while universal newborn screening and early treatment interrupt this sequence and prevent or decrease these outcomes despite strong genetic predisposition.",
+  "authors": [
+    ""
+  ],
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "28"
+  },
+  "doi": "10.1002/aur.70228",
+  "mesh_terms": [],
+  "keywords": [
+    "CDR stacking",
+    "autism spectrum disorder",
+    "cell danger response",
+    "exposomics",
+    "metabolic signaling",
+    "metabolomics",
+    "mitochondria",
+    "network analysis",
+    "salugenesis"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04",
+  "queries": [
+    "autism_noncoding",
+    "autism_gwas",
+    "gene_specific"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "41818656",
+  "title": "Early Clinical and EEG Association of Genotype and Outcome in Genetic Epilepsies: A Cohort Study and Hierarchical Clustering Analysis.",
+  "abstract": "Genetic epilepsies include a broad spectrum of disorders caused by pathogenic variants in more than 1,000 genes. Their clinical expression is highly variable, making early phenotype-genotype interpretation challenging. Early seizure semiology and EEG features may offer clinically useful information for diagnostic orientation and management. The aim of this study was to characterize early clinical and EEG features in patients with genetic epilepsies, examine their associations with outcomes, and explore genotype-phenotype groupings through hierarchical clustering analysis (HCA).\n\nWe conducted a retrospective study at Bambino Ges&#xf9; Children's Hospital. Eligible participants carried pathogenic or likely pathogenic variants in epilepsy-related genes, identified through medical records and laboratory diagnostic logs. Clinical variables at seizure onset and EEG recordings performed within the first month of the initial seizure were extracted. Follow-up outcomes included seizure frequency, drug resistance, movement disorders, behavioral/autism spectrum disorder comorbidities, and developmental delay/intellectual disability (DD/ID). Associations between early features and outcomes were assessed using &#x3c7;or Fisher tests. HCA was used to identify clusters linking early phenotype and gene-level etiology.\n\nWe included 277 patients (52.3% female; median age at last follow-up 8.1 years, range 0-40). Drug resistance occurred in 58.8% and severe DD/ID in 35.4% of patients. EEG data at onset were available for 107 individuals. Neonatal onset was associated with a higher rate of drug resistance (71.4%; odds ratio [OR] 2.0, 95% CI 1.05-3.77), movement disorders (60.7%; OR 3.7, 95% CI 2.02-6.82), and severe DD/ID (71.4%; OR 7.0, 95% CI 3.66-13.49). Slow EEG background activity and multifocal epileptiform discharges were associated with both drug resistance and severe DD/ID. HCA identified genotype-phenotype groupings, including clusters involving,,,,,,, and, each linked to specific clinical and EEG features.\n\nEarly clinical and EEG features showed meaningful associations with outcomes and mapped onto specific genetic etiologies. HCA revealed coherent genotype-phenotype clusters that may support early diagnostic reasoning. Limitations include the retrospective design and small numbers per gene, warranting larger multicenter studies for validation.",
+  "authors": [
+    "{'last_name': 'De Dominicis', 'fore_name': 'Angela', 'initials': 'A', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Mercier', 'fore_name': 'Mattia', 'initials': 'M', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\", 'Department of Physiology, Behavioral Neuroscience PhD Program, Sapienza University, Rome, Italy.']}",
+    "{'last_name': 'Carfi Pavia', 'fore_name': 'Giusy', 'initials': 'G', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Piscitello', 'fore_name': 'Ludovica Maria', 'initials': 'LM', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Cappelletti', 'fore_name': 'Simona', 'initials': 'S', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Filosomi', 'fore_name': 'Cristina', 'initials': 'C', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Correale', 'fore_name': 'Cinzia', 'initials': 'C', 'affiliations': ['Centre for Behavioral Sciences and Mental Health, Istituto Superiore di Sanita, Rome, Italy.']}",
+    "{'last_name': 'Calabrese', 'fore_name': 'Costanza', 'initials': 'C', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'De Palma', 'fore_name': 'Luca', 'initials': 'L', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Novelli', 'fore_name': 'Antonio', 'initials': 'A', 'affiliations': [\"Laboratory of Medical Genetics, Translational Cytogenomics Research Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy; and.\"]}",
+    "{'last_name': 'Stregapede', 'fore_name': 'Fabrizia', 'initials': 'F', 'affiliations': [\"Laboratory of Medical Genetics, Translational Cytogenomics Research Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Rome, Italy; and.\"]}",
+    "{'last_name': 'Trivisano', 'fore_name': 'Marina', 'initials': 'M', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\"]}",
+    "{'last_name': 'Specchio', 'fore_name': 'Nicola', 'initials': 'N', 'affiliations': [\"Neurology, Epilepsy and Movement Disorders Unit, Bambino Ges&#xf9; Children's Hospital, IRCCS, Full Member of European Reference Network EpiCARE, Rome, Italy.\", 'University Hospitals KU Leuven, Belgium.']}"
+  ],
+  "journal": "Neurology",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "12"
+  },
+  "doi": "10.1212/WNL.0000000000214761",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Electroencephalography",
+    "Retrospective Studies",
+    "Child",
+    "Epilepsy",
+    "Child, Preschool",
+    "Cluster Analysis",
+    "Genotype",
+    "Infant",
+    "Phenotype",
+    "Adolescent",
+    "Cohort Studies"
+  ],
+  "keywords": [],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

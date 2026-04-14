@@ -1,0 +1,20 @@
+{
+  "pmid": "biorxiv_2026.04.07.715910",
+  "doi": "10.64898/2026.04.07.715910",
+  "title": "Cell-specific variant-to-gene mapping identifies conserved neural and glial regulators of sleep",
+  "authors": "Zimmerman AJ et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-09",
+  "abstract": "Cell-specific V2G mapping for EDS GWAS. Neural and glial regulators. Not autism-specific but methods relevant.",
+  "source": "biorxiv",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism_relevance": 2,
+    "noncoding_regulatory": 7,
+    "dataset_availability": 5,
+    "novelty": 5,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 0
+  },
+  "decision": "INTEGRATE"
+}

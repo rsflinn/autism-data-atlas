@@ -1,0 +1,20 @@
+{
+  "pmid": "41963441",
+  "title": "Base editing restores CDKL5 expression and rescues neuronal deficits in a patient-derived model of CDKL5 deficiency disorder",
+  "authors": "Chai Y, Zhu Y, Zhu J, Guan M, Zheng Z, Chen Y, Tsang HWS, Ye T, Ip JPK",
+  "journal": "Scientific Reports",
+  "date": "2026-04-10",
+  "abstract": "Base editing restores CDKL5 expression and rescues neuronal deficits in a patient-derived iPSC model of CDKL5 deficiency disorder. Uses adenine base editing (ABE) for gene correction in iPSC-derived neurons.",
+  "doi": "10.1038/s41598-026-48097-y",
+  "source": "pubmed",
+  "relevance_score": 29,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}

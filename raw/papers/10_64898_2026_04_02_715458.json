@@ -1,0 +1,32 @@
+{
+  "id": "10.64898/2026.04.02.715458",
+  "id_type": "doi",
+  "title": "Enhancer hubs govern chromatin topology and Th17 identity",
+  "authors": "Siklenka K et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-04",
+  "abstract": "Systematic measurement of regulatory potential of candidate elements across five mouse CD4+ subsets. ATAC-STARR-seq found ~25% of open chromatin regions demonstrate regulatory activity. CRISPR epigenome editing screens identified core elements essential for Th17 polarization. Region Capture Micro-C resolved precise 3D chromatin topologies. Discovered active regulatory hubs formed through CTCF-independent interactions in hierarchical architecture. A critical Batf enhancer operates chromatin contacts.",
+  "source": "biorxiv",
+  "doi": "10.64898/2026.04.02.715458",
+  "score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "autism_relevance": 1,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 0
+  },
+  "genes": [],
+  "concepts": [
+    "enhancer hubs",
+    "chromatin topology",
+    "ATAC-STARR-seq",
+    "CRISPR screen",
+    "Micro-C",
+    "3D genome",
+    "noncoding regulatory"
+  ],
+  "evidence_tier": "C"
+}

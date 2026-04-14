@@ -1,0 +1,23 @@
+{
+  "pmid": "41882355",
+  "title": "The DNA virome varies with human genes and environments.",
+  "abstract": "Many viruses have adapted to persist in infected humans for life. Variable host control of their ongoing abundance (viral load) can lead to clearance or disease. Here we analysed the viral DNA load of 31 common viruses in human blood and saliva using whole-genome sequencing data from UK Biobank (n&#x2009;=&#x2009;490,401), All of Us (n&#x2009;=&#x2009;414,817) and Simons Foundation Powering Autism Research&#xa0;for Knowledge (SPARK; n&#x2009;=&#x2009;12,519). Viral DNA load varied markedly with age, time of day and season; most viruses were also present at greater abundance in men than in women. Human genetic variation at dozens of loci associated with DNA load of seven viruses: Epstein-Barr virus (EBV, 45 loci), human herpesvirus (HHV)-7 (37 loci), HHV-6B, Merkel cell polyomavirus and three anelloviruses. Variation at the major histocompatibility complex (MHC) locus generated the strongest associations&#xa0;(P&#xa0;=&#xa0;5.8&#xa0;&#xd7;&#xa0;10to 2.5&#xa0;&#xd7;&#xa0;10), which were specific to each virus. The HLA-B*08:01 allele also exhibited a host-virus genetic interaction with EBV subtype&#xa0;(P&#xa0;= 7.4&#xa0;&#xd7;&#xa0;10). Other human genetic effects implicated genes encoding proteins that process peptides for antigen presentation, such as ERAP1 (HHV-7, P =&#xa0;2.7&#xa0;&#xd7;&#xa0;10) and ERAP2 (EBV, P = 4.6&#xa0;&#xd7;&#xa0;10). Mendelian randomization analyses supported a strong causal effect of EBV DNA load on increased risk of Hodgkin's lymphoma (P&#xa0;= 1.8&#xa0;&#xd7;&#xa0;10),&#xa0;but not multiple sclerosis&#xa0;(P = 0.52). This suggests that higher chronic EBV load increases lymphoma risk, whereas associations of EBV infection with autoimmune conditions reflect host immune responses to particular viral epitopes.",
+  "authors": [
+    "{'last_name': 'Kamitaki', 'fore_name': 'Nolan', 'initials': 'N', 'affiliations': [\"Division of Genetics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA. nolan_kamitaki@hms.harvard.edu.\", \"Center for Data Sciences, Brigham and Women's Hospital, Boston, MA, USA. nolan_kamitaki@hms.harvard.edu.\", 'Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA. nolan_kamitaki@hms.harvard.edu.', 'Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA. nolan_kamitaki@hms.harvard.edu.', 'Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. nolan_kamitaki@hms.harvard.edu.', 'Department of Genetics, Harvard Medical School, Boston, MA, USA. nolan_kamitaki@hms.harvard.edu.']}",
+    "{'last_name': 'Tang', 'fore_name': 'David', 'initials': 'D', 'affiliations': [\"Division of Genetics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA.\", \"Center for Data Sciences, Brigham and Women's Hospital, Boston, MA, USA.\", 'Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA.', 'Department of Biomedical Informatics, Harvard Medical School, Boston, MA, USA.']}",
+    "{'last_name': 'McCarroll', 'fore_name': 'Steven A', 'initials': 'SA', 'affiliations': ['Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA. smccarro@broadinstitute.org.', 'Stanley Center for Psychiatric Research, Broad Institute of MIT and Harvard, Cambridge, MA, USA. smccarro@broadinstitute.org.', 'Department of Genetics, Harvard Medical School, Boston, MA, USA. smccarro@broadinstitute.org.', 'Howard Hughes Medical Institute, Harvard Medical School, Boston, MA, USA. smccarro@broadinstitute.org.']}",
+    "{'last_name': 'Loh', 'fore_name': 'Po-Ru', 'initials': 'PR', 'affiliations': [\"Division of Genetics, Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA, USA. poruloh@broadinstitute.org.\", \"Center for Data Sciences, Brigham and Women's Hospital, Boston, MA, USA. poruloh@broadinstitute.org.\", 'Program in Medical and Population Genetics, Broad Institute of MIT and Harvard, Cambridge, MA, USA. poruloh@broadinstitute.org.']}"
+  ],
+  "journal": "Nature",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "25"
+  },
+  "doi": "10.1038/s41586-026-10288-y",
+  "mesh_terms": [],
+  "keywords": [],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

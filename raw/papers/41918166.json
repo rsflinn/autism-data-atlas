@@ -1,0 +1,25 @@
+{
+  "pmid": "41918166",
+  "title": "Advancing Risk Gene Discovery Across the Allele Frequency Spectrum.",
+  "abstract": "The discovery of genetic risk factors has transformed human genetics, yet the pace of new gene identification has slowed despite the exponential expansion of sequencing and biobank resources. Current approaches are optimized for the extremes of the allele frequency spectrum: rare, high-penetrance variants identified through burden testing, and common, low-effect variants mapped by genome-wide association studies. Between these extremes lies variants of intermediate frequency and effect size where statistical power is limited, pathogenicity is often misclassified, and gene discovery lags behind empirical evidence of heritable contribution. This \"missing middle\" represents a critical blind spot across disease areas, from neurodevelopmental and psychiatric disorders to cancer and aging. In this review, we organize strategies for risk gene identification by variant frequency class, highlighting methodological strengths and constraints at each scale. We draw on lessons across fields to illustrate how innovations in variant annotation, joint modeling, phenotype refinement, and network-based inference can extend discovery into the intermediate range. By framing the frequency spectrum as a unifying axis, we provide a conceptual map of current capabilities, their limitations, and emerging directions toward more comprehensive risk gene discovery.",
+  "authors": [
+    "{'last_name': 'Caballero', 'fore_name': 'Madison', 'initials': 'M', 'affiliations': ['Seaver Autism Center for Research and Treatment, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY, USA. Electronic address: madison.caballero@mssm.edu.']}",
+    "{'last_name': 'Mahjani', 'fore_name': 'Behrang', 'initials': 'B', 'affiliations': ['Seaver Autism Center for Research and Treatment, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Department of Psychiatry, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Department of Genetics and Genomic Sciences, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Mindich Child Health and Development Institute, Icahn School of Medicine at Mount Sinai, New York, NY, USA; Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm; Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.']}"
+  ],
+  "journal": "HGG advances",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "30"
+  },
+  "doi": "10.1016/j.xhgg.2026.100599",
+  "mesh_terms": [],
+  "keywords": [
+    "Genetic architecture",
+    "complex disorders",
+    "risk gene discovery"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

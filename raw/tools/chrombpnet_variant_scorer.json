@@ -1,0 +1,19 @@
+{
+  "name": "ChromBPNet / variant-scorer",
+  "repo_url": "https://github.com/kundajelab/variant-scorer",
+  "chrombpnet_repo_url": "https://github.com/kundajelab/chrombpnet",
+  "description": "Framework to score genetic variant effects genome-wide using ChromBPNet models. ChromBPNet is a bias-factorized, base-resolution deep learning model of chromatin accessibility. Identifies cis-regulatory sequence syntax, TF footprints, and regulatory variant effects. Has been applied to autism and intellectual disability variant analysis (JARID2 as target gene identified through variant scoring).",
+  "stars": null,
+  "last_updated": "2025",
+  "language": "Python",
+  "publication": {
+    "journal": "Nature Genetics",
+    "date": "2025-01",
+    "pubmed": "39829783",
+    "title": "ChromBPNet: bias factorized, base-resolution deep learning models of chromatin accessibility reveal cis-regulatory sequence syntax, transcription factor footprints and regulatory variants"
+  },
+  "relevance_to_atlas": "HIGH - Direct application to autism noncoding variant scoring. Used in published autism regulatory analysis pipeline. Compatible with the atlas's focus on TF binding disruption (complementary to varTFBridge). Well-documented and cell-type matched scoring supports atlas goals.",
+  "access": "Open source GitHub",
+  "date_added": "2026-04-04",
+  "source": "weekly_github_tool_scan"
+}

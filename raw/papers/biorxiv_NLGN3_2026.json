@@ -1,0 +1,22 @@
+{
+  "doi": "10.64898/2026.03.26.714389",
+  "title": "NLGN3 autism variants have distinct functional impact on synapses and sleep behavior in Drosophila",
+  "authors": "Townsley, R.; Andrews, J.; Srivastav, S.; Jangam, S.; Hannan, S.; Kanca, O.; Yamamoto, S.; Wangler, M. F.",
+  "date": "2026-03-30",
+  "server": "biorxiv",
+  "category": "genetics",
+  "source": "weekly_preprint_sweep",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "scoring_notes": {
+    "autism_gene": 5,
+    "functional_variants": 4,
+    "model_organism_validation": 3,
+    "synaptic_biology": 4,
+    "total": 16
+  },
+  "abstract_preview": "Neuroligin-3 (NLGN3) was first identified as a risk gene associated with autism spectrum disorder (ASD). The initial variant, p.R451C, associating NLGN3 with ASD has been heavily investigated, yet literature comparing the R451C variant to other NLGN3 autism variants at the synaptic and behavioral level in vivo is limited.",
+  "atlas_relevance": "NLGN3 is a presynaptic adhesion molecule not yet in atlas gene pages. Study provides in vivo functional comparison of ASD-associated NLGN3 variants including R451C. Relevant to convergence phenomenon and synaptic mechanisms.",
+  "genes_mentioned": ["NLGN3"],
+  "suggested_gene_page": "NLGN3 - should be created; cited in this and related papers"
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "41935183",
+  "title": "Assessing molecular gene by treatment interactions using a population of neural progenitors exposed to valproic acid and lithium",
+  "authors": "Valone JM, Le BD, Matoba N, Mory JT, Wolter JM, Love MI, Stein JL",
+  "journal": "Molecular Psychiatry",
+  "date": "2026-04-04",
+  "abstract": "Gene by treatment (GxT) interactions likely contribute to variability in clinical response, but are difficult to identify in population studies. Here, we applied psychiatric and neurological disorder treatments to a genotyped population of human neural progenitors (n=83 donors) and measured molecular responses on chromatin accessibility and gene expression. Gene regulatory responses to valproic acid (VPA), which is also a prenatal risk factor for autism, and lithium were highly enriched in genetic risk for psychiatric disorders, demonstrating the convergence of environmental and genetic factors. Genetic variation impacted molecular response to these drugs at over 1000 loci, a subset of which modulated the impacts of psychiatric risk variants. Finally, transcriptome-wide association conducted in the context of VPA revealed genes involved with folate metabolism associated with cognitive ability. As previous work has shown that folate supplementation can alleviate VPA-induced teratogenic effects, this approach identified a validated treatment pathway supporting its broad utility.",
+  "doi": "10.1038/s41380-026-03578-4",
+  "source": "pubmed",
+  "relevance_score": 36,
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 7,
+    "novelty": 8,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "decision": "INTEGRATE"
+}

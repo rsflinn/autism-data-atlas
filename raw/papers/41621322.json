@@ -1,0 +1,57 @@
+{
+  "pmid": "41621322",
+  "title": "Polygenic risk scores for pediatric obsessive-compulsive symptoms: Mediating effects in samples clinically diagnosed with mental disorders.",
+  "abstract": "Here, we present the first genome-wide association study and polygenic risk score analysis of obsessive-compulsive symptoms in a sample of 661 clinically diagnosed pediatric participants diagnosed with mental illness and healthy controls. Using a psychiatric questionnaire score as a quantitative trait we conducted a large-scale genetic analysis and ran multiple post-association analyses to investigate the mediating role of obsessive-compulsive symptoms in six comorbid mental disorders. Polygenic risk scores were computed for OCS using genome-wide summary statistics from obsessive-compulsive disorder, attention-deficit/hyperactivity disorder, anxiety disorders, depression, autism spectrum disorder, and tic disorders. Across all models, the PRS of OCS explained modest yet significant proportion of shared genetic risk across six mental disorders consistent with effect sizes typically observed in complex psychiatric traits. Furthermore, Mendelian randomization analysis suggested a potential causal pathway in which OCS mediates the genetic risk for anxiety. These findings highlight shared polygenic mechanisms between OCS and a range of neuropsychiatric conditions. We observed a potential causal pathway in which OCS mediates the genetic risk for anxiety, supporting the hypothesis that OCS may serve as a transdiagnostic mediator within the pediatric population. This study underscores the value of examining genetic risk across the symptom spectrum of mental illnesses, rather than relying solely on binary diagnostic categories.",
+  "authors": [
+    "{'last_name': 'Antonyan', 'fore_name': 'Lilit', 'initials': 'L', 'affiliations': ['Mathison Centre for Mental Health Research and Education, Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary AB, Canada. Electronic address: lilit.antonyan1@ucalgary.ca.']}",
+    "{'last_name': 'Shaheen', 'fore_name': 'S-M', 'initials': 'SM', 'affiliations': ['Mathison Centre for Mental Health Research and Education, Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.']}",
+    "{'last_name': 'Burton', 'fore_name': 'Christie L', 'initials': 'CL', 'affiliations': ['Department of Neurosciences and Mental Health, Hospital for Sick Children, Toronto, ON, Canada.']}",
+    "{'last_name': 'Gehring', 'fore_name': 'William J', 'initials': 'WJ', 'affiliations': ['Department of Psychology, University of Michigan, Ann Arbor MI, USA.']}",
+    "{'last_name': 'Soreni', 'fore_name': 'Noam', 'initials': 'N', 'affiliations': ['Department of Psychiatry and Behavioural Neurosciences, McMaster University, Hamilton, ON, Canada.']}",
+    "{'last_name': 'Szura', 'fore_name': 'Pamela Falzarano', 'initials': 'PF', 'affiliations': ['Department of Psychiatry and Behavioral Neurosciences, Wayne State University, Detroit MI, USA.']}",
+    "{'last_name': 'Bellamy', 'fore_name': 'Julia', 'initials': 'J', 'affiliations': ['Department of Psychiatry and Behavioral Neurosciences, Wayne State University, Detroit MI, USA.']}",
+    "{'last_name': 'Rajan', 'fore_name': 'Usha', 'initials': 'U', 'affiliations': ['Department of Psychiatry and Behavioral Neurosciences, Wayne State University, Detroit MI, USA.']}",
+    "{'last_name': 'Rosenberg', 'fore_name': 'David', 'initials': 'D', 'affiliations': ['Department of Psychiatry and Behavioral Neurosciences, Wayne State University, Detroit MI, USA.']}",
+    "{'last_name': 'Hanna', 'fore_name': 'Gregory L', 'initials': 'GL', 'affiliations': ['Department of Psychiatry, University of Michigan, Ann Arbor MI, USA.']}",
+    "{'last_name': 'Arnold', 'fore_name': 'Paul D', 'initials': 'PD', 'affiliations': ['Mathison Centre for Mental Health Research and Education, Hotchkiss Brain Institute, Cumming School of Medicine, University of Calgary, Calgary AB, Canada. Electronic address: paul.arnold@ucalgary.ca.']}"
+  ],
+  "journal": "Psychiatry research",
+  "date": {
+    "year": "2026",
+    "month": "01",
+    "day": "27"
+  },
+  "doi": "10.1016/j.psychres.2026.116977",
+  "mesh_terms": [
+    "Humans",
+    "Obsessive-Compulsive Disorder",
+    "Child",
+    "Male",
+    "Multifactorial Inheritance",
+    "Female",
+    "Genome-Wide Association Study",
+    "Adolescent",
+    "Genetic Predisposition to Disease",
+    "Autism Spectrum Disorder",
+    "Anxiety Disorders",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Tic Disorders",
+    "Mendelian Randomization Analysis",
+    "Comorbidity",
+    "Mental Disorders",
+    "Genetic Risk Score"
+  ],
+  "keywords": [
+    "Anxiety disorders",
+    "Attention-deficit/hyperactivity disorder",
+    "Autism spectrum disorders",
+    "Depression",
+    "Obsessive-compulsive disorders",
+    "Obsessive-compulsive symptoms",
+    "Polygenic risk scores",
+    "Tic disorders"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}

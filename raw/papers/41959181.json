@@ -1,0 +1,20 @@
+{
+  "pmid": "41959181",
+  "doi": "10.64898/2026.04.01.715877",
+  "title": "Linking Genetic Risk to Disease-Relevant Cellular States via Metacell-Informed Modeling with ICePop",
+  "authors": "Yuan H et al.",
+  "journal": "bioRxiv (indexed PubMed)",
+  "date": "2026-04-03",
+  "abstract": "ICePop framework performs disease-cell type association at metacell resolution. In ASD, identifies preferential enrichment of genetic risk in specific enteric neuron subtypes, implicating dysfunction of enteric nervous system in GI comorbidities. Clusters diseases by metacell association profiles.",
+  "source": "pubmed",
+  "relevance_score": 35,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 6,
+    "dataset_availability": 7,
+    "novelty": 8,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

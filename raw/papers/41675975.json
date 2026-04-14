@@ -1,0 +1,32 @@
+{
+  "pmid": "41675975",
+  "title": "Rare Variants in Antisense Long Noncoding RNA-Protein-Coding Gene Overlap Regions Contribute to Obsessive-Compulsive Disorder.",
+  "abstract": "Obsessive-compulsive disorder (OCD) is a prevalent neuropsychiatric disorder with an incompletely understood genetic basis, limiting targeted therapeutic options. Although previous rare-variant studies have primarily focused on protein-coding genes, the contribution of rare regulatory noncoding variants remains largely unexplored.\n\nWe analyzed whole-genome sequencing data from 2561 OCD cases and 12,974 controls from the All of Us Research Program to investigate rare conserved variants within 992 genomic regions where antisense long noncoding RNAs (lncRNAs) overlap protein-coding genes, using both Fisher's exact test and the Optimal Sequence Kernel Association Test for association testing.\n\nWe identified significant enrichment of rare conserved variants in the/overlap region in OCD cases (odds ratio = 5.1, false discovery rate < .05). This enrichment was significant in overlapping regions of genes with low evolutionary constraint. Expression analysis revealed strong coexpression ofandspecifically in striatal brain regions (nucleus accumbens:= 0.83, putamen:= 0.81, caudate:= 0.79)-key components of circuits disrupted in OCD. Genes coexpressed with this regulatory pair were enriched for synaptic vesicle dynamics, calcium signaling, and established OCD risk genes from genome-wide association studies (false discovery rate < .05).\n\nThese results highlight the importance of rare noncoding regulatory variation in OCD genetics. The association of/variants with OCD suggests that antisense lncRNA-protein-coding overlap regions may contribute to disease susceptibility and represent potential therapeutic targets.",
+  "authors": [
+    "",
+    "",
+    "",
+    ""
+  ],
+  "journal": "Biological psychiatry global open science",
+  "date": {
+    "year": "2025",
+    "month": "12",
+    "day": "23"
+  },
+  "doi": "10.1016/j.bpsgos.2025.100683",
+  "mesh_terms": [],
+  "keywords": [
+    "Antisense lncRNAs",
+    "Noncoding",
+    "OCD Rare variant Whole-genome sequencing"
+  ],
+  "pmc": "PMC12887771",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04",
+  "queries": [
+    "autism_noncoding",
+    "autism_gwas",
+    "gene_specific"
+  ]
+}

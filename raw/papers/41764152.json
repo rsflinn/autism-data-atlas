@@ -1,0 +1,52 @@
+{
+  "pmid": "41764152",
+  "title": "Genetic analysis and reporting from whole-exome sequencing data in 1052 patients with intellectual disability.",
+  "abstract": "Intellectual disability (ID) is a genetically heterogeneous neurodevelopmental disorder, with etiological diagnosis remaining challenging due to clinical phenotypes and genetic diversity. To investigate the diagnostic value of whole exome sequencing (WES) combined with copy number variation (CNV) analysis in unexplained ID through a large cohort analysis, and to analyze the genetic etiology of intellectual disability. Performed WES on 1052 individuals with unexplained ID, analyzing single nucleotide variants (SNVs), small insertions/deletions (InDels), and CNVs. Variants were classified as pathogenic or likely pathogenic based on clinical guidelines. Four hundred eighty-five pathogenic or likely pathogenic variants that could explain the clinical indication were identified in 458 individuals, with an overall diagnostic rate of 43.54% (458/1052). Three hundred thirty-three SNVs were detected, distributed in 178 genes, of which 222 cases were novel. Inheritance pattern analysis showed that autosomal dominant inheritance was the most prevalent (242/333, 72.67%), followed by recessive inheritance (41/333, 12.31%) and sex-linked inheritance (50/333, 15.02%), which aligns with the established role of new dominant variants in developmental disorders. By CNV analysis, we further identified 152 structural variant events with sizes ranging from 103.54&#xa0;bp to 67.34 Mbp. WES with CNV analysis significantly improves molecular diagnosis in ID, particularly in cases of unclear etiology. This integrated approach elucidates diverse variantal mechanisms and enhances genotype-phenotype correlations, supporting clinical management and genetic counseling. WES combined with CNV analysis provides a powerful and economical approach for ID diagnosis. This study offers valuable insights for precision diagnosis and genetic counseling in Chinese ID populations. KEY MESSAGES: 1. Whole-Exome Sequencing (WES) Significantly Enhances Diagnostic Yield in Intellectual Disability (ID) 2. WES analysis of 1052 Chinese ID patients achieved a diagnostic yield of&#xa0;43.54%, surpassing chromosomal microarray analysis (CMA, 15-20%) and aligning with prior WES studies in neurodevelopmental disorders (NDDs). By integrating detection of single nucleotide variants (SNVs), insertions/deletions (Indels), and exon-level copy number variations (CNVs), WES overcomes limitations of traditional methods, particularly for patients with complex phenotypes or genetic heterogeneity. 3. SNVs Dominate the Genetic Etiology of ID 4. SNVs accounted for&#xa0;68.7%&#xa0;(333/485) of pathogenic or likely pathogenic variants, reinforcing their critical role in ID pathogenesis. 5. CNV Analysis from WES Data Improves Diagnostic Efficiency 6. A total of&#xa0;152 pathogenic or likely pathogenic CNVs&#xa0;(31.3% of all variants) were identified, including&#xa0;150 patients diagnosed solely through CNV analysis, increasing the overall diagnostic yield by&#xa0;14.3%. Advanced algorithms (e.g., XHMM, HMZDelFinder) enabled precise detection of small CNVs (down to single-exon deletions/duplications), positioning WES as a cost-effective clinical screening tool. 7. High-Frequency Mutated Genes Highlight Molecular Pathogenesis 8. Top five mutated genes (DUOX2,&#xa0;SCN2A,&#xa0;SHANK3,&#xa0;KDM5C,&#xa0;DDX3X) are strongly linked to neurodevelopmental dysfunction: &#x2022; SCN2A&#xa0;(voltage-gated sodium channel) associates with epilepsy and autism spectrum disorder (ASD); &#x2022; SHANK3&#xa0;(synaptic scaffolding protein) is mutated in&#x2009;~2% of ASD patients with comorbid ID; &#x2022; KDM5C&#xa0;is a common X-linked ID gene. 9. Incidental Findings: Clinical and Ethical Implications 10. 4.09%&#xa0;(12/1052) harbored actionable incidental variants unrelated to ID (e.g., hereditary cancer or metabolic disorders). Balancing clinical actionability with psychological burden requires standardized reporting frameworks to maximize patient benefit while minimizing harm.",
+  "authors": [
+    "{'last_name': 'Pan', 'fore_name': 'Xin', 'initials': 'X', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Qian', 'fore_name': 'Guanhua', 'initials': 'G', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Liu', 'fore_name': 'Li', 'initials': 'L', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Zhang', 'fore_name': 'Xu', 'initials': 'X', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Yang', 'fore_name': 'Yang', 'initials': 'Y', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Zhang', 'fore_name': 'Qingyun', 'initials': 'Q', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Tang', 'fore_name': 'Xianglan', 'initials': 'X', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Yang', 'fore_name': 'Nanyan', 'initials': 'N', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Dong', 'fore_name': 'Lijie', 'initials': 'L', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Yao', 'fore_name': 'Hong', 'initials': 'H', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China.']}",
+    "{'last_name': 'Dong', 'fore_name': 'Xiaojing', 'initials': 'X', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China. dongxiaojing@cqmu.edu.cn.']}",
+    "{'last_name': 'Tan', 'fore_name': 'Bo', 'initials': 'B', 'affiliations': ['Department of Gynecology and Obstetrics, The Second Affiliated Hospital of Chongqing Medical University, Chongqing, 401120, China. tanbo@hospital.cqmu.edu.cn.']}"
+  ],
+  "journal": "Journal of molecular medicine (Berlin, Germany)",
+  "date": {
+    "year": "2026",
+    "month": "03",
+    "day": "01"
+  },
+  "doi": "10.1007/s00109-026-02652-2",
+  "mesh_terms": [
+    "Humans",
+    "Intellectual Disability",
+    "Exome Sequencing",
+    "DNA Copy Number Variations",
+    "Female",
+    "Male",
+    "Child",
+    "Polymorphism, Single Nucleotide",
+    "Adult",
+    "Child, Preschool",
+    "Adolescent",
+    "Genetic Predisposition to Disease",
+    "Young Adult",
+    "Phenotype"
+  ],
+  "keywords": [
+    "Copy number variation",
+    "Diagnostic yield",
+    "Incidental finding",
+    "Intellectual disability",
+    "Whole-exome sequencing"
+  ],
+  "pmc": "",
+  "scan_source": "pubmed_mcp",
+  "scan_date": "2026-04-04"
+}
