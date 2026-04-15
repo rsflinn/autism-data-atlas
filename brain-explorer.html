@@ -78,6 +78,62 @@
         }
         .source-icon.lit span { color: #94a3b8; }
 
+        /* ── PAGE NAV ── */
+        .page-nav {
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
+            margin-left: auto;
+        }
+        .page-nav a {
+            font-size: 0.65rem;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: #475569;
+            text-decoration: none;
+            padding: 0.3rem 0.6rem;
+            border-radius: 3px;
+            font-weight: 500;
+            transition: all 0.2s;
+        }
+        .page-nav a:hover { color: #94a3b8; background: rgba(255,255,255,0.04); }
+        .page-nav a.current { color: #c4b5fd; }
+
+        /* ── STATS BAR ── */
+        .stats-bar {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 1.6rem;
+            padding: 0.3rem 1.5rem;
+            background: rgba(255,255,255,0.015);
+            border-bottom: 1px solid rgba(255,255,255,0.04);
+            z-index: 10;
+        }
+        .stat-item {
+            display: flex;
+            align-items: baseline;
+            gap: 0.35rem;
+        }
+        .stat-number {
+            font-size: 1rem;
+            font-weight: 700;
+            color: #c4b5fd;
+            font-variant-numeric: tabular-nums;
+        }
+        .stat-label {
+            font-size: 0.6rem;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            color: #475569;
+            font-weight: 500;
+        }
+        .stat-divider {
+            width: 1px;
+            height: 14px;
+            background: rgba(255,255,255,0.06);
+        }
+
         /* ── CANVAS: fills the middle ── */
         .canvas-area {
             position: relative;
@@ -415,6 +471,13 @@
     <div class="header">
         <h1><em>Autism Brain Explorer</em></h1>
         <div style="display:flex; align-items:center; gap:1rem;">
+        <nav class="page-nav">
+            <a href="brain-explorer.html" class="current">Brain</a>
+            <a href="index.html#datasets">Datasets</a>
+            <a href="index.html#research">Research</a>
+            <a href="index.html#getting-started">Guide</a>
+            <a href="index.html#about">About</a>
+        </nav>
         <button class="research-toggle" id="researchBtn" onclick="toggleDrawer()">Research Feed</button>
         <div class="source-row" id="sourceBar">
             <span class="source-row-label">Evidence</span>
@@ -448,6 +511,19 @@
             </div>
         </div>
         </div>
+    </div>
+
+    <!-- STATS BAR -->
+    <div class="stats-bar" id="statsBar">
+        <div class="stat-item"><span class="stat-number" id="statPapers">--</span><span class="stat-label">papers</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><span class="stat-number" id="statTrials">--</span><span class="stat-label">trials</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><span class="stat-number" id="statGenes">--</span><span class="stat-label">genes tracked</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><span class="stat-number" id="statDatasets">--</span><span class="stat-label">datasets</span></div>
+        <div class="stat-divider"></div>
+        <div class="stat-item"><span class="stat-label" id="statUpdated">last scan: --</span></div>
     </div>
 
     <!-- RESEARCH DRAWER -->
@@ -620,9 +696,42 @@ function updateFeedCounts() {
     document.getElementById('countDatasets').textContent = datasetCount;
 }
 
+// Populate stats bar from feed data
+function updateStatsBar() {
+    const papers = ((window.PAPERS_FEED?.papers) || []).concat((window.CLINICAL_FEED?.papers) || []);
+    const trials = (window.CLINICAL_FEED?.trials) || [];
+    const datasets = (window.DATASETS_FEED?.datasets) || [];
+
+    // Count unique genes across all feeds
+    const geneSet = new Set();
+    papers.forEach(p => {
+        const g = p.genes_mentioned;
+        if (Array.isArray(g)) g.forEach(x => geneSet.add(x.toUpperCase()));
+        else if (typeof g === 'string' && g) g.split(',').map(x => x.trim().toUpperCase()).filter(Boolean).forEach(x => geneSet.add(x));
+    });
+    trials.forEach(t => {
+        const g = t.genes_relevant;
+        if (Array.isArray(g)) g.forEach(x => geneSet.add(x.toUpperCase()));
+        else if (typeof g === 'string' && g) g.split(',').map(x => x.trim().toUpperCase()).filter(Boolean).forEach(x => geneSet.add(x));
+    });
+
+    document.getElementById('statPapers').textContent = papers.length;
+    document.getElementById('statTrials').textContent = trials.length;
+    document.getElementById('statGenes').textContent = geneSet.size;
+    document.getElementById('statDatasets').textContent = 10 + datasets.length; // 10 curated + feed
+
+    const dates = [
+        window.PAPERS_FEED?.last_updated,
+        window.CLINICAL_FEED?.last_updated,
+        window.DATASETS_FEED?.last_updated
+    ].filter(Boolean).sort().reverse();
+    document.getElementById('statUpdated').textContent = dates.length ? 'last scan: ' + dates[0] : 'last scan: --';
+}
+
 // Initialize counts and default view
 document.addEventListener('DOMContentLoaded', function() {
     updateFeedCounts();
+    updateStatsBar();
     renderFeed();
 });
 </script>
