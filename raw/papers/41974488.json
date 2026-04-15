@@ -1,25 +1,25 @@
 {
-  "id": "41974488",
   "pmid": "41974488",
-  "doi": "10.1093/genetics/iyag099",
   "title": "The forkhead transcription factor FKH-7/FOXP acts in C. elegans chemosensory neurons to shape a life history strategy",
   "authors": "Chai CM et al.",
   "journal": "Genetics",
   "date": "2026-04-14",
   "source": "pubmed",
+  "doi": "10.1093/genetics/iyag099",
+  "url": "https://doi.org/10.1093/genetics/iyag099",
+  "abstract_snippet": "Human FOXP1 can substitute for C. elegans FKH-7 in chemosensory neurons. Hypomorphic missense mutation associated with NDD reduces adaptive response. Single-cell transcriptomics of variant-expressing neurons.",
   "score_breakdown": {
-    "autism_relevance": 6,
+    "autism_relevance": 7,
     "noncoding_regulatory": 2,
     "dataset_availability": 5,
     "novelty": 7,
     "cell_type_specificity": 4,
     "phenotype_severity": 2
   },
-  "score": 26,
+  "score": 27,
   "decision": "INTEGRATE",
   "genes_mentioned": [
     "FOXP1"
   ],
-  "summary": "Human FOXP1 functionally substitutes for C. elegans FKH-7 in chemosensory neurons. A hypomorphic missense mutation associated with human NDD (social interaction deficits) reduces adaptive response frequency. Single-cell transcriptomics identifies candidate genes for variant-specific molecular pathology at single-neuron resolution. Direct functional characterization of a FOXP1 NDD variant in a model organism.",
-  "url": "https://doi.org/10.1093/genetics/iyag099"
+  "summary": "Human FOXP1 functionally substitutes for C. elegans FKH-7 in chemosensory neurons. An NDD-associated missense variant reduces adaptive developmental response in worm populations. Single-cell transcriptomics identifies variant-specific molecular targets at neuron-level resolution. Directly relevant to FOXP1 biology and variant effect mechanisms."
 }

@@ -1,0 +1,26 @@
+{
+  "pmid": "41982969",
+  "title": "Genetic spectrum and risk factor analysis for drug-resistant of early-onset epilepsy",
+  "authors": "Han M et al.",
+  "journal": "Transl Pediatr",
+  "date": "2026-02-26",
+  "source": "pubmed",
+  "doi": "10.21037/tp-2025-aw-826",
+  "url": "https://doi.org/10.21037/tp-2025-aw-826",
+  "abstract_snippet": "75 infants with early-onset epilepsy. Drug-resistant group: 71.4% had definitive genetic dx. Recurrent variants in KCNQ2 and SCN2A.",
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 3,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 4
+  },
+  "score": 16,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "KCNQ2",
+    "SCN2A"
+  ],
+  "summary": "75 infants with early-onset epilepsy stratified by drug resistance. 71.4% of drug-resistant cases had definitive genetic diagnosis vs 37.5% non-refractory (p=0.003). Recurrent variants in KCNQ2 and SCN2A. Relevant to epilepsy-genetics connection and ion channel genes in the atlas set."
+}

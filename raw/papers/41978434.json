@@ -1,26 +1,25 @@
 {
-  "id": "41978434",
   "pmid": "41978434",
-  "doi": "10.1111/febs.70538",
-  "title": "Functional characterization of 42 CK2alpha de novo variants associated with Okur-Chung neurodevelopmental syndrome",
+  "title": "Functional characterization of 42 CK2\u03b1 de novo variants associated with Okur-Chung neurodevelopmental syndrome",
   "authors": "Gast A et al.",
   "journal": "FEBS J",
   "date": "2026-04-13",
   "source": "pubmed",
-  "abstract_snippet": "Characterization of 42 CK2alpha (CSNK2A1) variants linked to Okur-Chung NDD syndrome. 13 had no detectable enzymatic activity.",
+  "doi": "10.1111/febs.70538",
+  "url": "https://doi.org/10.1111/febs.70538",
+  "abstract_snippet": "42 CK2\u03b1 variants in OCNDS characterized for enzymatic activity; many had reduced/no activity but some showed no change, suggesting other mechanisms.",
   "score_breakdown": {
     "autism_relevance": 5,
     "noncoding_regulatory": 1,
-    "dataset_availability": 4,
-    "novelty": 5,
+    "dataset_availability": 3,
+    "novelty": 6,
     "cell_type_specificity": 0,
-    "phenotype_severity": 3
+    "phenotype_severity": 2
   },
-  "score": 18,
+  "score": 17,
   "decision": "INTEGRATE",
   "genes_mentioned": [
     "CSNK2A1"
   ],
-  "summary": "Functional characterization of 42 de novo CSNK2A1 variants in Okur-Chung NDD syndrome (an ASD-linked condition). 13/42 had zero activity, 12 had <10% WT activity. Variants with normal kinase activity suggest other parameters beyond enzymatic function contribute to NDD.",
-  "url": "https://doi.org/10.1111/febs.70538"
+  "summary": "Functional characterization of 42 de novo CSNK2A1 variants in Okur-Chung NDD syndrome. 13/42 had zero enzymatic activity, but 5 variants showed normal activity/stability, suggesting mechanisms beyond kinase function drive NDD. Relevant to understanding how coding variants in NDD genes produce phenotypes through non-obvious mechanisms."
 }

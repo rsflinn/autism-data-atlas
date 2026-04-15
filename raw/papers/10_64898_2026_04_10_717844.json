@@ -1,0 +1,23 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.10.717844",
+  "title": "EVEE: Interpretable variant effect prediction from genomic foundation model embeddings",
+  "authors": "Pearce MT et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-11",
+  "source": "biorxiv",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717844v1",
+  "abstract_snippet": "Evo 2 embeddings achieve 0.997 AUROC on ClinVar SNVs, generalize to indels. Pre-computed predictions for 4.2M ClinVar variants.",
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 6,
+    "dataset_availability": 8,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 0
+  },
+  "score": 25,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Evo 2 genomic foundation model (7B params) achieves SOTA pathogenicity prediction (0.997 AUROC on 839k ClinVar variants) from embeddings alone, generalizes zero-shot to indels. Provides interpretable disruption profiles via annotation probes. Pre-computed predictions for all 4.2M ClinVar variants. Potential tool for scoring Teagan's noncoding variants."
+}
