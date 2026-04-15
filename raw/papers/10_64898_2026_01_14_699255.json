@@ -1,0 +1,23 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.01.14.699255",
+  "title": "Federated single-cell QTL meta-analysis reveals novel disease mechanisms",
+  "authors": "Kaptijn D et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-14",
+  "source": "biorxiv",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717730v1",
+  "abstract_snippet": "Federated cis-eQTL meta-analysis across 12 studies, cell-type-specific regulatory effects.",
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 0
+  },
+  "score": 30,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Federated single-cell cis-eQTL meta-analysis across 12 studies revealing cell-type-specific genetic regulation of gene expression. Highly relevant methodology for understanding how regulatory variants exert cell-type-specific effects -- core question for autism noncoding variant interpretation."
+}

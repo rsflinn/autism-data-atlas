@@ -1,0 +1,23 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.14.718380",
+  "title": "Effects of introgressed Neanderthal alleles on present-day brain morphology",
+  "authors": "Zeloni R et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-14",
+  "source": "biorxiv",
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.14.718380v1",
+  "abstract_snippet": "370 MRI brain traits in 40k UKB. Neanderthal regulatory variants affect brain morphology. Neuropsychiatric trait connections.",
+  "score_breakdown": {
+    "autism_relevance": 2,
+    "noncoding_regulatory": 5,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 1
+  },
+  "score": 19,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Neanderthal-derived regulatory variants shape brain morphology in 40k UKB participants. 8 fine-mapped loci, polygenic effects on neuropsychiatric traits (schizophrenia, depression). Relevant as example of regulatory variant effects on brain structure at population scale."
+}

@@ -1,0 +1,23 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2024.10.01.614806",
+  "title": "Effect heterogeneity reveals complex pleiotropic effects of rare coding variants",
+  "authors": "Lu W et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-15",
+  "source": "biorxiv",
+  "url": "https://www.biorxiv.org/content/10.1101/2024.10.01.614806v3",
+  "abstract_snippet": "Systematic investigation of rare variant pleiotropy across thousands of phenotypes in biobanks.",
+  "score_breakdown": {
+    "autism_relevance": 2,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 5,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 1
+  },
+  "score": 15,
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Systematic rare variant pleiotropy analysis across biobank phenotypes. Relevant to understanding how single gene variants produce multiple phenotypic effects -- connects to question of how NDD gene variants produce variable severity and comorbidities."
+}

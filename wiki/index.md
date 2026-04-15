@@ -128,3 +128,17 @@ Master index of all wiki pages with one-line summaries.
 | 18 | INTEGRATE | [CK2alpha OCNDS variant characterization](findings/41978434.md) | FEBS J | CSNK2A1 |
 | 10 | REVIEW | Nrp2 deletion - autism/seizure behaviors (letter) | Mol Psychiatry | NRP2 |
 | 10 | REVIEW | Cytoskeletal dynamics in SZ and ASD | Biology | SHANK3 |
+
+## Daily Scan - 2026-04-15
+
+| Score | Decision | Title | Source | Genes |
+|-------|----------|-------|--------|-------|
+| 16 | INTEGRATE | [Drug-resistant early-onset epilepsy genetics](findings/41982969.md) | Transl Pediatr | KCNQ2, SCN2A |
+| 19 | INTEGRATE | [Neanderthal alleles and present-day brain morphology](findings/10_64898_2026_04_14_718380.md) | bioRxiv | - |
+| 15 | INTEGRATE | [Rare variant pleiotropy across biobank phenotypes](findings/10_1101_2024_10_01_614806.md) | bioRxiv | - |
+| 14 | REVIEW | Somatic mutation landscape from urine iPSCs (Vaccarino lab) | bioRxiv | - |
+| 12 | REVIEW | Nrp2 interneuron deletion - autism/seizure (response letter) | Mol Psychiatry | NRP2 |
+| 6 | SKIP | VR adaptive game for joint attention in ASD (tech paper) | Int J Dev Neurosci | - |
+| 4 | SKIP | Swallowing in speech-delayed children (excluded autism) | Int J Lang Commun Disord | - |
+
+*Note: FOXP1/FKH-7 (score 27), federated sc-QTL (score 30), ASD genetic architecture review (score 20), CK2α OCNDS (score 17), and EVEE (score 25) were already captured in prior scans.*
