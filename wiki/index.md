@@ -142,3 +142,20 @@ Master index of all wiki pages with one-line summaries.
 | 4 | SKIP | Swallowing in speech-delayed children (excluded autism) | Int J Lang Commun Disord | - |
 
 *Note: FOXP1/FKH-7 (score 27), federated sc-QTL (score 30), ASD genetic architecture review (score 20), CK2α OCNDS (score 17), and EVEE (score 25) were already captured in prior scans.*
+
+## Daily Scan - 2026-04-16
+
+| Score | Decision | Title | Source | Genes |
+|-------|----------|-------|--------|-------|
+| 33 | INTEGRATE | [Cis-regulatory variation in brain enhancers (PD cohort)](findings/10_64898_2026_03_15_711881.md) | bioRxiv | - |
+| 32 | INTEGRATE | [MAGEB16 epigenetic timing regulator in ASD](findings/41988164.md) | EXCLI J | MAGEB16 |
+| 21 | INTEGRATE | [SynGAP C2 domain missense mutations impair membrane diffusion](findings/41983718.md) | Protein Sci | SYNGAP1 |
+| 20 | INTEGRATE | [NeuroPathX imaging-genetics framework (ASD validated)](findings/41988634.md) | MICCAI | - |
+| 19 | INTEGRATE | [Polygenic origins of uneven NDD cognitive profiles](findings/41987674.md) | Dev Sci | - |
+| 14 | REVIEW | Regulatory logic of neuronal differentiation in Drosophila | bioRxiv | - |
+| 6 | SKIP | Social ABCs group program evaluation | Autism | - |
+| 3 | SKIP | Parental resilience and ASD behavioral profiles | Psychol Res Behav Manag | - |
+| 3 | SKIP | AVATA Cure digital therapeutics for ASD | Psychiatry Investig | - |
+| 2 | SKIP | VR adaptive game for joint attention in ASD | Int J Dev Neurosci | - |
+
+*Top pick: Sigalova et al. brain enhancer cis-regulatory variation modeling (score 33) -- methodology directly applicable to autism GWAS noncoding loci. Also notable: MAGEB16 paper (score 32) proposes X-linked epigenetic timing mechanism for ASD susceptibility.*

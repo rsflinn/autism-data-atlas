@@ -20,63 +20,40 @@
         /* ── FULL-SCREEN LAYOUT ── */
         .page {
             display: grid;
-            grid-template-rows: auto 1fr auto;
+            grid-template-rows: auto auto 1fr;
             height: 100vh;
             width: 100vw;
         }
 
-        /* ── HEADER: compact, left-aligned ── */
+        /* ── TOP NAV BAR ── */
         .header {
             display: flex;
-            align-items: baseline;
-            justify-content: space-between;
-            padding: 0.75rem 1.5rem 0.25rem;
+            align-items: center;
+            justify-content: flex-end;
+            padding: 0.5rem 1.5rem;
             z-index: 10;
         }
-        .header h1 {
-            font-size: 1.4rem;
-            font-weight: 600;
+
+        /* ── HERO TITLE ── */
+        .hero-title {
+            text-align: center;
+            padding: 0.75rem 1.5rem 0.5rem;
+            z-index: 10;
+        }
+        .hero-title h1 {
+            font-size: 2.8rem;
+            font-weight: 700;
+            color: #e2e8f0;
+            letter-spacing: -0.025em;
+            line-height: 1.1;
+        }
+        .hero-title .subtitle {
+            font-size: 1.05rem;
+            font-weight: 300;
             color: #94a3b8;
-            letter-spacing: -0.01em;
+            margin-top: 0.4rem;
+            letter-spacing: 0.01em;
         }
-        .header h1 em {
-            font-style: normal;
-            color: #c4b5fd;
-        }
-        .source-row {
-            display: flex;
-            align-items: center;
-            gap: 1rem;
-        }
-        .source-row-label {
-            font-size: 0.6rem;
-            text-transform: uppercase;
-            letter-spacing: 0.1em;
-            color: #334155;
-            font-weight: 600;
-        }
-        .source-icon {
-            display: flex;
-            align-items: center;
-            gap: 0.3rem;
-            opacity: 0.15;
-            transition: opacity 0.4s;
-        }
-        .source-icon.lit { opacity: 0.9; }
-        .source-icon svg {
-            width: 18px;
-            height: 18px;
-            color: #64748b;
-        }
-        .source-icon.lit svg { color: #94a3b8; }
-        .source-icon span {
-            font-size: 0.65rem;
-            text-transform: uppercase;
-            letter-spacing: 0.06em;
-            color: #475569;
-            font-weight: 500;
-        }
-        .source-icon.lit span { color: #94a3b8; }
 
         /* ── PAGE NAV ── */
         .page-nav {
@@ -99,39 +76,74 @@
         .page-nav a:hover { color: #94a3b8; background: rgba(255,255,255,0.04); }
         .page-nav a.current { color: #c4b5fd; }
 
-        /* ── STATS BAR ── */
-        .stats-bar {
+        /* ── BOTTOM STATS (horizontal bar) ── */
+        .bottom-stats {
+            position: absolute;
+            bottom: 5.5rem;
+            left: 50%;
+            transform: translateX(-50%);
             display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 1.6rem;
-            padding: 0.3rem 1.5rem;
-            background: rgba(255,255,255,0.015);
-            border-bottom: 1px solid rgba(255,255,255,0.04);
-            z-index: 10;
+            gap: 2rem;
+            z-index: 5;
+            pointer-events: none;
         }
-        .stat-item {
+        .bottom-stat {
             display: flex;
             align-items: baseline;
             gap: 0.35rem;
         }
-        .stat-number {
-            font-size: 1rem;
+        .bottom-stat-num {
+            font-size: 1.15rem;
             font-weight: 700;
             color: #c4b5fd;
             font-variant-numeric: tabular-nums;
         }
-        .stat-label {
+        .bottom-stat-label {
             font-size: 0.6rem;
             text-transform: uppercase;
-            letter-spacing: 0.08em;
-            color: #475569;
+            letter-spacing: 0.1em;
+            color: #64748b;
             font-weight: 500;
         }
-        .stat-divider {
+        .bottom-stat-divider {
             width: 1px;
-            height: 14px;
-            background: rgba(255,255,255,0.06);
+            height: 16px;
+            background: rgba(255,255,255,0.08);
+            align-self: center;
+        }
+
+        /* ── VERTICAL MODE SELECTOR (between brains, upper half) ── */
+        .mode-selector {
+            position: absolute;
+            top: 38%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.2rem;
+            z-index: 6;
+            padding: 1.2rem 0.8rem;
+            background: radial-gradient(ellipse at center, rgba(8,8,12,0.92) 0%, rgba(8,8,12,0.6) 55%, transparent 80%);
+        }
+        .mode-item {
+            background: none;
+            border: none;
+            font-family: inherit;
+            font-size: 1.05rem;
+            font-weight: 500;
+            color: #475569;
+            cursor: pointer;
+            padding: 0.45rem 1rem;
+            border-radius: 4px;
+            transition: color 0.25s;
+            white-space: nowrap;
+            letter-spacing: 0.01em;
+        }
+        .mode-item:hover { color: #94a3b8; }
+        .mode-item.active {
+            color: #ffffff;
+            font-weight: 600;
         }
 
         /* ── CANVAS: fills the middle ── */
@@ -202,32 +214,32 @@
             font-weight: 300;
         }
 
-        /* ── CENTRAL METRIC ── */
+        /* ── CENTRAL METRIC (below mode selector) ── */
         .center-metric {
             position: absolute;
-            top: 40%;
+            top: 58%;
             left: 50%;
-            transform: translate(-50%, -50%);
+            transform: translateX(-50%);
             text-align: center;
             pointer-events: none;
             z-index: 5;
-            padding: 2rem 3.5rem;
+            padding: 1rem 2.5rem;
             background: radial-gradient(ellipse at center, rgba(8,8,12,0.85) 0%, rgba(8,8,12,0.5) 50%, transparent 75%);
         }
         .center-metric .big-number {
-            font-size: 3.6rem;
+            font-size: 3rem;
             font-weight: 700;
             color: #ffffff;
             line-height: 1;
             letter-spacing: -0.02em;
         }
         .center-metric .big-label {
-            font-size: 0.9rem;
+            font-size: 0.8rem;
             font-weight: 500;
             color: #c4b5fd;
             text-transform: uppercase;
             letter-spacing: 0.12em;
-            margin-top: 0.35rem;
+            margin-top: 0.3rem;
         }
         .info-overlay .pruning-slider {
             pointer-events: auto;
@@ -256,39 +268,7 @@
             transition: opacity 1.5s;
         }
 
-        /* ── BOTTOM BAR: controls ── */
-        .bottom-bar {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            gap: 0.4rem;
-            padding: 0.5rem 1rem;
-            background: #0c0c12;
-            border-top: 1px solid rgba(255,255,255,0.04);
-            z-index: 10;
-        }
-        .ctrl-btn {
-            background: transparent;
-            border: 1px solid rgba(255,255,255,0.06);
-            color: #64748b;
-            padding: 0.55rem 1rem;
-            border-radius: 4px;
-            font-family: inherit;
-            font-size: 0.85rem;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.25s;
-            letter-spacing: 0.01em;
-        }
-        .ctrl-btn:hover {
-            background: rgba(255,255,255,0.04);
-            color: #94a3b8;
-        }
-        .ctrl-btn.active {
-            background: rgba(96, 165, 250, 0.12);
-            border-color: rgba(96, 165, 250, 0.3);
-            color: #93c5fd;
-        }
+        /* bottom-bar removed — mode selector is now vertical between brains */
 
         /* ── RESEARCH DRAWER ── */
         .research-toggle {
@@ -467,10 +447,8 @@
 
 <div class="page">
 
-    <!-- HEADER ROW -->
+    <!-- TOP NAV -->
     <div class="header">
-        <h1><em>Autism Brain Explorer</em></h1>
-        <div style="display:flex; align-items:center; gap:1rem;">
         <nav class="page-nav">
             <a href="brain-explorer.html" class="current">Brain</a>
             <a href="index.html#datasets">Datasets</a>
@@ -478,52 +456,13 @@
             <a href="index.html#getting-started">Guide</a>
             <a href="index.html#about">About</a>
         </nav>
-        <button class="research-toggle" id="researchBtn" onclick="toggleDrawer()">Research Feed</button>
-        <div class="source-row" id="sourceBar">
-            <span class="source-row-label">Evidence</span>
-            <div class="source-icon lit" data-source="postmortem" title="Postmortem brain tissue">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="14" cy="14" r="10"/><path d="M14 4C10 8 8 11 8 14s2 6 6 10"/><path d="M14 4c4 4 6 7 6 10s-2 6-6 10"/><line x1="4" y1="14" x2="24" y2="14"/></svg>
-                <span>Tissue</span>
-            </div>
-            <div class="source-icon lit" data-source="child" title="Children">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="14" cy="7" r="3.5"/><path d="M8 26l2-10h8l2 10"/><line x1="14" y1="11" x2="14" y2="16"/><line x1="9" y1="13" x2="19" y2="13"/></svg>
-                <span>Children</span>
-            </div>
-            <div class="source-icon" data-source="adult" title="Adults">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="14" cy="6" r="3.5"/><path d="M8 27l2-11h8l2 11"/><line x1="14" y1="10" x2="14" y2="16"/><line x1="7" y1="13" x2="21" y2="13"/></svg>
-                <span>Adults</span>
-            </div>
-            <div class="source-icon" data-source="mouse" title="Mouse models">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><ellipse cx="14" cy="16" rx="7" ry="5"/><circle cx="8" cy="11" r="3"/><circle cx="20" cy="11" r="3"/><circle cx="12" cy="15" r="0.8" fill="currentColor"/><circle cx="16" cy="15" r="0.8" fill="currentColor"/><path d="M21 17Q26 18 27 16"/></svg>
-                <span>Mouse</span>
-            </div>
-            <div class="source-icon" data-source="organoid" title="Lab-grown brain cells">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><ellipse cx="14" cy="18" rx="10" ry="4"/><path d="M4 18C4 12 24 12 24 18"/><circle cx="11" cy="16" r="1.5"/><circle cx="16" cy="15" r="1"/></svg>
-                <span>Organoid</span>
-            </div>
-            <div class="source-icon" data-source="fetal" title="Prenatal data">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M18 8c0-3-4-4-6-2s-3 6-2 9 3 4 5 3 3-3 2-6"/><circle cx="13.5" cy="8.5" r="2.5"/></svg>
-                <span>Prenatal</span>
-            </div>
-            <div class="source-icon" data-source="genetic" title="Genetic studies">
-                <svg viewBox="0 0 28 28" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M10 3c0 4 8 6 8 10s-8 6-8 10"/><path d="M18 3c0 4-8 6-8 10s8 6 8 10"/><line x1="11" y1="6" x2="17" y2="6"/><line x1="11" y1="10" x2="17" y2="10"/><line x1="11" y1="16" x2="17" y2="16"/><line x1="11" y1="20" x2="17" y2="20"/></svg>
-                <span>Genetic</span>
-            </div>
-        </div>
-        </div>
+        <button class="research-toggle" id="researchBtn" onclick="toggleDrawer()" style="margin-left:0.75rem;">Research Feed</button>
     </div>
 
-    <!-- STATS BAR -->
-    <div class="stats-bar" id="statsBar">
-        <div class="stat-item"><span class="stat-number" id="statPapers">--</span><span class="stat-label">papers</span></div>
-        <div class="stat-divider"></div>
-        <div class="stat-item"><span class="stat-number" id="statTrials">--</span><span class="stat-label">trials</span></div>
-        <div class="stat-divider"></div>
-        <div class="stat-item"><span class="stat-number" id="statGenes">--</span><span class="stat-label">genes tracked</span></div>
-        <div class="stat-divider"></div>
-        <div class="stat-item"><span class="stat-number" id="statDatasets">--</span><span class="stat-label">datasets</span></div>
-        <div class="stat-divider"></div>
-        <div class="stat-item"><span class="stat-label" id="statUpdated">last scan: --</span></div>
+    <!-- HERO TITLE -->
+    <div class="hero-title">
+        <h1>Autism Brain Explorer</h1>
+        <p class="subtitle">How autism reshapes the brain's wiring and signaling</p>
     </div>
 
     <!-- RESEARCH DRAWER -->
@@ -545,24 +484,37 @@
     <div class="canvas-area" id="canvasWrap">
         <div class="brain-label left">Typical Brain</div>
         <div class="brain-label right">Autistic Brain</div>
+
+        <!-- Mode selector between brains -->
+        <div class="mode-selector" id="modeSelector">
+            <button class="mode-item active" data-mode="connections" onclick="setMode('connections')">Connections</button>
+            <button class="mode-item" data-mode="balance" onclick="setMode('balance')">Excitatory / Inhibitory</button>
+            <button class="mode-item" data-mode="pruning" onclick="setMode('pruning')">Pruning Over Time</button>
+        </div>
+
+        <!-- Central stat -->
         <div class="center-metric" id="centerMetric">
             <div class="big-number" id="metricNumber">3x</div>
             <div class="big-label" id="metricLabel">more connections</div>
         </div>
+
+        <!-- Bottom stats (horizontal) -->
+        <div class="bottom-stats" id="bottomStats">
+            <div class="bottom-stat"><span class="bottom-stat-num" id="statPapers">--</span><span class="bottom-stat-label">Papers</span></div>
+            <div class="bottom-stat-divider"></div>
+            <div class="bottom-stat"><span class="bottom-stat-num" id="statTrials">--</span><span class="bottom-stat-label">Trials</span></div>
+            <div class="bottom-stat-divider"></div>
+            <div class="bottom-stat"><span class="bottom-stat-num" id="statGenes">--</span><span class="bottom-stat-label">Genes</span></div>
+            <div class="bottom-stat-divider"></div>
+            <div class="bottom-stat"><span class="bottom-stat-num" id="statDatasets">--</span><span class="bottom-stat-label">Datasets</span></div>
+        </div>
+
         <div class="drag-hint" id="dragHint">drag to rotate</div>
 
         <div class="info-overlay">
             <h3 id="infoTitle">Too Many Connections</h3>
-            <p id="infoText">As children grow, the brain removes connections that aren't being used -- like weeding a garden so the important plants get more sunlight. In autistic brains, this "pruning" happens less. The result is a denser tangle of wiring -- more noise, more competing signals, and a harder time picking out what matters.</p>
+            <p id="infoText">Autistic brains retain far more neural connections than typical brains. During development, unused connections are normally removed. When that pruning falls short, the extra wiring creates signal overload.</p>
         </div>
-    </div>
-
-    <!-- BOTTOM CONTROL BAR -->
-    <div class="bottom-bar">
-        <button class="ctrl-btn active" data-mode="connections" onclick="setMode('connections')">Connections</button>
-        <button class="ctrl-btn" data-mode="balance" onclick="setMode('balance')">Excitatory / Inhibitory</button>
-        <button class="ctrl-btn" data-mode="seizure" onclick="setMode('seizure')">Seizure Activity</button>
-        <button class="ctrl-btn" data-mode="pruning" onclick="setMode('pruning')">Pruning Over Time</button>
     </div>
 
 </div>
@@ -719,13 +671,6 @@ function updateStatsBar() {
     document.getElementById('statTrials').textContent = trials.length;
     document.getElementById('statGenes').textContent = geneSet.size;
     document.getElementById('statDatasets').textContent = 10 + datasets.length; // 10 curated + feed
-
-    const dates = [
-        window.PAPERS_FEED?.last_updated,
-        window.CLINICAL_FEED?.last_updated,
-        window.DATASETS_FEED?.last_updated
-    ].filter(Boolean).sort().reverse();
-    document.getElementById('statUpdated').textContent = dates.length ? 'last scan: ' + dates[0] : 'last scan: --';
 }
 
 // Initialize counts and default view
@@ -826,8 +771,6 @@ class BrainModel {
         this.buildConnections(connectionCount);
         this.pulses = [];
         this.buildPulses();
-        this.seizureIntensity = 0;
-        this.seizureWavePhase = 0;
 
         scene.add(this.group);
     }
@@ -859,7 +802,7 @@ class BrainModel {
             const mid = new THREE.Vector3().addVectors(a, b).multiplyScalar(0.25);
             const curve = new THREE.QuadraticBezierCurve3(a, mid, b);
             const pts = curve.getPoints(segs);
-            const baseColor = this.isAutistic ? new THREE.Color(0xa78bfa) : new THREE.Color(0x60a5fa);
+            const baseColor = isEx ? new THREE.Color(0xff6b2b) : new THREE.Color(0x2196f3);
             for (let j = 0; j < pts.length - 1; j++) {
                 vertices.push(pts[j].x, pts[j].y, pts[j].z, pts[j+1].x, pts[j+1].y, pts[j+1].z);
                 colors.push(baseColor.r, baseColor.g, baseColor.b, baseColor.r, baseColor.g, baseColor.b);
@@ -882,8 +825,9 @@ class BrainModel {
         const positions = new Float32Array(n * 3);
         const pColors = new Float32Array(n * 3);
         for (let i = 0; i < n; i++) {
-            this.pulses.push({ connIdx: i % this.connectionData.length, t: Math.random(), speed: 0.15 + Math.random() * 0.25 });
-            const c = this.isAutistic ? new THREE.Color(0xc4b5fd) : new THREE.Color(0x93c5fd);
+            const cIdx = i % this.connectionData.length;
+            this.pulses.push({ connIdx: cIdx, t: Math.random(), speed: 0.15 + Math.random() * 0.25 });
+            const c = this.connectionData[cIdx].isExcitatory ? new THREE.Color(0xffaa44) : new THREE.Color(0x44bbff);
             pColors[i*3] = c.r; pColors[i*3+1] = c.g; pColors[i*3+2] = c.b;
         }
         const geo = new THREE.BufferGeometry();
@@ -902,22 +846,14 @@ class BrainModel {
         let idx = 0;
         for (let i = 0; i < this.connectionData.length; i++) {
             const conn = this.connectionData[i];
-            let color;
-            if (this.mode === 'balance') {
-                color = conn.isExcitatory ? new THREE.Color(0xff6b2b) : new THREE.Color(0x2196f3);
-            } else if (this.mode === 'seizure' && this.isAutistic) {
-                const flash = Math.sin(this.seizureWavePhase + i * 0.3) * 0.5 + 0.5;
-                color = new THREE.Color().setHSL(0.0 + flash * 0.08, 0.9, 0.4 + flash * 0.4);
-            } else {
-                color = this.isAutistic ? new THREE.Color(0xa78bfa) : new THREE.Color(0x60a5fa);
-            }
+            const color = conn.isExcitatory ? new THREE.Color(0xff6b2b) : new THREE.Color(0x2196f3);
             for (let j = 0; j < segs; j++) {
                 c.setXYZ(idx++, color.r, color.g, color.b);
                 c.setXYZ(idx++, color.r, color.g, color.b);
             }
         }
         c.needsUpdate = true;
-        this.connectionMesh.material.opacity = this.mode === 'balance' ? 0.7 : this.mode === 'seizure' && this.isAutistic ? 0.6 + this.seizureIntensity * 0.3 : 0.4;
+        this.connectionMesh.material.opacity = 0.55;
     }
 
     updatePulses(time, dt) {
@@ -926,21 +862,11 @@ class BrainModel {
         const col = this.pulseMesh.geometry.attributes.color;
         for (let i = 0; i < this.pulses.length; i++) {
             const p = this.pulses[i];
-            let speed = p.speed;
-            if (this.mode === 'seizure' && this.isAutistic) speed *= (1 + this.seizureIntensity * 3);
-            p.t += speed * dt;
+            p.t += p.speed * dt;
             if (p.t > 1) { p.t -= 1; p.connIdx = Math.floor(Math.random() * this.connectionData.length); }
             const pt = this.connectionData[p.connIdx].curve.getPoint(p.t);
             pos.setXYZ(i, pt.x, pt.y, pt.z);
-            let c;
-            if (this.mode === 'balance') {
-                c = this.connectionData[p.connIdx].isExcitatory ? new THREE.Color(0xffaa44) : new THREE.Color(0x44bbff);
-            } else if (this.mode === 'seizure' && this.isAutistic) {
-                const flash = Math.sin(time * 8 + i) * 0.5 + 0.5;
-                c = new THREE.Color().setHSL(0.05, 1, 0.5 + flash * 0.5);
-            } else {
-                c = this.isAutistic ? new THREE.Color(0xc4b5fd) : new THREE.Color(0x93c5fd);
-            }
+            const c = this.connectionData[p.connIdx].isExcitatory ? new THREE.Color(0xffaa44) : new THREE.Color(0x44bbff);
             col.setXYZ(i, c.r, c.g, c.b);
         }
         pos.needsUpdate = true;
@@ -948,12 +874,6 @@ class BrainModel {
     }
 
     update(time, dt) {
-        if (this.mode === 'seizure' && this.isAutistic) {
-            this.seizureIntensity = Math.min(1, this.seizureIntensity + dt * 0.5);
-            this.seizureWavePhase += dt * 6;
-        } else {
-            this.seizureIntensity = Math.max(0, this.seizureIntensity - dt * 2);
-        }
         this.updateColors();
         this.updatePulses(time, dt);
     }
@@ -1000,29 +920,19 @@ wrap.addEventListener('touchend', () => isDragging = false);
 const modeInfo = {
     connections: {
         title: 'Too Many Connections',
-        text: 'As children grow, the brain removes connections that aren\'t being used -- like weeding a garden so the important plants get more sunlight. In autistic brains, this "pruning" happens less. The result is a denser tangle of wiring -- more noise, more competing signals, and a harder time picking out what matters.',
-        sources: ['postmortem', 'child'],
+        text: 'Autistic brains retain far more neural connections than typical brains. During development, unused connections are normally removed. When that pruning falls short, the extra wiring creates signal overload.',
         metricNumber: '3x',
         metricLabel: 'more connections',
     },
     balance: {
-        title: 'Excitatory vs. Inhibitory Signals',
-        text: '"Fire" signals (orange) tell the next cell to activate. "Don\'t fire" signals (blue) tell it to stay quiet. A healthy brain keeps these balanced. In autistic brains, there\'s often too much "fire" and not enough "don\'t fire" -- sounds feel louder, lights feel brighter, and filtering out background noise becomes harder.',
-        sources: ['mouse', 'organoid', 'postmortem', 'adult'],
+        title: 'Excitatory vs. Inhibitory',
+        text: 'Orange signals tell neurons to fire. Blue signals tell them to stop. Typical brains run about 70% excitatory. Autistic brains skew closer to 90%, leaving fewer brakes on the system. That imbalance can make sensory input overwhelming.',
         metricNumber: '90%',
         metricLabel: 'excitatory vs 70% typical',
     },
-    seizure: {
-        title: 'When Signals Overwhelm',
-        text: 'About 1 in 3 autistic people develop epilepsy. When too many brain cells send "fire" signals at once with nothing to stop them, it creates an electrical storm -- a seizure. The same wiring differences that contribute to autism also make seizures more likely.',
-        sources: ['child', 'adult', 'genetic'],
-        metricNumber: '1 in 3',
-        metricLabel: 'develop epilepsy',
-    },
     pruning: {
-        title: 'How Pruning Changes Over Time',
-        text: 'All brains start incredibly "bushy." As children grow, unused connections are removed, strengthening the ones that remain -- like a sculptor chipping away marble. In autistic brains, the sculptor removes less. Drag the slider to see how wiring changes at each stage.',
-        sources: ['postmortem', 'child', 'fetal', 'organoid'],
+        title: 'Pruning Over Time',
+        text: 'Every brain starts dense with connections. Development trims the excess, strengthening what remains. In autistic brains, less gets cut. Use the slider to compare how wiring changes from infancy through adolescence.',
         metricNumber: '3x',
         metricLabel: 'more connections',
     },
@@ -1037,7 +947,7 @@ function setMode(mode) {
     currentMode = mode;
     typicalBrain.mode = mode;
     autisticBrain.mode = mode;
-    document.querySelectorAll('.ctrl-btn').forEach(btn => btn.classList.toggle('active', btn.dataset.mode === mode));
+    document.querySelectorAll('.mode-item').forEach(btn => btn.classList.toggle('active', btn.dataset.mode === mode));
 
     const info = modeInfo[mode];
     document.getElementById('infoTitle').textContent = info.title;
@@ -1056,10 +966,6 @@ function setMode(mode) {
             autisticBrain.setConnectionCount(120);
         }
     }
-
-    document.querySelectorAll('.source-icon').forEach(icon => {
-        icon.classList.toggle('lit', info.sources.includes(icon.dataset.source));
-    });
 }
 
 const pruningMetrics = [

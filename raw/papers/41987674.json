@@ -1,0 +1,23 @@
+{
+  "pmid": "41987674",
+  "title": "Genetic Origin of Uneven Cognitive Profiles in Heritable NDDs",
+  "authors": "Kohli M et al.",
+  "journal": "Dev Sci",
+  "date": "2026-05",
+  "source": "pubmed",
+  "doi": "10.1111/desc.70186",
+  "url": "https://doi.org/10.1111/desc.70186",
+  "abstract": "Computational model of how polygenic effects produce uneven NDD cognitive profiles.",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Computational model of how polygenic effects on shared neural substrate produce uneven NDD cognitive profiles."
+}

@@ -1,0 +1,25 @@
+{
+  "pmid": "41983718",
+  "title": "Missense mutations on SynGAP C2 domain impair membrane diffusion",
+  "authors": "Miotto M et al.",
+  "journal": "Protein Sci",
+  "date": "2026-05",
+  "source": "pubmed",
+  "doi": "10.1002/pro.70574",
+  "url": "https://doi.org/10.1002/pro.70574",
+  "abstract": "MD simulations show SYNGAP1 C2 domain missense mutations impair membrane binding dynamics.",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 3,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "MD simulations show pathogenic SYNGAP1 C2 domain missense mutations impair membrane binding dynamics."
+}
