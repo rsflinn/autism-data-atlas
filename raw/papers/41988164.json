@@ -1,0 +1,25 @@
+{
+  "pmid": "41988164",
+  "title": "MAGEB16 as an epigenetic timing regulator linking X-chromosome biology to neurodevelopmental vulnerability in ASD",
+  "authors": "Gaspar JA et al.",
+  "journal": "EXCLI J",
+  "date": "2026-03-06",
+  "source": "pubmed",
+  "doi": "10.17179/excli2026-9338",
+  "url": "https://doi.org/10.17179/excli2026-9338",
+  "abstract": "Integrative analysis proposes MAGEB16 as X-linked epigenetic susceptibility factor for ASD via DNA methylation-regulated developmental timing.",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "MAGEB16"
+  ],
+  "summary": "Proposes MAGEB16 as X-linked epigenetic susceptibility factor for ASD via DNA methylation-regulated developmental timing."
+}

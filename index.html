@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Autism Data Atlas - Genetics Research Database</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
     <style>
         * {
             margin: 0;
@@ -587,6 +588,18 @@
         .feed-search:focus { outline: none; border-color: var(--color-perturbation); }
         .feed-search::placeholder { color: var(--text-muted); }
         .feed-list { display: flex; flex-direction: column; gap: 0.75rem; }
+        .feed-section-label {
+            font-size: 0.75rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-muted);
+            padding: 1.5rem 0 0.5rem;
+            border-bottom: 1px solid var(--border-color);
+            margin-bottom: 0.25rem;
+        }
+        .feed-section-label:first-child { padding-top: 0; }
+        .feed-section-label .section-count { opacity: 0.6; font-weight: 400; }
         .feed-card {
             background: var(--bg-secondary);
             border: 1px solid var(--border-color);
@@ -595,6 +608,14 @@
             transition: border-color 0.2s;
         }
         .feed-card:hover { border-color: var(--color-perturbation); }
+        .feed-card.relevance-critical {
+            border-left: 3px solid #ef4444;
+            background: rgba(239,68,68,0.03);
+        }
+        .feed-card.relevance-high {
+            border-left: 3px solid #f97316;
+            background: rgba(249,115,22,0.03);
+        }
         .feed-card-title {
             font-size: 1rem;
             font-weight: 600;
@@ -656,6 +677,122 @@
         .status-active { background: rgba(59,130,246,0.15); color: #3b82f6; }
         .status-completed { background: rgba(148,163,184,0.15); color: #94a3b8; }
 
+        /* Dashboard Panels (Research Feed + Datasets) */
+        .dash-panel {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 1.25rem;
+            margin-bottom: 2rem;
+            padding: 1.25rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 0.75rem;
+        }
+        @media (max-width: 640px) { .dash-panel { grid-template-columns: 1fr; } }
+        .dash-stat-row {
+            display: flex;
+            gap: 1.25rem;
+            margin-bottom: 1.5rem;
+        }
+        .dash-stat {
+            flex: 1;
+            text-align: center;
+            padding: 1rem 0.5rem;
+            background: var(--bg-tertiary);
+            border-radius: 0.5rem;
+            border: 1px solid var(--border-color);
+        }
+        .dash-stat-num {
+            font-size: 2rem;
+            font-weight: 700;
+            line-height: 1.1;
+            color: var(--text-primary);
+        }
+        .dash-stat-num.accent-blue { color: var(--color-perturbation); }
+        .dash-stat-num.accent-purple { color: var(--color-postmortem); }
+        .dash-stat-num.accent-green { color: var(--color-developmental); }
+        .dash-stat-num.accent-orange { color: var(--color-genetic); }
+        .dash-stat-label {
+            font-size: 0.6875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-muted);
+            margin-top: 0.25rem;
+        }
+        .dash-chart-wrap {
+            position: relative;
+            height: 160px;
+        }
+        .dash-chart-title {
+            font-size: 0.6875rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            color: var(--text-muted);
+            margin-bottom: 0.5rem;
+        }
+        .dash-gene-bar {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 0.375rem;
+        }
+        .dash-gene-label {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.6875rem;
+            color: var(--color-perturbation);
+            width: 60px;
+            text-align: right;
+            flex-shrink: 0;
+        }
+        .dash-gene-track {
+            flex: 1;
+            height: 14px;
+            background: var(--bg-primary);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .dash-gene-fill {
+            height: 100%;
+            border-radius: 3px;
+            background: var(--color-perturbation);
+            transition: width 0.4s ease;
+        }
+        .dash-gene-count {
+            font-size: 0.6875rem;
+            color: var(--text-muted);
+            width: 20px;
+        }
+        /* Datasets dashboard stat pills */
+        .ds-dash-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+        }
+        .ds-dash-pill {
+            display: flex;
+            align-items: center;
+            gap: 0.375rem;
+            padding: 0.375rem 0.75rem;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 2rem;
+            font-size: 0.8125rem;
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .ds-dash-pill:hover { border-color: var(--color-perturbation); }
+        .ds-dash-pill .pill-dot {
+            width: 8px;
+            height: 8px;
+            border-radius: 50%;
+            flex-shrink: 0;
+        }
+        .ds-dash-pill .pill-count {
+            font-weight: 600;
+        }
+
         /* Getting Started Section */
         .guide-section {
             margin-bottom: 3rem;
@@ -675,8 +812,36 @@
         }
 
         .guide-subsection {
-            margin-bottom: 2rem;
+            margin-bottom: 0;
         }
+        .accordion-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            cursor: pointer;
+            padding: 0.875rem 0;
+            border-bottom: 1px solid var(--border-color);
+            transition: color 0.2s;
+        }
+        .accordion-header:hover { color: var(--color-perturbation); }
+        .accordion-chevron { transition: transform 0.2s; font-size: 0.7rem; color: var(--text-muted); margin-left: 1rem; flex-shrink: 0; }
+        .accordion-header.open .accordion-chevron { transform: rotate(90deg); }
+        .accordion-body { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
+        .accordion-body.open { max-height: 500px; }
+        .accordion-body .guide-text { padding-top: 0.75rem; }
+        .code-details { margin: 0.75rem 0; }
+        .code-details summary {
+            cursor: pointer;
+            color: var(--color-perturbation);
+            font-size: 0.875rem;
+            padding: 0.5rem 0;
+            user-select: none;
+            list-style: none;
+        }
+        .code-details summary::-webkit-details-marker { display: none; }
+        .code-details summary::before { content: '▶ '; font-size: 0.7rem; margin-right: 0.25rem; }
+        .code-details[open] summary::before { content: '▼ '; }
+        .code-details summary:hover { color: #60a5fa; }
 
         .guide-heading {
             font-size: 1.125rem;
@@ -838,10 +1003,10 @@
                 <div class="logo-subtitle">An open source genetics research database</div>
                 <nav id="nav">
                     <button class="nav-button active" data-section="brain-explorer">Brain Explorer</button>
+                    <button class="nav-button" data-section="getting-started">Getting Started</button>
                     <button class="nav-button" data-section="timeline">Timeline</button>
                     <button class="nav-button" data-section="datasets">Datasets</button>
                     <button class="nav-button" data-section="research">Research</button>
-                    <button class="nav-button" data-section="getting-started">Getting Started</button>
                     <button class="nav-button" data-section="about">About</button>
                 </nav>
             </div>
@@ -880,9 +1045,22 @@
             <section id="datasets" class="section">
                 <div class="section-content">
                     <div class="max-width">
-                        <div style="margin-bottom: 2rem;">
+                        <div style="margin-bottom: 1rem;">
                             <h1 style="font-size: 1.875rem; font-weight: 700; margin-bottom: 0.5rem;">Datasets</h1>
-                            <p style="color: var(--text-muted); font-size: 1rem;">Browse and filter research datasets for autism genetics</p>
+                            <p style="color: var(--text-muted); font-size: 0.9375rem;">Curated catalog of public and controlled-access datasets for autism genetics research. Filter by category, access level or organism to find data for your analysis.</p>
+                        </div>
+
+                        <!-- Datasets Dashboard -->
+                        <div class="dash-stat-row" id="dsStats"></div>
+                        <div class="dash-panel" id="dsDash">
+                            <div>
+                                <div class="dash-chart-title">Datasets by Category</div>
+                                <div class="dash-chart-wrap"><canvas id="dsCategoryChart"></canvas></div>
+                            </div>
+                            <div>
+                                <div class="dash-chart-title">Access Level Breakdown</div>
+                                <div class="dash-chart-wrap"><canvas id="dsAccessChart"></canvas></div>
+                            </div>
                         </div>
 
                         <div class="datasets-toolbar">
@@ -948,6 +1126,19 @@
                             </div>
                             <div class="research-updated" id="feedUpdated"></div>
                         </div>
+                        <!-- Research Feed Dashboard -->
+                        <div class="dash-stat-row" id="feedStats"></div>
+                        <div class="dash-panel" id="feedDash">
+                            <div>
+                                <div class="dash-chart-title">Papers by Source</div>
+                                <div class="dash-chart-wrap"><canvas id="feedSourceChart"></canvas></div>
+                            </div>
+                            <div>
+                                <div class="dash-chart-title">Most-Mentioned Genes</div>
+                                <div id="feedGeneBar"></div>
+                            </div>
+                        </div>
+
                         <div class="feed-tabs" id="feedTabs">
                             <button class="feed-tab active" data-feed="papers">Papers <span class="count" id="papersCount"></span></button>
                             <button class="feed-tab" data-feed="trials">Clinical Trials <span class="count" id="trialsCount"></span></button>
@@ -966,6 +1157,12 @@
                         <div class="guide-section">
                             <h1 class="guide-title">Getting Started with Autism Genetics Data</h1>
                             <p class="guide-subtitle">A practical guide for citizen scientists, parents, students and independent researchers</p>
+                            <div style="display:flex;gap:0.75rem;flex-wrap:wrap;margin-top:1.25rem;">
+                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">Data Types</span>
+                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">File Formats</span>
+                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">Tools Setup</span>
+                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">Key Databases</span>
+                            </div>
                         </div>
 
                         <div class="guide-section">
@@ -982,53 +1179,91 @@
                         <div class="guide-section">
                             <h2 class="guide-heading">File Formats You'll Encounter</h2>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">VCF (Variant Call Format)</strong>
-                                <p class="guide-text">A text file listing every place someone's DNA differs from the reference genome. Each row = one variant. Columns = chromosome, position, reference allele, alternate allele, quality scores, and sample-level information. Opens with <code>pysam</code> in Python or <code>bcftools</code> on the command line.</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">VCF (Variant Call Format)</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">A text file listing every place someone's DNA differs from the reference genome. Each row = one variant. Columns = chromosome, position, reference allele, alternate allele, quality scores, and sample-level information. Opens with <code>pysam</code> in Python or <code>bcftools</code> on the command line.</p>
+                                </div>
                             </div>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">H5AD</strong>
-                                <p class="guide-text">The standard format for single-cell RNA-seq data. Stores a matrix where rows = cells and columns = genes, plus metadata about each cell (cell type, donor, condition, etc.). Opens with <code>scanpy</code> in Python. Usually compressed to gigabyte-scale files.</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">H5AD</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">The standard format for single-cell RNA-seq data. Stores a matrix where rows = cells and columns = genes, plus metadata about each cell (cell type, donor, condition, etc.). Opens with <code>scanpy</code> in Python. Usually compressed to gigabyte-scale files.</p>
+                                </div>
                             </div>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">FASTQ</strong>
-                                <p class="guide-text">Raw sequencing reads from the sequencer. You almost never need these unless you're reprocessing data from scratch. Each read is 4 lines: identifier, sequence, separator, and quality scores. Files are huge (10–100 GB per sample).</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">FASTQ</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">Raw sequencing reads from the sequencer. You almost never need these unless you're reprocessing data from scratch. Each read is 4 lines: identifier, sequence, separator, and quality scores. Files are huge (10-100 GB per sample).</p>
+                                </div>
                             </div>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">GZ / BGZ</strong>
-                                <p class="guide-text">Compressed files. Most genomic data lives compressed. Python's <code>gzip</code> library or pandas can read them directly without decompressing to disk.</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">GZ / BGZ</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">Compressed files. Most genomic data lives compressed. Python's <code>gzip</code> library or pandas can read them directly without decompressing to disk.</p>
+                                </div>
                             </div>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">TSV / CSV</strong>
-                                <p class="guide-text">Tab or comma separated text. The friendliest format. Opens in Excel, Google Sheets, pandas, R, or any text editor. Most supplementary tables from papers arrive as TSV or CSV.</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">TSV / CSV</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">Tab or comma separated text. The friendliest format. Opens in Excel, Google Sheets, pandas, R, or any text editor. Most supplementary tables from papers arrive as TSV or CSV.</p>
+                                </div>
                             </div>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">BED</strong>
-                                <p class="guide-text">Genomic coordinates. Three columns minimum: chromosome, start position, end position. Used for regulatory elements, peaks, regions of interest. Often extended with additional columns for scores or metadata.</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">BED</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">Genomic coordinates. Three columns minimum: chromosome, start position, end position. Used for regulatory elements, peaks, regions of interest. Often extended with additional columns for scores or metadata.</p>
+                                </div>
                             </div>
                             <div class="guide-subsection">
-                                <strong style="color: var(--text-primary);">XLSX</strong>
-                                <p class="guide-text">Excel files. Common for supplementary tables in papers. Opens with <code>openpyxl</code> or <code>pandas</code> in Python.</p>
+                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
+                                    <strong style="color: var(--text-primary);">XLSX</strong>
+                                    <span class="accordion-chevron">▶</span>
+                                </div>
+                                <div class="accordion-body">
+                                    <p class="guide-text">Excel files. Common for supplementary tables in papers. Opens with <code>openpyxl</code> or <code>pandas</code> in Python.</p>
+                                </div>
                             </div>
                         </div>
 
                         <div class="guide-section">
                             <h2 class="guide-heading">Setting Up Your Environment</h2>
-                            <p class="guide-text">You need Python 3.9 or later. Install a few essential packages:</p>
-                            <div class="code-block">pip install pandas numpy scanpy anndata openpyxl GEOparse requests
-                            </div>
-                            <p class="guide-text">For variant analysis, add:</p>
-                            <div class="code-block">pip install pysam pyliftover vcf
-                            </div>
-                            <p class="guide-text">For plotting:</p>
-                            <div class="code-block">pip install matplotlib seaborn plotly
-                            </div>
+                            <p class="guide-text">You need Python 3.9 or later.</p>
+                            <details class="code-details">
+                                <summary>View install commands</summary>
+                                <p class="guide-text">Core packages:</p>
+                                <div class="code-block">pip install pandas numpy scanpy anndata openpyxl GEOparse requests</div>
+                                <p class="guide-text">For variant analysis:</p>
+                                <div class="code-block">pip install pysam pyliftover vcf</div>
+                                <p class="guide-text">For plotting:</p>
+                                <div class="code-block">pip install matplotlib seaborn plotly</div>
+                            </details>
                             <p class="guide-text">For interactive exploration, we recommend <a href="https://jupyter.org/" target="_blank">Jupyter notebooks</a>. If you want zero setup, use <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>.</p>
                         </div>
 
                         <div class="guide-section">
                             <h2 class="guide-heading">Your First Analysis</h2>
-                            <p class="guide-text">Let's walk through downloading a real dataset from GEO: GSE28521, a microarray study comparing cortical gene expression in people with and without autism. It's fully public, small enough to handle on a laptop, and published in a peer-reviewed journal.</p>
-                            <div class="code-block">import GEOparse
+                            <p class="guide-text">Let's walk through downloading a real dataset from GEO: GSE28521, a microarray study comparing cortical gene expression in people with and without autism. Fully public, laptop-sized, peer-reviewed.</p>
+                            <details class="code-details">
+                                <summary>View example code</summary>
+                                <div class="code-block">import GEOparse
 import pandas as pd
 
 # Download the dataset
@@ -1046,9 +1281,9 @@ print(expression.shape)  # (number of genes, number of samples)
 phenotypes = pd.DataFrame({
     sample: gse.gsms[sample].metadata
     for sample in gse.metadata['sample_ids']
-}).T
-                            </div>
-                            <p class="guide-text">Now you have the expression data and sample metadata. You could compare gene expression between autism and control samples, look for patterns using dimensionality reduction, or cross-reference your findings with genetic databases.</p>
+}).T</div>
+                            </details>
+                            <p class="guide-text">Once loaded, you can compare gene expression between autism and control samples, look for patterns using dimensionality reduction, or cross-reference findings with genetic databases.</p>
                         </div>
 
                         <div class="guide-section">
@@ -1125,8 +1360,13 @@ phenotypes = pd.DataFrame({
         let datasetsData = [];
         let expandedDatasetId = null;
 
-        // Load datasets from JSON file
+        // Load datasets from global variable (works on file://) or fetch as fallback
         async function loadDatasets() {
+            if (window.DATASETS_CATALOG && Array.isArray(window.DATASETS_CATALOG)) {
+                datasetsData = window.DATASETS_CATALOG;
+                renderDatasets();
+                return;
+            }
             try {
                 const response = await fetch('datasets.json');
                 if (response.ok) {
@@ -1490,7 +1730,6 @@ phenotypes = pd.DataFrame({
         window.addEventListener('hashchange', navigateToHash);
 
         // Initialize
-        loadDatasets();
         navigateToHash();
     </script>
 
@@ -1498,6 +1737,12 @@ phenotypes = pd.DataFrame({
     <script src="papers_feed.js"></script>
     <script src="clinical_feed.js"></script>
     <script src="datasets_feed.js"></script>
+    <script src="datasets_catalog.js"></script>
+
+    <script>
+        // Load datasets after catalog script is available
+        loadDatasets();
+    </script>
 
     <script>
         // Research Feed rendering
@@ -1549,17 +1794,22 @@ phenotypes = pd.DataFrame({
             }
 
             function renderPaperCard(p) {
-                const genes = (p.genes_mentioned || []).map(g =>
+                var rel = (p.relevance || '').toUpperCase();
+                var relClass = rel === 'CRITICAL' ? ' relevance-critical' : rel === 'HIGH' ? ' relevance-high' : '';
+                var geneList = p.genes_mentioned || [];
+                var maxGenes = relClass ? geneList.length : 3;
+                var shownGenes = geneList.slice(0, maxGenes).map(g =>
                     '<span class="gene-chip">' + esc(g) + '</span>'
                 ).join('');
+                if (geneList.length > maxGenes) shownGenes += '<span class="gene-chip" style="opacity:0.5">+' + (geneList.length - maxGenes) + '</span>';
                 const sc = typeof p.score === 'number'
                     ? '<span class="feed-score ' + scoreClass(p.score) + '">' + p.score + '</span>'
                     : '';
-                return '<div class="feed-card">' +
+                return '<div class="feed-card' + relClass + '">' +
                     '<div class="feed-card-title"><a href="' + esc(p.url || p.doi ? 'https://doi.org/' + p.doi : '#') + '" target="_blank">' + esc(p.title) + '</a></div>' +
                     '<div class="feed-card-meta">' + sc + esc(p.authors || '') + (p.journal ? ' &middot; ' + esc(p.journal) : '') + (p.date ? ' &middot; ' + esc(p.date) : '') + '</div>' +
                     '<div class="feed-card-summary">' + esc(p.summary || '') + '</div>' +
-                    (genes ? '<div class="feed-card-genes">' + genes + '</div>' : '') +
+                    (shownGenes ? '<div class="feed-card-genes">' + shownGenes + '</div>' : '') +
                 '</div>';
             }
 
@@ -1599,9 +1849,21 @@ phenotypes = pd.DataFrame({
                 let items, html;
                 if (activeFeed === 'papers') {
                     items = getPapers().filter(matchesSearch);
-                    html = items.length
-                        ? items.map(renderPaperCard).join('')
-                        : '<div class="feed-empty">No papers found' + (feedSearchTerm ? ' matching "' + esc(feedSearchTerm) + '"' : '') + '</div>';
+                    if (items.length) {
+                        var critical = items.filter(function(p) { var r = (p.relevance||'').toUpperCase(); return r === 'CRITICAL' || r === 'HIGH'; });
+                        var standard = items.filter(function(p) { var r = (p.relevance||'').toUpperCase(); return r !== 'CRITICAL' && r !== 'HIGH'; });
+                        html = '';
+                        if (critical.length) {
+                            html += '<div class="feed-section-label">Priority <span class="section-count">(' + critical.length + ')</span></div>';
+                            html += critical.map(renderPaperCard).join('');
+                        }
+                        if (standard.length) {
+                            html += '<div class="feed-section-label">All Papers <span class="section-count">(' + standard.length + ')</span></div>';
+                            html += standard.map(renderPaperCard).join('');
+                        }
+                    } else {
+                        html = '<div class="feed-empty">No papers found' + (feedSearchTerm ? ' matching "' + esc(feedSearchTerm) + '"' : '') + '</div>';
+                    }
                 } else if (activeFeed === 'trials') {
                     items = getTrials().filter(matchesSearch);
                     html = items.length
@@ -1658,8 +1920,218 @@ phenotypes = pd.DataFrame({
             }
 
             // Initial render (delayed slightly to ensure feed JS files are loaded)
-            setTimeout(renderFeed, 100);
+            setTimeout(function() {
+                renderFeed();
+                buildFeedDashboard();
+            }, 150);
         })();
+
+        /* ── Research Feed Dashboard ── */
+        function buildFeedDashboard() {
+            var papers = (window.PAPERS_FEED && window.PAPERS_FEED.papers) || [];
+            var clinPapers = (window.CLINICAL_FEED && window.CLINICAL_FEED.papers) || [];
+            var trials = (window.CLINICAL_FEED && window.CLINICAL_FEED.trials) || [];
+            var allPapers = papers.concat(clinPapers);
+
+            // Stat row
+            var integrate = allPapers.filter(function(p) { return (p.decision||'').toUpperCase() === 'INTEGRATE'; }).length;
+            var review = allPapers.filter(function(p) { return (p.decision||'').toUpperCase() === 'REVIEW'; }).length;
+            var statsEl = document.getElementById('feedStats');
+            if (statsEl) {
+                statsEl.innerHTML =
+                    '<div class="dash-stat"><div class="dash-stat-num accent-blue">' + allPapers.length + '</div><div class="dash-stat-label">Papers</div></div>' +
+                    '<div class="dash-stat"><div class="dash-stat-num accent-green">' + integrate + '</div><div class="dash-stat-label">Integrate</div></div>' +
+                    '<div class="dash-stat"><div class="dash-stat-num accent-orange">' + review + '</div><div class="dash-stat-label">Review</div></div>' +
+                    '<div class="dash-stat"><div class="dash-stat-num accent-purple">' + trials.length + '</div><div class="dash-stat-label">Trials</div></div>';
+            }
+
+            // Source donut chart
+            var srcCounts = {};
+            allPapers.forEach(function(p) {
+                var s = (p.source || p.journal || 'unknown').toLowerCase();
+                if (s.includes('biorxiv')) s = 'bioRxiv';
+                else if (s.includes('medrxiv')) s = 'medRxiv';
+                else if (s.includes('pubmed')) s = 'PubMed';
+                else s = p.journal || 'Other';
+                srcCounts[s] = (srcCounts[s] || 0) + 1;
+            });
+            var srcLabels = Object.keys(srcCounts).sort(function(a,b) { return srcCounts[b] - srcCounts[a]; });
+            var srcData = srcLabels.map(function(k) { return srcCounts[k]; });
+            var srcColors = ['#3b82f6','#a78bfa','#06b6d4','#22c55e','#f97316','#eab308','#ef4444','#94a3b8'];
+
+            var srcCtx = document.getElementById('feedSourceChart');
+            if (srcCtx && typeof Chart !== 'undefined') {
+                new Chart(srcCtx.getContext('2d'), {
+                    type: 'doughnut',
+                    data: {
+                        labels: srcLabels,
+                        datasets: [{
+                            data: srcData,
+                            backgroundColor: srcColors.slice(0, srcLabels.length),
+                            borderWidth: 0
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        cutout: '60%',
+                        plugins: {
+                            legend: {
+                                position: 'right',
+                                labels: { color: '#94a3b8', font: { size: 11, family: 'Inter' }, padding: 10, boxWidth: 12 }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Gene frequency bars
+            var geneCounts = {};
+            allPapers.forEach(function(p) {
+                var gm = p.genes_mentioned || [];
+                if (typeof gm === 'string') gm = gm.split(',').map(function(s) { return s.trim(); }).filter(Boolean);
+                gm.forEach(function(g) {
+                    geneCounts[g] = (geneCounts[g] || 0) + 1;
+                });
+            });
+            var topGenes = Object.keys(geneCounts).sort(function(a,b) { return geneCounts[b] - geneCounts[a]; }).slice(0, 8);
+            var maxCount = topGenes.length ? geneCounts[topGenes[0]] : 1;
+            var barEl = document.getElementById('feedGeneBar');
+            var geneColors = ['#3b82f6','#a78bfa','#06b6d4','#22c55e','#f97316','#eab308','#ef4444','#ec4899'];
+            if (barEl) {
+                if (topGenes.length === 0) {
+                    barEl.innerHTML = '<div style="color:var(--text-muted);font-size:0.8125rem;padding:1rem 0;">No gene mentions in feed</div>';
+                } else {
+                    barEl.innerHTML = topGenes.map(function(g, i) {
+                        var pct = Math.round((geneCounts[g] / maxCount) * 100);
+                        var color = geneColors[i % geneColors.length];
+                        return '<div class="dash-gene-bar">' +
+                            '<span class="dash-gene-label" style="color:' + color + '">' + g + '</span>' +
+                            '<div class="dash-gene-track"><div class="dash-gene-fill" style="width:' + pct + '%;background:' + color + '"></div></div>' +
+                            '<span class="dash-gene-count">' + geneCounts[g] + '</span>' +
+                        '</div>';
+                    }).join('');
+                }
+            }
+        }
+
+        /* ── Datasets Dashboard ── */
+        var _origLoadDatasets = loadDatasets;
+        loadDatasets = async function() {
+            await _origLoadDatasets();
+            buildDatasetsDashboard();
+        };
+
+        function buildDatasetsDashboard() {
+            if (!datasetsData || !datasetsData.length) return;
+
+            // Category map with display names + colors
+            var catMeta = {
+                perturbation:      { label: 'Perturbation',     color: '#3b82f6' },
+                'patient-organoid': { label: 'Organoids',        color: '#06b6d4' },
+                postmortem:        { label: 'Postmortem',       color: '#a78bfa' },
+                'genetic-variation': { label: 'Genetic',          color: '#f97316' },
+                regulatory:        { label: 'Regulatory',       color: '#eab308' },
+                developmental:     { label: 'Developmental',    color: '#22c55e' },
+                reference:         { label: 'Reference',        color: '#94a3b8' }
+            };
+
+            // Count categories
+            var catCounts = {};
+            var accCounts = {};
+            var orgCounts = {};
+            datasetsData.forEach(function(d) {
+                var c = d.category || 'reference';
+                catCounts[c] = (catCounts[c] || 0) + 1;
+                var a = d.accessLevel || 'PUBLIC';
+                accCounts[a] = (accCounts[a] || 0) + 1;
+                var o = d.organism || 'Human';
+                orgCounts[o] = (orgCounts[o] || 0) + 1;
+            });
+
+            // Stat row
+            var statsEl = document.getElementById('dsStats');
+            if (statsEl) {
+                var publicN = accCounts['PUBLIC'] || 0;
+                var humanN = orgCounts['Human'] || 0;
+                statsEl.innerHTML =
+                    '<div class="dash-stat"><div class="dash-stat-num accent-blue">' + datasetsData.length + '</div><div class="dash-stat-label">Datasets</div></div>' +
+                    '<div class="dash-stat"><div class="dash-stat-num accent-green">' + publicN + '</div><div class="dash-stat-label">Public</div></div>' +
+                    '<div class="dash-stat"><div class="dash-stat-num accent-purple">' + Object.keys(catCounts).length + '</div><div class="dash-stat-label">Categories</div></div>' +
+                    '<div class="dash-stat"><div class="dash-stat-num accent-orange">' + humanN + '</div><div class="dash-stat-label">Human</div></div>';
+            }
+
+            // Category horizontal bar chart
+            var catLabels = Object.keys(catMeta);
+            var catData = catLabels.map(function(k) { return catCounts[k] || 0; });
+            var catColors = catLabels.map(function(k) { return catMeta[k].color; });
+            var catDisplayLabels = catLabels.map(function(k) { return catMeta[k].label; });
+
+            var catCtx = document.getElementById('dsCategoryChart');
+            if (catCtx && typeof Chart !== 'undefined') {
+                new Chart(catCtx.getContext('2d'), {
+                    type: 'bar',
+                    data: {
+                        labels: catDisplayLabels,
+                        datasets: [{
+                            data: catData,
+                            backgroundColor: catColors,
+                            borderWidth: 0,
+                            borderRadius: 3,
+                            barThickness: 16
+                        }]
+                    },
+                    options: {
+                        indexAxis: 'y',
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: { legend: { display: false } },
+                        scales: {
+                            x: {
+                                grid: { color: 'rgba(255,255,255,0.05)' },
+                                ticks: { color: '#94a3b8', font: { size: 10 }, stepSize: 1 }
+                            },
+                            y: {
+                                grid: { display: false },
+                                ticks: { color: '#e2e8f0', font: { size: 11, family: 'Inter' } }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // Access level donut
+            var accLabels = ['PUBLIC','REGISTERED','CONTROLLED','GATED'];
+            var accDisplayLabels = ['Public','Registered','Controlled','Gated'];
+            var accData = accLabels.map(function(k) { return accCounts[k] || 0; });
+            var accColors = ['#22c55e','#3b82f6','#f97316','#ef4444'];
+
+            var accCtx = document.getElementById('dsAccessChart');
+            if (accCtx && typeof Chart !== 'undefined') {
+                new Chart(accCtx.getContext('2d'), {
+                    type: 'doughnut',
+                    data: {
+                        labels: accDisplayLabels,
+                        datasets: [{
+                            data: accData,
+                            backgroundColor: accColors,
+                            borderWidth: 0
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        cutout: '60%',
+                        plugins: {
+                            legend: {
+                                position: 'right',
+                                labels: { color: '#94a3b8', font: { size: 11, family: 'Inter' }, padding: 10, boxWidth: 12 }
+                            }
+                        }
+                    }
+                });
+            }
+        }
     </script>
 </body>
 </html>

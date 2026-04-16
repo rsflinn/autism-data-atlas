@@ -1,0 +1,1842 @@
+var DATASETS_CATALOG = 
+[
+  {
+    "id": "pasca-2026-organoids",
+    "name": "Pasca/Geschwind 2026 Patient-Derived Organoids",
+    "shortName": "Pasca 2026",
+    "description": "The largest patient-derived organoid study in autism to date. Brain organoids grown from stem cells of 55 individuals carrying 8 different autism-linked mutations plus idiopathic autism (no known mutation) and healthy controls. RNA sequencing at 4 developmental timepoints (days 25, 50, 75, 100) captures how gene expression changes as the organoids mature. The study's main finding: different mutations start out looking different but converge on shared transcriptional programs over time.",
+    "whatYouCanDo": "Compare gene expression across 9 mutation groups at 4 timepoints. Test whether your gene of interest is disrupted by specific mutations. Analyze per-individual expression data (464 samples). Look for convergent vs. divergent pathways.",
+    "whatYouCant": "Access raw sequencing reads (gated in dbGaP). Distinguish cell types (bulk RNA-seq, not single-cell). Know clinical severity or comorbidities for idiopathic individuals.",
+    "citation": "Gordon A, Yoon SJ, Bicks LK, et al. Developmental convergence and divergence in human stem cell models of autism spectrum disorder. Nature. 2026.",
+    "doi": "10.1038/s41586-025-10047-5",
+    "dataType": [
+      "bulk RNA-seq",
+      "CRISPRi"
+    ],
+    "organism": "Human",
+    "sampleSize": "70 hiPS cell lines from 55 individuals",
+    "accessLevel": "REGISTERED",
+    "accessNotes": "Expression matrix and supplementary tables are public on GEO. Raw sequencing reads require dbGaP controlled access application.",
+    "primaryUrl": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271853",
+    "downloadUrls": [
+      {
+        "label": "GEO expression matrix",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE271853",
+        "format": "CSV.GZ",
+        "sizeApprox": "32 MB"
+      },
+      {
+        "label": "Supplementary tables (15 xlsx files)",
+        "url": "https://doi.org/10.1038/s41586-025-10047-5",
+        "format": "XLSX",
+        "sizeApprox": "~50 MB total"
+      }
+    ],
+    "fileFormats": [
+      "CSV",
+      "XLSX",
+      "FASTQ (dbGaP)"
+    ],
+    "genesRelevant": [
+      "CACNA1C",
+      "SHANK3",
+      "PCDH19",
+      "EP300",
+      "BCL11A",
+      "MYT1L",
+      "SCN2A",
+      "MECP2",
+      "RBBP5"
+    ],
+    "tags": [
+      "organoid",
+      "patient-derived",
+      "temporal",
+      "convergence",
+      "CRISPRi",
+      "idiopathic"
+    ],
+    "category": "perturbation",
+    "publicationYear": 2026,
+    "codeSnippet": "import pandas as pd\n\n# Load the raw expression matrix\ndf = pd.read_csv('GSE271853_datExprRaw.csv.gz', index_col=0)\nprint(f'{df.shape[0]} genes x {df.shape[1]} samples')\n# 17,963 genes x 464 samples",
+    "relatedDatasets": [
+      "paulsen-2023-choose",
+      "lipton-2024-mef2c",
+      "jin-2020-perturb-seq"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "GEO public (expression); dbGaP controlled (raw reads)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which genes are disrupted by the most mutations at the earliest timepoint (Day 25)?",
+      "Do idiopathic ASD organoids show the same expression changes as monogenic forms?",
+      "Does ion channel disruption accumulate over developmental time or appear immediately?"
+    ]
+  },
+  {
+    "id": "paulsen-2023-choose",
+    "name": "Paulsen/Li 2023 CHOOSE Organoid Screen",
+    "shortName": "CHOOSE 2023",
+    "description": "A pooled CRISPR knockout screen in human brain organoids. 36 autism risk genes were knocked out one at a time in a shared organoid, then profiled with single-cell RNA sequencing to see what each knockout does to gene expression in excitatory and inhibitory neuron lineages. Produces a massive table of 429,000 gene-level results showing how disrupting each autism gene ripples through the transcriptome.",
+    "whatYouCanDo": "Look up what happens downstream when any of 36 autism genes is knocked out. Find convergent targets (genes affected by multiple different knockouts). Build gene regulatory networks from perturbation data.",
+    "whatYouCant": "Study genes not in the 36-gene panel. See effects in non-neuronal cell types. Assess dose-dependent effects (these are complete knockouts, not partial reductions).",
+    "citation": "Paulsen B, Velasco S, Kedaigle AJ, et al. Single-cell brain organoid screening identifies developmental defects in autism. Nature. 2023;621:788-797.",
+    "doi": "10.1038/s41586-023-06473-y",
+    "dataType": [
+      "scRNA-seq",
+      "CRISPR perturbation"
+    ],
+    "organism": "Human",
+    "sampleSize": "36 gene knockouts in mosaic organoids",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Full DEG table and GRN available as supplementary data from Nature. No login required.",
+    "primaryUrl": "https://doi.org/10.1038/s41586-023-06473-y",
+    "downloadUrls": [
+      {
+        "label": "Supplementary Data 2 (full DEG table)",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06473-y/MediaObjects/41586_2023_6473_MOESM4_ESM.txt",
+        "format": "TXT (tab-delimited)",
+        "sizeApprox": "33 MB"
+      },
+      {
+        "label": "Supplementary Data 3 (GRN edges)",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06473-y/MediaObjects/41586_2023_6473_MOESM5_ESM.txt",
+        "format": "TXT",
+        "sizeApprox": "47 KB"
+      },
+      {
+        "label": "Supplementary Data 1 (gene info)",
+        "url": "https://static-content.springer.com/esm/art%3A10.1038%2Fs41586-023-06473-y/MediaObjects/41586_2023_6473_MOESM3_ESM.xlsx",
+        "format": "XLSX",
+        "sizeApprox": "13 KB"
+      }
+    ],
+    "fileFormats": [
+      "TXT",
+      "XLSX"
+    ],
+    "genesRelevant": [
+      "ADNP",
+      "ARID1B",
+      "ASH1L",
+      "CHD8",
+      "FOXP1",
+      "MECP2",
+      "MYT1L",
+      "BCL11A",
+      "TCF20",
+      "TBR1"
+    ],
+    "tags": [
+      "CRISPR",
+      "organoid",
+      "perturbation",
+      "single-cell",
+      "gene-regulatory-network"
+    ],
+    "category": "perturbation",
+    "publicationYear": 2023,
+    "codeSnippet": "import pandas as pd\n\n# Load the full perturbation DEG table\ndf = pd.read_csv('CHOOSE_DEGs.txt', sep='\\t')\nprint(f'{len(df)} rows')  # ~429,000\n\n# Filter for a specific knockout\nfoxp1_degs = df[df['perturbation'] == 'FOXP1']\nprint(f'FOXP1 KO: {len(foxp1_degs)} tested genes')",
+    "relatedDatasets": [
+      "pasca-2026-organoids",
+      "jin-2020-perturb-seq"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "CC BY 4.0 (Nature supplementary)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which downstream genes are hit by 5+ different autism gene knockouts (convergent targets)?",
+      "Does knocking out FOXP1 produce the same downstream effects as knocking out CHD8?",
+      "Are ion channel genes or synaptic genes more commonly affected across perturbations?"
+    ]
+  },
+  {
+    "id": "jin-2020-perturb-seq",
+    "name": "Jin 2020 In Vivo Perturb-Seq",
+    "shortName": "Jin 2020",
+    "description": "35 autism and neurodevelopmental risk genes knocked out in developing mouse brain using CRISPR, then profiled with single-cell RNA sequencing. Unlike organoid studies, this was done in a living brain -- guides were delivered to embryos at day 12.5 and cells were profiled at postnatal day 7. Captures effects across 5 cell types: cortical projection neurons, inhibitory neurons, astrocytes, oligodendrocytes, and microglia.",
+    "whatYouCanDo": "See what each of 35 gene knockouts does to gene expression in 5 brain cell types in vivo. Compare mouse in vivo results to human organoid results (CHOOSE, Pasca). Test convergence hypotheses in an independent system.",
+    "whatYouCant": "Directly compare mouse gene names to human (orthologs exist but expression patterns differ). Study partial regulatory effects (these are complete knockouts). Assess post-developmental effects (profiled at P7 only).",
+    "citation": "Jin X, Simmons SK, Guo X, et al. In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes. Science. 2020;370(6520):eaaz6063.",
+    "doi": "10.1126/science.aaz6063",
+    "dataType": [
+      "scRNA-seq",
+      "CRISPR perturbation",
+      "in vivo"
+    ],
+    "organism": "Mouse",
+    "sampleSize": "35 gene perturbations, 5 cell types",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Raw data on GEO (no controlled access). Also on Broad Single Cell Portal. Code on GitHub.",
+    "primaryUrl": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157977",
+    "downloadUrls": [
+      {
+        "label": "GEO raw data",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE157977",
+        "format": "H5, MTX",
+        "sizeApprox": "378 MB (tar)"
+      },
+      {
+        "label": "Broad Single Cell Portal",
+        "url": "https://singlecell.broadinstitute.org/single_cell/study/SCP1184",
+        "format": "Various",
+        "sizeApprox": "~400 MB"
+      },
+      {
+        "label": "GitHub code",
+        "url": "https://github.com/klarman-cell-observatory/ivPerturbSeq",
+        "format": "Python/R",
+        "sizeApprox": "Small"
+      }
+    ],
+    "fileFormats": [
+      "H5",
+      "MTX",
+      "TSV"
+    ],
+    "genesRelevant": [
+      "Adnp",
+      "Ank2",
+      "Ash1l",
+      "Chd8",
+      "Gatad2b",
+      "Pogz",
+      "Scn2a",
+      "Stard9",
+      "Upf3b"
+    ],
+    "tags": [
+      "CRISPR",
+      "in-vivo",
+      "mouse",
+      "perturbation",
+      "single-cell",
+      "developing-brain"
+    ],
+    "category": "perturbation",
+    "publicationYear": 2020,
+    "codeSnippet": "# Requires scanpy for H5 files\nimport scanpy as sc\n\n# Load from H5 (after downloading from GEO)\nadata = sc.read_h5ad('jin2020_perturb_seq.h5ad')\nprint(adata)  # AnnData object\nprint(adata.obs['perturbation'].value_counts())",
+    "relatedDatasets": [
+      "paulsen-2023-choose",
+      "pasca-2026-organoids"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "GEO public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Do the same convergent targets from CHOOSE appear in mouse in vivo perturbations?",
+      "Which cell types are most affected by autism gene knockouts -- neurons or glia?",
+      "Does Scn2a knockout produce downstream effects in projection neurons vs inhibitory neurons?"
+    ]
+  },
+  {
+    "id": "lipton-2024-mef2c",
+    "name": "Lipton/Trudler 2024 MEF2C Organoids",
+    "shortName": "Lipton MEF2C 2024",
+    "description": "Patient-derived brain organoids from individuals with MEF2C haploinsufficiency (one broken copy of the MEF2C gene, which causes intellectual disability and often autism). Includes single-cell RNA-seq, bulk RNA-seq, and ChIP-seq (which maps where the MEF2C protein physically binds to DNA). The key finding relevant to autism genetics: when MEF2C is reduced by half, a specific set of other autism genes compensate by turning up.",
+    "whatYouCanDo": "See which genes are up/down-regulated in MEF2C-deficient neurons. Check MEF2C DNA binding sites (375 ChIP-seq peaks). Compare cell-type proportions between patient and control organoids.",
+    "whatYouCant": "Access raw sequencing data (gated behind PI request to Lipton lab). See the full DEG list (only top 20 up + top 20 down per cell type published). Study other mutations -- this is MEF2C-specific.",
+    "citation": "Trudler D, Ghatak S, Bhatt DK, et al. Dysregulation of miRNA expression and excitation in MEF2C autism patient hiPSC-neurons and cerebral organoids. Mol Psychiatry. 2024;30:1479-1496.",
+    "doi": "10.1038/s41380-024-02761-9",
+    "dataType": [
+      "scRNA-seq",
+      "bulk RNA-seq",
+      "ChIP-seq"
+    ],
+    "organism": "Human",
+    "sampleSize": "Patient-derived organoids (MEF2C haploinsufficiency vs controls)",
+    "accessLevel": "GATED",
+    "accessNotes": "Supplementary tables with top DEGs and ChIP-seq peaks are freely available. Raw sequencing data requires contacting the Lipton lab directly ('available upon reasonable request').",
+    "primaryUrl": "https://doi.org/10.1038/s41380-024-02761-9",
+    "downloadUrls": [
+      {
+        "label": "Paper (open access)",
+        "url": "https://doi.org/10.1038/s41380-024-02761-9",
+        "format": "PDF",
+        "sizeApprox": "N/A"
+      },
+      {
+        "label": "Supplementary tables",
+        "url": "https://doi.org/10.1038/s41380-024-02761-9",
+        "format": "XLSX",
+        "sizeApprox": "~1 MB"
+      }
+    ],
+    "fileFormats": [
+      "XLSX"
+    ],
+    "genesRelevant": [
+      "MEF2C",
+      "FOXP1",
+      "TCF4",
+      "BCL11A",
+      "MYT1L",
+      "RBFOX1",
+      "CACNA1C"
+    ],
+    "tags": [
+      "organoid",
+      "patient-derived",
+      "MEF2C",
+      "ChIP-seq",
+      "single-cell"
+    ],
+    "category": "patient-organoid",
+    "publicationYear": 2024,
+    "codeSnippet": "import openpyxl\n\n# Load ChIP-seq peaks (375 MEF2C binding sites)\nwb = openpyxl.load_workbook('MOESM3_table.xlsx')\nws = wb.active\nfor row in ws.iter_rows(min_row=2, values_only=True):\n    print(row)  # chr, start, end, nearest gene, distance",
+    "relatedDatasets": [
+      "pasca-2026-organoids",
+      "paulsen-2023-choose"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Open access (paper); gated (raw data)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which autism transcription factors compensate when MEF2C is reduced by half?",
+      "Are the compensatory gene changes specific to neurons or also present in progenitors?",
+      "Where does MEF2C protein physically bind in the genome (ChIP-seq peaks)?"
+    ]
+  },
+  {
+    "id": "perez-2025-dup15q",
+    "name": "Perez 2025 Dup15q Organoids",
+    "shortName": "Perez dup15q 2025",
+    "description": "Brain organoids and postmortem brain tissue from individuals with chromosome 15q duplication syndrome (dup15q), one of the most common copy number variants in autism. Includes primary tissue RNA-seq, organoid RNA-seq, and a transcription factor regulatory network built from the data. Dup15q often causes both autism and epilepsy, making this dataset relevant to understanding their overlap.",
+    "whatYouCanDo": "Compare dup15q gene expression to controls in both organoids and real brain tissue. Explore the TF-target regulatory network. Look for WGCNA co-expression modules.",
+    "whatYouCant": "Separate effects of individual genes within the duplicated region (multiple genes are duplicated together). Compare directly to other autism mutations (different study design).",
+    "citation": "Perez Y, et al. Dup15q organoid and postmortem brain transcriptomics. Nat Commun. 2025;16:6177.",
+    "doi": "10.1038/s41467-025-61184-4",
+    "dataType": [
+      "bulk RNA-seq",
+      "organoid RNA-seq"
+    ],
+    "organism": "Human",
+    "sampleSize": "Dup15q patients + controls (organoid + postmortem)",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Supplementary xlsx files freely available from Nature Communications.",
+    "primaryUrl": "https://doi.org/10.1038/s41467-025-61184-4",
+    "downloadUrls": [
+      {
+        "label": "Supplementary tables (14 xlsx files)",
+        "url": "https://doi.org/10.1038/s41467-025-61184-4",
+        "format": "XLSX",
+        "sizeApprox": "~15 MB total"
+      }
+    ],
+    "fileFormats": [
+      "XLSX"
+    ],
+    "genesRelevant": [
+      "UBE3A",
+      "GABRB3",
+      "GABRA5",
+      "GABRG3"
+    ],
+    "tags": [
+      "organoid",
+      "postmortem",
+      "dup15q",
+      "CNV",
+      "epilepsy"
+    ],
+    "category": "patient-organoid",
+    "publicationYear": 2025,
+    "codeSnippet": "import pandas as pd\n\n# Load primary tissue DEGs\ndf = pd.read_excel('41467_2025_61184_MOESM5_ESM.xlsx')\nprint(f'{len(df)} differentially expressed genes')",
+    "relatedDatasets": [
+      "pasca-2026-organoids",
+      "wamsley-2024-scgene"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "CC BY 4.0 (Nature Communications)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Do GABA receptor genes change in dup15q organoids vs postmortem brain tissue?",
+      "Which transcription factors are predicted to regulate the disrupted genes?",
+      "How does the dup15q expression signature compare to single-gene autism mutations?"
+    ]
+  },
+  {
+    "id": "wamsley-2024-scgene",
+    "name": "Wamsley 2024 ASD scGENE (Postmortem Brain)",
+    "shortName": "Wamsley scGENE 2024",
+    "description": "The most detailed single-cell map of gene expression changes in autism postmortem brain tissue. 641,000 differential gene expression entries across 36 cell types from 33 autism vs. 31 control brains. Also includes 346 SCENIC regulons (transcription factor activity maps) and LDSC heritability analysis linking cell-type-specific expression to autism GWAS signal.",
+    "whatYouCanDo": "Look up whether any gene is differentially expressed in autism brain, broken down by cell type. Identify which cell types are most affected. Test whether autism GWAS signal is enriched in specific cell types.",
+    "whatYouCant": "Determine causation (postmortem data shows correlation, not which changes caused autism vs. resulted from it). Attribute changes to specific mutations (subjects have diverse genetic backgrounds). Study developmental timing (all samples are adult/adolescent brain).",
+    "citation": "Wamsley B, et al. Molecular cascades and cell-type-specific signatures in ASD revealed by single-cell genomics. Science. 2024;384:eadh2602.",
+    "doi": "10.1126/science.adh2602",
+    "dataType": [
+      "snRNA-seq",
+      "SCENIC regulons",
+      "LDSC heritability"
+    ],
+    "organism": "Human",
+    "sampleSize": "33 ASD + 31 control brains, 36 cell types",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "DEG tables on Dryad. Supplementary tables from Science. Raw data may require PsychENCODE access.",
+    "primaryUrl": "https://doi.org/10.1126/science.adh2602",
+    "downloadUrls": [
+      {
+        "label": "Dryad DEG data",
+        "url": "https://doi.org/10.5061/dryad.4b8gthtkr",
+        "format": "CSV",
+        "sizeApprox": "~50 MB"
+      },
+      {
+        "label": "Supplementary tables S1-S7",
+        "url": "https://doi.org/10.1126/science.adh2602",
+        "format": "XLSX",
+        "sizeApprox": "~20 MB"
+      }
+    ],
+    "fileFormats": [
+      "CSV",
+      "XLSX"
+    ],
+    "genesRelevant": [
+      "MEF2C",
+      "TCF4",
+      "FOXP1",
+      "MYT1L",
+      "SCN2A",
+      "CACNA1A",
+      "GRIN2B"
+    ],
+    "tags": [
+      "postmortem",
+      "single-cell",
+      "cell-type-specific",
+      "regulon",
+      "heritability",
+      "GWAS"
+    ],
+    "category": "postmortem",
+    "publicationYear": 2024,
+    "codeSnippet": "import pandas as pd\n\n# Load cell-type-specific DEGs\ndf = pd.read_csv('wamsley_degs.csv')\nprint(f'{len(df)} DEG entries across {df[\"cell_type\"].nunique()} cell types')\n\n# Filter for a specific gene\ngrin2b = df[df['gene'] == 'GRIN2B']\nprint(grin2b[['cell_type', 'log2FC', 'padj']])",
+    "relatedDatasets": [
+      "voineagu-gse28521",
+      "gandal-2024-celltype"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "CC BY 4.0 (Dryad); Science supplementary",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "In which brain cell types is SCN2A most differentially expressed in autism?",
+      "Do excitatory and inhibitory neurons show opposite expression changes?",
+      "Which cell types carry the most autism GWAS heritability (LDSC results)?"
+    ]
+  },
+  {
+    "id": "gandal-2024-celltype",
+    "name": "Gandal 2024 Cell-Type ASD Data",
+    "shortName": "Gandal 2024",
+    "description": "Part of the same Science paper as Wamsley. Cell-type-specific differential expression in autism brain, but analyzed at the level of gene co-expression modules rather than individual genes. Identifies convergent molecular cascades shared across cell types and provides LDSC partitioned heritability showing which cell types harbor the most autism genetic risk.",
+    "whatYouCanDo": "Identify which cell types carry the most autism GWAS heritability. Find co-expression modules disrupted across multiple cell types. Cross-reference with perturbation data.",
+    "whatYouCant": "Attribute expression changes to specific mutations (pooled across genotypes). Study developmental trajectory (adult brain only). Separate cause from consequence.",
+    "citation": "Gandal MJ, et al. Molecular cascades and cell-type-specific signatures in ASD revealed by single-cell genomics. Science. 2024;384:eadh2602.",
+    "doi": "10.1126/science.adh2602",
+    "dataType": [
+      "snRNA-seq",
+      "WGCNA modules",
+      "LDSC heritability"
+    ],
+    "organism": "Human",
+    "sampleSize": "Same cohort as Wamsley (33 ASD + 31 control)",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Supplementary tables from Science paper. Same dataset as Wamsley, different analytical lens.",
+    "primaryUrl": "https://doi.org/10.1126/science.adh2602",
+    "downloadUrls": [
+      {
+        "label": "See Wamsley 2024 downloads",
+        "url": "https://doi.org/10.1126/science.adh2602",
+        "format": "XLSX",
+        "sizeApprox": "See Wamsley"
+      }
+    ],
+    "fileFormats": [
+      "XLSX"
+    ],
+    "genesRelevant": [
+      "MEF2C",
+      "TCF4",
+      "FOXP1",
+      "MYT1L"
+    ],
+    "tags": [
+      "postmortem",
+      "single-cell",
+      "cell-type-specific",
+      "WGCNA",
+      "heritability"
+    ],
+    "category": "postmortem",
+    "publicationYear": 2024,
+    "codeSnippet": "# Same data source as Wamsley 2024\n# See Wamsley entry for loading code",
+    "relatedDatasets": [
+      "wamsley-2024-scgene",
+      "voineagu-gse28521"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Science supplementary (see Wamsley)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which WGCNA co-expression modules are disrupted across multiple cell types?",
+      "Does the module containing ion channel genes overlap with the autism GWAS signal?",
+      "Are the same molecular cascades disrupted in excitatory neurons and astrocytes?"
+    ]
+  },
+  {
+    "id": "voineagu-gse28521",
+    "name": "Voineagu 2011 ASD Microarray (GSE28521)",
+    "shortName": "Voineagu 2011",
+    "description": "One of the earliest genome-wide expression studies of autism brain. 79 postmortem samples (frontal cortex and temporal cortex) from autism and control individuals, profiled with microarrays. Found that autism brains show reduced differences between brain regions compared to controls -- a convergence of regional gene expression. Still widely cited as a benchmark dataset.",
+    "whatYouCanDo": "Compare gene expression between autism and control brains in two cortical regions. Correlate expression levels between gene pairs. Use as a baseline for comparison with newer single-cell studies.",
+    "whatYouCant": "Resolve cell-type-specific effects (bulk microarray). Detect rare transcripts (microarray less sensitive than RNA-seq). Study developmental timing (adult postmortem only).",
+    "citation": "Voineagu I, et al. Transcriptomic analysis of autistic brain reveals convergent molecular pathology. Nature. 2011;474:380-384.",
+    "doi": "10.1038/nature10110",
+    "dataType": [
+      "microarray"
+    ],
+    "organism": "Human",
+    "sampleSize": "79 samples (autism + control, 2 brain regions)",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Fully public on GEO. No login required. Downloadable with GEOparse in Python.",
+    "primaryUrl": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28521",
+    "downloadUrls": [
+      {
+        "label": "GEO dataset",
+        "url": "https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE28521",
+        "format": "CEL, TXT",
+        "sizeApprox": "~200 MB"
+      }
+    ],
+    "fileFormats": [
+      "CEL",
+      "TXT"
+    ],
+    "genesRelevant": [
+      "FOXP1",
+      "MEF2C",
+      "TCF4",
+      "SCN2A"
+    ],
+    "tags": [
+      "postmortem",
+      "microarray",
+      "bulk",
+      "classic-dataset",
+      "brain-region"
+    ],
+    "category": "postmortem",
+    "publicationYear": 2011,
+    "codeSnippet": "import GEOparse\n\n# Download and parse the dataset\ngse = GEOparse.get_GEO('GSE28521', destdir='./geo_data')\nprint(f'{len(gse.gsms)} samples')\n\n# Get expression table for first sample\nfirst_gsm = list(gse.gsms.values())[0]\nprint(first_gsm.table.head())",
+    "relatedDatasets": [
+      "wamsley-2024-scgene",
+      "gandal-2024-celltype"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "GEO public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Is your gene of interest differentially expressed between autism and control cortex?",
+      "Do frontal and temporal cortex show the same autism-related expression changes?",
+      "Which gene pairs are most correlated in autism brain but not in control brain?"
+    ]
+  },
+  {
+    "id": "epi25-wes",
+    "name": "Epi25 Collaborative WES",
+    "shortName": "Epi25 2024",
+    "description": "Whole exome sequencing of nearly 21,000 people with epilepsy and 33,000 controls. Tests whether specific genes carry more damaging mutations in epilepsy patients than expected by chance. Critical for autism research because many autism genes also cause epilepsy -- this dataset lets you compare which genes are loaded in epilepsy vs. autism.",
+    "whatYouCanDo": "Look up rare variant burden for any gene in epilepsy (all epilepsy, DEE, GGE, NAFE subtypes). Compare epilepsy gene burden to autism gene convergence. Identify genes that bridge both conditions.",
+    "whatYouCant": "See individual-level variants (summary statistics only in browser). Study common variants (WES captures coding regions only). Directly compare to autism WES without the ASC dataset.",
+    "citation": "Epi25 Collaborative. Exome sequencing of 20,979 individuals with epilepsy and 33,444 controls. Nat Neurosci. 2024.",
+    "doi": "10.1038/s41593-023-01547-6",
+    "dataType": [
+      "WES",
+      "burden test statistics"
+    ],
+    "organism": "Human",
+    "sampleSize": "20,979 epilepsy + 33,444 controls",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Gene-level burden test results available through the WES Browser. No login required for summary statistics.",
+    "primaryUrl": "https://epi25.broadinstitute.org/",
+    "downloadUrls": [
+      {
+        "label": "WES Browser (interactive)",
+        "url": "https://epi25.broadinstitute.org/",
+        "format": "Web interface + TSV export",
+        "sizeApprox": "N/A"
+      }
+    ],
+    "fileFormats": [
+      "TSV"
+    ],
+    "genesRelevant": [
+      "SCN1A",
+      "GABRB3",
+      "GABRG2",
+      "GABRA1",
+      "SCN2A",
+      "KCNB1",
+      "GRIN2A",
+      "MECP2",
+      "PCDH19"
+    ],
+    "tags": [
+      "epilepsy",
+      "exome",
+      "rare-variants",
+      "burden-test",
+      "cross-condition"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2024,
+    "codeSnippet": "import pandas as pd\n\n# After downloading from WES Browser\ndf = pd.read_csv('Epi25_gene_results.tsv', sep='\\t')\n\n# Look up GABA receptor burden in epilepsy\ngaba = df[df['gene_symbol'].str.startswith('GABR')]\nprint(gaba[['gene_symbol', 'ptv_pvalue', 'dm_pvalue']])",
+    "relatedDatasets": [
+      "asc-wes",
+      "ipsych-pgc-asd-gwas"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (summary statistics)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Does your gene carry more damaging mutations in epilepsy patients than in controls?",
+      "Which ion channel genes have the strongest rare variant burden in DEE specifically?",
+      "Do GABA receptor genes show epilepsy-specific burden compared to glutamate receptors?"
+    ]
+  },
+  {
+    "id": "asc-wes",
+    "name": "Autism Sequencing Consortium (ASC) WES",
+    "shortName": "ASC Exome",
+    "description": "Gene-level burden test results from the Autism Sequencing Consortium. Tests whether genes carry excess damaging mutations in autism families. The companion dataset to Epi25 -- together they let you compare rare variant burden between autism and epilepsy for any gene.",
+    "whatYouCanDo": "Look up rare variant burden for any gene in autism. Compare directly to Epi25 epilepsy burden. Identify genes enriched in autism vs. epilepsy vs. both.",
+    "whatYouCant": "Access individual-level variant data (summary statistics only). Study regulatory/non-coding variants (exome captures coding regions only).",
+    "citation": "Autism Sequencing Consortium. Gene-level burden results from WES of autism families.",
+    "doi": null,
+    "dataType": [
+      "WES",
+      "burden test statistics"
+    ],
+    "organism": "Human",
+    "sampleSize": "Thousands of autism trios and cases",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Gene-level results available alongside Epi25 from the WES Browser.",
+    "primaryUrl": "https://epi25.broadinstitute.org/",
+    "downloadUrls": [
+      {
+        "label": "WES Browser (shared with Epi25)",
+        "url": "https://epi25.broadinstitute.org/",
+        "format": "TSV",
+        "sizeApprox": "N/A"
+      }
+    ],
+    "fileFormats": [
+      "TSV"
+    ],
+    "genesRelevant": [
+      "CHD8",
+      "SCN2A",
+      "ADNP",
+      "ARID1B",
+      "SYNGAP1",
+      "DYRK1A"
+    ],
+    "tags": [
+      "autism",
+      "exome",
+      "rare-variants",
+      "burden-test",
+      "trio"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2024,
+    "codeSnippet": "import pandas as pd\n\n# After downloading from WES Browser\nasc = pd.read_csv('ASC_gene_results.tsv', sep='\\t')\nprint(f'{len(asc)} genes tested')",
+    "relatedDatasets": [
+      "epi25-wes",
+      "denovo-db"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (summary statistics)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Does your gene carry excess rare mutations in autism families?",
+      "Which genes have significant burden in autism but not in epilepsy (or vice versa)?",
+      "Do the top autism burden genes overlap with the top convergent targets from CHOOSE?"
+    ]
+  },
+  {
+    "id": "ipsych-pgc-asd-gwas",
+    "name": "iPSYCH-PGC ASD GWAS",
+    "shortName": "ASD GWAS 2019",
+    "description": "The largest genome-wide association study of autism. Scanned 9.1 million common genetic variants across 18,382 people with autism and 27,969 controls to find spots in the genome where common variants increase autism risk. Found 5 genome-wide significant loci. Unlike exome studies (which find rare mutations), GWAS finds common variants that individually have tiny effects but collectively explain a large fraction of autism heritability.",
+    "whatYouCanDo": "Test whether specific genomic regions are enriched for autism risk. Run LD score regression to partition heritability by cell type or functional annotation. Look up common variant association for any SNP.",
+    "whatYouCant": "Identify causal genes from GWAS hits alone (loci often span many genes). Study rare variants. Access individual-level genotypes (summary statistics only).",
+    "citation": "Grove J, et al. Identification of common genetic risk variants for autism spectrum disorder. Nat Genet. 2019;51:431-444.",
+    "doi": "10.1038/s41588-019-0344-8",
+    "dataType": [
+      "GWAS summary statistics"
+    ],
+    "organism": "Human",
+    "sampleSize": "18,382 ASD cases + 27,969 controls",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Summary statistics freely downloadable from PGC.",
+    "primaryUrl": "https://pgc.unc.edu/for-researchers/download-results/",
+    "downloadUrls": [
+      {
+        "label": "PGC download page",
+        "url": "https://pgc.unc.edu/for-researchers/download-results/",
+        "format": "GZ (tab-delimited)",
+        "sizeApprox": "~500 MB"
+      }
+    ],
+    "fileFormats": [
+      "TXT.GZ"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "GWAS",
+      "common-variants",
+      "heritability",
+      "population-genetics"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2019,
+    "codeSnippet": "import pandas as pd\n\n# Load GWAS summary statistics\ndf = pd.read_csv('iPSYCH-PGC_ASD_Nov2017.gz', sep='\\t', compression='gzip')\nprint(f'{len(df)} SNPs tested')\n\n# Find genome-wide significant hits\nsig = df[df['P'] < 5e-8]\nprint(f'{len(sig)} genome-wide significant SNPs')",
+    "relatedDatasets": [
+      "pgc-cross-disorder",
+      "pgc3-scz"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (PGC summary statistics)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Is there common variant association signal near your gene of interest?",
+      "Which of the 5 genome-wide significant loci are closest to known autism genes?",
+      "How much autism heritability is explained by variants near ion channel genes (LDSC)?"
+    ]
+  },
+  {
+    "id": "pgc-cross-disorder",
+    "name": "PGC Cross-Disorder GWAS",
+    "shortName": "PGC Cross-Disorder",
+    "description": "GWAS across 8 psychiatric disorders simultaneously: autism, ADHD, schizophrenia, bipolar, major depression, OCD, anorexia, and Tourette syndrome. 107,000 cases and 198,000 controls. Reveals which genetic risk is shared across disorders and which is specific. Key finding: autism shares substantial genetic overlap with schizophrenia and ADHD.",
+    "whatYouCanDo": "Compare genetic risk factors across 8 psychiatric conditions. Identify pleiotropic loci (variants that affect multiple disorders). Test whether a genomic region carries autism-specific vs. shared risk.",
+    "whatYouCant": "Study rare variants. Determine which disorder a shared locus affects most. Access individual-level data.",
+    "citation": "Cross-Disorder Group of the PGC. Genomic relationships, novel loci, and pleiotropic mechanisms across eight psychiatric disorders. Cell. 2019;179:1469-1482.",
+    "doi": "10.1016/j.cell.2019.11.020",
+    "dataType": [
+      "GWAS summary statistics"
+    ],
+    "organism": "Human",
+    "sampleSize": "107,000 cases + 198,000 controls (8 disorders)",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Summary statistics freely downloadable from PGC.",
+    "primaryUrl": "https://pgc.unc.edu/for-researchers/download-results/",
+    "downloadUrls": [
+      {
+        "label": "PGC download page",
+        "url": "https://pgc.unc.edu/for-researchers/download-results/",
+        "format": "TXT",
+        "sizeApprox": "~1 GB"
+      }
+    ],
+    "fileFormats": [
+      "TXT"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "GWAS",
+      "cross-disorder",
+      "pleiotropy",
+      "schizophrenia",
+      "ADHD"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2019,
+    "codeSnippet": "import pandas as pd\n\ndf = pd.read_csv('pgc_cdg2_meta_no23andMe_oct2019_v2.txt.daner.txt', sep='\\t')\nprint(f'{len(df)} variants across 8 disorders')",
+    "relatedDatasets": [
+      "ipsych-pgc-asd-gwas",
+      "pgc3-scz"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (PGC summary statistics)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Does your genomic region carry autism-specific risk or risk shared across disorders?",
+      "Which psychiatric conditions share the most genetic overlap with autism?",
+      "Are the pleiotropic loci near genes involved in synaptic function or gene regulation?"
+    ]
+  },
+  {
+    "id": "pgc3-scz",
+    "name": "PGC3 Schizophrenia GWAS",
+    "shortName": "PGC3 SCZ",
+    "description": "The largest schizophrenia GWAS. Relevant to autism because the two conditions share substantial genetic overlap, and many autism gene network members (like TCF4) are also top schizophrenia genes. Useful for testing whether a genomic region carries disorder-specific or shared psychiatric risk.",
+    "whatYouCanDo": "Compare schizophrenia GWAS signal to autism GWAS signal at specific loci. Run cross-disorder genetic correlation analyses.",
+    "whatYouCant": "Study autism directly -- this is a schizophrenia dataset. Access individual genotypes.",
+    "citation": "Trubetskoy V, et al. Mapping genomic loci implicates genes and synaptic biology in schizophrenia. Nature. 2022;604:502-508.",
+    "doi": "10.1038/s41586-022-04434-5",
+    "dataType": [
+      "GWAS summary statistics"
+    ],
+    "organism": "Human",
+    "sampleSize": "53,386 SCZ cases + 77,258 controls",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Summary statistics freely downloadable from PGC.",
+    "primaryUrl": "https://pgc.unc.edu/for-researchers/download-results/",
+    "downloadUrls": [
+      {
+        "label": "PGC download page",
+        "url": "https://pgc.unc.edu/for-researchers/download-results/",
+        "format": "Various",
+        "sizeApprox": "~1 GB"
+      }
+    ],
+    "fileFormats": [
+      "TXT.GZ"
+    ],
+    "genesRelevant": [
+      "TCF4",
+      "EP300",
+      "MEF2C"
+    ],
+    "tags": [
+      "GWAS",
+      "schizophrenia",
+      "cross-disorder"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2022,
+    "codeSnippet": "# Same loading pattern as other PGC GWAS datasets\nimport pandas as pd\ndf = pd.read_csv('PGC3_SCZ_wave3.primary.autosome.public.v3.vcf.tsv.gz', sep='\\t', compression='gzip')",
+    "relatedDatasets": [
+      "ipsych-pgc-asd-gwas",
+      "pgc-cross-disorder"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (PGC summary statistics)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Does your autism-associated region also carry schizophrenia risk?",
+      "Is TCF4 (a top schizophrenia gene) associated with autism risk in GWAS?",
+      "How much genetic correlation exists between autism and schizophrenia at this locus?"
+    ]
+  },
+  {
+    "id": "denovo-db",
+    "name": "denovo-db",
+    "shortName": "denovo-db",
+    "description": "A curated database of germline de novo mutations -- new mutations that appear in a child but aren't present in either parent. Contains 415,000+ variants from multiple studies including autism, intellectual disability, epilepsy and healthy controls. De novo mutations in coding regions of key genes are the strongest single-gene evidence in autism genetics.",
+    "whatYouCanDo": "Look up de novo mutations in any gene across autism and control cohorts. Compare de novo rates between conditions. Identify mutational hotspots.",
+    "whatYouCant": "Study inherited variants. Access the underlying sequencing data. Find non-coding de novo mutations (primarily exome-derived).",
+    "citation": "Turner TN, et al. denovo-db: a compendium of human de novo variants. Nucleic Acids Res. 2017;45(D1):D804-D811.",
+    "doi": "10.1093/nar/gkw1092",
+    "dataType": [
+      "de novo variants"
+    ],
+    "organism": "Human",
+    "sampleSize": "415,000+ variants from 2,726 autism + 327 control probands (and other conditions)",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Freely downloadable. No registration required.",
+    "primaryUrl": "https://denovo-db.gs.washington.edu/",
+    "downloadUrls": [
+      {
+        "label": "denovo-db download",
+        "url": "https://denovo-db.gs.washington.edu/denovo-db/",
+        "format": "TSV",
+        "sizeApprox": "~100 MB"
+      }
+    ],
+    "fileFormats": [
+      "TSV"
+    ],
+    "genesRelevant": [
+      "CHD8",
+      "SCN2A",
+      "ADNP",
+      "ARID1B",
+      "SYNGAP1",
+      "DYRK1A",
+      "FOXP1"
+    ],
+    "tags": [
+      "de-novo",
+      "variants",
+      "coding",
+      "multi-condition"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2017,
+    "codeSnippet": "import pandas as pd\n\ndf = pd.read_csv('denovo-db.variants.tsv', sep='\\t')\nautism = df[df['PrimaryPhenotype'] == 'autism']\nprint(f'{len(autism)} autism de novo variants')\n\n# Count per gene\nautism['Gene'].value_counts().head(20)",
+    "relatedDatasets": [
+      "asc-wes",
+      "sfari-gene",
+      "gpf-sfari"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "How many de novo mutations hit your gene in autism probands vs controls?",
+      "Are de novo mutations in your gene clustered in a specific protein domain?",
+      "Which genes have the highest de novo mutation rate in autism families?"
+    ]
+  },
+  {
+    "id": "gpf-sfari",
+    "name": "GPF / SFARI Genotype Browser",
+    "shortName": "GPF Browser",
+    "description": "The Genotype-Phenotype Families browser lets you search for variants in specific genes across SFARI's autism family cohorts (Simons Simplex Collection and SPARK). Returns variant details, inheritance pattern, and basic phenotype information. The closest thing to a public variant-level lookup for autism families.",
+    "whatYouCanDo": "Search for variants in any gene across autism family cohorts. See variant type (missense, nonsense, frameshift), inheritance, and family structure. Count variant burden per gene.",
+    "whatYouCant": "Access raw sequencing data. See detailed phenotypes beyond basic categories. Download bulk data (API queries only).",
+    "citation": "SFARI Genotype-Phenotype Families Browser.",
+    "doi": null,
+    "dataType": [
+      "WGS/WES variants",
+      "phenotype"
+    ],
+    "organism": "Human",
+    "sampleSize": "875+ families, 1,086+ variants across queried genes",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Public API. No registration required for gene-level queries.",
+    "primaryUrl": "https://gpf.sfari.org/",
+    "downloadUrls": [
+      {
+        "label": "GPF web interface",
+        "url": "https://gpf.sfari.org/",
+        "format": "JSON (API)",
+        "sizeApprox": "N/A"
+      }
+    ],
+    "fileFormats": [
+      "JSON"
+    ],
+    "genesRelevant": [
+      "CHD8",
+      "SCN2A",
+      "ADNP",
+      "FOXP1",
+      "MYT1L",
+      "TCF4",
+      "MECP2"
+    ],
+    "tags": [
+      "family-cohort",
+      "variants",
+      "phenotype",
+      "API",
+      "SSC",
+      "SPARK"
+    ],
+    "category": "genetic-variation",
+    "publicationYear": 2020,
+    "codeSnippet": "import requests\n\n# Query GPF API for a gene\nurl = 'https://gpf.sfari.org/api/v3/genotype_browser/query'\nparams = {'gene': 'SCN2A', 'study': 'SSC'}\nresponse = requests.get(url, params=params)\ndata = response.json()\nprint(f'{len(data)} variants found')",
+    "relatedDatasets": [
+      "denovo-db",
+      "sfari-gene"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (API queries)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "What variants have been found in your gene across SFARI autism families?",
+      "Are the variants in your gene inherited or de novo?",
+      "How many autism families carry damaging variants in a specific gene?"
+    ]
+  },
+  {
+    "id": "sfari-gene",
+    "name": "SFARI Gene Database",
+    "shortName": "SFARI Gene",
+    "description": "The most authoritative curated list of autism-associated genes. Each gene is scored on a 1-3 scale based on evidence strength (1 = high confidence, 3 = suggestive). Includes links to supporting publications, animal models, and CNV data. If you need to know whether a gene is credibly linked to autism, this is where you check first.",
+    "whatYouCanDo": "Look up evidence scores for any autism candidate gene. Find supporting publications. Cross-reference with CNV and animal model data. Download the full gene list for computational analysis.",
+    "whatYouCant": "See expression data. Explore gene interactions or networks. Access variant-level data (use GPF for that).",
+    "citation": "Abrahams BS, et al. SFARI Gene 2.0: a community-driven knowledgebase for the autism spectrum disorders. Mol Autism. 2013;4:36.",
+    "doi": "10.1186/2040-2392-4-36",
+    "dataType": [
+      "curated gene list",
+      "evidence scores"
+    ],
+    "organism": "Human",
+    "sampleSize": "1,231+ genes scored",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Fully public. Downloadable gene lists. No registration needed.",
+    "primaryUrl": "https://gene.sfari.org/",
+    "downloadUrls": [
+      {
+        "label": "SFARI Gene database",
+        "url": "https://gene.sfari.org/database/human-gene/",
+        "format": "CSV (export)",
+        "sizeApprox": "~1 MB"
+      }
+    ],
+    "fileFormats": [
+      "CSV"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "curated",
+      "gene-list",
+      "evidence-scoring",
+      "reference"
+    ],
+    "category": "reference",
+    "publicationYear": 2013,
+    "codeSnippet": "import pandas as pd\n\n# After downloading SFARI gene list\ndf = pd.read_csv('sfari_genes.csv')\nhigh_conf = df[df['gene-score'] == 1]\nprint(f'{len(high_conf)} high-confidence autism genes')",
+    "relatedDatasets": [
+      "denovo-db",
+      "gpf-sfari"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "What is the evidence score for your candidate gene in autism?",
+      "Which high-confidence autism genes are transcription factors vs ion channels?",
+      "How many autism genes overlap with epilepsy gene lists?"
+    ]
+  },
+  {
+    "id": "psychencode-grn",
+    "name": "PsychENCODE Gene Regulatory Network",
+    "shortName": "PsychENCODE GRN",
+    "description": "A massive map of how transcription factors regulate their target genes in the human brain. 7.35 million TF-target-enhancer links connecting transcription factors to the genes they control, with the enhancer elements that mediate the connection. Built from integrating expression data, chromatin accessibility, and Hi-C (3D genome structure) data across 1,866 brain samples.",
+    "whatYouCanDo": "Look up what any transcription factor regulates in the brain. Find which TFs regulate a gene of interest. Map regulatory paths between genes. Identify shared regulatory architecture.",
+    "whatYouCant": "See cell-type-specific regulation (this is bulk brain). Determine developmental timing. Confirm that a predicted regulatory link is actually functional.",
+    "citation": "Wang D, et al. Comprehensive functional genomic resource and integrative model for the human brain. Science. 2018;362:eaat8464.",
+    "doi": "10.1126/science.aat8464",
+    "dataType": [
+      "GRN (TF-target-enhancer links)",
+      "expression",
+      "eQTL",
+      "Hi-C"
+    ],
+    "organism": "Human",
+    "sampleSize": "1,866 brain samples",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Downloadable from PsychENCODE resource portal and Synapse. Multiple file types available.",
+    "primaryUrl": "https://resource.psychencode.org/",
+    "downloadUrls": [
+      {
+        "label": "PsychENCODE Resource Portal",
+        "url": "https://resource.psychencode.org/",
+        "format": "TXT, BED, CSV",
+        "sizeApprox": "~2 GB total"
+      }
+    ],
+    "fileFormats": [
+      "TXT",
+      "BED",
+      "CSV"
+    ],
+    "genesRelevant": [
+      "FOXP1",
+      "MEF2C",
+      "TCF4",
+      "EP300",
+      "MYT1L",
+      "BCL11A"
+    ],
+    "tags": [
+      "regulatory-network",
+      "TF-target",
+      "enhancer",
+      "Hi-C",
+      "eQTL",
+      "brain"
+    ],
+    "category": "regulatory",
+    "publicationYear": 2018,
+    "codeSnippet": "import pandas as pd\n\n# Load TF-target links\n# File: DER-08a_hg19_eQTL.significant.txt\neqtl = pd.read_csv('DER-08a_hg19_eQTL.significant.txt', sep='\\t')\nprint(f'{len(eqtl)} significant eQTLs')\n\n# Load full expression matrix\nexpr = pd.read_csv('DER-02_PEC_Gene_expression_matrix_TPM.txt', sep='\\t', index_col=0)\nprint(f'{expr.shape[0]} genes x {expr.shape[1]} samples')",
+    "relatedDatasets": [
+      "brainscope-grn",
+      "psychscreen"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (Synapse open access)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which genes does MEF2C regulate in the brain according to the GRN?",
+      "Do multiple autism transcription factors converge on the same target genes?",
+      "Which enhancers mediate regulation between your TF and its targets?"
+    ]
+  },
+  {
+    "id": "brainscope-grn",
+    "name": "brainSCOPE Phase II GRNs",
+    "shortName": "brainSCOPE",
+    "description": "Cell-type-specific gene regulatory networks for 24 brain cell types, built from single-nucleus RNA-seq of 2.8 million nuclei from 388 human brains. Unlike the bulk PsychENCODE GRN, this tells you which TF-target relationships are active in specific cell types like excitatory neurons, inhibitory neurons, astrocytes, and microglia.",
+    "whatYouCanDo": "Look up cell-type-specific regulation for any gene. Compare regulatory relationships across cell types. Identify cell-type-specific TF hubs. Download per-cell-type GRN files.",
+    "whatYouCant": "See developmental timing (adult brain). Study rare cell types with low representation. Get experimentally validated links (these are computational predictions).",
+    "citation": "brainSCOPE Phase II. Gerstein Lab, Yale University.",
+    "doi": null,
+    "dataType": [
+      "cell-type GRNs",
+      "snRNA-seq"
+    ],
+    "organism": "Human",
+    "sampleSize": "2.8M nuclei, 388 brains, 24 cell types",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Downloadable from brainSCOPE website. Browser interface also available.",
+    "primaryUrl": "https://brainscope.gersteinlab.org/",
+    "downloadUrls": [
+      {
+        "label": "brainSCOPE downloads",
+        "url": "https://brainscope.gersteinlab.org/",
+        "format": "TXT (per cell type)",
+        "sizeApprox": "206 MB (zip of 24 GRN files)"
+      }
+    ],
+    "fileFormats": [
+      "TXT"
+    ],
+    "genesRelevant": [
+      "MEF2C",
+      "TCF4",
+      "FOXP1",
+      "MYT1L",
+      "EP300"
+    ],
+    "tags": [
+      "regulatory-network",
+      "cell-type-specific",
+      "single-cell",
+      "brain"
+    ],
+    "category": "regulatory",
+    "publicationYear": 2024,
+    "codeSnippet": "import pandas as pd\n\n# Load excitatory neuron GRN\ngrn = pd.read_csv('Exc_GRN.txt', sep='\\t')\nprint(f'{len(grn)} TF-target edges in excitatory neurons')\n\n# Find all targets of MEF2C\nmef2c_targets = grn[grn['TF'] == 'MEF2C']\nprint(f'MEF2C regulates {len(mef2c_targets)} genes in excitatory neurons')",
+    "relatedDatasets": [
+      "psychencode-grn",
+      "psychscreen"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Does MEF2C regulate different targets in excitatory vs inhibitory neurons?",
+      "Which cell type has the most TF-target edges for autism-associated regulators?",
+      "Are ion channel genes regulated by different TFs in different cell types?"
+    ]
+  },
+  {
+    "id": "psychscreen",
+    "name": "PsychSCREEN",
+    "shortName": "PsychSCREEN",
+    "description": "An interactive portal for exploring brain-specific regulatory elements from PsychENCODE. Four sub-portals let you browse gene expression, cis-regulatory elements (enhancers and promoters), single-cell data, and developmental trajectories. Think of it as the visualization layer on top of PsychENCODE's raw data.",
+    "whatYouCanDo": "Visually explore gene expression across brain regions and development. Look up enhancers and promoters near autism genes. Browse single-cell expression in brain cell types.",
+    "whatYouCant": "Download bulk data easily (it's a browser tool, not a data download portal). Run custom analyses. Access controlled-access PsychENCODE datasets.",
+    "citation": "PsychSCREEN. Weng Lab, UMass Chan Medical School.",
+    "doi": null,
+    "dataType": [
+      "expression",
+      "cis-regulatory elements",
+      "snRNA-seq"
+    ],
+    "organism": "Human",
+    "sampleSize": "Varies by sub-portal",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Free web interface. No registration. Limited bulk download.",
+    "primaryUrl": "https://psychscreen.wenglab.org/",
+    "downloadUrls": [
+      {
+        "label": "PsychSCREEN portal",
+        "url": "https://psychscreen.wenglab.org/",
+        "format": "Web interface",
+        "sizeApprox": "N/A"
+      }
+    ],
+    "fileFormats": [],
+    "genesRelevant": [],
+    "tags": [
+      "browser",
+      "regulatory-elements",
+      "expression",
+      "visualization"
+    ],
+    "category": "regulatory",
+    "publicationYear": 2023,
+    "codeSnippet": "# PsychSCREEN is a web browser tool\n# Visit https://psychscreen.wenglab.org/\n# Use the Gene Expression portal to search for your gene of interest",
+    "relatedDatasets": [
+      "psychencode-grn",
+      "brainscope-grn"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (web interface)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Where are the active enhancers near your autism gene of interest?",
+      "Which brain regions express your gene most highly?",
+      "Does your gene's expression change across developmental stages?"
+    ]
+  },
+  {
+    "id": "brainspan",
+    "name": "BrainSpan Atlas of the Developing Human Brain",
+    "shortName": "BrainSpan",
+    "description": "Gene expression across 16 brain regions from 8 weeks post-conception through 40 years of age. The gold standard for asking 'when and where is my gene expressed during brain development?' 526 samples covering the full arc of human brain maturation. Run by the Allen Institute.",
+    "whatYouCanDo": "Plot expression of any gene across developmental time in specific brain regions. Identify critical windows when autism genes are most active. Compare expression trajectories between genes.",
+    "whatYouCant": "See cell-type-specific expression (bulk tissue). Study gene regulation or variants. Access single-cell resolution.",
+    "citation": "Miller JA, et al. Transcriptional landscape of the prenatal human brain. Nature. 2014;508:199-206.",
+    "doi": "10.1038/nature13185",
+    "dataType": [
+      "bulk RNA-seq",
+      "ISH"
+    ],
+    "organism": "Human",
+    "sampleSize": "526 samples, 16 brain regions, 8pcw-40yr",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Fully public. Downloadable expression matrices. Interactive web browser.",
+    "primaryUrl": "https://www.brainspan.org/",
+    "downloadUrls": [
+      {
+        "label": "BrainSpan RNA-seq data",
+        "url": "https://www.brainspan.org/static/download.html",
+        "format": "CSV",
+        "sizeApprox": "~500 MB"
+      }
+    ],
+    "fileFormats": [
+      "CSV"
+    ],
+    "genesRelevant": [
+      "MEF2C",
+      "FOXP1",
+      "TCF4",
+      "MYT1L",
+      "SCN2A",
+      "CACNA1A"
+    ],
+    "tags": [
+      "developmental",
+      "brain-regions",
+      "temporal",
+      "Allen-Institute"
+    ],
+    "category": "developmental",
+    "publicationYear": 2014,
+    "codeSnippet": "import pandas as pd\n\n# Load BrainSpan expression matrix\nexpr = pd.read_csv('expression_matrix.csv', index_col=0)\nmetadata = pd.read_csv('rows_metadata.csv')  # gene info\nsamples = pd.read_csv('columns_metadata.csv')  # sample info\n\nprint(f'{expr.shape[0]} genes x {expr.shape[1]} samples')\nprint(f'Age range: {samples[\"age\"].unique()}')",
+    "relatedDatasets": [
+      "cellxgene-census"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (Allen Institute)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "When during development is your autism gene most highly expressed?",
+      "Do ion channel genes peak in expression at a different time than transcription factors?",
+      "Which brain region shows the highest expression of SCN2A during fetal development?"
+    ]
+  },
+  {
+    "id": "cellxgene-census",
+    "name": "CELLxGENE Census (Brain)",
+    "shortName": "CELLxGENE",
+    "description": "The largest collection of single-cell RNA-seq data in the world, maintained by the Chan Zuckerberg Initiative. The brain subset alone contains 18.5 million cells across 152 cell types. Lets you ask 'which cell types express my gene?' with unprecedented resolution. Accessible through a Python API (no manual downloads needed).",
+    "whatYouCanDo": "Query gene expression across millions of brain cells by cell type, brain region, disease status. Compare expression patterns between genes. Verify cell-type specificity of autism genes.",
+    "whatYouCant": "Run differential expression analysis within the browser (use the API for that). Access all original study metadata. Study developmental time precisely (mixed ages and protocols).",
+    "citation": "CZI Single-Cell Biology. CZ CELLxGENE Discover.",
+    "doi": null,
+    "dataType": [
+      "scRNA-seq",
+      "snRNA-seq"
+    ],
+    "organism": "Human (+ mouse)",
+    "sampleSize": "18.5M+ brain cells, 152 cell types",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Free Python API (cellxgene-census package). Browser interface also available. No registration.",
+    "primaryUrl": "https://cellxgene.cziscience.com/",
+    "downloadUrls": [
+      {
+        "label": "CELLxGENE web portal",
+        "url": "https://cellxgene.cziscience.com/",
+        "format": "Web + API",
+        "sizeApprox": "N/A (API access)"
+      },
+      {
+        "label": "Census API docs",
+        "url": "https://chanzuckerberg.github.io/cellxgene-census/",
+        "format": "Python API",
+        "sizeApprox": "N/A"
+      }
+    ],
+    "fileFormats": [
+      "H5AD",
+      "API"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "single-cell",
+      "cell-type",
+      "atlas",
+      "API",
+      "brain",
+      "CZI"
+    ],
+    "category": "developmental",
+    "publicationYear": 2023,
+    "codeSnippet": "import cellxgene_census\n\n# Open the census\nwith cellxgene_census.open_soma() as census:\n    # Query brain cells expressing SCN2A\n    adata = cellxgene_census.get_anndata(\n        census,\n        organism='Homo sapiens',\n        var_value_filter=\"feature_name == 'SCN2A'\",\n        obs_value_filter=\"tissue_general == 'brain'\"\n    )\n    print(f'{adata.n_obs} brain cells with SCN2A data')",
+    "relatedDatasets": [
+      "brainspan"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (CZI, CC BY 4.0)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which brain cell types express your gene at the highest levels?",
+      "Is your gene expressed in both excitatory and inhibitory neurons?",
+      "How does cell-type expression of MEF2C compare to FOXP1?"
+    ]
+  },
+  {
+    "id": "gnomad",
+    "name": "gnomAD (Genome Aggregation Database)",
+    "shortName": "gnomAD",
+    "description": "The population reference for human genetic variation. Contains variant frequencies from 730,000+ exomes and 76,000+ genomes. When you find a variant in an autism patient, gnomAD tells you how common it is in the general population. A variant found in 10% of healthy people probably isn't causing a rare disease. Also provides gene-level constraint metrics that measure how intolerant a gene is to mutations.",
+    "whatYouCanDo": "Look up population frequency for any variant. Check gene constraint scores (pLI, LOEUF). Identify whether a variant is rare enough to be disease-relevant. Filter variants by ancestry.",
+    "whatYouCant": "Find disease associations (gnomAD deliberately excludes known disease cohorts). See variant effects on gene expression. Access individual-level data.",
+    "citation": "Karczewski KJ, et al. The mutational constraint spectrum quantified from variation in 141,456 humans. Nature. 2020;581:434-443.",
+    "doi": "10.1038/s41586-020-2308-7",
+    "dataType": [
+      "WGS/WES variant frequencies",
+      "constraint scores"
+    ],
+    "organism": "Human",
+    "sampleSize": "730,947 exomes + 76,215 genomes",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Fully public browser and bulk downloads. No registration. Massive files for bulk download.",
+    "primaryUrl": "https://gnomad.broadinstitute.org/",
+    "downloadUrls": [
+      {
+        "label": "gnomAD browser",
+        "url": "https://gnomad.broadinstitute.org/",
+        "format": "Web + VCF downloads",
+        "sizeApprox": "Varies (VCFs are 100s of GB)"
+      }
+    ],
+    "fileFormats": [
+      "VCF",
+      "TSV"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "population-frequency",
+      "constraint",
+      "variant-filtering",
+      "reference"
+    ],
+    "category": "reference",
+    "publicationYear": 2020,
+    "codeSnippet": "# gnomAD is primarily used via its web browser\n# For programmatic access:\nimport hail as hl\n\n# Or use the REST API:\nimport requests\nurl = 'https://gnomad.broadinstitute.org/api'\n# Query for a specific variant\n# See gnomAD API docs for query format",
+    "relatedDatasets": [
+      "denovo-db",
+      "sfari-gene"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (Open Data Commons ODC-By 1.0)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "How rare is the variant you found in an autism patient?",
+      "How constrained is your gene (pLI/LOEUF scores)?",
+      "Is there a population-frequency difference for your variant across ancestries?"
+    ]
+  },
+  {
+    "id": "gnomad-constraint",
+    "name": "gnomAD Gnocchi Non-Coding Constraint",
+    "shortName": "Gnocchi Constraint",
+    "description": "Constraint scores for non-coding (non-gene) regions of the genome, computed from gnomAD whole-genome data. Measures how intolerant each 1kb window of the genome is to variation -- high constraint means that region is likely functional and mutations there are selected against. Critical for interpreting non-coding variants near autism genes.",
+    "whatYouCanDo": "Check whether a non-coding region near an autism gene is under evolutionary constraint. Prioritize regulatory variants by genomic conservation. Identify potentially functional non-coding regions.",
+    "whatYouCant": "Determine what the constrained region does (constraint just means it matters). Link constraint to specific diseases. Interpret at single-nucleotide resolution (1kb windows).",
+    "citation": "gnomAD v3.1.2 constraint scores.",
+    "doi": null,
+    "dataType": [
+      "non-coding constraint Z-scores"
+    ],
+    "organism": "Human",
+    "sampleSize": "1.98M 1kb windows across the genome",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Downloadable from gnomAD. One large file.",
+    "primaryUrl": "https://gnomad.broadinstitute.org/",
+    "downloadUrls": [
+      {
+        "label": "Gnocchi constraint file",
+        "url": "https://gnomad.broadinstitute.org/downloads",
+        "format": "TXT.GZ",
+        "sizeApprox": "~200 MB"
+      }
+    ],
+    "fileFormats": [
+      "TXT.GZ"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "non-coding",
+      "constraint",
+      "conservation",
+      "regulatory"
+    ],
+    "category": "reference",
+    "publicationYear": 2022,
+    "codeSnippet": "import pandas as pd\n\ndf = pd.read_csv('constraint_z_genome_1kb.qc.download.txt.gz', sep='\\t', compression='gzip')\nprint(f'{len(df)} 1kb windows')\n\n# Filter for regions near a gene\nchr3 = df[df['chrom'] == 'chr3']\n# FOXP1 region: ~71.5-71.9 Mb\nfoxp1_region = chr3[(chr3['start'] > 71500000) & (chr3['end'] < 71900000)]\nprint(f'Constraint Z in FOXP1 region: mean={foxp1_region[\"z\"].mean():.2f}')",
+    "relatedDatasets": [
+      "gnomad"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Is the non-coding region near your autism gene under evolutionary constraint?",
+      "Which regulatory regions near FOXP1 are most constrained?",
+      "Do the constrained non-coding windows overlap known enhancers?"
+    ]
+  },
+  {
+    "id": "hpo",
+    "name": "Human Phenotype Ontology (HPO)",
+    "shortName": "HPO",
+    "description": "A standardized vocabulary for describing human disease symptoms and their connections to genes. Contains 13,000+ phenotype terms organized hierarchically. Used to connect genetic findings to clinical features -- for example, mapping which genes are associated with 'seizures' or 'intellectual disability' or 'autism.'",
+    "whatYouCanDo": "Map genes to phenotypes and vice versa. Find all genes associated with a specific symptom. Compute phenotype overlap between conditions. Prioritize candidate genes by phenotype matching.",
+    "whatYouCant": "See variant-level associations. Determine severity or frequency of phenotypes. Access patient-level data.",
+    "citation": "Kohler S, et al. The Human Phenotype Ontology in 2024. Nucleic Acids Res. 2024;52(D1):D1333-D1346.",
+    "doi": "10.1093/nar/gkad1005",
+    "dataType": [
+      "phenotype-gene associations",
+      "ontology"
+    ],
+    "organism": "Human",
+    "sampleSize": "13,000+ phenotype terms",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Fully public. Multiple download formats. API available.",
+    "primaryUrl": "https://hpo.jax.org/",
+    "downloadUrls": [
+      {
+        "label": "HPO downloads",
+        "url": "https://hpo.jax.org/data/annotations",
+        "format": "TXT, OBO",
+        "sizeApprox": "~50 MB"
+      }
+    ],
+    "fileFormats": [
+      "TXT",
+      "OBO"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "phenotype",
+      "ontology",
+      "gene-disease",
+      "clinical"
+    ],
+    "category": "reference",
+    "publicationYear": 2024,
+    "codeSnippet": "import pandas as pd\n\n# Load gene-to-phenotype mappings\ndf = pd.read_csv('genes_to_phenotype.txt', sep='\\t', comment='#')\nprint(f'{len(df)} gene-phenotype associations')\n\n# Find all genes linked to seizures (HP:0001250)\nseizure_genes = df[df['hpo_id'] == 'HP:0001250']\nprint(f'{len(seizure_genes)} genes associated with seizures')",
+    "relatedDatasets": [
+      "sfari-gene",
+      "gnomad"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public (HPO license)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which genes are associated with both 'autism' and 'seizures' phenotypes?",
+      "What phenotypes are linked to your candidate gene?",
+      "How much phenotype overlap exists between MEF2C syndrome and Rett syndrome?"
+    ]
+  },
+  {
+    "id": "chip-atlas",
+    "name": "ChIP-Atlas",
+    "shortName": "ChIP-Atlas",
+    "description": "A massive integrated database of all publicly available ChIP-seq, ATAC-seq, and bisulfite-seq experiments. Lets you ask 'which proteins bind to this region of DNA?' or 'where does this transcription factor bind across the genome?' by querying data from thousands of experiments at once.",
+    "whatYouCanDo": "Look up TF binding at any genomic region. Run enrichment analysis (which TFs are enriched at a set of genomic regions). Find experiments relevant to brain or neural tissue.",
+    "whatYouCant": "Find experiments for rare TFs (many autism TFs have zero ChIP-seq experiments). Get cell-type resolution for all brain regions. Access raw data directly.",
+    "citation": "Zou Z, et al. ChIP-Atlas 3.0: a data-mining suite to explore chromosome architecture together with large-scale regulome data. Nucleic Acids Res. 2024;52(W1):W45-W53.",
+    "doi": "10.1093/nar/gkae358",
+    "dataType": [
+      "ChIP-seq",
+      "ATAC-seq",
+      "bisulfite-seq"
+    ],
+    "organism": "Human (+ mouse, others)",
+    "sampleSize": "230,000+ experiments",
+    "accessLevel": "PUBLIC",
+    "accessNotes": "Free web interface and API. No registration.",
+    "primaryUrl": "https://chip-atlas.org/",
+    "downloadUrls": [
+      {
+        "label": "ChIP-Atlas web interface",
+        "url": "https://chip-atlas.org/",
+        "format": "Web + API",
+        "sizeApprox": "N/A"
+      }
+    ],
+    "fileFormats": [
+      "BED",
+      "BigWig"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "TF-binding",
+      "chromatin",
+      "ATAC-seq",
+      "epigenomics"
+    ],
+    "category": "regulatory",
+    "publicationYear": 2024,
+    "codeSnippet": "# ChIP-Atlas is primarily a web tool\n# Use the Enrichment Analysis tool to find TFs\n# binding at your regions of interest\n# API endpoint: https://chip-atlas.org/api",
+    "relatedDatasets": [
+      "psychencode-grn"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Public",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Which transcription factors bind near the promoter of your gene?",
+      "Does MEF2C have ChIP-seq binding data in neural tissue?",
+      "Are there TF binding peaks at the regulatory variants you identified?"
+    ]
+  },
+  {
+    "id": "ndar",
+    "name": "NIMH Data Archive (NDA / NDAR)",
+    "shortName": "NDA",
+    "description": "The NIH's central repository for autism and mental health research data. Contains data from 80,000+ autism research subjects including clinical assessments, brain imaging, genomics, and phenotyping. Encompasses data from ABIDE (brain imaging), NDAR (multi-modal), and other federally funded studies. The most comprehensive single repository, but access requires an approved data use agreement.",
+    "whatYouCanDo": "Access multi-modal data (genomics + imaging + clinical) for large autism cohorts. Cross-reference genetic findings with clinical phenotypes. Access data from federally funded autism studies.",
+    "whatYouCant": "Browse data without approval (DUA required). Download quickly (large datasets, complex interface). Easily combine data across studies (different formats and schemas).",
+    "citation": "National Institute of Mental Health Data Archive.",
+    "doi": null,
+    "dataType": [
+      "multi-modal (genomics, imaging, clinical)"
+    ],
+    "organism": "Human",
+    "sampleSize": "80,000+ subjects",
+    "accessLevel": "CONTROLLED",
+    "accessNotes": "Requires institutional affiliation and approved Data Use Agreement. Application process can take weeks to months.",
+    "primaryUrl": "https://nda.nih.gov/",
+    "downloadUrls": [
+      {
+        "label": "NDA portal",
+        "url": "https://nda.nih.gov/",
+        "format": "Various",
+        "sizeApprox": "Varies widely"
+      }
+    ],
+    "fileFormats": [
+      "Various"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "multi-modal",
+      "clinical",
+      "imaging",
+      "NIH",
+      "controlled-access"
+    ],
+    "category": "controlled-access",
+    "publicationYear": 2015,
+    "codeSnippet": "# NDA requires approved access\n# After DUA approval, use the NDA download manager:\n# pip install nda-tools\n# ndatools download -d <data_package_id>",
+    "relatedDatasets": [
+      "spark-wgs",
+      "sfari-base"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Controlled (NIH DUA required)",
+    "bidsCompliant": true,
+    "starterQuestions": [
+      "Can you correlate genetic findings with clinical severity measures?",
+      "What imaging phenotypes associate with variants in your gene?",
+      "How do autism subtypes (verbal vs non-verbal) differ genetically?"
+    ]
+  },
+  {
+    "id": "spark-wgs",
+    "name": "SPARK Whole Genome Sequencing",
+    "shortName": "SPARK WGS",
+    "description": "Whole genome sequencing from SPARK, the largest autism family cohort in the world (157,000+ participants). Individual-level WGS data for thousands of autism families with matched phenotype data. The motherlode for autism genetics -- but access requires approval from SFARI.",
+    "whatYouCanDo": "Analyze coding and non-coding variants in autism families. Study inheritance patterns with parent-child trios. Correlate genetic findings with phenotype data.",
+    "whatYouCant": "Access without institutional affiliation and SFARI approval. Work with the data on a laptop (WGS files are massive). Get rapid access (approval takes weeks-months).",
+    "citation": "SPARK Consortium. SPARK: A US Cohort of 50,000 Families to Accelerate Autism Research. Neuron. 2018;97:488-493.",
+    "doi": "10.1016/j.neuron.2018.01.015",
+    "dataType": [
+      "WGS",
+      "phenotype",
+      "clinical"
+    ],
+    "organism": "Human",
+    "sampleSize": "157,000+ participants (growing)",
+    "accessLevel": "CONTROLLED",
+    "accessNotes": "Requires SFARI data access application. Institutional affiliation typically required. Cloud-based analysis available.",
+    "primaryUrl": "https://www.sfari.org/resource/spark/",
+    "downloadUrls": [
+      {
+        "label": "SFARI Base (data access)",
+        "url": "https://www.sfari.org/resource/sfari-base/",
+        "format": "VCF, CRAM",
+        "sizeApprox": "Massive (TBs)"
+      }
+    ],
+    "fileFormats": [
+      "VCF",
+      "CRAM",
+      "CSV"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "WGS",
+      "family-cohort",
+      "controlled-access",
+      "SPARK",
+      "phenotype"
+    ],
+    "category": "controlled-access",
+    "publicationYear": 2018,
+    "codeSnippet": "# SPARK data requires approved access through SFARI Base\n# After approval, data is accessible via cloud or download\n# Apply at: https://www.sfari.org/resource/sfari-base/",
+    "relatedDatasets": [
+      "gpf-sfari",
+      "sfari-gene"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Controlled (SFARI DUA required)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Does your regulatory variant segregate with autism in families?",
+      "What non-coding variants near autism genes are found in SPARK trios?",
+      "Do families with the same coding mutation show variable phenotypes?"
+    ]
+  },
+  {
+    "id": "sfari-base",
+    "name": "SFARI Base / MSSNG",
+    "shortName": "SFARI Base / MSSNG",
+    "description": "Controlled-access repositories from the Simons Foundation (SFARI Base) and Autism Speaks (MSSNG, hosted on Google Cloud). Together they hold WGS data for thousands of autism families. MSSNG specifically has 13,800+ individuals (5,100 with autism + families). These are the deepest individual-level genetic datasets in autism, but access is restricted.",
+    "whatYouCanDo": "Comprehensive variant analysis in autism families. Study non-coding variants (WGS captures the full genome). Analyze family structure and inheritance.",
+    "whatYouCant": "Access without institutional collaboration or affiliation. Download easily (multi-TB datasets). Combine with other datasets without careful harmonization.",
+    "citation": "Yuen RK, et al. Whole genome sequencing resource identifies 18 new candidate genes for autism spectrum disorder. Nat Neurosci. 2017;20:602-611.",
+    "doi": "10.1038/nn.4524",
+    "dataType": [
+      "WGS"
+    ],
+    "organism": "Human",
+    "sampleSize": "13,800+ individuals (MSSNG)",
+    "accessLevel": "CONTROLLED",
+    "accessNotes": "Requires institutional affiliation and approved data access agreement. MSSNG accessible via Google Cloud Platform.",
+    "primaryUrl": "https://research.mss.ng/",
+    "downloadUrls": [
+      {
+        "label": "MSSNG portal",
+        "url": "https://research.mss.ng/",
+        "format": "VCF, BAM",
+        "sizeApprox": "Multi-TB"
+      },
+      {
+        "label": "SFARI Base application",
+        "url": "https://www.sfari.org/resource/sfari-base/",
+        "format": "Various",
+        "sizeApprox": "Varies"
+      }
+    ],
+    "fileFormats": [
+      "VCF",
+      "BAM",
+      "CRAM"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "WGS",
+      "family-cohort",
+      "controlled-access",
+      "Google-Cloud"
+    ],
+    "category": "controlled-access",
+    "publicationYear": 2017,
+    "codeSnippet": "# MSSNG data requires approved access\n# After approval, accessible on Google Cloud Platform\n# Apply at: https://research.mss.ng/\n# SFARI Base: https://www.sfari.org/resource/sfari-base/",
+    "relatedDatasets": [
+      "spark-wgs",
+      "gpf-sfari"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Controlled (SFARI/Autism Speaks DUA required)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "What non-coding variants exist near your gene in autism families?",
+      "Do families with similar phenotypes share non-coding variants?",
+      "What structural variants overlap regulatory regions of autism genes?"
+    ]
+  },
+  {
+    "id": "ucla-asd",
+    "name": "UCLA-ASD RNA-seq (PsychENCODE)",
+    "shortName": "UCLA-ASD",
+    "description": "725 RNA-seq samples from autism and control brains, part of the PsychENCODE consortium. One of the largest brain expression datasets in autism. Controlled access through Synapse.",
+    "whatYouCanDo": "Large-scale brain expression analysis with statistical power that smaller studies lack.",
+    "whatYouCant": "Access without PsychENCODE data use agreement. Most researchers will need institutional backing.",
+    "citation": "PsychENCODE Consortium.",
+    "doi": null,
+    "dataType": [
+      "bulk RNA-seq"
+    ],
+    "organism": "Human",
+    "sampleSize": "725 samples",
+    "accessLevel": "CONTROLLED",
+    "accessNotes": "PsychENCODE controlled access. Requires Synapse account and approved DUA.",
+    "primaryUrl": "https://psychencode.synapse.org/",
+    "downloadUrls": [
+      {
+        "label": "Synapse: syn4587609",
+        "url": "https://www.synapse.org/#!Synapse:syn4587609",
+        "format": "Various",
+        "sizeApprox": "Large"
+      }
+    ],
+    "fileFormats": [
+      "BAM",
+      "FASTQ",
+      "counts"
+    ],
+    "genesRelevant": [],
+    "tags": [
+      "bulk-RNA-seq",
+      "postmortem",
+      "controlled-access",
+      "PsychENCODE"
+    ],
+    "category": "controlled-access",
+    "publicationYear": 2018,
+    "codeSnippet": "# Requires PsychENCODE data access approval\n# Apply through Synapse: https://www.synapse.org/\n# After approval, use synapseclient:\nimport synapseclient\nsyn = synapseclient.Synapse()\nsyn.login()\nentity = syn.get('syn4587609')",
+    "relatedDatasets": [
+      "psychencode-grn",
+      "wamsley-2024-scgene"
+    ],
+    "lastVerified": "2026-03-25",
+    "license": "Controlled (PsychENCODE DUA via Synapse)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Is your gene differentially expressed in this large autism brain cohort?",
+      "Do expression changes replicate findings from smaller postmortem studies?",
+      "Which genes show the largest effect sizes in autism vs control brain?"
+    ]
+  },
+  {
+    "id": "sanders-2026-ba22-multiomics",
+    "name": "Sanders/Nowakowski 2026 BA22 Multiomics",
+    "shortName": "Sanders BA22 2026",
+    "description": "The largest single-nucleus multiomics study of a speech-related brain region in autism. Paired RNA and chromatin accessibility (ATAC) data from ~500,000 nuclei across 100 post-mortem donors: 52 controls, 34 ASD without genetic diagnosis, and 14 NDD/ASD with known pathogenic variants. Profiled Brodmann Area 22, which processes speech and auditory information. Key finding: donors with known genetic diagnoses show strong transcriptional differences (7,828 DEGs), while those without show only 33 DEGs -- but the genome-wide signal is correlated, suggesting the same biology at different magnitudes.",
+    "whatYouCanDo": "Compare transcriptional and chromatin accessibility changes across 38 cell types between diagnosed and undiagnosed ASD. Analyze RFX3 motif accessibility and expression changes. Examine verbal vs non-verbal regulatory differences in specific neuron subtypes. Look at developmental trajectory of cell composition in controls.",
+    "whatYouCant": "Access raw sequencing data (preprint, deposition status unclear). Study brain regions beyond BA22. Know which specific pathogenic variant drives which DEGs in the NDD/ASD group (heterogeneous variants pooled). Generalize verbal/non-verbal findings (small Ns, ~20-26).",
+    "citation": "Suresh V, Wigdor EM, Hao Y, et al. Molecular dynamics of Brodmann Area 22 in development and autism. bioRxiv preprint, 2026.",
+    "doi": "pending",
+    "dataType": [
+      "snRNA-seq",
+      "snATAC-seq",
+      "multiome"
+    ],
+    "organism": "Human",
+    "sampleSize": "100 donors (~500,000 nuclei), 38 cell types",
+    "accessLevel": "GATED",
+    "accessNotes": "Preprint as of April 2026. No GEO accession visible yet. Supplementary Data tables S1-S13 likely contain DEG lists, DARs, motif accessibility, and eRegulon results. Raw data deposition status unknown -- check bioRxiv for updates.",
+    "primaryUrl": "https://www.biorxiv.org/",
+    "downloadUrls": [
+      {
+        "label": "Preprint (bioRxiv)",
+        "url": "https://www.biorxiv.org/",
+        "format": "PDF",
+        "sizeApprox": "N/A"
+      },
+      {
+        "label": "Supplementary Data S1 (donor metadata: age, sex, diagnosis, variant, epilepsy, verbal status, IQ)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      },
+      {
+        "label": "Supplementary Data S5 (donor-level cell-type proportions)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      },
+      {
+        "label": "Supplementary Data S6 (full DEGs by cell type and comparison: logFC, p, FDR for all genes)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      },
+      {
+        "label": "Supplementary Data S9 (differentially accessible ATAC peaks by cell type)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      },
+      {
+        "label": "Supplementary Data S10 (differentially accessible motifs by cell type incl RFX3)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      },
+      {
+        "label": "Supplementary Data S12 (differential eRegulon activity verbal vs non-verbal)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      },
+      {
+        "label": "Supplementary Data S13 (IEG enrichment controlling for epilepsy)",
+        "url": "pending",
+        "format": "XLSX",
+        "sizeApprox": "Unknown"
+      }
+    ],
+    "fileFormats": [
+      "XLSX",
+      "CSV"
+    ],
+    "genesRelevant": [
+      "RFX3",
+      "RFX2",
+      "RFX4",
+      "RFX5",
+      "CREBBP",
+      "EP300",
+      "MEF2C",
+      "FOXP1",
+      "SCN2A",
+      "MECP2"
+    ],
+    "tags": [
+      "multiomics",
+      "postmortem",
+      "speech-cortex",
+      "BA22",
+      "chromatin-accessibility",
+      "ATAC-seq",
+      "single-nucleus",
+      "verbal-nonverbal",
+      "RFX3",
+      "eRegulon",
+      "human-gained-enhancers"
+    ],
+    "category": "postmortem",
+    "publicationYear": 2026,
+    "keyFindings": {
+      "diagnosed_vs_undiagnosed": "NDD/ASD: 7,828 DEGs. ASD-only: 33 DEGs. Genome-wide log2FC correlated between groups (strongest in inhibitory neurons). Same biology, different effect sizes.",
+      "rfx3_hub": "RFX3 most consistent differentially accessible motif across cell types. Expression and motif accessibility both increased in cases. Regulates IEGs via CREB/CREBBP.",
+      "cell_type_specificity": "Signal concentrated in excitatory neurons, especially L4/5 IT. Consistent with Wamsley/Geschwind 2024.",
+      "verbal_nonverbal": "RFX3 regulatory activity varies by language phenotype in L2/3 IT3, L2/3 IT4, L5 ET2. Regulatory regions enriched in human-gained enhancers.",
+      "pathway_enrichment": "Downregulated: mitochondrial/oxidative phosphorylation. Upregulated: synaptic organization, dendrite morphogenesis."
+    },
+    "codeSnippet": "# Data access pending -- preprint as of April 2026\n# Check bioRxiv for updated data availability\n# Supplementary Data S6: DEGs by cell type\n# Supplementary Data S9: DARs by cell type\n# Supplementary Data S10: Differentially accessible motifs\n# Supplementary Data S12: eRegulon verbal/non-verbal",
+    "relatedDatasets": [
+      "wamsley-2024-scgene",
+      "pasca-2026-organoids",
+      "lipton-2024-mef2c"
+    ],
+    "lastVerified": "2026-04-10",
+    "license": "Preprint (data deposition pending)",
+    "bidsCompliant": false,
+    "starterQuestions": [
+      "Do diagnosed and undiagnosed ASD show the same transcriptional changes at different magnitudes?",
+      "Which cell types show the most chromatin accessibility changes in autism?",
+      "Does the RFX3 transcription factor motif show differential accessibility in your cell type of interest?"
+    ]
+  }
+];

@@ -1,0 +1,23 @@
+{
+  "id": "10.64898/2026.03.15.711881",
+  "title": "Modeling cis-regulatory variation in human brain enhancers across a large PD cohort",
+  "authors": "Sigalova OM et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-16",
+  "source": "biorxiv",
+  "doi": "10.64898/2026.03.15.711881",
+  "url": "https://doi.org/10.64898/2026.03.15.711881",
+  "abstract": "Models cis-regulatory variation in brain enhancers at cell-type resolution across large PD cohort.",
+  "relevance_score": 33,
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 9,
+    "dataset_availability": 7,
+    "novelty": 8,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Models cis-regulatory variation in brain enhancers at cell-type resolution. Methodology applicable to autism GWAS loci."
+}

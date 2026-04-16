@@ -1,0 +1,23 @@
+{
+  "pmid": "41988634",
+  "title": "NeuroPathX: Explainable Imaging-Genetics Associations in Neurological Disorders",
+  "authors": "Wang J et al.",
+  "journal": "MICCAI",
+  "date": "2025-09-20",
+  "source": "pubmed",
+  "doi": "10.1007/978-3-032-05141-7_34",
+  "url": "https://doi.org/10.1007/978-3-032-05141-7_34",
+  "abstract": "Explainable deep learning framework linking brain MRI variation to genetic pathways, validated on ASD.",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "summary": "Explainable DL framework linking brain MRI to genetic pathways, validated on ASD."
+}
