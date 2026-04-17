@@ -1,0 +1,28 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.03.15.711881",
+  "title": "Modeling cis-regulatory variation in human brain enhancers across a large Parkinson's Disease cohort.",
+  "authors": "Sigalova OM et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-16",
+  "abstract": "GWAS has linked >100 non-coding loci to PD risk. This study deciphers functional impact on gene regulation using cell type-specific brain enhancer models. Methodology transferable to autism regulatory variant interpretation.",
+  "source": "biorxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism": 2,
+    "noncoding": 9,
+    "dataset": 6,
+    "novelty": 6,
+    "cell_type": 5,
+    "phenotype": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "cis-regulatory variation",
+    "brain enhancers",
+    "GWAS",
+    "cell-type specific"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}

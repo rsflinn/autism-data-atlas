@@ -1,0 +1,32 @@
+{
+  "pmid": "41993264",
+  "doi": "10.64898/2026.04.10.717772",
+  "title": "Disrupted glial-mediated synaptic refinement in Fragile X syndrome.",
+  "authors": "Starr L et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-11",
+  "abstract": "Multi-omic framework on FXS model mice at P7 in the retinogeniculate pathway. scRNA-seq reveals coordinated alterations in microglia, astrocytes, neurons in synaptic pruning genes. Computational modeling shows enhanced astrocyte-to-microglia signaling via EphA and semaphorin pathways. Glial engulfment assay confirms over-engulfment of synaptic material.",
+  "source": "pubmed",
+  "relevance_score": 24,
+  "score_breakdown": {
+    "autism": 7,
+    "noncoding": 1,
+    "dataset": 4,
+    "novelty": 5,
+    "cell_type": 5,
+    "phenotype": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "concepts": [
+    "Fragile X",
+    "synaptic pruning",
+    "glial signaling",
+    "microglia",
+    "astrocytes",
+    "single-cell transcriptomics"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}

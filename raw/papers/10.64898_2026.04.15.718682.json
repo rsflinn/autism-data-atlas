@@ -1,0 +1,29 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.15.718682",
+  "title": "Histone H1 Variants Regulate Neurodevelopmental Transcriptional Programs in Autism with 16p11.2 deletion.",
+  "authors": "Brudno R et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-16",
+  "abstract": "NDD including ASD involve widespread transcriptional dysregulation. 16p11.2 CNVs are among the strongest genetic risk factors. This study examines how histone H1 variants regulate neurodevelopmental transcriptional programs in 16p11.2 deletion models.",
+  "source": "biorxiv",
+  "relevance_score": 37,
+  "score_breakdown": {
+    "autism": 10,
+    "noncoding": 7,
+    "dataset": 6,
+    "novelty": 7,
+    "cell_type": 3,
+    "phenotype": 4
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "16p11.2 deletion",
+    "histone H1",
+    "transcriptional regulation",
+    "CNV",
+    "chromatin"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}

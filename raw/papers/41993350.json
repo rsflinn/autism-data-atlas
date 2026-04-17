@@ -1,0 +1,29 @@
+{
+  "pmid": "41993350",
+  "doi": "10.64898/2026.04.03.716324",
+  "title": "Instability of Alpha Oscillatory States in Autism and Familial Liability: Evidence from Burst-Resolved High-Density EEG.",
+  "authors": "Vanneau T et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-07",
+  "abstract": "HD-EEG in 117 children (39 non-autistic, 52 autistic, 26 siblings). Autistic children show shorter alpha burst duration and reduced alpha abundance with siblings at intermediate (liability gradient). Alpha power reduction driven by temporal instability rather than amplitude.",
+  "source": "pubmed",
+  "relevance_score": 16,
+  "score_breakdown": {
+    "autism": 7,
+    "noncoding": 0,
+    "dataset": 2,
+    "novelty": 4,
+    "cell_type": 0,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "EEG",
+    "alpha oscillations",
+    "cortical excitability",
+    "familial liability",
+    "endophenotype"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}

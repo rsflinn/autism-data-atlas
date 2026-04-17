@@ -1,0 +1,27 @@
+{
+  "pmid": "41992357",
+  "doi": "10.1186/s13052-026-02254-1",
+  "title": "Causal effects of single-carbon metabolism and vitamin levels on autism spectrum disorder risk: a bidirectional Mendelian randomized study.",
+  "authors": "Zhu J et al.",
+  "journal": "Ital J Pediatr",
+  "date": "2026-04-16",
+  "abstract": "Bidirectional Mendelian randomization using GWAS data to assess causal effects of one-carbon metabolism and vitamin levels on ASD risk.",
+  "source": "pubmed",
+  "relevance_score": 15,
+  "score_breakdown": {
+    "autism": 6,
+    "noncoding": 3,
+    "dataset": 3,
+    "novelty": 2,
+    "cell_type": 0,
+    "phenotype": 1
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "Mendelian randomization",
+    "GWAS",
+    "one-carbon metabolism"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}
