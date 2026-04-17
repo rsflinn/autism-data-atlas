@@ -159,3 +159,16 @@ Master index of all wiki pages with one-line summaries.
 | 2 | SKIP | VR adaptive game for joint attention in ASD | Int J Dev Neurosci | - |
 
 *Top pick: Sigalova et al. brain enhancer cis-regulatory variation modeling (score 33) -- methodology directly applicable to autism GWAS noncoding loci. Also notable: MAGEB16 paper (score 32) proposes X-linked epigenetic timing mechanism for ASD susceptibility.*
+
+## 2026-04-17 Daily Scan Findings
+
+- [Histone H1 Variants Regulate Neurodevelopmental Transcriptional Programs in Autism with 16p11.2 deletion](./findings/10.64898_2026.04.15.718682.md) -- score 37; Brudno R et al. (bioRxiv, 2026-04-16); no atlas genes
+- [Modeling cis-regulatory variation in human brain enhancers across a large Parkinson's Disease cohort](./findings/10.64898_2026.03.15.711881.md) -- score 30; Sigalova OM et al. (bioRxiv, 2026-04-16); no atlas genes
+- [Cell-type-resolved NRXN1 isoforms across human brain tissues and hiPSC cortical organoids](./findings/10.1101_2025.11.11.687875.md) -- score 30; Cao L et al. (Brennand, Roussos labs) (bioRxiv, 2026-04-17); NRXN1
+- [Disrupted glial-mediated synaptic refinement in Fragile X syndrome](./findings/41993264.md) -- score 24; Starr L et al. (bioRxiv, 2026-04-11); FMR1
+- [MAGEB16 as an epigenetic timing regulator linking X-chromosome biology to neurodevelopmental vulnerability in Autism Spe](./findings/41988164.md) -- score 20; Gaspar JA et al. (EXCLI J, 2026-03-06); MAGEB16
+- [Examining Genetic Variants Associated with FOXP1 Syndrome through Molecular Dynamics of Its DNA-Binding Domain and Self-](./findings/41992872.md) -- score 20; Motta S et al. (J Chem Inf Model, 2026-04-17); FOXP1
+- [Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder](./findings/41988634.md) -- score 18; Wang J et al. (MICCAI (LNCS), 2025-09-20); no atlas genes
+- [EVEE: Interpretable variant effect prediction from genomic foundation model embeddings](./findings/10.64898_2026.04.10.717844.md) -- score 17; Pearce MT et al. (bioRxiv, 2026-04-16); no atlas genes
+- [Instability of Alpha Oscillatory States in Autism and Familial Liability: Evidence from Burst-Resolved High-Density EEG](./findings/41993350.md) -- score 16; Vanneau T et al. (bioRxiv, 2026-04-07); no atlas genes
+- [Causal effects of single-carbon metabolism and vitamin levels on autism spectrum disorder risk: a bidirectional Mendelia](./findings/41992357.md) -- score 15; Zhu J et al. (Ital J Pediatr, 2026-04-16); no atlas genes

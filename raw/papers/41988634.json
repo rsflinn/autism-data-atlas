@@ -1,23 +1,28 @@
 {
   "pmid": "41988634",
-  "title": "NeuroPathX: Explainable Imaging-Genetics Associations in Neurological Disorders",
-  "authors": "Wang J et al.",
-  "journal": "MICCAI",
-  "date": "2025-09-20",
-  "source": "pubmed",
   "doi": "10.1007/978-3-032-05141-7_34",
-  "url": "https://doi.org/10.1007/978-3-032-05141-7_34",
-  "abstract": "Explainable deep learning framework linking brain MRI variation to genetic pathways, validated on ASD.",
-  "relevance_score": 20,
+  "title": "Learning Explainable Imaging-Genetics Associations Related to a Neurological Disorder.",
+  "authors": "Wang J et al.",
+  "journal": "MICCAI (LNCS)",
+  "date": "2025-09-20",
+  "abstract": "NeuroPathX: explainable deep learning framework with cross-attention fusing MRI structural variations with biological pathways derived from genetics. Validated on ASD and Alzheimer's.",
+  "source": "pubmed",
+  "relevance_score": 18,
   "score_breakdown": {
-    "autism_relevance": 6,
-    "noncoding_regulatory": 3,
-    "dataset_availability": 4,
+    "autism": 6,
+    "noncoding": 2,
+    "dataset": 3,
     "novelty": 5,
-    "cell_type_specificity": 0,
-    "phenotype_severity": 2
+    "cell_type": 0,
+    "phenotype": 2
   },
   "decision": "INTEGRATE",
   "genes_mentioned": [],
-  "summary": "Explainable DL framework linking brain MRI to genetic pathways, validated on ASD."
+  "concepts": [
+    "imaging genetics",
+    "deep learning",
+    "pathway analysis",
+    "interpretability"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
 }

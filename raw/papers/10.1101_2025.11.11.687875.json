@@ -1,0 +1,31 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2025.11.11.687875",
+  "title": "Cell-type-resolved NRXN1 isoforms across human brain tissues and hiPSC cortical organoids.",
+  "authors": "Cao L et al. (Brennand, Roussos labs)",
+  "journal": "bioRxiv",
+  "date": "2026-04-17",
+  "abstract": "NRXN1 undergoes extensive alternative splicing generating diverse isoforms that shape synaptic specialization and contribute to NDD. Cell-type-resolved isoform characterization across human brain tissues and hiPSC cortical organoids.",
+  "source": "biorxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism": 8,
+    "noncoding": 3,
+    "dataset": 6,
+    "novelty": 6,
+    "cell_type": 5,
+    "phenotype": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "NRXN1"
+  ],
+  "concepts": [
+    "alternative splicing",
+    "NRXN1 isoforms",
+    "hiPSC",
+    "cortical organoids",
+    "synaptic specialization"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}

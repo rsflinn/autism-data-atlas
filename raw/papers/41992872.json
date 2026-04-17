@@ -1,0 +1,31 @@
+{
+  "pmid": "41992872",
+  "doi": "10.1021/acs.jcim.6c00080",
+  "title": "Examining Genetic Variants Associated with FOXP1 Syndrome through Molecular Dynamics of Its DNA-Binding Domain and Self-Organizing Maps.",
+  "authors": "Motta S et al.",
+  "journal": "J Chem Inf Model",
+  "date": "2026-04-17",
+  "abstract": "MD simulations of six missense FOXP1 variants, molecular docking, and self-organizing maps. Variants in helix H3 of DNA-binding domain show reduced DNA interactions. Co-authored with De Rubeis/Buxbaum lab (Seaver Autism Center).",
+  "source": "pubmed",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "autism": 7,
+    "noncoding": 2,
+    "dataset": 3,
+    "novelty": 5,
+    "cell_type": 0,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "FOXP1"
+  ],
+  "concepts": [
+    "FOXP1 syndrome",
+    "molecular dynamics",
+    "DNA-binding domain",
+    "missense variants",
+    "structural biology"
+  ],
+  "scan_timestamp": "2026-04-17T14:07:11.185329"
+}
