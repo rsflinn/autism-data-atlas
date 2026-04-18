@@ -1,0 +1,23 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.15.718501",
+  "title": "Whole-genome 3D architectural screen reveals modulators of brain DNA structure",
+  "authors": "Parasar B et al. (Tan lab, Stanford)",
+  "journal": "bioRxiv",
+  "date": "2026-04-17",
+  "abstract": "Plate-C: high-throughput in-plate chromosome conformation capture profiling thousands of whole-genome architectures per day. Chemical screen of 2,956 samples / 834 conditions across 5 neuronal and glial types, plus 6,081 single-cell Easy Dip-C and 200,893 single-cell transcriptomes. Identified diverse, dose/time-dependent, cell type/species-specific 3D genome changes induced by HDAC, BET, mTOR, UPR, GSK3/Wnt, Hedgehog, cGAS/STING and neurotransmission perturbations. HDAC inhibition rewires brain genome within hours in newborn mice, inducing latent state orthogonal to normal differentiation.",
+  "source": "biorxiv",
+  "relevance_score": 25,
+  "score_breakdown": {
+    "autism": 2,
+    "noncoding": 6,
+    "dataset": 6,
+    "novelty": 7,
+    "cell_type": 3,
+    "phenotype": 1
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": ["3D genome architecture", "chromosome conformation capture", "HDAC", "BET", "mTOR", "neuronal cell types", "glial cell types", "high-throughput screen", "epigenetic regulation"],
+  "scan_timestamp": "2026-04-18T14:00:00.000000"
+}

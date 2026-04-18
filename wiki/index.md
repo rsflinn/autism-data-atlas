@@ -172,3 +172,8 @@ Master index of all wiki pages with one-line summaries.
 - [EVEE: Interpretable variant effect prediction from genomic foundation model embeddings](./findings/10.64898_2026.04.10.717844.md) -- score 17; Pearce MT et al. (bioRxiv, 2026-04-16); no atlas genes
 - [Instability of Alpha Oscillatory States in Autism and Familial Liability: Evidence from Burst-Resolved High-Density EEG](./findings/41993350.md) -- score 16; Vanneau T et al. (bioRxiv, 2026-04-07); no atlas genes
 - [Causal effects of single-carbon metabolism and vitamin levels on autism spectrum disorder risk: a bidirectional Mendelia](./findings/41992357.md) -- score 15; Zhu J et al. (Ital J Pediatr, 2026-04-16); no atlas genes
+
+**Last Updated:** 2026-04-18 (daily scan)
+
+- [Vermudez et al. 2026 — Increasing MeCP2 in Pitt-Hopkins (Tcf4) mice does not fix myelination but generates astrocytes](findings/41997465.md) (2026-04-15, score 27)
+- [Parasar et al. 2026 — Whole-genome 3D architectural screen of brain DNA structure (Plate-C)](findings/10.64898_2026.04.15.718501.md) (2026-04-17, score 25)
