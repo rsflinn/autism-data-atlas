@@ -1,0 +1,23 @@
+{
+  "pmid": "41997465",
+  "doi": "10.1016/j.mcn.2026.104094",
+  "title": "Increasing MeCP2 protein in Pitt-Hopkins syndrome model (Tcf4) mice does not affect abnormal myelination but induces the generation of astrocytes.",
+  "authors": "Vermudez SAD, Freitas GA, Buch A, Moxley Y, Rajpal H, Gogliotti RG, Niswender CM",
+  "journal": "Molecular and cellular neurosciences",
+  "date": "2026-04-15",
+  "abstract": "Pitt-Hopkins syndrome (PTHS) results from loss-of-function (LOF) mutations in TCF4 and resembles Rett syndrome (caused by MECP2). Increasing MeCP2 levels (genetic or viral vector) normalizes reciprocal behavioral phenotypes in Tcf4 and MECP2-overexpressing animals; behavioral rescue extends to contextual fear learning. Tcf4 mutant mice show oligodendrocyte arrest at an immature stage. RNA-seq found that increasing MeCP2 does not dramatically alter the Tcf4-heterozygous transcriptional profile, and OL gene expression/molecular phenotypes are unchanged in the presence of an MECP2 transgene. However, increased Olig2/Gfap co-expression and astrocytic-morphology cells appear in Tcf4 mice with the MECP2 transgene, suggesting MeCP2-TCF4 interplay in astrocyte development.",
+  "source": "pubmed",
+  "relevance_score": 27,
+  "score_breakdown": {
+    "autism": 9,
+    "noncoding": 0,
+    "dataset": 5,
+    "novelty": 6,
+    "cell_type": 4,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": ["TCF4", "MECP2"],
+  "concepts": ["Pitt-Hopkins syndrome", "Rett syndrome", "myelination", "oligodendrocytes", "astrocytes", "behavioral rescue", "RNA-seq"],
+  "scan_timestamp": "2026-04-18T14:00:00.000000"
+}
