@@ -1,0 +1,16 @@
+{
+  "source": "bioRxiv preprint scan 2026-04-19 (v4 update)",
+  "doi": "10.1101/2024.05.26.595966",
+  "title": "Complementary vertebrate Wac models exhibit phenotypes relevant to DeSanto-Shinawi Syndrome",
+  "authors": "Lee KH, Stafford AM, Pacheco-Vergara M, Cichewicz K, Canales CP, Seban N, Corea M, Rahbarian D, Bonekamp KE, Gillie GR, Pacheco-Cruz D, Gill AM, Hwang HE, Uhl K, Shinawi M, Li X, Obenaus A, Crandall SR, Jeong J, Nord AS, Kim CH, Vogt D",
+  "corresponding_author": "Daniel Vogt (Michigan State University)",
+  "date_posted_v1": "2024-05-26",
+  "date_posted_v4": "2026-04-12",
+  "category": "neuroscience",
+  "autism_relevance": "MEDIUM - WAC gene (in gene list), DeSanto-Shinawi Syndrome (autism + epilepsy); mouse and zebrafish knockout models; transcriptional profiling of Wac loss-of-function in mice; GABAergic interneuron impacts; relevant to receptor-separation framework.",
+  "data_assets_described_in_abstract": ["mouse Wac KO transcriptomes", "zebrafish wac KO phenotypes"],
+  "accession_verified": "NO - bioRxiv egress blocked; data availability statement not inspected",
+  "decision": "DEFER_TO_RYAN - flag for manual check of data availability section",
+  "primary_url": "https://www.biorxiv.org/content/10.1101/2024.05.26.595966v4",
+  "last_seen": "2026-04-19"
+}
