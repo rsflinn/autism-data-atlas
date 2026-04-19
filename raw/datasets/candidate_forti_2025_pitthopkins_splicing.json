@@ -1,0 +1,16 @@
+{
+  "source": "bioRxiv preprint scan 2026-04-19",
+  "doi": "10.1101/2025.10.02.680092",
+  "title": "Abnormal expression of splicing regulators RBFOX and NOVA is associated with aberrant splicing patterns at the Neurexin-3 gene in a monogenic autism spectrum disorder",
+  "authors": "Forti PKK, Depieri LL, Hernandes BB, Bueno JGR, Giorgiani LA, Vercosa GD, Vasconcelos IC, Bengtson MH, Carazzolle MF, Camargo AP, Papes F",
+  "corresponding_author": "Fabio Papes (UNICAMP)",
+  "date_posted_v1": "2025-10-03",
+  "date_posted_v2": "2026-04-19",
+  "category": "neuroscience",
+  "autism_relevance": "MEDIUM - Pitt-Hopkins Syndrome (TCF4 haploinsufficiency); iPSC-derived neurons and organoids; RBFOX/NOVA family splicing alterations; NRXN3 isoform dysregulation. TCF4 and RBFOX1 are in the project gene list.",
+  "data_assets_described_in_abstract": ["patient iPSC-derived neurons", "cerebral organoids", "RNA-seq implied from splicing analyses"],
+  "accession_verified": "NO - bioRxiv egress blocked; data availability statement not inspected",
+  "decision": "DEFER_TO_RYAN - flag for manual check of data availability section",
+  "primary_url": "https://www.biorxiv.org/content/10.1101/2025.10.02.680092v2",
+  "last_seen": "2026-04-19"
+}

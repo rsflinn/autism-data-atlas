@@ -1,0 +1,15 @@
+{
+  "source": "bioRxiv preprint scan 2026-04-19",
+  "doi": "10.64898/2026.04.15.718677",
+  "title": "Histone H1 Variants Regulate Neurodevelopmental Transcriptional Programs in Autism with 16p11.2 deletion",
+  "authors": "Brudno R, Askayo D, Khair D, Shayevitch R, Keydar I, Zmudjak-Olevson M, Lev-Maor G, Zavolan M, Elkon R, Ast G",
+  "corresponding_author": "Gil Ast (Tel-Aviv University)",
+  "date_posted": "2026-04-16",
+  "category": "genomics",
+  "autism_relevance": "HIGH - GWAS associations between ASD susceptibility and HIST1 histone cluster; transcriptomic profiling in idiopathic ASD, 16p11.2 hemi-deletion carriers, schizophrenia, bipolar disorder; iPSC-derived NPCs, neurons, and cerebral organoids; MAZ-dependent regulation of H1 dosage.",
+  "data_assets_described_in_abstract": ["post-mortem brain transcriptomes", "patient-derived NPCs", "neurons", "cerebral organoids", "MAZ knockdown experiments"],
+  "accession_verified": "NO - bioRxiv egress blocked; data availability statement not inspected",
+  "decision": "DEFER_TO_RYAN - flag for manual check of data availability section",
+  "primary_url": "https://www.biorxiv.org/content/10.64898/2026.04.15.718677v1",
+  "last_seen": "2026-04-19"
+}
