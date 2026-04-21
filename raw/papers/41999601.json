@@ -1,0 +1,20 @@
+{
+  "pmid": "41999601",
+  "doi": "10.1016/j.celrep.2026.117262",
+  "title": "Cerebellar acceleration of learning in an evidence-accumulation task.",
+  "authors": "Oostland M et al.",
+  "journal": "Cell reports",
+  "date": "2026-04-16",
+  "abstract": "Cerebellum-specific transgenic autism model with disrupted Purkinje cell function shows accelerated learning and enhanced sensory reactivity. Links cerebellum-dependent sensory salience with weak coherence account of autism.",
+  "source": "pubmed",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism": 9,
+    "noncoding": 0,
+    "dataset": 4,
+    "novelty": 5,
+    "celltype": 3,
+    "severity": 2
+  },
+  "decision": "INTEGRATE"
+}

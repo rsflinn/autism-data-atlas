@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2025.10.02.680092",
+  "title": "Abnormal expression of splicing regulators RBFOX and NOVA is associated with aberrant splicing patterns at the Neurexin-3 gene in a monogenic autism spectrum disorder",
+  "authors": "Forti PKK et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-19",
+  "abstract": "Altered expression of splicing regulators RBFOX and NOVA linked to aberrant splicing at NRXN3 in a monogenic ASD model. Connects splicing regulator dysfunction to synaptic gene splicing defects.",
+  "source": "biorxiv",
+  "relevance_score": 31,
+  "score_breakdown": {
+    "autism": 10,
+    "noncoding": 6,
+    "dataset": 4,
+    "novelty": 6,
+    "celltype": 3,
+    "severity": 2
+  },
+  "decision": "INTEGRATE"
+}

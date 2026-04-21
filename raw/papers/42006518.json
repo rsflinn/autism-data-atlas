@@ -1,0 +1,20 @@
+{
+  "pmid": "42006518",
+  "doi": "10.7759/cureus.107120",
+  "title": "A Developmental Taxonomy of Autism and the Precision Timing of the Cheung Glutamatergic Regimen.",
+  "authors": "Cheung N",
+  "journal": "Cureus",
+  "date": "2026-04-15",
+  "abstract": "Review proposing two mechanistically distinct autism subtypes: early-diagnosed (Failure to Build, mitochondrial/ribosomal) and late-diagnosed (Failure to Refine, astrocyte dysfunction, complement pruning, LRRK2). Proposes glutamatergic drug regimen for post-pubertal late-diagnosed subtype.",
+  "source": "pubmed",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism": 10,
+    "noncoding": 3,
+    "dataset": 2,
+    "novelty": 4,
+    "celltype": 2,
+    "severity": 2
+  },
+  "decision": "INTEGRATE"
+}

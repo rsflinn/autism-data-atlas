@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.17.26351076",
+  "title": "Functional Connectivity of the Neonatal Cerebellum is Impacted by Sex and Polygenic Liability for Autism",
+  "authors": "Wagner L et al.",
+  "journal": "medRxiv",
+  "date": "2026-04-19",
+  "abstract": "Neonatal cerebellar functional connectivity altered by sex and autism polygenic liability. Suggests common inherited (predominantly noncoding) variants shape cerebellar circuits from infancy.",
+  "source": "medrxiv",
+  "relevance_score": 31,
+  "score_breakdown": {
+    "autism": 9,
+    "noncoding": 7,
+    "dataset": 4,
+    "novelty": 6,
+    "celltype": 2,
+    "severity": 3
+  },
+  "decision": "INTEGRATE"
+}
