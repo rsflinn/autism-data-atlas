@@ -1,0 +1,20 @@
+{
+  "pmid": "42006790",
+  "doi": "10.64898/2026.04.06.26350177",
+  "title": "Multiplex Portuguese Families as a Lens into rare mutations and the Shared Genetic Architecture of Schizophrenia, Mood Disorders, and Autism Spectrum Disorders.",
+  "authors": "Pato CN et al.",
+  "journal": "medRxiv",
+  "date": "2026-04-07",
+  "abstract": "WGS of multiplex Portuguese families shows cross-diagnostic co-segregation (28% psychotic+mood; 7% ID/ASD+SZ/mood) and identifies a rare predicted damaging variant in a single neurodevelopmental gene that spans multiple severe mental illness phenotypes.",
+  "source": "medrxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism": 9,
+    "noncoding": 5,
+    "dataset": 6,
+    "novelty": 7,
+    "celltype": 0,
+    "severity": 3
+  },
+  "decision": "INTEGRATE"
+}

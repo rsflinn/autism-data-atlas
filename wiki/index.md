@@ -177,3 +177,30 @@ Master index of all wiki pages with one-line summaries.
 
 - [Vermudez et al. 2026 — Increasing MeCP2 in Pitt-Hopkins (Tcf4) mice does not fix myelination but generates astrocytes](findings/41997465.md) (2026-04-15, score 27)
 - [Parasar et al. 2026 — Whole-genome 3D architectural screen of brain DNA structure (Plate-C)](findings/10.64898_2026.04.15.718501.md) (2026-04-17, score 25)
+
+## 2026-04-20 Daily Scan
+
+### INTEGRATE (7 papers)
+- [Forti et al. 2026 — RBFOX/NOVA splicing dysregulation at NRXN3 in monogenic ASD](findings/10_1101_2025_10_02_680092.md) - bioRxiv | Score: 31/50 | Splicing regulator dysfunction drives aberrant NRXN3 splicing; directly relevant to RBFOX1 + neurexin genes in core set
+- [Wagner et al. 2026 — Neonatal cerebellar functional connectivity impacted by sex and autism polygenic liability](findings/10_64898_2026_04_17_26351076.md) - medRxiv | Score: 31/50 | Common noncoding variants shape cerebellar circuits from infancy
+- [Pato et al. 2026 — Multiplex Portuguese families show shared genetic architecture of SZ/mood/ASD](findings/42006790.md) - medRxiv | Score: 30/50 | WGS of founder population reveals rare large-effect variants crossing diagnostic boundaries
+- [Castro et al. 2026 — Novel HCFC1 variants (including noncoding) in ASD/ADHD with brain malformations](findings/42004903.md) - Mol Genet Metab Rep | Score: 27/50 | One noncoding HCFC1 variant identified; phenotypic expansion beyond cblX
+- [Oostland et al. 2026 — Cerebellar Purkinje cell disruption accelerates learning in autism mouse model](findings/41999601.md) - Cell Reports | Score: 23/50 | Links cerebellum to sensory salience and weak coherence
+- [Cheung 2026 — Developmental taxonomy of autism: early vs late-diagnosed subtypes](findings/42006518.md) - Cureus | Score: 23/50 | Single-author conceptual review; Failure to Build vs Failure to Refine
+- [Sejd et al. 2026 — PSD3 identified as direct NUAK1 substrate regulating dendritic spines](findings/10_64898_2026_04_16_718295.md) - bioRxiv | Score: 22/50 | Chemical genetics links ASD-associated kinase to synaptic maturation
+
+### REVIEW (5 papers)
+- Shin et al. 2026 (PMID 42006949) - Dementia risk neuroanatomy in ASD | Score: 16/50 | Imaging only
+- Wen et al. 2026 (PMID 42001626) - Comorbidity-aware transfer learning for NDD diagnosis | Score: 14/50 | fMRI classifier
+- Awad et al. 2026 (PMID 42004618) - Nose-to-brain CBD micelles for ASD | Score: 13/50 | Drug delivery
+- Dalvi-Garcia et al. 2026 (PMID 42001525) - ASD invisibility in Brazilian suicide records | Score: 12/50 | Epidemiology
+- Licona et al. 2026 (PMID 42004682) - Spanish PRT autism early intervention | Score: 10/50 | Behavioral
+
+### SKIP (3 papers)
+- Lenker et al. 2026 (PMID 41999360) - Sleep intervention qualitative study
+- Xia et al. 2026 (PMID 42004597) - Algae polysaccharide VPA model neuroprotection
+- Hejlesen & Jensen 2026 (PMID 42006339) - Arts on prescription (autism tangential)
+
+### Notes
+- bioRxiv genomics category search timed out twice; coverage may be incomplete for that category.
+

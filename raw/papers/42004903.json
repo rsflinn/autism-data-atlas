@@ -1,0 +1,20 @@
+{
+  "pmid": "42004903",
+  "doi": "10.1016/j.ymgmr.2026.101309",
+  "title": "Novel HCFC1 variants identified in patients with ASD/ADHD and previously unreported structural brain malformations reveal the potential for phenotypic expansion.",
+  "authors": "Castro VL et al.",
+  "journal": "Molecular genetics and metabolism reports",
+  "date": "2026-04-04",
+  "abstract": "Pathogenic variants in HCFC1 (transcriptional cofactor) cause cblX syndrome, intellectual disability, or partial focal epilepsy. Report of 2 novel HCFC1 variants including one non-coding variant in patients with ASD/ADHD and structural brain malformations. Expands HCFC1 phenotype.",
+  "source": "pubmed",
+  "relevance_score": 27,
+  "score_breakdown": {
+    "autism": 8,
+    "noncoding": 7,
+    "dataset": 3,
+    "novelty": 6,
+    "celltype": 0,
+    "severity": 3
+  },
+  "decision": "INTEGRATE"
+}

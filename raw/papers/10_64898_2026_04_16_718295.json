@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.16.718295",
+  "title": "Chemical Genetic Screen Identifies PSD3 as a Direct Substrate of NUAK1 that Regulates Dendritic Spine Maturation",
+  "authors": "Sejd JR et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-19",
+  "abstract": "NUAK1 (ASD-associated serine-threonine kinase) phosphorylates PSD3 to regulate dendritic spine maturation. Chemical genetic screen identifies first direct NUAK1 substrate.",
+  "source": "biorxiv",
+  "relevance_score": 22,
+  "score_breakdown": {
+    "autism": 8,
+    "noncoding": 2,
+    "dataset": 3,
+    "novelty": 5,
+    "celltype": 3,
+    "severity": 1
+  },
+  "decision": "INTEGRATE"
+}
