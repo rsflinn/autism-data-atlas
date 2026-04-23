@@ -1,0 +1,29 @@
+{
+  "pmid": "42009985",
+  "title": "Genetic overlap and shared risk loci between autism spectrum disorder and cardiometabolic traits.",
+  "authors": "Muntane G et al.",
+  "journal": "Mol Psychiatry",
+  "date": "2026-04-20",
+  "abstract": "GWAS-based analysis using MiXeR and pleioFDR identifying polygenic overlap between ASD and cardiometabolic traits. 100 shared loci mapping to 124 genes; positive genetic correlation with metabolic traits (T2D rg=0.23, cholesterol rg=0.78) and negative with cardiovascular traits (coronary artery disease rg=-0.90).",
+  "source": "pubmed",
+  "relevance_score": 33,
+  "score_breakdown": {
+    "direct_autism": 9,
+    "noncoding_regulatory": 7,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type": 1,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1038/s41380-026-03563-x",
+  "genes_mentioned": [],
+  "concepts": [
+    "GWAS",
+    "pleiotropy",
+    "polygenic overlap",
+    "MiXeR",
+    "pleioFDR",
+    "cardiometabolic"
+  ]
+}
