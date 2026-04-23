@@ -1,0 +1,30 @@
+{
+  "pmid": "42010670",
+  "title": "Nitric oxide inhibition ameliorates cortical proteomic changes in the Cntnap2 and Shank3 mouse models of autism spectrum disorder.",
+  "authors": "Bazbaz W et al.",
+  "journal": "Mol Autism",
+  "date": "2026-04-20",
+  "abstract": "Nitric oxide inhibition ameliorates cortical proteomic changes in Cntnap2 and Shank3 mouse models of ASD.",
+  "source": "pubmed",
+  "relevance_score": 24,
+  "score_breakdown": {
+    "direct_autism": 9,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type": 2,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1186/s13229-026-00716-1",
+  "genes_mentioned": [
+    "CNTNAP2",
+    "SHANK3"
+  ],
+  "concepts": [
+    "mouse model",
+    "proteomics",
+    "nitric oxide",
+    "cortex"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "42020718",
+  "doi": "10.1038/s41380-026-03606-3",
+  "title": "Cell-type-specific genetic architecture reveals neuronal and immune contributions to neuropsychiatric disorders.",
+  "authors": "Wang X, Luo L, Chang S, Yang L",
+  "journal": "Molecular psychiatry",
+  "date": "2026-04-22",
+  "source": "pubmed",
+  "abstract": "Neuropsychiatric disorders exhibit complex polygenic architectures, yet the cell-type-specific mechanisms underlying most risk loci remain unclear. Integrates single-cell expression quantitative trait locus (sc-eQTL) data from brain and blood tissues with GWAS of six neuropsychiatric disorders (SCZ, PD, BP, MDD, ADHD, ASD) to systematically identify putative causal genes at cellular resolution. SMR across diverse neuronal and immune cell types discovered 345 cell-type-specific risk genes, including replicated candidates (MAPT in astrocytes for SCZ and PD; FLOT1 in excitatory and inhibitory neurons for SCZ, BP, MDD) and novel associations (APTX in microglia for SCZ). Cross-disorder analyses revealed shared pathways in synaptic function and immune regulation; disease-specific and tissue-specific patterns were observed. Brain-derived risk genes showed significantly higher cell-type specificity than blood-derived.",
+  "relevance_score": 37,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 9,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

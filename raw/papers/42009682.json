@@ -1,0 +1,29 @@
+{
+  "pmid": "42009682",
+  "title": "Dynamic recruitment of CaMKII into SHANK3 phase-separated condensates tunes postsynaptic density remodeling during long-term potentiation.",
+  "authors": "Liu X et al.",
+  "journal": "Nat Commun",
+  "date": "2026-04-20",
+  "abstract": "SHANK3 phase separation recruits CaMKII to PSD during LTP; autism-related SHANK3 InsG3680 mutation disrupts condensate dynamics and PSD remodeling.",
+  "source": "pubmed",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "direct_autism": 7,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 3,
+    "novelty": 6,
+    "cell_type": 2,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1038/s41467-026-72234-w",
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "concepts": [
+    "liquid-liquid phase separation",
+    "postsynaptic density",
+    "LTP",
+    "CaMKII"
+  ]
+}

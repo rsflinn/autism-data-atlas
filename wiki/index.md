@@ -204,3 +204,32 @@ Master index of all wiki pages with one-line summaries.
 ### Notes
 - bioRxiv genomics category search timed out twice; coverage may be incomplete for that category.
 
+
+## 2026-04-22 Daily Scan
+
+### INTEGRATE (3 papers)
+- [Muntane et al. 2026 — Genetic overlap and shared risk loci between ASD and cardiometabolic traits](findings/42009985.md) - Mol Psychiatry | Score: 33/50 | MiXeR+pleioFDR identify 100 shared loci/124 genes between ASD and cardiometabolic GWAS
+- [Bazbaz et al. 2026 — Nitric oxide inhibition ameliorates cortical proteomic changes in Cntnap2 and Shank3 ASD mouse models](findings/42010670.md) - Mol Autism | Score: 24/50 | nNOS inhibition reverses convergent cortical proteomic changes across two ASD models
+- [Liu et al. 2026 — SHANK3 phase-separated condensates recruit CaMKII during LTP](findings/42009682.md) - Nat Commun | Score: 20/50 | Autism-linked SHANK3 InsG3680 mutation disrupts condensate dynamics and PSD remodeling
+
+### REVIEW (1 paper)
+- Joo et al. 2026 (PMID 42011000) - Korean ID psychiatric comorbidity trends 2012-2021 | Score: 11/50 | Epidemiology only, no variant data
+
+### SKIP (2 papers)
+- Bereda et al. 2026 (PMID 42016254) - Camel milk review (tangential autism mention)
+- Vahamaki et al. 2026 (PMID 42010886) - Finnish Fuchs corneal dystrophy TCF4 (ocular, not NDD)
+
+### Notes
+- bioRxiv/medRxiv searches for recent_days=1 returned zero results across all four categories (genetics, neuroscience, genomics, medrxiv).
+
+## 2026-04-23 Daily Scan
+
+### INTEGRATE (1 paper)
+- [Wang et al. 2026 — Cell-type-specific genetic architecture of neuropsychiatric disorders (sc-eQTL + SMR, includes ASD)](findings/42020718.md) - Mol Psychiatry | Score: 37/50 | 345 cell-type-specific risk genes across 6 disorders; brain risk genes more cell-type specific than blood; shared synaptic + immune pathways
+
+### SKIP (1 paper)
+- Bereda et al. 2026 (PMID 42016254) - Camel milk functional food review (tangential autism mention, no genetics)
+
+### Notes
+- bioRxiv/medRxiv searches for recent_days=1 returned zero results across all four categories (genetics, neuroscience, genomics, medrxiv).
+- Only 2 PubMed hits total across all four queries for the 24-hour window.
