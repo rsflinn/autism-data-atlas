@@ -1,0 +1,31 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2024.04.11.588920",
+  "title": "The landscape of regional missense mutational intolerance quantified from 730,947 exomes",
+  "authors": "Wang L et al. (gnomAD)",
+  "journal": "bioRxiv",
+  "date": "2026-04-23",
+  "abstract": "gnomAD v4 regional missense constraint quantified across 730,947 exomes. Provides sub-gene resolution intolerance scores for variant interpretation, improving ability to distinguish tolerated from pathogenic missense variants in constrained gene regions.",
+  "source": "biorxiv",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "direct_autism": 3,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 10,
+    "novelty": 7,
+    "cell_type": 0,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "gnomAD",
+    "regional missense constraint",
+    "variant interpretation",
+    "population genomics"
+  ],
+  "methods": "gnomAD v4 exomes, regional missense Z-score framework",
+  "evidence_tier": "A",
+  "summary": "gnomAD v4 regional missense constraint framework trained on 730,947 exomes. Directly usable resource for variant interpretation across the 49-gene set -- especially useful for classifying inherited missense variants in constrained exonic regions.",
+  "scan_timestamp": "2026-04-24T14:04:42Z"
+}

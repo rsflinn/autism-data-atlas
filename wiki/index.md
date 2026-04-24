@@ -233,3 +233,13 @@ Master index of all wiki pages with one-line summaries.
 ### Notes
 - bioRxiv/medRxiv searches for recent_days=1 returned zero results across all four categories (genetics, neuroscience, genomics, medrxiv).
 - Only 2 PubMed hits total across all four queries for the 24-hour window.
+
+
+## Daily Scan -- 2026-04-24
+
+- [A single-cell multiomic analysis identifies molecular and gene-regulatory mechanisms dysregulated in developing Down syndrome neocortex](./findings/42024758.md) -- Vuong CK et al., Science 2026-04-23 (score 42)
+- [Autism Spectrum Disorder Caused by a Novel De Novo SCN2A Mutation: A Case Report](./findings/42023993.md) -- Gao J et al., Int J Dev Neurosci 2026-04 (score 19)
+- [Linked origins but distinct roles for extreme length and sequence variation at a tandem repeat in CACNA1C](./findings/10.64898_2026.04.23.720446.md) -- Song J et al., bioRxiv 2026-04-23 (score 29)
+- [Pubertal development and hypothalamic-pituitary-gonadal axis are altered in male mice lacking Mecp2](./findings/10.1101_2025.08.19.671012.md) -- Martin-Sanchez A et al., bioRxiv 2026-04-24 (score 18)
+- [Tbx1 Heterozygosity in the Oligodendrocyte Lineage Shifts Myelinated Axon Composition in the Mouse Fimbria Without Behavioral Impairments](./findings/10.64898_2025.12.30.697076.md) -- Wells AM et al., bioRxiv 2026-04-24 (score 17)
+- [The landscape of regional missense mutational intolerance quantified from 730,947 exomes](./findings/10.1101_2024.04.11.588920.md) -- Wang L et al., bioRxiv 2026-04-23 (score 21)

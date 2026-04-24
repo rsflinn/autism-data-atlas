@@ -1,0 +1,34 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.04.23.720446",
+  "title": "Linked origins but distinct roles for extreme length and sequence variation at a tandem repeat in CACNA1C",
+  "authors": "Song J, Zhao V, Grant RL, Kingsley DM",
+  "journal": "bioRxiv",
+  "date": "2026-04-23",
+  "abstract": "Characterizes TRACT, a 30-bp variable number tandem repeat in CACNA1C, dissecting length variation from sequence variation. CACNA1C is a major GWAS locus for schizophrenia and bipolar disorder. Tandem repeat length variation at regulatory loci is an emerging source of disease risk not captured by standard WGS variant callers.",
+  "source": "biorxiv",
+  "relevance_score": 29,
+  "score_breakdown": {
+    "direct_autism": 4,
+    "noncoding_regulatory": 10,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type": 1,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "tandem repeat",
+    "VNTR",
+    "CACNA1C",
+    "regulatory variation",
+    "calcium channel",
+    "psychiatric GWAS",
+    "length variation vs sequence variation"
+  ],
+  "methods": "Tandem repeat characterization, comparative genomics",
+  "evidence_tier": "B",
+  "summary": "Dissects a 30-bp VNTR in CACNA1C (major psychiatric GWAS locus) into length vs sequence components with distinct roles. Relevant because CACNA1 family (CACNA1A/E/G in our 49-gene set) and the broader point that VNTRs carry disease-relevant regulatory signal missed by SNP-only analyses.",
+  "scan_timestamp": "2026-04-24T14:04:42Z"
+}

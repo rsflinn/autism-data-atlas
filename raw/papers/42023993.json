@@ -1,0 +1,34 @@
+{
+  "pmid": "42023993",
+  "doi": "10.1002/jdn.70127",
+  "title": "Autism Spectrum Disorder Caused by a Novel De Novo SCN2A Mutation: A Case Report",
+  "authors": "Gao J et al.",
+  "journal": "Int J Dev Neurosci",
+  "date": "2026-04",
+  "abstract": "Case report of 6-year-old female with ASD, language delay, social communication disorder, WITHOUT epilepsy, carrying heterozygous SCN2A c.4023_4077del (p.Val1343Alafs*17) de novo frameshift. Reinforces SCN2A phenotype spectrum dissociation between ASD-only and ASD+epilepsy presentations.",
+  "source": "pubmed",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "direct_autism": 10,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 1,
+    "novelty": 4,
+    "cell_type": 0,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "concepts": [
+    "SCN2A",
+    "haploinsufficiency",
+    "ASD without epilepsy",
+    "phenotype dissociation",
+    "sodium channel"
+  ],
+  "methods": "Whole-exome sequencing, case report",
+  "evidence_tier": "C",
+  "summary": "Case report of novel de novo SCN2A frameshift in 6-year-old with ASD and language delay but no seizures. Adds to evidence that SCN2A ASD-only vs ASD+epilepsy dissociation is a real phenotypic axis.",
+  "scan_timestamp": "2026-04-24T14:04:42Z"
+}

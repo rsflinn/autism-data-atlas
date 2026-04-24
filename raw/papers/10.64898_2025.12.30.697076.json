@@ -1,0 +1,33 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2025.12.30.697076",
+  "title": "Tbx1 Heterozygosity in the Oligodendrocyte Lineage Shifts Myelinated Axon Composition in the Mouse Fimbria Without Behavioral Impairments",
+  "authors": "Wells AM et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-24",
+  "abstract": "Constitutive Tbx1 heterozygosity (model of 22q11.2 deletion syndrome, a high-penetrance NDD/psychosis risk CNV) produces behavioral deficits and altered myelinated axon composition. This paper dissects oligodendrocyte-lineage-specific Tbx1 heterozygosity and finds altered fimbria myelin composition WITHOUT behavioral deficits -- dissociating cell-lineage-specific myelin changes from behavioral phenotype.",
+  "source": "biorxiv",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "direct_autism": 3,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 3,
+    "novelty": 5,
+    "cell_type": 3,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "Tbx1",
+    "22q11.2 deletion syndrome",
+    "oligodendrocyte",
+    "myelination",
+    "cell-type-specific heterozygosity",
+    "behavior dissociation"
+  ],
+  "methods": "Conditional heterozygous mouse model, myelin composition analysis, behavioral phenotyping",
+  "evidence_tier": "C",
+  "summary": "22q11.2 / Tbx1 heterozygosity restricted to oligodendrocyte lineage shifts myelin composition but does not reproduce behavioral deficits, dissociating a cellular phenotype from behavior. Relevant to severity-disconnect workstream.",
+  "scan_timestamp": "2026-04-24T14:04:42Z"
+}
