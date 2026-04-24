@@ -1,0 +1,35 @@
+{
+  "pmid": "42024758",
+  "doi": "10.1126/science.aea1259",
+  "title": "A single-cell multiomic analysis identifies molecular and gene-regulatory mechanisms dysregulated in developing Down syndrome neocortex",
+  "authors": "Vuong CK et al.",
+  "journal": "Science",
+  "date": "2026-04-23",
+  "abstract": "snMultiomics (RNA + chromatin accessibility) in human mid-gestation neocortex from 26 donors. Identified reduction in neural progenitors and corticothalamic neurons, increase in intratelencephalic neurons, and accelerated neuronal specification in DS. Uncovered widespread changes in gene expression, chromatin accessibility, and gene-regulatory networks including those downstream of HSA21 genes. Identified cell-specific molecular pathways shared with other neurodevelopmental disorders and enrichment of GWAS signals in DS-altered chromatin.",
+  "source": "pubmed",
+  "relevance_score": 42,
+  "score_breakdown": {
+    "direct_autism": 6,
+    "noncoding_regulatory": 10,
+    "dataset_availability": 9,
+    "novelty": 9,
+    "cell_type": 5,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "single-cell multiomics",
+    "chromatin accessibility",
+    "gene regulatory networks",
+    "mid-gestation neocortex",
+    "Down syndrome",
+    "GWAS enrichment",
+    "cell-type specificity",
+    "neurodevelopmental convergence"
+  ],
+  "methods": "snMultiomics (snRNA + snATAC) on 26 donor mid-gestation neocortex samples; cell interaction network inference; GRN inference; GWAS enrichment in DS-altered chromatin",
+  "evidence_tier": "B",
+  "summary": "Mid-gestation snMultiomics of 26 human donors finds DS neocortex has reduced progenitors, accelerated neuronal specification, and GWAS signal enrichment in DS-altered chromatin. Explicitly identifies cell-specific regulatory pathways shared across neurodevelopmental disorders.",
+  "scan_timestamp": "2026-04-24T14:04:42Z"
+}

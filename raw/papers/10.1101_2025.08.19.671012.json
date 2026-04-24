@@ -1,0 +1,34 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2025.08.19.671012",
+  "title": "Pubertal development and hypothalamic-pituitary-gonadal axis are altered in male mice lacking Mecp2",
+  "authors": "Martin-Sanchez A et al.",
+  "journal": "bioRxiv",
+  "date": "2026-04-24",
+  "abstract": "MECP2 null male mice show altered pubertal development and hypothalamic-pituitary-gonadal axis dysfunction. Extends MECP2 phenotype beyond classical Rett syndrome CNS features to neuroendocrine axis.",
+  "source": "biorxiv",
+  "relevance_score": 18,
+  "score_breakdown": {
+    "direct_autism": 6,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 3,
+    "novelty": 5,
+    "cell_type": 2,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "concepts": [
+    "MECP2",
+    "Rett syndrome",
+    "hypothalamic-pituitary-gonadal axis",
+    "mouse model",
+    "pubertal development"
+  ],
+  "methods": "Mecp2 null mouse model, endocrine and developmental assays",
+  "evidence_tier": "C",
+  "summary": "Mecp2-null male mice show disrupted puberty and HPG axis. MECP2 is in our 49-gene set (Rett). Relevance is marginal for regulatory variants but notable for MECP2 phenotype breadth.",
+  "scan_timestamp": "2026-04-24T14:04:42Z"
+}
