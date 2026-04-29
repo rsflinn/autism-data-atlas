@@ -1,0 +1,948 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Autism Brain Atlas</title>
+<meta name="description" content="An open-source tool for exploring autism's genetic roots. Studies, datasets, findings.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=League+Spartan:wght@600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --violet:  #9B5BA0;
+    --red:     #E94835;
+    --orange:  #E5824A;
+
+    /* Background sampled from the flower-head photo so page and photo bleed seamlessly */
+    --bg-1:    #A5C7D5;   /* top — matches photo's upper backdrop */
+    --bg-2:    #7E97A4;   /* mid — matches photo's middle backdrop */
+    --bg-3:    #5A6E76;   /* bottom — matches photo's lower backdrop */
+    --ink:     #1F2A36;
+    --ink-2:   #4B5663;
+    --ink-3:   #7A8693;
+    --rule:    rgba(31, 42, 54, 0.14);
+    --rule-2:  rgba(31, 42, 54, 0.06);
+    --paper:   #EFF2F5;
+
+    --serif:   "League Spartan", system-ui, sans-serif;
+    --sans:    "Inter", system-ui, -apple-system, sans-serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    background:
+      linear-gradient(180deg,
+        var(--bg-1) 0%,
+        var(--bg-1) 25%,
+        var(--bg-2) 60%,
+        var(--bg-3) 100%);
+    background-attachment: fixed;
+    color: var(--ink);
+    font-family: var(--sans);
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    min-height: 100vh;
+  }
+
+  /* Subtle paper-grain noise overlay */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 240 240' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/></svg>");
+    opacity: 0.06;
+    mix-blend-mode: multiply;
+  }
+
+  body > * { position: relative; z-index: 1; }
+
+  a { color: inherit; text-decoration: none; }
+  button { cursor: pointer; font-family: inherit; }
+
+  /* ─── Container ─── */
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 56px;
+  }
+  @media (max-width: 800px) {
+    .container { padding: 0 24px; }
+  }
+
+  /* ─── Top nav ─── */
+  header.nav {
+    padding: 28px 0 12px;
+    border-bottom: 1px solid var(--rule-2);
+  }
+  .nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  .wordmark {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .wordmark .dot {
+    display: inline-block;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--red);
+    margin-right: 9px;
+    vertical-align: 1px;
+  }
+  nav.primary ul {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  nav.primary a {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--ink-2);
+    padding: 6px 0;
+    border-bottom: 1px solid transparent;
+    transition: color .2s ease, border-color .2s ease;
+  }
+  nav.primary a:hover { color: var(--red); border-color: var(--red); }
+  nav.primary a.current { color: var(--ink); border-color: var(--ink); }
+
+  /* ─── Hero — full-bleed, image spans to right edge of viewport ─── */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 64px 0 80px;
+  }
+
+  .hero-inner {
+    position: relative;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 56px;
+    z-index: 2;
+  }
+
+  .hero-text {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    width: 56%;
+    max-width: 760px;
+  }
+
+  /* Image bleeds off the right edge of the viewport — no rectangle, no box */
+  .hero-image-wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 58vw;
+    max-width: 1200px;
+    z-index: 1;
+    pointer-events: none;
+  }
+  .hero-image-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: right center;
+    user-select: none;
+    animation: bob 14s ease-in-out infinite;
+    /* Soft fade on the LEFT edge of image so it bleeds into page bg without a hard line */
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 18%, #000 100%);
+    mask-image: linear-gradient(90deg, transparent 0%, #000 18%, #000 100%);
+  }
+
+  @media (max-width: 980px) {
+    .hero { padding: 40px 0 60px; min-height: auto; }
+    .hero-text { width: 100%; max-width: 100%; }
+    .hero-image-wrap {
+      position: relative;
+      top: auto; right: auto; bottom: auto;
+      width: 100%;
+      height: 56vh;
+      margin-top: 32px;
+    }
+    .hero-image-wrap img {
+      object-position: center;
+      -webkit-mask-image: none;
+      mask-image: none;
+    }
+  }
+
+  h1.title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(96px, 14vw, 240px);
+    line-height: 0.88;
+    letter-spacing: -0.035em;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  h1.title span { display: block; }
+  h1.title .t-autism { color: var(--violet); }
+  h1.title .t-brain  { color: var(--red); }
+  h1.title .t-atlas  { color: var(--orange); }
+
+  .tagline {
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: clamp(22px, 2.1vw, 32px);
+    line-height: 1.35;
+    color: #FFFFFF;
+    max-width: 38ch;
+    margin-top: 6px;
+    text-shadow: 0 1px 12px rgba(31, 42, 54, 0.18);
+  }
+
+  .contents {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    margin-top: 12px;
+  }
+  .cta-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    padding: 16px 28px;
+    border-radius: 999px;
+    border: 1px solid var(--ink);
+    transition: background .2s ease, transform .2s ease;
+  }
+  .cta-primary:hover {
+    background: #2a3641;
+    transform: translateY(-1px);
+  }
+  .cta-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--ink);
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    padding: 16px 24px;
+    border-radius: 999px;
+    border: 1px solid var(--ink);
+    background: transparent;
+    transition: background .2s ease, color .2s ease;
+  }
+  .cta-secondary:hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .cta-secondary .arrow { transition: transform .2s ease; }
+  .cta-secondary:hover .arrow { transform: translateX(3px); }
+
+  /* ─── Hero image ─── */
+  .hero-image {
+    position: relative;
+    height: 100%;
+    min-height: 540px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .hero-image img {
+    width: 100%;
+    height: 100%;
+    max-height: 720px;
+    object-fit: contain;
+    object-position: center;
+    user-select: none;
+    animation: bob 12s ease-in-out infinite;
+  }
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50%      { transform: translateY(-8px); }
+  }
+
+  /* ─── Search ─── */
+  .search-section {
+    padding: 32px 0 56px;
+    border-top: 1px solid var(--rule-2);
+  }
+  .search-bar {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: stretch;
+    background: rgba(255, 255, 255, 0.45);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    overflow: hidden;
+    backdrop-filter: blur(4px);
+  }
+  .search-bar input {
+    background: transparent;
+    border: 0;
+    outline: 0;
+    padding: 18px 28px;
+    font-family: var(--sans);
+    font-size: 16px;
+    color: var(--ink);
+  }
+  .search-bar input::placeholder {
+    color: var(--ink-3);
+  }
+  .search-bar button.go {
+    border: 0;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.04em;
+    padding: 0 32px;
+    border-radius: 999px;
+    margin: 4px;
+    transition: background .2s ease;
+  }
+  .search-bar button.go:hover { background: #2a3641; }
+
+  .search-meta {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-top: 14px;
+    flex-wrap: wrap;
+  }
+  .filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .chip {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color: var(--ink-2);
+    background: transparent;
+    border: 1px solid var(--rule);
+    padding: 6px 12px;
+    border-radius: 999px;
+    transition: all .2s ease;
+  }
+  .chip:hover { border-color: var(--ink); color: var(--ink); }
+  .chip.active {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  .examples {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 14px;
+  }
+  .examples-label {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .ex {
+    font-family: var(--sans);
+    font-size: 13px;
+    color: var(--ink-2);
+    background: transparent;
+    border: 0;
+    padding: 2px 0;
+    border-bottom: 1px dashed var(--rule);
+    transition: color .2s ease, border-color .2s ease;
+  }
+  .ex:hover { color: var(--red); border-bottom-color: var(--red); }
+
+  /* ─── Latest additions ─── */
+  .latest {
+    padding: 24px 0 56px;
+  }
+  .section-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 22px;
+    border-bottom: 1px solid var(--rule);
+    padding-bottom: 12px;
+  }
+  .section-head h2 {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 22px;
+    letter-spacing: -0.005em;
+    color: var(--ink);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .pulse {
+    display: inline-block;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--red);
+    box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.6);
+    animation: pulse 2.4s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.4); }
+    50%      { box-shadow: 0 0 0 8px rgba(233, 72, 53, 0); }
+  }
+  .section-head a.more {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    color: var(--ink-2);
+    text-transform: uppercase;
+  }
+  .section-head a.more:hover { color: var(--red); }
+
+  .feed-cards {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 1024px) {
+    .feed-cards { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 600px) {
+    .feed-cards { grid-template-columns: 1fr; }
+  }
+
+  .card {
+    background: rgba(255, 255, 255, 0.45);
+    border: 1px solid var(--rule-2);
+    padding: 18px 18px 16px;
+    border-radius: 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    min-height: 160px;
+    transition: background .2s ease, border-color .2s ease, transform .2s ease;
+    cursor: pointer;
+  }
+  .card:hover {
+    background: rgba(255, 255, 255, 0.7);
+    border-color: var(--rule);
+    transform: translateY(-2px);
+  }
+  .card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 500;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .card-meta .journal { color: var(--ink-2); }
+  .card-title {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 1.18;
+    color: var(--ink);
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-tags {
+    margin-top: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+  }
+  .tag {
+    font-family: var(--sans);
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    color: var(--orange);
+    border: 1px solid rgba(229, 130, 74, 0.4);
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+
+  /* ─── Stats ─── */
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border-top: 1px solid var(--rule);
+    padding: 32px 0 36px;
+    gap: 0;
+  }
+  @media (max-width: 760px) {
+    .stats { grid-template-columns: repeat(2, 1fr); gap: 18px; }
+  }
+  .stat {
+    padding: 0 24px;
+    border-left: 1px solid var(--rule-2);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .stat:first-child { border-left: 0; padding-left: 0; }
+  .stat .num {
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: clamp(36px, 4vw, 52px);
+    line-height: 1;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .stat .num .unit { font-size: 0.55em; font-weight: 600; color: var(--ink-2); margin-left: 2px; }
+  .stat .lbl {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+  }
+
+  /* ─── Menu button (top-right, fixed) ─── */
+  .menu-btn {
+    position: fixed;
+    top: 28px;
+    right: 32px;
+    z-index: 100;
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(31, 42, 54, 0.12);
+    border-radius: 999px;
+    padding: 10px 18px 10px 16px;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink);
+    cursor: pointer;
+    transition: background .2s ease, transform .2s ease;
+  }
+  .menu-btn:hover { background: rgba(255, 255, 255, 0.85); transform: translateY(-1px); }
+  .menu-btn .icon {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .menu-btn .icon span {
+    display: block;
+    width: 18px;
+    height: 1.5px;
+    background: var(--ink);
+    border-radius: 1px;
+  }
+
+  /* Full-screen overlay menu */
+  .menu-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    background: rgba(31, 42, 54, 0.97);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity .25s ease;
+  }
+  .menu-overlay.open { display: flex; opacity: 1; }
+  .menu-close {
+    position: absolute;
+    top: 28px;
+    right: 32px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 999px;
+    padding: 10px 18px;
+    color: #FFFFFF;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background .2s ease, border-color .2s ease;
+  }
+  .menu-close:hover { background: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.5); }
+  .menu-overlay nav {
+    text-align: center;
+  }
+  .menu-overlay nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .menu-overlay nav a {
+    display: inline-block;
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: clamp(40px, 6vw, 80px);
+    color: #FFFFFF;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    transition: color .2s ease, transform .2s ease;
+  }
+  .menu-overlay nav a:hover {
+    color: var(--orange);
+    transform: translateX(4px);
+  }
+  .menu-overlay .menu-foot {
+    position: absolute;
+    bottom: 32px;
+    left: 0; right: 0;
+    text-align: center;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.5);
+    letter-spacing: 0.06em;
+  }
+
+  /* ─── Footer ─── */
+  footer {
+    border-top: 1px solid var(--rule);
+    padding: 28px 0 36px;
+    margin-top: 24px;
+  }
+  .foot-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .credit {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 400;
+    color: var(--ink-2);
+    max-width: 64ch;
+    line-height: 1.6;
+  }
+  .foot-links {
+    list-style: none;
+    display: flex;
+    gap: 22px;
+  }
+  .foot-links a {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+    transition: color .2s ease;
+  }
+  .foot-links a:hover { color: var(--red); }
+</style>
+</head>
+<body>
+
+<button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-haspopup="true">
+  <span class="icon" aria-hidden="true"><span></span><span></span><span></span></span>
+  Menu
+</button>
+
+<div class="menu-overlay" id="menuOverlay" role="dialog" aria-modal="true" aria-label="Site navigation">
+  <button class="menu-close" id="menuClose" aria-label="Close menu">Close</button>
+  <nav>
+    <ul>
+      <li><a href="#brain-explorer">Brain Explorer</a></li>
+      <li><a href="#datasets">Datasets</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#genes">Genes</a></li>
+      <li><a href="#getting-started">Getting Started</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+  </nav>
+  <div class="menu-foot">Autism Brain Atlas · Free for anyone to use</div>
+</div>
+
+<main>
+  <section class="hero">
+    <div class="hero-image-wrap">
+      <img src="Glass Brain Flowers.png" alt="Glass head with flowers, representing the diverse genetic roots of autism">
+    </div>
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1 class="title">
+          <span class="t-autism">Autism</span>
+          <span class="t-brain">Brain</span>
+          <span class="t-atlas">Atlas</span>
+        </h1>
+        <p class="tagline">An open-source tool for exploring<br>autism's genetic roots.</p>
+        <p class="contents">Studies · Datasets · Findings</p>
+        <div class="cta-row">
+          <a href="#research" class="cta-primary">Browse the studies</a>
+          <a href="#datasets" class="cta-secondary">
+            Explore the data
+            <span class="arrow">→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="search-section">
+    <div class="container">
+      <form class="search-bar" id="searchForm" autocomplete="off">
+        <input id="searchInput" type="text" placeholder="Search studies, genes, datasets, findings…">
+        <button type="submit" class="go">Search</button>
+      </form>
+      <div class="search-meta">
+        <div class="filter-chips" role="tablist">
+          <button class="chip active" data-cat="all">All</button>
+          <button class="chip" data-cat="studies">Studies</button>
+          <button class="chip" data-cat="genes">Genes</button>
+          <button class="chip" data-cat="datasets">Datasets</button>
+          <button class="chip" data-cat="findings">Findings</button>
+        </div>
+      </div>
+      <div class="examples">
+        <span class="examples-label">Try</span>
+        <button class="ex">How autism is inherited</button>
+        <button class="ex">Brain development</button>
+        <button class="ex">Autism and epilepsy</button>
+        <button class="ex">Common vs. rare causes</button>
+        <button class="ex">What's still unknown</button>
+      </div>
+    </div>
+  </section>
+
+  <section class="latest">
+    <div class="container">
+      <div class="section-head">
+        <h2><span class="pulse"></span>Recently added</h2>
+        <a href="#research" class="more">All research →</a>
+      </div>
+      <div class="feed-cards" id="feedCards">
+        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
+        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
+        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
+        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="container">
+      <div class="stats" id="stats">
+        <div class="stat"><span class="num" data-target="56">0</span><span class="lbl">Studies indexed</span></div>
+        <div class="stat"><span class="num" data-target="13">0</span><span class="lbl">Datasets cataloged</span></div>
+        <div class="stat"><span class="num" data-target="49">0</span><span class="lbl">Genes profiled</span></div>
+        <div class="stat"><span class="num" data-target="2.37" data-suffix="M">0</span><span class="lbl">Variants annotated</span></div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="container">
+    <div class="foot-row">
+      <p class="credit">Built and maintained by Ryan Flinn, an independent journalist covering health and science. Free for anyone to use.</p>
+      <ul class="foot-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="https://github.com" target="_blank" rel="noopener">Source</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script src="papers_feed.js"></script>
+<script>
+  // ─── Latest-additions feed ───
+  (function feed() {
+    const host = document.getElementById('feedCards');
+    if (!window.PAPERS_FEED || !Array.isArray(window.PAPERS_FEED.papers)) return;
+
+    // Cap displayed dates at the feed's last_updated so PubMed
+    // issue-month dates (e.g. May 1 for an April online paper)
+    // don't read as "future" to a casual reader. The section heading
+    // is "Recently added" — show when the atlas last picked the paper up.
+    const cap = window.PAPERS_FEED.last_updated || '';
+    function displayDate(paperDate) {
+      if (!paperDate) return cap;
+      if (cap && paperDate > cap) return cap;
+      return paperDate;
+    }
+
+    const papers = window.PAPERS_FEED.papers
+      .slice()
+      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+      .slice(0, 4);
+
+    function fmtDate(d) {
+      if (!d) return '';
+      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      const parts = d.split('-');
+      if (parts.length >= 2) {
+        const m = months[parseInt(parts[1], 10) - 1] || '';
+        const day = parts[2] ? parseInt(parts[2], 10) : '';
+        return (day ? day + ' ' : '') + m + ' ' + parts[0];
+      }
+      return d;
+    }
+    function shortJ(j) {
+      const map = {
+        'bioRxiv':'bioRxiv','medRxiv':'medRxiv',
+        'Mol Psychiatry':'Mol. Psychiatry','Nat Commun':'Nat. Commun.',
+        'Mol Autism':'Mol. Autism','Cell reports':'Cell Reports','Cell Reports':'Cell Reports',
+        'Mol Cell Neurosci':'Mol. Cell Neurosci.','Int J Mol Sci':'Int. J. Mol. Sci.',
+        'J Chem Inf Model':'J. Chem. Inf. Model.','Int J Dev Neurosci':'Int. J. Dev. Neurosci.',
+        'Genetics':'Genetics','Protein Sci':'Protein Sci.','Dev Sci':'Dev. Sci.'
+      };
+      return map[j] || j || '—';
+    }
+
+    host.innerHTML = '';
+    papers.forEach(p => {
+      const card = document.createElement('a');
+      card.className = 'card';
+      card.href = p.url || '#research';
+      if (p.url) { card.target = '_blank'; card.rel = 'noopener'; }
+      card.title = p.summary || p.title || '';
+
+      const tagsHtml = (Array.isArray(p.genes_mentioned) ? p.genes_mentioned : [])
+        .slice(0, 2)
+        .map(g => `<span class="tag">${g}</span>`)
+        .join('');
+
+      card.innerHTML = `
+        <div class="card-meta">
+          <span class="journal">${shortJ(p.journal)}</span>
+          <span class="date">${fmtDate(displayDate(p.date))}</span>
+        </div>
+        <div class="card-title">${p.title || ''}</div>
+        <div class="card-tags">${tagsHtml}</div>
+      `;
+      host.appendChild(card);
+    });
+  })();
+
+  // ─── Animated stat counters ───
+  (function stats() {
+    const els = document.querySelectorAll('#stats .num');
+    const dur = 1400;
+    function ease(t) { return 1 - Math.pow(1 - t, 3); }
+    let started = false;
+    function animate() {
+      if (started) return;
+      started = true;
+      const t0 = performance.now();
+      function tick(now) {
+        const t = Math.min(1, (now - t0) / dur);
+        els.forEach(el => {
+          const target = parseFloat(el.dataset.target);
+          const suf = el.dataset.suffix || '';
+          const isFloat = !Number.isInteger(target);
+          const v = target * ease(t);
+          const text = isFloat ? v.toFixed(2) : Math.round(v).toLocaleString();
+          el.innerHTML = text + (suf ? `<span class="unit">${suf}</span>` : '');
+        });
+        if (t < 1) requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    }
+    // Trigger on scroll into view, or immediately if visible
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) animate(); });
+    }, { threshold: 0.3 });
+    io.observe(document.getElementById('stats'));
+  })();
+
+  // ─── Filter chips ───
+  document.querySelectorAll('.filter-chips .chip').forEach(c => {
+    c.addEventListener('click', () => {
+      document.querySelectorAll('.filter-chips .chip').forEach(x => x.classList.remove('active'));
+      c.classList.add('active');
+    });
+  });
+
+  // ─── Example queries fill the search box ───
+  document.querySelectorAll('.examples .ex').forEach(b => {
+    b.addEventListener('click', () => {
+      const input = document.getElementById('searchInput');
+      input.value = b.textContent;
+      input.focus();
+    });
+  });
+
+  // ─── Menu overlay open/close ───
+  (function menu() {
+    const btn = document.getElementById('menuBtn');
+    const overlay = document.getElementById('menuOverlay');
+    const close = document.getElementById('menuClose');
+    function open() { overlay.classList.add('open'); document.body.style.overflow = 'hidden'; }
+    function shut() { overlay.classList.remove('open'); document.body.style.overflow = ''; }
+    btn.addEventListener('click', open);
+    close.addEventListener('click', shut);
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) shut(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') shut(); });
+    overlay.querySelectorAll('a').forEach(a => a.addEventListener('click', shut));
+  })();
+
+  // ─── Search submission stub ───
+  document.getElementById('searchForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const q = document.getElementById('searchInput').value.trim();
+    const cat = document.querySelector('.filter-chips .chip.active')?.dataset.cat || 'all';
+    if (!q) return;
+    // For now: log. Will be wired to real search index in next step.
+    console.log('atlas:search', { q, category: cat });
+  });
+</script>
+
+</body>
+</html>
