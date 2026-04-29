@@ -243,3 +243,8 @@ Master index of all wiki pages with one-line summaries.
 - [Pubertal development and hypothalamic-pituitary-gonadal axis are altered in male mice lacking Mecp2](./findings/10.1101_2025.08.19.671012.md) -- Martin-Sanchez A et al., bioRxiv 2026-04-24 (score 18)
 - [Tbx1 Heterozygosity in the Oligodendrocyte Lineage Shifts Myelinated Axon Composition in the Mouse Fimbria Without Behavioral Impairments](./findings/10.64898_2025.12.30.697076.md) -- Wells AM et al., bioRxiv 2026-04-24 (score 17)
 - [The landscape of regional missense mutational intolerance quantified from 730,947 exomes](./findings/10.1101_2024.04.11.588920.md) -- Wang L et al., bioRxiv 2026-04-23 (score 21)
+
+## Daily Scan -- 2026-04-29
+
+- [Connecting polygenic disease risk to cell states and regulatory programs through single-cell chromatin accessibility (SCADS)](./findings/10.64898_2026.04.27.721080.md) -- Yu L et al., bioRxiv 2026-04-28 (score 30)
+- [Identification of a Novel Homozygous SCN1B Splice-Site Variant in a Consanguineous Families With Early-Onset Epilepsy](./findings/42046183.md) -- Muhammad A et al., Mol Genet Genomic Med 2026-05 (score 23)

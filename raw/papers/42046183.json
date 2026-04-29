@@ -1,0 +1,22 @@
+{
+  "pmid": "42046183",
+  "doi": "10.1002/mgg3.70214",
+  "title": "Identification of a Novel Homozygous SCN1B Splice-Site Variant in a Consanguineous Families With Early-Onset Epilepsy: A Case Series and Review of Literature",
+  "authors": "Muhammad A, Ramzan S, Yousaf H, Ghumman RZ, Ali FB, Khalily MA, Ali A, Ali W, Zia S, Khan NU, Sarwar MT, Toft M, Iqbal Z, Fatima A",
+  "journal": "Molecular genetics & genomic medicine",
+  "date": "2026-05",
+  "abstract": "Pathogenic variants in SCN1B, the gene encoding the sodium channel β1 subunit, are associated with generalized epilepsy with febrile seizures plus (GEFS+) and related epilepsy disorders. Two consanguineous Pakistani families with four affected individuals presented with early-onset drug-refractory seizures, developmental delay, intellectual disability, and autism spectrum disorder. Exome sequencing identified a novel homozygous canonical splice-site variant in SCN1B (NM_001037.5): c.591-2A>G p.(?) in all affected individuals.",
+  "source": "pubmed",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "direct_autism_relevance": 6,
+    "noncoding_regulatory_variant_relevance": 5,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 1,
+    "phenotype_severity_data": 4
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": ["SCN1B"],
+  "url": "https://doi.org/10.1002/mgg3.70214"
+}
