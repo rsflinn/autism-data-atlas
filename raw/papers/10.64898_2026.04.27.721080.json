@@ -1,0 +1,21 @@
+{
+  "doi": "10.64898/2026.04.27.721080",
+  "title": "Connecting polygenic disease risk to cell states and regulatory programs through single-cell chromatin accessibility",
+  "authors": "Yu L, Deary LT, Liu Q, Zhang Q, Zhao S",
+  "journal": "bioRxiv",
+  "date": "2026-04-28",
+  "abstract": "Single-cell ATAC-sequencing enables high-resolution mapping of cell states and their putative regulatory elements. The enrichment of GWAS signals within context-specific regulatory regions can reveal disease-relevant cell populations. SCADS (Single-Cell ATAC-seq Disease Score) integrates GWAS summary statistics with scATAC-seq data to prioritize disease-relevant cells: (i) identifying chromatin co-regulatory regions via topic modeling, (ii) quantifying their polygenic GWAS enrichment, and (iii) calculating cell-specific disease scores. Applied to autoimmune traits including IBD; framework generalizes to noncoding regulatory variation across traits.",
+  "source": "biorxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "direct_autism_relevance": 2,
+    "noncoding_regulatory_variant_relevance": 9,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "url": "https://www.biorxiv.org/content/10.64898/2026.04.27.721080v1"
+}
