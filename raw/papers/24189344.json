@@ -1,0 +1,51 @@
+{
+  "pmid": "24189344",
+  "doi": "10.1038/mp.2013.146",
+  "title": "Common genetic variants on 1p13.2 associate with risk of autism",
+  "authors": "Xia K, Guo H, Hu Z, Xun G, Zuo L, Peng Y, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2013-11",
+  "source": "pubmed",
+  "abstract": "Autism is a highly heritable neurodevelopmental disorder, and known genetic variants, mostly rare, account only for a small proportion of cases. Here we report a genome-wide association study on autism using two Chinese cohorts as gene discovery (n=2150) and three data sets of European ancestry populations for replication analysis of top association signals. Meta-analysis identified three single-nucleotide polymorphisms, rs936938 (P=4.49 &#xd7; 10(-8)), non-synonymous rs6537835 (P=3.26 &#xd7; 10(-8)) and rs1877455 (P=8.70 &#xd7; 10(-8)), and related haplotypes, AMPD1-NRAS-CSDE1, TRIM33 and TRIM33-BCAS2, associated with autism; all were mapped to a previously reported linkage region (1p13.2) with autism. These genetic associations were further supported by a cis-acting regulatory effect on the gene expressions of CSDE1, NRAS and TRIM33 and by differential expression of CSDE1 and TRIM33 in the human prefrontal cortex of post-mortem brains between subjects with and those without autism. Our study suggests TRIM33 and NRAS-CSDE1 as candidate genes for autism, and may provide a novel insight into the etiology of autism.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a highly heritable neurodevelopmental disorder, and known genetic variants, mostly rare, account only for a small proportion of cases. Here we report a genome-wide association study on autism using two Chinese cohorts as gene discovery (n=2150) and three data sets of European ancestry populations for replication analysis of top association signals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24189344/",
+  "mesh_terms": [
+    "Black or African American",
+    "Asian People",
+    "Autistic Disorder",
+    "China",
+    "Chromosomes, Human, Pair 1",
+    "Cohort Studies",
+    "DNA-Binding Proteins",
+    "GTP Phosphohydrolases",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Haplotypes",
+    "Humans",
+    "Membrane Proteins",
+    "Meta-Analysis as Topic",
+    "Polymorphism, Single Nucleotide",
+    "Prefrontal Cortex",
+    "RNA-Binding Proteins",
+    "Risk",
+    "Transcription Factors",
+    "White People"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

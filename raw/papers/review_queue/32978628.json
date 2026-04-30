@@ -1,0 +1,43 @@
+{
+  "pmid": "32978628",
+  "doi": "10.1093/arclin/acaa072",
+  "title": "Acalculia in Aphasia",
+  "authors": "Gonzalez R, Rojas M, Rosselli M, Ardila A",
+  "journal": "Archives of clinical neuropsychology : the official journal of the National Academy of Neuropsychologists",
+  "date": "2021-05",
+  "source": "pubmed",
+  "abstract": "Patients with aphasia can present a type of acalculia referred to as aphasic acalculia.\n\nTo investigate the correlation and to test regression models for one- and two-digit calculation skills using verbal and nonverbal predictors.\n\nWe selected an aphasia sample of 119 men and 81 women with a mean age of 57.37&#xa0;years (SD&#xa0;=&#xa0;15.56) and an average level of education of 13.52&#xa0;years (SD&#xa0;=&#xa0;4.08). Spanish versions of the Western Aphasia Battery and Boston Diagnostic Aphasia Examination, plus a Written Calculation test, were individually administered. The calculation section of the Western Aphasia Battery and the Written Calculation tests were used to pinpoint calculation difficulties.\n\nCalculation difficulties were more severe in Global and Mixed non-fluent aphasia; they were very similar in Broca, Conduction, and Amnesic Aphasia. All correlations between the two calculation subtests and the other subtests of the Western Aphasia Battery were statistically significant. Calculation subtests correlated negatively with age and positively with schooling. Sex and time post-onset did not show any correlation with the calculation scores. Education, Reading, Block Design, and Raven's Colored Progressive Matrices were significant predictors of Western Aphasia Battery Calculation. Writing was the only significant predictor of the Written Calculation scores.\n\nNonverbal abilities were predictors of calculation tests, whereas agraphia defects were predictors of the Written Calculation test. Therefore, calculation abilities can be regarded both as written language-dependent and verbal language-independent.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Patients with aphasia can present a type of acalculia referred to as aphasic acalculia. To investigate the correlation and to test regression models for one- and two-digit calculation skills using verbal and nonverbal predictors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32978628/",
+  "mesh_terms": [
+    "Aphasia",
+    "Dyscalculia",
+    "Educational Status",
+    "Female",
+    "Humans",
+    "Language",
+    "Male",
+    "Middle Aged",
+    "Neuropsychological Tests"
+  ],
+  "keywords": [
+    "Acalculia",
+    "Aphasia",
+    "Spanish",
+    "Western Aphasia Battery"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

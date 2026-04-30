@@ -1,0 +1,44 @@
+{
+  "pmid": "27146976",
+  "doi": "10.1113/JP271953",
+  "title": "The transcription factor NeuroD2 coordinates synaptic innervation and cell intrinsic properties to control excitability of cortical pyramidal neurons",
+  "authors": "Chen F, Moran JT, Zhang Y, Ates KM, Yu D, Schrader LA, et al.",
+  "journal": "The Journal of physiology",
+  "date": "2016-07",
+  "source": "pubmed",
+  "abstract": "Synaptic excitation and inhibition must be properly balanced in individual neurons and neuronal networks to allow proper brain function. Disrupting this balance may lead to autism spectral disorders and epilepsy. We show the basic helix-loop-helix transcription factor NeuroD2 promotes inhibitory synaptic drive but also decreases cell-intrinsic neuronal excitability of cortical pyramidal neurons both in vitro and in vivo. We identify two genes potentially downstream of NeuroD2-mediated transcription that regulate these parameters: gastrin-releasing peptide and the small conductance, calcium-activated potassium channel, SK2. Our results reveal an important function for NeuroD2 in balancing synaptic neurotransmission and intrinsic excitability. Our results offer insight into how synaptic innervation and intrinsic excitability are coordinated during cortical development.\n\nSynaptic excitation and inhibition must be properly balanced in individual neurons and neuronal networks for proper brain function. Disruption of this balance during development may lead to autism spectral disorders and epilepsy. Synaptic excitation is counterbalanced by synaptic inhibition but also by attenuation of cell-intrinsic neuronal excitability. To maintain proper excitation levels during development, neurons must sense activity over time and regulate the expression of genes that control these parameters. While this is a critical process, little is known about the transcription factors involved in coordinating gene expression to control excitatory/inhibitory synaptic balance. We show here that the basic helix-loop-helix transcription factor NeuroD2 promotes inhibitory synaptic drive but also decreases cell-intrinsic neuronal excitability of cortical pyramidal neurons both in vitro and in vivo as shown by ex vivo analysis of a NeuroD2 knockout mouse. Using microarray analysis and comparing wild-type and NeuroD2 knockout cortical networks, we identified two potential gene targets of NeuroD2 that contribute to these processes: gastrin-releasing peptide (GRP) and the small conductance, calcium-activated potassium channel, SK2. We found that the GRP receptor antagonist RC-3059 and the SK2 specific blocker apamin partially reversed the effects of increased NeuroD2 expression on inhibitory synaptic drive and action potential repolarization, respectively. Our results reveal an important function for NeuroD2 in balancing synaptic neurotransmission and intrinsic excitability and offer insight into how these processes are coordinated during cortical development.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Synaptic excitation and inhibition must be properly balanced in individual neurons and neuronal networks to allow proper brain function. Disrupting this balance may lead to autism spectral disorders and epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27146976/",
+  "mesh_terms": [
+    "Animals",
+    "Basic Helix-Loop-Helix Proteins",
+    "Cells, Cultured",
+    "Gastrin-Releasing Peptide",
+    "Inhibitory Postsynaptic Potentials",
+    "Mice, Knockout",
+    "Neuropeptides",
+    "Pyramidal Cells",
+    "Rats",
+    "Small-Conductance Calcium-Activated Potassium Channels",
+    "Somatosensory Cortex",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

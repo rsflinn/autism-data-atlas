@@ -1,0 +1,45 @@
+{
+  "pmid": "39626878",
+  "doi": "10.1631/jzus.B2300743",
+  "title": "Prefrontal cortical circuits in social behaviors: an overview",
+  "authors": "Cao W, Li H, Luo J",
+  "journal": "Journal of Zhejiang University. Science. B",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Social behaviors are fundamental and intricate functions in both humans and animals, governed by the interplay of social cognition and emotions. A noteworthy feature of several neuropsychiatric disorders, including autism spectrum disorder (ASD) and schizophrenia (SCZ), is a pronounced deficit in social functioning. Despite a burgeoning body of research on social behaviors, the precise neural circuit mechanisms underpinning these phenomena remain to be elucidated. In this paper, we review the pivotal role of the prefrontal cortex (PFC) in modulating social behaviors, as well as its functional alteration in social disorders in ASD or SCZ. We posit that PFC dysfunction may represent a critical hub in the pathogenesis of psychiatric disorders characterized by shared social deficits. Furthermore, we delve into the intricate connectivity of the medial PFC (mPFC) with other cortical areas and subcortical brain regions in rodents, which exerts a profound influence on social behaviors. Notably, a substantial body of evidence underscores the role of-methyl-D-aspartate receptors (NMDARs) and the proper functioning of parvalbumin-positive interneurons within the mPFC for social regulation. Our overarching goal is to furnish a comprehensive understanding of these intricate circuits and thereby contribute to the enhancement of both research endeavors and clinical practices concerning social behavior deficits.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Social behaviors are fundamental and intricate functions in both humans and animals, governed by the interplay of social cognition and emotions. A noteworthy feature of several neuropsychiatric disorders, including autism spectrum disorder (ASD) and schizophrenia (SCZ), is a pronounced deficit in social functioning.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39626878/",
+  "mesh_terms": [
+    "Prefrontal Cortex",
+    "Humans",
+    "Social Behavior",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Schizophrenia",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Interneurons"
+  ],
+  "keywords": [
+    "Autism spectrum disorder (ASD)",
+    "N-Methyl-D-aspartate receptor (NMDAR)",
+    "Parvalbumin-positive interneuron",
+    "Prefrontal cortex (PFC)",
+    "Schizophrenia (SCZ)",
+    "Social behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

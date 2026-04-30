@@ -1,0 +1,51 @@
+{
+  "pmid": "37420260",
+  "doi": "10.1186/s40246-023-00507-2",
+  "title": "Phenotypic variability to medication management: an update on fragile X syndrome",
+  "authors": "Elhawary NA, AlJahdali IA, Abumansour IS, Azher ZA, Falemban AH, Madani WM, et al.",
+  "journal": "Human genomics",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "This review discusses the discovery, epidemiology, pathophysiology, genetic etiology, molecular diagnosis, and medication-based management of fragile X syndrome (FXS). It also highlights the syndrome's variable expressivity and common comorbid and overlapping conditions. FXS is an X-linked dominant disorder associated with a wide spectrum of clinical features, including but not limited to intellectual disability, autism spectrum disorder, language deficits, macroorchidism, seizures, and anxiety. Its prevalence in the general population is approximately 1 in 5000-7000 men and 1 in 4000-6000 women worldwide. FXS is associated with the&#xa0;fragile X messenger ribonucleoprotein 1&#xa0;(FMR1) gene located at locus Xq27.3 and encodes the fragile X messenger ribonucleoprotein (FMRP). Most individuals with FXS have an FMR1 allele with&#x2009;>&#x2009;200 CGG repeats (full mutation) and hypermethylation of the CpG island proximal to the repeats, which silences the gene's promoter. Some individuals have mosaicism in the size of the CGG repeats or in hypermethylation of the CpG island, both produce some FMRP and give rise to milder cognitive and behavioral deficits than in non-mosaic individuals with FXS. As in several monogenic disorders, modifier genes influence the penetrance of&#xa0;FMR1&#xa0;mutations and FXS's variable expressivity by regulating the pathophysiological mechanisms related to the syndrome's behavioral features. Although there is no cure for FXS, prenatal molecular diagnostic testing is recommended to facilitate early diagnosis. Pharmacologic agents can reduce some behavioral features of FXS, and researchers are investigating whether gene editing can be used to demethylate the FMR1 promoter region to improve patient outcomes. Moreover, clustered regularly interspaced palindromic repeats (CRISPR)/Cas9 and developed nuclease defective Cas9 (dCas9) strategies have promised options of genome editing in gain-of-function mutations to rewrite new genetic information into a specified DNA site, are also being studied.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "This review discusses the discovery, epidemiology, pathophysiology, genetic etiology, molecular diagnosis, and medication-based management of fragile X syndrome (FXS). It also highlights the syndrome's variable expressivity and common comorbid and overlapping conditions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37420260/",
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Female",
+    "Fragile X Syndrome",
+    "Autism Spectrum Disorder",
+    "DNA Methylation",
+    "Mosaicism",
+    "Biological Variation, Population",
+    "Fragile X Messenger Ribonucleoprotein 1"
+  ],
+  "keywords": [
+    "CGG trinucleotide repeat",
+    "CRISPR/Cas9",
+    "Clinical features",
+    "DNA methylation",
+    "FMR1&#xa0;gene",
+    "Fragile X syndrome (FXS)",
+    "Variable expressivity",
+    "dCas9"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

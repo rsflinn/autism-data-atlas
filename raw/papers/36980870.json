@@ -1,0 +1,47 @@
+{
+  "pmid": "36980870",
+  "doi": "10.3390/genes14030598",
+  "title": "in Males: Are Hemizygous Variants Linked to Autism?",
+  "authors": "Chouery E, Makhlouf J, Daoud Khatoun W, Mehawej C, Megarbane A",
+  "journal": "Genes",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex developmental disability that impairs the social communication and interaction of affected individuals and leads to restricted or repetitive behaviors or interests. ASD is genetically heterogeneous, with inheritable and de novo genetic variants in more than hundreds of genes contributing to the disease. However, these account for only around 20% of cases, while the molecular basis of the majority of cases remains unelucidated as of yet.\n\nTwo unrelated Lebanese patients, a 7-year-old boy (patient A) and a 4-year-old boy (patient B), presenting with ASD were included in this study. Whole-exome sequencing (WES) was carried out for these patients to identify the molecular cause of their diseases.\n\nWES analysis revealed hemizygous variants in(NM_001184880.1) as being the candidate causative variants: p.Arg787Leu was detected in patient A and p.Asp1024Asn in patient B. PCDH19, located on chromosome X, encodes a membrane glycoprotein belonging to the protocadherin family. Heterozygousvariants have been linked to epilepsy in females with mental retardation (EFMR), while mosaicmutations in males are responsible for treatment-resistant epilepsy presenting similarly to EFMR, with some reported cases of comorbid intellectual disability and autism. Interestingly, a hemizygousvariant affecting the same amino acid that is altered in patient A was previously reported in a male patient with ASD.\n\nHere, we report hemizygousvariants in two males with autism without epilepsy. Reporting furthervariants in male patients with ASD is important to assess the possible involvement of this gene in autism.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "PCDH19"
+  ],
+  "summary": "Autism spectrum disorder (ASD) is a complex developmental disability that impairs the social communication and interaction of affected individuals and leads to restricted or repetitive behaviors or interests. ASD is genetically heterogeneous, with inheritable and de novo genetic variants in more than hundreds of genes contributing to the disease.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36980870/",
+  "mesh_terms": [
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Epilepsy",
+    "Intellectual Disability",
+    "Protocadherins"
+  ],
+  "keywords": [
+    "PCDH19",
+    "autism spectrum disorders",
+    "variant of unknown significance",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

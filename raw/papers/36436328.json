@@ -1,0 +1,46 @@
+{
+  "pmid": "36436328",
+  "doi": "10.1016/j.pediatrneurol.2022.10.013",
+  "title": "A Cross-Sectional Study of the Neuropsychiatric Phenotype of CACNA1C-Related Disorder",
+  "authors": "Levy RJ, Timothy KW, Underwood JFG, Hall J, Bernstein JA, Pa&#x219;ca SP",
+  "journal": "Pediatric neurology",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "CACNA1C encodes the voltage-gated L-type calcium channel Ca1.2. A specific gain-of-function pathogenic variant in CACNA1C causes Timothy syndrome type 1 (TS1) with cardiac long QT syndrome, syndactyly, and neuropsychiatric symptoms. Our previous work found that the TS1 mutation alters neuronal activity-dependent signaling and interneuron migration. Recent case series highlighted a broader spectrum of CACNA1C-related disorder (CRD) that includes isolated cardiac disease, isolated neurologic deficits, and TS, but it is unknown how the clinical presentation of other CRD variants relates to neural defects. We surveyed individuals with CRD to define the neuropsychiatric and developmental phenotype in an effort to guide future research into the role of calcium channels in neural development.\n\nCaregivers of and individuals with CRD completed an online survey of pre- and perinatal events, cardiac events, developmental milestones, neuropsychiatric symptoms, and neuropsychiatric diagnoses. Multiple Mann-Whitney tests were used for comparison of categorical values and Fisher exact test for comparison of categorical variables between participants with and without cardiac arrhythmia.\n\nTwenty-four participants with germline CACNA1C variants including TS1 completed the survey. The most common neuropsychiatric symptoms and/or diagnoses were developmental delay in 92%, incoordination in 71%, hypotonia in 67%, autism spectrum disorder in 50% (autistic features in 92%), seizures in 37.5%, and attention-deficit/hyperactivity disorder in 21% of participants. There were no significant differences in symptoms between participants with and without arrhythmia.\n\nIn our CRD cohort, there was an increased prevalence of multiple neuropsychiatric symptoms compared with the general population. These findings indicate the key role of Ca1.2 in brain development and the clinical importance of screening and therapeutically addressing neuropsychiatric symptoms in all individuals with CRD. Future directions include deep phenotyping of neuropsychiatric symptoms and efforts to relate these symptoms to cellular defects.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "CACNA1C"
+  ],
+  "summary": "CACNA1C encodes the voltage-gated L-type calcium channel Ca1.2. A specific gain-of-function pathogenic variant in CACNA1C causes Timothy syndrome type 1 (TS1) with cardiac long QT syndrome, syndactyly, and neuropsychiatric symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36436328/",
+  "mesh_terms": [
+    "Pregnancy",
+    "Female",
+    "Humans",
+    "Cross-Sectional Studies",
+    "Autism Spectrum Disorder",
+    "Long QT Syndrome",
+    "Mutation",
+    "Phenotype",
+    "Calcium Channels, L-Type"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Calcium channel",
+    "Neurodevelopmental delay",
+    "Psychiatric disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

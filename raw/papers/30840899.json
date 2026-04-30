@@ -1,0 +1,53 @@
+{
+  "pmid": "30840899",
+  "doi": "10.1016/j.celrep.2019.02.022",
+  "title": "Trio Haploinsufficiency Causes Neurodevelopmental Disease-Associated Deficits",
+  "authors": "Katrancha SM, Shaw JE, Zhao AY, Myers SA, Cocco AR, Jeng AT, et al.",
+  "journal": "Cell reports",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Heterozygous coding mutations in TRIO are associated with neurodevelopmental disorders, including autism, schizophrenia, bipolar disorder, and epilepsy, and impair TRIO's biochemical activities. To model mutant alleles, we ablated one or both Trio alleles from excitatory neurons in the cortex and hippocampus of mice. Trio haploinsufficiency increases anxiety and impairs social preference and motor coordination. Trio loss reduces forebrain size and dendritic arborization but increases dendritic spine densities. Cortical synapses in Trio haploinsufficient mice are small, exhibit pre- and postsynaptic deficits, and cannot undergo long-term potentiation. Similar phenotypes are observed in Trio knockout mice. Overall, Trio haploinsufficiency causes severe disease-relevant deficits in behavior and neuronal structure and function. Interestingly, phosphodiesterase 4A5 (PDE4A5) levels are reduced and protein kinase A (PKA) signaling is increased when TRIO levels are reduced. Elevation of PDE4A5 and drug-based attenuation of PKA signaling rescue Trio haploinsufficiency-related dendritic spine defects, suggesting an avenue for therapeutic intervention for TRIO-related neurodevelopmental disorders.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Heterozygous coding mutations in TRIO are associated with neurodevelopmental disorders, including autism, schizophrenia, bipolar disorder, and epilepsy, and impair TRIO's biochemical activities. To model mutant alleles, we ablated one or both Trio alleles from excitatory neurons in the cortex and hippocampus of mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30840899/",
+  "mesh_terms": [
+    "Animals",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Male",
+    "Mice",
+    "Mice, Knockout",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "Protein Serine-Threonine Kinases",
+    "Synapses"
+  ],
+  "keywords": [
+    "TRIO",
+    "anxiety",
+    "dendritic spine",
+    "haploinsufficiency",
+    "long-term potentiation",
+    "motor cortex",
+    "neurodevelopmental disorder",
+    "phosphodiesterase 4A5",
+    "social preference",
+    "triple functional domain protein"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

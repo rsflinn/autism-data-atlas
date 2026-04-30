@@ -1,0 +1,53 @@
+{
+  "pmid": "34573348",
+  "doi": "10.3390/genes12091366",
+  "title": "Environmental Enrichment Rescues Social Behavioral Deficits and Synaptic Abnormalities inHaploinsufficient Mice",
+  "authors": "Clipperton-Allen AE, Zhang A, Cohen OS, Page DT",
+  "journal": "Genes",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "germline haploinsufficient () mice, which model macrocephaly/autism syndrome, show social and repetitive behavior deficits, early brain overgrowth, and cortical-subcortical hyperconnectivity. Previous work indicated that altered neuronal connectivity may be a substrate for behavioral deficits. We hypothesized that exposingmice to environmental enrichment after brain overgrowth has occurred may facilitate adaptation to abnormal \"hard-wired\" connectivity through enhancing synaptic plasticity. Thus, we rearedmice and their wild-type littermates from weaning under either standard (4-5 mice per standard-sized cage, containing only bedding and nestlet) or enriched (9-10 mice per large-sized cage, containing objects for exploration and a running wheel, plus bedding and nestlet) conditions. Adult mice were tested on social and non-social assays in whichmice display deficits. Environmental enrichment rescued sex-specific deficits in social behavior inmice and partially rescued increased repetitive behavior inmales. We found thatmice show increased excitatory and decreased inhibitory pre-synaptic proteins; this phenotype was also rescued by environmental enrichment. Together, our results indicate that environmental enrichment can rescue social behavioral deficits inmice, possibly through normalizing the excitatory synaptic protein abundance.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "germline haploinsufficient () mice, which model macrocephaly/autism syndrome, show social and repetitive behavior deficits, early brain overgrowth, and cortical-subcortical hyperconnectivity. Previous work indicated that altered neuronal connectivity may be a substrate for behavioral deficits.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34573348/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Brain",
+    "Disease Models, Animal",
+    "Facies",
+    "Female",
+    "Haploinsufficiency",
+    "Male",
+    "Megalencephaly",
+    "Mice, Inbred C57BL",
+    "Mice, Mutant Strains",
+    "PTEN Phosphohydrolase",
+    "Social Behavior",
+    "Synapses",
+    "Mice"
+  ],
+  "keywords": [
+    "Pten",
+    "autism",
+    "environmental enrichment",
+    "neurodevelopment",
+    "synaptic plasticity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

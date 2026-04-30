@@ -1,0 +1,44 @@
+{
+  "pmid": "38220572",
+  "doi": "10.1093/cercor/bhad521",
+  "title": "Comprehensive exploration of multi-modal and multi-branch imaging markers for autism diagnosis and interpretation: insights from an advanced deep learning model",
+  "authors": "Gao J, Xu Y, Li Y, Lu F, Wang Z",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder is a complex neurodevelopmental condition with diverse genetic and brain involvement. Despite magnetic resonance imaging advances, autism spectrum disorder diagnosis and understanding its neurogenetic factors remain challenging. We propose a dual-branch graph neural network that effectively extracts and fuses features from bimodalities, achieving 73.9% diagnostic accuracy. To explain the mechanism distinguishing autism spectrum disorder from healthy controls, we establish a perturbation model for brain imaging markers and perform a neuro-transcriptomic joint analysis using partial least squares regression and enrichment to identify potential genetic biomarkers. The perturbation model identifies brain imaging markers related to structural magnetic resonance imaging in the frontal, temporal, parietal, and occipital lobes, while functional magnetic resonance imaging markers primarily reside in the frontal, temporal, occipital lobes, and cerebellum. The neuro-transcriptomic joint analysis highlights genes associated with biological processes, such as \"presynapse,\" \"behavior,\" and \"modulation of chemical synaptic transmission\" in autism spectrum disorder's brain development. Different magnetic resonance imaging modalities offer complementary information for autism spectrum disorder diagnosis. Our dual-branch graph neural network achieves high accuracy and identifies abnormal brain regions and the neuro-transcriptomic analysis uncovers important genetic biomarkers. Overall, our study presents an effective approach for assisting in autism spectrum disorder diagnosis and identifying genetic biomarkers, showing potential for enhancing the diagnosis and treatment of this condition.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder is a complex neurodevelopmental condition with diverse genetic and brain involvement. Despite magnetic resonance imaging advances, autism spectrum disorder diagnosis and understanding its neurogenetic factors remain challenging.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38220572/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Deep Learning",
+    "Brain",
+    "Magnetic Resonance Imaging",
+    "Biomarkers",
+    "Brain Mapping"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "brain imaging markers",
+    "genetic biomarkers",
+    "graph neural network",
+    "perturbation model"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

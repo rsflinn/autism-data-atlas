@@ -1,0 +1,52 @@
+{
+  "pmid": "39002500",
+  "doi": "10.1016/j.psychres.2024.116080",
+  "title": "Psychiatric polygenic risk scores: Experience, hope for utility, and concerns among child and adolescent psychiatrists",
+  "authors": "Merner AR, Trotter PM, Ginn LA, Bach J, Freedberg KJ, Soda T, et al.",
+  "journal": "Psychiatry research",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Recent advances in psychiatric genetics have enabled the use of polygenic risk scores (PRS) to estimate genetic risk for psychiatric disorders. However, the potential use of PRS in child and adolescent psychiatry has raised concerns. This study provides an in-depth examination of attitudes among child and adolescent psychiatrists (CAP) regarding the use of PRS in psychiatry. We conducted semi-structured interviews with U.S.-based CAP (n = 29) who possess expertise in genetics. The majority of CAP indicated that PRS have limited clinical utility in their current form and are not ready for clinical implementation. Most clinicians stated that nothing would motivate them to generate PRS at present; however, some exceptions were noted (e.g., parent/family request). Clinicians spoke to challenges related to ordering, interpreting, and explaining PRS to patients and families. CAP raised concerns regarding the potential for this information to be misinterpreted or misused by patients, families, clinicians, and outside entities such as insurance companies. Finally, some CAP noted that PRS may lead to increased stigmatization of psychiatric disorders, and at the extreme, could be used to support eugenics. As PRS testing increases, it will be critical to examine CAP and other stakeholders' views to ensure responsible implementation of this technology.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Recent advances in psychiatric genetics have enabled the use of polygenic risk scores (PRS) to estimate genetic risk for psychiatric disorders. However, the potential use of PRS in child and adolescent psychiatry has raised concerns.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39002500/",
+  "mesh_terms": [
+    "Humans",
+    "Mental Disorders",
+    "Male",
+    "Female",
+    "Multifactorial Inheritance",
+    "Adolescent Psychiatry",
+    "Adolescent",
+    "Child Psychiatry",
+    "Child",
+    "Attitude of Health Personnel",
+    "Adult",
+    "Genetic Predisposition to Disease",
+    "Middle Aged",
+    "Genetic Risk Score",
+    "Psychiatrists"
+  ],
+  "keywords": [
+    "Child and adolescent psychiatry",
+    "Ethics",
+    "Genetic testing",
+    "Genetics",
+    "Polygenic risk scores",
+    "Psychiatry",
+    "Treatment"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

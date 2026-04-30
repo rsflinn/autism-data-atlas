@@ -1,0 +1,40 @@
+{
+  "pmid": "25510512",
+  "doi": "10.1038/mp.2014.158",
+  "title": "Common polygenic variation and risk for childhood-onset schizophrenia",
+  "authors": "Ahn K, An SS, Shugart YY, Rapoport JL",
+  "journal": "Molecular psychiatry",
+  "date": "2014-12",
+  "source": "pubmed",
+  "abstract": "Childhood-onset schizophrenia (COS) is a rare and severe form of the disorder, with more striking abnormalities with respect to prepsychotic developmental disorders and abnormities in the brain development compared with later-onset schizophrenia. We previously documented that COS patients, compared with their healthy siblings and with adult-onset patients (AOS), carry significantly more rare chromosomal copy number variations, spanning large genomic regions (>100 kb) (Ahn et al. 2014). Here, we interrogated the contribution of common polygenic variation to the genetic susceptibility for schizophrenia. We examined the association between a direct measure of genetic risk of schizophrenia in 130 COS probands and 103 healthy siblings. Using data from the schizophrenia and autism GWAS of the Psychiatric Genomic Consortia, we selected three risk-related sets of single nucleotide polymorphisms from which we conducted polygenic risk score comparisons for COS probands and their healthy siblings. COS probands had higher genetic risk scores of both schizophrenia and autism than their siblings (P<0.05). Given the small sample size, these findings suggest that COS patients have more salient genetic risk than do AOS.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Childhood-onset schizophrenia (COS) is a rare and severe form of the disorder, with more striking abnormalities with respect to prepsychotic developmental disorders and abnormities in the brain development compared with later-onset schizophrenia. We previously documented that COS patients, compared with their healthy siblings and with adult-onset patients (AOS), carry significantly more rare chromosomal copy number variations, spanning large genomic regions (>100 kb) (Ahn et al.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25510512/",
+  "mesh_terms": [
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Polymorphism, Single Nucleotide",
+    "Schizophrenia, Childhood",
+    "Siblings"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

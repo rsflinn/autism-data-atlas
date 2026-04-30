@@ -1,0 +1,42 @@
+{
+  "pmid": "31356900",
+  "doi": "10.1016/j.neuroscience.2019.07.036",
+  "title": "Tuning GABAergic Inhibition: Gephyrin Molecular Organization and Functions",
+  "authors": "Pizzarelli R, Griguoli M, Zacchi P, Petrini EM, Barberis A, Cattaneo A, et al.",
+  "journal": "Neuroscience",
+  "date": "2019-07",
+  "source": "pubmed",
+  "abstract": "To be highly reliable, synaptic transmission needs postsynaptic receptors (Rs) in precise apposition to the presynaptic release sites. At inhibitory synapses, the postsynaptic protein gephyrin self-assembles to form a scaffold that anchors glycine and GABARs to the cytoskeleton, thus ensuring the accurate accumulation of postsynaptic receptors at the right place. This protein undergoes several post-translational modifications which control protein-protein interaction and downstream signaling pathways. In addition, through the constant exchange of scaffolding elements and receptors in and out of synapses, gephyrin dynamically regulates synaptic strength and plasticity. The aim of the present review is to highlight recent findings on the functional role of gephyrin at GABAergic inhibitory synapses. We will discuss different approaches used to interfere with gephyrin in order to unveil its function. In addition, we will focus on the impact of gephyrin structure and distribution at the nanoscale level on the functional properties of inhibitory synapses as well as the implications of this scaffold protein in synaptic plasticity processes. Finally, we will emphasize how gephyrin genetic mutations or alterations in protein expression levels are implicated in several neuropathological disorders, including autism spectrum disorders, schizophrenia, temporal lobe epilepsy and Alzheimer's disease, all associated with severe deficits of GABAergic signaling. This article is part of a Special Issue entitled: Honoring Ricardo Miledi - outstanding neuroscientist of XX-XXI centuries.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "To be highly reliable, synaptic transmission needs postsynaptic receptors (Rs) in precise apposition to the presynaptic release sites. At inhibitory synapses, the postsynaptic protein gephyrin self-assembles to form a scaffold that anchors glycine and GABARs to the cytoskeleton, thus ensuring the accurate accumulation of postsynaptic receptors at the right place.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31356900/",
+  "mesh_terms": [
+    "Carrier Proteins",
+    "Humans",
+    "Membrane Proteins",
+    "Receptors, GABA-A",
+    "Synapses"
+  ],
+  "keywords": [
+    "gephyrin",
+    "glycine and GABA(A)Rs",
+    "neuropsychiatric disorders",
+    "structural organization",
+    "synaptic plasticity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

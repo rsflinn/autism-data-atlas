@@ -1,0 +1,56 @@
+{
+  "pmid": "38848212",
+  "doi": "10.1016/j.celrep.2024.114326",
+  "title": "Hofbauer cells and fetal brain microglia share transcriptional profiles and responses to maternal diet-induced obesity",
+  "authors": "Batorsky R, Ceasrine AM, Shook LL, Kislal S, Bordt EA, Devlin BA, et al.",
+  "journal": "Cell reports",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Maternal immune activation is associated with adverse offspring neurodevelopmental outcomes, many mediated by in utero microglial programming. As microglia remain inaccessible throughout development, identification of noninvasive biomarkers reflecting fetal brain microglial programming could permit screening and intervention. We used lineage tracing to demonstrate the shared ontogeny between fetal brain macrophages (microglia) and fetal placental macrophages (Hofbauer cells) in a mouse model of maternal diet-induced obesity, and single-cell RNA-seq to demonstrate shared transcriptional programs. Comparison with human datasets demonstrated conservation of placental resident macrophage signatures between mice and humans. Single-cell RNA-seq identified common alterations in fetal microglial and Hofbauer cell gene expression induced by maternal obesity, as well as sex differences in these alterations. We propose that Hofbauer cells, which are easily accessible at birth, provide insights into fetal brain microglial programs and may facilitate the early identification of offspring vulnerable to neurodevelopmental disorders.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Maternal immune activation is associated with adverse offspring neurodevelopmental outcomes, many mediated by in utero microglial programming. As microglia remain inaccessible throughout development, identification of noninvasive biomarkers reflecting fetal brain microglial programming could permit screening and intervention.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38848212/",
+  "mesh_terms": [
+    "Microglia",
+    "Animals",
+    "Female",
+    "Pregnancy",
+    "Brain",
+    "Mice",
+    "Humans",
+    "Fetus",
+    "Macrophages",
+    "Pregnancy in Obesity",
+    "Transcriptome",
+    "Male",
+    "Placenta",
+    "Mice, Inbred C57BL",
+    "Diet, High-Fat",
+    "Obesity"
+  ],
+  "keywords": [
+    "CP: Immunology",
+    "CP: Metabolism",
+    "Hofbauer cells",
+    "fetal programming",
+    "microglia",
+    "mouse",
+    "neuroimmune",
+    "obesity",
+    "sex differences",
+    "single-cell RNA sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

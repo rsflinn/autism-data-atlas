@@ -1,0 +1,46 @@
+{
+  "pmid": "28111355",
+  "doi": "10.1016/j.neulet.2017.01.012",
+  "title": "Epigenetics in epilepsy",
+  "authors": "Kobow K, Bl&#xfc;mcke I",
+  "journal": "Neuroscience letters",
+  "date": "2017-01",
+  "source": "pubmed",
+  "abstract": "Approximately 50 million people have epilepsy, making it the most common chronic and severe neurological disease worldwide, with increased risk of mortality and psychological and socioeconomic consequences impairing quality of life. More than 30% of patients with epilepsy have inadequate control of their seizures with drug therapy. Any structural brain lesion can provoke epilepsy. However, progression of seizure activity as well as the development of drug-resistance remains difficult to predict, irrespective of the underlying epileptogenic condition, i.e., traumatic brain injury, developmental brain lesions, brain tumors or genetic inheritance. Mutated DNA sequences in genes encoding for ion channels or neurotransmitter receptors have been identified in hereditary focal or generalized epilepsies, but genotype-phenotype correlations are poor, arguing for additional factors determining the effect of a genetic predisposition. The dynamics of epigenetic mechanisms (e.g. DNA methylation, histone modifications, chromatin remodelling, and non-coding RNAs) provide likely explanations for common features in epilepsy and other complex diseases, including late onset, parent-of-origin effects, discordance of monozygotic twins, and fluctuation of symptoms. In addition, many focal epilepsies, including focal cortical dysplasias (FCDs), glio-neuronal tumors (e.g. ganglioglioma), or temporal lobe epilepsy with hippocampal sclerosis (TLE-HS), do not seem to primarily associate with hereditary traits, suggesting other pathogenic mechanisms. Herein we will discuss the many faces of the epigenetic machinery, which provides powerful tools and mechanisms to propagate epileptogenicity and likely also contribute to the epileptogenic memory in chronic and difficult-to-treat epilepsies.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Approximately 50 million people have epilepsy, making it the most common chronic and severe neurological disease worldwide, with increased risk of mortality and psychological and socioeconomic consequences impairing quality of life. More than 30% of patients with epilepsy have inadequate control of their seizures with drug therapy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28111355/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Epigenomics",
+    "Epilepsy",
+    "Humans",
+    "Malformations of Cortical Development",
+    "Neurons"
+  ],
+  "keywords": [
+    "DNA methylation",
+    "Epilepsy",
+    "Genetics",
+    "Histone modification",
+    "Non-coding RNAs",
+    "Systems biology"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

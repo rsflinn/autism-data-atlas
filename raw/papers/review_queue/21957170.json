@@ -1,0 +1,42 @@
+{
+  "pmid": "21957170",
+  "doi": "10.1126/scitranslmed.3002804",
+  "title": "Translating glutamate: from pathophysiology to treatment",
+  "authors": "Javitt DC, Schoepp D, Kalivas PW, Volkow ND, Zarate C, Merchant K, et al.",
+  "journal": "Science translational medicine",
+  "date": "2011-09",
+  "source": "pubmed",
+  "abstract": "The neurotransmitter glutamate is the primary excitatory neurotransmitter in mammalian brain and is responsible for most corticocortical and corticofugal neurotransmission. Disturbances in glutamatergic function have been implicated in the pathophysiology of several neuropsychiatric disorders-including schizophrenia, drug abuse and addiction, autism, and depression-that were until recently poorly understood. Nevertheless, improvements in basic information regarding these disorders have yet to translate into Food and Drug Administration-approved treatments. Barriers to translation include the need not only for improved compounds but also for improved biomarkers sensitive to both structural and functional target engagement and for improved translational models. Overcoming these barriers will require unique collaborative arrangements between pharma, government, and academia. Here, we review a recent Institute of Medicine-sponsored meeting, highlighting advances in glutamatergic theories of neuropsychiatric illness as well as remaining barriers to treatment development.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The neurotransmitter glutamate is the primary excitatory neurotransmitter in mammalian brain and is responsible for most corticocortical and corticofugal neurotransmission. Disturbances in glutamatergic function have been implicated in the pathophysiology of several neuropsychiatric disorders-including schizophrenia, drug abuse and addiction, autism, and depression-that were until recently poorly understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21957170/",
+  "mesh_terms": [
+    "Animals",
+    "Clinical Trials as Topic",
+    "Congresses as Topic",
+    "Glutamic Acid",
+    "Humans",
+    "Mice",
+    "Nervous System Diseases",
+    "Neurotransmitter Agents",
+    "Translational Research, Biomedical"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

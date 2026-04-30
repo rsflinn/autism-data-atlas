@@ -1,0 +1,47 @@
+{
+  "pmid": "39394110",
+  "doi": "10.1186/s12987-024-00580-2",
+  "title": "iPSC-derived blood-brain barrier modeling reveals APOE isoform-dependent interactions with amyloid beta",
+  "authors": "Ding Y, Palecek SP, Shusta EV",
+  "journal": "Fluids and barriers of the CNS",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Three common isoforms of the apolipoprotein E (APOE) gene - APOE2, APOE3, and APOE4 - hold varying significance in Alzheimer's Disease (AD) risk. The APOE4 allele is the strongest known genetic risk factor for late-onset Alzheimer's Disease (AD), and its expression has been shown to correlate with increased central nervous system (CNS) amyloid deposition and accelerated neurodegeneration. Conversely, APOE2 is associated with reduced AD risk and lower CNS amyloid burden. Recent clinical data have suggested that increased blood-brain barrier (BBB) leakage is commonly observed among AD patients and APOE4 carriers. However, it remains unclear how different APOE isoforms may impact AD-related pathologies at the BBB.\n\nTo explore potential impacts of APOE genotypes on BBB properties and BBB interactions with amyloid beta, we differentiated isogenic human induced pluripotent stem cell (iPSC) lines with different APOE genotypes into both brain microvascular endothelial cell-like cells (BMEC-like cells) and brain pericyte-like cells. We then compared the effect of different APOE isoforms on BBB-related and AD-related phenotypes. Statistical significance was determined via ANOVA with Tukey's post hoc testing as appropriate.\n\nIsogenic BMEC-like cells with different APOE genotypes had similar trans-endothelial electrical resistance, tight junction integrity and efflux transporter gene expression. However, recombinant APOE4 protein significantly impeded the \"brain-to-blood\" amyloid beta 1-40 (A&#x3b2;40) transport capabilities of BMEC-like cells, suggesting a role in diminished amyloid clearance. Conversely, APOE2 increased amyloid beta 1-42 (A&#x3b2;42) transport in the model. Furthermore, we demonstrated that APOE-mediated amyloid transport by BMEC-like cells is dependent on LRP1 and p-glycoprotein pathways, mirroring in vivo findings. Pericyte-like cells exhibited similar APOE secretion levels across genotypes, yet APOE4 pericyte-like cells showed heightened extracellular amyloid deposition, while APOE2 pericyte-like cells displayed the least amyloid deposition, an observation in line with vascular pathologies in AD patients.\n\nWhile APOE genotype did not directly impact general BMEC or pericyte properties, APOE4 exacerbated amyloid clearance and deposition at the model BBB. Conversely, APOE2 demonstrated a potentially protective role by increasing amyloid transport and decreasing deposition. Our findings highlight that iPSC-derived BBB models can potentially capture amyloid pathologies at the BBB, motivating further development of such in vitro models in AD modeling and drug development.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Three common isoforms of the apolipoprotein E (APOE) gene - APOE2, APOE3, and APOE4 - hold varying significance in Alzheimer's Disease (AD) risk. The APOE4 allele is the strongest known genetic risk factor for late-onset Alzheimer's Disease (AD), and its expression has been shown to correlate with increased central nervous system (CNS) amyloid deposition and accelerated neurodegeneration.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39394110/",
+  "mesh_terms": [
+    "Blood-Brain Barrier",
+    "Humans",
+    "Amyloid beta-Peptides",
+    "Induced Pluripotent Stem Cells",
+    "Apolipoproteins E",
+    "Protein Isoforms",
+    "Endothelial Cells",
+    "Alzheimer Disease",
+    "Pericytes"
+  ],
+  "keywords": [
+    "Alzheimer&#x2019;s disease",
+    "Amyloid deposition",
+    "Apolipoprotein E (APOE)",
+    "Blood-brain barrier",
+    "Disease modeling",
+    "Endothelial cells",
+    "Induced pluripotent stem cells",
+    "Pericytes"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

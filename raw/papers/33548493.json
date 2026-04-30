@@ -1,0 +1,42 @@
+{
+  "pmid": "33548493",
+  "doi": "10.1016/j.jaac.2021.01.019",
+  "title": "Systematic Review: How the Attention-Deficit/Hyperactivity Disorder Polygenic Risk Score Adds to Our Understanding of ADHD and Associated Traits",
+  "authors": "Ronald A, de Bode N, Polderman TJC",
+  "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+  "date": "2021-02",
+  "source": "pubmed",
+  "abstract": "To investigate, by systematically reviewing the literature, whether the attention-deficit/hyperactivity disorder (ADHD) polygenic risk score (PRS) associates with ADHD and related traits in independent clinical and population samples.\n\nPubMed, Embase and PsychoInfo were systematically searched, alongside study bibliographies. Quality assessments were conducted, and a best-evidence synthesis was applied. Studies were excluded when the predictor was not based on the latest ADHD genome-wide association study, when PRS was not based on genome-wide results, or when the study was a review. Initially, 197 studies were retrieved (February 22, 2020), and a second search (June 3, 2020) yielded a further 49 studies. From both searches, 57 studies were eligible, and 44 studies met inclusion criteria.\n\nIncluded studies were published in the last 3 years. Over 80% of the studies were rated excellent, based on a standardized quality assessment. Evidence of associations between ADHD PRS and the following categories was strong: ADHD, ADHD traits, brain structure, education, externalizing behaviors, neuropsychological constructs, physical health, and socioeconomic status. Evidence for associations with addiction, autism, and mental health were mixed and were, so far, inconclusive. Odds ratios for PRS associating with ADHD ranged from 1.22% to 1.76%; variance explained in dimensional assessments of ADHD traits was 0.7% to 3.3%.\n\nA new wave of high-quality research using the ADHD PRS has emerged. Eventually, symptoms may be partly identified based on PRS, but the current ADHD PRS is useful for research purposes only. This review shows that the ADHD PRS is robust and reliable, associating not only with ADHD but many outcomes and challenges known to be linked to ADHD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "To investigate, by systematically reviewing the literature, whether the attention-deficit/hyperactivity disorder (ADHD) polygenic risk score (PRS) associates with ADHD and related traits in independent clinical and population samples. PubMed, Embase and PsychoInfo were systematically searched, alongside study bibliographies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33548493/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Odds Ratio",
+    "Phenotype",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "attention-deficit/hyperactivity disorder",
+    "comorbidity",
+    "genetics",
+    "neurodevelopment",
+    "psychiatry"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review"
+  ]
+}

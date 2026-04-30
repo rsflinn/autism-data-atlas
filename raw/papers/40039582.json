@@ -1,0 +1,40 @@
+{
+  "pmid": "40039582",
+  "doi": "10.1109/EMBC53108.2024.10781623",
+  "title": "Neural Complexity Unveiled: Doubly Functionally Independent Primitives (dFIPs) in Psychiatric Risk Score Assessment",
+  "authors": "Soleimani N, Calhoun VD",
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Understanding and predicting intricate neural underpinnings of psychiatric disorders has become an area of intensive research in neuroimaging. Current assessment methods, such as genetic testing, face limitations in providing adaptable biomarkers. This study introduces an innovative perspective by focusing on doubly functionally independent primitives (dFIPs) to assess risk scores modeled by employing multiple linear regression. Departing from traditional polygenic risk scores, our novel approach assesses an individual's psychiatric risk by contrasting their functional network connectivity (FNC) with reference patterns from psychiatric disorder. Leveraging a large imaging dataset (N=5805) encompassing schizophrenia (SZ), autism spectrum disorder (ASD), bipolar disorder (BPD) and major depressive disorder (MDD), alongside corresponding healthy controls, the risk score is computed and applied to a diverse dataset of Adolescent Brain and Cognitive Development (ABCD, N=8191). Our major findings unveiled the nuanced significance of reconstructed FNCs based on the most discriminative dFIP patterns in the 10% of the ABCD individuals with highest risk score for the specific disorder. Furthermore, the 10% ABCD individuals with highest risk score of ASD and MDD showed greater overlap than individuals with other disorders. Overall, these findings underscored the relative importance of each dFIP pattern, providing valuable insight into the differential contributions of these patterns to the accurate prediction of elevated risk score. Also, this pioneering approach provides a promising avenue for comprehensive risk assessment.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Understanding and predicting intricate neural underpinnings of psychiatric disorders has become an area of intensive research in neuroimaging. Current assessment methods, such as genetic testing, face limitations in providing adaptable biomarkers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40039582/",
+  "mesh_terms": [
+    "Humans",
+    "Risk Assessment",
+    "Adolescent",
+    "Male",
+    "Female",
+    "Mental Disorders",
+    "Brain",
+    "Autism Spectrum Disorder",
+    "Magnetic Resonance Imaging",
+    "Schizophrenia",
+    "Bipolar Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

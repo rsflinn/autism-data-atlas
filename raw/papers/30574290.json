@@ -1,0 +1,49 @@
+{
+  "pmid": "30574290",
+  "doi": "10.1186/s13229-018-0244-2",
+  "title": "Autism-associated CHD8 deficiency impairs axon development and migration of cortical neurons",
+  "authors": "Xu Q, Liu YY, Wang X, Tan GH, Li HP, Hulbert SW, et al.",
+  "journal": "Molecular autism",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Mutations in, chromodomain helicase DNA-binding protein 8, are among the most replicated and common findings in genetic studies of autism spectrum disorder (ASD). The CHD8 protein is believed to act as a transcriptional regulator by remodeling chromatin structure and recruiting histone H1 to target genes. The mechanism by which deficiency of CHD8 causes ASD has not been fully elucidated.\n\nWe examined the expression ofin human and mouse brains using both immunohistochemistry and RNA in situ hybridization. We performed in utero electroporation, neuronal culture, and biochemical analysis using RNAi to examine the functional consequences ofdeficiency.\n\nWe discovered that CHD8 is expressed highly in neurons and at low levels in glia cells in both humans and mice. Specifically, CHD8 is localized predominately in the nucleus of both MAP2 and parvalbumin-positive neurons. In the developing mouse brain, expression ofpeaks from E16 to E18 and then decreases significantly at P14 to adulthood. Knockdown ofresults in reduced axon and dendritic growth, disruption of axon projections to the contralateral cortex, and delayed neuronal migration at E18.5 which recovers by P3 and P7.\n\nOur findings indicate an important role for CHD8 in dendritic and axon development and neuronal migration and thus offer novel insights to further dissect the underlying molecular and circuit mechanisms of ASD caused by CHD8 deficiency.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Mutations in, chromodomain helicase DNA-binding protein 8, are among the most replicated and common findings in genetic studies of autism spectrum disorder (ASD). The CHD8 protein is believed to act as a transcriptional regulator by remodeling chromatin structure and recruiting histone H1 to target genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30574290/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Cells, Cultured",
+    "Cerebral Cortex",
+    "DNA-Binding Proteins",
+    "Humans",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Neurogenesis",
+    "Neurons"
+  ],
+  "keywords": [
+    "Autism spectrum disorder (ASD)",
+    "CHD8",
+    "Chromatin remodeling",
+    "Neurite growth",
+    "Neurodevelopment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

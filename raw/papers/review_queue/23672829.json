@@ -1,0 +1,43 @@
+{
+  "pmid": "23672829",
+  "doi": "10.1016/j.scr.2013.02.009",
+  "title": "Enhanced derivation of mouse ESC-derived cortical interneurons by expression of Nkx2.1",
+  "authors": "Petros TJ, Maurer CW, Anderson SA",
+  "journal": "Stem cell research",
+  "date": "2013-04",
+  "source": "pubmed",
+  "abstract": "Forebrain GABAergic interneurons are divided into subgroups based on their neurochemical markers, connectivity and physiological properties. Abnormal interneuron function is implicated in the pathobiology of neurological disorders such as schizophrenia, autism, and epilepsy. Studies on interneuron development and their role in disease would benefit from an efficient mechanism for the production and selection of specific interneuron subgroups. In this study, we engineered a mouse embryonic stem cell (mESC) line for doxycycline-inducible expression of Nkx2.1, a required transcription factor for cortical interneurons derived from the medial ganglionic eminence (MGE). This mESC line was modified to express GFP in Lhx6(+) cells, a marker of newly postmitotic and mature MGE-derived cortical interneurons. The addition of doxycycline to differentiating ESCs efficiently induced Nkx2.1 protein and increased the production of GFP(+) cells. Transplantation of GFP(+) putative interneuron precursors resulted in migratory, morphological, and neurochemical features consistent with cortical interneuron fates. To test the hypothesis that Sonic hedgehog (Shh) primarily influences cortical interneuron fate determination through the induction of Nkx2.1, ESCs were grown with doxycycline and the Shh antagonist cyclopamine. We found induced Nkx2.1 renders Shh signaling dispensable for the generation of MGE-derived interneurons. These results demonstrate that inducible expression of fate determining genes in embryonic stem cells can be used to study fate determination of the developing forebrain.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Forebrain GABAergic interneurons are divided into subgroups based on their neurochemical markers, connectivity and physiological properties. Abnormal interneuron function is implicated in the pathobiology of neurological disorders such as schizophrenia, autism, and epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23672829/",
+  "mesh_terms": [
+    "Animals",
+    "Embryonic Stem Cells",
+    "Female",
+    "Immunohistochemistry",
+    "In Situ Hybridization, Fluorescence",
+    "Interneurons",
+    "Mice",
+    "Nuclear Proteins",
+    "Pregnancy",
+    "Signal Transduction",
+    "Somatosensory Cortex",
+    "Thyroid Nuclear Factor 1",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

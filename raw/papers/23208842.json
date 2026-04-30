@@ -1,0 +1,47 @@
+{
+  "pmid": "23208842",
+  "doi": "10.1002/ajmg.a.35698",
+  "title": "Clinical utility of the X-chromosome array",
+  "authors": "Zarate YA, Dwivedi A, Bartel FO, Bellomo MA, Cathey SS, Champaigne NL, et al.",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2012-12",
+  "source": "pubmed",
+  "abstract": "Previous studies have limited the use of specific X-chromosome array designed platforms to the evaluation of patients with intellectual disability. In this retrospective analysis, we reviewed the clinical utility of an X-chromosome array in a variety of scenarios. We divided patients according to the indication for the test into four defined categories: (1) autism spectrum disorders and/or developmental delay and/or intellectual disability (ASDs/DD/ID) with known family history of neurocognitive disorders; (2) ASDs/DD/ID without known family history of neurocognitive disorders; (3) breakpoint definition of an abnormality detected by a different cytogenetic test; and (4) evaluation of suspected or known X-linked conditions. A total of 59 studies were ordered with 27 copy number variants detected in 25 patients (25/59&#x2009;=&#x2009;42%). The findings were deemed pathogenic/likely pathogenic (16/59&#x2009;=&#x2009;27%), benign (4/59&#x2009;=&#x2009;7%) or uncertain (7/59&#x2009;=&#x2009;12%). We place particular emphasis on the utility of this test for the diagnostic evaluation of families affected with X-linked conditions and how it compares to whole genome arrays in this setting. In conclusion, the X-chromosome array frequently detects genomic alterations of the X chromosome and it has advantages when evaluating some specific X-linked conditions. However, careful interpretation and correlation with clinical findings is needed to determine the significance of such changes. When the X-chromosome array was used to confirm a suspected X-linked condition, it had a yield of 63% (12/19) and was useful in the evaluation and risk assessment of patients and families.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Previous studies have limited the use of specific X-chromosome array designed platforms to the evaluation of patients with intellectual disability. In this retrospective analysis, we reviewed the clinical utility of an X-chromosome array in a variety of scenarios.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23208842/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Chromosomes, Human, X",
+    "DNA Copy Number Variations",
+    "Developmental Disabilities",
+    "Female",
+    "Genes, X-Linked",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Oligonucleotide Array Sequence Analysis",
+    "Reproducibility of Results",
+    "Retrospective Studies",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

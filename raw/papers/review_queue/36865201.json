@@ -1,0 +1,29 @@
+{
+  "pmid": "36865201",
+  "doi": "10.1101/2023.02.21.23286253",
+  "title": "Developing a Phenotype Risk Score for Tic Disorders in a Large, Clinical Biobank",
+  "authors": "Miller-Fleming TW, Allos A, Gantz E, Yu D, Isaacs DA, Mathews CA, et al.",
+  "journal": "medRxiv : the preprint server for health sciences",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Tics are a common feature of early-onset neurodevelopmental disorders, characterized by involuntary and repetitive movements or sounds. Despite affecting up to 2% of young children and having a genetic contribution, the underlying causes remain poorly understood, likely due to the complex phenotypic and genetic heterogeneity among affected individuals.\n\nIn this study, we leverage dense phenotype information from electronic health records to identify the disease features associated with tic disorders within the context of a clinical biobank. These disease features are then used to generate a phenotype risk score for tic disorder.\n\nUsing de-identified electronic health records from a tertiary care center, we extracted individuals with tic disorder diagnosis codes. We performed a phenome-wide association study to identify the features enriched in tic cases versus controls (N=1,406 and 7,030; respectively). These disease features were then used to generate a phenotype risk score for tic disorder, which was applied across an independent set of 90,051 individuals. A previously curated set of tic disorder cases from an electronic health record algorithm followed by clinician chart review was used to validate the tic disorder phenotype risk score.\n\nPhenotypic patterns associated with a tic disorder diagnosis in the electronic health record.\n\nOur tic disorder phenome-wide association study revealed 69 significantly associated phenotypes, predominantly neuropsychiatric conditions, including obsessive compulsive disorder, attention-deficit hyperactivity disorder, autism, and anxiety. The phenotype risk score constructed from these 69 phenotypes in an independent population was significantly higher among clinician-validated tic cases versus non-cases.\n\nOur findings provide support for the use of large-scale medical databases to better understand phenotypically complex diseases, such as tic disorders. The tic disorder phenotype risk score provides a quantitative measure of disease risk that can be leveraged for the assignment of individuals in case-control studies or for additional downstream analyses.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Tics are a common feature of early-onset neurodevelopmental disorders, characterized by involuntary and repetitive movements or sounds. Despite affecting up to 2% of young children and having a genetic contribution, the underlying causes remain poorly understood, likely due to the complex phenotypic and genetic heterogeneity among affected individuals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36865201/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Preprint",
+    "Journal Article"
+  ]
+}

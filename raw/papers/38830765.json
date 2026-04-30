@@ -1,0 +1,51 @@
+{
+  "pmid": "38830765",
+  "doi": "10.1523/JNEUROSCI.1587-23.2024",
+  "title": "Cell- and Pathway-Specific Disruptions in the Accumbens of Fragile X Mouse",
+  "authors": "Giua G, Pereira-Silva J, Caceres-Rodriguez A, Lassalle O, Chavis P, Manzoni OJ",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a genetic cause of intellectual disability and autism spectrum disorder. The mesocorticolimbic system, which includes the prefrontal cortex (PFC), basolateral amygdala (BLA), and nucleus accumbens core (NAcC), is essential for regulating socioemotional behaviors. We employed optogenetics to compare the functional properties of the BLA&#x2192;NAcC, PFC&#x2192;NAcC, and reciprocal PFC&#x2194;BLA pathways inmale mice. In FXS mice, the PFC&#x2194;BLA reciprocal pathway was unaffected, while significant synaptic modifications occurred in the BLA/PFC&#x2192;NAcC pathways. We observed distinct changes in D1 striatal projection neurons (SPNs) and separate modifications in D2 SPNs. In FXS mice, the BLA/PFC&#x2192;NAcC-D2 SPN pathways demonstrated heightened synaptic strength. Focusing on the BLA&#x2192;NAcC pathway, linked to autistic symptoms, we found increased AMPAR and NMDAR currents and elevated spine density in D2 SPNs. Conversely, the amplified firing probability of BLA&#x2192;NAcC-D1 SPNs was not accompanied by increased synaptic strength, AMPAR and NMDAR currents, or spine density. These pathway-specific alterations resulted in an overall enhancement of excitatory-to-spike coupling, a physiologically relevant index of how efficiently excitatory inputs drive neuronal firing, in both BLA&#x2192;NAcC-D1 and BLA&#x2192;NAcC-D2 pathways. Finally, the absence of fragile X messenger ribonucleoprotein 1 (FMRP) led to impaired long-term depression specifically in BLA&#x2192;D1 SPNs. These distinct alterations in synaptic transmission and plasticity within circuits targeting the NAcC highlight the potential role of postsynaptic mechanisms in selected SPNs in the observed circuit-level changes. This research underscores the heightened vulnerability of the NAcC in the context of FMRP deficiency, emphasizing its pivotal role in the pathophysiology of FXS.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is a genetic cause of intellectual disability and autism spectrum disorder. The mesocorticolimbic system, which includes the prefrontal cortex (PFC), basolateral amygdala (BLA), and nucleus accumbens core (NAcC), is essential for regulating socioemotional behaviors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38830765/",
+  "mesh_terms": [
+    "Animals",
+    "Fragile X Syndrome",
+    "Mice",
+    "Male",
+    "Nucleus Accumbens",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Neural Pathways",
+    "Optogenetics",
+    "Prefrontal Cortex",
+    "Mice, Inbred C57BL",
+    "Basolateral Nuclear Complex",
+    "Mice, Knockout",
+    "Neurons",
+    "Neuronal Plasticity"
+  ],
+  "keywords": [
+    "basolateral amygdala",
+    "fragile X syndrome",
+    "mesocorticolimbic system",
+    "nucleus accumbens",
+    "prefrontal cortex",
+    "synaptic function"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

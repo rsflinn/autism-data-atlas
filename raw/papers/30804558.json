@@ -1,0 +1,46 @@
+{
+  "pmid": "30804558",
+  "doi": "10.1038/s41588-019-0344-8",
+  "title": "Identification of common genetic risk variants for autism spectrum disorder",
+  "authors": "Grove J, Ripke S, Als TD, Mattheisen M, Walters RK, Won H, et al.",
+  "journal": "Nature genetics",
+  "date": "2019-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a highly heritable and heterogeneous group of neurodevelopmental phenotypes diagnosed in more than 1% of children. Common genetic variants contribute substantially to ASD susceptibility, but to date no individual variants have been robustly associated with ASD. With a marked sample-size increase from a unique Danish population resource, we report a genome-wide association meta-analysis of 18,381 individuals with ASD and 27,969 controls that identified five genome-wide-significant loci. Leveraging GWAS results from three phenotypes with significantly overlapping genetic architectures (schizophrenia, major depression, and educational attainment), we identified seven additional loci shared with other traits at equally strict significance levels. Dissecting the polygenic architecture, we found both quantitative and qualitative polygenic heterogeneity across ASD subtypes. These results highlight biological insights, particularly relating to neuronal function and corticogenesis, and establish that GWAS performed at scale will be much more productive in the near term in ASD.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a highly heritable and heterogeneous group of neurodevelopmental phenotypes diagnosed in more than 1% of children. Common genetic variants contribute substantially to ASD susceptibility, but to date no individual variants have been robustly associated with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30804558/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Child",
+    "Child, Preschool",
+    "Denmark",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

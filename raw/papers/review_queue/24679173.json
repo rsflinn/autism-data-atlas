@@ -1,0 +1,36 @@
+{
+  "pmid": "24679173",
+  "doi": "10.1089/cap.2013.0040",
+  "title": "Oxytocin and autism: a systematic review of randomized controlled trials",
+  "authors": "Preti A, Melis M, Siddi S, Vellante M, Doneddu G, Fadda R",
+  "journal": "Journal of child and adolescent psychopharmacology",
+  "date": "2014-03",
+  "source": "pubmed",
+  "abstract": "Little is known about the effectiveness of pharmacological interventions on autism spectrum disorder (ASD). This is a systematic review of the randomized controlled trials (RCTs) of oxytocin interventions in autism, made from January 1990 to September 2013.\n\nA search of computerized databases was supplemented by manual search in the bibliographies of key publications. The methodological quality of the studies included in the review was evaluated independently by two researchers, according to a set of formal criteria. Discrepancies in scoring were resolved through discussion.\n\nThe review yielded seven RCTs, including 101 subjects with ASD (males=95) and 8 males with Fragile X syndrome. The main categories of target symptoms tested in the studies were repetitive behaviors, eye gaze, and emotion recognition. The studies had a medium to high risk of bias. Most studies had small samples (median=15). All the studies but one reported statistically significant between-group differences on at least one outcome variable. Most findings were characterized by medium effect size. Only one study had evidence that the improvement in emotion recognition was maintained after 6 weeks of treatment with intranasal oxytocin. Overall, oxytocin was well tolerated and side effects, when present, were generally rated as mild; however, restlessness, increased irritability, and increased energy occurred more often under oxytocin.\n\nRCTs of oxytocin interventions in autism yielded potentially promising findings in measures of emotion recognition and eye gaze, which are impaired early in the course of the ASD condition and might disrupt social skills learning in developing children. There is a need for larger, more methodologically rigorous RCTs in this area. Future studies should be better powered to estimate outcomes with medium to low effect size, and should try to enroll female participants, who were rarely considered in previous studies. Risk of bias should be minimized. Human long-term administration studies are necessary before clinical recommendations can be made.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Little is known about the effectiveness of pharmacological interventions on autism spectrum disorder (ASD). This is a systematic review of the randomized controlled trials (RCTs) of oxytocin interventions in autism, made from January 1990 to September 2013.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24679173/",
+  "mesh_terms": [
+    "Administration, Intranasal",
+    "Child Development Disorders, Pervasive",
+    "Humans",
+    "Oxytocin",
+    "Randomized Controlled Trials as Topic",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review"
+  ]
+}

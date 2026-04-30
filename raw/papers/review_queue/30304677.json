@@ -1,0 +1,53 @@
+{
+  "pmid": "30304677",
+  "doi": "10.1016/j.celrep.2018.09.039",
+  "title": "Sensitive Periods for Cerebellar-Mediated Autistic-like Behaviors",
+  "authors": "Tsai PT, Rudolph S, Guo C, Ellegood J, Gibson JM, Schaeffer SM, et al.",
+  "journal": "Cell reports",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "Despite a prevalence exceeding 1%, mechanisms underlying autism spectrum disorders (ASDs) are poorly understood, and targeted therapies and guiding parameters are urgently needed. We recently demonstrated that cerebellar dysfunction is sufficient to generate autistic-like behaviors in a mouse model of tuberous sclerosis complex (TSC). Here, using the mechanistic target of rapamycin (mTOR)-specific inhibitor rapamycin, we define distinct sensitive periods for treatment of autistic-like behaviors with sensitive periods extending into adulthood for social behaviors. We identify cellular and electrophysiological parameters that may contribute to behavioral rescue, with rescue of Purkinje cell survival and excitability corresponding to social behavioral rescue. In addition, using anatomic and diffusion-based MRI, we identify structural changes in cerebellar domains implicated in ASD that correlate with sensitive periods of specific autism-like behaviors. These findings thus not only define treatment parameters into adulthood, but also support a&#xa0;mechanistic basis for the targeted rescue of autism-related behaviors.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Despite a prevalence exceeding 1%, mechanisms underlying autism spectrum disorders (ASDs) are poorly understood, and targeted therapies and guiding parameters are urgently needed. We recently demonstrated that cerebellar dysfunction is sufficient to generate autistic-like behaviors in a mouse model of tuberous sclerosis complex (TSC).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30304677/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Cells, Cultured",
+    "Cerebellum",
+    "Immunosuppressive Agents",
+    "Male",
+    "Mice",
+    "Mice, Inbred BALB C",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Purkinje Cells",
+    "Sirolimus",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis Complex 1 Protein"
+  ],
+  "keywords": [
+    "Purkinje cell",
+    "autism",
+    "cerebellum",
+    "sensitive periods",
+    "treatment",
+    "tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

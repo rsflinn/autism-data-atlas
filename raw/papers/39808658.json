@@ -1,0 +1,50 @@
+{
+  "pmid": "39808658",
+  "doi": "10.1073/pnas.2405981122",
+  "title": "The chromatin remodeler ADNP regulates neurodevelopmental disorder risk genes and neocortical neurogenesis",
+  "authors": "Cl&#xe9;mot-Dupont S, Louren&#xe7;o Fernandes JA, Larrigan S, Sun X, Medisetti S, Stanley R, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Although chromatin remodelers are among the most important risk genes associated with neurodevelopmental disorders (NDDs), the roles of these complexes during brain development are in many cases unclear. Here, we focused on the recently discovered ChAHP chromatin remodeling complex. The zinc finger and homeodomain transcription factor ADNP is a core subunit of this complex, and de novomutations lead to intellectual disability and autism spectrum disorder. However, germlineknockout mice were previously shown to exhibit early embryonic lethality, obscuring subsequent roles for the ChAHP complex in neurogenesis. To circumvent this early developmental arrest, we generated a conditionalmutant allele. Using single-cell transcriptomics, cut&run-seq, and histological approaches, we show that during neocortical development, Adnp orchestrates the production of late-born, upper-layer neurons through a two-step process. First, Adnp is required to sustain progenitor proliferation specifically during the developmental window for upper-layer cortical neurogenesis. Accordingly, we found that Adnp recruits the ChAHP subunit Chd4 to genes associated with progenitor proliferation. Second, in postmitotic differentiated neurons, we define a network of risk genes linked to NDDs that are regulated by Adnp and Chd4. Taken together, these data demonstrate that ChAHP is critical for driving the expansion of upper-layer cortical neurons and for regulating neuronal gene expression programs, suggesting that these processes may potentially contribute to NDD etiology.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "Although chromatin remodelers are among the most important risk genes associated with neurodevelopmental disorders (NDDs), the roles of these complexes during brain development are in many cases unclear. Here, we focused on the recently discovered ChAHP chromatin remodeling complex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39808658/",
+  "mesh_terms": [
+    "Animals",
+    "Neurogenesis",
+    "Neocortex",
+    "Mice",
+    "Neurodevelopmental Disorders",
+    "Nerve Tissue Proteins",
+    "Mice, Knockout",
+    "Chromatin Assembly and Disassembly",
+    "Homeodomain Proteins",
+    "Neurons",
+    "Cell Proliferation",
+    "Gene Expression Regulation, Developmental",
+    "Neural Stem Cells"
+  ],
+  "keywords": [
+    "Adnp",
+    "ChAHP complex",
+    "chromatin remodeling",
+    "neocortex",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

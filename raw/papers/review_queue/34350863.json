@@ -1,0 +1,43 @@
+{
+  "pmid": "34350863",
+  "doi": "10.1159/000517870",
+  "title": "Mitochondrial Dysfunction: A Common Denominator in Neurodevelopmental Disorders?",
+  "authors": "Ortiz-Gonz&#xe1;lez XR",
+  "journal": "Developmental neuroscience",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "Mitochondria, the organelles classically seen as the powerhouse of the cell, are increasingly associated with a wide variety of neurodevelopmental disorders. Although individually rare, a myriad of pediatric neurogenetic disorders have been identified in the last few years, thanks to advances in clinical genetic sequencing and data analysis. As this exponential growth continues, mitochondrial dysfunction is increasingly implicated in childhood neurodevelopmental disorders, with clinical presentations ranging from syndromic autism, intellectual disability, and epileptic encephalopathies to childhood onset neurodegeneration. Here we review recent evidence demonstrating mitochondrial involvement in neurodevelopmental disorders, identify emerging mechanistic trends, and reconsider the long-standing question of the role of mitochondria in light of new evidence: causation versus mere association.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Mitochondria, the organelles classically seen as the powerhouse of the cell, are increasingly associated with a wide variety of neurodevelopmental disorders. Although individually rare, a myriad of pediatric neurogenetic disorders have been identified in the last few years, thanks to advances in clinical genetic sequencing and data analysis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34350863/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Humans",
+    "Intellectual Disability",
+    "Mitochondria",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "Epilepsy",
+    "Intellectual disability",
+    "Mitochondria",
+    "Neurodegeneration",
+    "Neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

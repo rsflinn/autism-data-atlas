@@ -1,0 +1,50 @@
+{
+  "pmid": "38460523",
+  "doi": "10.1016/j.neuron.2024.02.013",
+  "title": "Glial KCNQ Kchannels control neuronal output by regulating GABA release from glia in C.&#xa0;elegans",
+  "authors": "Graziano B, Wang L, White OR, Kaplan DH, Fernandez-Abascal J, Bianchi L",
+  "journal": "Neuron",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "KCNQs are voltage-gated Kchannels that control neuronal excitability and are mutated in epilepsy and autism spectrum disorder (ASD). KCNQs have been extensively studied in neurons, but their function in glia is unknown. Using voltage, calcium, and GABA imaging, optogenetics, and behavioral assays, we show here for the first time in Caenorhabditis elegans (C.&#xa0;elegans) that glial KCNQ channels control neuronal excitability by mediating GABA release from glia via regulation of the function of L-type voltage-gated Cachannels. Further, we show that human KCNQ channels have the same role when expressed in nematode glia, underscoring conservation of function across species. Finally, we show that pathogenic loss-of-function and gain-of-function human KCNQ2 mutations alter glia-to-neuron GABA signaling in distinct ways and that the KCNQ channel opener retigabine exerts rescuing effects. This work identifies glial KCNQ channels as key regulators of neuronal excitability via control of GABA release from glia.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "KCNQs are voltage-gated Kchannels that control neuronal excitability and are mutated in epilepsy and autism spectrum disorder (ASD). KCNQs have been extensively studied in neurons, but their function in glia is unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38460523/",
+  "mesh_terms": [
+    "Animals",
+    "Caenorhabditis elegans",
+    "gamma-Aminobutyric Acid",
+    "Neuroglia",
+    "Carbamates",
+    "KCNQ Potassium Channels",
+    "Humans",
+    "KCNQ2 Potassium Channel",
+    "Neurons",
+    "Caenorhabditis elegans Proteins",
+    "Phenylenediamines",
+    "Calcium Channels, L-Type"
+  ],
+  "keywords": [
+    "C.&#xa0;elegans",
+    "GABA",
+    "GABA sensor",
+    "KCNQ K(+) channels",
+    "glia",
+    "pathogenic mutations",
+    "retigabine",
+    "voltage sensor"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

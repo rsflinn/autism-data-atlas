@@ -1,0 +1,47 @@
+{
+  "pmid": "33243861",
+  "doi": "10.1126/science.aaz6063",
+  "title": "In vivo Perturb-Seq reveals neuronal and glial abnormalities associated with autism risk genes",
+  "authors": "Jin X, Simmons SK, Guo A, Shetty AS, Ko M, Nguyen L, et al.",
+  "journal": "Science (New York, N.Y.)",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "The number of disease risk genes and loci identified through human genetic studies far outstrips the capacity to systematically study their functions. We applied a scalable genetic screening approach, in vivo Perturb-Seq, to functionally evaluate 35 autism spectrum disorder/neurodevelopmental delay (ASD/ND) de novo loss-of-function risk genes. Using CRISPR-Cas9, we introduced frameshift mutations in these risk genes in pools, within the developing mouse brain in utero, followed by single-cell RNA-sequencing of perturbed cells in the postnatal brain. We identified cell type-specific and evolutionarily conserved gene modules from both neuronal and glial cell classes. Recurrent gene modules and cell types are affected across this cohort of perturbations, representing key cellular effects across sets of ASD/ND risk genes. In vivo Perturb-Seq allows us to investigate how diverse mutations affect cell types and states in the developing organism.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The number of disease risk genes and loci identified through human genetic studies far outstrips the capacity to systematically study their functions. We applied a scalable genetic screening approach, in vivo Perturb-Seq, to functionally evaluate 35 autism spectrum disorder/neurodevelopmental delay (ASD/ND) de novo loss-of-function risk genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33243861/",
+  "mesh_terms": [
+    "Animals",
+    "Ankyrins",
+    "Autistic Disorder",
+    "Brain",
+    "CRISPR-Cas Systems",
+    "DNA-Binding Proteins",
+    "Frameshift Mutation",
+    "Gene Expression Profiling",
+    "Genetic Loci",
+    "Humans",
+    "Mice",
+    "Neuroglia",
+    "Neurons",
+    "Repressor Proteins",
+    "Risk",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

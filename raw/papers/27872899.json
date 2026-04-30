@@ -1,0 +1,28 @@
+{
+  "pmid": "27872899",
+  "doi": "10.1212/NXG.0000000000000120",
+  "title": "De novomutation in 2 patients with neonatal-onset epilepsy",
+  "authors": "Guella I, Huh L, McKenzie MB, Toyota EB, Bebin EM, Thompson ML, et al.",
+  "journal": "Neurology. Genetics",
+  "date": "2016-11",
+  "source": "pubmed",
+  "abstract": "We describe 2 additional patients with early-onset epilepsy with a de novomutation.\n\nWhole-exome sequencing was performed in 2 unrelated patients with early-onset epilepsy and their unaffected parents. Genetic variants were assessed by comparative trio analysis. Clinical evolution, EEG, and neuroimaging are described. The phenotype and response to treatment was reviewed and compared to affected siblings in the original report.\n\nWe identified the samede novo mutation reported previously (c.G155A, p.R52H) in 2 additional patients with early-onset epilepsy. Similar to the original brothers described, both presented with tonic seizures in the first month of life. In the first patient, seizures responded to sodium channel blockers and her development was normal at 11 months. Patient 2 is a 15-year-old girl with treatment-resistant focal epilepsy, moderate intellectual disability, and autism. Carbamazepine (sodium channel blocker) was tried later in her course but not continued due to an allergic reaction.\n\nThe identification of a recurrent de novo mutation in 2 additional unrelated probands with early-onset epilepsy supports the role ofp.R52H in disease pathogenesis. Affected carriers presented with similar early clinical phenotypes; however, this report expands the phenotype associated with this mutation which contrasts with the progressive course and early mortality of the siblings in the original report.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "We describe 2 additional patients with early-onset epilepsy with a de novomutation. Whole-exome sequencing was performed in 2 unrelated patients with early-onset epilepsy and their unaffected parents.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27872899/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

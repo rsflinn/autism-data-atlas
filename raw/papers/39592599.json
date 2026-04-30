@@ -1,0 +1,39 @@
+{
+  "pmid": "39592599",
+  "doi": "10.1038/s41467-024-54538-x",
+  "title": "Trapping of spermine, Kukoamine A, and polyamine toxin blockers in GluK2 kainate receptor channels",
+  "authors": "Gangwar SP, Yelshanskaya MV, Aktolun M, Yen LY, Newton TP, Str&#xf8;mgaard K, et al.",
+  "journal": "Nature communications",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Kainate receptors (KARs) are a subtype of ionotropic glutamate receptor (iGluR) channels, a superfamily of ligand-gated ion channels which mediate the majority of excitatory neurotransmission in the central nervous system. KARs modulate neuronal circuits and plasticity during development and are implicated in neurological disorders, including epilepsy, depression, schizophrenia, anxiety, and autism. Calcium-permeable KARs undergo ion channel block, but the therapeutic potential of channel blockers remains underdeveloped, mainly due to limited structural knowledge. Here, we present closed-state structures of GluK2 KAR homotetramers in complex with ion channel blockers NpTx-8, PhTx-74, Kukoamine A, and spermine. We find that blockers reside inside the GluK2 ion channel pore, intracellular to the closed M3 helix bundle-crossing gate, with their hydrophobic heads filling the central cavity and positively charged polyamine tails spanning the selectivity filter. Molecular dynamics (MD) simulations of our structures illuminate interactions responsible for different affinity and binding poses of the blockers. Our structures elucidate the trapping mechanism of KAR channel block and provide a template for designing new blockers that can selectively target calcium-permeable KARs in neuropathologies.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Kainate receptors (KARs) are a subtype of ionotropic glutamate receptor (iGluR) channels, a superfamily of ligand-gated ion channels which mediate the majority of excitatory neurotransmission in the central nervous system. KARs modulate neuronal circuits and plasticity during development and are implicated in neurological disorders, including epilepsy, depression, schizophrenia, anxiety, and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39592599/",
+  "mesh_terms": [
+    "Spermine",
+    "Kainic Acid Receptors",
+    "GluK2 Kainate Receptor",
+    "Molecular Dynamics Simulation",
+    "Humans",
+    "Animals",
+    "Polyamines",
+    "HEK293 Cells"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, P.H.S."
+  ]
+}

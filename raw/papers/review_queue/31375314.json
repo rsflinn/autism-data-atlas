@@ -1,0 +1,61 @@
+{
+  "pmid": "31375314",
+  "doi": "10.1016/j.neuron.2019.07.002",
+  "title": "Development of a Chimeric Model to Study and Manipulate Human Microglia In&#xa0;Vivo",
+  "authors": "Hasselmann J, Coburn MA, England W, Figueroa Velez DX, Kiani Shabestari S, Tu CH, et al.",
+  "journal": "Neuron",
+  "date": "2019-07",
+  "source": "pubmed",
+  "abstract": "iPSC-derived microglia offer a powerful tool to study microglial homeostasis and disease-associated inflammatory responses. Yet, microglia are highly sensitive to their environment, exhibiting transcriptomic deficiencies when kept in isolation from the brain. Furthermore, species-specific genetic variations demonstrate that rodent microglia fail to fully recapitulate the human condition. To address this, we developed an approach to study human microglia within a surrogate brain environment. Transplantation of iPSC-derived hematopoietic-progenitors into the postnatal brain of humanized, immune-deficient mice results in context-dependent differentiation into microglia and other CNS macrophages, acquisition of an ex&#xa0;vivo human microglial gene signature, and responsiveness to both acute and chronic insults. Most notably, transplanted microglia exhibit robust transcriptional responses to A&#x3b2;-plaques that&#xa0;only partially overlap with that of murine microglia, revealing new, human-specific A&#x3b2;-responsive genes. We therefore have demonstrated that this chimeric model provides a powerful new system to examine the in&#xa0;vivo function of patient-derived and genetically modified microglia.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "iPSC-derived microglia offer a powerful tool to study microglial homeostasis and disease-associated inflammatory responses. Yet, microglia are highly sensitive to their environment, exhibiting transcriptomic deficiencies when kept in isolation from the brain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31375314/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Animals",
+    "Brain",
+    "Cell Differentiation",
+    "Disease Models, Animal",
+    "Gene Expression",
+    "Granulocyte-Macrophage Colony-Stimulating Factor",
+    "Hematopoietic Stem Cell Transplantation",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Macrophage Colony-Stimulating Factor",
+    "Mice",
+    "Mice, Transgenic",
+    "Microglia",
+    "Plaque, Amyloid",
+    "Thrombopoietin",
+    "Transplantation Chimera"
+  ],
+  "keywords": [
+    "Alzheimer&#x2019;s disease",
+    "TREM-2",
+    "beta-amyloid",
+    "chimera",
+    "hematopoietic",
+    "humanized",
+    "microglia",
+    "neurodegeneration",
+    "pluripotent",
+    "stem cells"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Video-Audio Media"
+  ]
+}

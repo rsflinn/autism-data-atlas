@@ -1,0 +1,47 @@
+{
+  "pmid": "41064933",
+  "doi": "10.1242/jcs.264092",
+  "title": "CEP290 deficiency disrupts ciliary axonemal architecture in human iPSC-derived brain organoids",
+  "authors": "Eschment M, Mercey O, Aarts EM, Perego L, Figueiro-Silva J, Mennel M, et al.",
+  "journal": "Journal of cell science",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Primary cilia are ubiquitous sensory organelles mediating various signaling modalities essential for development and cell homeostasis. Their dysfunction leads to ciliopathies, human disorders often affecting the central nervous system. CEP290 is a major ciliopathy-associated gene that encodes a centrosomal and ciliary transition zone protein. CEP290 has been implicated in different cellular functions, including cell cycle control, ciliogenesis and control of ciliary membrane protein content. To investigate CEP290 dysfunction in human neurons, we generated human induced pluripotent stem cell (iPSC)-derived brain organoids harboring CEP290 mutations. We found that CEP290 deficiency does not affect cell cycle progression or organoid formation, despite a tendency for less mature neuronal populations and formation of choroid plexus in mutant organoids. Expansion microscopy revealed morphologically abnormal ventricular cilia in the CEP290 mutant organoid cells with bulging ciliary membranes around splayed distal axonemal microtubules. Such ciliary abnormalities might represent a tissue-specific consequence revealed by studying a human neuronal organoid model.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Primary cilia are ubiquitous sensory organelles mediating various signaling modalities essential for development and cell homeostasis. Their dysfunction leads to ciliopathies, human disorders often affecting the central nervous system.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41064933/",
+  "mesh_terms": [
+    "Humans",
+    "Organoids",
+    "Induced Pluripotent Stem Cells",
+    "Cilia",
+    "Brain",
+    "Axoneme",
+    "Cytoskeletal Proteins",
+    "Antigens, Neoplasm",
+    "Cell Cycle Proteins",
+    "Neurons",
+    "Mutation",
+    "Ciliopathies"
+  ],
+  "keywords": [
+    "Brain organoids",
+    "CEP290",
+    "Ciliopathies",
+    "Neurodevelopment",
+    "Primary cilium"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

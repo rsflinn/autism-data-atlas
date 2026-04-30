@@ -1,0 +1,41 @@
+{
+  "pmid": "35914814",
+  "doi": "10.26508/lsa.202101205",
+  "title": "Chr21 protein-protein interactions: enrichment in proteins involved in intellectual disability, autism, and late-onset Alzheimer's disease",
+  "authors": "Viard J, Loe-Mie Y, Daudin R, Khelfaoui M, Plancon C, Boland A, et al.",
+  "journal": "Life science alliance",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "Down syndrome (DS) is caused by human chromosome 21 (HSA21) trisomy. It is characterized by a poorly understood intellectual disability (ID). We studied two mouse models of DS, one with an extra copy of the &lt;i&gt;Dyrk1A&lt;/i&gt; gene (189N3) and the other with an extra copy of the mouse Chr16 syntenic region (Dp(16)1Yey). RNA-seq analysis of the transcripts deregulated in the embryonic hippocampus revealed an enrichment in genes associated with chromatin for the 189N3 model, and synapses for the Dp(16)1Yey model. A large-scale yeast two-hybrid screen (82 different screens, including 72 HSA21 baits and 10 rebounds) of a human brain library containing at least 10&lt;sup&gt;7&lt;/sup&gt; independent fragments identified 1,949 novel protein-protein interactions. The direct interactors of HSA21 baits and rebounds were significantly enriched in ID-related genes (&lt;i&gt;P&lt;/i&gt;-value &amp;lt; 2.29 &#xd7; 10&lt;sup&gt;-8&lt;/sup&gt;). Proximity ligation assays showed that some of the proteins encoded by HSA21 were located at the dendritic spine postsynaptic density, in a protein network at the dendritic spine postsynapse. We located HSA21 DYRK1A and DSCAM, mutations of which increase the risk of autism spectrum disorder (ASD) 20-fold, in this postsynaptic network. We found that an intracellular domain of DSCAM bound either DLGs, which are multimeric scaffolds comprising receptors, ion channels and associated signaling proteins, or DYRK1A. The DYRK1A-DSCAM interaction domain is conserved in &lt;i&gt;Drosophila&lt;/i&gt; and humans. The postsynaptic network was found to be enriched in proteins associated with ARC-related synaptic plasticity, ASD, and late-onset Alzheimer's disease. These results highlight links between DS and brain diseases with a complex genetic basis.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "DYRK1A"
+  ],
+  "summary": "Down syndrome (DS) is caused by human chromosome 21 (HSA21) trisomy. It is characterized by a poorly understood intellectual disability (ID).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35914814/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Down Syndrome",
+    "Drosophila",
+    "Humans",
+    "Intellectual Disability",
+    "Mice"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

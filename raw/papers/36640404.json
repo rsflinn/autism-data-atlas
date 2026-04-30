@@ -1,0 +1,38 @@
+{
+  "pmid": "36640404",
+  "doi": "10.1002/wps.21034",
+  "title": "New insights from the last decade of research in psychiatric genetics: discoveries, challenges and clinical implications",
+  "authors": "Andreassen OA, Hindley GFL, Frei O, Smeland OB",
+  "journal": "World psychiatry : official journal of the World Psychiatric Association (WPA)",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Psychiatric genetics has made substantial progress in the last decade, providing new insights into the genetic etiology of psychiatric disorders, and paving the way for precision psychiatry, in which individual genetic profiles may be used to personalize risk assessment and inform clinical decision-making. Long recognized to be heritable, recent evidence shows that psychiatric disorders are influenced by thousands of genetic variants acting together. Most of these variants are commonly occurring, meaning that every individual has a genetic risk to each psychiatric disorder, from low to high. A series of large-scale genetic studies have discovered an increasing number of common and rare genetic variants robustly associated with major psychiatric disorders. The most convincing biological interpretation of the genetic findings implicates altered synaptic function in autism spectrum disorder and schizophrenia. However, the mechanistic understanding is still incomplete. In line with their extensive clinical and epidemiological overlap, psychiatric disorders appear to exist on genetic continua and share a large degree of genetic risk with one another. This provides further support to the notion that current psychiatric diagnoses do not represent distinct pathogenic entities, which may inform ongoing attempts to reconceptualize psychiatric nosology. Psychiatric disorders also share genetic influences with a range of behavioral and somatic traits and diseases, including brain structures, cognitive function, immunological phenotypes and cardiovascular disease, suggesting shared genetic etiology of potential clinical importance. Current polygenic risk score tools, which predict individual genetic susceptibility to illness, do not yet provide clinically actionable information. However, their precision is likely to improve in the coming years, and they may eventually become part of clinical practice, stressing the need to educate clinicians and patients about their potential use and misuse. This review discusses key recent insights from psychiatric genetics and their possible clinical applications, and suggests future directions.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Psychiatric genetics has made substantial progress in the last decade, providing new insights into the genetic etiology of psychiatric disorders, and paving the way for precision psychiatry, in which individual genetic profiles may be used to personalize risk assessment and inform clinical decision-making. Long recognized to be heritable, recent evidence shows that psychiatric disorders are influenced by thousands of genetic variants acting together.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36640404/",
+  "mesh_terms": [],
+  "keywords": [
+    "Genetics",
+    "common variants",
+    "genomics",
+    "nosology",
+    "pleiotropy",
+    "polygenic risk score",
+    "precision medicine",
+    "psychiatry",
+    "rare variants"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

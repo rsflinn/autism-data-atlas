@@ -1,0 +1,47 @@
+{
+  "pmid": "40048808",
+  "doi": "10.1016/j.molpha.2025.100017",
+  "title": "Ion channels and G protein-coupled receptors: Cannabidiol actions on disorders of excitability and synaptic excitatory-inhibitory ratio",
+  "authors": "Tsien RW, Rosenberg EC",
+  "journal": "Molecular pharmacology",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Brain excitability is dysfunctional in epilepsy and overlapping neuropsychiatric conditions including autism spectrum disorder (ASD). Epilepsy and ASD are often attributed to malfunctioning coordination between synaptic excitation and inhibition. Dravet syndrome (DS) is a severe form of epilepsy arising from haploinsufficiency of the SCN1A gene that encodes the voltage-gated sodium channel Nav1.1. A DS mouse model (Scn1a) recapitulated essential features of DS and revealed that sodium current density was profoundly reduced in GABAergic inhibitory interneurons while pyramidal cells were spared, suggesting that DS is an \"interneuronopathy.\" Further studies from the Catterall group and others have expanded this picture: DS symptoms, which include recurrent seizures, ataxia, cognitive impairment, ASD, and premature death, could be assigned in part to brain region-specific effects; the Nav1.1 mutations cause dysfunction in some subtypes of interneurons, not others, and are temporally restricted; DS-causing sodium channel mutations were found throughout SCN1A as well as in SCN1B, encoding the &#x3b2;1 subunit. Interest in therapeutic approaches was sparked by preclinical studies of cannabidiol (CBD) that led to the 2018 US Food and Drug Administration approval for treatment of seizures in patients with DS. Independent evidence showed that CBD antagonized GPR55, a G protein-coupled receptor activated by the lipid signaling molecule lysophosphatidylinositol (LPI). We summarized evidence from our group and others that CBD has a dual mechanism of action, targeting both ion channels and GPR55. CBD quells an epileptogenic vicious cycle: seizures strengthen LPI-GPR55 signaling while LPI-GPR55 signaling elevates the synaptic excitatory-inhibitory ratio, thereby promoting further seizures. SIGNIFICANCE STATEMENT: Modern medicine relies on ion channels and G protein-coupled receptors (GPCRs) as key targets. In studies of Dravet syndrome, a devastating genetic disorder with features of epilepsy and autism, William Catterall connected NaV1.1 mutations to deficient excitability of inhibitory neurons. He and his colleagues explored preclinical interventions using cannabidiol (CBD) and clobazam, opening the way to a current understanding of CBD's therapeutic mechanism. CBD affects both ion channels and GPR55, a GPCR activated by lysophosphatidylinositol, an activity-dependent lipid messenger, readjusting the synaptic excitatory-inhibitory ratio.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "SCN1A"
+  ],
+  "summary": "Brain excitability is dysfunctional in epilepsy and overlapping neuropsychiatric conditions including autism spectrum disorder (ASD). Epilepsy and ASD are often attributed to malfunctioning coordination between synaptic excitation and inhibition.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40048808/",
+  "mesh_terms": [
+    "Animals",
+    "Cannabidiol",
+    "Humans",
+    "Receptors, G-Protein-Coupled",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Epilepsies, Myoclonic",
+    "Mice",
+    "Synapses"
+  ],
+  "keywords": [
+    "Autism",
+    "Cannabidiol",
+    "Dravet syndrome",
+    "Epilepsy",
+    "G protein-coupled receptors",
+    "Sodium channels"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

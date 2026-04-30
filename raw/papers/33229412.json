@@ -1,0 +1,45 @@
+{
+  "pmid": "33229412",
+  "doi": "10.1523/ENEURO.0284-20.2020",
+  "title": "Myosin Va Brain-Specific Mutation Alters Mouse Behavior and Disrupts Hippocampal Synapses",
+  "authors": "Pandian S, Zhao JP, Murata Y, Bustos FJ, Tunca C, Almeida RD, et al.",
+  "journal": "eNeuro",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Myosin Va (MyoVa) is a plus-end filamentous-actin motor protein that is highly and broadly expressed in the vertebrate body, including in the nervous system. In excitatory neurons, MyoVa transports cargo toward the tip of the dendritic spine, where the postsynaptic density (PSD) is formed and maintained. MyoVa mutations in humans cause neurologic dysfunction, intellectual disability, hypomelanation, and death in infancy or childhood. Here, we characterize the Flailer (Flr) mutant mouse, which is homozygous for amutation that drives high levels of mutant MyoVa (Flr protein) specifically in the CNS. Flr protein functions as a dominant-negative MyoVa, sequestering cargo and blocking its transport to the PSD. Flr mice have early seizures and mild ataxia but mature and breed normally. Flr mice display several abnormal behaviors known to be associated with brain regions that show high expression of Flr protein. Flr mice are defective in the transport of synaptic components to the PSD and in mGluR-dependent long-term depression (LTD) and have a reduced number of mature dendritic spines. The synaptic and behavioral abnormalities of Flr mice result in anxiety and memory deficits similar to that of other mouse mutants with obsessive-compulsive disorder and autism spectrum disorder (ASD). Because of the dominant-negative nature of the Flr protein, the Flr mouse offers a powerful system for the analysis of how the disruption of synaptic transport and lack of LTD can alter synaptic function, development and wiring of the brain and result in symptoms that characterize many neuropsychiatric disorders.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Myosin Va (MyoVa) is a plus-end filamentous-actin motor protein that is highly and broadly expressed in the vertebrate body, including in the nervous system. In excitatory neurons, MyoVa transports cargo toward the tip of the dendritic spine, where the postsynaptic density (PSD) is formed and maintained.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33229412/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Hippocampus",
+    "Mice",
+    "Mutation",
+    "Myosin Heavy Chains",
+    "Myosin Type V",
+    "Synapses"
+  ],
+  "keywords": [
+    "LTD",
+    "anxiety",
+    "autism spectrum disorder",
+    "transport"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

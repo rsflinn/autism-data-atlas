@@ -1,0 +1,43 @@
+{
+  "pmid": "30293238",
+  "doi": "10.1111/pcn.12774",
+  "title": "Estimating contribution of rare non-coding variants to neuropsychiatric disorders",
+  "authors": "Takata A",
+  "journal": "Psychiatry and clinical neurosciences",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "Owing to recent advances in DNA sequencing technology, a number of large-scale comprehensive analyses of genetic variations in protein-coding regions (i.e., whole-exome sequencing studies), have been conducted for neuropsychiatric and neurodevelopmental disorders, such as autism spectrum disorders, intellectual disability, and schizophrenia. These studies, especially those focusing on de novo (newly arising) mutations and extremely rare variants, have successfully identified previously unrecognized disease genes/mutations with a large effect size and deepen our understanding of the biology of neuropsychiatric diseases. Along with the continuously dropping sequencing cost, now the target of sequencing studies is expanding from the exome to the whole human genome. Several pioneering works have provided important insights into the contribution of rare non-coding variants to neuropsychiatric diseases. At the same time, these studies highlight need for further larger sample sizes and improvement in annotation of non-coding regulatory variants. In this review, key findings from recent studies as well as likely future directions are overviewed.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Owing to recent advances in DNA sequencing technology, a number of large-scale comprehensive analyses of genetic variations in protein-coding regions (i.e., whole-exome sequencing studies), have been conducted for neuropsychiatric and neurodevelopmental disorders, such as autism spectrum disorders, intellectual disability, and schizophrenia. These studies, especially those focusing on de novo (newly arising) mutations and extremely rare variants, have successfully identified previously unrecogni",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30293238/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Exome",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "Schizophrenia"
+  ],
+  "keywords": [
+    "autism",
+    "de novo",
+    "exome",
+    "regulatory element",
+    "schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

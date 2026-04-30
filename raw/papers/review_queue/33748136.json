@@ -1,0 +1,39 @@
+{
+  "pmid": "33748136",
+  "doi": "10.3389/fcell.2021.643361",
+  "title": "The Evolutionary Conserved SWI/SNF Subunits ARID1A and ARID1B Are Key Modulators of Pluripotency and Cell-Fate Determination",
+  "authors": "Pagliaroli L, Trizzino M",
+  "journal": "Frontiers in cell and developmental biology",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Organismal development is a process that requires a fine-tuned control of cell fate and identity, through timely regulation of lineage-specific genes. These processes are mediated by the concerted action of transcription factors and protein complexes that orchestrate the interaction between-regulatory elements (enhancers, promoters) and RNA Polymerase II to elicit transcription. A proper understanding of these dynamics is essential to elucidate the mechanisms underlying developmental diseases. Many developmental disorders, such as Coffin-Siris Syndrome, characterized by growth impairment and intellectual disability are associated with mutations in subunits of the SWI/SNF chromatin remodeler complex, which is an essential regulator of transcription.and its paralogencode for the two largest, mutually exclusive, subunits of the complex. Mutations inand, especially,are recurrently associated with a very wide array of developmental disorders, suggesting that these two SWI/SNF subunits play an important role in cell fate decision. In this mini-review we therefore discuss the available scientific literature linkingandto cell fate determination, pluripotency maintenance, and organismal development.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "Organismal development is a process that requires a fine-tuned control of cell fate and identity, through timely regulation of lineage-specific genes. These processes are mediated by the concerted action of transcription factors and protein complexes that orchestrate the interaction between-regulatory elements (enhancers, promoters) and RNA Polymerase II to elicit transcription.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33748136/",
+  "mesh_terms": [],
+  "keywords": [
+    "ARID1A",
+    "ARID1B",
+    "SWI/SNF",
+    "cell identity",
+    "chromatin remodeling",
+    "development",
+    "pluripotency"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

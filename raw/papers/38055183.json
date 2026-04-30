@@ -1,0 +1,47 @@
+{
+  "pmid": "38055183",
+  "doi": "10.1007/s10803-023-06162-9",
+  "title": "Profiling Autism and Attention Deficit Hyperactivity Disorder Traits in Children with SYNGAP1-Related Intellectual Disability",
+  "authors": "Wright D, Kenny A, Mizen LAM, McKechanie AG, Stanfield AC",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2023-12",
+  "source": "pubmed",
+  "abstract": "SYNGAP1-related ID is a genetic condition characterised by global developmental delay and epilepsy. Individuals with SYNGAP1-related ID also commonly show differences in attention and social communication/interaction and frequently receive additional diagnoses of Autism Spectrum Disorder (ASD) or Attention Deficit Hyperactivity Disorder (ADHD). We thus set out to quantify ASD and ADHD symptoms in children with this syndrome. To assess ASD and ADHD, parents and caregivers of a child with SYNGAP1-related ID (N&#x2009;=&#x2009;34) or a typically developing control (N&#x2009;=&#x2009;21) completed the Social Responsiveness Scale-2, the Social Communication Questionnaire with a subset of these also completing the Conners-3. We found that those with SYNGAP1-related ID demonstrated higher levels of autistic traits on both the SRS and SCQ than typically developing controls. On the SRS, those with SYNGAP1-related ID scored highest for restricted repetitive behaviours, and were least impaired in social awareness. On the Conners-3, those with SYNGAP1-related ID also showed a high prevalence of ADHD traits, with scores demonstrating difficulties with peer relations but relatively low occurrence of symptoms for DSM-5 conduct disorder and DSM-5 oppositional defiant disorder. Hierarchical clustering analysis highlighted distinct SYNGAP1-related ID subgroups for both ASD and ADHD traits. These findings provide further characterisation of the SYNGAP1-related ID behavioural phenotype, guiding diagnosis, assessment and potential interventions.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "SYNGAP1-related ID is a genetic condition characterised by global developmental delay and epilepsy. Individuals with SYNGAP1-related ID also commonly show differences in attention and social communication/interaction and frequently receive additional diagnoses of Autism Spectrum Disorder (ASD) or Attention Deficit Hyperactivity Disorder (ADHD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38055183/",
+  "mesh_terms": [
+    "Humans",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Male",
+    "Child",
+    "Female",
+    "Intellectual Disability",
+    "Autism Spectrum Disorder",
+    "ras GTPase-Activating Proteins",
+    "Adolescent",
+    "Child, Preschool",
+    "Surveys and Questionnaires"
+  ],
+  "keywords": [
+    "ADHD",
+    "Autism",
+    "Intellectual disabilities",
+    "SYNGAP1-related intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

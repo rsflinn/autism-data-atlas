@@ -1,0 +1,43 @@
+{
+  "pmid": "30561910",
+  "doi": "10.1002/aur.2048",
+  "title": "Integrative analysis of transcriptome-wide association study and mRNA expression profiles identifies candidate genes associated with autism spectrum disorders",
+  "authors": "Huang H, Cheng S, Ding M, Wen Y, Ma M, Zhang L, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are a group of highly heritable psychiatric syndromes with high prevalence. The genetic mechanism of ASD remains elusive now. Here we conducted a transcriptome-wide association study (TWAS) of ASD. The GWAS summary data of ASD was driven from the Psychiatric Genomics Consortium (PGC) portal, totally involving 5,305 ASD cases and 5,305 controls. FUSION software was applied to the GWAS summary data for tissue-related TWAS of ASD considering brain and blood. The ASD associated genes identified by TWAS were further validated by mRNA expression profiling of ASD and the Simons Foundation for Autism Research (SFARI) Gene tool. DAVID 6.8 was used to perform gene ontology (GO) enrichment analysis of ASD associated genes identified by TWAS. TWAS identified 85 genes with TWAS P value <0.05 for ASD. Further comparing the 85 genes with the differentially expressed genes identified by mRNA expression profiling of ASD patients found 5 overlapped genes, including MUTYH (P= 0.0460, P= 0.0040), ARHGAP27 (P= 0.0100, P= 0.0016), GCA (P= 0.0480, P= 0.0063), CCDC14 (P= 0.0067, P= 0.0035), and MED15 (P= 0.0324, P= 0.0092). Gene Ontology (GO) enrichment analysis of the genes identified by TWAS detected 10 significant GO terms, such as mitochondrion (P = 0.0051), NAD or NADH binding (P = 0.0169), mitochondrial part (P = 0.0386) and 2-oxoglutarate metabolic process (P = 0.0399). In conclusion, this study identified multiple ASD associated genes and gene sets, providing novel clues for revealing the pathogenesis of ASD. Autism Research 2019, 12: 33-38. &#xa9; 2018 International Society for Autism Research, Wiley Periodicals, Inc. LAY SUMMARY: Recent genetic studies of autism spectrum disorders (ASD) have found multiple ASD related genes. However, the results of these studies were hardly replicated with each other, providing limited clues for exploring the genetic mechanism of ASD. This study detected a group of candidate genes showing transcriptome-wide associations with ASD. These results may provide novel clues for revealing the pathogenesis of ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) are a group of highly heritable psychiatric syndromes with high prevalence. The genetic mechanism of ASD remains elusive now.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30561910/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Female",
+    "Genome-Wide Association Study",
+    "Genomics",
+    "Humans",
+    "Male",
+    "RNA, Messenger",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "autism spectrum disorders",
+    "gene set enrichment analysis",
+    "mRNA expression profiles",
+    "transcriptome-wide association study"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

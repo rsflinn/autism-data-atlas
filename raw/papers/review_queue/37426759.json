@@ -1,0 +1,47 @@
+{
+  "pmid": "37426759",
+  "doi": "10.1016/j.crmeth.2023.100498",
+  "title": "hdWGCNA identifies co-expression networks in high-dimensional transcriptomics data",
+  "authors": "Morabito S, Reese F, Rahimzadeh N, Miyoshi E, Swarup V",
+  "journal": "Cell reports methods",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Biological systems are immensely complex, organized into a multi-scale hierarchy of functional units based on tightly regulated interactions between distinct molecules, cells, organs, and organisms. While experimental methods enable transcriptome-wide measurements across millions of cells, popular bioinformatic tools do not support systems-level analysis. Here we present hdWGCNA, a comprehensive framework for analyzing co-expression networks in high-dimensional transcriptomics data such as single-cell and spatial RNA sequencing (RNA-seq). hdWGCNA provides functions for network inference, gene module identification, gene enrichment analysis, statistical tests, and data visualization. Beyond conventional single-cell RNA-seq, hdWGCNA is capable of performing isoform-level network analysis using long-read single-cell data. We showcase hdWGCNA using data from autism spectrum disorder and Alzheimer's disease brain samples, identifying disease-relevant co-expression network modules. hdWGCNA is directly compatible with Seurat, a widely used R package for single-cell and spatial transcriptomics analysis, and we demonstrate the scalability of hdWGCNA by analyzing a dataset containing nearly 1 million cells.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Biological systems are immensely complex, organized into a multi-scale hierarchy of functional units based on tightly regulated interactions between distinct molecules, cells, organs, and organisms. While experimental methods enable transcriptome-wide measurements across millions of cells, popular bioinformatic tools do not support systems-level analysis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37426759/",
+  "mesh_terms": [
+    "Humans",
+    "Transcriptome",
+    "Autism Spectrum Disorder",
+    "Gene Expression Profiling",
+    "Gene Regulatory Networks",
+    "Alzheimer Disease"
+  ],
+  "keywords": [
+    "Alzheimer's disease",
+    "Autism spectrum disorder",
+    "co-expression network",
+    "gene network",
+    "long-read RNA-seq",
+    "microglia",
+    "single-cell RNA-seq",
+    "single-cell genomics",
+    "spatial transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

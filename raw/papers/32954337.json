@@ -1,0 +1,34 @@
+{
+  "pmid": "32954337",
+  "doi": "10.1093/braincomms/fcaa092",
+  "title": "Neural correlates of polygenic risk score for autism spectrum disorders in general population",
+  "authors": "Khundrakpam B, Vainik U, Gong J, Al-Sharif N, Bhutani N, Kiar G, et al.",
+  "journal": "Brain communications",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder is a highly prevalent and highly heritable neurodevelopmental condition, but studies have mostly taken traditional categorical diagnosis approach (yes/no for autism spectrum disorder). In contrast, an emerging notion suggests a continuum model of autism spectrum disorder with a normal distribution of autistic tendencies in the general population, where a full diagnosis is at the severe tail of the distribution. We set out to investigate such a viewpoint by investigating the interaction of polygenic risk scores for autism spectrum disorder and Ageon neuroimaging measures (cortical thickness and white matter connectivity) in a general population (=391, with age ranging from 3 to 21&#x2009;years from the Pediatric Imaging, Neurocognition and Genetics study). We observed that children with higher polygenic risk for autism spectrum disorder exhibited greater cortical thickness for a large age span starting from 3&#x2009;years up to &#x223c;14&#x2009;years in several cortical regions localized in bilateral precentral gyri and the left hemispheric postcentral gyrus and precuneus. In an independent case-control dataset from the Autism Brain Imaging Data Exchange (=560), we observed a similar pattern: children with autism spectrum disorder exhibited greater cortical thickness starting from 6&#x2009;years onwards till &#x223c;14&#x2009;years in wide-spread cortical regions including (the ones identified using the general population). We also observed statistically significant regional overlap between the two maps, suggesting that some of the cortical abnormalities associated with autism spectrum disorder overlapped with brain changes associated with genetic vulnerability for autism spectrum disorder in healthy individuals. Lastly, we observed that white matter connectivity between the frontal and parietal regions showed significant association with polygenic risk for autism spectrum disorder, indicating that not only the brain structure, but the white matter connectivity might also show a predisposition for the risk of autism spectrum disorder. Our findings showed that the fronto-parietal thickness and connectivity are dimensionally related to genetic risk for autism spectrum disorder in general population and are also part of the cortical abnormalities associated with autism spectrum disorder. This highlights the necessity of considering continuum models in studying the aetiology of autism spectrum disorder using polygenic risk scores and multimodal neuroimaging.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder is a highly prevalent and highly heritable neurodevelopmental condition, but studies have mostly taken traditional categorical diagnosis approach (yes/no for autism spectrum disorder). In contrast, an emerging notion suggests a continuum model of autism spectrum disorder with a normal distribution of autistic tendencies in the general population, where a full diagnosis is at the severe tail of the distribution.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32954337/",
+  "mesh_terms": [],
+  "keywords": [
+    "autism spectrum disorders",
+    "cortical thickness",
+    "genetics",
+    "polygenic risk score",
+    "structural connectivity"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

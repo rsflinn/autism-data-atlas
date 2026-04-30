@@ -1,0 +1,45 @@
+{
+  "pmid": "34085288",
+  "doi": "10.1111/jcpp.13459",
+  "title": "Polygenic scores differentially predict developmental trajectories of subtypes of social withdrawal in childhood",
+  "authors": "Morneau-Vaillancourt G, Andlauer TFM, Ouellet-Morin I, Paquin S, Brendgen MR, Vitaro F, et al.",
+  "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+  "date": "2021-06",
+  "source": "pubmed",
+  "abstract": "Children who consistently withdraw from social situations face increased risk for later socioemotional difficulties. Twin studies indicate that genetic factors substantially account for the persistence of social withdrawal over time. However, the molecular genetic etiology of chronic courses of social wariness and preference for solitude, two dimensions of social withdrawal, remains undocumented. The objectives of the present study were (a) to identify high-risk trajectories for social wariness and preference for solitude in childhood and (b) to examine whether falling on these high-risk trajectories can be predicted by specific polygenic scores for mental health traits and disorders and by a general polygenic predisposition to these traits.\n\nTeachers evaluated 971 genotyped children at five occasions (age 6 to 12&#xa0;years) from two prospective longitudinal studies, the Quebec Newborn Twin Study and the Quebec Longitudinal Study of Child Development. Developmental trajectories for social wariness and preference for solitude were identified. We tested whether polygenic scores for attention deficit hyperactivity disorder, autism spectrum disorder, depression, loneliness, and subjective well-being, as well as a general mental health genetic risk score derived across these traits, were associated with the developmental trajectories.\n\nPolygenic scores differentially predicted social wariness and preference for solitude. Only the loneliness polygenic score significantly predicted the high trajectory for social wariness. By contrast, the general mental health genetic risk score factor was associated with the trajectory depicting high-chronic preference for solitude.\n\nDistinct associations were uncovered between the polygenic scores, social wariness, and preference for solitude.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Children who consistently withdraw from social situations face increased risk for later socioemotional difficulties. Twin studies indicate that genetic factors substantially account for the persistence of social withdrawal over time.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34085288/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Humans",
+    "Infant, Newborn",
+    "Loneliness",
+    "Longitudinal Studies",
+    "Multifactorial Inheritance",
+    "Prospective Studies"
+  ],
+  "keywords": [
+    "Social withdrawal",
+    "polygenic scores",
+    "preference for solitude",
+    "social wariness",
+    "trajectories"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

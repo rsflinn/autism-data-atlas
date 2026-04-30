@@ -1,0 +1,45 @@
+{
+  "pmid": "38697975",
+  "doi": "10.1038/s41467-024-47758-8",
+  "title": "Disease related changes in ATAC-seq of iPSC-derived motor neuron lines from ALS patients and controls",
+  "authors": "Tsitkov S, Valentine K, Kozareva V, Donde A, Frank A, Lei S, et al.",
+  "journal": "Nature communications",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Amyotrophic Lateral Sclerosis (ALS), like many other neurodegenerative diseases, is highly heritable, but with only a small fraction of cases explained by monogenic disease alleles. To better understand sporadic ALS, we report epigenomic profiles, as measured by ATAC-seq, of motor neuron cultures derived from a diverse group of 380 ALS patients and 80 healthy controls. We find that chromatin accessibility is heavily influenced by sex, the iPSC cell type of origin, ancestry, and the inherent variance arising from sequencing. Once these covariates are corrected for, we are able to identify ALS-specific signals in the data. Additionally, we find that the ATAC-seq data is able to predict ALS disease progression rates with similar accuracy to methods based on biomarkers and clinical status. These results suggest that iPSC-derived motor neurons recapitulate important disease-relevant epigenomic changes.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Amyotrophic Lateral Sclerosis (ALS), like many other neurodegenerative diseases, is highly heritable, but with only a small fraction of cases explained by monogenic disease alleles. To better understand sporadic ALS, we report epigenomic profiles, as measured by ATAC-seq, of motor neuron cultures derived from a diverse group of 380 ALS patients and 80 healthy controls.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38697975/",
+  "mesh_terms": [
+    "Humans",
+    "Amyotrophic Lateral Sclerosis",
+    "Induced Pluripotent Stem Cells",
+    "Motor Neurons",
+    "Male",
+    "Female",
+    "Middle Aged",
+    "Case-Control Studies",
+    "Chromatin",
+    "Aged",
+    "Epigenomics",
+    "Chromatin Immunoprecipitation Sequencing",
+    "Disease Progression",
+    "Epigenesis, Genetic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

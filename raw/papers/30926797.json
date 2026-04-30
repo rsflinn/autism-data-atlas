@@ -1,0 +1,44 @@
+{
+  "pmid": "30926797",
+  "doi": "10.1038/s41467-019-09382-9",
+  "title": "Abnormal mGluR-mediated synaptic plasticity and autism-like behaviours in Gprasp2 mutant mice",
+  "authors": "Edfawy M, Guedes JR, Pereira MI, Laranjo M, Carvalho MJ, Gao X, et al.",
+  "journal": "Nature communications",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is characterized by dysfunction in social interactions, stereotypical behaviours and high co-morbidity with intellectual disability. A variety of syndromic and non-syndromic neurodevelopmental disorders have been connected to alterations in metabotropic glutamate receptor (mGluR) signalling. These receptors contribute to synaptic plasticity, spine maturation and circuit development. Here, we investigate the physiological role of Gprasp2, a gene linked to neurodevelopmental disabilities and involved in the postendocytic sorting of G-protein-coupled receptors. We show that Gprasp2 deletion leads to ASD-like behaviour in mice and alterations in synaptic communication. Manipulating the levels of Gprasp2 bidirectionally modulates the surface availability of mGluRand produces alterations in dendritic complexity, spine density and synaptic maturation. Loss of Gprasp2 leads to enhanced hippocampal long-term depression, consistent with facilitated mGluR-dependent activation. These findings demonstrate a role for Gprasp2 in glutamatergic synapses and suggest a possible mechanism by which this gene is linked to neurodevelopmental diseases.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is characterized by dysfunction in social interactions, stereotypical behaviours and high co-morbidity with intellectual disability. A variety of syndromic and non-syndromic neurodevelopmental disorders have been connected to alterations in metabotropic glutamate receptor (mGluR) signalling.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30926797/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Dendritic Spines",
+    "Gene Deletion",
+    "Hippocampus",
+    "Intracellular Signaling Peptides and Proteins",
+    "Memory",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Mice, Mutant Strains",
+    "Neuronal Plasticity",
+    "Receptor, Metabotropic Glutamate 5",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

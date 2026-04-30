@@ -1,0 +1,45 @@
+{
+  "pmid": "39054328",
+  "doi": "10.1038/s41398-024-03005-8",
+  "title": "Transient peripheral blood transcriptomic response to ketamine treatment in children with ADNP syndrome",
+  "authors": "Buxbaum Grice AS, Sloofman L, Levy T, Walker H, Ganesh G, Rodriguez de Los Santos M, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Activity-dependent neuroprotective protein (ADNP) syndrome is a rare neurodevelopmental disorder resulting in intellectual disability, developmental delay and autism spectrum disorder (ASD) and is due to mutations in the ADNP gene. Ketamine treatment has emerged as a promising therapeutic option for ADNP syndrome, showing safety and apparent behavioral improvements in a first open label study. However, the molecular perturbations induced by ketamine remain poorly understood. Here, we investigated the longitudinal effect of ketamine on the blood transcriptome of 10 individuals with ADNP syndrome. Transcriptomic profiling was performed before and at multiple time points after a single low-dose intravenous ketamine infusion (0.5&#x2009;mg/kg). We show that ketamine triggers immediate and profound gene expression alterations, with specific enrichment of monocyte-related expression patterns. These acute alterations encompass diverse signaling pathways and co-expression networks, implicating upregulation of immune and inflammatory-related processes and down-regulation of RNA processing mechanisms and metabolism. Notably, these changes exhibit a transient nature, returning to baseline levels 24&#x2009;hours to 1 week after treatment. These findings enhance our understanding of ketamine's molecular effects and lay the groundwork for further research elucidating its specific cellular and molecular targets. Moreover, they contribute to the development of therapeutic strategies for ADNP syndrome and potentially, ASD more broadly.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "Activity-dependent neuroprotective protein (ADNP) syndrome is a rare neurodevelopmental disorder resulting in intellectual disability, developmental delay and autism spectrum disorder (ASD) and is due to mutations in the ADNP gene. Ketamine treatment has emerged as a promising therapeutic option for ADNP syndrome, showing safety and apparent behavioral improvements in a first open label study.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39054328/",
+  "mesh_terms": [
+    "Ketamine",
+    "Humans",
+    "Male",
+    "Transcriptome",
+    "Child",
+    "Female",
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Nerve Tissue Proteins",
+    "Intellectual Disability",
+    "Developmental Disabilities",
+    "Gene Expression Profiling",
+    "Adolescent",
+    "Homeodomain Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

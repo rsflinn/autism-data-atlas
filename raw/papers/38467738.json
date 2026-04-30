@@ -1,0 +1,48 @@
+{
+  "pmid": "38467738",
+  "doi": "10.1038/s10038-024-01242-9",
+  "title": "Expanding the genetic and phenotypic spectrum of TRAPPC9 and MID2-related neurodevelopmental disabilities: report of two novel mutations, 3D-modelling, and molecular docking studies",
+  "authors": "Kharrat M, Triki C, Ben Isaa A, Bouchaala W, Alila O, Chouchen J, et al.",
+  "journal": "Journal of human genetics",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Intellectual disabilities (ID) and autism spectrum disorders (ASD) have a variety of etiologies, including environmental and genetic factors. Our study reports a psychiatric clinical investigation and a molecular analysis using whole exome sequencing (WES) of two siblings with ID and ASD from a consanguineous family. Bioinformatic prediction and molecular docking analysis were also carried out. The two patients were diagnosed with profound intellectual disability, brain malformations such as cortical atrophy, acquired microcephaly, and autism level III. The neurological and neuropsychiatric examination revealed that P2 was more severely affected than P1, as he was unable to walk, presented with dysmorphic feature and exhibited self and hetero aggressive behaviors. The molecular investigations revealed a novel TRAPPC9 biallelic nonsense mutation (c.2920&#x2009;C&#x2009;>&#x2009;T, p.R974X) in the two siblings. The more severely affected patient (P2) presented, along with the TRAPPC9 variant, a new missense mutation c.166&#x2009;C&#x2009;>&#x2009;T (p.R56C) in the MID2 gene at hemizygous state, while his sister P1 was merely a carrier. The 3D modelling and molecular docking analysis revealed that c.166&#x2009;C&#x2009;>&#x2009;T variant could affect the ability of MID2 binding to Astrin, leading to dysregulation of microtubule dynamics and causing morphological abnormalities in the brain. As our knowledge, the MID2 mutation (p.R56C) is the first one to be detected in Tunisia and causing phenotypic variability between the siblings. We extend the genetic and clinical spectrum of TRAPPC9 and MID2 mutations and highlights the possible concomitant presence of X-linked as well as autosomal recessive inheritance to causing ID, microcephaly, and autism.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Intellectual disabilities (ID) and autism spectrum disorders (ASD) have a variety of etiologies, including environmental and genetic factors. Our study reports a psychiatric clinical investigation and a molecular analysis using whole exome sequencing (WES) of two siblings with ID and ASD from a consanguineous family.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38467738/",
+  "mesh_terms": [
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Exome Sequencing",
+    "Intellectual Disability",
+    "Intercellular Signaling Peptides and Proteins",
+    "Microtubule-Associated Proteins",
+    "Models, Molecular",
+    "Molecular Docking Simulation",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Pedigree",
+    "Phenotype",
+    "Siblings",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Case Reports"
+  ]
+}

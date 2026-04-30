@@ -1,0 +1,45 @@
+{
+  "pmid": "25646526",
+  "doi": "10.1093/schbul/sbu222",
+  "title": "Nonverbal social communication and gesture control in schizophrenia",
+  "authors": "Walther S, Stegmayer K, Sulzbacher J, Vanbellingen T, M&#xfc;ri R, Strik W, et al.",
+  "journal": "Schizophrenia bulletin",
+  "date": "2015-02",
+  "source": "pubmed",
+  "abstract": "Schizophrenia patients are severely impaired in nonverbal communication, including social perception and gesture production. However, the impact of nonverbal social perception on gestural behavior remains unknown, as is the contribution of negative symptoms, working memory, and abnormal motor behavior. Thus, the study tested whether poor nonverbal social perception was related to impaired gesture performance, gestural knowledge, or motor abnormalities. Forty-six patients with schizophrenia (80%), schizophreniform (15%), or schizoaffective disorder (5%) and 44 healthy controls matched for age, gender, and education were included. Participants completed 4 tasks on nonverbal communication including nonverbal social perception, gesture performance, gesture recognition, and tool use. In addition, they underwent comprehensive clinical and motor assessments. Patients presented impaired nonverbal communication in all tasks compared with controls. Furthermore, in contrast to controls, performance in patients was highly correlated between tasks, not explained by supramodal cognitive deficits such as working memory. Schizophrenia patients with impaired gesture performance also demonstrated poor nonverbal social perception, gestural knowledge, and tool use. Importantly, motor/frontal abnormalities negatively mediated the strong association between nonverbal social perception and gesture performance. The factors negative symptoms and antipsychotic dosage were unrelated to the nonverbal tasks. The study confirmed a generalized nonverbal communication deficit in schizophrenia. Specifically, the findings suggested that nonverbal social perception in schizophrenia has a relevant impact on gestural impairment beyond the negative influence of motor/frontal abnormalities.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Schizophrenia patients are severely impaired in nonverbal communication, including social perception and gesture production. However, the impact of nonverbal social perception on gestural behavior remains unknown, as is the contribution of negative symptoms, working memory, and abnormal motor behavior.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25646526/",
+  "mesh_terms": [
+    "Adult",
+    "Female",
+    "Gestures",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Nonverbal Communication",
+    "Psychotic Disorders",
+    "Schizophrenia",
+    "Social Perception"
+  ],
+  "keywords": [
+    "imitation",
+    "negative symptoms",
+    "pantomime",
+    "social cognition"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

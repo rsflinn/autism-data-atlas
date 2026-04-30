@@ -1,0 +1,52 @@
+{
+  "pmid": "39834183",
+  "doi": "10.1002/glia.24676",
+  "title": "The Impact of Astroglia Kir4.1 Channel Dysfunction on Neuronal Activity and Autism-Related Behavioral Abnormalities",
+  "authors": "Davoudi S, Rahdar M, Borjkhani M, Alavi-Majd H, Hosseinmardi N, Behzadi G, et al.",
+  "journal": "Glia",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is marked by neurobehavioral developmental deficits, potentially linked to disrupted neuron-glia interactions. The astroglia Kir4.1 channel plays a vital role in regulating potassium levels during neuronal activation, and mutations in this channel have been associated with ASD. This study investigates astroglia Kir4.1 as a regulator of neuronal excitability and behavioral abnormalities in rats with autistic-like traits induced by prenatal exposure to valproic acid (VPA). Whole-cell patch-clamp recordings were obtained from pyramidal neurons in the hippocampal CA1 region, showing that inhibition of Kir4.1 channels led to electrophysiological changes indicative of neuronal hyperexcitability, similar to that seen in VPA-exposed neurons. Specifically, there was increased input resistance and voltage threshold, alongside decreased time constant and rheobase. Behavioral assessments after 7&#x2009;days of intrahippocampal PA6 (5&#x2009;&#x3bc;g/mL/day) administration revealed significant social withdrawal, heightened anxiety, reduced exploration, and impaired recognition memory, underscoring the behavioral deficits linked to autism. While Kir4.1 inhibition affected excitability, it did not alter the output of CA1 pyramidal neurons in autistic-like rats. These findings emphasize the critical role of astroglia Kir4.1 channels in modulating neuronal excitability and associated behavioral impairments within the VPA-induced autism model, suggesting a promising target for future therapeutic interventions.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is marked by neurobehavioral developmental deficits, potentially linked to disrupted neuron-glia interactions. The astroglia Kir4.1 channel plays a vital role in regulating potassium levels during neuronal activation, and mutations in this channel have been associated with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39834183/",
+  "mesh_terms": [
+    "Female",
+    "Animals",
+    "Rats",
+    "Rats, Wistar",
+    "Astrocytes",
+    "Electrophysiological Phenomena",
+    "Kcnj10 Channel",
+    "Behavior, Animal",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Pyramidal Cells",
+    "Adaptation, Physiological",
+    "Pentamidine",
+    "Learning",
+    "Memory"
+  ],
+  "keywords": [
+    "anxiety",
+    "astroglia Kir4.1 channel",
+    "autism spectrum disorder",
+    "cognition",
+    "hippocampus",
+    "neuronal hyperexcitability",
+    "valproic acid"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

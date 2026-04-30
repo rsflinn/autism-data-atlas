@@ -1,0 +1,43 @@
+{
+  "pmid": "38043446",
+  "doi": "10.1016/j.biopha.2023.115951",
+  "title": "Drug addiction and treatment: An epigenetic perspective",
+  "authors": "Koijam AS, Singh KD, Nameirakpam BS, Haobam R, Rajashekar Y",
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "date": "2023-12",
+  "source": "pubmed",
+  "abstract": "Drug addiction is a complex disease affected by numerous genetic and environmental factors. Brain regions in reward pathway, neuronal adaptations, genetic and epigenetic interactions causing transcriptional enhancement or repression of multiple genes induce different addiction phenotypes for varying duration. Addictive drug use causes epigenetic alterations and similarly epigenetic changes induced by environment can promote addiction. Epigenetic mechanisms include DNA methylation and post-translational modifications like methylation, acetylation, phosphorylation, ubiquitylation, sumoylation, dopaminylation and crotonylation of histones, and ADP-ribosylation. Non-coding RNAs also induce epigenetic changes. This review discusses these above areas and stresses the need for exploring epidrugs as a treatment alternative and adjunct, considering the limited success of current addiction treatment strategies. Epigenome editing complexes have lately been effective in eukaryotic systems. Targeted DNA cleavage techniques such as CRISPR-Cas9 system, CRISPR-dCas9 complexes, transcription activator-like effector nucleases (TALENs) and zinc-finger nucleases (ZFNs) have been exploited as targeted DNA recognition or anchoring platforms, fused with epigenetic writer or eraser proteins and delivered by transfection or transduction methods. Efficacy of epidrugs is seen in various neuropsychiatric conditions and initial results in addiction treatment involving model organisms are remarkable. Epidrugs present a promising alternative treatment for addiction.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Drug addiction is a complex disease affected by numerous genetic and environmental factors. Brain regions in reward pathway, neuronal adaptations, genetic and epigenetic interactions causing transcriptional enhancement or repression of multiple genes induce different addiction phenotypes for varying duration.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38043446/",
+  "mesh_terms": [
+    "Humans",
+    "Epigenomics",
+    "Histones",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Substance-Related Disorders"
+  ],
+  "keywords": [
+    "Addiction",
+    "CRISPR-Cas9",
+    "Epigenetic",
+    "Epigenome editing complexes",
+    "TALEN",
+    "ZFN"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

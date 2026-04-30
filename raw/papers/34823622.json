@@ -1,0 +1,39 @@
+{
+  "pmid": "34823622",
+  "doi": "10.1017/ipm.2021.73",
+  "title": "Can stratification biomarkers address the heterogeneity of autism spectrum disorder?",
+  "authors": "Molloy CJ, Gallagher L",
+  "journal": "Irish journal of psychological medicine",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "The search for biomarkers for autism spectrum disorder (henceforth autism) has received a lot of attention due to their potential clinical relevance. The clinical and aetiological heterogeneity of autism suggests the presence of subgroups. The lack of identification of a valid diagnostic biomarker for autism, and the inconsistencies seen in studies assessing differences between autism and typically developing control groups, may be partially explained by the vast heterogeneity observed in autism. The focus now is to better understand the clinical and biological heterogeneity and identify stratification biomarkers, which are measures that describe subgroups of individuals with shared biology. Using stratification approaches to assess treatment within pre-defined subgroups could clarify who may benefit from different treatments and therapies, and ultimately lead to more effective individualised treatment plans.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The search for biomarkers for autism spectrum disorder (henceforth autism) has received a lot of attention due to their potential clinical relevance. The clinical and aetiological heterogeneity of autism suggests the presence of subgroups.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34823622/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Humans"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "autism",
+    "biomarkers",
+    "stratification"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

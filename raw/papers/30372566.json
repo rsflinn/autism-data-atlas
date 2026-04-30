@@ -1,0 +1,50 @@
+{
+  "pmid": "30372566",
+  "doi": "10.1111/apa.14624",
+  "title": "More severe intellectual disability found in teenagers compared to younger children with Down syndrome",
+  "authors": "Wester Oxelgren U, Myrelid &#xc5;, Anner&#xe9;n G, Westerlund J, Gustafsson J, Fernell E",
+  "journal": "Acta paediatrica (Oslo, Norway : 1992)",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "We investigated the severities and profiles of intellectual disability (ID) in a population-based group of children with Down syndrome and related the findings to coexisting autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD).\n\nThere were about 100 children with Down syndrome living in Uppsala County, Sweden, at the time of the study who all received medical services from the same specialist outpatient clinic. The 60 children (68% male) were aged 5-17 years at inclusion: 41 were assessed within the study and 19 had test results from previous assessments, performed within three years before inclusion. We compared two age groups: 5-12 and 13-18 years old.\n\nOf the 60 children, 49 were assessed with a cognitive test and the 11 children who could not participate in formal tests had clinical assessments. Mild ID was found in 9% of the older children and in 35% of the younger children. Severe ID was found in 91% of the older children and 65% of the younger children. Verbal and nonverbal domains did not differ.\n\nIntellectual level was lower in the older children and patients with Down syndrome need to be followed during childhood with regard to their ID levels.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "We investigated the severities and profiles of intellectual disability (ID) in a population-based group of children with Down syndrome and related the findings to coexisting autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD). There were about 100 children with Down syndrome living in Uppsala County, Sweden, at the time of the study who all received medical services from the same specialist outpatient clinic.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30372566/",
+  "mesh_terms": [
+    "Adolescent",
+    "Age Factors",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Cross-Sectional Studies",
+    "Down Syndrome",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Sweden"
+  ],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "Autism spectrum disorder",
+    "Cognitive profile",
+    "Down syndrome",
+    "Intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

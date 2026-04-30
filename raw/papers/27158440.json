@@ -1,0 +1,59 @@
+{
+  "pmid": "27158440",
+  "doi": "10.1186/s13229-016-0090-z",
+  "title": "22q11.2 duplication syndrome: elevated rate of autism spectrum disorder and need for medical screening",
+  "authors": "Wenger TL, Miller JS, DePolo LM, de Marchena AB, Clements CC, Emanuel BS, et al.",
+  "journal": "Molecular autism",
+  "date": "2016-05",
+  "source": "pubmed",
+  "abstract": "Widespread use of microarray technology has led to increasing identification of 22q11.2 duplication syndrome (22q11.2DupS), the reciprocal syndrome of the well-characterized 22q11.2 deletion syndrome (22q11.2DS). Individuals with 22q11.2DS have elevated rates of community diagnoses of autism spectrum disorder (ASD), schizophrenia, and a range of medical problems and birth defects that necessitate extensive medical screening. Case reports of 22q11.2DupS include patients with ASD, fewer medical problems, and no schizophrenia; however, no prospective cohort study has been reported. The goals of the study were to (1) characterize the neuropsychiatric functioning of a cohort of individuals with 22q11.2DupS in comparison to large samples of typically developing controls (TDCs), ASD and 22q11.2DS; (2) estimate the prevalence of ASD in 22q11.2DupS; (3) determine whether the indications that prompted the genetic testing in 22q11.2DupS differ from 22q11.2DS and (4) determine whether comprehensive medical screening should be recommended for those diagnosed with 22q11.2DupS.\n\nMedical characterization was done by parental questionnaire and medical chart review of individuals with 22q11.2DupS (n = 37) and 22q11.2DS (n = 101). Neuropsychiatric characterization of children with 22.11.2DupS, 22q11.2DS, TDCs, and ASD was done by parent-report questionnaires; in addition, the ASD and 22q11.2DupS groups received the Autism Diagnostic Interview-Revised and Autism Diagnostic Observation Schedule.\n\nIndividuals with 22q11.2DupS, 22q11.2DS, and ASD had significantly impaired social interaction and adaptive behavior skills compared to TDCs. Overall, 38% of children aged 2-18 with 22q11.2DupS had community diagnoses of ASD, but fewer (14-25%) met on the basis of best clinical judgment that included ADI-R and ADOS data. Indications for genetic testing were significantly different for 22q11.2DupS and 22q11.2DS, with the deletions more commonly tested because of birth defects or medical problems, and the duplications because of developmental delay. However, when the screening protocol for 22q11.2DS was applied to the 22q11.2DupS sample, several medical problems were identified that would pose significant risk if left undetected.\n\n22q11.2DupS has a high rate of ASD at 14-25%, among the highest of any genetic disorder. Prospective medical screening should be done for all patients with 22q11.2DupS, including those diagnosed due to developmental delays and ASD alone.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Widespread use of microarray technology has led to increasing identification of 22q11.2 duplication syndrome (22q11.2DupS), the reciprocal syndrome of the well-characterized 22q11.2 deletion syndrome (22q11.2DS). Individuals with 22q11.2DS have elevated rates of community diagnoses of autism spectrum disorder (ASD), schizophrenia, and a range of medical problems and birth defects that necessitate extensive medical screening.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27158440/",
+  "mesh_terms": [
+    "Abnormalities, Multiple",
+    "Adolescent",
+    "Adult",
+    "Analysis of Variance",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 22",
+    "DiGeorge Syndrome",
+    "Female",
+    "Genetic Testing",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Social Behavior",
+    "Surveys and Questionnaires",
+    "Young Adult"
+  ],
+  "keywords": [
+    "22q11.2 deletion syndrome",
+    "22q11.2 duplication syndrome",
+    "Autism spectrum disorder",
+    "Developmental delay",
+    "Medical characterization",
+    "Medical screening",
+    "Neuropsychiatric functioning",
+    "Syndromic autism",
+    "Typically developing controls"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pmid": "32929885",
+  "doi": "10.1002/ajmg.b.32821",
+  "title": "Distinct genetic patterns of shared and unique genes across four neurodevelopmental disorders",
+  "authors": "Zhang Y, Wang R, Liu Z, Jiang S, Du L, Qiu K, et al.",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2020-09",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders, including autism spectrum disorder (ASD), intellectual disability (ID), developmental disorders (DD) and epileptic encephalopathy (EE), have a strong clinical comorbidity, which indicates a common genetic etiology across various disorders. However, the underlying genetic mechanisms of comorbidity and specificity remain unknown across neurodevelopmental disorders. Based on de novo mutations, we compared systematically the functional characteristics between shared and unique genes under these disorders, as well as the spatiotemporal trajectory of development in brain and common molecular pathways of all shared genes. We observed that shared genes present more constrained against functional rare genetic variation, and harbor more pathogenic rare variants than do unique genes in each disorder. Furthermore, 71 shared genes formed two clusters related to synaptic transmission, transcription regulation and chromatin regulator. Particularly, we also found that two core genes STXBP1 and SCN2A, that were shared by the four neurodevelopmental disorders showed prominent pleiotropy. Our findings shed light on the shared and specific patterns across neurodevelopmental disorders and will enable us to further comprehend the etiology and provide valuable information for the diagnosis of neurodevelopmental disorders.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Neurodevelopmental disorders, including autism spectrum disorder (ASD), intellectual disability (ID), developmental disorders (DD) and epileptic encephalopathy (EE), have a strong clinical comorbidity, which indicates a common genetic etiology across various disorders. However, the underlying genetic mechanisms of comorbidity and specificity remain unknown across neurodevelopmental disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32929885/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Brain Diseases",
+    "Case-Control Studies",
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Humans",
+    "Intellectual Disability",
+    "Munc18 Proteins",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "clinical comorbidity",
+    "de novo mutations",
+    "neurodevelopmental disorders",
+    "shared genes",
+    "unique genes"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

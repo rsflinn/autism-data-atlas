@@ -1,0 +1,47 @@
+{
+  "pmid": "33173220",
+  "doi": "10.1038/s41436-020-00993-y",
+  "title": "Defining the genotypic and phenotypic spectrum of X-linked MSL3-related disorder",
+  "authors": "Brunet T, McWalter K, Mayerhanser K, Anbouba GM, Armstrong-Javors A, Bader I, et al.",
+  "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "We sought to delineate the genotypic and phenotypic spectrum of female and male individuals with X-linked, MSL3-related disorder (Basilicata-Akhtar syndrome).\n\nTwenty-five individuals (15 males, 10 females) with causative variants in MSL3 were ascertained through exome or genome sequencing at ten different sequencing centers.\n\nWe identified multiple variant types in MSL3 (ten nonsense, six frameshift, four splice site, three missense, one in-frame-deletion, one multi-exon deletion), most proven to be de novo, and clustering in the terminal eight exons suggesting that truncating variants in the first five exons might be compensated by an alternative MSL3 transcript. Three-dimensional modeling of missense and splice variants indicated that these have a deleterious effect. The main clinical findings comprised developmental delay and intellectual disability ranging from mild to severe. Autism spectrum disorder, muscle tone abnormalities, and macrocephaly were common as well as hearing impairment and gastrointestinal problems. Hypoplasia of the cerebellar vermis emerged as a consistent magnetic resonance image (MRI) finding. Females and males were equally affected. Using facial analysis technology, a recognizable facial gestalt was determined.\n\nOur aggregated data illustrate the genotypic and phenotypic spectrum of X-linked, MSL3-related disorder (Basilicata-Akhtar syndrome). Our cohort improves the understanding of disease related morbidity and allows us to propose detailed surveillance guidelines for affected individuals.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "We sought to delineate the genotypic and phenotypic spectrum of female and male individuals with X-linked, MSL3-related disorder (Basilicata-Akhtar syndrome). Twenty-five individuals (15 males, 10 females) with causative variants in MSL3 were ascertained through exome or genome sequencing at ten different sequencing centers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33173220/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Chromosomal Proteins, Non-Histone",
+    "DNA-Binding Proteins",
+    "Female",
+    "Genes, X-Linked",
+    "Genotype",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Phenotype",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "MSL3",
+    "X-linked",
+    "autism",
+    "developmental delay",
+    "histone acetylation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "34585627",
+  "doi": "10.1080/07317115.2021.1978121",
+  "title": "Observing Music Therapy in Dementia: Repeated Single-case Studies Assessing Well-being and Sociable Interaction",
+  "authors": "Mads&#xf8; KG, Molde H, Hynninen KM, Nordhus IH",
+  "journal": "Clinical gerontologist",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "This study compared behavioral expressions of momentary well-being and sociable behavior toward significant others during music therapy and regular social interaction.\n\nA 10-week active music therapy intervention was provided for people living with dementia and family caregivers. A bi-phasic AB single-case design was replicated for three sessions per dyad and coded using the Observable Well-being in Living with Dementia-Scale (OWLS) and the Verbal and Nonverbal Sociable Interaction Scale-Care Receiver (VNVIS-CR). Effect sizes (Log Response Ratio) were calculated for each session and analyzed with robust cluster meta-analysis.\n\nEleven dyads were included, and 32 sessions analyzed (2102 observations). Within sessions we found a 48% increase in well-being, and a 32% increase in sociable interaction during music therapy. Heterogeneity was high. Dementia severity predicted an increase in nonverbal sociable interaction (93% for moderate dementia). Depression and time did not predict any change.\n\nThe potential of music therapy to increase well-being and sociable interactions toward significant others calls for further investigation of heterogeneity and covariates. Single-case designs are demonstrated to be feasible for these investigations.\n\nPreference-based music therapy may alleviate some of the individual and relational consequences of living with dementia, facilitating positive emotions and connection to significant others.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "This study compared behavioral expressions of momentary well-being and sociable behavior toward significant others during music therapy and regular social interaction. A 10-week active music therapy intervention was provided for people living with dementia and family caregivers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34585627/",
+  "mesh_terms": [
+    "Caregivers",
+    "Dementia",
+    "Humans",
+    "Music Therapy"
+  ],
+  "keywords": [
+    "Music therapy",
+    "caregiver",
+    "dementia",
+    "observation",
+    "single-case design",
+    "sociable interaction",
+    "well-being"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

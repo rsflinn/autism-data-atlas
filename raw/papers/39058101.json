@@ -1,0 +1,35 @@
+{
+  "pmid": "39058101",
+  "doi": "10.3390/toxics12070449",
+  "title": "Reduction of Glyoxalase 1 Expression Links Fetal Methylmercury Exposure to Autism Spectrum Disorder Pathogenesis",
+  "authors": "Leung JW, Loan A, Xu Y, Yang G, Wang J, Chan HM",
+  "journal": "Toxics",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Glyoxalase 1 (Glo1) is an essential enzyme to detoxify methylglyoxal (MGO), a cytotoxic byproduct of glycolysis. Accumulating studies have shown an important role of Glo1 in regulating cortical development and neurogenesis, potentially contributing to the pathogenesis of autism spectrum disorder (ASD) when impaired. We have previously shown that prenatal exposure to non-apoptotic low-dose methylmercury (MeHg), an environmental pollutant, induces premature cortical neurogenesis and ASD-like behaviors in a rodent model. In this study, we aimed to determine the underlying molecular mechanisms that mediate prenatal MeHg-induced premature neuronal differentiation and abnormal neurodevelopment. Using single-cell RNA sequencing (scRNA-seq) and real-time quantitative PCR (RT-qPCR), we found that prenatal MeHg exposure at a non-apoptotic dose significantly reducedgene expression in embryonic cultured radial glia precursors (RGPs). In cultured RGPs, the knockdown ofexpression increased neuronal production at the expense of the cultured RGPs population, while overexpression ofrestored MeHg-induced neuronal differentiation back to normal levels. Furthermore, we found that co-treatment with both MeHg and multiple MGO scavengers or a CREB inhibitor (iCREB) mitigated MeHg-induced premature neuronal differentiation, reinforcing the role of Glo1 and CREB in mediating MeHg-induced neuronal differentiation. Our findings demonstrate a direct link between MeHg exposure and expression of an ASD risk genein cortical development, supporting the important role of gene-environment interaction in contributing to the etiology of neural developmental disorders, such as ASD.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Glyoxalase 1 (Glo1) is an essential enzyme to detoxify methylglyoxal (MGO), a cytotoxic byproduct of glycolysis. Accumulating studies have shown an important role of Glo1 in regulating cortical development and neurogenesis, potentially contributing to the pathogenesis of autism spectrum disorder (ASD) when impaired.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39058101/",
+  "mesh_terms": [],
+  "keywords": [
+    "CREB",
+    "Glo1",
+    "MeHg",
+    "embryonic cortex",
+    "neuronal differentiation",
+    "radial glia precursors"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

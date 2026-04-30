@@ -1,0 +1,42 @@
+{
+  "pmid": "26475977",
+  "doi": "10.1016/j.brainres.2015.10.004",
+  "title": "Epigenetic modifications in human fragile X pluripotent stem cells; Implications in fragile X syndrome modeling",
+  "authors": "Gerhardt J",
+  "journal": "Brain research",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Patients with fragile X syndrome (FXS) exhibit moderate to severe intellectual disabilities. In addition, one-third of FXS patients show characteristics of autism spectrum disorder. FXS is caused by a trinucleotide repeat expansion, which leads to silencing of the fragile X mental retardation (FMR1) gene. The absence of the FMR1 gene product, FMRP, is the reason for the disease symptoms. It has been suggested that repeat instability and transcription of the FMR1 gene occur during early embryonic development, while after cell differentiation repeats become stable and the FMR1 gene is silent. Epigenetic marks, such as DNA methylation, are associated with gene silencing and repeat stability at the FMR1 locus. However, the mechanisms leading to gene silencing and repeat expansion are still ambiguous, because studies at the human genomic locus were limited until now. The FXS pluripotent stem cells, recently derived from FXS adult cells and FXS blastocysts, are new useful tools to examine these mechanisms at the human endogenous FMR1 locus. This review summarizes the epigenetic features and experimental studies of FXS human embryonic and FXS induced pluripotent stem cells, generated so far. This article is part of a Special Issue entitled SI: Exploiting human neurons.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Patients with fragile X syndrome (FXS) exhibit moderate to severe intellectual disabilities. In addition, one-third of FXS patients show characteristics of autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26475977/",
+  "mesh_terms": [
+    "Animals",
+    "Epigenesis, Genetic",
+    "Fragile X Syndrome",
+    "Humans",
+    "Pluripotent Stem Cells"
+  ],
+  "keywords": [
+    "FXS human embryonic stem cells",
+    "FXS induced pluripotent stem cells",
+    "Fragile X syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

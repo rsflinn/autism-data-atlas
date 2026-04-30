@@ -1,0 +1,44 @@
+{
+  "pmid": "38242426",
+  "doi": "10.1016/j.pnpbp.2024.110947",
+  "title": "The Notch1/Hes1 pathway regulates Neuregulin 1/ErbB4 and participates in microglial activation in rats with VPA-induced autism",
+  "authors": "Deng Y, Ma L, Du Z, Ma H, Xia Y, Ping L, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "The core clinical characteristics of autism, which is a neurodevelopmental disease, involve repetitive behavior and impaired social interactions. Studies have shown that the Notch and Neuregulin1 (NRG1) signaling pathways are abnormally activated in autism, but the mechanism by which these two signaling pathways interact to contribute to the progression of autism has not been determined. Our results suggest that the levels of Notch1, Hes1, NRG1, and phosphorylated ErbB4 in the cerebellum (CB), hippocampus (HC), and prefrontal cortex (PFC) were increased in rats with valproic acid (VPA)-induced autism compared to those in the Con group. However, 3, 5-difluorophenyl-L-alanyl-L-2-phenylglycine tert-butyl (DAPT), which is a Notch pathway inhibitor, ameliorated autism-like behavioral abnormalities and decreased the protein levels of NRG1 and phosphorylated ErbB4 in rats with VPA-induced autism; these results demonstrated that the Notch1/Hes1 pathway could participate in the pathogenesis of autism by regulating the NRG1/ErbB4 signaling pathway. Studies have shown that the Notch pathway regulates microglial differentiation and activation during the onset of neurological disorders and that microglia affect autism-like behavior via synaptic pruning. Therefore, we hypothesized that the Notch1/Hes1 pathway could regulate the NRG1/ErbB4 pathway and thus participate in the development of autism by regulating microglial functions. The present study showed that AG1478, which is an ErbB4 inhibitor, ameliorated the autism-like behaviors in a VPA-induced autism rat model, reduced abnormal microglial activation, and decreased NRG1 and Iba-1 colocalization; however, AG1478 did not alter Notch1/Hes1 activity. These results demonstrated that Notch1/Hes1 may participate in the microglial activation in autism by regulating NRG1/ErbB4, revealing a new mechanism underlying the pathogenesis of autism.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The core clinical characteristics of autism, which is a neurodevelopmental disease, involve repetitive behavior and impaired social interactions. Studies have shown that the Notch and Neuregulin1 (NRG1) signaling pathways are abnormally activated in autism, but the mechanism by which these two signaling pathways interact to contribute to the progression of autism has not been determined.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38242426/",
+  "mesh_terms": [
+    "Animals",
+    "Rats",
+    "Autistic Disorder",
+    "Neuregulin-1",
+    "Microglia",
+    "Valproic Acid",
+    "Transcription Factor HES-1",
+    "Receptor, Notch1",
+    "Quinazolines",
+    "Tyrphostins"
+  ],
+  "keywords": [
+    "Autism",
+    "Microglia",
+    "Neuregulin-1",
+    "Notch 1 pathway"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

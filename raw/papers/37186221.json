@@ -1,0 +1,46 @@
+{
+  "pmid": "37186221",
+  "doi": "10.1002/mgg3.2182",
+  "title": "Diagnostic yield and clinical impact of chromosomal microarray analysis in autism spectrum disorder",
+  "authors": "Cucinotta F, Lintas C, Tomaiuolo P, Baccarin M, Picinelli C, Castronovo P, et al.",
+  "journal": "Molecular genetics & genomic medicine",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is characterized by high heritability estimates and recurrence rates; its genetic underpinnings are very heterogeneous and include variable combinations of common and rare variants. Array-comparative genomic hybridization (aCGH) offers significant sensitivity for the identification of copy number variants (CNVs), which can act as susceptibility or causal factors for ASD.\n\nThe aim of this study was to evaluate both diagnostic yield and clinical impact of aCGH in 329 ASD patients of Italian descent.\n\nPathogenic/likely pathogenic CNVs were identified in 50/329 (15.2%) patients, whereas 89/329 (27.1%) carry variants of uncertain significance. The 10 most enriched gene sets identified by Gene Ontology Enrichment Analysis are primarily involved in neuronal function and synaptic connectivity. In 13/50 (26.0%) patients with pathogenic/likely pathogenic CNVs, the outcome of array-CGH led to the request of 25 additional medical exams which would not have otherwise been prescribed, mainly including brain MRI, EEG, EKG, and/or cardiac ultrasound. A positive outcome was obtained in 12/25 (48.0%) of these additional tests.\n\nThis study confirms the satisfactory diagnostic yield of aCGH, underscoring its potential for better, more in-depth care of children with autism when genetic results are analyzed also with a focus on patient management.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is characterized by high heritability estimates and recurrence rates; its genetic underpinnings are very heterogeneous and include variable combinations of common and rare variants. Array-comparative genomic hybridization (aCGH) offers significant sensitivity for the identification of copy number variants (CNVs), which can act as susceptibility or causal factors for ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37186221/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Comparative Genomic Hybridization",
+    "Microarray Analysis",
+    "Autistic Disorder",
+    "DNA Copy Number Variations"
+  ],
+  "keywords": [
+    "15q11.2-q13.1 duplication syndrome",
+    "16p11.2 microdeletion syndrome",
+    "array comparative genomic hybridization",
+    "autism spectrum disorder",
+    "copy number variants",
+    "gene set enrichment analysis",
+    "genotype-phenotype correlation",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

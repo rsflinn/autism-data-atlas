@@ -1,0 +1,46 @@
+{
+  "pmid": "19386901",
+  "doi": "10.1523/JNEUROSCI.0324-09.2009",
+  "title": "Rett syndrome astrocytes are abnormal and spread MeCP2 deficiency through gap junctions",
+  "authors": "Maezawa I, Swanberg S, Harvey D, LaSalle JM, Jin LW",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2009-04",
+  "source": "pubmed",
+  "abstract": "MECP2, an X-linked gene encoding the epigenetic factor methyl-CpG-binding protein-2, is mutated in Rett syndrome (RTT) and aberrantly expressed in autism. Most children affected by RTT are heterozygous Mecp2-/+ females whose brain function is impaired postnatally due to MeCP2 deficiency. While prior functional investigations of MeCP2 have focused exclusively on neurons and have concluded the absence of MeCP2 in astrocytes, here we report that astrocytes express MeCP2, and MeCP2 deficiency in astrocytes causes significant abnormalities in BDNF regulation, cytokine production, and neuronal dendritic induction, effects that may contribute to abnormal neurodevelopment. In addition, we show that the MeCP2 deficiency state can progressively spread at least in part via gap junction communications between mosaic Mecp2-/+ astrocytes in a novel non-cell-autonomous mechanism. This mechanism may lead to the pronounced loss of MeCP2 observed selectively in astrocytes in mouse Mecp2-/+ brain, which is coincident with phenotypic regression characteristic of RTT. Our results suggest that astrocytes are viable therapeutic targets for RTT and perhaps regressive forms of autism.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "MECP2, an X-linked gene encoding the epigenetic factor methyl-CpG-binding protein-2, is mutated in Rett syndrome (RTT) and aberrantly expressed in autism. Most children affected by RTT are heterozygous Mecp2-/+ females whose brain function is impaired postnatally due to MeCP2 deficiency.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19386901/",
+  "mesh_terms": [
+    "Animals",
+    "Astrocytes",
+    "Cells, Cultured",
+    "Dendrites",
+    "Female",
+    "Gap Junctions",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Neurogenesis",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

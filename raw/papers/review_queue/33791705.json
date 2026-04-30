@@ -1,0 +1,29 @@
+{
+  "pmid": "33791705",
+  "doi": "10.1101/2021.03.15.435423",
+  "title": "Network medicine links SARS-CoV-2/COVID-19 infection to brain microvascular injury and neuroinflammation in dementia-like cognitive impairment",
+  "authors": "Zhou Y, Xu J, Hou Y, Leverenz JB, Kallianpur A, Mehra R, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Dementia-like cognitive impairment is an increasingly reported complication of SARS-CoV-2 infection. However, the underlying mechanisms responsible for this complication remain unclear. A better understanding of causative processes by which COVID-19 may lead to cognitive impairment is essential for developing preventive interventions.\n\nIn this study, we conducted a network-based, multimodal genomics comparison of COVID-19 and neurologic complications. We constructed the SARS-CoV-2 virus-host interactome from protein-protein interaction assay and CRISPR-Cas9 based genetic assay results, and compared network-based relationships therein with those of known neurological manifestations using network proximity measures. We also investigated the transcriptomic profiles (including single-cell/nuclei RNA-sequencing) of Alzheimer's disease (AD) marker genes from patients infected with COVID-19, as well as the prevalence of SARS-CoV-2 entry factors in the brains of AD patients not infected with SARS-CoV-2.\n\nWe found significant network-based relationships between COVID-19 and neuroinflammation and brain microvascular injury pathways and processes which are implicated in AD. We also detected aberrant expression of AD biomarkers in the cerebrospinal fluid and blood of patients with COVID-19. While transcriptomic analyses showed relatively low expression of SARS-CoV-2 entry factors in human brain, neuroinflammatory changes were pronounced. In addition, single-nucleus transcriptomic analyses showed that expression of SARS-CoV-2 host factors (and) and antiviral defense genes (,,, and) was significantly elevated in brain endothelial cells of AD patients and healthy controls relative to neurons and other cell types, suggesting a possible role for brain microvascular injury in COVID-19-mediated cognitive impairment. Notably, individuals with the AD risk alleleE4/E4 displayed reduced levels of antiviral defense genes compared toE3/E3 individuals.\n\nOur results suggest significant mechanistic overlap between AD and COVID-19, strongly centered on neuroinflammation and microvascular injury. These results help improve our understanding of COVID-19-associated neurological manifestations and provide guidance for future development of preventive or treatment interventions.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Dementia-like cognitive impairment is an increasingly reported complication of SARS-CoV-2 infection. However, the underlying mechanisms responsible for this complication remain unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33791705/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Preprint",
+    "Journal Article"
+  ]
+}

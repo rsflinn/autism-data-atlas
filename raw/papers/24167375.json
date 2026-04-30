@@ -1,0 +1,36 @@
+{
+  "pmid": "24167375",
+  "doi": "10.1155/2013/536521",
+  "title": "Increased glutamate and homocysteine and decreased glutamine levels in autism: a review and strategies for future studies of amino acids in autism",
+  "authors": "Ghanizadeh A",
+  "journal": "Disease markers",
+  "date": "2013-09",
+  "source": "pubmed",
+  "abstract": "There are many reports about the significant roles of some amino acids in neurobiology and treatment of autism. This is a critical review of amino acids levels in autism. No published review article about the level of amino acids in autism was found. The levels of glutamate and homocystein are increased in autism while the levels of glutamine and tryptophan are decreased. Findings regarding the plasma levels of taurine and lysine are controversial. The urinary levels of homocysteine and essential amino acids in both the untreated and treated autistic children are significantly less than those in the controls. The current literature suffers from many methodological shortcomings which needed to be considered in future studies. Some of them are age, gender, developmental level, autism symptoms severity, type of autism spectrum disorders, medical comorbidities, intelligent quotient, diet, concomitant medications, body mass index, and technical method of assessment of amino acids.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "There are many reports about the significant roles of some amino acids in neurobiology and treatment of autism. This is a critical review of amino acids levels in autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24167375/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Biomarkers",
+    "Glutamic Acid",
+    "Homocysteine",
+    "Humans",
+    "Taurine"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

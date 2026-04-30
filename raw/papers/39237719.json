@@ -1,0 +1,40 @@
+{
+  "pmid": "39237719",
+  "doi": "10.1038/s41380-024-02740-0",
+  "title": "Uncovering convergence and divergence between autism and schizophrenia using genomic tools and patients' neurons",
+  "authors": "Romanovsky E, Choudhary A, Peles D, Abu-Akel A, Stern S",
+  "journal": "Molecular psychiatry",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) are highly heritable and result in abnormal repetitive behaviors and impairment in communication and cognitive skills. Previous studies have focused on the genetic correlation between ASDs and other neuropsychiatric disorders, but an in-depth understanding of the correlation to other disorders is required. We conducted an extensive meta-analysis of common variants identified in ASDs by genome-wide association studies (GWAS) and compared it to the consensus genes and single nucleotide polymorphisms (SNPs) of Schizophrenia (SCZ). We found approximately 75% of the GWAS genes that are associated with ASD are also associated with SCZ. We further investigated the cellular phenotypes of neurons derived from induced pluripotent stem cell (iPSC) models in ASD and SCZ. Our findings revealed that ASD and SCZ neurons initially follow divergent developmental trajectories compared to control neurons. However, despite these early diametrical&#xa0;differences, both ASD and SCZ neurons ultimately display similar deficits in synaptic activity as they mature. This significant genetic overlap between ASD and SCZ, coupled with the convergence towards similar synaptic deficits, highlights the intricate interplay of genetic and developmental factors in shaping the shared underlying mechanisms of these complex neurodevelopmental and neuropsychiatric disorders.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASDs) are highly heritable and result in abnormal repetitive behaviors and impairment in communication and cognitive skills. Previous studies have focused on the genetic correlation between ASDs and other neuropsychiatric disorders, but an in-depth understanding of the correlation to other disorders is required.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39237719/",
+  "mesh_terms": [
+    "Humans",
+    "Schizophrenia",
+    "Neurons",
+    "Genome-Wide Association Study",
+    "Autism Spectrum Disorder",
+    "Polymorphism, Single Nucleotide",
+    "Induced Pluripotent Stem Cells",
+    "Autistic Disorder",
+    "Genetic Predisposition to Disease",
+    "Genomics"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "24298145",
+  "doi": "10.1098/rstb.2013.0143",
+  "title": "Shank mutant mice as an animal model of autism",
+  "authors": "Yoo J, Bakes J, Bradley C, Collingridge GL, Kaang BK",
+  "journal": "Philosophical transactions of the Royal Society of London. Series B, Biological sciences",
+  "date": "2013-12",
+  "source": "pubmed",
+  "abstract": "In this review, we focus on the role of the Shank family of proteins in autism. In recent years, autism research has been flourishing. With genetic, molecular, imaging and electrophysiological studies being supported by behavioural studies using animal models, there is real hope that we may soon understand the fundamental pathology of autism. There is also genuine potential to develop a molecular-level pharmacological treatment that may be able to deal with the most severe symptoms of autism, and clinical trials are already underway. The Shank family of proteins has been strongly implicated as a contributing factor in autism in certain individuals and sits at the core of the alleged autistic pathway. Here, we analyse studies that relate Shank to autism and discuss what light this sheds on the possible causes of autism.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "In this review, we focus on the role of the Shank family of proteins in autism. In recent years, autism research has been flourishing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24298145/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Mice",
+    "Mice, Transgenic",
+    "Microfilament Proteins",
+    "Models, Biological",
+    "Nerve Tissue Proteins",
+    "Synapses"
+  ],
+  "keywords": [
+    "Shank",
+    "autism",
+    "synaptic plasticity",
+    "synaptic theory of autism",
+    "synaptopathy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

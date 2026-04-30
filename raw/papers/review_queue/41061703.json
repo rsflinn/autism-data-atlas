@@ -1,0 +1,51 @@
+{
+  "pmid": "41061703",
+  "doi": "10.1016/j.cell.2025.09.012",
+  "title": "Genetic modifiers and ascertainment drive variable expressivity of complex disorders",
+  "authors": "Jensen M, Smolen C, Tyryshkina A, Pizzo L, Sun J, Noss S, et al.",
+  "journal": "Cell",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Variable expressivity of disease-associated variants implies a role for secondary variants that modify clinical features. We assessed the effects of modifier variants on the clinical outcomes of 2,455 individuals with primary variants. Among 124 families with the 16p12.1 deletion, distinct rare and common variant classes conferred risks for specific developmental features, including short tandem repeats for neurological defects. Network analysis suggested distinct mechanisms involving 16p12.1 genes and secondary variants specific to each proband. Within disease and population cohorts of 976 individuals with the 16p12.1 deletion, we found opposing effects of secondary variants on clinical features across ascertainments. Additional analysis of 1,479 probands with other primary variants, such as the 16p11.2 deletion and CHD8 variants, and 1,528 probands without primary variants showed that phenotypic associations differed by primary variant context and were influenced by synergistic interactions between primary and secondary variants. Our study provides a paradigm to dissect the personalized genomic architecture of complex disorders.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Variable expressivity of disease-associated variants implies a role for secondary variants that modify clinical features. We assessed the effects of modifier variants on the clinical outcomes of 2,455 individuals with primary variants.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41061703/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Chromosomes, Human, Pair 16",
+    "Female",
+    "DNA-Binding Proteins",
+    "Phenotype",
+    "Genetic Predisposition to Disease",
+    "Genes, Modifier",
+    "Chromosome Deletion",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "ascertainment",
+    "autism spectrum disorder",
+    "complex disease",
+    "copy-number variants",
+    "modifiers",
+    "multi-hit model",
+    "neurodevelopmental",
+    "rare variants",
+    "variable expressivity"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "pmid": "32126198",
+  "doi": "10.1016/j.neuron.2020.01.038",
+  "title": "Tau Reduction Prevents Key Features of Autism in Mouse Models",
+  "authors": "Tai C, Chang CW, Yu GQ, Lopez I, Yu X, Wang X, et al.",
+  "journal": "Neuron",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Autism is characterized by repetitive behaviors, impaired social interactions, and communication deficits. It is a prevalent neurodevelopmental disorder, and available treatments offer little benefit. Here, we show that genetically reducing the protein tau prevents behavioral signs of autism in two mouse models simulating distinct causes of this condition. Similar to a proportion of people with autism, both models have epilepsy, abnormally enlarged brains, and overactivation of the phosphatidylinositol 3-kinase (PI3K)/Akt (protein kinase B)/ mammalian target of rapamycin (mTOR) signaling pathway. All of these abnormalities were prevented or markedly diminished by partial or complete genetic removal of tau. We identify disinhibition of phosphatase and tensin homolog deleted on chromosome 10 (PTEN), a negative PI3K regulator that tau controls, as a plausible mechanism and demonstrate that tau interacts with PTEN via tau's proline-rich domain. Our findings suggest an enabling role of tau in the pathogenesis of autism and identify tau reduction as a potential therapeutic strategy for some of the disorders that cause this condition.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "Autism is characterized by repetitive behaviors, impaired social interactions, and communication deficits. It is a prevalent neurodevelopmental disorder, and available treatments offer little benefit.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32126198/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Binding Sites",
+    "Brain",
+    "Cells, Cultured",
+    "HEK293 Cells",
+    "Humans",
+    "Megalencephaly",
+    "Membrane Proteins",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Microfilament Proteins",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Nerve Tissue Proteins",
+    "PTEN Phosphohydrolase",
+    "Phosphatidylinositol 3-Kinases",
+    "Proline-Rich Protein Domains",
+    "Protein Binding",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "tau Proteins"
+  ],
+  "keywords": [
+    "Akt",
+    "Cntnap2",
+    "PI3 kinase",
+    "PTEN",
+    "Scn1a",
+    "Shank3",
+    "autism spectrum disorders",
+    "mTOR",
+    "megalencephaly",
+    "tau"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "34008235",
+  "doi": "10.1002/jdn.10123",
+  "title": "Potassium channels and autism spectrum disorder: An overview",
+  "authors": "Cheng P, Qiu Z, Du Y",
+  "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+  "date": "2021-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) comprises a group of neurodevelopmental disorders characterized by impaired social interaction and communication, and restricted, repetitive patterns of behaviors, interests, or activities. It had been demonstrated that potassium channels played a key role in regulating neuronal excitability, which was closely associated with neurological diseases including epilepsy, ataxia, myoclonus, and psychiatric disorders. In recent years, a growing body of evidence from whole-genome sequencing and whole-exome sequencing had identified several ASD susceptibility genes of potassium channels in ASD subjects. Genetically dysfunction of potassium channels may be involved in altered neuronal excitability and abnormal brain function in the pathogenesis of ASD. This review summarizes current findings on the features of ASD-risk genes (KCND2, KCNQ2, KCNQ3, KCNH5, KCNJ2, KCNJ10, and KCNMA1) and further expatiate their potential role in the pathogenicity of ASD.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) comprises a group of neurodevelopmental disorders characterized by impaired social interaction and communication, and restricted, repetitive patterns of behaviors, interests, or activities. It had been demonstrated that potassium channels played a key role in regulating neuronal excitability, which was closely associated with neurological diseases including epilepsy, ataxia, myoclonus, and psychiatric disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34008235/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Humans",
+    "Potassium Channels",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "mutation",
+    "potassium channels"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

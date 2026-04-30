@@ -1,0 +1,47 @@
+{
+  "pmid": "31367295",
+  "doi": "10.1186/s13229-019-0282-4",
+  "title": "Behavioral characteristics of autism spectrum disorder in very preterm birth children",
+  "authors": "Chen LW, Wang ST, Wang LW, Kao YC, Chu CL, Wu CC, et al.",
+  "journal": "Molecular autism",
+  "date": "2019-07",
+  "source": "pubmed",
+  "abstract": "Lower gestational age may increase autism spectrum disorder (ASD) vulnerability; however, the incidence of ASD diagnosis through a direct assessment on every very preterm birth child on the population base remains unclear. Moreover, the behavioral characteristics of preterm birth ASD are unknown.\n\nEvery very preterm birth child (gestational age <&#x2009;32&#x2009;weeks; birth weight <&#x2009;1500&#x2009;g) who was discharged from neonatal intensive care units in Southern Taiwan and prospectively followed to 5&#x2009;years of age was evaluated using the Autism Diagnostic Observation Schedule (ADOS) and the Autism Diagnostic Interview-Revised (ADI-R). The term birth (gestational age >&#x2009;37&#x2009;weeks) ASD children characterized by ADOS and ADI-R were group matched to the preterm birth ASD by age at examination for comparison. ADOS severity scores were calculated by the Mann-Whitneytest and ADI-R by multivariate analysis of variance and canonical discriminant analysis.\n\nTwo hundred forty-six (87%) of the 283 very preterm survivors were followed prospectively to 5&#x2009;years of age. Nineteen (7.7%) of the 246 children fulfilled the diagnostic criteria of ASD. After excluding 1 patient with cerebral palsy and profound mental disability, 18 preterm ASD children were compared with 44 term birth ASD children. The two ASD groups were comparable for age at examination, gender, and intelligence quotient. The two groups showed comparable ADOS severity scores in social affect deficits, restricted repetitive behaviors, and total score, but had differences in qualitative abnormalities in reciprocal social interaction (Wilks lambdavalue&#x2009;=&#x2009;6.2,&#x2009;<&#x2009;0.001) of ADI-R. Compared to term birth ASD children, preterm birth ASD children exhibited worse nonverbal behaviors that regulate social interaction (OR 2.59, 95% CI 1.41-4.73,&#x2009;=&#x2009;0.002) but more favorable peer relationships (OR 0.58, 95% CI 0.38-0.90,&#x2009;=&#x2009;0.01) and socioemotional reciprocity (OR 0.55, 95% CI 0.33-0.92,&#x2009;=&#x2009;0.02). In contrast to the heterogeneous severity of social reciprocity in the term ASD group, the behavioral characteristics of the preterm ASD group showed a homogeneous reciprocal social interaction pattern.\n\nThe 5-year incidence rate of ASD was high in very preterm birth children. Preterm birth ASD exhibited a specific behavioral phenotype of reciprocal social interaction.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Lower gestational age may increase autism spectrum disorder (ASD) vulnerability; however, the incidence of ASD diagnosis through a direct assessment on every very preterm birth child on the population base remains unclear. Moreover, the behavioral characteristics of preterm birth ASD are unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31367295/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Behavior",
+    "Child",
+    "Discriminant Analysis",
+    "Female",
+    "Humans",
+    "Infant, Extremely Premature",
+    "Interpersonal Relations",
+    "Logistic Models",
+    "Male",
+    "Premature Birth"
+  ],
+  "keywords": [
+    "Autism Diagnostic Interview-Revised",
+    "Autism Diagnostic Observation Schedule",
+    "Autism spectrum disorder",
+    "Preterm",
+    "Very low birth weight"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

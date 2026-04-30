@@ -1,0 +1,44 @@
+{
+  "pmid": "36224417",
+  "doi": "10.1038/s41586-022-05277-w",
+  "title": "Maturation and circuit integration of transplanted human cortical organoids",
+  "authors": "Revah O, Gore F, Kelley KW, Andersen J, Sakai N, Chen X, et al.",
+  "journal": "Nature",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "Self-organizing neural organoids represent a promising in vitro platform with which&#xa0;to model human development and disease. However, organoids lack the connectivity that exists in vivo, which limits maturation and makes integration with other circuits that control behaviour impossible. Here we show that human stem cell-derived cortical organoids transplanted into the somatosensory cortex of newborn athymic rats develop mature cell types that integrate into sensory and motivation-related circuits. MRI reveals post-transplantation organoid growth across multiple stem cell lines and animals, whereas single-nucleus profiling shows progression of corticogenesis and the emergence of activity-dependent transcriptional programs. Indeed, transplanted cortical neurons display more complex morphological, synaptic and intrinsic membrane properties than their in vitro counterparts, which enables the discovery of defects in neurons derived from individuals with&#xa0;Timothy syndrome. Anatomical and functional tracings show that transplanted organoids receive thalamocortical and corticocortical inputs, and in vivo recordings of neural activity demonstrate that these inputs can produce sensory responses in human cells. Finally, cortical organoids extend axons throughout the rat brain and their optogenetic activation can drive reward-seeking behaviour. Thus, transplanted human cortical neurons mature and engage host circuits that control behaviour. We anticipate that this approach will be useful for detecting circuit-level phenotypes in patient-derived cells that cannot otherwise be uncovered.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Self-organizing neural organoids represent a promising in vitro platform with which&#xa0;to model human development and disease. However, organoids lack the connectivity that exists in vivo, which limits maturation and makes integration with other circuits that control behaviour impossible.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36224417/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Newborn",
+    "Autistic Disorder",
+    "Humans",
+    "Long QT Syndrome",
+    "Motivation",
+    "Neural Pathways",
+    "Neurons",
+    "Optogenetics",
+    "Organoids",
+    "Rats",
+    "Reward",
+    "Somatosensory Cortex",
+    "Stem Cells",
+    "Syndactyly"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

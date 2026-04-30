@@ -1,0 +1,52 @@
+{
+  "pmid": "30312108",
+  "doi": "10.1089/cap.2018.0037",
+  "title": "A Focused Review on the Treatment of Pediatric Patients with Atypical Antipsychotics",
+  "authors": "Lee ES, Vidal C, Findling RL",
+  "journal": "Journal of child and adolescent psychopharmacology",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "The use of atypical antipsychotic medications in pediatric patients has become more prevalent in recent years. The purpose of this review is to provide a clinically relevant update of recent selected key publications regarding the use of atypical antipsychotics in this population.\n\nStudies reviewed included randomized, double-blind, placebo-controlled medication trials conducted within the past 5 years. A PubMed search was conducted for each of the 11 second-generation antipsychotic medications currently approved by the Food and Drug Administration for use in the United States: clozapine, risperidone, olanzapine, quetiapine, aripiprazole, ziprasidone, paliperidone, asenapine, iloperidone, lurasidone, and cariprazine. Trials published in English with subjects 18 years of age and younger were included in this review. Additional studies, chosen for their significance to clinical practice, were also included at the discretion of the authors.\n\nThis review demonstrates that more empiric data are available regarding both the acute efficacy and, to a lesser extent, the longer-term efficacy and tolerability for several of the considered antipsychotic medications. The clinical conditions for which these medications have been studied include schizophrenia, bipolar disorder, Tourette's disorder, and autism spectrum disorder. They have also been used as an adjunctive treatment for disruptive behavior disorders with aggression, which have not responded to treatment with stimulants.\n\nEvidence regarding the efficacy and tolerability of antipsychotic medications for mental health disorders in children and adolescents has expanded exponentially in recent years. However, more information is needed so that evidence-based comparisons between medications can be made. In the future, data enabling the selection of medications based upon individual patient characteristics could potentially lead to greater efficacy and efficiency in treating what are frequently debilitating medical conditions. Maladaptive aggression in children, often treated with antipsychotics, is one such area in which there is a dearth of actual information available to the clinician. It is to be hoped that additional, longer-term studies of these medications will further inform evidence-based practice in clinical settings.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The use of atypical antipsychotic medications in pediatric patients has become more prevalent in recent years. The purpose of this review is to provide a clinically relevant update of recent selected key publications regarding the use of atypical antipsychotics in this population.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30312108/",
+  "mesh_terms": [
+    "Adolescent",
+    "Antidepressive Agents",
+    "Antipsychotic Agents",
+    "Attention Deficit and Disruptive Behavior Disorders",
+    "Autism Spectrum Disorder",
+    "Benzodiazepines",
+    "Bipolar Disorder",
+    "Child",
+    "Dopamine D2 Receptor Antagonists",
+    "Humans",
+    "Psychopharmacology",
+    "Randomized Controlled Trials as Topic",
+    "Schizophrenia",
+    "Serotonin Antagonists",
+    "Serotonin Receptor Agonists"
+  ],
+  "keywords": [
+    "antipsychotics",
+    "attention-deficit/hyperactivity disorder",
+    "children and adolescents",
+    "mood disorders",
+    "psychopharmacology",
+    "psychotic disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "39418585",
+  "doi": "10.1044/2024_JSLHR-24-00257",
+  "title": "Language Profiles of School-Age Children With 16p11.2 Copy Number Variants in a Clinically Ascertained Cohort",
+  "authors": "Verbesselt J, Breckpot J, Zink I, Swillen A",
+  "journal": "Journal of speech, language, and hearing research : JSLHR",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Individuals with proximal 16p11.2 copy number variants (CNVs), either deletions (16p11.2DS) or duplications (16p11.2Dup), are predisposed to neurodevelopmental difficulties and disorders, such as language disorders, intellectual disability, and autism spectrum disorder. The purpose of the current study was to characterize language profiles of school-age children with proximal 16p11.2 CNVs, in relation to the normative sample and unaffected siblings of children with 16p11.2DS.\n\nStandardized language tests were conducted in 33 school-age children with BP4-BP5 16p11.2 CNVs and eight unaffected siblings of children with 16p11.2DS to evaluate language production and comprehension skills across various language domains. A standardized intelligence test was also administered, and parents completed a standardized questionnaire to assess autistic traits. Language profiles were compared across 16p11.2 CNVs and intrafamilial pairs. The influence of nonverbal intelligence and autistic traits on language outcomes was investigated.\n\nNo significant differences were found between children with 16p11.2DS and those with 16p11.2Dup, although both groups exhibited significantly poorer language skills compared to the normative sample and unaffected siblings of children with 16p11.2DS. Severe language deficits were identified in 70% of individuals with 16p11.2 CNVs across all language subdomains, with significantly better receptive vocabulary skills than overall receptive language abilities. In children with 16p11.2DS, expressive language deficits were more pronounced than receptive deficits. In contrast, only in children with 16p11.2Dup did nonverbal intelligence influence their language outcomes.\n\nThe current study contributes to the deeper understanding of language profiles in 16p11.2 CNVs in a clinically ascertained cohort, indicating generalized deficits across multiple language domains, rather than a syndrome-specific pattern targeting specific subdomains. The findings underscore the importance of early diagnosis, targeted therapy, and monitoring of language skills in children with 16p11.2 CNVs.\n\nhttps://doi.org/10.23641/asha.27228702.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Individuals with proximal 16p11.2 copy number variants (CNVs), either deletions (16p11.2DS) or duplications (16p11.2Dup), are predisposed to neurodevelopmental difficulties and disorders, such as language disorders, intellectual disability, and autism spectrum disorder. The purpose of the current study was to characterize language profiles of school-age children with proximal 16p11.2 CNVs, in relation to the normative sample and unaffected siblings of children with 16p11.2DS.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39418585/",
+  "mesh_terms": [
+    "Humans",
+    "Chromosomes, Human, Pair 16",
+    "Child",
+    "Female",
+    "Male",
+    "DNA Copy Number Variations",
+    "Cohort Studies",
+    "Intellectual Disability",
+    "Adolescent",
+    "Language Tests",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Autism Spectrum Disorder",
+    "Siblings",
+    "Intelligence",
+    "Autistic Disorder",
+    "Language Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pmid": "30005318",
+  "doi": "10.1016/j.jcomdis.2018.06.001",
+  "title": "Atypical language characteristics and trajectories in children with 22q11.2 deletion syndrome",
+  "authors": "Van Den Heuvel E, Manders E, Swillen A, Zink I",
+  "journal": "Journal of communication disorders",
+  "date": "2018-06",
+  "source": "pubmed",
+  "abstract": "22q11.2 deletion syndrome (22q11.2DS) is a genetic condition associated with a highly variable phenotypic expression. During childhood speech and language deficits are commonly observed. Findings of cross-sectional studies suggest syndrome-specific and changing language profiles, but a longitudinal approach to identify developmental changes is still lacking to date.\n\nThe present study aimed to delineate language characteristics and trajectories by comparing the performance of Dutch-speaking school-aged children with 22q11.2DS (n&#x202f;=&#x202f;18) to those of peers with idiopathic intellectual disability (IID, n &#x202f;=&#x202f;19) and to those of children with IID and comorbid autism spectrum disorder (IID&#x202f;+&#x202f;ASD, n&#x202f;=&#x202f;23). The literature shows contradictory findings regarding language comprehension difficulties in children with 22q11.2DS, we focused on the receptive-expressive language discrepancy. Given their relative strength for verbal short-term memory (VSTM) tasks, a fine-grained error categorization was included to elucidate a possible influence of VSTM on the expressive language outcomes. Finally, we suggested that the inability of children with 22q11.2DS to use contextual information could interfere with morphosyntactic measures.\n\nAll groups (22q11.2DS, IID, and IID&#x202f;+&#x202f;ASD) were matched for nonverbal fluid reasoning (Gf) using the Analogies and Categories subtests of the Snijders-Oomen Nonverbal Intelligence Test or the Matrix Reasoning and Picture Concepts subtests of the Wechsler Preschool and Primary Scale of Intelligence. Several structural language skills were measured using the Clinical Evaluation of Language Fundamentals and Peabody Picture Vocabulary Test. The same instruments were re-administered after 18 to 24 months. A fine-grained error analysis of the Formulating and Recalling Sentences subtests, both measuring expressive syntax, explored factors contributing to expressive language deficits.\n\nIn children with 22q11.2DS the relative advantage of receptive over expressive language had decreased compared to children with IID. For children with 22q11.2DS, complex sentence comprehension remained very challenging over time. Expressive language skills seemed less limited compared to children with IID, and were accompanied by less VSTM difficulties. In children with 22q11.2DS and children with IID&#x202f;+&#x202f;ASD, variable patterns of strengths and weaknesses were demonstrated, resulting in subtle differences between these groups. Error analyses indicated disregard of content-contextual cues and use of vague and elliptic language as being typical for children with 22q11.2DS.\n\nWe recommend that in children with 22q11.2DS the impact of the receptive language impairment should be comprehensively examined and followed-up since it can have a negative effect on their social communication skills, adaptive functioning and academic achievement. Error analysis underscores that multiple measures should be used to evaluate the child's expressive language ability. Further research should focus on developmental trajectories of social communication skills and on the use of intervention strategies to improve language comprehension and pragmatics in school-aged children with 22q11.2DS.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "22q11.2 deletion syndrome (22q11.2DS) is a genetic condition associated with a highly variable phenotypic expression. During childhood speech and language deficits are commonly observed.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30005318/",
+  "mesh_terms": [
+    "22q11 Deletion Syndrome",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child Language",
+    "Communication Disorders",
+    "Comprehension",
+    "Cross-Sectional Studies",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Netherlands",
+    "Wechsler Scales"
+  ],
+  "keywords": [
+    "22q11.2 deletion syndrome",
+    "Autism spectrum disorders",
+    "Idiopathic intellectual disability",
+    "Language development"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

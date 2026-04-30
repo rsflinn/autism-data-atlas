@@ -1,0 +1,47 @@
+{
+  "pmid": "36692473",
+  "doi": "10.1242/dmm.049485",
+  "title": "Mouse models of fragile X-related disorders",
+  "authors": "Willemsen R, Kooy RF",
+  "journal": "Disease models & mechanisms",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "The fragile X-related disorders are an important group of hereditary disorders that are caused by expanded CGG repeats in the 5' untranslated region of the FMR1 gene or by mutations in the coding sequence of this gene. Two categories of pathological CGG repeats are associated with these disorders, full mutation alleles and shorter premutation alleles. Individuals with full mutation alleles develop fragile X syndrome, which causes autism and intellectual disability, whereas those with premutation alleles, which have shorter CGG expansions, can develop fragile X-associated tremor/ataxia syndrome, a progressive neurodegenerative disease. Thus, fragile X-related disorders can manifest as neurodegenerative or neurodevelopmental disorders, depending on the size of the repeat expansion. Here, we review mouse models of fragile X-related disorders and discuss how they have informed our understanding of neurodegenerative and neurodevelopmental disorders. We also assess the translational value of these models for developing rational targeted therapies for intellectual disability and autism disorders.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "The fragile X-related disorders are an important group of hereditary disorders that are caused by expanded CGG repeats in the 5' untranslated region of the FMR1 gene or by mutations in the coding sequence of this gene. Two categories of pathological CGG repeats are associated with these disorders, full mutation alleles and shorter premutation alleles.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36692473/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Trinucleotide Repeat Expansion",
+    "Intellectual Disability",
+    "Neurodegenerative Diseases",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Mutation",
+    "Disease Models, Animal"
+  ],
+  "keywords": [
+    "FMR1",
+    "Fragile X syndrome",
+    "Fragile X-associated tremor/ataxia syndrome",
+    "Mouse models"
+  ],
+  "article_types": [
+    "Review",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

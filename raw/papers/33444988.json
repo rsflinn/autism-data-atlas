@@ -1,0 +1,44 @@
+{
+  "pmid": "33444988",
+  "doi": "10.1016/j.yebeh.2020.107716",
+  "title": "Risk factors, etiologies, and comorbidities in urban pediatric epilepsy",
+  "authors": "Record EJ, Bumbut A, Shih S, Merwin S, Kroner B, Gaillard WD",
+  "journal": "Epilepsy & behavior : E&B",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "The Seizures and Outcomes Study in Children (SOS-KIDS) identifies risk factors, etiologies, and comorbidities in a pediatric epilepsy population in a major city with diversity in socioeconomic levels. A thorough understanding of the range of issues impacting children with epilepsy is critical to establishing treatment that will produce better health outcomes. SOS-KIDS is a cross-sectional cohort study of pediatric epilepsy patients who live in Washington D.C. and are evaluated at Children's National Hospital. Families were recruited at the time of the child's routine clinic appointment or inpatient visit. Information was extracted from participants' electronic medical records (EMR) and parent reports; participants were screened for comorbidities using standardized screening measures. Data were collected from 289 participants (47% female, 53% male), and mean age was 7.9&#x202f;years (2&#x202f;months to 17&#x202f;years). Twenty-nine percent of participants had primary generalized epilepsy, 63% focal epilepsy, 0.3% combined generalized and focal epilepsy, and 8% could not be distinguished. There were a variety of epilepsy risk factors including prematurity (10%), intraventricular hemorrhage (7%), neonatal seizures (8%), and febrile seizures (17%). The most common etiologies were cerebral malformations (13%) and genetic disorders (25%). Numerous participants had documented comorbidities including developmental delay (56%), intellectual disability (20%), headaches (16%), attention-deficit hyperactivity disorder (23%), and autism (7%). Of participants aged six years and older, depression, and anxiety were reported in 5% and 6% within the EMR, 14% and 19% in parent surveys, and 22% and 33% with standardized screening measures. We identified a wide variety of risk factors and etiologies among urban pediatric epilepsy patients, with genetic and structural being the most common. Neurologic and psychiatric comorbidities were common, but the prevalence of several psychiatric disorders reported within the EMR was substantially lower compared to that found when using parent surveys and standardized screening measures.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The Seizures and Outcomes Study in Children (SOS-KIDS) identifies risk factors, etiologies, and comorbidities in a pediatric epilepsy population in a major city with diversity in socioeconomic levels. A thorough understanding of the range of issues impacting children with epilepsy is critical to establishing treatment that will produce better health outcomes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33444988/",
+  "mesh_terms": [
+    "Child",
+    "Comorbidity",
+    "Cross-Sectional Studies",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Male",
+    "Risk Factors",
+    "Washington"
+  ],
+  "keywords": [
+    "Comorbidities",
+    "Epilepsy",
+    "Etiology",
+    "Risk factors"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S."
+  ]
+}

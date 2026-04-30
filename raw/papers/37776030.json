@@ -1,0 +1,50 @@
+{
+  "pmid": "37776030",
+  "doi": "10.1002/aur.3032",
+  "title": "Frontal EEG alpha asymmetry in youth with autism: Sex differences and social-emotional correlates",
+  "authors": "Neuhaus E, Santhosh M, Kresse A, Aylward E, Bernier R, Bookheimer S, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2023-09",
+  "source": "pubmed",
+  "abstract": "In youth broadly, EEG frontal alpha asymmetry (FAA) associates with affective style and vulnerability to psychopathology, with relatively stronger right activity predicting risk for internalizing and externalizing behaviors. In autistic youth, FAA has been related to ASD diagnostic features and to internalizing symptoms. Among our large, rigorously characterized, sex-balanced participant group, we attempted to replicate findings suggestive of altered FAA in youth with an ASD diagnosis, examining group differences and impact of sex assigned at birth. Second, we examined relations between FAA and behavioral variables (ASD features, internalizing, and externalizing) within autistic youth, examining effects by sex. Third, we explored whether the relation between FAA, autism features, and mental health was informed by maternal depression history. In our sample, FAA did not differ by diagnosis, age, or sex. However, youth with ASD had lower total frontal alpha power than youth without ASD. For autistic females, FAA and bilateral frontal alpha power correlated with social communication features, but not with internalizing or externalizing symptoms. For autistic males, EEG markers correlated with social communication features, and with externalizing behaviors. Exploratory analyses by sex revealed further associations between youth FAA, behavioral indices, and maternal depression history. In summary, findings suggest that individual differences in FAA may correspond to social-emotional and mental health behaviors, with different patterns of association for females and males with ASD. Longitudinal consideration of individual differences across levels of analysis (e.g., biomarkers, family factors, and environmental influences) will be essential to parsing out models of risk and resilience among autistic youth.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "In youth broadly, EEG frontal alpha asymmetry (FAA) associates with affective style and vulnerability to psychopathology, with relatively stronger right activity predicting risk for internalizing and externalizing behaviors. In autistic youth, FAA has been related to ASD diagnostic features and to internalizing symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37776030/",
+  "mesh_terms": [
+    "Adolescent",
+    "Female",
+    "Humans",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Electroencephalography",
+    "Emotions",
+    "Sex Characteristics",
+    "Child"
+  ],
+  "keywords": [
+    "EEG",
+    "alpha",
+    "asymmetry",
+    "autism",
+    "externalizing",
+    "internalizing",
+    "maternal depression",
+    "sex differences"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

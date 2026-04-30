@@ -1,0 +1,47 @@
+{
+  "pmid": "36161554",
+  "doi": "10.1007/s11065-022-09564-1",
+  "title": "Treatment Response of Transcranial Magnetic Stimulation in Intellectually Capable Youth and Young Adults with Autism Spectrum Disorder: A Systematic Review and Meta-Analysis",
+  "authors": "Smith JR, DiSalvo M, Green A, Ceranoglu TA, Anteraper SA, Croarkin P, et al.",
+  "journal": "Neuropsychology review",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "To examine current clinical research on the use of transcranial magnetic stimulation (TMS) in the treatment of pediatric and young adult autism spectrum disorder in intellectually capable persons (IC-ASD). We searched peer-reviewed international literature to identify clinical trials investigating TMS as a treatment for behavioral and cognitive symptoms of IC-ASD. We identified sixteen studies and were able to conduct a meta-analysis on twelve of these studies. Seven were open-label or used neurotypical controls for baseline cognitive data, and nine were controlled trials. In the latter, waitlist control groups were often used over sham TMS. Only one study conducted a randomized, parallel, double-blind, and sham controlled trial. Favorable safety data was reported in low frequency repetitive TMS, high frequency repetitive TMS, and intermittent theta burst studies. Compared to TMS research of other neuropsychiatric conditions, significantly lower total TMS pulses were delivered in treatment and neuronavigation was not regularly utilized. Quantitatively, our multivariate meta-analysis results report improvement in cognitive outcomes (pooled Hedges' g&#x2009;=&#x2009;0.735, 95% CI&#x2009;=&#x2009;0.242, 1.228; p&#x2009;=&#x2009;0.009) and primarily Criterion B symptomology of IC-ASD (pooled Hedges' g&#x2009;=&#x2009;0.435, 95% CI&#x2009;=&#x2009;0.359, 0.511; p&#x2009;<&#x2009;0.001) with low frequency repetitive TMS to the dorsolateral prefrontal cortex. The results of our systematic review and meta-analysis data indicate that TMS may offer a promising and safe treatment option for pediatric and young adult patients with IC-ASD. However, future work should include use of neuronavigation software, theta burst protocols, targeting of various brain regions, and robust study design before clinical recommendations can be made.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "To examine current clinical research on the use of transcranial magnetic stimulation (TMS) in the treatment of pediatric and young adult autism spectrum disorder in intellectually capable persons (IC-ASD). We searched peer-reviewed international literature to identify clinical trials investigating TMS as a treatment for behavioral and cognitive symptoms of IC-ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36161554/",
+  "mesh_terms": [
+    "Humans",
+    "Adolescent",
+    "Young Adult",
+    "Child",
+    "Transcranial Magnetic Stimulation",
+    "Autism Spectrum Disorder",
+    "Research Design",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "Autism",
+    "Brain Stimulation",
+    "Neurodevelopmental",
+    "Neuromodulation",
+    "Pediatric",
+    "Transcranial Magnetic Stimulation"
+  ],
+  "article_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

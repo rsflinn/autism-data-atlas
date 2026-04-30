@@ -1,0 +1,46 @@
+{
+  "pmid": "25620733",
+  "doi": "10.1016/j.biopsych.2014.11.020",
+  "title": "CACNA1D de novo mutations in autism spectrum disorders activate Cav1.3 L-type calcium channels",
+  "authors": "Pinggera A, Lieb A, Benedetti B, Lampert M, Monteleone S, Liedl KR, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2014-12",
+  "source": "pubmed",
+  "abstract": "Cav1.3 voltage-gated L-type calcium channels (LTCCs) are part of postsynaptic neuronal signaling networks. They play a key role in brain function, including fear memory and emotional and drug-taking behaviors. A whole-exome sequencing study identified a de novo mutation, p.A749G, in Cav1.3 &#x3b1;1-subunits (CACNA1D), the second main LTCC in the brain, as 1 of 62 high risk-conferring mutations in a cohort of patients with autism and intellectual disability. We screened all published genetic information available from whole-exome sequencing studies and identified a second de novo CACNA1D mutation, p.G407R. Both mutations are present only in the probands and not in their unaffected parents or siblings.\n\nWe functionally expressed both mutations in tsA-201 cells to study their functional consequences using whole-cell patch-clamp.\n\nThe mutations p.A749G and p.G407R caused dramatic changes in channel gating by shifting (~15 mV) the voltage dependence for steady-state activation and inactivation to more negative voltages (p.A749G) or by pronounced slowing of current inactivation during depolarizing stimuli (p.G407R). In both cases, these changes are compatible with a gain-of-function phenotype.\n\nOur data, together with the discovery that Cav1.3 gain-of-function causes primary aldosteronism with seizures, neurologic abnormalities, and intellectual disability, suggest that Cav1.3 gain-of-function mutations confer a major part of the risk for autism in the two probands and may even cause the disease. Our findings have immediate clinical relevance because blockers of LTCCs are available for therapeutic attempts in affected individuals. Patients should also be explored for other symptoms likely resulting from Cav1.3 hyperactivity, in particular, primary aldosteronism.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Cav1.3 voltage-gated L-type calcium channels (LTCCs) are part of postsynaptic neuronal signaling networks. They play a key role in brain function, including fear memory and emotional and drug-taking behaviors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25620733/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Calcium Channels, L-Type",
+    "Databases, Genetic",
+    "HEK293 Cells",
+    "Humans",
+    "Membrane Potentials",
+    "Mutation, Missense",
+    "Patch-Clamp Techniques",
+    "Transfection"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Calcium channel blockers",
+    "Human genetics",
+    "L-type calcium channels",
+    "Neuropsychiatric disorders",
+    "Whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

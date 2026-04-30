@@ -1,0 +1,40 @@
+{
+  "pmid": "33479212",
+  "doi": "10.1038/s41398-020-01195-5",
+  "title": "Integrative analysis of genome-wide association studies identifies novel loci associated with neuropsychiatric disorders",
+  "authors": "Yao X, Glessner JT, Li J, Qi X, Hou X, Zhu C, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Neuropsychiatric disorders, such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), schizophrenia (SCZ), bipolar disorder (BIP), and major depressive disorder (MDD) share common clinical presentations, suggesting etiologic overlap. A substantial proportion of SNP-based heritability for neuropsychiatric disorders is attributable to genetic components, and genome-wide association studies (GWASs) focusing on individual diseases have identified multiple genetic loci shared between these diseases. Here, we aimed at identifying novel genetic loci associated with individual neuropsychiatric diseases and genetic loci shared by neuropsychiatric diseases. We performed multi-trait joint analyses and meta-analysis across five neuropsychiatric disorders based on their summary statistics from the Psychiatric Genomics Consortium (PGC), and further carried out a replication study of ADHD among 2726 cases and 16299 controls in an independent pediatric cohort. In the multi-trait joint analyses, we found five novel genome-wide significant loci for ADHD, one novel locus for BIP, and ten novel loci for MDD. We further achieved modest replication in our independent pediatric dataset. We conducted fine-mapping and functional annotation through an integrative multi-omics approach and identified causal variants and potential target genes at each novel locus. Gene expression profile and gene-set enrichment analysis further suggested early developmental stage expression pattern and postsynaptic membrane compartment enrichment of candidate genes at the genome-wide significant loci of these neuropsychiatric disorders. Therefore, through a multi-omics approach, we identified novel genetic loci associated with the five neuropsychiatric disorders which may help to better understand the underlying molecular mechanism of neuropsychiatric diseases.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neuropsychiatric disorders, such as autism spectrum disorder (ASD), attention deficit hyperactivity disorder (ADHD), schizophrenia (SCZ), bipolar disorder (BIP), and major depressive disorder (MDD) share common clinical presentations, suggesting etiologic overlap. A substantial proportion of SNP-based heritability for neuropsychiatric disorders is attributable to genetic components, and genome-wide association studies (GWASs) focusing on individual diseases have identified multiple genetic loci ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33479212/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Bipolar Disorder",
+    "Child",
+    "Major Depressive Disorder",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

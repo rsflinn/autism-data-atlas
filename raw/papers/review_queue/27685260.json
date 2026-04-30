@@ -1,0 +1,28 @@
+{
+  "pmid": "27685260",
+  "doi": "10.1038/srep33439",
+  "title": "Genomic Regions Associated With Interspecies Communication in Dogs Contain Genes Related to Human Social Disorders",
+  "authors": "Persson ME, Wright D, Roth LS, Batakis P, Jensen P",
+  "journal": "Scientific reports",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "Unlike their wolf ancestors, dogs have unique social skills for communicating and cooperating with humans. Previously, significant heritabilities for human-directed social behaviors have been found in laboratory beagles. Here, a Genome-Wide Association Study identified two genomic regions associated with dog's human-directed social behaviors. We recorded the propensity of laboratory beagles, bred, kept and handled under standardized conditions, to initiate physical interactions with a human during an unsolvable problem-task, and 190 individuals were genotyped with an HD Canine SNP-chip. One genetic marker on chromosome 26 within the SEZ6L gene was significantly associated with time spent close to, and in physical contact with, the human. Two suggestive markers on chromosome 26, located within the ARVCF gene, were also associated with human contact seeking. Strikingly, four additional genes present in the same linkage blocks affect social abilities in humans, e.g., SEZ6L has been associated with autism and COMT affects aggression in adolescents with ADHD. This is, to our knowledge, the first genome-wide study presenting candidate genomic regions for dog sociability and inter-species communication. These results advance our understanding of dog domestication and raise the use of the dog as a novel model system for human social disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Unlike their wolf ancestors, dogs have unique social skills for communicating and cooperating with humans. Previously, significant heritabilities for human-directed social behaviors have been found in laboratory beagles.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27685260/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

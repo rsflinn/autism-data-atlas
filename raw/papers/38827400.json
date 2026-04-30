@@ -1,0 +1,35 @@
+{
+  "pmid": "38827400",
+  "doi": "10.1016/j.isci.2024.109967",
+  "title": "Defining cis-regulatory elements and transcription factors that control human cortical interneuron development",
+  "authors": "Chapman G, Determan J, Jetter H, Kaushik K, Prakasam R, Kroll KL",
+  "journal": "iScience",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Although human cortical interneurons (cINs) are a minority population in the cerebral cortex, disruption of interneuron development is a frequent contributor to neurodevelopmental disorders. Here, we utilized a model for deriving cINs from human embryonic stem cells to profile chromatin state changes and generate an atlas of-regulatory elements (CREs) controlling human cIN development. We used these data to define candidate transcription factors (TFs) that may bind these CREs to regulate interneuron progenitor specification. Among these were RFX3 and RFX4, risk genes for autism spectrum disorder (ASD) with uncharacterized roles in human neuronal development. Using RFX3 and RFX4 knockdown models, we demonstrated new requirements for both genes in interneuron progenitor specification, with RFX3 deficiency causing precocious neuronal differentiation while RFX4 deficiency instead resulted in cessation of progenitor cell proliferation. Together, this work both defined central features of-regulatory control and identified new TF requirements for human interneuron development.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "RFX3"
+  ],
+  "summary": "Although human cortical interneurons (cINs) are a minority population in the cerebral cortex, disruption of interneuron development is a frequent contributor to neurodevelopmental disorders. Here, we utilized a model for deriving cINs from human embryonic stem cells to profile chromatin state changes and generate an atlas of-regulatory elements (CREs) controlling human cIN development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38827400/",
+  "mesh_terms": [],
+  "keywords": [
+    "Biological sciences",
+    "Developmental neuroscience",
+    "Epigenetics",
+    "Neuroscience"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

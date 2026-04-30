@@ -1,0 +1,46 @@
+{
+  "pmid": "37036800",
+  "doi": "10.1002/aur.2924",
+  "title": "Efficacy of very early interventions on neurodevelopmental outcomes for infants and toddlers at increased likelihood of or diagnosed with autism: A systematic review and meta-analysis",
+  "authors": "McGlade A, Whittingham K, Barfoot J, Taylor L, Boyd RN",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "The aim of this systematic review was to determine the efficacy of very early interventions for infants and toddlers at increased likelihood of or diagnosed with autism for autism symptomatology, developmental outcomes and/or neurocognitive markers. Eight databases were searched (14 April 2022) with inclusion criteria: (i) RCTs with care as usual (CAU) comparison group, (ii) participants at increased likelihood of or diagnosed with autism and aged <24&#x2009;months corrected age (CA), (iii) parent-mediated and/or clinician directed interventions, and (iv) outcome measures were autism symptomatology, cognition, language, adaptive skills, or neurocognitive assessments (EEG and eye tracking). Quality was assessed using Risk of Bias 2 and GRADE. Nineteen publications from 12 studies reported on 715 infants and toddlers. There was low to moderate certainty evidence that clinician-assessed outcomes did not show significant treatment effects for: autism symptomatology (ADOS CSS: MD -0.08, 95% CI -0.61, 0.44, p&#x2009;=&#x2009;0.75), cognitive outcome (Mullen Scales of Early Learning-Early Learning Composite (MSEL-ELC): SMD 0.05, 95% CI -0.19, 0.29, p&#x2009;=&#x2009;0.67), receptive language (MSEL-Receptive Language: SMD 0.04, 95% CI -0.21, 0.3, p&#x2009;=&#x2009;0.74) or expressive language (MSEL-Expressive Language: SMD 0.06, 95% CI -0.1, 0.23, p&#x2009;=&#x2009;0.45). Neurocognitive outcomes (EEG and eye tracking) were heterogeneous, with inconsistent findings. There is low to moderate certainty evidence that very early interventions have limited impact on neurodevelopmental outcomes by age 3&#x2009;years.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The aim of this systematic review was to determine the efficacy of very early interventions for infants and toddlers at increased likelihood of or diagnosed with autism for autism symptomatology, developmental outcomes and/or neurocognitive markers. Eight databases were searched (14 April 2022) with inclusion criteria: (i) RCTs with care as usual (CAU) comparison group, (ii) participants at increased likelihood of or diagnosed with autism and aged <24&#x2009;months corrected age (CA), (iii) pare",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37036800/",
+  "mesh_terms": [
+    "Humans",
+    "Infant",
+    "Child, Preschool",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Parents",
+    "Language",
+    "Early Intervention, Educational"
+  ],
+  "keywords": [
+    "behavioral intervention",
+    "biomarker",
+    "developmental psychology",
+    "early intervention",
+    "infants"
+  ],
+  "article_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

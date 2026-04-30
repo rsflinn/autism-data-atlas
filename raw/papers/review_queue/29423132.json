@@ -1,0 +1,50 @@
+{
+  "pmid": "29423132",
+  "doi": "10.1186/s13229-018-0191-y",
+  "title": "Significant transcriptional changes in 15q duplication but not Angelman syndrome deletion stem cell-derived neurons",
+  "authors": "Urraca N, Hope K, Victor AK, Belgard TG, Memon R, Goorha S, et al.",
+  "journal": "Molecular autism",
+  "date": "2018-01",
+  "source": "pubmed",
+  "abstract": "The inability to analyze gene expression in living neurons from Angelman (AS) and Duplication 15q (Dup15q) syndrome subjects has limited our understanding of these disorders at the molecular level.\n\nHere, we use dental pulp stem cells (DPSC) from AS deletion, 15q Duplication, and neurotypical control subjects for whole transcriptome analysis. We identified 20 genes unique to AS neurons, 120 genes unique to 15q duplication, and 3 shared transcripts that were differentially expressed in DPSC neurons vs controls.\n\nCopy number correlated with gene expression for most genes across the 15q11.2-q13.1 critical region. Two thirds of the genes differentially expressed in 15q duplication neurons were downregulated compared to controls including several transcription factors, while in AS differential expression was restricted primarily to the 15q region. Here, we show significant downregulation of the transcription factorsandin neurons from 15q duplication, but not AS deletion subjects suggesting that disruptions in transcriptional regulation may be a driving factor in the autism phenotype in Dup15q syndrome. Downstream analysis revealed downregulation of the ASD associated genesand, both genes with FOXO1 binding sites. Genes upregulated in either Dup15q cortex or idiopathic ASD cortex both overlapped significantly with the most upregulated genes in Dup15q DPSC-derived neurons.\n\nFinding a significant increase in bothandin Dup15q neurons and significant decrease in these two genes in AS deletion neurons may explain differences between AS deletion class andspecific classes of AS mutation whereis expressed at normal levels. Also, we identified an enrichment for FOXO1-regulated transcripts in Dup15q neurons including ASD-associated genesandindicating a possible connection between this syndromic form of ASD and idiopathic cases.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "The inability to analyze gene expression in living neurons from Angelman (AS) and Duplication 15q (Dup15q) syndrome subjects has limited our understanding of these disorders at the molecular level. Here, we use dental pulp stem cells (DPSC) from AS deletion, 15q Duplication, and neurotypical control subjects for whole transcriptome analysis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29423132/",
+  "mesh_terms": [
+    "Angelman Syndrome",
+    "Basic Helix-Loop-Helix Proteins",
+    "Cells, Cultured",
+    "Chromosome Deletion",
+    "Chromosomes, Human, Pair 15",
+    "Dental Pulp",
+    "Forkhead Box Protein O1",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Neural Stem Cells",
+    "Nuclear Receptor Subfamily 1, Group F, Member 1",
+    "Transcriptome",
+    "Trisomy",
+    "Ubiquitin-Protein Ligases"
+  ],
+  "keywords": [
+    "Autism",
+    "Genomic disorders",
+    "Neurogenetic syndrome",
+    "Stem cells",
+    "mRNAseq"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

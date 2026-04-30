@@ -1,0 +1,39 @@
+{
+  "pmid": "25193140",
+  "doi": "10.1007/s10803-014-2225-4",
+  "title": "Autism biomarkers: challenges, pitfalls and possibilities",
+  "authors": "Anderson GM",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2015-04",
+  "source": "pubmed",
+  "abstract": "Network perspectives, in their emphasis on components and their interactions, might afford the best approach to the complexities of the ASD realm. Categorical approaches are unlikely to be fruitful as one should not expect to find a single or even predominant underlying cause of autism behavior across individuals. It is possible that the complex, highly interactive, heterogeneous and individualistic nature of the autism realm is intractable in terms of identifying clinically useful biomarker tests. It is hopeful from an emergenic perspective that small corrective changes in a single component of a deleterious network/configuration might have large beneficial consequences on developmental trajectories and in later treatment. It is suggested that the relationship between ASD and intellectual disability might be fundamentally different in single-gene versus nonsyndromic ASD. It is strongly stated that available biomarker \"tests\" for autism/ASD will do more harm than good. Finally, the serotonin-melatonin-oxidative stress-placental intersection might be an especially fruitful area of biological investigation.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Network perspectives, in their emphasis on components and their interactions, might afford the best approach to the complexities of the ASD realm. Categorical approaches are unlikely to be fruitful as one should not expect to find a single or even predominant underlying cause of autism behavior across individuals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25193140/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Biomarkers",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Humans",
+    "Oxidative Stress",
+    "Oxytocin",
+    "Serotonin"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

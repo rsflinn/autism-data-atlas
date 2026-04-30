@@ -1,0 +1,49 @@
+{
+  "pmid": "41128616",
+  "doi": "10.1021/acsnano.5c10672",
+  "title": "Induced Pluripotent Stem Cell-Derived Extracellular Vesicles Prevent Neural Stem Cell Senescence to Promote Cognitive Recovery after Traumatic Brain Injury",
+  "authors": "Chen T, Zhang Q, Zhang L, Ai Y, Chen Z, Liu J, et al.",
+  "journal": "ACS nano",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Hippocampal neural stem cells (NSCs) have attracted significant attention due to their essential role in maintaining cognitive functions, such as memory and spatial orientation through neurogenesis. Cognitive impairment is a common and debilitating complication of traumatic brain injury (TBI), yet its underlying mechanisms remain poorly understood and effective clinical interventions are lacking. In this study, we observed persistent cognitive deficits in a mouse model of TBI, a phenomenon that has been widely documented in previous studies, and importantly, we found that these impairments were closely associated with increased hippocampal NSCs (H-NSCs) senescence. To investigate the cause of NSCs' senescence, we analyzed cerebrospinal fluid samples from TBI patients and hippocampal tissues from TBI mice and identified persistently elevated levels of IL-1&#x3b2; post TBI. In vitro, IL-1&#x3b2; successfully induced NSCs' senescence and suppressed neurogenesis. Induced pluripotent stem cell-derived small extracellular vesicles (iPSC-sEVs) reversed IL-1&#x3b2;-induced senescence and restored neurogenic potential in H-NSCs. In vivo, iPSC-sEVs alleviated cognitive deficits and H-NSC senescence after TBI. Integrated proteomic and NSC cell transcriptomic analyses revealed that the &#x3b2;-catenin/ID2/CDKN2B (p15) signaling axis plays a critical role in regulating H-NSC senescence, which was further validated through inhibitor experiments. In summary, our findings demonstrate that iPSC-sEVs attenuate NSC senescence and improve cognitive function following TBI via modulation of the &#x3b2;-catenin/ID2/CDKN2B (p15) axis.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Hippocampal neural stem cells (NSCs) have attracted significant attention due to their essential role in maintaining cognitive functions, such as memory and spatial orientation through neurogenesis. Cognitive impairment is a common and debilitating complication of traumatic brain injury (TBI), yet its underlying mechanisms remain poorly understood and effective clinical interventions are lacking.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41128616/",
+  "mesh_terms": [
+    "Brain Injuries, Traumatic",
+    "Neural Stem Cells",
+    "Extracellular Vesicles",
+    "Animals",
+    "Cellular Senescence",
+    "Mice",
+    "Induced Pluripotent Stem Cells",
+    "Humans",
+    "Male",
+    "Interleukin-1beta",
+    "Hippocampus",
+    "Mice, Inbred C57BL",
+    "Cognition",
+    "Neurogenesis"
+  ],
+  "keywords": [
+    "cellular senescence",
+    "cognitive dysfunction",
+    "iPSC-sEVs",
+    "neural stem cell",
+    "traumatic brain injury"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

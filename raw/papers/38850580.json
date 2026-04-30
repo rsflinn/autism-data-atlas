@@ -1,0 +1,49 @@
+{
+  "pmid": "38850580",
+  "doi": "10.1016/j.jpsychires.2024.05.052",
+  "title": "The relationship between hair cortisol concentration and autism diagnosis",
+  "authors": "Lin PI, John JR, Masi A, Ong LK, Mathew NE, Moni MA, et al.",
+  "journal": "Journal of psychiatric research",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Autistic children are prone to experience heightened levels of distress and physiological reactivity to a range of sensory, social, and emotional stimuli. In line with this, multiple studies have demonstrated that autistic children have higher acute cortisol stress responses to adverse or threatening stimuli and altered cortisol awakening responses. However, few studies have examined whether this sensitivity may relate to heightened levels of chronic stress and persistently elevated hypothalamic-pituitary-adrenal (HPA) axis activity. The measurement of cortisol accumulation in hair is considered a non-invasive biomarker of chronic stress and has been associated with several childhood diseases. Here, we investigated whether hair cortisol concentration in a large sample of autistic children differed from non-autistic children, and after accounting for a range of child, parental and family-level characteristics.\n\nHair cortisol concentration was measured in 307 autistic children and 282 non-autistic controls aged between 2 and 17 years recruited from four Australian states who participated in providing hair samples and demographic data to the Australian Autism Biobank. Independent samples t-test or one-way analysis of variance (ANOVA) were conducted to determine significant differences in the mean hair cortisol concentration (pg/mg) between potential covariates. Primary analysis included multivariable regression modelling of the collapsed sample to identify variables that were significantly associated with hair cortisol concentration after controlling for covariates. We also accounted for the potential interaction of multiple biological (e.g., age, sex, BMI) and psychosocial characteristics at the level of the child, the mother and the father, and the family unit.\n\nOur findings suggest that the diagnosis of autism was not a significant predictor of chronic stress, as measured by hair cortisol concentration. However, findings of the multivariable regression analysis showed that key factors such as area of residence (Queensland vs Victorian state of residence) and decrease in child's age were significantly associated with higher hair cortisol concentration whereas lower family income was significantly associated with higher hair cortisol concentration.\n\nTo our knowledge, this is the first study to show that socioeconomic factors such as family annual income affect hair cortisol status in autistic children, indicating that the psychosocial environment may be a potential mediator for chronic stress in autistic children just as it has been demonstrated in non-autistic children.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autistic children are prone to experience heightened levels of distress and physiological reactivity to a range of sensory, social, and emotional stimuli. In line with this, multiple studies have demonstrated that autistic children have higher acute cortisol stress responses to adverse or threatening stimuli and altered cortisol awakening responses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38850580/",
+  "mesh_terms": [
+    "Humans",
+    "Hydrocortisone",
+    "Hair",
+    "Male",
+    "Female",
+    "Child",
+    "Child, Preschool",
+    "Adolescent",
+    "Autistic Disorder",
+    "Stress, Psychological",
+    "Australia",
+    "Biomarkers"
+  ],
+  "keywords": [
+    "Age",
+    "Autism",
+    "Chronic stress",
+    "Family income",
+    "Hair cortisol",
+    "Residence"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

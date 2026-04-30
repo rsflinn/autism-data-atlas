@@ -1,0 +1,41 @@
+{
+  "pmid": "19325170",
+  "doi": "10.1177/1073858409333075",
+  "title": "The state of synapses in fragile X syndrome",
+  "authors": "Pfeiffer BE, Huber KM",
+  "journal": "The Neuroscientist : a review journal bringing neurobiology, neurology and psychiatry",
+  "date": "2009-03",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common inherited form of mental retardation and a leading genetic cause of autism. There is increasing evidence in both FXS and other forms of autism that alterations in synapse number, structure, and function are associated and contribute to these prevalent diseases. FXS is caused by loss of function of the Fmr1 gene, which encodes the RNA binding protein, fragile X mental retardation protein (FMRP). Therefore, FXS is a tractable model to understand synaptic dysfunction in cognitive disorders. FMRP is present at synapses where it associates with mRNA and polyribosomes. Accumulating evidence finds roles for FMRP in synapse development, elimination, and plasticity. Here, the authors review the synaptic changes observed in FXS and try to relate these changes to what is known about the molecular function of FMRP. Recent advances in the understanding of the molecular and synaptic function of FMRP, as well as the consequences of its loss, have led to the development of novel therapeutic strategies for FXS.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the most common inherited form of mental retardation and a leading genetic cause of autism. There is increasing evidence in both FXS and other forms of autism that alterations in synapse number, structure, and function are associated and contribute to these prevalent diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19325170/",
+  "mesh_terms": [
+    "Brain",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Nerve Tissue Proteins",
+    "Neuronal Plasticity",
+    "Protein Transport",
+    "RNA, Messenger",
+    "Receptors, Metabotropic Glutamate",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

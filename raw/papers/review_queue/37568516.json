@@ -1,0 +1,40 @@
+{
+  "pmid": "37568516",
+  "doi": "10.3390/jcm12155114",
+  "title": "Trofinetide for Rett Syndrome: Highlights on the Development and Related Inventions of the First USFDA-Approved Treatment for Rare Pediatric Unmet Medical Need",
+  "authors": "Hudu SA, Elmigdadi F, Qtaitat AA, Almehmadi M, Alsaiari AA, Allahyani M, et al.",
+  "journal": "Journal of clinical medicine",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a rare disability causing female-oriented pediatric neurodevelopmental unmet medical need. RTT was recognized in 1966. However, over the past 56 years, the United States Food and Drug Administration (USFDA) has authorized no effective treatment for RTT. Recently, Trofinetide was approved by the USFDA on 10 March 2023 as the first RTT treatment. This article underlines the pharmaceutical advancement, patent literature, and prospects of Trofinetide. The data for this study were gathered from the PubMed database, authentic websites (Acadia Pharmaceuticals, Neuren Pharmaceuticals, and USFDA), and free patent databases. Trofinetide was first disclosed by Neuren Pharmaceuticals in 2000 as a methyl group containing analog of the naturally occurring neuroprotective tripeptide called glycine-proline-glutamate (GPE). The joint efforts of Acadia Pharmaceuticals and Neuren Pharmaceuticals have developed Trofinetide. The mechanism of action of Trofinetide is not yet well established. However, it is supposed to improve neuronal morphology and synaptic functioning. The patent literature revealed a handful of inventions related to Trofinetide, providing excellent and unexplored broad research possibilities with Trofinetide. The development of innovative Trofinetide-based molecules, combinations of Trofinetide, patient-compliant drug formulations, and precise MECP2-mutation-related personalized medicines are foreseeable. Trofinetide is in clinical trials for some neurodevelopmental disorders (NDDs), including treating Fragile X syndrome (FXS). It is expected that Trofinetide may be approved for treating FXS in the future. The USFDA-approval of Trofinetide is one of the important milestones for RTT therapy and is the beginning of a new era for the therapy of RTT, FXS, autism spectrum disorder (ASD), brain injury, stroke, and other NDDs.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is a rare disability causing female-oriented pediatric neurodevelopmental unmet medical need. RTT was recognized in 1966.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37568516/",
+  "mesh_terms": [],
+  "keywords": [
+    "Daybue",
+    "NNZ-2566",
+    "Rett syndrome",
+    "Trofinetide",
+    "development",
+    "patent",
+    "prospects",
+    "rare diseases"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

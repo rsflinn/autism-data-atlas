@@ -1,0 +1,47 @@
+{
+  "pmid": "39638232",
+  "doi": "10.1016/j.neuroscience.2024.11.081",
+  "title": "Multifaceted roles of DLG3/SAP102 in neurophysiology, neurological disorders and tumorigenesis",
+  "authors": "Gidado KI, Adeshakin FO, Rabiu L, Zhang Z, Zhang G, Wan X",
+  "journal": "Neuroscience",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "DLG3, also known as Synapse-associated protein 102 (SAP102), is essential for the organization and plasticity of excitatory synapses within the central nervous system (CNS). It plays a critical role in clustering and moving key components necessary for learning and memory processes. Mutations in the DLG3 gene, which result in truncated SAP102 proteins, have been associated with a range of neurological disorders, including X-linked intellectual disability (XLID), autism spectrum disorders (ASD), and schizophrenia, all of which can disrupt synaptic structure and cognitive functions. Abnormal SAP102 expression has also been linked to various psychiatric and neurodegenerative conditions, such as bipolar disorder, major depression, and Alzheimer's disease. Recent studies suggest that SAP102 influences cancer development and metastasis by regulating multiple signaling pathways, including the PI3K/AKT axis and the Hippo pathway. Moreover, SAP102 has been demonstrated to regulate tumor-induced bone pain through activating NMDA receptors. These findings highlight SAP102 as a promising therapeutic target for both neurological disorders and cancer. Therefore, further investigation into the regulatory roles of SAP102 in neural development and disease may lead to novel therapeutic approaches for treating synaptic disorders and managing cancer progression.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "DLG3, also known as Synapse-associated protein 102 (SAP102), is essential for the organization and plasticity of excitatory synapses within the central nervous system (CNS). It plays a critical role in clustering and moving key components necessary for learning and memory processes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39638232/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Nervous System Diseases",
+    "Carcinogenesis",
+    "Neoplasms",
+    "Membrane Proteins",
+    "Signal Transduction",
+    "Nerve Tissue Proteins",
+    "Synapses",
+    "Nuclear Proteins",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "DLG3/SAP102",
+    "Hyperalgesia",
+    "Neurological disorders",
+    "Physiological roles",
+    "Tumorigenesis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

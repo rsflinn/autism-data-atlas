@@ -1,0 +1,43 @@
+{
+  "pmid": "36858107",
+  "doi": "10.1016/j.biopsycho.2023.108530",
+  "title": "Polygenic risk score for five major psychiatric disorders associated with volume of distinct brain regions in the general population",
+  "authors": "Wang Z, Liu C, Dong Q, Xue G, Chen C",
+  "journal": "Biological psychology",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Risk genes and abnormal brain structural indices of psychiatric disorders have been extensively studied. However, whether genetic risk influences brain structure in the general population has been rarely studied. The current study enrolled 483 young Chinese adults, calculated their polygenic risk scores (PRS) for psychiatric disorders based on Psychiatric Genomics Consortium GWAS results, and examined the association between PRSs and brain volume. We found that PRSs were associated with the volume of many brain regions, with differences between PRS for different disorder, calculated at different threshold, and calculated using European or East Asian ancestry. Of them, the PRS for Major Depressive Disorder based on European ancestry was positively associated with right temporal gyrus; the PRS for schizophrenia based on East Asian ancestry was negatively associated with right precentral and postcentral gyrus; the PRS for schizophrenia based on European ancestry was positively associated with right superior temporal gyrus. All these brain regions are critical for corresponding disorders. However, no significant associations were found between PRS for Autism Spectrum Disorder / Bipolar Disorder and brain volume; and the association between PRS for Attention Deficit Hyperactivity Disorder at different thresholds and brain volume was inconsistent. These findings suggest distinct brain mechanisms underlying different psychiatric disorders.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Risk genes and abnormal brain structural indices of psychiatric disorders have been extensively studied. However, whether genetic risk influences brain structure in the general population has been rarely studied.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36858107/",
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Major Depressive Disorder",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Risk Factors",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Genome-Wide Association Study",
+    "Genetic Predisposition to Disease"
+  ],
+  "keywords": [
+    "Brain volume",
+    "Polygenic risk score",
+    "Psychiatric disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

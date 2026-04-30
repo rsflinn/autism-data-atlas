@@ -1,0 +1,47 @@
+{
+  "pmid": "41350900",
+  "doi": "10.1186/s40478-025-02090-0",
+  "title": "Complement pathway dysregulation and astrocyte alterations in Down syndrome: evidence from postmortem brain tissue and iPSC-derived astrocytes",
+  "authors": "Teles E Silva AL, Prado de Oliveira PH, Yokota-Moreno BY, da Silva Fausto J, Avila JP, Nakaya HI, et al.",
+  "journal": "Acta neuropathologica communications",
+  "date": "2025-12",
+  "source": "pubmed",
+  "abstract": "Down syndrome (DS), or trisomy 21 (T21), resulting from an extra copy of chromosome 21, occurs in 1 in 700-1,000 live births. Neuroinflammation is increasingly recognized as a critical contributor to DS neuropathology, although its underlying drivers remain unclear.\n\nIn this study, we analyzed available single-nucleus RNA sequencing (snRNAseq) data from postmortem cortical brains of individuals with DS and controls aged 36 years or younger, focusing specifically on astrocyte-enriched clusters. This analysis revealed significant alterations in complement system gene sets. To further investigate these findings, we employed a human in vitro model using astrocytes differentiated from urine-derived induced pluripotent stem cells (iPSCs) obtained from individuals with DS (T21-iPSCs). To our knowledge, this is the first study to evaluate both gene expression and protein levels of secreted complement components in T21-iPSC-derived astrocytes.\n\nsnRNAseq re-analyzes identified an upregulation of complement system components, including C1R, C1S, C2, C4A, C4B, C5, C5AR1, C6, C8, CD59, CFI, and FCN2, and of glutamate transporters SLC1A3 (EAAT1/GLAST-1) and SLC1A2 (EAAT2/GLT-1) in DS astrocytes. Results from the in vitro model revealed distinct phenotypic changes in T21-iPSC-derived astrocytes, including enlarged cell and nuclear sizes, and enhanced glutamate uptake. Elevated levels of C5aR1 and MASP1 transcripts, as well as increased C4 protein secretion in culture supernatants, suggest dysregulation of the complement system in DS.\n\nThese findings highlight the potential contribution of astrocyte-driven complement signaling to DS neuropathogenesis. While further validation is needed, this work points to a candidate pathway that may serve as a target for future therapeutic investigation to improve the quality of life for individuals with DS.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Down syndrome (DS), or trisomy 21 (T21), resulting from an extra copy of chromosome 21, occurs in 1 in 700-1,000 live births. Neuroinflammation is increasingly recognized as a critical contributor to DS neuropathology, although its underlying drivers remain unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41350900/",
+  "mesh_terms": [
+    "Humans",
+    "Astrocytes",
+    "Down Syndrome",
+    "Induced Pluripotent Stem Cells",
+    "Complement System Proteins",
+    "Adult",
+    "Female",
+    "Brain",
+    "Male",
+    "Autopsy",
+    "Cells, Cultured",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Astrocytes",
+    "Complement system",
+    "Down syndrome",
+    "Induced pluripotent stem cells",
+    "Trisomy 21"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

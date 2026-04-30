@@ -1,0 +1,41 @@
+{
+  "pmid": "26491539",
+  "doi": "10.1186/s13229-015-0048-6",
+  "title": "CRISPR/Cas9-mediated heterozygous knockout of the autism gene CHD8 and characterization of its transcriptional networks in neurodevelopment",
+  "authors": "Wang P, Lin M, Pedrosa E, Hrabovsky A, Zhang Z, Guo W, et al.",
+  "journal": "Molecular autism",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Disruptive mutation in the CHD8 gene is one of the top genetic risk factors in autism spectrum disorders (ASDs). Previous analyses of genome-wide CHD8 occupancy and reduced expression of CHD8 by shRNA knockdown in committed neural cells showed that CHD8 regulates multiple cell processes critical for neural functions, and its targets are enriched with ASD-associated genes.\n\nTo further understand the molecular links between CHD8 functions and ASD, we have applied the CRISPR/Cas9 technology to knockout one copy of CHD8 in induced pluripotent stem cells (iPSCs) to better mimic the loss-of-function status that would exist in the developing human embryo prior to neuronal differentiation. We then carried out transcriptomic and bioinformatic analyses of neural progenitors and neurons derived from the CHD8 mutant iPSCs.\n\nTranscriptome profiling revealed that CHD8 hemizygosity (CHD8 (+/-)) affected the expression of several thousands of genes in neural progenitors and early differentiating neurons. The differentially expressed genes were enriched for functions of neural development, &#x3b2;-catenin/Wnt signaling, extracellular matrix, and skeletal system development. They also exhibited significant overlap with genes previously associated with autism and schizophrenia, as well as the downstream transcriptional targets of multiple genes implicated in autism. Providing important insight into how CHD8 mutations might give rise to macrocephaly, we found that seven of the twelve genes associated with human brain volume or head size by genome-wide association studies (e.g., HGMA2) were dysregulated in CHD8 (+/-) neural progenitors or neurons.\n\nWe have established a renewable source of CHD8 (+/-) iPSC lines that would be valuable for investigating the molecular and cellular functions of CHD8. Transcriptomic profiling showed that CHD8 regulates multiple genes implicated in ASD pathogenesis and genes associated with brain volume.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Disruptive mutation in the CHD8 gene is one of the top genetic risk factors in autism spectrum disorders (ASDs). Previous analyses of genome-wide CHD8 occupancy and reduced expression of CHD8 by shRNA knockdown in committed neural cells showed that CHD8 regulates multiple cell processes critical for neural functions, and its targets are enriched with ASD-associated genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26491539/",
+  "mesh_terms": [],
+  "keywords": [
+    "ASD",
+    "Autism",
+    "CHD8",
+    "CRISPR/Cas9",
+    "Induced pluripotent stem cells",
+    "Macrocephaly",
+    "Neurodevelopment",
+    "RNA-seq",
+    "Schizophrenia",
+    "iPSC"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

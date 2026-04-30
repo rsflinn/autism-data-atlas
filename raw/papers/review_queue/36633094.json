@@ -1,0 +1,48 @@
+{
+  "pmid": "36633094",
+  "doi": "10.1111/epi.17507",
+  "title": "Epilepsy severity mediates association between mutation type and ADHD symptoms in tuberous sclerosis complex",
+  "authors": "Tye C, McEwen FS, Liang H, Woodhouse E, Underwood L, Shephard E, et al.",
+  "journal": "Epilepsia",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "The association between attention-deficit/hyperactivity disorder (ADHD) and tuberous sclerosis complex (TSC) is widely reported, with support for the role of epilepsy, yet the mechanisms underlying the association across development are unclear. The Tuberous Sclerosis 2000 Study is a prospective longitudinal study of TSC. In Phase 1 of the study, baseline measures of epilepsy, cortical tuber load, and mutation were obtained with 125 children ages 0-16&#x2009;years. In Phase 2, at an average of 8&#x2009;years later, ADHD symptoms were measured for 81 of the participants. Structural equation modeling revealed an indirect pathway from genetic mutation, to cortical tuber load, to epileptic spasm severity in infancy, to ADHD symptoms in middle childhood and adolescence, in addition to a pathway linking current seizure severity to ADHD symptoms. Findings were retained when intelligence quotient (IQ) was entered as a correlated factor. The findings support a cascading developmental pathway to ADHD symptoms mediated by early-onset and severe epilepsy in the first 2&#x2009;years of life. This warrants detailed investigation of seizure characteristics and cognitive and behavioral sequelae associated with ADHD from early in life, to further the understanding of the association between ADHD and early-onset epilepsy across syndromic and non-syndromic populations.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "The association between attention-deficit/hyperactivity disorder (ADHD) and tuberous sclerosis complex (TSC) is widely reported, with support for the role of epilepsy, yet the mechanisms underlying the association across development are unclear. The Tuberous Sclerosis 2000 Study is a prospective longitudinal study of TSC.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36633094/",
+  "mesh_terms": [
+    "Adolescent",
+    "Child",
+    "Humans",
+    "Infant, Newborn",
+    "Infant",
+    "Child, Preschool",
+    "Tuberous Sclerosis",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Longitudinal Studies",
+    "Prospective Studies",
+    "Epilepsy",
+    "Seizures",
+    "Mutation"
+  ],
+  "keywords": [
+    "ADHD",
+    "epilepsy",
+    "longitudinal",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

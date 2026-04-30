@@ -1,0 +1,43 @@
+{
+  "pmid": "35413445",
+  "doi": "10.1016/j.neuroimage.2022.119171",
+  "title": "Insights from an autism imaging biomarker challenge: Promises and threats to biomarker discovery",
+  "authors": "Traut N, Heuer K, Lema&#xee;tre G, Beggiato A, Germanaud D, Elmaleh M, et al.",
+  "journal": "NeuroImage",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "MRI has been extensively used to identify anatomical and functional differences in Autism Spectrum Disorder (ASD). Yet, many of these findings have proven difficult to replicate because studies rely on small cohorts and are built on many complex, undisclosed, analytic choices. We conducted an international challenge to predict ASD diagnosis from MRI data, where we provided preprocessed anatomical and functional MRI data from > 2,000 individuals. Evaluation of the predictions was rigorously blinded. 146 challengers submitted prediction algorithms, which were evaluated at the end of the challenge using unseen data and an additional acquisition site. On the best algorithms, we studied the importance of MRI modalities, brain regions, and sample size. We found evidence that MRI could predict ASD diagnosis: the 10 best algorithms reliably predicted diagnosis with AUC&#x223c;0.80 - far superior to what can be currently obtained using genotyping data in cohorts 20-times larger. We observed that functional MRI was more important for prediction than anatomical MRI, and that increasing sample size steadily increased prediction accuracy, providing an efficient strategy to improve biomarkers. We also observed that despite a strong incentive to generalise to unseen data, model development on a given dataset faces the risk of overfitting: performing well in cross-validation on the data at hand, but not generalising. Finally, we were able to predict ASD diagnosis on an external sample added after the end of the challenge (EU-AIMS), although with a lower prediction accuracy (AUC=0.72). This indicates that despite being based on a large multisite cohort, our challenge still produced biomarkers fragile in the face of dataset shifts.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "MRI has been extensively used to identify anatomical and functional differences in Autism Spectrum Disorder (ASD). Yet, many of these findings have proven difficult to replicate because studies rely on small cohorts and are built on many complex, undisclosed, analytic choices.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35413445/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Brain",
+    "Humans",
+    "Magnetic Resonance Imaging"
+  ],
+  "keywords": [
+    "Autism",
+    "benchmark",
+    "diagnostic",
+    "machine learning",
+    "overfit",
+    "prediction"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

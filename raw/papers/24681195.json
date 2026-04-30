@@ -1,0 +1,53 @@
+{
+  "pmid": "24681195",
+  "doi": "10.1016/j.pnpbp.2014.03.007",
+  "title": "Anxiety, hyperactivity and stereotypy in a zebrafish model of fragile X syndrome and autism spectrum disorder",
+  "authors": "Kim L, He L, Maaswinkel H, Zhu L, Sirotkin H, Weng W",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2014-03",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common form of inherited intellectual disability and is caused by a loss of function of the fragile X mental retardation (fmr1) gene. Animal fmr1-knockout (KO) models are not only of interest for the study of FXS, but have also important implications for our understanding of autism spectrum disorder (ASD). Here we report the behavioral changes in fmr1-knockout zebrafish in an open field with two white and two transparent walls. The neophobic responses that in wild-type (WT) zebrafish normally occur during the first 5-10 min in an unfamiliar environment (such as freezing, hypo-activity and preferences for the bottom and opaque walls of the tank), were weakened in fmr1 mutants, suggesting a reduction of novelty-induced anxiety. The fmr1-KO zebrafish showed somewhat increased vertical activity beyond the 'neophobic phase', but no overall hyperactivity. The mutants demonstrated a clear habituation-independent preference for the transparent walls. Whether this was attributable to altered spatial information processing or to reduced avoidance of open spaces is discussed. Finally, since restrictive repetitive (or stereotypical) behaviors are frequently present in FXS and ASD patients, we analyzed relative turning angles, directional and preferential turning ratios and performed frequency-domain analysis. However, no indications of abnormal movement patterning were detected. The possible reasons for the absence of stereotypical behaviors are discussed in terms of behavioral endpoint selection and of eliciting conditions. Overall, our findings are consistent with those reported in fmr1-KO mice and suggest that further analysis of the fmr1-KO zebrafish model has potential to deepen our understanding of FXS and ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the most common form of inherited intellectual disability and is caused by a loss of function of the fragile X mental retardation (fmr1) gene. Animal fmr1-knockout (KO) models are not only of interest for the study of FXS, but have also important implications for our understanding of autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24681195/",
+  "mesh_terms": [
+    "Analysis of Variance",
+    "Animals",
+    "Animals, Genetically Modified",
+    "Anxiety",
+    "Child Development Disorders, Pervasive",
+    "Disease Models, Animal",
+    "Exploratory Behavior",
+    "Female",
+    "Fragile X Syndrome",
+    "Freezing Reaction, Cataleptic",
+    "Gene Knockout Techniques",
+    "Male",
+    "Motor Activity",
+    "RNA-Binding Proteins",
+    "Zebrafish",
+    "Zebrafish Proteins",
+    "Fragile X Messenger Ribonucleoprotein 1"
+  ],
+  "keywords": [
+    "Anxiety",
+    "Autism spectrum disorder",
+    "Fragile X syndrome",
+    "Hyperactivity",
+    "Stereotypy",
+    "Zebrafish"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

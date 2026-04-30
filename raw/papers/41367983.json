@@ -1,0 +1,34 @@
+{
+  "pmid": "41367983",
+  "doi": "10.1016/j.jaacop.2025.04.001",
+  "title": "Systematic Review and Meta-Analysis: Phenotypic Correlates of the Autism Polygenic Score",
+  "authors": "de Wit MM, Morgan MJ, Libedinsky I, Austerberry C, Begeer S, Abdellaoui A, et al.",
+  "journal": "JAACAP open",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Genetic factors play a substantial role in the etiology of autism and its co-occurrence with other conditions and traits. The primary objective of this study was to clarify the associations between the autism polygenic score and autism diagnosis, autistic traits, and related behavioral and neurobiological traits.\n\nPeer-reviewed studies written in English reporting univariate associations were included. PubMed, Web of Science, PsycINFO, and Scopus were systematically searched on November 2, 2022, and January 6, 2023. The quality of included studies was assessed using the QUIPS tool, systematic review with best-evidence synthesis was applied, and meta-analyses were performed if >5 studies were conducted on similar phenotypes.\n\nOf 72 eligible studies (pooled N = 720,087), 61 received high-quality ratings. Meta-analysis of 9 studies revealed strong evidence for an association between the autism polygenic score and autism diagnosis (meta-analytic= 0.158 [95% CI 0.067-0.249]). The systematic review revealed strong evidence for an association with social behavior, depression, and motor skills and weak evidence for physical activity. Associations with other outcomes were inconclusive, and effect sizes were generally small (median= 0.03).\n\nThe autism polygenic score is consistently associated with autism diagnosis and a small number of co-occurring traits. Associations with many other traits and conditions are not significant. Due to its inconsistent associations and limited generalizability, it must be emphasized that the autism polygenic score does not have clinical utility and should be applied only for scientific purposes, with improvements needed for a deeper understanding of the polygenic underpinnings of autism.\n\nOne or more of the authors of this paper self-identifies as a member of one or more historically underrepresented racial and/or ethnic groups in science. One or more of the authors of this paper self-identifies as a member of one or more historically underrepresented sexual and/or gender groups in science. We actively worked to promote sex and gender balance in our author group. While citing references scientifically relevant for this work, we also actively worked to promote sex and gender balance in our reference list. The author list of this paper includes contributors from the location and/or community where the research was conducted who participated in the data collection, design, analysis, and/or interpretation of the work.\n\nThe Association Between Polygenic Scores for Autism Spectrum Disorder and Autism Spectrum Disorder and Associated Traits: A Systematic Review and Meta-analysis; https://www.crd.york.ac.uk/PROSPERO/view/CRD42022307993.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Genetic factors play a substantial role in the etiology of autism and its co-occurrence with other conditions and traits. The primary objective of this study was to clarify the associations between the autism polygenic score and autism diagnosis, autistic traits, and related behavioral and neurobiological traits.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41367983/",
+  "mesh_terms": [],
+  "keywords": [
+    "autism spectrum disorder",
+    "autistic traits",
+    "genome-wide association study (GWAS)",
+    "mental health",
+    "polygenic index"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

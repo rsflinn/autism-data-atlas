@@ -1,0 +1,47 @@
+{
+  "pmid": "29738885",
+  "doi": "10.1016/j.nbd.2018.05.001",
+  "title": "Regulation of seizure-induced MeCP2 Ser421 phosphorylation in the developing brain",
+  "authors": "Rosenberg EC, Lippman-Bell JJ, Handy M, Soldan SS, Rakhade S, Hilario-Gomez C, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "Neonatal seizures disrupt normal synaptic maturation and often lead to later-life epilepsy and cognitive deficits. During early life, the brain exhibits heightened synaptic plasticity, in part due to a developmental overabundance of Ca1.2 L-type voltage gated calcium (Ca) channels (LT-VGCCs) and Ca-permeable AMPARs (CP-AMPARs) lacking GluA2 subunits. We hypothesized that early-life seizures overactivate these channels, in turn dysregulating Ca-dependent signaling pathways including that of methyl CPG binding protein 2 (MeCP2), a transcription factor implicated in the autism spectrum disorder (ASD) Rett Syndrome. Here, we show that in vivo hypoxia-induced seizures (HS) in postnatal day (P)10 rats acutely induced phosphorylation of the neuronal-specific target of activity-dependent MeCP2 phosphorylation, S421, as well as its upstream activator CaMKII T286. We next identified mechanisms by which activity-dependent Cainflux induced MeCP2 phosphorylation using in vitro cortical and hippocampal neuronal cultures at embryonic day (E)18&#x202f;+&#x202f;10&#x202f;days in vitro (DIV). In contrast to the prevalent role of NMDARs in the adult brain, we found that both CP-AMPARs and LT-VGCCs mediated MeCP2 S421 and CaMKII T286 phosphorylation induced by kainic acid (KA) or high potassium chloride (KCl) stimulation. Furthermore, in vivo post-seizure treatment with the broad-spectrum AMPAR antagonist NBQX, the CP-AMPAR blocker IEM-1460, or the LT-VGCC antagonist nimodipine blocked seizure-induced MeCP2 phosphorylation. Collectively, these results demonstrate that early-life seizures dysregulate critical activity-dependent developmental signaling pathways, in part via CP-AMPAR and LT-VGCC activation, providing novel age-specific therapeutic targets for convergent pathways underlying epilepsy and ASDs.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neonatal seizures disrupt normal synaptic maturation and often lead to later-life epilepsy and cognitive deficits. During early life, the brain exhibits heightened synaptic plasticity, in part due to a developmental overabundance of Ca1.2 L-type voltage gated calcium (Ca) channels (LT-VGCCs) and Ca-permeable AMPARs (CP-AMPARs) lacking GluA2 subunits.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29738885/",
+  "mesh_terms": [
+    "Animals",
+    "Cells, Cultured",
+    "Cerebral Cortex",
+    "Hippocampus",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Phosphorylation",
+    "Rats",
+    "Seizures",
+    "Serine"
+  ],
+  "keywords": [
+    "AMPARs",
+    "Autism spectrum disorder",
+    "LT-VGCCs",
+    "MeCP2",
+    "Rett Syndrome",
+    "Seizure"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "pmid": "29162653",
+  "doi": "10.1101/mcs.a002097",
+  "title": "De novo variants inare associated with hypotonia, developmental delay, intellectual disability, and autism",
+  "authors": "Tanaka AJ, Cho MT, Willaert R, Retterer K, Zarate YA, Bosanko K, et al.",
+  "journal": "Cold Spring Harbor molecular case studies",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "Using whole-exome sequencing, we identified seven unrelated individuals with global developmental delay, hypotonia, dysmorphic facial features, and an increased frequency of short stature, ataxia, and autism with de novo heterozygous frameshift, nonsense, splice, and missense variants in the() gene. EBF3 is a member of the collier/olfactory-1/early B-cell factor (COE) family of proteins, which are required for central nervous system (CNS) development. COE proteins are highly evolutionarily conserved and regulate neuronal specification, migration, axon guidance, and dendritogenesis during development and are essential for maintaining neuronal identity in adult neurons. Haploinsufficiency ofmay affect brain development and function, resulting in developmental delay, intellectual disability, and behavioral differences observed in individuals with a deleterious variant in.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Using whole-exome sequencing, we identified seven unrelated individuals with global developmental delay, hypotonia, dysmorphic facial features, and an increased frequency of short stature, ataxia, and autism with de novo heterozygous frameshift, nonsense, splice, and missense variants in the() gene. EBF3 is a member of the collier/olfactory-1/early B-cell factor (COE) family of proteins, which are required for central nervous system (CNS) development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29162653/",
+  "mesh_terms": [
+    "Adolescent",
+    "Amino Acid Sequence",
+    "Ataxia",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Conserved Sequence",
+    "Developmental Disabilities",
+    "Exome",
+    "Female",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Muscle Hypotonia",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Prader-Willi Syndrome",
+    "Transcription Factors",
+    "Exome Sequencing",
+    "Young Adult"
+  ],
+  "keywords": [
+    "autism",
+    "central hypotonia",
+    "intellectual disability, mild",
+    "moderate global developmental delay",
+    "neurogenic bladder"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

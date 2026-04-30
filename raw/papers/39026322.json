@@ -1,0 +1,49 @@
+{
+  "pmid": "39026322",
+  "doi": "10.1186/s12916-024-03516-7",
+  "title": "Unraveling the metabolomic architecture of autism in a large Danish population-based cohort",
+  "authors": "Ottosson F, Russo F, Abrahamsson A, MacSween N, Courraud J, Skogstrand K, et al.",
+  "journal": "BMC medicine",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "The prevalence of autism in Denmark has been increasing, reaching 1.65% among 10-year-old children, and similar trends are seen elsewhere. Although there are several factors associated with autism, including genetic, environmental, and prenatal factors, the molecular etiology of autism is largely unknown. Here, we use untargeted metabolomics to characterize the neonatal metabolome from dried blood spots collected shortly after birth.\n\nWe analyze the metabolomic profiles of a subset of a large Danish population-based cohort (iPSYCH2015) consisting of over 1400 newborns, who later are diagnosed with autism and matching controls and in two Swedish population-based cohorts comprising over 7000 adult participants. Mass spectrometry analysis was performed by a timsTOF Pro operated in QTOF mode, using data-dependent acquisition. By applying an untargeted metabolomics approach, we could reproducibly measure over 800 metabolite features.\n\nWe detected underlying molecular perturbations across several metabolite classes that precede autism. In particular, the cyclic dipeptide cyclo-leucine-proline (FDR-adjusted p&#x2009;=&#x2009;0.003) and the carnitine-related 5-aminovaleric acid betaine (5-AVAB) (FDR-adjusted p&#x2009;=&#x2009;0.03), were associated with an increased probability for autism, independently of known prenatal and genetic risk factors. Analysis of genetic and dietary data in adults revealed that 5-AVAB was associated with increased habitual dietary intake of dairy (FDR-adjusted p&#x2009;<&#x2009;0.05) and with variants near SLC22A4 and SLC22A5 (p&#x2009;<&#x2009;5.0e&#x2009;-&#x2009;8), coding for a transmembrane carnitine transporter protein involved in controlling intracellular carnitine levels.\n\nCyclo-leucine-proline and 5-AVAB are associated with future diagnosis of autism in Danish neonates, both representing novel early biomarkers for autism. 5-AVAB is potentially modifiable and may influence carnitine homeostasis.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The prevalence of autism in Denmark has been increasing, reaching 1.65% among 10-year-old children, and similar trends are seen elsewhere. Although there are several factors associated with autism, including genetic, environmental, and prenatal factors, the molecular etiology of autism is largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39026322/",
+  "mesh_terms": [
+    "Humans",
+    "Denmark",
+    "Female",
+    "Metabolomics",
+    "Male",
+    "Autistic Disorder",
+    "Infant, Newborn",
+    "Cohort Studies",
+    "Adult",
+    "Metabolome",
+    "Betaine"
+  ],
+  "keywords": [
+    "5-Aminovaleric acid betaine",
+    "Autism",
+    "Cyclo-leucine-proline",
+    "Dried blood spot",
+    "Metabolome",
+    "Metabolomics",
+    "Neonatal"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

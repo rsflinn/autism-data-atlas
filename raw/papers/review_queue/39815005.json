@@ -1,0 +1,45 @@
+{
+  "pmid": "39815005",
+  "doi": "10.1038/s44318-024-00343-7",
+  "title": "The microcephaly-associated transcriptional regulator AUTS2 cooperates with Polycomb complex PRC2 to produce upper-layer neurons in mice",
+  "authors": "Shimaoka K, Hori K, Miyashita S, Inoue YU, Tabe NKN, Sakamoto A, et al.",
+  "journal": "The EMBO journal",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "AUTS2 syndrome is characterized by intellectual disability and microcephaly, and is often associated with autism spectrum disorder, but the underlying mechanisms, particularly concerning microcephaly, remain incompletely understood. Here, we analyze mice mutated for the transcriptional regulator AUTS2, which recapitulate microcephaly. Their brains exhibit reduced division of intermediate progenitor cells (IPCs), leading to fewer neurons and decreased thickness in the upper-layer cortex. Increased expression of the AUTS2 transcriptional target Robo1 in the mutant animals suppresses IPC division, and transcriptomic and chromatin profiling shows that AUTS2 primarily represses transcription of genes like Robo1 in IPCs. Regions around the transcriptional start sites of AUTS2 target genes are enriched for the repressive histone modification H3K27me3, which is reduced in Auts2 mutants. Furthermore, we find that AUTS2 interacts with Polycomb complex PRC2, with which it cooperates to promote IPC division. These findings shed light on the microcephaly phenotype observed in the AUTS2 syndrome.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "AUTS2 syndrome is characterized by intellectual disability and microcephaly, and is often associated with autism spectrum disorder, but the underlying mechanisms, particularly concerning microcephaly, remain incompletely understood. Here, we analyze mice mutated for the transcriptional regulator AUTS2, which recapitulate microcephaly.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39815005/",
+  "mesh_terms": [
+    "Animals",
+    "Microcephaly",
+    "Mice",
+    "Neurons",
+    "Nerve Tissue Proteins",
+    "Polycomb Repressive Complex 2",
+    "Roundabout Proteins",
+    "Transcription Factors",
+    "Receptors, Immunologic",
+    "Neural Stem Cells"
+  ],
+  "keywords": [
+    "AUTS2",
+    "Histone Modification",
+    "Microcephaly",
+    "Neural Progenitors",
+    "Polycomb"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

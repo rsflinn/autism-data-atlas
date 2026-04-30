@@ -1,0 +1,44 @@
+{
+  "pmid": "21825235",
+  "doi": "10.1001/archneurol.2011.149",
+  "title": "Rett syndrome: exploring the autism link",
+  "authors": "Percy AK",
+  "journal": "Archives of neurology",
+  "date": "2011-08",
+  "source": "pubmed",
+  "abstract": "The presence of autism in individuals with neurodevelopmental disorders, whether transient as in Rett syndrome (RTT) or enduring as in fragile X syndrome or Down syndrome, suggests the possibility of common neurobiologic mechanisms whose elucidation could fundamentally advance our understanding. This review explores the commonalities and differences between autism and RTT at clinical and molecular levels with respect to current status and challenges for each, highlights recent findings from the Rare Disease Network Natural History study on RTT, and summarizes the broad range of phenotypes resulting from mutations in the methyl-CpG-binding protein 2 gene (MECP2), which is responsible for RTT in 95% of individuals with the disorder. For RTT, animal models have been critical resources for advancing pathobiologic discovery and promise to be important test beds for evaluating new therapies. Fundamental understanding of autism based on unique genetic mechanism(s) must await similar advances.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "The presence of autism in individuals with neurodevelopmental disorders, whether transient as in Rett syndrome (RTT) or enduring as in fragile X syndrome or Down syndrome, suggests the possibility of common neurobiologic mechanisms whose elucidation could fundamentally advance our understanding. This review explores the commonalities and differences between autism and RTT at clinical and molecular levels with respect to current status and challenges for each, highlights recent findings from the ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21825235/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Comorbidity",
+    "Disease Models, Animal",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Phenotype",
+    "Rett Syndrome",
+    "Transcription, Genetic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "37225426",
+  "doi": "10.26508/lsa.202301970",
+  "title": "Inter and transgenerational impact of H3K4 methylation in neuronal homeostasis",
+  "authors": "Abay-N&#xf8;rgaard S, Tapia MC, Zeijdner M, Kim JH, Won KJ, Porse B, et al.",
+  "journal": "Life science alliance",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Epigenetic marks and associated traits can be transmitted for one or more generations, phenomena known respectively as inter- or transgenerational epigenetic inheritance. It remains unknown if genetically and conditionally induced aberrant epigenetic states can influence the development of the nervous system across generations. Here, we show, usingas a model system, that alteration of H3K4me3 levels in the parental generation, caused by genetic manipulation or changes in parental conditions, has, respectively, trans- and intergenerational effects on H3K4 methylome, transcriptome, and nervous system development. Thus, our study reveals the relevance of H3K4me3 transmission and maintenance in preventing long-lasting deleterious effects in nervous system homeostasis.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Epigenetic marks and associated traits can be transmitted for one or more generations, phenomena known respectively as inter- or transgenerational epigenetic inheritance. It remains unknown if genetically and conditionally induced aberrant epigenetic states can influence the development of the nervous system across generations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37225426/",
+  "mesh_terms": [
+    "Animals",
+    "Methylation",
+    "Caenorhabditis elegans",
+    "Epigenome",
+    "Epigenomics",
+    "Homeostasis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

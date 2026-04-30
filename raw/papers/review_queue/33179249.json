@@ -1,0 +1,60 @@
+{
+  "pmid": "33179249",
+  "doi": "10.1111/cge.13882",
+  "title": "Description of neurodevelopmental phenotypes associated with 10 genetic neurodevelopmental disorders: A scoping review",
+  "authors": "Hanly C, Shah H, Au PYB, Murias K",
+  "journal": "Clinical genetics",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) are a heterogeneous group of conditions including intellectual disability, global developmental delay, autism spectrum disorder, and attention deficit hyperactivity disorder. Advances in genetic diagnostic technology have led to the identification of a number of NDD-associated genes, but reports of cognitive and developmental outcomes in affected individuals have been variable. The objective of this scoping review is to synthesize available information pertaining to the developmental outcomes of individuals with pathogenic variants in ten emerging recurrent NDD-associated genes identified from large scale sequencing studies; ADNP, ANKRD11, ARID1B, CHD2, CHD8, CTNNB1, DDX3X, DYRK1A, SCN2A, and SYNGAP1. After a comprehensive search, 260 articles were selected that reported on neurodevelopmental measures or diagnoses. We identify the spectrum of developmental outcomes for each genetic NDD, including prevalence of intellectual disability, frequency of co-morbid NDDs such as ADHD and autism, and commonly reported medical issues that can help inform diagnosis and treatment. There are significant gaps in our understanding of the natural history of these conditions. Future research focusing on barriers to assessment, the development of modified assessment tools appropriate for long-term outcomes in genetic NDD, and collection of longitudinal data will increase understanding of prognosis in these conditions and inform evaluations of treatment.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "ADNP",
+    "ARID1B",
+    "CHD8",
+    "DYRK1A",
+    "SCN2A",
+    "SYNGAP1"
+  ],
+  "summary": "Neurodevelopmental disorders (NDDs) are a heterogeneous group of conditions including intellectual disability, global developmental delay, autism spectrum disorder, and attention deficit hyperactivity disorder. Advances in genetic diagnostic technology have led to the identification of a number of NDD-associated genes, but reports of cognitive and developmental outcomes in affected individuals have been variable.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33179249/",
+  "mesh_terms": [
+    "Comorbidity",
+    "DEAD-box RNA Helicases",
+    "DNA-Binding Proteins",
+    "Genetic Association Studies",
+    "Homeodomain Proteins",
+    "Humans",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Nerve Tissue Proteins",
+    "Neurodevelopmental Disorders",
+    "Prevalence",
+    "Protein Serine-Threonine Kinases",
+    "Protein-Tyrosine Kinases",
+    "Repressor Proteins",
+    "Transcription Factors",
+    "beta Catenin",
+    "ras GTPase-Activating Proteins",
+    "Dyrk Kinases"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "developmental delay",
+    "intellectual disability",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Scoping Review"
+  ]
+}

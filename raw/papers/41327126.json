@@ -1,0 +1,34 @@
+{
+  "pmid": "41327126",
+  "doi": "10.1186/s12887-025-06229-9",
+  "title": "Association between GRIK1 rs363598 and intergenic rs360932 variants and susceptibility to autism spectrum disorders in Egyptian children",
+  "authors": "Bassiony H, Baiomy A, Ahmed D, Elaraby NM, Ammar THA, Ashaat EA",
+  "journal": "BMC pediatrics",
+  "date": "2025-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a genetically inherited, complex neuropsychiatric developmental condition that impacts a person's ability to learn, interact, and communicate. ASD is currently classified as a heterogeneous disorder, given that the pathophysiology of ASD is yet unknown. The GRIK gene family (GRIK1, GRIK2, GRIK3, GRIK4, and GRIK5) has genetic variants associated with many psychiatric illnesses including; depression, obsessive&#x2013;compulsive disorder, and autism. The present study is the first to determine the possible association of GRIK1 rs363598 and intergenic rs360932 variants with susceptibility to ASD in Egyptian children and to correlate these variants with different parameters.\n\nOne hundred children with ASD and one hundred volunteer healthy children served as control group were enrolled. Clinical parameters were measured. The genotyping method was performed in all children using the Tetra-primer Amplification Refractory Mutation System-Polymerase Chain Reaction (ARMS-PCR) technique.\n\nASD cases were mainly associated with males (77%) than females (23%) (&#x2009;=&#x2009;0.014) with lower IQ than the healthy group. The mean score on the Childhood Autism Rating Scale (CARS) was 39.40&#x2009;&#xb1;&#x2009;6.25. Interestingly, the genotype of the rs360932 SNP showed a significant difference in distribution between the ASD patients and the healthy control group (OR&#x2009;=&#x2009;2.84, 95% CI&#x2009;=&#x2009;1.29&#x2013;6.35,&#x2009;=&#x2009;0.008); the genotype (AG) was substantially associated (90%) with ASD. Conversely, no discernible variation was seen in the distribution of the rs363598 SNP (OR&#x2009;=&#x2009;3.19, 95% CI&#x2009;=&#x2009;0.83&#x2013;12.1,&#x2009;=&#x2009;0.07). Furthermore, the distribution of alleles for both variations did not differ significantly between the group of people with ASD and the healthy group.\n\nEgyptian children's increased risk of developing ASD is highly correlated with the rs360932 variation. Future research on other SNPs and genes linked to ASD may benefit from this study's increased chances of examining these topics.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a genetically inherited, complex neuropsychiatric developmental condition that impacts a person's ability to learn, interact, and communicate. ASD is currently classified as a heterogeneous disorder, given that the pathophysiology of ASD is yet unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41327126/",
+  "mesh_terms": [],
+  "keywords": [
+    "ARMS-PCR",
+    "ASD",
+    "And GRIK1 gene",
+    "Tetra-primer",
+    "Variations"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

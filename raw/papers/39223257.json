@@ -1,0 +1,40 @@
+{
+  "pmid": "39223257",
+  "doi": "10.1038/s41386-024-01956-6",
+  "title": "Therapeutic efficacy of the BKCa channel opener chlorzoxazone in a mouse model of Fragile X syndrome",
+  "authors": "Ferraguto C, Piquemal-Lagoueillat M, Lemaire V, Moreau MM, Trazzi S, Uguagliati B, et al.",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is an X-linked neurodevelopmental disorder characterized by several behavioral abnormalities, including hyperactivity, anxiety, sensory hyper-responsiveness, and autistic-like symptoms such as social deficits. Despite considerable efforts, effective pharmacological treatments are still lacking, prompting the need for exploring the therapeutic value of existing drugs beyond their original approved use. One such repurposed drug is chlorzoxazone which is classified as a large-conductance calcium-dependent potassium (BKCa) channel opener. Reduced BKCa channel functionality has been reported in FXS patients, suggesting that molecules activating these channels could serve as promising treatments for this syndrome. Here, we sought to characterize the therapeutic potential of chlorzoxazone using the Fmr1-KO mouse model of FXS which recapitulates the main phenotypes of FXS, including BKCa channel alterations. Chlorzoxazone, administered either acutely or chronically, rescued hyperactivity and acoustic hyper-responsiveness as well as impaired social interactions exhibited by Fmr1-KO mice. Chlorzoxazone was more efficacious in alleviating these phenotypes than gaboxadol and metformin, two repurposed treatments for FXS that do not target BKCa channels. Systemic administration of chlorzoxazone modulated the neuronal activity-dependent gene c-fos in selected brain areas of Fmr1-KO mice, corrected aberrant hippocampal dendritic spines, and was able to rescue impaired BKCa currents recorded from hippocampal and cortical neurons of these mutants. Collectively, these findings provide further preclinical support for BKCa channels as a valuable therapeutic target for treating FXS and encourage the repurposing of chlorzoxazone for clinical applications in FXS and other related neurodevelopmental diseases.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is an X-linked neurodevelopmental disorder characterized by several behavioral abnormalities, including hyperactivity, anxiety, sensory hyper-responsiveness, and autistic-like symptoms such as social deficits. Despite considerable efforts, effective pharmacological treatments are still lacking, prompting the need for exploring the therapeutic value of existing drugs beyond their original approved use.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39223257/",
+  "mesh_terms": [
+    "Animals",
+    "Fragile X Syndrome",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Mice, Knockout",
+    "Mice",
+    "Large-Conductance Calcium-Activated Potassium Channel alpha Subunits",
+    "Male",
+    "Chlorzoxazone",
+    "Mice, Inbred C57BL",
+    "Hippocampus"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

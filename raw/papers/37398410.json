@@ -1,0 +1,29 @@
+{
+  "pmid": "37398410",
+  "doi": "10.21203/rs.3.rs-2953760/v1",
+  "title": "The patient-specific mouse model with Foxg1 frameshift mutation uncovers the pathophysiology of FOXG1 syndrome",
+  "authors": "Park J, Moon JH, O'Shea H, Shin D, Hwang SU, Li L, et al.",
+  "journal": "Research square",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Single allelic mutations in the gene encoding the forebrain-specific transcription factor FOXG1 lead to FOXG1 syndrome (FS). Patient-specific animal models are needed to understand the etiology of FS, as FS patients show a wide spectrum of symptoms correlated with location and mutation type in the FOXG1 gene. Here we report the first patient-specific FS mouse model, Q84Pfs heterozygous (Q84Pfs-Het) mice, mimicking one of the most predominant single nucleotide variants in FS. Intriguingly, we found that Q84Pfs-Het mice faithfully recapitulate human FS phenotypes at the cellular, brain structural, and behavioral levels. Importantly, Q84Pfs-Het mice exhibited myelination deficits like FS patients. Further, our transcriptome analysis of Q84Pfs-Het cortex revealed a new role for FOXG1 in synapse and oligodendrocyte development. The dysregulated genes in Q84Pfs-Het brains also predicted motor dysfunction and autism-like phenotypes. Correspondingly, Q84Pfs-Het mice showed movement deficits, repetitive behaviors, increased anxiety, and prolonged behavior arrest. Together, our study revealed the crucial postnatal role of FOXG1 in neuronal maturation and myelination and elucidated the essential pathophysiology mechanisms of FS.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Single allelic mutations in the gene encoding the forebrain-specific transcription factor FOXG1 lead to FOXG1 syndrome (FS). Patient-specific animal models are needed to understand the etiology of FS, as FS patients show a wide spectrum of symptoms correlated with location and mutation type in the FOXG1 gene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37398410/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

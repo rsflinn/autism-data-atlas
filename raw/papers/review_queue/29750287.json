@@ -1,0 +1,44 @@
+{
+  "pmid": "29750287",
+  "doi": "10.3928/19382359-20180419-01",
+  "title": "An Update on Common Chromosome Microdeletion and Microduplication Syndromes",
+  "authors": "Goldenberg P",
+  "journal": "Pediatric annals",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "This review summarizes common microdeletion and microduplication syndromes and highlights important updates in patient-care needs for people with these conditions (22q11.2, 7q11.23, 17p11.2, and 16p11.2). These conditions are in chromosomal \"hotspots\" and have an estimated prevalence of 1 in 1,000 to 1 in 25,000. Some conditions have possible increased or decreased genetic risk of schizophrenia (22q11.2 deletion and duplication), or risk of aortic dilation (7q11.23 duplication) versus aortic stenosis (7q11.23 deletion). Many of these conditions are associated with developmental delay, autism, and/or multiple congenital anomalies and would not be detected with a karyotype. Chromosomal microarray analysis will detect all these conditions with a single screening test, allowing for the appropriate diagnosis and management of these patients. [Pediatr Ann. 2018;47(5):e198-e203.].",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "This review summarizes common microdeletion and microduplication syndromes and highlights important updates in patient-care needs for people with these conditions (22q11.2, 7q11.23, 17p11.2, and 16p11.2). These conditions are in chromosomal \"hotspots\" and have an estimated prevalence of 1 in 1,000 to 1 in 25,000.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29750287/",
+  "mesh_terms": [
+    "Abnormalities, Multiple",
+    "Autistic Disorder",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "Chromosomes, Human, Pair 7",
+    "DNA Copy Number Variations",
+    "DiGeorge Syndrome",
+    "Genetic Testing",
+    "Humans",
+    "Intellectual Disability",
+    "Smith-Magenis Syndrome",
+    "Williams Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

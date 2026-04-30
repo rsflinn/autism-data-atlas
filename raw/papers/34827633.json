@@ -1,0 +1,48 @@
+{
+  "pmid": "34827633",
+  "doi": "10.3390/biom11111635",
+  "title": "Symptomatic, Genetic, and Mechanistic Overlaps between Autism and Alzheimer's Disease",
+  "authors": "Nadeem MS, Hosawi S, Alshehri S, Ghoneim MM, Imam SS, Murtaza BN, et al.",
+  "journal": "Biomolecules",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) and Alzheimer's disease (AD) are neurodevelopmental and neurodegenerative disorders affecting two opposite ends of life span, i.e., childhood and old age. Both disorders pose a cumulative threat to human health, with the rate of incidences increasing considerably worldwide. In the context of recent developments, we aimed to review correlated symptoms and genetics, and overlapping aspects in the mechanisms of the pathogenesis of ASD and AD. Dementia, insomnia, and weak neuromuscular interaction, as well as communicative and cognitive impairments, are shared symptoms. A number of genes and proteins linked with both disorders have been tabulated, including MECP2, ADNP, SCN2A, NLGN, SHANK, PTEN, RELN, and FMR1. Theories about the role of neuron development, processing, connectivity, and levels of neurotransmitters in both disorders have been discussed. Based on the recent literature, the roles of FMRP (Fragile X mental retardation protein), hnRNPC (heterogeneous ribonucleoprotein-C), IRP (Iron regulatory proteins), miRNAs (MicroRNAs), and &#x3b1;-, &#x3b2;0, and &#x3b3;-secretases in the posttranscriptional regulation of cellular synthesis and processing of APP (amyloid-&#x3b2; precursor protein) have been elaborated to describe the parallel and overlapping routes and mechanisms of ASD and AD pathogenesis. However, the interactive role of genetic and environmental factors, oxidative and metal ion stress, mutations in the associated genes, and alterations in the related cellular pathways in the development of ASD and AD needs further investigation.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ADNP",
+    "FMR1",
+    "MECP2",
+    "PTEN",
+    "SCN2A"
+  ],
+  "summary": "Autism spectrum disorder (ASD) and Alzheimer's disease (AD) are neurodevelopmental and neurodegenerative disorders affecting two opposite ends of life span, i.e., childhood and old age. Both disorders pose a cumulative threat to human health, with the rate of incidences increasing considerably worldwide.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34827633/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Autistic Disorder",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Models, Biological"
+  ],
+  "keywords": [
+    "Alzheimer&#x2019;s disease",
+    "autism spectrum disorder",
+    "genes",
+    "mechanisms",
+    "pathogenesis",
+    "symptoms"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

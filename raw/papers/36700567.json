@@ -1,0 +1,38 @@
+{
+  "pmid": "36700567",
+  "doi": "10.1590/1984-0462/2023/41/2021387",
+  "title": "Autism and duplication of 17q12q21.2 by array-CGH: a case report",
+  "authors": "Weingartner A, Pegoraro NB, Maglioni RT, Moreira ICFN, Rodrigues GE, Kunz AC, et al.",
+  "journal": "Revista paulista de pediatria : orgao oficial da Sociedade de Pediatria de Sao Paulo",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) affects cognitive development and social interaction on different levels. Genetic and environmental factors are associated with secondary ASD. Genetic inheritance is mainly polygenic, and 10% are copy number variations (CNVs). Array comparative genomic hybridization (array-CGH) is used to identify CNVs. This report aimed to discuss autism spectrum disorder and its diagnosis by array comparative genomic hybridization, highlighting the association with the pathogenic duplication of 17q12q21.2.\n\nA male baby was born at 37 weeks' gestation by cesarean section. The child showed strabismus, cryptorchidism, hypertelorism, frontal bossing, and developmental delay, walking at 25 months and talking at 4 years. At the age of 2 years, array-CGH of peripheral blood revealed a 5.6-Mb 17q12q21.2 duplication or arr 17q12q21.2 (34,815,527-40,213.109)x3 encompassing 190 genes, including HNF-1B and LHX1. The child was clinically diagnosed with ASD.\n\nChanges in the 17q12 segment, such as the duplication found, have been associated with the development of several problems in previous studies, mainly kidney diseases and behavioral disorders. Located at this chromosome region, HNF1's homeobox B codes a member of the superfamily containing homeodomain of transcription factors. Another gene associated with abnormalities in neurological development regarding 17q12 deletions is LHX1, as shown in this case study. LHX1 plays a role in the migration and differentiation of GABA neurons, modulating the survival of pre-optical interneurons, thus affecting cellular migration and distribution in the cortex. Changes in this control result in flaws in interneuron development, contributing to the pathophysiology of psychiatric diseases.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) affects cognitive development and social interaction on different levels. Genetic and environmental factors are associated with secondary ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36700567/",
+  "mesh_terms": [
+    "Child, Preschool",
+    "Humans",
+    "Infant",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Comparative Genomic Hybridization",
+    "DNA Copy Number Variations"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

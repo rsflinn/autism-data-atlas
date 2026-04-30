@@ -1,0 +1,47 @@
+{
+  "pmid": "36214804",
+  "doi": "10.1016/j.gim.2022.08.020",
+  "title": "De novo missense variants in the E3 ubiquitin ligase adaptor KLHL20 cause a developmental disorder with intellectual disability, epilepsy, and autism spectrum disorder",
+  "authors": "Sleyp Y, Valenzuela I, Accogli A, Ballon K, Ben-Zeev B, Berkovic SF, et al.",
+  "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "KLHL20 is part of a CUL3-RING E3 ubiquitin ligase involved in protein ubiquitination. KLHL20 functions as the substrate adaptor that recognizes substrates and mediates the transfer of ubiquitin to the substrates. Although KLHL20 regulates neurite outgrowth and synaptic development in animal models, a role in human neurodevelopment has not yet been described. We report on a neurodevelopmental disorder caused by de novo missense variants in KLHL20.\n\nPatients were ascertained by the investigators through Matchmaker Exchange. Phenotyping of patients with de novo missense variants in KLHL20 was performed.\n\nWe studied 14 patients with de novo missense variants in KLHL20, delineating a genetic syndrome with patients having mild to severe intellectual disability, febrile seizures or epilepsy, autism spectrum disorder, hyperactivity, and subtle dysmorphic facial features. We observed a recurrent de novo missense variant in 11 patients (NM_014458.4:c.1069G>A p.[Gly357Arg]). The recurrent missense and the 3 other missense variants all clustered in the Kelch-type &#x3b2;-propeller domain of the KLHL20 protein, which shapes the substrate binding surface.\n\nOur findings implicate KLHL20 in a neurodevelopmental disorder characterized by intellectual disability, febrile seizures or epilepsy, autism spectrum disorder, and hyperactivity.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "KLHL20 is part of a CUL3-RING E3 ubiquitin ligase involved in protein ubiquitination. KLHL20 functions as the substrate adaptor that recognizes substrates and mediates the transfer of ubiquitin to the substrates.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36214804/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Adaptor Proteins, Signal Transducing",
+    "Autism Spectrum Disorder",
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Intellectual Disability",
+    "Mutation, Missense",
+    "Seizures, Febrile",
+    "Ubiquitin-Protein Ligases"
+  ],
+  "keywords": [
+    "Autism",
+    "E3 ubiquitin ligase",
+    "Epilepsy",
+    "Intellectual disability",
+    "KLHL20"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

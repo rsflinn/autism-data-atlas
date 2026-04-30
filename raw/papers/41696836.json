@@ -1,0 +1,42 @@
+{
+  "pmid": "41696836",
+  "doi": null,
+  "title": "[Autism - the problem of double empathy]",
+  "authors": "Ruggieri V",
+  "journal": "Medicina",
+  "date": "2026-03",
+  "source": "pubmed",
+  "abstract": "Autism is a neurodevelopmental disorder defined by a qualitative impairment in social interaction and communication, along with restricted interests and stereotyped behaviors. Various neurobiological, genetic, and epigenetic bases are recognized. Thirty percent of autistic individuals are severely or nonverbally autistic. The failure of autistic individuals to socialize is related to their impairment in social cognition, linked to deficits in empathy and theory of mind. Recently, this \"inability to relate to peers\" has been framed as a two-way problem between the autistic person and the \"typical\" person, hence the concept of the \"double empathy problem\". This implies that not only is the autistic person dysfunctional in social interaction, but so is the nonautistic interlocutor. The problem of dual empathy allows for a new understanding of autism and, to some extent, puts into perspective the challenges faced by autistic and nonautistic individuals as part of a shared deficit, not solely attributable to the autistic person. While it facilitates awareness of neurodiversity and challenges us all in relation to autism, solid explanations are still lacking to accept this concept as valid in the genesis of the social problems faced by autistic individuals and its application in clinical practice and education. This article analyzes aspects of empathy and the problem of double empathy, highlighting their characteristics and limitations for the interpretation of autism.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a neurodevelopmental disorder defined by a qualitative impairment in social interaction and communication, along with restricted interests and stereotyped behaviors. Various neurobiological, genetic, and epigenetic bases are recognized.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41696836/",
+  "mesh_terms": [
+    "Humans",
+    "Empathy",
+    "Autistic Disorder",
+    "Theory of Mind",
+    "Social Interaction"
+  ],
+  "keywords": [
+    "autism",
+    "double empathy",
+    "empathy",
+    "hyperscanning",
+    "neuronal synchrony"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "English Abstract"
+  ]
+}

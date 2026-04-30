@@ -1,0 +1,51 @@
+{
+  "pmid": "25164438",
+  "doi": "10.1002/ana.24263",
+  "title": "De novo KCNB1 mutations in epileptic encephalopathy",
+  "authors": "Torkamani A, Bersell K, Jorge BS, Bjork RL, Friedman JR, Bloss CS, et al.",
+  "journal": "Annals of neurology",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "Numerous studies have demonstrated increased load of de novo copy number variants or single nucleotide variants in individuals with neurodevelopmental disorders, including epileptic encephalopathies, intellectual disability, and autism.\n\nWe searched for de novo mutations in a family quartet with a sporadic case of epileptic encephalopathy with no known etiology to determine the underlying cause using high-coverage whole exome sequencing (WES) and lower-coverage whole genome sequencing. Mutations in additional patients were identified by WES. The effect of mutations on protein function was assessed in a heterologous expression system.\n\nWe identified a de novo missense mutation in KCNB1 that encodes the KV 2.1 voltage-gated potassium channel. Functional studies demonstrated a deleterious effect of the mutation on KV 2.1 function leading to a loss of ion selectivity and gain of a depolarizing inward cation conductance. Subsequently, we identified 2 additional patients with epileptic encephalopathy and de novo KCNB1 missense mutations that cause a similar pattern of KV 2.1 dysfunction.\n\nOur genetic and functional evidence demonstrate that KCNB1 mutation can result in early onset epileptic encephalopathy. This expands the locus heterogeneity associated with epileptic encephalopathies and suggests that clinical WES may be useful for diagnosis of epileptic encephalopathies of unknown etiology.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "KCNB1"
+  ],
+  "summary": "Numerous studies have demonstrated increased load of de novo copy number variants or single nucleotide variants in individuals with neurodevelopmental disorders, including epileptic encephalopathies, intellectual disability, and autism. We searched for de novo mutations in a family quartet with a sporadic case of epileptic encephalopathy with no known etiology to determine the underlying cause using high-coverage whole exome sequencing (WES) and lower-coverage whole genome sequencing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25164438/",
+  "mesh_terms": [
+    "Animals",
+    "Biotinylation",
+    "CHO Cells",
+    "Child",
+    "Child, Preschool",
+    "Cricetulus",
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Male",
+    "Membrane Potentials",
+    "Mutation, Missense",
+    "Patch-Clamp Techniques",
+    "Phenotype",
+    "Shab Potassium Channels",
+    "Transfection"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

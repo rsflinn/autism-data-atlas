@@ -1,0 +1,32 @@
+{
+  "pmid": "15736081",
+  "doi": null,
+  "title": "[Movement disorders in Rett syndrome]",
+  "authors": "Temudo T",
+  "journal": "Revista de neurologia",
+  "date": "2005-01",
+  "source": "pubmed",
+  "abstract": "Rett syndrome is a progressive neurodevelopmental disorder with onset in early childhood occurring almost exclusively in females and caused by mutations in methyl-CpG- binding protein 2 (MECp2) and is one of the most frequent causes of mental retardation in females. Regression is a defining feature of Rett syndrome and during the regression period the patients develop autistic behaviour. This is the reason why Rett syndrome has been classified as a pervasive developmental autistic spectrum disorder. However movement disorders are so exuberant, characteristic and unique in Rett syndrome that is very difficult to an experienced clinician mistake both situations.\n\nWe can define Rett syndrome as a condition which manifests in the majority of the cases as a hyperkinetic movement disorder and progresses (at varying rates) to a bradykinetic disorder. The aim of this publication is to characterize and describe movement disorders in Rett syndrome based on a revision of the literature and the personal experience of the author.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Rett syndrome is a progressive neurodevelopmental disorder with onset in early childhood occurring almost exclusively in females and caused by mutations in methyl-CpG- binding protein 2 (MECp2) and is one of the most frequent causes of mental retardation in females. Regression is a defining feature of Rett syndrome and during the regression period the patients develop autistic behaviour.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15736081/",
+  "mesh_terms": [
+    "Movement Disorders",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "English Abstract",
+    "Journal Article"
+  ]
+}

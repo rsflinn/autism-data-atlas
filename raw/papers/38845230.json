@@ -1,0 +1,28 @@
+{
+  "pmid": "38845230",
+  "doi": "10.4103/NRR.NRR-D-23-01766",
+  "title": "Potassium and calcium channels in different nerve cells act as therapeutic targets in neurological disorders",
+  "authors": "Qiu Q, Yang M, Gong D, Liang H, Chen T",
+  "journal": "Neural regeneration research",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "The central nervous system, information integration center of the body, is mainly composed of neurons and glial cells. The neuron is one of the most basic and important structural and functional units of the central nervous system, with sensory stimulation and excitation conduction functions. Astrocytes and microglia belong to the glial cell family, which is the main source of cytokines and represents the main defense system of the central nervous system. Nerve cells undergo neurotransmission or gliotransmission, which regulates neuronal activity via the ion channels, receptors, or transporters expressed on nerve cell membranes. Ion channels, composed of large transmembrane proteins, play crucial roles in maintaining nerve cell homeostasis. These channels are also important for control of the membrane potential and in the secretion of neurotransmitters. A variety of cellular functions and life activities, including functional regulation of the central nervous system, the generation and conduction of nerve excitation, the occurrence of receptor potential, heart pulsation, smooth muscle peristalsis, skeletal muscle contraction, and hormone secretion, are closely related to ion channels associated with passive transmembrane transport. Two types of ion channels in the central nervous system, potassium channels and calcium channels, are closely related to various neurological disorders, including Alzheimer's disease, Parkinson's disease, and epilepsy. Accordingly, various drugs that can affect these ion channels have been explored deeply to provide new directions for the treatment of these neurological disorders. In this review, we focus on the functions of potassium and calcium ion channels in different nerve cells and their involvement in neurological disorders such as Parkinson's disease, Alzheimer's disease, depression, epilepsy, autism, and rare disorders. We also describe several clinical drugs that target potassium or calcium channels in nerve cells and could be used to treat these disorders. We concluded that there are few clinical drugs that can improve the pathology these diseases by acting on potassium or calcium ions. Although a few novel ion-channel-specific modulators have been discovered, meaningful therapies have largely not yet been realized. The lack of target-specific drugs, their requirement to cross the blood-brain barrier, and their exact underlying mechanisms all need further attention. This review aims to explain the urgent problems that need research progress and provide comprehensive information aiming to arouse the research community's interest in the development of ion channel-targeting drugs and the identification of new therapeutic targets for that can increase the cure rate of nervous system diseases and reduce the occurrence of adverse reactions in other systems.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 8,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The central nervous system, information integration center of the body, is mainly composed of neurons and glial cells. The neuron is one of the most basic and important structural and functional units of the central nervous system, with sensory stimulation and excitation conduction functions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38845230/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

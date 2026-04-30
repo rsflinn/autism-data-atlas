@@ -1,0 +1,51 @@
+{
+  "pmid": "31202913",
+  "doi": "10.1016/j.nbd.2019.104503",
+  "title": "Modeling Alzheimer's disease with human iPS cells: advancements, lessons, and applications",
+  "authors": "Essayan-Perez S, Zhou B, Nabet AM, Wernig M, Huang YA",
+  "journal": "Neurobiology of disease",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "One in three people will develop Alzheimer's disease (AD) or another dementia and, despite intense research efforts, treatment options remain inadequate. Understanding the mechanisms of AD pathogenesis remains our principal hurdle to developing effective therapeutics to tackle this looming medical crisis. In light of recent discoveries from whole-genome sequencing and technical advances in humanized models, studying disease risk genes with induced human neural cells presents unprecedented advantages. Here, we first review the current knowledge of the proposed mechanisms underlying AD and focus on modern genetic insights to inform future studies. To highlight the utility of human pluripotent stem cell-based innovations, we then present an update on efforts in recapitulating the pathophysiology by induced neuronal, non-neuronal and a collection of brain cell types, departing from the neuron-centric convention. Lastly, we examine the translational potentials of such approaches, and provide our perspectives on the promise they offer to deepen our understanding of AD pathogenesis and to accelerate the development of intervention strategies for patients and risk carriers.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "One in three people will develop Alzheimer's disease (AD) or another dementia and, despite intense research efforts, treatment options remain inadequate. Understanding the mechanisms of AD pathogenesis remains our principal hurdle to developing effective therapeutics to tackle this looming medical crisis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31202913/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides",
+    "Brain",
+    "Cell Differentiation",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurons",
+    "tau Proteins"
+  ],
+  "keywords": [
+    "Alzheimer&#x2019;s disease (AD)",
+    "Amyloid-&#x3b2; (A&#x3b2;)",
+    "Apolipoprotein E (apoE)",
+    "Astrocytes",
+    "Blood-brain barrier (BBB)",
+    "Genetic risk",
+    "Induced pluripotent stem cell (iPSC)",
+    "Microglia",
+    "Oligodendrocytes",
+    "Tau"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

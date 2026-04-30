@@ -1,0 +1,52 @@
+{
+  "pmid": "38657612",
+  "doi": "10.1016/j.cmet.2024.03.014",
+  "title": "Microglial lipid droplet accumulation in tauopathy brain is regulated by neuronal AMPK",
+  "authors": "Li Y, Munoz-Mayorga D, Nie Y, Kang N, Tao Y, Lagerwall J, et al.",
+  "journal": "Cell metabolism",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "The accumulation of lipid droplets (LDs) in aging and Alzheimer's disease brains is considered a pathological phenomenon with unresolved cellular and molecular mechanisms. Utilizing stimulated Raman scattering (SRS) microscopy, we observed significant in situ LD accumulation in microglia of tauopathy mouse brains. SRS imaging, combined with deuterium oxide (DO) labeling, revealed heightened lipogenesis and impaired lipid turnover within LDs in tauopathy fly brains and human neurons derived from induced pluripotent stem cells (iPSCs). Transfer of unsaturated lipids from tauopathy iPSC neurons to microglia induced LD accumulation, oxidative stress, inflammation, and impaired phagocytosis. Neuronal AMP-activated protein kinase (AMPK) inhibits lipogenesis and promotes lipophagy in neurons, thereby reducing lipid flux to microglia. AMPK depletion in prodromal tauopathy mice increased LD accumulation, exacerbated pro-inflammatory microgliosis, and promoted neuropathology. Our findings provide direct evidence of native, aberrant LD accumulation in tauopathy brains and underscore the critical role of AMPK in regulating brain lipid homeostasis.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The accumulation of lipid droplets (LDs) in aging and Alzheimer's disease brains is considered a pathological phenomenon with unresolved cellular and molecular mechanisms. Utilizing stimulated Raman scattering (SRS) microscopy, we observed significant in situ LD accumulation in microglia of tauopathy mouse brains.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38657612/",
+  "mesh_terms": [
+    "Animals",
+    "Lipid Droplets",
+    "Microglia",
+    "Humans",
+    "Mice",
+    "AMP-Activated Protein Kinases",
+    "Brain",
+    "Tauopathies",
+    "Neurons",
+    "Induced Pluripotent Stem Cells",
+    "Mice, Inbred C57BL",
+    "Male",
+    "Drosophila"
+  ],
+  "keywords": [
+    "AMPK",
+    "Alzheimer&#x2019;s disease",
+    "Raman microscopy",
+    "SRS imaging",
+    "Tau",
+    "deuterium oxide",
+    "lipid droplets",
+    "lipophagy",
+    "microglia"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

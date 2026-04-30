@@ -1,0 +1,36 @@
+{
+  "pmid": "37824600",
+  "doi": "10.1126/scitranslmed.ade1283",
+  "title": "A single-cell genomic atlas for maturation of the human cerebellum during early childhood",
+  "authors": "Ament SA, Cortes-Gutierrez M, Herb BR, Mocci E, Colantuoni C, McCarthy MM",
+  "journal": "Science translational medicine",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Inflammation early in life is a clinically established risk factor for autism spectrum disorders and schizophrenia, yet the impact of inflammation on human brain development is poorly understood. The cerebellum undergoes protracted postnatal maturation, making it especially susceptible to perturbations contributing to the risk of developing neurodevelopmental disorders. Here, using single-cell genomics of postmortem cerebellar brain samples, we characterized the postnatal development of cerebellar neurons and glia in 1- to 5-year-old children, comparing individuals who had died while experiencing inflammation with those who had died as a result of an accident. Our analyses revealed that inflammation and postnatal cerebellar maturation are associated with extensive, overlapping transcriptional changes primarily in two subtypes of inhibitory neurons: Purkinje neurons and Golgi neurons. Immunohistochemical analysis of a subset of these postmortem cerebellar samples revealed no change to Purkinje neuron soma size but evidence for increased activation of microglia in those children who had experienced inflammation. Maturation-associated and inflammation-associated gene expression changes included genes implicated in neurodevelopmental disorders. A gene regulatory network model integrating cell type-specific gene expression and chromatin accessibility identified seven temporally specific gene networks in Purkinje neurons and suggested that inflammation may be associated with the premature down-regulation of developmental gene expression programs.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Inflammation early in life is a clinically established risk factor for autism spectrum disorders and schizophrenia, yet the impact of inflammation on human brain development is poorly understood. The cerebellum undergoes protracted postnatal maturation, making it especially susceptible to perturbations contributing to the risk of developing neurodevelopmental disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37824600/",
+  "mesh_terms": [
+    "Child, Preschool",
+    "Humans",
+    "Cerebellum",
+    "Neurons",
+    "Purkinje Cells",
+    "Genomics",
+    "Inflammation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

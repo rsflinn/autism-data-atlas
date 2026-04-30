@@ -1,0 +1,48 @@
+{
+  "pmid": "34751141",
+  "doi": "10.1016/j.nbd.2021.105541",
+  "title": "Auditory hypersensitivity and processing deficits in a rat model of fragile X syndrome",
+  "authors": "Auerbach BD, Manohar S, Radziwon K, Salvi R",
+  "journal": "Neurobiology of disease",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "Fragile X (FX) syndrome is one of the leading inherited causes of autism spectrum disorder (ASD). A majority of FX and ASD patients exhibit sensory hypersensitivity, including auditory hypersensitivity or hyperacusis, a condition in which everyday sounds are perceived as much louder than normal. Auditory processing deficits in FX and ASD also afford the opportunity to develop objective and quantifiable outcome measures that are likely to translate between humans and animal models due to the well-conserved nature of the auditory system and well-developed behavioral read-outs of sound perception. Therefore, in this study we characterized auditory hypersensitivity in a Fmr1 knockout (KO) transgenic rat model of FX using an operant conditioning task to assess sound detection thresholds and suprathreshold auditory reaction time-intensity (RT-I) functions, a reliable psychoacoustic measure of loudness growth, at a variety of stimulus frequencies, bandwidths, and durations. Male Fmr1 KO and littermate WT rats both learned the task at the same rate and exhibited normal hearing thresholds. However, Fmr1 KO rats had faster auditory RTs over a broad range of intensities and steeper RT-I slopes than WT controls, perceptual evidence of excessive loudness growth in Fmr1 KO rats. Furthermore, we found that Fmr1 KO animals exhibited abnormal perceptual integration of sound duration and bandwidth, with diminished temporal but enhanced spectral integration of sound intensity. Because temporal and spectral integration of sound stimuli were altered in opposite directions in Fmr1 KO rats, this suggests that abnormal RTs in these animals are evidence of aberrant auditory processing rather than generalized hyperactivity or altered motor responses. Together, these results are indicative of fundamental changes to low-level auditory processing in Fmr1 KO animals. Finally, we demonstrated that antagonism of metabotropic glutamate receptor 5 (mGlu5) selectively and dose-dependently restored normal loudness growth in Fmr1 KO rats, suggesting a pharmacologic approach for alleviating sensory hypersensitivity associated with FX. This study leverages the tractable nature of the auditory system and the unique behavioral advantages of rats to provide important insights into the nature of a centrally important yet understudied aspect of FX and ASD.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X (FX) syndrome is one of the leading inherited causes of autism spectrum disorder (ASD). A majority of FX and ASD patients exhibit sensory hypersensitivity, including auditory hypersensitivity or hyperacusis, a condition in which everyday sounds are perceived as much louder than normal.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34751141/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Hyperacusis",
+    "Mice, Knockout",
+    "Rats",
+    "Rats, Transgenic",
+    "Mice"
+  ],
+  "keywords": [
+    "Auditory hypersensitivity",
+    "Autism spectrum disorder",
+    "Fragile X",
+    "Hyperacusis",
+    "Metabotropic glutamate receptor",
+    "Temporal integration"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

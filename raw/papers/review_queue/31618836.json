@@ -1,0 +1,49 @@
+{
+  "pmid": "31618836",
+  "doi": "10.3390/ijms20205104",
+  "title": "Tackling Missing Heritability by Use of an Optimum Curve: A Systematic Review and Meta-Analysis",
+  "authors": "Wegener Sleeswijk A, Heijungs R, Durston S",
+  "journal": "International journal of molecular sciences",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Missing heritability is a common problem in psychiatry that impedes precision medicine approaches to autism and other heritable complex disorders. This proof-of-concept study uses a systematic review and meta-analysis of the association between variants of the serotonin transporter promoter (5-HTTLPR) and autism to explore the hypothesis that some missing heritability can be explained using an optimum curve. A systematic literature search was performed to identify transmission disequilibrium tests on the short/long (S/L) 5-HTTLPR polymorphism in relation to autism. We analysed five American, seven European, four Asian and two American/European samples. We found no transmission preference in the joint samples and in Europe, preferential transmission of S in America and preferential transmission of L in Asia. Heritability will be underestimated or missed in genetic association studies if two alternative genetic variants are associated with the same disorder in different subsets of a sample. An optimum curve, relating a multifactorial biological variable that incorporates genes and environment to a score for a human trait, such as social competence, can explain this. We suggest that variants of functionally related genes will sometimes appear in fixed combinations at both sides of an optimum curve and propose that future association studies should account for such combinations.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Missing heritability is a common problem in psychiatry that impedes precision medicine approaches to autism and other heritable complex disorders. This proof-of-concept study uses a systematic review and meta-analysis of the association between variants of the serotonin transporter promoter (5-HTTLPR) and autism to explore the hypothesis that some missing heritability can be explained using an optimum curve.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31618836/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Odds Ratio",
+    "Polymorphism, Single Nucleotide",
+    "Risk Assessment",
+    "Serotonin Plasma Membrane Transport Proteins"
+  ],
+  "keywords": [
+    "5-HTTLPR polymorphism",
+    "autism",
+    "context-dependent risk variants",
+    "genetic association",
+    "inverted U",
+    "meta-analysis",
+    "missing heritability",
+    "multifactorial variable",
+    "optimum curve",
+    "systematic review"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ]
+}

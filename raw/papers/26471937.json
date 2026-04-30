@@ -1,0 +1,59 @@
+{
+  "pmid": "26471937",
+  "doi": "10.1016/j.cyto.2015.10.002",
+  "title": "Cytokines profile and peripheral blood mononuclear cells morphology in Rett and autistic patients",
+  "authors": "Pecorelli A, Cervellati F, Belmonte G, Montagner G, Waldon P, Hayek J, et al.",
+  "journal": "Cytokine",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "A potential role for immune dysfunction in autism spectrum disorders (ASD) has been well established. However, immunological features of Rett syndrome (RTT), a genetic neurodevelopmental disorder closely related to autism, have not been well addressed yet. By using multiplex Luminex technology, a panel of 27 cytokines and chemokines was evaluated in serum from 10 RTT patients with confirmed diagnosis of MECP2 mutation (typical RTT), 12 children affected by classic autistic disorder and 8 control subjects. The cytokine/chemokine gene expression was assessed by real time PCR on mRNA of isolated peripheral blood mononuclear cells (PBMCs). Moreover, ultrastructural analysis of PBMCs was performed using transmission electron microscopy (TEM). Significantly higher serum levels of interleukin-8 (IL-8), IL-9, IL-13 were detected in RTT compared to control subjects, and IL-15 shows a trend toward the upregulation in RTT. In addition, IL-1&#x3b2; and VEGF were the only down-regulated cytokines in autistic patients with respect to RTT. No difference in cytokine/chemokine profile between autistic and control groups was detected. These data were also confirmed by ELISA real time PCR. At the ultrastructural level, the most severe morphological abnormalities were observed in mitochondria of both RTT and autistic PBMCs. In conclusion, our study shows a deregulated cytokine/chemokine profile together with morphologically altered immune cells in RTT. Such abnormalities were not quite as evident in autistic subjects. These findings indicate a possible role of immune dysfunction in RTT making the clinical features of this pathology related also to the immunology aspects, suggesting, therefore, novel possible therapeutic interventions for this disorder.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "A potential role for immune dysfunction in autism spectrum disorders (ASD) has been well established. However, immunological features of Rett syndrome (RTT), a genetic neurodevelopmental disorder closely related to autism, have not been well addressed yet.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26471937/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cytokines",
+    "Gene Expression Profiling",
+    "Humans",
+    "Immunoenzyme Techniques",
+    "Interleukin-13",
+    "Interleukin-15",
+    "Interleukin-1beta",
+    "Interleukin-8",
+    "Interleukin-9",
+    "Leukocytes, Mononuclear",
+    "Microscopy, Electron, Transmission",
+    "Rett Syndrome",
+    "Reverse Transcriptase Polymerase Chain Reaction",
+    "Vascular Endothelial Growth Factor A",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Chemokine",
+    "Cytokine",
+    "Immune system",
+    "Mitochondria",
+    "Peripheral blood mononuclear cells",
+    "Rett syndrome"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

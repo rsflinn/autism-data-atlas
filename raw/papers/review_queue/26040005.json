@@ -1,0 +1,39 @@
+{
+  "pmid": "26040005",
+  "doi": "10.1515/hsz-2015-0117",
+  "title": "Red blood cells in Rett syndrome: oxidative stress, morphological changes and altered membrane organization",
+  "authors": "Ciccoli L, De Felice C, Leoncini S, Signorini C, Cortelazzo A, Zollo G, et al.",
+  "journal": "Biological chemistry",
+  "date": "2015-11",
+  "source": "pubmed",
+  "abstract": "In this review, we summarize the current evidence on the erythrocyte as a previously unrecognized target cell in Rett syndrome, a rare (1:10 000 females) and devastating neurodevelopmental disorder caused by loss-of-function mutations in a single gene (i.e. MeCP2, CDKL5, or rarely FOXG1). In particular, we focus on morphological changes, membrane oxidative damage, altered membrane fatty acid profile, and aberrant skeletal organization in erythrocytes from patients with typical Rett syndrome and MeCP2 gene mutations. The beneficial effects of &#x3c9;-3 polyunsaturated fatty acids (PUFAs) are also summarized for this condition to be considered as a 'model' condition for autism spectrum disorders.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CDKL5"
+  ],
+  "summary": "In this review, we summarize the current evidence on the erythrocyte as a previously unrecognized target cell in Rett syndrome, a rare (1:10 000 females) and devastating neurodevelopmental disorder caused by loss-of-function mutations in a single gene (i.e. MeCP2, CDKL5, or rarely FOXG1).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26040005/",
+  "mesh_terms": [
+    "Erythrocyte Membrane",
+    "Erythrocytes",
+    "Fatty Acids, Omega-3",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Oxidative Stress",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

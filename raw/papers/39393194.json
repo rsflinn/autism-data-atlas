@@ -1,0 +1,50 @@
+{
+  "pmid": "39393194",
+  "doi": "10.1016/j.pediatrneurol.2024.09.012",
+  "title": "Cortical Gyrification Is Associated With the Clinical Phenotype in Tuberous Sclerosis Complex",
+  "authors": "Trevisan N, Brunello F, Sambataro F, Biscalchin G, Nosadini M, Sartori S, et al.",
+  "journal": "Pediatric neurology",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is characterized by cortical tubers, determining cortical disarrangement and consequently drug-resistant epilepsy, intellectual disability, and TSC-associated neuropsychiatric disorders (TAND).\n\nTo establish whether gyrification index (GI), a software-based neuroradiological parameter, could be associated with the severity of phenotype in TSC, identifying the cortical regions that are more associated with the severity of the main clinical manifestations.\n\nThis was a retrospective cross-sectional study. Magnetic resonance imaging was acquired on a 1.5-T scanner. CAT12 toolbox was used for the estimation of GI. Data analysis was performed with Jamovi. The level of significance was set to P&#xa0;<&#xa0;0.05 for all tests.\n\nForty-five patients with TSC and 42 healthy controls were included. Patients with TSC were characterized by higher total GI (P&#xa0;=&#xa0;0.002) compared with healthy controls. Among patients with TSC, a higher total GI was associated with impaired neurological examination (P&#xa0;=&#xa0;0.039), epilepsy (P&#xa0;=&#xa0;0.017), intellectual disability (P&#xa0;=&#xa0;0.013), TAND (P&#xa0;=&#xa0;0.013), and higher number of cortical tubers (P&#xa0;<&#xa0;0.001). An increased local GI in specific cortical areas was associated with TAND and autism spectrum disorders.\n\nGI is a software-based neuroradiological parameter that could represent a reliable overall prognostic marker in TSC. Local GI can be used to identify phenotype-specific gyrification patterns allowing an early characterization of patients with TSC.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is characterized by cortical tubers, determining cortical disarrangement and consequently drug-resistant epilepsy, intellectual disability, and TSC-associated neuropsychiatric disorders (TAND). To establish whether gyrification index (GI), a software-based neuroradiological parameter, could be associated with the severity of phenotype in TSC, identifying the cortical regions that are more associated with the severity of the main clinical manifestations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39393194/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis",
+    "Male",
+    "Female",
+    "Phenotype",
+    "Retrospective Studies",
+    "Cross-Sectional Studies",
+    "Cerebral Cortex",
+    "Child",
+    "Adolescent",
+    "Magnetic Resonance Imaging",
+    "Adult",
+    "Young Adult",
+    "Child, Preschool",
+    "Intellectual Disability"
+  ],
+  "keywords": [
+    "Brain MRI",
+    "Epilepsy",
+    "Gyrification",
+    "Neuropsychiatric disorders",
+    "Tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pmid": "38441608",
+  "doi": "10.1007/s00415-024-12271-x",
+  "title": "CHD8-related disorders redefined: an expanding spectrum of dystonic phenotypes",
+  "authors": "Sorrentino U, Boesch S, Doummar D, Ravelli C, Serranova T, Indelicato E, et al.",
+  "journal": "Journal of neurology",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Heterozygous loss-of-function variants in CHD8 have been associated with a syndromic neurodevelopmental-disease spectrum, collectively referred to as CHD8-related neurodevelopmental disorders. Several different clinical manifestations, affecting neurodevelopmental and systemic domains, have been described, presenting with highly variable expressivity. Some expressions are well established and comprise autism spectrum disorders, psychomotor delay with cognitive impairment, postnatal overgrowth with macrocephaly, structural brain abnormalities, gastrointestinal disturbances, and behavioral and sleep-pattern problems. However, the complete phenotypic spectrum of CHD8-related disorders is still undefined. In 2021, our group described two singular female patients with CHD8-related neurodevelopmental disorder and striking dystonic manifestations, prompting the suggestion that dystonia should be considered a possible component of this condition.\n\nWe describe three additional unrelated female individuals, each carrying a different CHD8 frameshift variant and whose clinical presentations were primarily characterized by young-onset dystonia. Their dystonic manifestations were remarkably heterogeneous and ranged from focal, exercise-dependent, apparently isolated forms to generalized permanent phenotypes accompanied by spasticity and tremor. Neurocognitive impairment and autistic behaviors, typical of CHD8-related disorders, were virtually absent or at the mild end of the spectrum.\n\nThis work validates our previous observation that dystonia is part of the phenotypic spectrum of CHD8-related neurodevelopmental disorders with potential female preponderance, raising new challenges and opportunities in the diagnosis and management of this condition. It also highlights the importance of in-depth neurologic phenotyping of patients carrying variants associated with neurodevelopmental disorders, as the connection between neurodevelopmental and movement disorders is proving closer than previously appreciated.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Heterozygous loss-of-function variants in CHD8 have been associated with a syndromic neurodevelopmental-disease spectrum, collectively referred to as CHD8-related neurodevelopmental disorders. Several different clinical manifestations, affecting neurodevelopmental and systemic domains, have been described, presenting with highly variable expressivity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38441608/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Phenotype",
+    "DNA-Binding Proteins",
+    "Dystonia",
+    "Transcription Factors",
+    "Child",
+    "Adolescent",
+    "Neurodevelopmental Disorders",
+    "Adult",
+    "Dystonic Disorders",
+    "Frameshift Mutation",
+    "Young Adult",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "CHD8",
+    "CHD8-NDD",
+    "Autism",
+    "Dystonia",
+    "Exome sequencing",
+    "Movement disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Case Reports"
+  ]
+}

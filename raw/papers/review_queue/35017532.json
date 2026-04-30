@@ -1,0 +1,48 @@
+{
+  "pmid": "35017532",
+  "doi": "10.1038/s41467-021-27924-y",
+  "title": "Identification of a modular super-enhancer in murine retinal development",
+  "authors": "Honnell V, Norrie JL, Patel AG, Ramirez C, Zhang J, Lai YH, et al.",
+  "journal": "Nature communications",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Super-enhancers are expansive regions of genomic DNA comprised of multiple putative enhancers that contribute to the dynamic gene expression patterns during development. This is particularly important in neurogenesis because many essential transcription factors have complex developmental stage- and cell-type specific expression patterns across the central nervous system. In the developing retina, Vsx2 is expressed in retinal progenitor cells and is maintained in differentiated bipolar neurons and M&#xfc;ller glia. A single super-enhancer controls this complex and dynamic pattern of expression. Here we show that deletion of one region disrupts retinal progenitor cell proliferation but does not affect cell fate specification. The deletion of another region has no effect on retinal progenitor cell proliferation but instead leads to a complete loss of bipolar neurons. This prototypical super-enhancer may serve as a model for dissecting the complex gene expression patterns for neurogenic transcription factors during development. Moreover, it provides a unique opportunity to alter expression of individual transcription factors in particular cell types at specific stages of development. This provides a deeper understanding of function that cannot be achieved with traditional knockout mouse approaches.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Super-enhancers are expansive regions of genomic DNA comprised of multiple putative enhancers that contribute to the dynamic gene expression patterns during development. This is particularly important in neurogenesis because many essential transcription factors have complex developmental stage- and cell-type specific expression patterns across the central nervous system.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35017532/",
+  "mesh_terms": [
+    "Animals",
+    "CRISPR-Cas Systems",
+    "Cell Differentiation",
+    "Cell Proliferation",
+    "Epigenomics",
+    "Female",
+    "Gene Expression Regulation, Developmental",
+    "Homeodomain Proteins",
+    "Male",
+    "Mice",
+    "Neurogenesis",
+    "Neuroglia",
+    "Neurons",
+    "Regulatory Sequences, Nucleic Acid",
+    "Retina",
+    "Stem Cells",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "34811930",
+  "doi": "10.1002/aur.2636",
+  "title": "Eye gaze as a biomarker in the recognition of autism spectrum disorder using virtual reality and machine learning: A proof of concept for diagnosis",
+  "authors": "Alca&#xf1;iz M, Chicchi-Giglioli IA, Carrasco-Ribelles LA, Mar&#xed;n-Morales J, Minissi ME, Teruel-Garc&#xed;a G, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "The core symptoms of autism spectrum disorder (ASD) mainly relate to social communication and interactions. ASD assessment involves expert observations in neutral settings, which introduces limitations and biases related to lack of objectivity and does not capture performance in real-world settings. To overcome these limitations, advances in technologies (e.g., virtual reality) and sensors (e.g., eye-tracking tools) have been used to create realistic simulated environments and track eye movements, enriching assessments with more objective data than can be obtained via traditional measures. This study aimed to distinguish between autistic and typically developing children using visual attention behaviors through an eye-tracking paradigm in a virtual environment as a measure of attunement to and extraction of socially relevant information. The 55 children participated. Autistic children presented a higher number of frames, both overall and per scenario, and showed higher visual preferences for adults over children, as well as specific preferences for adults' rather than children's faces on which looked more at bodies. A set of multivariate supervised machine learning models were developed using recursive feature selection to recognize ASD based on extracted eye gaze features. The models achieved up to 86% accuracy (sensitivity&#xa0;=&#xa0;91%) in recognizing autistic children. Our results should be taken as preliminary due to the relatively small sample size and the lack of an external replication dataset. However, to our knowledge, this constitutes a first proof of concept in the combined use of virtual reality, eye-tracking tools, and machine learning for ASD recognition. LAY SUMMARY: Core symptoms in children with ASD involve social communication and interaction. ASD assessment includes expert observations in neutral settings, which show limitations and biases related to lack of objectivity and do not capture performance in real settings. To overcome these limitations, this work aimed to distinguish between autistic and typically developing children in visual attention behaviors through an eye-tracking paradigm in a virtual environment as a measure of attunement to, and extraction of, socially relevant information.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The core symptoms of autism spectrum disorder (ASD) mainly relate to social communication and interactions. ASD assessment involves expert observations in neutral settings, which introduces limitations and biases related to lack of objectivity and does not capture performance in real-world settings.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34811930/",
+  "mesh_terms": [
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Child",
+    "Fixation, Ocular",
+    "Humans",
+    "Machine Learning",
+    "Virtual Reality"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "behavioral biomarker",
+    "eye tracking",
+    "machine learning",
+    "multivariate supervised learning",
+    "virtual reality"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

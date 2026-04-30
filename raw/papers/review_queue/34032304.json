@@ -1,0 +1,47 @@
+{
+  "pmid": "34032304",
+  "doi": "10.1111/psyp.13852",
+  "title": "Oxytocin facilitates socially directed attention",
+  "authors": "Le J, Zhao W, Kou J, Fu M, Zhang Y, Becker B, et al.",
+  "journal": "Psychophysiology",
+  "date": "2021-05",
+  "source": "pubmed",
+  "abstract": "Socially directed gaze following is an important component of social interaction and communication, allowing us to attend mutually with others to objects or people so that we can share their experience and also learn from them. This type of joint social attention is impaired in disorders such as autism. Previous research has demonstrated that the neuropeptide oxytocin can facilitate attention toward social cues, although to date no study in humans has investigated its influence on socially directed gaze or on associations of the latter with autistic and empathic traits. In a within-subject, randomized, placebo-controlled trial we used eye-tracking to investigate the effects of intranasal oxytocin (24 IU) on socially directed gaze toward one of two objects in 40 adult male subjects. Subjects viewed videos of an actor and actress directing their gaze toward one of two objects by either moving only their eyes, moving both their eyes and head, or moving their eyes and head and pointing with a finger. Results showed that OXT increased the proportion of time subjects viewed the object the actor or actress were looking/pointing at across all three conditions, although unexpectedly we found no associations with trait autism or empathy under either placebo or OXT treatments. These findings demonstrate that OXT can facilitate socially directed gaze following to promote mutual attention toward objects which may be potentially beneficial therapeutically in disorders with impaired social communication and interaction.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Socially directed gaze following is an important component of social interaction and communication, allowing us to attend mutually with others to objects or people so that we can share their experience and also learn from them. This type of joint social attention is impaired in disorders such as autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34032304/",
+  "mesh_terms": [
+    "Adult",
+    "Attention",
+    "Autism Spectrum Disorder",
+    "Empathy",
+    "Eye-Tracking Technology",
+    "Fixation, Ocular",
+    "Humans",
+    "Male",
+    "Oxytocin",
+    "Social Perception",
+    "Visual Perception",
+    "Young Adult"
+  ],
+  "keywords": [
+    "attention",
+    "gaze directed",
+    "oxytocin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

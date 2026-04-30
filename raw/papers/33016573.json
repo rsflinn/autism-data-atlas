@@ -1,0 +1,47 @@
+{
+  "pmid": "33016573",
+  "doi": "10.15252/embr.202050283",
+  "title": "Critical regulation of a NDIME/MEF2C axis in embryonic stem cell neural differentiation and autism",
+  "authors": "Bai M, Ye D, Guo X, Xi J, Liu N, Wu Y, et al.",
+  "journal": "EMBO reports",
+  "date": "2020-10",
+  "source": "pubmed",
+  "abstract": "A microdeletion within human chromosome 5q14.3 has been associated with the occurrence of neurodevelopmental disorders, such as autism and intellectual disability, and MEF2C haploinsufficiency was identified as main cause. Here, we report that a brain-enriched long non-coding RNA,&#xa0;NDIME, is located near the MEF2C locus and is required for normal neural differentiation of mouse embryonic stem cells (mESCs). NDIME interacts with EZH2, the major component of polycomb repressive complex 2 (PRC2), and blocks EZH2-mediated trimethylation of histone H3 lysine 27 (H3K27me3) at the Mef2c promoter, promoting MEF2C transcription. Moreover, the expression levels of both NDIME and MEF2C were strongly downregulated in the hippocampus of a mouse model of autism, and the adeno-associated virus (AAV)-mediated expression of NDIME in the hippocampus of these mice significantly increased MEF2C expression and ameliorated autism-like behaviors. The results of this study reveal an epigenetic mechanism by which NDIME regulates MEF2C transcription and neural differentiation and suggest potential effects and therapeutic approaches of the NDIME/MEF2C axis in autism.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "MEF2C"
+  ],
+  "summary": "A microdeletion within human chromosome 5q14.3 has been associated with the occurrence of neurodevelopmental disorders, such as autism and intellectual disability, and MEF2C haploinsufficiency was identified as main cause. Here, we report that a brain-enriched long non-coding RNA,&#xa0;NDIME, is located near the MEF2C locus and is required for normal neural differentiation of mouse embryonic stem cells (mESCs).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33016573/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Cell Differentiation",
+    "Embryonic Stem Cells",
+    "Enhancer of Zeste Homolog 2 Protein",
+    "MEF2 Transcription Factors",
+    "Mice",
+    "Polycomb Repressive Complex 2",
+    "Promoter Regions, Genetic"
+  ],
+  "keywords": [
+    "LncRNA",
+    "MEF2C",
+    "autism",
+    "epigenetic regulation",
+    "neural differentiation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

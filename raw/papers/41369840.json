@@ -1,0 +1,35 @@
+{
+  "pmid": "41369840",
+  "doi": "10.1186/s40345-025-00404-8",
+  "title": "Advancing the prediction of factors associated with bipolar disorder risk: utilizing early recognition tools and polygenic risk scores",
+  "authors": "Biere S, Matura S, Petrova K, Streit F, Chiocchetti AG, Ahrens KF, et al.",
+  "journal": "International journal of bipolar disorders",
+  "date": "2025-12",
+  "source": "pubmed",
+  "abstract": "Bipolar disorder (BD) is a highly heritable mental illness that affects &#x223c; 1-2% of the world's population and has complex genetic and environmental underpinnings. Early detection is critical to improving treatment outcomes, but current strategies have limited predictive power. Early detection tools such as the Early Phase Inventory for Bipolar Disorder (EPIbipolar) and the Bipolar At-Risk (BARS) criteria assess phenotypic risk factors, including family history (FH) and subthreshold mood problems. Polygenic risk scores (PRS) are a quantitative metric of genetic susceptibility. This study examined the associations between BD-PRS and screening tools in order to assess their combined potential to identify individuals at risk of BD with improved predictive accuracy. The analysis included 1068 participants, including 199 at-risk young adults aged 15 to 35 years and 869 healthy controls aged 18 to 50 years. All of them had no prior psychiatric disorders. Inclusion criteria for the at-risk group comprised a positive FH (1st or 2nd degree) for BD, major depressive disorder (MDD), attention-deficit/hyperactivity disorder (ADHD), or the presence of specific BD risk factors (e.g., subthreshold hypomanic symptoms, mood swings, or sleep disturbances). Participants who had a confirmed BD, schizophrenia, schizoaffective disorder diagnosis, or other psychiatric conditions that could explain the symptomatology, were excluded. Diagnostic assessments that were utilized validated early detection instruments, including EPIbipolar, Bipolar Prodrome Interview and Symptom Scale-Prospective (BPSS-FP), and BARS criteria. Binary logistic regression models were employed to assess associations between BD-PRS and phenotypic risk markers, with adjustments for population stratification. Results revealed significant associations between BD-PRS and BARS criteria risk groups and EPIbipolar \"at risk\" criteria compared to controls. Significant associations were also identified for subscales including FH for BD, MDD, or schizophrenia, sleep and circadian rhythm disturbances, depressive characteristics, functional impairment, and episodic course. However, no significant associations were observed between BD-PRS and BPSS-FP, which highlights variability in the sensitivity of different early detection instruments. Our findings emphasize the potential of combining genetic susceptibility measures with phenotypic risk markers to enhance early detection strategies for BD. Further research is needed to optimize predictive models and evaluate the clinical utility of PRS in early intervention frameworks.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Bipolar disorder (BD) is a highly heritable mental illness that affects &#x223c; 1-2% of the world's population and has complex genetic and environmental underpinnings. Early detection is critical to improving treatment outcomes, but current strategies have limited predictive power.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41369840/",
+  "mesh_terms": [],
+  "keywords": [
+    "Bipolar disorder",
+    "Early recognition",
+    "Early symptoms",
+    "Family history",
+    "Polygenic risk score",
+    "Risk factors"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

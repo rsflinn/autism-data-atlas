@@ -1,0 +1,47 @@
+{
+  "pmid": "32083397",
+  "doi": "10.1002/aur.2279",
+  "title": "Vitamin D Receptor Polymorphisms Associated with Autism Spectrum Disorder",
+  "authors": "Guerini FR, Bolognesi E, Chiappedi M, Mensi MM, Fumagalli O, Rogantini C, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "Vitamin D is endowed with a number of biological properties, including down-regulation of inflammation, and might contribute to the pathogenesis of autism spectrum disorders (ASD). Vitamin D binds to the vitamin D Receptor (VDR); the biological activity of the ensuing complex depends on VDR FokI, BsmI, ApaI, and TaqI gene polymorphisms. We evaluated such Single Nucletoide Polymorphismsm (SNPs) in a cohort of 100 Italian families with ASD children. FokI genotype distribution was skewed in ASD children compared with their healthy sibs (P=&#x2009;0.03 2 df) and to a group of 170 Italian healthy women (HC) (P=&#x2009;0.04 2 df). FokI genotype and allelic distribution skewing were also observed in mothers of ASD children compared to HC (P=&#x2009;0.04 2 df). Both Transmission Disequilibrium Test for single loci and haplotype analysis distribution revealed a major FokI (C) allele-mediated protective effect, which was more frequently transmitted (73%) than not transmitted to healthy sibs (P = 0.02). A protective FokI-, BsmI-, ApaI-, and TaqI (CCAG) haplotype was more frequently carried by healthy sibs than by ASD children (P = 1 &#xd7;&#x2009;10; OR: 0.1, 95% CI: 0.03-0.4) too. Finally, a strong gene-dose association of FokI (T) allele with both higher Childhood Autism Rating Scale score (P=&#x2009;0.01) and, particularly, with hyperactivity behavior (P=&#x2009;0.006) emerged in ASD children. Because the protein produced by the FokI (T) allele is transcriptionally less active than that produced by the FokI (C) allele, the reduced biological activity of the vitamin D/VDR complex prevalent in ASD could favor ASD- and maternal immune activation- associated inflammation. Vitamin D supplementation might be useful in preventative and rehabilitation protocols for ASD. Autism Res 2020, 13: 680-690. &#xa9; 2020 International Society for Autism Research, Wiley Periodicals, Inc. LAY SUMMARY: Vitamin D deficiency and Vitamin D receptor (VDR) polymorphisms are associated with structural and functional brain abnormalities and behavioral disorders. We analyzed the association of VDR gene polymorphisms in a cohort of 100 Italian families with ASD children. A strong correlation between one of the VDR polymorphisms and hyperactivity behavior was evidenced in ASD children. In healthy mothers, the same VDR polymorphism was also correlated with an increased risk of giving birth to children with ASD.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Vitamin D is endowed with a number of biological properties, including down-regulation of inflammation, and might contribute to the pathogenesis of autism spectrum disorders (ASD). Vitamin D binds to the vitamin D Receptor (VDR); the biological activity of the ensuing complex depends on VDR FokI, BsmI, ApaI, and TaqI gene polymorphisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32083397/",
+  "mesh_terms": [
+    "Alleles",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genotype",
+    "Haplotypes",
+    "Humans",
+    "Italy",
+    "Male",
+    "Polymorphism, Genetic",
+    "Receptors, Calcitriol"
+  ],
+  "keywords": [
+    "Autistic Spectrum Disorder",
+    "Immune system, VDR FokI",
+    "VDR polymorphisms",
+    "Vitamin D"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

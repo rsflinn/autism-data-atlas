@@ -1,0 +1,62 @@
+{
+  "pmid": "32105570",
+  "doi": "10.1089/omi.2019.0192",
+  "title": "Rett Syndrome, a Neurodevelopmental Disorder, Whole-Transcriptome, and Mitochondrial Genome Multiomics Analyses Identify Novel Variations and Disease Pathways",
+  "authors": "Aldosary M, Al-Bakheet A, Al-Dhalaan H, Almass R, Alsagob M, Al-Younes B, et al.",
+  "journal": "Omics : a journal of integrative biology",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a severe neurodevelopmental disorder reported worldwide in diverse populations. RTT is diagnosed primarily in females, with clinical findings manifesting early in life. Despite the variable rates across populations, RTT has an estimated prevalence of &#x223c;1 in 10,000 live female births. Among 215 Saudi Arabian patients with neurodevelopmental and autism spectrum disorders, we identified 33 patients with RTT who were subsequently examined by genome-wide transcriptome and mitochondrial genome variations. To the best of our knowledge, this is the first in-depth molecular and multiomics analyses of a large cohort of Saudi RTT cases with a view to informing the underlying mechanisms of this disease that impact many patients and families worldwide. The patients were unrelated, except for 2 affected sisters, and comprised of 25 classic and eight atypical RTT cases. The cases were screened for methyl-CpG binding protein 2 (),,,and mitochondrial DNA (mtDNA) variants, as well as copy number variations (CNVs) using a genome-wide experimental strategy. We found that 15 patients (13 classic and two atypical RTT) havemutations, 2 of which were novel variants. Two patients had novelandvariants (both atypical RTT). Whole mtDNA sequencing of the patients who were MECP2 negative revealed two novel mtDNA variants in two classic RTT patients. Importantly, the whole-transcriptome analysis of our RTT patients' blood and further comparison with previous expression profiling of brain tissue from patients with RTT revealed 77 significantly dysregulated genes. The gene ontology and interaction network analysis indicated potentially critical roles of,,,,,, and mitochondrial dysfunction, oxidative stress response and MAPK signaling pathways in the pathogenesis of RTT genes. This study expands our knowledge on RTT disease networks and pathways as well as presents novel mutations and mtDNA alterations in RTT in a population sample that was not previously studied.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is a severe neurodevelopmental disorder reported worldwide in diverse populations. RTT is diagnosed primarily in females, with clinical findings manifesting early in life.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32105570/",
+  "mesh_terms": [
+    "Case-Control Studies",
+    "Child",
+    "Child, Preschool",
+    "DNA Copy Number Variations",
+    "Female",
+    "Forkhead Transcription Factors",
+    "Gene Expression Profiling",
+    "Gene Expression Regulation",
+    "Gene Ontology",
+    "Gene Regulatory Networks",
+    "Genome, Human",
+    "Genome, Mitochondrial",
+    "Humans",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mitochondria",
+    "Molecular Sequence Annotation",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Protein Serine-Threonine Kinases",
+    "Rett Syndrome",
+    "Signal Transduction",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "MECP2",
+    "Rett syndrome",
+    "copy number variations (CNVs)",
+    "mitochondria",
+    "neurodevelopmental and autism spectrum disorder",
+    "transcriptome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

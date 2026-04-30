@@ -1,0 +1,53 @@
+{
+  "pmid": "24339137",
+  "doi": "10.1002/ajmg.b.32204",
+  "title": "Sequence analysis of 17 NRXN1 deletions",
+  "authors": "Enggaard Hoeffding LK, Hansen T, Ingason A, Doung L, Thygesen JH, M&#xf8;ller RS, et al.",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2013-09",
+  "source": "pubmed",
+  "abstract": "Genome instability plays fundamental roles in human evolution and phenotypic variation within our population. This instability leads to genomic rearrangements that are involved in a wide variety of human disorders, including congenital and neurodevelopmental disorders, and cancers. Insight into the molecular mechanisms governing such genomic rearrangements may increase our understanding of disease pathology and evolutionary processes. Here we analyse 17 carriers of non-recurrent deletions in the NRXN1 gene, which have been associated with neurodevelopmental disorders, e.g. schizophrenia, autism and epilepsies.\n\n17 non-recurrent NRXN1 deletions identified by GWA were sequenced to map the breakpoints of each. Meme &#x2026; etc. was used to identify shared patterns between the deletions and compare these were previously studies on non-recurrent deletions.\n\nWe discovered two novel sequence motifs shared between all 17 NRXN1 deletions and a significantly higher AT nucleotide content at the breakpoints, compared to the overall nucleotide content on chromosome 2. We found different alteration of sequence at the breakpoint; small insertions and duplications giving rise to short microhomology sequences.\n\nNo single mechanism seems to be implicated in the deletion events, but the results suggest that NHEJ, FoSTeS or MMBIR is implicated. The two novel sequence motifs together with a high AT content in all in NRXN1 deletions may lead to increased instability leading to a increase susceptibility to a single stranded structures. This favours potentially repaired by NHEJ mechanism of double strand breaks or may leading to replication errors. &#xa9; 2013 Wiley Periodicals, Inc.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "NRXN1"
+  ],
+  "summary": "Genome instability plays fundamental roles in human evolution and phenotypic variation within our population. This instability leads to genomic rearrangements that are involved in a wide variety of human disorders, including congenital and neurodevelopmental disorders, and cancers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24339137/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Base Composition",
+    "Base Sequence",
+    "Calcium-Binding Proteins",
+    "Cell Adhesion Molecules, Neuronal",
+    "DNA Copy Number Variations",
+    "DNA End-Joining Repair",
+    "Epilepsy",
+    "Gene Deletion",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Genomic Instability",
+    "Humans",
+    "Nerve Tissue Proteins",
+    "Neural Cell Adhesion Molecules",
+    "Schizophrenia",
+    "Sequence Analysis, DNA"
+  ],
+  "keywords": [
+    "breakpoints",
+    "deletion",
+    "neurexin 1"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

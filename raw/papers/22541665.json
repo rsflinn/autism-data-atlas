@@ -1,0 +1,40 @@
+{
+  "pmid": "22541665",
+  "doi": "10.1016/j.braindev.2012.03.015",
+  "title": "Pharmacotherapy of autism spectrum disorders",
+  "authors": "Benvenuto A, Battan B, Porfirio MC, Curatolo P",
+  "journal": "Brain & development",
+  "date": "2012-04",
+  "source": "pubmed",
+  "abstract": "Although no pharmacological or behavioral therapy has currently proven effective for treating all core symptoms of autism, many dysfunctional behaviors may be treated pharmacologically. Drug treatments should always be part of a comprehensive management plan that includes behavioral and educational interventions, and should be focused on specific targets. Several classes of psychotropic medications have been used to decrease the wide range of \"maladaptive\" or \"interfering\" behaviors and associated medical problems that can interfere with relationships and physical health and hinder the implementation of various non-pharmacological interventions. Atypical neuroleptics have been shown to be useful in the treatment of behavioral symptoms in autism. Attention deficit and hyperactivity disorder medications may be effective for counteracting the additional features of hyperactivity and short attention span. Antiepileptic drugs and selective serotonin reuptake inhibitors have shown promising results, but there are no specific indications for them as of yet. With respect to potential drug targets, some clinical features are caused by a dysfunction in neurochemical signaling systems, and thus may improve with selective pharmacological interventions acting on specific abnormal neurobiological pathways. Recent animal studies can be useful models for understanding the common pathogenic pathways leading to autism spectrum disorders (ASDs), and have the potential to offer new biologically focused treatment options.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Although no pharmacological or behavioral therapy has currently proven effective for treating all core symptoms of autism, many dysfunctional behaviors may be treated pharmacologically. Drug treatments should always be part of a comprehensive management plan that includes behavioral and educational interventions, and should be focused on specific targets.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22541665/",
+  "mesh_terms": [
+    "Adolescent",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Child, Preschool",
+    "Humans",
+    "Infant",
+    "Psychotropic Drugs",
+    "Randomized Controlled Trials as Topic",
+    "Stereotyped Behavior"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

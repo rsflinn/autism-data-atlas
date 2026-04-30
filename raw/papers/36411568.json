@@ -1,0 +1,44 @@
+{
+  "pmid": "36411568",
+  "doi": "10.2174/1570159X21666221121095618",
+  "title": "Treatment of Autism Spectrum Disorders by Mitochondrial-targeted Drug: Future of Neurological Diseases Therapeutics",
+  "authors": "Nabi SU, Rehman MU, Arafah A, Taifa S, Khan IS, Khan A, et al.",
+  "journal": "Current neuropharmacology",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Autism is a neurodevelopmental disorder with a complex etiology that might involve environmental and genetic variables. Recently, some epidemiological studies conducted in various parts of the world have estimated a significant increase in the prevalence of autism, with 1 in every 59 children having some degree of autism. Since autism has been associated with other clinical abnormalities, there is every possibility that a sub-cellular component may be involved in the progression of autism. The organelle remains a focus based on mitochondria's functionality and metabolic role in cells. Furthermore, the mitochondrial genome is inherited maternally and has its DNA and organelle that remain actively involved during embryonic development; these characteristics have linked mitochondrial dysfunction to autism. Although rapid stride has been made in autism research, there are limited studies that have made particular emphasis on mitochondrial dysfunction and autism. Accumulating evidence from studies conducted at cellular and sub-cellular levels has indicated that mitochondrial dysfunction's role in autism is more than expected. The present review has attempted to describe the risk factors of autism, the role of mitochondria in the progression of the disease, oxidative damage as a trigger point to initiate mitochondrial damage, genetic determinants of the disease, possible pathogenic pathways and therapeutic regimen in vogue and the developmental stage. Furthermore, in the present review, an attempt has been made to include the novel therapeutic regimens under investigation at different clinical trial stages and their potential possibility to emerge as promising drugs against ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a neurodevelopmental disorder with a complex etiology that might involve environmental and genetic variables. Recently, some epidemiological studies conducted in various parts of the world have estimated a significant increase in the prevalence of autism, with 1 in every 59 children having some degree of autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36411568/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Mitochondria",
+    "Autistic Disorder",
+    "Nervous System Diseases",
+    "Oxidative Stress"
+  ],
+  "keywords": [
+    "Autism",
+    "autism spectrum disorders",
+    "mitochondria",
+    "mitochondrial dysfunction",
+    "neurodevelopmental disorder",
+    "therapeutic target"
+  ],
+  "article_types": [
+    "Review",
+    "Journal Article"
+  ]
+}

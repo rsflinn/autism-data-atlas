@@ -1,0 +1,42 @@
+{
+  "pmid": "35265999",
+  "doi": "10.1093/schbul/sbac019",
+  "title": "Cross-Disorder Analysis of Shared Genetic Components Between Cortical Structures and Major Psychiatric Disorders",
+  "authors": "Li Z, Li D, He Y, Wang K, Ma X, Chen X",
+  "journal": "Schizophrenia bulletin",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "Although large-scale neuroimaging studies have demonstrated similar patterns of structural brain abnormalities across major psychiatric disorders, the underlying genetic etiology behind these similar cross-disorder patterns is not well understood.\n\nWe quantified the extent of shared genetic components between cortical structures and major psychiatric disorders (CS-MPD) by using genome-wide association study (GWAS) summary statistics of 70 cortical structures (surface area and thickness of the whole cortex and 34 cortical regions) and five major psychiatric disorders, consisting of attention deficit hyperactivity disorder (ADHD), autism spectrum disorder (ASD), bipolar disorder (BD), major depressive disorder (MDD), and schizophrenia (SCZ). Cross-disorder analyses were then conducted to estimate the degree of similarity in CS-MPD shared genetic components among these disorders.\n\nThe CS-MPD shared genetic components have medium-to-strong positive correlations in ADHD, BD, MDD, and SCZ (r&#x2005;=&#x2005;0.415 to r&#x2005;=&#x2005;0.806) while ASD was significantly correlated with ADHD, BD, and SCZ (r&#x2005;=&#x2005;0.388 to r&#x2005;=&#x2005;0.403). These pairwise correlations of CS-MPD shared genetic components among disorders were significantly associated with corresponding cross-disorder similarities in cortical structural abnormalities (r&#x2005;=&#x2005;0.668), accounting for 44% variance. In addition, one latent shared factor consisted primarily of BD, MDD, and SCZ, explaining 62.47% of the total variance in CS-MPD shared genetic components of all disorders.\n\nThe current results bridge the gap between shared cross-disorder heritability and shared structural brain abnormalities in major psychiatric disorders, providing important implications for a shared genetic basis of cortical structures in these disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Although large-scale neuroimaging studies have demonstrated similar patterns of structural brain abnormalities across major psychiatric disorders, the underlying genetic etiology behind these similar cross-disorder patterns is not well understood. We quantified the extent of shared genetic components between cortical structures and major psychiatric disorders (CS-MPD) by using genome-wide association study (GWAS) summary statistics of 70 cortical structures (surface area and thickness of the who",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35265999/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Bipolar Disorder",
+    "Major Depressive Disorder",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans"
+  ],
+  "keywords": [
+    "cortical structures",
+    "cross-disorder similarities",
+    "major psychiatric disorders",
+    "shared genetic components"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

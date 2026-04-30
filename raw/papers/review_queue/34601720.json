@@ -1,0 +1,43 @@
+{
+  "pmid": "34601720",
+  "doi": "10.1111/dmcn.15073",
+  "title": "Evolution of electroencephalogram in infants with tuberous sclerosis complex and neurodevelopmental outcome: a prospective cohort study",
+  "authors": "De Ridder J, Kotulska K, Curatolo P, Jansen AC, Aronica E, Kwiatkowski DJ, et al.",
+  "journal": "Developmental medicine and child neurology",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "To describe the evolution of electroencephalogram (EEG) characteristics in infants with tuberous sclerosis complex (TSC) and the relationship with neurodevelopmental outcome at 24&#x2009;months.\n\nEighty-three infants were enrolled in the EPISTOP trial and underwent serial EEG follow-up until the age of 24&#x2009;months (males n=45, females n=37, median age at enrolment 28d, interquartile range 14-54d). Maturation of the EEG background and epileptiform discharges were compared between the TSC1 and TSC2 variants and between preventive and conventional groups respectively.\n\nChildren with TSC2 more frequently had a slower posterior dominant rhythm (PDR) at 24 months (51% vs 11%, p=0.002), a higher number of epileptiform foci (median=8 vs 4, p=0.003), and a lower fraction of EEGs without epileptiform discharges (18% vs 61%, p=0.001) at follow-up. A slower PDR at 24 months was significantly associated with lower cognitive (median=70 vs 80, p=0.028) and motor developmental quotients (median=70 vs 79, p=0.008). A higher fraction of EEGs without epileptiform discharges was associated with a lower probability of autism spectrum disorder symptoms (odds ratio=0.092, 95% confidence interval=0.009-0.912, p=0.042) and higher cognitive (p=0.004), language (p=0.002), and motor (p=0.001) developmental quotients at 24&#x2009;months.\n\nTSC2 is associated with more abnormal EEG characteristics compared to TSC1, which are predictive for neurodevelopmental outcome.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "To describe the evolution of electroencephalogram (EEG) characteristics in infants with tuberous sclerosis complex (TSC) and the relationship with neurodevelopmental outcome at 24&#x2009;months. Eighty-three infants were enrolled in the EPISTOP trial and underwent serial EEG follow-up until the age of 24&#x2009;months (males n=45, females n=37, median age at enrolment 28d, interquartile range 14-54d).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34601720/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Electroencephalography",
+    "Female",
+    "Humans",
+    "Infant",
+    "Male",
+    "Prospective Studies",
+    "Tuberous Sclerosis",
+    "Tuberous Sclerosis Complex 2 Protein"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

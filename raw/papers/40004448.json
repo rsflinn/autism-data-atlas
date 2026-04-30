@@ -1,0 +1,45 @@
+{
+  "pmid": "40004448",
+  "doi": "10.3390/genes16020120",
+  "title": "Novelc.1303C>T Variant Led to Diagnosis of Intellectual Developmental Disorder with Autism and Speech Delay: Application of Comprehensive Family-Based Whole-Genome Analysis",
+  "authors": "&#x106;uk M, Unal B, Bagari&#x107; M, Krakar G, Walker M, Hayes CP, et al.",
+  "journal": "Genes",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Intellectual developmental disorder with autism and speech delay (IDDAS) is a rare and complex neurological disorder characterized by the presence of both intellectual and speech impairment and features of autism spectrum disorder (ASD). The prevalence of IDDAS is unknown but genetically, it is caused by heterozygous variants in thegene.\n\nA 7-year-old female with autistic features and delayed speech development was presented with unaffected parents. Trio-joint analysis was conducted on whole-genome sequencing (WGS) data from the proband and unaffected parents. A phenotype-driven analysis was conducted to investigate variants related to the patient's clinical presentation. A zygosity-focused analysis was performed to investigate de novo and compound heterozygote variants related to the etiology.\n\nThe joint-genome analysis identified a novel NM_006593.4():c.1303C>T p.Gln435* nonsense variant in the proband. The de novo analysis confirmed the absence of the variant in the parents. No additional causative variants were identified in genes associated with the proband's phenotype.\n\nThis is the first report of the NM_006593.4():c.1303C>T variant in a patient with IDDAS. This study presents the clinical features of the patient and highlights details of trio-WGS analysis in the molecular diagnosis of this complex disease. Sharing these details is important, as they contribute to the understanding of the spectrum of this rare syndrome.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Intellectual developmental disorder with autism and speech delay (IDDAS) is a rare and complex neurological disorder characterized by the presence of both intellectual and speech impairment and features of autism spectrum disorder (ASD). The prevalence of IDDAS is unknown but genetically, it is caused by heterozygous variants in thegene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40004448/",
+  "mesh_terms": [
+    "Child",
+    "Female",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Intellectual Disability",
+    "Language Development Disorders",
+    "Pedigree",
+    "Phenotype",
+    "T-Box Domain Proteins",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [
+    "IDDAS",
+    "TBR1",
+    "autism spectrum disorder",
+    "neurodevelopmental disorder"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "35944998",
+  "doi": "10.1523/JNEUROSCI.0409-22.2022",
+  "title": "Shared and Distinct Functional Effects of Patient-SpecificMutations on Cortical Development",
+  "authors": "Co M, Barnard RA, Jahncke JN, Grindstaff S, Fedorov LM, Adey AC, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "T-Box Brain Transcription Factor 1 (TBR1) plays essential roles in brain development, mediating neuronal migration, fate specification, and axon tract formation. While heterozygous loss-of-function and missensemutations are associated with neurodevelopmental conditions, the effects of these heterogeneous mutations on brain development have yet to be fully explored. We characterized multiple mouse lines carryingmutations differing by type and exonic location, including the previously generatedexon 2-3 knock-out (KO) line, and we analyzed male and female mice at neonatal and adult stages. The frameshift patient mutation A136PfsX80 (A136fs) caused reduced TBR1 protein in cortex similar toKO, while the missense patient mutation K228E caused significant TBR1 upregulation. Analysis of cortical layer formation found similar defects between KO and A136fs homozygotes in their CUX1and CTIP2layer positions, while K228E homozygosity produced layering defects distinct from these mutants. Meanwhile, the examination of cortical apoptosis found extensive cell death in KO homozygotes but limited cell death in A136fs or K228E homozygotes. Despite their discordant cortical phenotypes, thesemutations produced several congruent phenotypes, including anterior commissure reduction in heterozygotes, which was previously observed in humans withmutations. These results indicate that patient-specificmutant mice will be valuable translational models for pinpointing shared and distinct etiologies among patients with-related developmental conditions.Mutations of thegene increase the likelihood of neurodevelopmental conditions such as intellectual disability and autism. Therefore, the study ofcan offer insights into the biological mechanisms underlying these conditions, which affect millions worldwide. To improve the modeling of-related conditions over currentknock-out mice, we created mouse lines carryingmutations identical to those found in human patients. Mice with one mutantcopy show reduced amygdalar connections regardless of mutation type, suggesting a core biomarker for-related disorders. In mice with two mutantcopies, brain phenotypes diverge by mutation type, suggesting differences ingene functionality in different patients. These mouse models will serve as valuable tools for understanding genotype-phenotype relationships among patients with neurodevelopmental conditions.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TBR1"
+  ],
+  "summary": "T-Box Brain Transcription Factor 1 (TBR1) plays essential roles in brain development, mediating neuronal migration, fate specification, and axon tract formation. While heterozygous loss-of-function and missensemutations are associated with neurodevelopmental conditions, the effects of these heterogeneous mutations on brain development have yet to be fully explored.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35944998/",
+  "mesh_terms": [
+    "Animals",
+    "Axons",
+    "DNA-Binding Proteins",
+    "Female",
+    "Humans",
+    "Male",
+    "Mice",
+    "Mice, Knockout",
+    "Mutation",
+    "Neurogenesis",
+    "T-Box Domain Proteins"
+  ],
+  "keywords": [
+    "TBR1",
+    "autism",
+    "cortex",
+    "developmental biology",
+    "genetics",
+    "mouse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

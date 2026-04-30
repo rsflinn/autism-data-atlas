@@ -1,0 +1,43 @@
+{
+  "pmid": "35467404",
+  "doi": "10.1128/spectrum.01864-21",
+  "title": "Postnatal Cytomegalovirus Infection May Increase the Susceptibility of Tuberous Sclerosis Complex to Autism Spectrum Disorders",
+  "authors": "Yang XY, Wang YY, Zhou YP, He J, Mei MJ, Zhang MN, et al.",
+  "journal": "Microbiology spectrum",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD), a highly hereditary and heterogeneous neurodevelopmental disorder, is influenced by genetic and environmental factors. Tuberous sclerosis complex (TSC) is a common syndrome associated with ASD. Cytomegalovirus (CMV) infection is an environmental risk factor for ASD. The similarities in pathological and mechanistic pathways of TSC and CMV intrigued us to investigate whether CMV and TSC interacted in ASD's occurrence. We detected CMV IgG seroprevalence of 308 TSC patients from our prospective cohort (September 2011 to March 2021) and 93 healthy children by magnetic particle indirect chemiluminescence immunoassay. A total of 206 TSC patients enrolled were divided into ASD and non-ASD groups, and the relationship between ASD and CMV seroprevalence was analyzed. Nested PCR and Western blot were used to detect CMV DNAs and proteins in cortical malformations of seven TSC patients with and without ASD. No difference was found in CMV seroprevalence between TSC patients and healthy children (74.0% versus 72.0%,&#x2009;=&#x2009;0.704). Univariate analysis showed the seroprevalence in TSC patients with ASD was higher than that in TSC patients without ASD (89.2% versus 75.1%,&#x2009;=&#x2009;0.063), and multifactorial analysis showed that CMV seroprevalence was a risk factor for ASD in TSC patients (OR&#x2009;=&#x2009;3.976, 95% CI = 1.093 to 14.454). Moreover, CMV was more likely to be detected in the cortical malformations in TSC patients with ASD but not in those without ASD. The findings demonstrated that CMV may increase the susceptibility of TSC to ASD.CMV is an environmental risk factor for ASD, but its role in syndromic autism with known genetic etiology has been rarely studied. The pathogenesis of ASD is related to the interaction between environmental and genetic factors. This study demonstrated that CMV can contribute to the occurrence of ASD related to TSC, a common genetic syndrome associated with ASD. Our findings provided support for the theory of gene-environment interaction (G&#x2009;&#xd7;&#x2009;E) in pathogenesis of ASD and a new perspective for the prevention and therapy for TSC related ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD), a highly hereditary and heterogeneous neurodevelopmental disorder, is influenced by genetic and environmental factors. Tuberous sclerosis complex (TSC) is a common syndrome associated with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35467404/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Humans",
+    "Prospective Studies",
+    "Seroepidemiologic Studies",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "cytomegalovirus",
+    "gene-environment interaction",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "41287966",
+  "doi": "10.1161/ATVBAHA.125.323397",
+  "title": "Generation of hiPSC-Derived Brain Microvascular Endothelial Cells Using Directed Differentiation and Transcriptional Reprogramming",
+  "authors": "Cui A, Patel R, Bosco P, Akcan U, Richters E, Barrilero Delgado P, et al.",
+  "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+  "date": "2025-11",
+  "source": "pubmed",
+  "abstract": "Modeling the human blood-brain barrier (BBB) is limited by the lack of robust protocols to generate induced pluripotent stem cell (iPSC)-derived brain microvascular endothelial cells (BMECs). Current methods generate cells that do not fully recapitulate key BMEC functions or the brain endothelial transcriptome identity.\n\nTo address this gap, we combined directed differentiation of human iPSCs into BBB-primed endothelial cells with overexpression of FOXF2 (forkhead box F2) and ZIC3 (zic family zinc finger 3), transcription factors critical for BMEC identity, to generate reprogrammed BMECs (rBMECs) from 3 iPSC lines. We performed immunofluorescence, functional analyses, and bulk RNA sequencing to characterize these cells. We cocultured rBMECs with iPSC-derived astrocytes and pericytes in the MIMETAS microfluidics platform to assess how 3-dimensional culture influences their BBB properties. Finally, we generated rBMECs expressing familial Alzheimer disease mutationto elucidate how this genetic variant affects barrier properties compared with exposure to oA&#x3b2;42 (oligomeric amyloid-&#x3b2; [1-42] peptide).\n\nTranscriptomic and functional analyses show that rBMECs express a subset of the BBB transcriptome and exhibit stronger paracellular barrier properties, lower caveolar-mediated transport, and comparable PGP (P-glycoprotein) activity compared with primary human BMECs. rBMECs interact with human iPSC-derived pericytes and astrocytes to form a 3D neurovascular system in the MIMETAS microfluidics platform with robust BBB properties. Finally,rBMECs show decreased barrier integrity and upregulation of inflammatory markers. In contrast, treatment of control rBMECs with oA&#x3b2;42 increases inflammatory markers, but does not alter barrier integrity.\n\nThis protocol generates rBMECs with strong BBB properties and a brain-specific transcriptome signature. In addition, the iPSC-derived 3D neurovascular unit system shows some similar properties to the in vivo human BBB. Finally, familial Alzheimer disease mutationalters several BBB-related properties of rBMECs and their inflammatory state, independent of A&#x3b2;42 (amyloid-&#x3b2; [1-42] peptide).",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Modeling the human blood-brain barrier (BBB) is limited by the lack of robust protocols to generate induced pluripotent stem cell (iPSC)-derived brain microvascular endothelial cells (BMECs). Current methods generate cells that do not fully recapitulate key BMEC functions or the brain endothelial transcriptome identity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41287966/",
+  "mesh_terms": [
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Endothelial Cells",
+    "Blood-Brain Barrier",
+    "Cell Differentiation",
+    "Microvessels",
+    "Coculture Techniques",
+    "Cellular Reprogramming",
+    "Pericytes",
+    "Astrocytes",
+    "Brain",
+    "Transcriptome",
+    "Cells, Cultured",
+    "Amyloid beta-Peptides",
+    "Forkhead Transcription Factors",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "astrocytes",
+    "blood-brain barrier",
+    "endothelial cells",
+    "pericytes",
+    "tight junctions"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

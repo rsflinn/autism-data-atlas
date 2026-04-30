@@ -1,0 +1,41 @@
+{
+  "pmid": "35681419",
+  "doi": "10.3390/cells11111725",
+  "title": "Across Dimensions: Developing 2D and 3D Human iPSC-Based Models of Fragile X Syndrome",
+  "authors": "Lee A, Xu J, Wen Z, Jin P",
+  "journal": "Cells",
+  "date": "2022-05",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common inherited cause of intellectual disability and autism spectrum disorder. FXS is caused by a cytosine-guanine-guanine (CGG) trinucleotide repeat expansion in the untranslated region of thegene leading to the functional loss of the gene's protein product FMRP. Various animal models of FXS have provided substantial knowledge about the disorder. However, critical limitations exist in replicating the pathophysiological mechanisms. Human induced pluripotent stem cells (hiPSCs) provide a unique means of studying the features and processes of both normal and abnormal human neurodevelopment in large sample quantities in a controlled setting. Human iPSC-based models of FXS have offered a better understanding of FXS pathophysiology specific to humans. This review summarizes studies that have used hiPSC-based two-dimensional cellular models of FXS to reproduce the pathology, examine altered gene expression and translation, determine the functions and targets of FMRP, characterize the neurodevelopmental phenotypes and electrophysiological features, and, finally, to reactivate. We also provide an overview of the most recent studies using three-dimensional human brain organoids of FXS and end with a discussion of current limitations and future directions for FXS research using hiPSCs.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the most common inherited cause of intellectual disability and autism spectrum disorder. FXS is caused by a cytosine-guanine-guanine (CGG) trinucleotide repeat expansion in the untranslated region of thegene leading to the functional loss of the gene's protein product FMRP.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35681419/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Induced Pluripotent Stem Cells"
+  ],
+  "keywords": [
+    "FMRP",
+    "fragile X syndrome",
+    "iPSC",
+    "organoids"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

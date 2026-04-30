@@ -1,0 +1,52 @@
+{
+  "pmid": "36222238",
+  "doi": "10.1242/bio.058941",
+  "title": "Autism-associated CHD8 keeps proliferation of human neural progenitors in check by lengthening the G1 phase of the cell cycle",
+  "authors": "Coakley-Youngs E, Ranatunga M, Richardson S, Getti G, Shorter S, Fivaz M",
+  "journal": "Biology open",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "De novo mutations (DNMs) in chromodomain helicase DNA binding protein 8 (CHD8) are associated with a specific subtype of autism characterized by enlarged heads and distinct cranial features. The vast majority of these DNMs are heterozygous loss-of-function mutations with high penetrance for autism. CHD8 is a chromatin remodeler that preferentially regulates expression of genes implicated in early development of the cerebral cortex. How CHD8 haploinsufficiency alters the normal developmental trajectory of the brain is poorly understood and debated. Using long-term single-cell imaging, we show that disruption of a single copy of CHD8 in human neural precursor cells (NPCs) markedly shortens the G1 phase of the cell cycle. Consistent with faster progression of CHD8+/- NPCs through G1 and the G1/S checkpoint, we observed increased expression of E cyclins and elevated phosphorylation of Erk in these mutant cells - two central signaling pathways involved in S phase entry. Thus, CHD8 keeps proliferation of NPCs in check by lengthening G1, and mono-allelic disruption of this gene alters cell-cycle timing in a way that favors self-renewing over neurogenic cell divisions. Our findings further predict enlargement of the neural progenitor pool in CHD8+/- developing brains, providing a mechanistic basis for macrocephaly in this autism subtype.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "De novo mutations (DNMs) in chromodomain helicase DNA binding protein 8 (CHD8) are associated with a specific subtype of autism characterized by enlarged heads and distinct cranial features. The vast majority of these DNMs are heterozygous loss-of-function mutations with high penetrance for autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36222238/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Cell Cycle",
+    "Cell Division",
+    "Chromatin",
+    "Cyclins",
+    "DNA-Binding Proteins",
+    "G1 Phase",
+    "Humans",
+    "Neural Stem Cells",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "ASD",
+    "Autism",
+    "CHD8",
+    "CRISPR/Cas gene editing",
+    "Cell cycle",
+    "Chromatin",
+    "Cortical development",
+    "Stem cell"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "37584565",
+  "doi": "10.1002/epd2.20148",
+  "title": "Neuropsychiatric comorbidities and cognition in epilepsy with eyelid myoclonia: A retrospective pediatric case series",
+  "authors": "Ballar&#xe0; Petitb&#xf2; M, Gonz&#xe1;lez Alguacil E, Guti&#xe9;rrez Delicado E, Ortiz Cabrera NV, Duat Rodr&#xed;guez A, Garc&#xed;a Pe&#xf1;as JJ, et al.",
+  "journal": "Epileptic disorders : international epilepsy journal with videotape",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Epilepsy with eyelid myoclonia (EEM) is a rare epileptic syndrome classified within the Genetic Generalized Epilepsies of childhood. It is characterized by a high drug resistance, and little is known about prognostic factors and neurodevelopmental comorbidities. The aim of this study was to describe the clinical features, cognitive profile, and prognostic factors in a series of children with EEM.\n\nThis is a retrospective observational study of patients diagnosed with EEM from 2012 to 2022 in a tertiary pediatric hospital.\n\nSeventeen patients were analyzed (mean age at symptom onset 5.8&#x2009;years). Neuropsychiatric comorbidities were present in 76.4% (attention deficit hyperactivity disorder 58.8%, behavioral disorder 11.8%, autism spectrum disorder 11.8%, and psychotic outbreaks 11.8%). Neurocognitive assessment was performed in 75%, revealing cognitive impairment in 66.6% (62.5% with borderline intellectual function and 37.5% with -IQ <70-), with predominant difficulties in executive functions, comprehensive language, and motor skills. Cognitive deterioration was observed in one patient in parallel onset with psychotic symptoms. High refractoriness to antiseizure medication (ASM) was observed, with only 23.5% of the patients being seizure-free after a mean follow-up of 7&#x2009;years. The most effective ASM was valproic acid, and two of them received ketogenic diet with good response. Regarding prognostic factors, psychotic symptoms were associated with a greater number of antiseizure medication (p&#x2009;<&#x2009;.05) implying a more drug-resistant epilepsy.\n\nIn our study, we found a high rate of cognitive and psychiatric comorbidities and high refractoriness. These data support the concept of EEM as an intermediate entity between idiopathic generalized epilepsy and epileptic and/or neurodevelopmental encephalopathy. Making a proper diagnosis and management of these comorbidities is necessary to improve prognosis and quality of life in EEM.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Epilepsy with eyelid myoclonia (EEM) is a rare epileptic syndrome classified within the Genetic Generalized Epilepsies of childhood. It is characterized by a high drug resistance, and little is known about prognostic factors and neurodevelopmental comorbidities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37584565/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Retrospective Studies",
+    "Child",
+    "Child, Preschool",
+    "Comorbidity",
+    "Autism Spectrum Disorder",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Cognitive Dysfunction",
+    "Adolescent",
+    "Psychotic Disorders",
+    "Myoclonus",
+    "Anticonvulsants",
+    "Epilepsies, Myoclonic"
+  ],
+  "keywords": [
+    "Jeavons syndrome",
+    "epilepsy with eyelid myoclonia",
+    "generalized epilepsy",
+    "neuropsychiatric comorbidities"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Observational Study"
+  ]
+}

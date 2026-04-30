@@ -1,0 +1,52 @@
+{
+  "pmid": "26051878",
+  "doi": "10.1016/j.jdermsci.2015.04.005",
+  "title": "Mammalian target of rapamycin and tuberous sclerosis complex",
+  "authors": "Wataya-Kaneda M",
+  "journal": "Journal of dermatological science",
+  "date": "2015-04",
+  "source": "pubmed",
+  "abstract": "Mammalian target of rapamycin (mTOR) is an evolutionarily conserved serine/threonine kinase that is a member of the phosphoinositide 3-kinase (PI3K)-related kinase (PIKK) family. mTOR forms two distinct complexes, mTORC1 and mTORC2. mTORC1 has emerged as a central regulator of cellular metabolism, cell proliferation, cellular differentiation, autophagy and immune response regulation. In contrast to mTORC1, mTORC2, which is not well understood, participates in cell survival and the regulation of actin and cytokeratin organization. In addition, mTORC1 has been implicated in many diseases, including cancer, metabolic diseases, neurological disease, genetic diseases and longevity/aging. One of the diseases resulting from dysfunction of mTORC1 is tuberous sclerosis complex (TSC), which reflects all the symptoms that arise in response to mTORC1 dysfunction. TSC is a multiple hamartomas syndrome with epilepsy, autism, mental retardation and hypopigmented macules that are caused by the constitutive activation of mTORC1 resulting from genetic mutation of TSC1 or TSC2. Inhibitors of mTORC1, such as rapamycin, effectively suppress the symptoms of TSC. This article summarizes the current knowledge on mTOR and the efficacy of mTORC1 inhibitors in the treatment of TSC.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Mammalian target of rapamycin (mTOR) is an evolutionarily conserved serine/threonine kinase that is a member of the phosphoinositide 3-kinase (PI3K)-related kinase (PIKK) family. mTOR forms two distinct complexes, mTORC1 and mTORC2.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26051878/",
+  "mesh_terms": [
+    "Autophagy",
+    "Energy Metabolism",
+    "Humans",
+    "Immunosuppressive Agents",
+    "Mechanistic Target of Rapamycin Complex 1",
+    "Multiprotein Complexes",
+    "Phosphatidylinositol 3-Kinases",
+    "Signal Transduction",
+    "Sirolimus",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Autophagy",
+    "Energy metabolism",
+    "Mammalian target of rapamycin (mTOR)",
+    "PI3K-Akt-mTOR pathway",
+    "Rapamycin",
+    "Tuberous sclerosis complex (TSC)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pmid": "38254177",
+  "doi": "10.1186/s13229-024-00584-7",
+  "title": "Clinical impact and in vitro characterization of ADNP variants in pediatric patients",
+  "authors": "Ge C, Tian Y, Hu C, Mei L, Li D, Dong P, et al.",
+  "journal": "Molecular autism",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Helsmoortel-Van der Aa syndrome (HVDAS) is a rare genetic disorder caused by variants in the activity-dependent neuroprotector homeobox (ADNP) gene; hence, it is also called ADNP syndrome. ADNP is a multitasking protein with the function as a transcription factor, playing a critical role in brain development. Furthermore, ADNP variants have been identified as one of the most common single-gene causes of autism spectrum disorder (ASD) and intellectual disability.\n\nWe assembled a cohort of 15 Chinese pediatric patients, identified 13 variants in the coding region of ADNP gene, and evaluated their clinical phenotypes. Additionally, we constructed the corresponding ADNP variants and performed western blotting and immunofluorescence analysis to examine their protein expression and subcellular localization in human HEK293T and SH-SY5Y cells.\n\nOur study conducted a thorough characterization of the clinical manifestations in 15 children with ADNP variants, and revealed a broad spectrum of symptoms including global developmental delay, intellectual disability, ASD, facial abnormalities, and other features. In vitro studies were carried out to check the expression of ADNP with identified variants. Two cases presented missense variants, while the remainder exhibited nonsense or frameshift variants, leading to truncated mutants in in vitro overexpression systems. Both overexpressed wildtype ADNP and all the different mutants were found to be confined to the nuclei in HEK293T cells; however, the distinctive pattern of nuclear bodies formed by the wildtype ADNP was either partially or entirely disrupted by the mutant proteins. Moreover, two variants of p.Y719* on the nuclear localization signal (NLS) of ADNP disrupted the nuclear expression pattern, predominantly manifesting in the cytoplasm in SH-SY5Y cells.\n\nOur study was limited by a relatively small sample size and the absence of a longitudinal framework to monitor the progression of patient conditions over time. Additionally, we lacked in vivo evidence to further indicate the causal implications of the identified ADNP variants.\n\nOur study reported the first cohort of HVDAS patients in the Chinese population and provided systematic clinical presentations and laboratory examinations. Furthermore, we identified multiple genetic variants and validated them in vitro. Our findings offered valuable insights into the diverse genetic variants associated with HVDAS.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "Helsmoortel-Van der Aa syndrome (HVDAS) is a rare genetic disorder caused by variants in the activity-dependent neuroprotector homeobox (ADNP) gene; hence, it is also called ADNP syndrome. ADNP is a multitasking protein with the function as a transcription factor, playing a critical role in brain development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38254177/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Intellectual Disability",
+    "Autism Spectrum Disorder",
+    "HEK293 Cells",
+    "Neuroblastoma",
+    "Transcription Factors",
+    "Nerve Tissue Proteins",
+    "Homeodomain Proteins"
+  ],
+  "keywords": [
+    "ADNP syndrome",
+    "ADNP variants",
+    "Autism spectrum disorder",
+    "Global developmental delay",
+    "HVDAS",
+    "Helsmoortel&#x2013;Van der Aa syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

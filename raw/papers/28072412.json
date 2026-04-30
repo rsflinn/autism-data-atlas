@@ -1,0 +1,49 @@
+{
+  "pmid": "28072412",
+  "doi": "10.1038/tp.2016.273",
+  "title": "Glutamatergic and GABAergic gene sets in attention-deficit/hyperactivity disorder: association to overlapping traits in ADHD and autism",
+  "authors": "Naaijen J, Bralten J, Poelmans G, , Glennon JC, Franke B, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2017-01",
+  "source": "pubmed",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorders (ASD) often co-occur. Both are highly heritable; however, it has been difficult to discover genetic risk variants. Glutamate and GABA are main excitatory and inhibitory neurotransmitters in the brain; their balance is essential for proper brain development and functioning. In this study we investigated the role of glutamate and GABA genetics in ADHD severity, autism symptom severity and inhibitory performance, based on gene set analysis, an approach to investigate multiple genetic variants simultaneously. Common variants within glutamatergic and GABAergic genes were investigated using the MAGMA software in an ADHD case-only sample (n=931), in which we assessed ASD symptoms and response inhibition on a Stop task. Gene set analysis for ADHD symptom severity, divided into inattention and hyperactivity/impulsivity symptoms, autism symptom severity and inhibition were performed using principal component regression analyses. Subsequently, gene-wide association analyses were performed. The glutamate gene set showed an association with severity of hyperactivity/impulsivity (P=0.009), which was robust to correcting for genome-wide association levels. The GABA gene set showed nominally significant association with inhibition (P=0.04), but this did not survive correction for multiple comparisons. None of single gene or single variant associations was significant on their own. By analyzing multiple genetic variants within candidate gene sets together, we were able to find genetic associations supporting the involvement of excitatory and inhibitory neurotransmitter systems in ADHD and ASD symptom severity in ADHD.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 3,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Attention-deficit/hyperactivity disorder (ADHD) and autism spectrum disorders (ASD) often co-occur. Both are highly heritable; however, it has been difficult to discover genetic risk variants.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28072412/",
+  "mesh_terms": [
+    "Adolescent",
+    "Amino Acid Transport System y+L",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Calcium-Binding Proteins",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Fusion Regulatory Protein 1, Light Chains",
+    "Glutamic Acid",
+    "Humans",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Receptors, AMPA",
+    "Receptors, GABA-A",
+    "Receptors, Metabotropic Glutamate",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Severity of Illness Index",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

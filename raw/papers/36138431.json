@@ -1,0 +1,44 @@
+{
+  "pmid": "36138431",
+  "doi": "10.1186/s13229-022-00516-3",
+  "title": "Disruption of grin2B, an ASD-associated gene, produces social deficits in zebrafish",
+  "authors": "Zoodsma JD, Keegan EJ, Moody GR, Bhandiwad AA, Napoli AJ, Burgess HA, et al.",
+  "journal": "Molecular autism",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD), like many neurodevelopmental disorders, has complex and varied etiologies. Advances in genome sequencing have identified multiple candidate genes associated with ASD, including dozens of missense and nonsense mutations in the NMDAR subunit GluN2B, encoded by GRIN2B. NMDARs are glutamate-gated ion channels with key synaptic functions in excitatory neurotransmission. How alterations in these proteins impact neurodevelopment is poorly understood, in part because knockouts of GluN2B in rodents are lethal.\n\nHere, we use CRISPR-Cas9 to generate zebrafish lacking GluN2B (grin2B). Using these fish, we run an array of behavioral tests and perform whole-brain larval imaging to assay developmental roles and functions of GluN2B.\n\nWe demonstrate that zebrafish GluN2B displays similar structural and functional properties to human GluN2B. Zebrafish lacking GluN2B (grin2B) surprisingly survive into adulthood. Given the prevalence of social deficits in ASD, we assayed social preference in the grin2Bfish. Wild-type fish develop a strong social preference by 3&#xa0;weeks post fertilization. In contrast, grin2Bfish at this age exhibit significantly reduced social preference. Notably, the lack of GluN2B does not result in a broad disruption of neurodevelopment, as grin2Blarvae do not show alterations in spontaneous or photic-evoked movements, are capable of prey capture, and exhibit learning. Whole-brain imaging of grin2Blarvae revealed reduction of an inhibitory neuron marker in the subpallium, a region linked to ASD in humans, but showed that overall brain size and E/I balance in grin2Bis comparable to wild type.\n\nZebrafish lacking GluN2B, while useful in studying developmental roles of GluN2B, are unlikely to model nuanced functional alterations of human missense mutations that are not complete loss of function. Additionally, detailed mammalian homologies for larval zebrafish brain subdivisions at the age of whole-brain imaging are not fully resolved.\n\nWe demonstrate that zebrafish completely lacking the GluN2B subunit of the NMDAR, unlike rodent models, are viable into adulthood. Notably, they exhibit a highly specific deficit in social behavior. As such, this zebrafish model affords a unique opportunity to study the roles of GluN2B in ASD etiologies and establish a disease-relevant in vivo model for future studies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "GRIN2B"
+  ],
+  "summary": "Autism spectrum disorder (ASD), like many neurodevelopmental disorders, has complex and varied etiologies. Advances in genome sequencing have identified multiple candidate genes associated with ASD, including dozens of missense and nonsense mutations in the NMDAR subunit GluN2B, encoded by GRIN2B.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36138431/",
+  "mesh_terms": [
+    "Animals",
+    "Codon, Nonsense",
+    "Glutamic Acid",
+    "Neurodevelopmental Disorders",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Zebrafish"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "GluN2B",
+    "NMDA receptors",
+    "Social behaviors"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural"
+  ]
+}

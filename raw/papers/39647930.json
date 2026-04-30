@@ -1,0 +1,53 @@
+{
+  "pmid": "39647930",
+  "doi": "10.1111/cge.14661",
+  "title": "Genotype-Phenotype Correlations in SYNGAP1-Related Mental Retardation Type 5",
+  "authors": "Hong L, Yuan Q",
+  "journal": "Clinical genetics",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "Variants in the SYNGAP1 gene leading to decreased SynGAP protein expression are critical for the pathogenesis of mental retardation type 5 (MRD5). This study aims to explore the relationship between SYNGAP1 genotype and clinical phenotype through an expanded sample size, thereby enhancing the understanding of the specific mechanisms underlying MRD5. Data from previously published cases of patients with SYNGAP1 mutations were collected, and the relationship between genotype and clinical phenotype was analyzed. A total of 246 MRD5 patients were included in the analysis. Among them, 98.7% (224/227) were diagnosed with intellectual disability (ID), 91.6% (208/227) with epilepsy, and 57.3% (137/239) with autism spectrum disorder (ASD). The clinical phenotypes of MRD5 patients were found to be associated with their genotypes. Variants located in exons 1 to 6 may correlate with milder ID and reduced risk of ASD, yet they are more likely to present as refractory epilepsy.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "Variants in the SYNGAP1 gene leading to decreased SynGAP protein expression are critical for the pathogenesis of mental retardation type 5 (MRD5). This study aims to explore the relationship between SYNGAP1 genotype and clinical phenotype through an expanded sample size, thereby enhancing the understanding of the specific mechanisms underlying MRD5.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39647930/",
+  "mesh_terms": [
+    "Humans",
+    "Intellectual Disability",
+    "ras GTPase-Activating Proteins",
+    "Genetic Association Studies",
+    "Mutation",
+    "Male",
+    "Female",
+    "Phenotype",
+    "Genetic Predisposition to Disease",
+    "Autism Spectrum Disorder",
+    "Genotype",
+    "Epilepsy",
+    "Child",
+    "Exons",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "SYNGAP1",
+    "autism spectrum disorder",
+    "epilepsy",
+    "intellectual disability",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pmid": "39622390",
+  "doi": "10.1016/j.brainresbull.2024.111154",
+  "title": "Lipopolysaccharide induces neuroinflammation in a valproic acid male model of autism",
+  "authors": "Jiang J, Zhang L, Wu D, Zhao D, Ying S, Ding S",
+  "journal": "Brain research bulletin",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are characterized by social skill deficits and behavior impairments. Exposure to valproic acid (VPA) has been linked to ASD in humans and ASD-like behaviors in rodents. Clinical evidence suggests that immunological damage can worsen ASD symptoms in humans.\n\nThis study aimed to investigate the potential of lipopolysaccharide (LPS) to induce neuroinflammation in a VPA-induced autism male model.\n\nand methods: Pregnant Sprague Dawley rats were injected with 500&#x202f;mg/kg of VPA on gestational day 12.5 to create an ASD rat model in their offspring. Male offspring from VPA-injected group received 10&#x202f;mg/kg of LPS on postnatal day 20. Immunohistochemistry, western blotting, and immunofluorescence were used to assess the expression of NF-&#x3ba;B signaling pathway-related proteins and microglia in the prefrontal cortex and hippocampus. Gene Ontology and pathway enrichment analyses were conducted to predict the function of key synaptic proteins, which were further validated through real-time polymerase chain reaction analysis.\n\nThe results showed that VPA exposure led to increased locomotor activity, social impairment, and repetitive behaviors in male rats. NF-&#x3ba;B signaling pathway-related proteins were upregulated, and microglial numbers were elevated in the VPA-induced group. Furthermore, synaptic dysfunction was observed in the brains of offspring exposed to VPA. Importantly, LPS administration exacerbated autism-related behaviors in VPA-exposed male rats by promoting NF-&#x3ba;B signaling pathway activation, increasing microglial numbers, and downregulating key synaptic proteins.\n\nThis study not only contributed to understanding the importance of the NF-&#x3ba;B signaling pathway, microglia, and synaptic proteins in the progression of ASD, but also identified that LPS induces neuroinflammation in a valproic acid-induced male model of autism.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) are characterized by social skill deficits and behavior impairments. Exposure to valproic acid (VPA) has been linked to ASD in humans and ASD-like behaviors in rodents.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39622390/",
+  "mesh_terms": [
+    "Animals",
+    "Valproic Acid",
+    "Lipopolysaccharides",
+    "Male",
+    "Rats, Sprague-Dawley",
+    "Rats",
+    "Pregnancy",
+    "Disease Models, Animal",
+    "Autistic Disorder",
+    "Neuroinflammatory Diseases",
+    "Prenatal Exposure Delayed Effects",
+    "Female",
+    "NF-kappa B",
+    "Microglia",
+    "Hippocampus",
+    "Signal Transduction",
+    "Autism Spectrum Disorder"
+  ],
+  "keywords": [
+    "Autism",
+    "Lipopolysaccharide",
+    "Male rat model",
+    "Neuroinflammation",
+    "Valproic acid"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

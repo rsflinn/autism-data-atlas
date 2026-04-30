@@ -1,0 +1,53 @@
+{
+  "pmid": "40048431",
+  "doi": "10.1016/j.celrep.2025.115384",
+  "title": "Cell-type-specific roles of FOXP1 in the excitatory neuronal lineage during early neocortical murine development",
+  "authors": "Ortiz A, Ayhan F, Khandelwal N, Outland E, Jankovic M, Harper M, et al.",
+  "journal": "Cell reports",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "Forkhead box protein P1 (FOXP1), a transcription factor enriched in the neocortex, is associated with autism spectrum disorders (ASDs) and FOXP1 syndrome. Emx1;Foxp1conditional deletion (Foxp1 conditional knockout [cKO]) in the mouse cortex leads to overall reduced cortex thickness, alterations in cortical lamination, and changes in the relative thickness of cortical layers. However, the developmental and cell-type-specific mechanisms underlying these changes remained unclear. We find that Foxp1 deletion results in accelerated pseudo-age during early neurogenesis, increased cell cycle exit during late neurogenesis, altered gene expression and chromatin accessibility, and selective migration deficits in a subset of upper-layer neurons. These data explain the postnatal differences observed in cortical layers and relative cortical thickness. We also highlight genes regulated by FOXP1 and their enrichment with high-confidence ASD or synaptic genes. Together, these results underscore a network of neurodevelopmental-disorder-related genes that may serve as potential modulatory targets for postnatal modification relevant to ASDs and FOXP1 syndrome.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "FOXP1"
+  ],
+  "summary": "Forkhead box protein P1 (FOXP1), a transcription factor enriched in the neocortex, is associated with autism spectrum disorders (ASDs) and FOXP1 syndrome. Emx1;Foxp1conditional deletion (Foxp1 conditional knockout [cKO]) in the mouse cortex leads to overall reduced cortex thickness, alterations in cortical lamination, and changes in the relative thickness of cortical layers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40048431/",
+  "mesh_terms": [
+    "Animals",
+    "Forkhead Transcription Factors",
+    "Neocortex",
+    "Repressor Proteins",
+    "Mice",
+    "Neurons",
+    "Neurogenesis",
+    "Cell Lineage",
+    "Mice, Knockout",
+    "Gene Expression Regulation, Developmental",
+    "Autism Spectrum Disorder",
+    "Cell Movement"
+  ],
+  "keywords": [
+    "CP: Developmental biology",
+    "CP: Neuroscience",
+    "Cortical development",
+    "FOXP1",
+    "autism spectrum disorder",
+    "corticogenesis",
+    "multiomics",
+    "neurodevelopmental disorders",
+    "single cell genomics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "31230729",
+  "doi": "10.1016/j.biopsych.2019.04.034",
+  "title": "Novel Insight Into the Etiology of Autism Spectrum Disorder Gained by Integrating Expression Data With Genome-wide Association Statistics",
+  "authors": "Pain O, Pocklington AJ, Holmans PA, Bray NJ, O'Brien HE, Hall LS, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "A recent genome-wide association study (GWAS) of autism spectrum disorder (ASD) (n&#xa0;= 18,381, n&#xa0;= 27,969) has provided novel opportunities for investigating the etiology of ASD. Here, we integrate the ASD GWAS summary statistics with summary-level gene expression data to infer differential gene expression in ASD, an approach called transcriptome-wide association study (TWAS).\n\nUsing FUSION software, ASD GWAS summary statistics were integrated with predictors of gene expression from 16 human datasets, including adult and fetal brains. A novel adaptation of established statistical methods was then used to test for enrichment within candidate pathways and specific tissues and at different stages of brain development. The proportion of ASD heritability explained by predicted expression of genes in the TWAS was estimated using stratified linkage disequilibrium score regression.\n\nThis study identified 14 genes as significantly differentially expressed in ASD, 13 of which were outside of known genome-wide significant loci (&#xb1;500 kb). XRN2, a gene proximal to an ASD GWAS locus, was inferred to be significantly upregulated in ASD, providing insight into the functional consequence of this associated locus. One novel transcriptome-wide significant association from this study is the downregulation of PDIA6, which showed minimal evidence of association in the GWAS, and in gene-based analysis using MAGMA. Predicted gene expression in this study accounted for 13.0% of the total ASD single nucleotide polymorphism heritability.\n\nThis study has implicated several genes as significantly up/downregulated in ASD, providing novel and useful information for subsequent functional studies. This study also explores the utility of TWAS-based enrichment analysis and compares TWAS results with a functionally agnostic approach.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "A recent genome-wide association study (GWAS) of autism spectrum disorder (ASD) (n&#xa0;= 18,381, n&#xa0;= 27,969) has provided novel opportunities for investigating the etiology of ASD. Here, we integrate the ASD GWAS summary statistics with summary-level gene expression data to infer differential gene expression in ASD, an approach called transcriptome-wide association study (TWAS).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31230729/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Exoribonucleases",
+    "Genome-Wide Association Study",
+    "Genomics",
+    "Humans",
+    "Protein Disulfide-Isomerases",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "ASD",
+    "Autism",
+    "Colocalization",
+    "Expression",
+    "TWAS",
+    "Transcriptome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

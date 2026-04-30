@@ -1,0 +1,34 @@
+{
+  "pmid": "37008299",
+  "doi": "10.1007/s10862-022-09988-2",
+  "title": "Quantitative Head Dynamics Associated with Interpersonal (Grandiose-Manipulative) Psychopathic Traits in Incarcerated Youth",
+  "authors": "Rodriguez SN, Gullapalli AR, Maurer JM, Tirrell PS, Egala U, Anderson NE, et al.",
+  "journal": "Journal of psychopathology and behavioral assessment",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "Clinicians have long noted that individuals with elevated psychopathic traits can be characterized by unique interpersonal styles, including prolonged eye contact, invasion of interpersonal space, and frequent use of hand gestures. Such forms of nonverbal communication can be measured via hand, body, and head position and dynamics. Previous studies have developed an automated algorithm designed to capture head position and dynamics from digital recordings of clinical interviews in a sample of incarcerated adult men. We observed that higher psychopathy scores were associated with stationary head dwell time. Here, we applied a similar automated algorithm to assess head position and dynamics on videotaped clinical interviews assessing psychopathic traits from= 242 youth housed at a maximum-security juvenile correctional facility. We observed that higher psychopathy scores (assessed via the Hare Psychopathy Checklist: Youth Version [PCL:YV]) were associated with unique patterns of head dynamics. Specifically, PCL:YV Total, Factor 1 (measuring grandiose-manipulative and callous-unemotional traits), and Facet 1 (measuring grandiose-manipulative traits) scores were associated with a higher proportion of time spent in a head dynamics pattern consisting of moderate movement away from the average head position. This study lays the groundwork for future investigations to apply quantitative methods to better understand patterns of nonverbal communication styles in clinical populations characterized by severe antisocial behavior.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Clinicians have long noted that individuals with elevated psychopathic traits can be characterized by unique interpersonal styles, including prolonged eye contact, invasion of interpersonal space, and frequent use of hand gestures. Such forms of nonverbal communication can be measured via hand, body, and head position and dynamics.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37008299/",
+  "mesh_terms": [],
+  "keywords": [
+    "automated feature extraction",
+    "head dynamics",
+    "juvenile delinquency",
+    "nonverbal communication",
+    "psychopathic traits"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

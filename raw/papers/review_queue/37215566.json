@@ -1,0 +1,45 @@
+{
+  "pmid": "37215566",
+  "doi": "10.7150/thno.80271",
+  "title": "Human iPSC-derived midbrain organoids functionally integrate into striatum circuits and restore motor function in a mouse model of Parkinson's disease",
+  "authors": "Zheng X, Han D, Liu W, Wang X, Pan N, Wang Y, et al.",
+  "journal": "Theranostics",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "Parkinson's disease (PD) is a prevalent neurodegenerative disorder that is characterized by degeneration of dopaminergic neurons (DA) at the substantia nigra pas compacta (SNpc). Cell therapy has been proposed as a potential treatment option for PD, with the aim of replenishing the lost DA neurons and restoring motor function. Fetal ventral mesencephalon tissues (fVM) and stem cell-derived DA precursors cultured in 2-dimentional (2-D) culture conditions have shown promising therapeutic outcomes in animal models and clinical trials. Recently, human induced pluripotent stem cells (hiPSC)-derived human midbrain organoids (hMOs) cultured in 3-dimentional (3-D) culture conditions have emerged as a novel source of graft that combines the strengths of fVM tissues and 2-D DA cells.3-D hMOs were induced from three distinct hiPSC lines. hMOs at various stages of differentiation were transplanted as tissue pieces into the striatum of na&#xef;ve immunodeficient mouse brains, with the aim of identifying the most suitable stage of hMOs for cellular therapy. The hMOs at Day 15 were determined to be the most appropriate stage and were transplanted into a PD mouse model to assess cell survival, differentiation, and axonal innervation. Behavioral tests were conducted to evaluate functional restoration following hMO treatment and to compare the therapeutic effects between 2-D and 3-D cultures. Rabies virus were introduced to identify the host presynaptic input onto the transplanted cells.hMOs showed a relatively homogeneous cell composition, mostly consisting of dopaminergic cells of midbrain lineage. Analysis conducted 12 weeks post-transplantation of day 15 hMOs revealed that 14.11% of the engrafted cells expressed TH+ and over 90% of these cells were co-labeled with GIRK2+, indicating the survival and maturation of A9 mDA neurons in the striatum of PD mice. Transplantation of hMOs led to a reversal of motor function and establishment of bidirectional connections with natural brain target regions, without any incidence of tumor formation or graft overgrowth.The findings of this study highlight the potential of hMOs as safe and efficacious donor graft sources for cell therapy to treat PD.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Parkinson's disease (PD) is a prevalent neurodegenerative disorder that is characterized by degeneration of dopaminergic neurons (DA) at the substantia nigra pas compacta (SNpc). Cell therapy has been proposed as a potential treatment option for PD, with the aim of replenishing the lost DA neurons and restoring motor function.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37215566/",
+  "mesh_terms": [
+    "Humans",
+    "Mice",
+    "Animals",
+    "Parkinson Disease",
+    "Induced Pluripotent Stem Cells",
+    "Mesencephalon",
+    "Brain",
+    "Dopaminergic Neurons",
+    "Cell Differentiation"
+  ],
+  "keywords": [
+    "Cell therapy",
+    "Human induced pluripotent stem cells",
+    "Midbrain organoids",
+    "Parkinson's disease",
+    "Transplantation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

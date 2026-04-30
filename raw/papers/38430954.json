@@ -1,0 +1,44 @@
+{
+  "pmid": "38430954",
+  "doi": "10.1016/j.pnpbp.2024.110988",
+  "title": "Novel genetic loci of inhibitory control in ADHD and healthy children and genetic correlations with ADHD",
+  "authors": "Pang T, Ding N, Zhao Y, Zhao J, Yang L, Chang S",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Cumulative evidence has showed the deficits of inhibitory control in patients with attention deficit hyperactivity disorder (ADHD), which is considered as an endophenotype of ADHD. Genetic study of inhibitory control could advance gene discovery and further facilitate the understanding of ADHD genetic basis, but the studies were limited in both the general population and ADHD patients. To reveal genetic risk variants of inhibitory control and its potential genetic relationship with ADHD, we conducted genome-wide association studies (GWAS) on inhibitory control using three datasets, which included 783 and 957 ADHD patients and 1350 healthy children. Subsequently, we employed polygenic risk scores (PRS) to explore the association of inhibitory control with ADHD and related psychiatric disorders. Firstly, we identified three significant loci for inhibitory control in the healthy dataset, two loci in the case dataset, and one locus in the meta-analysis of three datasets. Besides, we found more risk genes and variants by applying transcriptome-wide association study (TWAS) and conditional FDR method. Then, we constructed a network by connecting the genes identified in our study, leading to the identification of several vital genes. Lastly, we identified a potential relationship between inhibitory control and ADHD and autism by PRS analysis and found the direct and mediated contribution of the identified genetic loci on ADHD symptoms by mediation analysis. In conclusion, we revealed some genetic risk variants associated with inhibitory control and elucidated the benefit of inhibitory control as an endophenotype, providing valuable insights into the mechanisms underlying ADHD.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Cumulative evidence has showed the deficits of inhibitory control in patients with attention deficit hyperactivity disorder (ADHD), which is considered as an endophenotype of ADHD. Genetic study of inhibitory control could advance gene discovery and further facilitate the understanding of ADHD genetic basis, but the studies were limited in both the general population and ADHD patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38430954/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Genome-Wide Association Study",
+    "Genetic Predisposition to Disease",
+    "Genetic Loci",
+    "Risk Factors",
+    "Genetic Risk Score"
+  ],
+  "keywords": [
+    "ADHD",
+    "Endophenotype",
+    "GWAS",
+    "Genetic loci",
+    "Inhibitory control"
+  ],
+  "article_types": [
+    "Meta-Analysis",
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pmid": "21372149",
+  "doi": "10.1093/hmg/ddr093",
+  "title": "Isolation of MECP2-null Rett Syndrome patient hiPS cells and isogenic controls through X-chromosome inactivation",
+  "authors": "Cheung AY, Horvath LM, Grafodatskaya D, Pasceri P, Weksberg R, Hotta A, et al.",
+  "journal": "Human molecular genetics",
+  "date": "2011-03",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a neurodevelopmental autism spectrum disorder that affects girls due primarily to mutations in the gene encoding methyl-CpG binding protein 2 (MECP2). The majority of RTT patients carry missense and nonsense mutations leading to a hypomorphic MECP2, while null mutations leading to the complete absence of a functional protein are rare. MECP2 is an X-linked gene subject to random X-chromosome inactivation resulting in mosaic expression of mutant MECP2. The lack of human brain tissue motivates the need for alternative human cellular models to study RTT. Here we report the characterization of a MECP2 mutation in a classic female RTT patient involving rearrangements that remove exons 3 and 4 creating a functionally null mutation. To generate human neuron models of RTT, we isolated human induced pluripotent stem (hiPS) cells from RTT patient fibroblasts. RTT-hiPS cells retained the MECP2 mutation, are pluripotent and fully reprogrammed, and retained an inactive X-chromosome in a nonrandom pattern. Taking advantage of the latter characteristic, we obtained a pair of isogenic wild-type and mutant MECP2 expressing RTT-hiPS cell lines that retained this MECP2 expression pattern upon differentiation into neurons. Phenotypic analysis of mutant RTT-hiPS cell-derived neurons demonstrated a reduction in soma size compared with the isogenic control RTT-hiPS cell-derived neurons from the same RTT patient. Analysis of isogenic control and mutant hiPS cell-derived neurons represents a promising source for understanding the pathogenesis of RTT and the role of MECP2 in human neurons.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is a neurodevelopmental autism spectrum disorder that affects girls due primarily to mutations in the gene encoding methyl-CpG binding protein 2 (MECP2). The majority of RTT patients carry missense and nonsense mutations leading to a hypomorphic MECP2, while null mutations leading to the complete absence of a functional protein are rare.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21372149/",
+  "mesh_terms": [
+    "Brain",
+    "Cell Differentiation",
+    "Cell Line",
+    "Chromosome Mapping",
+    "Chromosomes, Human, X",
+    "DNA Fingerprinting",
+    "Exons",
+    "Female",
+    "Gene Expression Regulation",
+    "Genes, X-Linked",
+    "Genotype",
+    "Humans",
+    "Immunohistochemistry",
+    "Induced Pluripotent Stem Cells",
+    "Karyotyping",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Neurons",
+    "Phenotype",
+    "Rett Syndrome",
+    "X Chromosome Inactivation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

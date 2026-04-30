@@ -1,0 +1,44 @@
+{
+  "pmid": "29724786",
+  "doi": "10.1084/jem.20172162",
+  "title": "Autism-associated neuroligin-4 mutation selectively impairs glycinergic synaptic transmission in mouse brainstem synapses",
+  "authors": "Zhang B, Gokce O, Hale WD, Brose N, S&#xfc;dhof TC",
+  "journal": "The Journal of experimental medicine",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "In human patients, loss-of-function mutations of the postsynaptic cell-adhesion molecule neuroligin-4 were repeatedly identified as monogenetic causes of autism. In mice, neuroligin-4 deletions caused autism-related behavioral impairments and subtle changes in synaptic transmission, and neuroligin-4 was found, at least in part, at glycinergic synapses. However, low expression levels precluded a comprehensive analysis of neuroligin-4 localization, and overexpression of neuroligin-4 puzzlingly impaired excitatory but not inhibitory synaptic function. As a result, the function of neuroligin-4 remains unclear, as does its relation to other neuroligins. To clarify these issues, we systematically examined the function of neuroligin-4, focusing on excitatory and inhibitory inputs to defined projection neurons of the mouse brainstem as central model synapses. We show that loss of neuroligin-4 causes a profound impairment of glycinergic but not glutamatergic synaptic transmission and a decrease in glycinergic synapse numbers. Thus, neuroligin-4 is essential for the organization and/or maintenance of glycinergic synapses.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "In human patients, loss-of-function mutations of the postsynaptic cell-adhesion molecule neuroligin-4 were repeatedly identified as monogenetic causes of autism. In mice, neuroligin-4 deletions caused autism-related behavioral impairments and subtle changes in synaptic transmission, and neuroligin-4 was found, at least in part, at glycinergic synapses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29724786/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain Stem",
+    "Cell Adhesion Molecules, Neuronal",
+    "Excitatory Postsynaptic Potentials",
+    "Glycine",
+    "Inhibitory Postsynaptic Potentials",
+    "Mice, Knockout",
+    "Mutation",
+    "Neurons",
+    "Synapses",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

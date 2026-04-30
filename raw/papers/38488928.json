@@ -1,0 +1,45 @@
+{
+  "pmid": "38488928",
+  "doi": "10.1007/s10072-024-07447-2",
+  "title": "Epilepsy and childhood psychiatric disorders: a two-sample bidirectional Mendelian randomization study",
+  "authors": "Wu Y, Zhang Z, Dong X, Liang P, Li L, Zhai X, et al.",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Observational studies have indicated that psychiatric disorders are the most common comorbidities in pediatric epilepsy. However, the existence and direction of a causal relationship between the two remains controversial. This study aims to investigate the association between common childhood psychiatric disorders and epilepsy using a two-sample, bidirectional Mendelian randomization (MR) approach.\n\nGenetic instruments were obtained from the most recent and largest genome-wide association studies (GWAS), including datasets for epilepsy (N_case&#x2009;=&#x2009;29,994, N_control&#x2009;=&#x2009;52,538), attention deficit hyperactivity disorder (ADHD) (N_case&#x2009;=&#x2009;38,691, N_control&#x2009;=&#x2009;186,843), autism spectrum disorder (ASD) (N_case&#x2009;=&#x2009;18,381, N_control&#x2009;=&#x2009;27,969), and Tourette syndrome (TS) (N_case&#x2009;=&#x2009;4,819, N_control&#x2009;=&#x2009;9488). MR analyses were conducted using the inverse variance weighted (IVW) method, weighted median method, and MR-Egger regression.\n\nNo reliable evidence was found to suggest a causal effect of ADHD, ASD, or TS on epilepsy, nor was there any reliable evidence indicating that epilepsy increases the risk of these three psychiatric disorders. These findings remained consistent across various sensitivity analyses.\n\nAlthough observational studies have highlighted a high comorbidity rate between pediatric epilepsy and psychiatric disorders like ADHD and ASD, the MR analysis did not confirm a causal relationship between them. This suggests that previous studies might have been influenced by confounding biases or other biases, potentially overestimating the true relationship. A deeper understanding of the mechanisms underlying these comorbidities is crucial for refining the treatment of pediatric epilepsy.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Observational studies have indicated that psychiatric disorders are the most common comorbidities in pediatric epilepsy. However, the existence and direction of a causal relationship between the two remains controversial.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38488928/",
+  "mesh_terms": [
+    "Humans",
+    "Mendelian Randomization Analysis",
+    "Epilepsy",
+    "Genome-Wide Association Study",
+    "Child",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Comorbidity",
+    "Autism Spectrum Disorder",
+    "Tourette Syndrome",
+    "Mental Disorders"
+  ],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "Autism spectrum disorder",
+    "Epilepsy",
+    "Mendelian randomization",
+    "Tourette syndrome"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

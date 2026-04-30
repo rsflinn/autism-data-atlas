@@ -1,0 +1,40 @@
+{
+  "pmid": "32705569",
+  "doi": "10.1007/s40290-020-00343-y",
+  "title": "The NIMH 'Fast-Fail Trials' (FAST) Initiative: Rationale, Promise, and Progress",
+  "authors": "Grabb MC, Hillefors M, Potter WZ",
+  "journal": "Pharmaceutical medicine",
+  "date": "2020-08",
+  "source": "pubmed",
+  "abstract": "In 2012, the US National Institute of Mental Health launched three clinical trial contracts under a new FAST initiative. The overall goal for these contracts (Fast-Fail Trials) was to focus early-stage trials, testing novel pharmacologic agents that target the central nervous system, on pharmacologic-based designs to objectively identify doses that produce central nervous system effects. The three contracts targeted different psychiatric populations: psychotic (FAST-PS), mood and anxiety (FAST-MAS), and autism spectrum disorders (FAST-AS). The FAST initiative was a first attempt for the National Institute of Mental Health to adapt an experimental medicine approach to its clinical trial portfolio. As the Fast-Fail trials implemented this new approach for the field, we present the rationale for each trial, design considerations, results, and how each one contributed new knowledge to the field of psychopharmacology; important lessons for pharma and biotech. Under the FAST initiative, the National Institute of Mental Health assembled research teams with a broad range of expertise, who developed and validated the outcome measures and study protocol, and conducted multi-site clinical trials, testing candidate compounds. In the FAST-PS contract, the team validated an imaging-based pharmacodynamic biomarker of the effect of ketamine in the brain that could be utilized in subsequent clinical trials. The initial FAST-AS study was an important first step in the design of early-stage target-engagement trials in autism spectrum disorder, suggesting that a resting electroencephalogram can be used as a pharmacodynamic measure in future studies. The FAST-MAS study showed that blocking the kappa-opioid receptor significantly affects functional magnetic resonance imaging ventral striatal activation in the monetary incentive delay task in anticipation of gain. Together, the outcomes of the FAST-FAIL trials demonstrated the importance of rigorously designed and informative central nervous system trials, including the value of pharmacodynamic measures in early-stage trials. Use of these measures furthered our knowledge about the relationship between specific molecular mechanisms, brain effects, and therapeutic effects in patients with mental illnesses.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "In 2012, the US National Institute of Mental Health launched three clinical trial contracts under a new FAST initiative. The overall goal for these contracts (Fast-Fail Trials) was to focus early-stage trials, testing novel pharmacologic agents that target the central nervous system, on pharmacologic-based designs to objectively identify doses that produce central nervous system effects.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32705569/",
+  "mesh_terms": [
+    "Central Nervous System Agents",
+    "Clinical Trials as Topic",
+    "Dose-Response Relationship, Drug",
+    "Drug Development",
+    "Humans",
+    "Mental Disorders",
+    "National Institute of Mental Health (U.S.)",
+    "Psychopharmacology",
+    "Research Design",
+    "United States"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

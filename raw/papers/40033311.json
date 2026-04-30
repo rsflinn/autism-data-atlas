@@ -1,0 +1,51 @@
+{
+  "pmid": "40033311",
+  "doi": "10.1186/s12888-025-06617-6",
+  "title": "Oxytocin's social and stress-regulatory effects in children with autism and intellectual disability: a protocol for a randomized placebo-controlled trial",
+  "authors": "Ricchiuti G, Taillieu A, Tuerlinckx E, Prinsen J, Debbaut E, Steyaert J, et al.",
+  "journal": "BMC psychiatry",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "Oxytocin is increasingly considered as a new pharmacological option for mitigating social difficulties and regulating stress in autism spectrum disorder. However, in prior trials, autistic individuals with co-occurring intellectual disability (ID) have largely been overlooked, despite their high prevalence, poorer outcome, and the enhanced need but reduced availability of therapeutic interventions. Prior studies have also overlooked the importance of standardizing the context in which oxytocin is administered, rendering outcomes from prior trials inconclusive.\n\nTo meet these limitations, we propose a double-blind, randomized, placebo-controlled trial investigating the effects of intermittent multiple-dose intranasal oxytocin administration (4 weeks, 24 IU 3x/week), administered within a standardized psychosocial stimulating context at special need schools, in 80 children with autism and co-occurring ID (4-13 years old). Clinical-behavioral as well as stress-regulatory effects of oxytocin will be evaluated using the Autism Treatment Evaluation Checklist (ATEC), the Brief Observation of Social Communication Change (BOSCC) expert rating scale, and measurements of high-frequency heart rate variability (HF-HRV), a validated index of parasympathetic autonomic nervous system activity. To assess the possibility of retention and/or late-emerging effects, outcomes will be assessed immediately after the administration regime, and at two follow-up sessions, four-weeks and six months after administration.\n\nSignificant clinical-behavioral improvements on the ATEC and BOSCC, and significantly higher parasympathetic HF-HRV power in the oxytocin compared to the placebo group would confirm beneficial clinical-behavioral and stress-regulatory effects of oxytocin in autistic children with co-occurring ID. This would also corroborate the use of intermittent dosing schemes in combination with concomitant psychosocial stimulation.\n\nThe trial was registered on the 9th of December 2022 at the European Clinical Trial Registry (EudraCT 2022-002423-36) and on 20th of September the trial was transferred to the EU Clinical Trial Register (EU CT 2024-513436-14).",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Oxytocin is increasingly considered as a new pharmacological option for mitigating social difficulties and regulating stress in autism spectrum disorder. However, in prior trials, autistic individuals with co-occurring intellectual disability (ID) have largely been overlooked, despite their high prevalence, poorer outcome, and the enhanced need but reduced availability of therapeutic interventions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40033311/",
+  "mesh_terms": [
+    "Humans",
+    "Oxytocin",
+    "Child",
+    "Double-Blind Method",
+    "Adolescent",
+    "Administration, Intranasal",
+    "Child, Preschool",
+    "Male",
+    "Intellectual Disability",
+    "Female",
+    "Autism Spectrum Disorder",
+    "Stress, Psychological",
+    "Autistic Disorder",
+    "Randomized Controlled Trials as Topic",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "Autism",
+    "Children",
+    "Clinical trial",
+    "Intellectual disability",
+    "Oxytocin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Clinical Trial Protocol"
+  ]
+}

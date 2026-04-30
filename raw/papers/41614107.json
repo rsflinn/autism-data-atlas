@@ -1,0 +1,36 @@
+{
+  "pmid": "41614107",
+  "doi": "10.3389/fpsyt.2025.1730160",
+  "title": "Quality of life and disease burden in tuberous sclerosis and comparison with the population with idiopathic autism spectrum disorder: an investigation conducted through questionnaires and clinical data collection in the pediatric population",
+  "authors": "Sforza G, Voci A, Tonietti V, Racioppi G, Proietti Checchi M, Valeriani M, et al.",
+  "journal": "Frontiers in psychiatry",
+  "date": "2026-01",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a rare genetic disease involving major neurological and neuropsychiatric symptoms that can impact quality of life. This study aimed to examine the quality of life and disease burden of a pediatric TSC cohort and compare them with those of a population of individuals with idiopathic autism spectrum disorder (ASD).\n\nCaregivers completed the Tuberous Sclerosis-Associated Neuropsychiatric Disorders (TAND) Checklist and the Pediatric Quality of Life Inventory&#x2122; (PedsQL) Report. To examine quality of life, caregivers also completed the TSC Quality of Life (TSCQoL) questionnaire, which was created specifically for this study to investigate the emotional, economic, and time-related impact of TSC. We recruited 66 individuals with TSC (average age, 9.8 &#xb1; 4.5 years) and 63 individuals with idiopathic ASD (8.4 &#xb1; 4.4 years).\n\nWe found a reduction in quality of life and a significant economic investment in 50% and 55% of TSC patients, respectively. These aspects were significantly more prevalent in individuals with cognitive impairment, ASD, sleep disorders, and epilepsy. Individuals with idiopathic ASD exhibited worse quality of life in the social domain (= 0.004), while the syndromic ASD group demonstrated worse overall quality of life (= 0.041) and experienced a greater loss of school days (= 0.039).\n\nDespite its lack of validation, the TSCQoL scale was established as an exploratory tool that consistently highlighted, along with the PedsQL, clinical factors that most impact quality of life. Quality of life was low in the TSC population, and this was strongly correlated with neuropsychiatric manifestations and epilepsy. Through comparison with idiopathic ASD, we observed a greater impact of the syndromic condition on disease burden.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is a rare genetic disease involving major neurological and neuropsychiatric symptoms that can impact quality of life. This study aimed to examine the quality of life and disease burden of a pediatric TSC cohort and compare them with those of a population of individuals with idiopathic autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41614107/",
+  "mesh_terms": [],
+  "keywords": [
+    "ASD",
+    "TAND",
+    "TSC",
+    "burden",
+    "children",
+    "epilepsy",
+    "quality of life"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

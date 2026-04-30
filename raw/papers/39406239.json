@@ -1,0 +1,51 @@
+{
+  "pmid": "39406239",
+  "doi": "10.1016/j.neuron.2024.08.021",
+  "title": "Synaptic neoteny of human cortical neurons requires species-specific balancing of SRGAP2-SYNGAP1 cross-inhibition",
+  "authors": "Lib&#xe9;-Philippot B, Iwata R, Recupero AJ, Wierda K, Bernal Garcia S, Hammond L, et al.",
+  "journal": "Neuron",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Human-specific (HS) genes have been implicated in brain evolution, but their impact on human neuron development and diseases remains unclear. Here, we study SRGAP2B/C, two HS gene duplications of the ancestral synaptic gene SRGAP2A, in human cortical pyramidal neurons (CPNs) xenotransplanted in the mouse cortex. Downregulation of SRGAP2B/C in human CPNs led to strongly accelerated synaptic development, indicating their requirement for the neoteny that distinguishes human synaptogenesis. SRGAP2B/C genes promoted neoteny by reducing the synaptic levels of SRGAP2A,thereby increasing the postsynaptic accumulation of the SYNGAP1 protein, encoded by a major intellectual disability/autism spectrum disorder (ID/ASD) gene. Combinatorial loss-of-function experiments in&#xa0;vivo revealed that the tempo of synaptogenesis is set by the reciprocal antagonism between SRGAP2A and SYNGAP1, which in human CPNs is tipped toward neoteny by SRGAP2B/C. Thus, HS genes can modify the phenotypic expression of genetic mutations leading to ID/ASD through the regulation of human synaptic neoteny.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "Human-specific (HS) genes have been implicated in brain evolution, but their impact on human neuron development and diseases remains unclear. Here, we study SRGAP2B/C, two HS gene duplications of the ancestral synaptic gene SRGAP2A, in human cortical pyramidal neurons (CPNs) xenotransplanted in the mouse cortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39406239/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "GTPase-Activating Proteins",
+    "Mice",
+    "ras GTPase-Activating Proteins",
+    "Cerebral Cortex",
+    "Synapses",
+    "Species Specificity",
+    "Pyramidal Cells",
+    "Neurons",
+    "Neurogenesis"
+  ],
+  "keywords": [
+    "SRGAP2",
+    "SYNGAP1",
+    "autism spectrum disorder",
+    "cortical neuron",
+    "human brain development",
+    "intellectual deficiency",
+    "neoteny",
+    "synapse"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

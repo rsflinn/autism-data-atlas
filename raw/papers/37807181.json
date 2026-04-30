@@ -1,0 +1,43 @@
+{
+  "pmid": "37807181",
+  "doi": "10.1111/ejn.16155",
+  "title": "Dissection of cellular disruptions in autism spectrum disorder comorbidities",
+  "authors": "Griffin A, Chen M, Tiwari VK",
+  "journal": "The European journal of neuroscience",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Up to 80% of children with autism spectrum disorder have at least one other neuropsychiatric comorbidity. The causes of such disorders are highly genetic, yet many studies fail to take analysis further than risk gene discovery to see cellular and mechanistic changes occurring. Therefore, the goal of this study was to unveil novel gene expression signatures involved in important neurodevelopmental processes that, when disrupted, lead to each of the autism comorbidities of interest. We achieved this by analysing a single-nuclei RNA sequencing dataset with prefrontal cortex samples from autism spectrum disorder plus comorbidities for differentially expressed genes. The highest number of alterations was seen in excitatory neurons, which also showed differential population and cell-cell interactions across disorders and an increase in expression of genes involved in neurodevelopmental pathways. Interestingly, the group without comorbidities displayed an increase in neuron-neuron interactions yet a decrease in population number, suggesting a major rewiring of neuronal connections. Further analysis of the topmost significant genes from this cell type in developing prefrontal cortex datasets revealed interesting expression trajectories corresponding to important time points during corticogenesis. This further identified four novel candidate genes that show a potential link to developmental pathways that may contribute to autism and its comorbidities when dysregulated. The study provides a better understanding of co-occurring conditions at a transcriptomic and cell-type level and thereby aid future research in providing earlier diagnosis, care and intervention.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Up to 80% of children with autism spectrum disorder have at least one other neuropsychiatric comorbidity. The causes of such disorders are highly genetic, yet many studies fail to take analysis further than risk gene discovery to see cellular and mechanistic changes occurring.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37807181/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Comorbidity"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "cortex",
+    "gene expression",
+    "neurodevelopment",
+    "single-cell sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

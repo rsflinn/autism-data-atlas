@@ -1,0 +1,55 @@
+{
+  "pmid": "32460837",
+  "doi": "10.1186/s13229-020-00346-1",
+  "title": "Identification of amygdala-expressed genes associated with autism spectrum disorder",
+  "authors": "Herrero MJ, Velmeshev D, Hernandez-Pineda D, Sethi S, Sorrells S, Banerjee P, et al.",
+  "journal": "Molecular autism",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Studies of individuals with autism spectrum disorder (ASD) have revealed a strong multigenic basis with the identification of hundreds of ASD susceptibility genes. ASD is characterized by social deficits and a range of other phenotypes, implicating complex genetics and involvement of a variety of brain regions. However, how mutations and mis-expression of select gene sets are associated with the behavioral components of ASD remains unknown. We reasoned that for genes to be associated with ASD core behaviors they must be: (1) expressed in brain regions relevant to ASD social behaviors and (2) expressed during the ASD susceptible window of brain development.\n\nFocusing on the amygdala, a brain region whose dysfunction has been highly implicated in the social component of ASD, we mined publicly available gene expression databases to identify ASD-susceptibility genes expressed during human and mouse amygdala development. We found that a large cohort of known ASD susceptibility genes is expressed in the developing human and mouse amygdala. We further performed analysis of single-nucleus RNA-seq (snRNA-seq) data from microdissected amygdala tissue from five ASD and five control human postmortem brains ranging in age from 4 to 20&#x2009;years to elucidate cell type specificity of amygdala-expressed genes and their dysregulation in ASD.\n\nOur analyses revealed that of the high-ranking ASD susceptibility genes, 80 are expressed in both human and mouse amygdala during fetal to early postnatal stages of development. Our human snRNA-seq analyses revealed cohorts of genes with altered expression in the ASD amygdala postnatally, especially within excitatory neurons, with dysregulated expression of seven genes predicted from our datamining pipeline.\n\nWe were limited by the ages for which we were able to obtain human tissue; therefore, the results from our datamining pipeline approach will require validation, to the extent possible, in human tissue from earlier developmental stages.\n\nOur pipeline narrows down the number of amygdala-expressed genes possibly involved in the social pathophysiology of ASD. Our human single-nucleus gene expression analyses revealed that ASD is characterized by changes in gene expression in specific cell types in the early postnatal amygdala.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Studies of individuals with autism spectrum disorder (ASD) have revealed a strong multigenic basis with the identification of hundreds of ASD susceptibility genes. ASD is characterized by social deficits and a range of other phenotypes, implicating complex genetics and involvement of a variety of brain regions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32460837/",
+  "mesh_terms": [
+    "Alleles",
+    "Amygdala",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Brain",
+    "Computational Biology",
+    "Databases, Genetic",
+    "Disease Susceptibility",
+    "Gene Expression",
+    "Gene Expression Profiling",
+    "Gene Ontology",
+    "Gene Regulatory Networks",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Mice",
+    "Signal Transduction",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "ASD genes",
+    "Amygdala",
+    "Autism spectrum disorder",
+    "Brain development",
+    "Single nucleus RNA sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

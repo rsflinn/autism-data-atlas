@@ -1,0 +1,47 @@
+{
+  "pmid": "36987712",
+  "doi": "10.1002/ajmg.a.63193",
+  "title": "H4C5 missense variant leads to a neurodevelopmental phenotype overlapping with Angelman syndrome",
+  "authors": "Borja N, Borjas-Mendoza P, Bivona S, Peart L, Gonzalez J, Johnson BK, et al.",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "Recurrent de novo missense variants in H4 histone genes have recently been associated with a novel neurodevelopmental syndrome that is characterized by intellectual disability and developmental delay as well as more variable findings that include short stature, microcephaly, and facial dysmorphisms. A 4-year-old male with autism, developmental delay, microcephaly, and a happy demeanor underwent evaluation through the Undiagnosed Disease Network. He was clinically suspected to have Angelman syndrome; however, molecular testing was negative. Genome sequencing identified the H4 histone gene variant H4C5 NM_003545.4: c.295T>C, p.Tyr99His, which parental testing confirmed to be de novo. The variant met criteria for a likely pathogenic classification and is one of the seven known disease-causing missense variants in H4C5. A comparison of our proband's findings to the initial description of the H4-associated neurodevelopmental syndrome demonstrates that his phenotype closely matches the spectrum of those reported among the 29 affected individuals. As such, this report corroborates the delineation of neurodevelopmental syndrome caused by de novo missense H4 gene variants. Moreover, it suggests that cases of clinically suspected Angelman syndrome without molecular confirmation should undergo exome or genome sequencing, as novel neurodevelopmental syndromes with phenotypes overlapping with Angelman continue to be discovered.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Recurrent de novo missense variants in H4 histone genes have recently been associated with a novel neurodevelopmental syndrome that is characterized by intellectual disability and developmental delay as well as more variable findings that include short stature, microcephaly, and facial dysmorphisms. A 4-year-old male with autism, developmental delay, microcephaly, and a happy demeanor underwent evaluation through the Undiagnosed Disease Network.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36987712/",
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Angelman Syndrome",
+    "Microcephaly",
+    "Histones",
+    "Intellectual Disability",
+    "Phenotype",
+    "Neurodevelopmental Disorders",
+    "Mutation, Missense"
+  ],
+  "keywords": [
+    "Angelman syndrome",
+    "H4C5",
+    "digit anomalies",
+    "microcephaly",
+    "neurodevelopmental syndrome",
+    "tooth anomalies"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Research Support, N.I.H., Extramural",
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "39002387",
+  "doi": "10.1016/j.ebiom.2024.105238",
+  "title": "Identifying the earliest-occurring clinically targetable precursors of late-onset Alzheimer's disease",
+  "authors": "Cohen BM, Sonntag KC",
+  "journal": "EBioMedicine",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Most cases of Alzheimer's disease (AD) are late-onset dementias (LOAD). However, research on AD is predominantly of early-onset disease (EOAD). The determinants of EOAD, gene variants of APP and presenilin proteins, are not the basic precursors of LOAD. Rather, multiple other genes and associated cellular processes underlie risk for LOAD. These determinants could be modified in individuals at risk for LOAD well before signs and symptoms appear. Studying brain cells produced from patient-derived induced-pluripotent-stem-cells (iPSC), in culture, will be instrumental in developing such interventions. This paper summarises evidence accrued from iPSC culture models identifying the earliest occurring clinically targetable determinants of LOAD. Results obtained and replicated, thus far, suggest that abnormalities of bioenergetics, lipid metabolism, digestive organelle function and inflammatory activity are primary processes underlying LOAD. The application of cell culture platforms will become increasingly important in research and also on LOAD detection, assessment, and treatment in the years ahead.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Most cases of Alzheimer's disease (AD) are late-onset dementias (LOAD). However, research on AD is predominantly of early-onset disease (EOAD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39002387/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Age of Onset",
+    "Amyloid beta-Protein Precursor",
+    "Brain"
+  ],
+  "keywords": [
+    "Induced-pluripotent-stem cells",
+    "Inherent determinants",
+    "Late-onset Alzheimer's disease",
+    "Prevention"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

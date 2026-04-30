@@ -1,0 +1,49 @@
+{
+  "pmid": "33763530",
+  "doi": "10.3205/zma001441",
+  "title": "Inadequate treatment in internships: a comparison between medical and other students",
+  "authors": "Bormuth S, Ackermann H, Schulze J",
+  "journal": "GMS journal for medical education",
+  "date": "2021-02",
+  "source": "pubmed",
+  "abstract": "Inadequate treatment is one of the factors interfering with a successful social and working life. Among students, it can impair their health and learning progress. In the field of medicine the problem of inadequate treatment seems widespread. This study examines wether inadequate treatment in internships differs between medicine and other academic disciplines.Using a questionnaire, the frequency, forms and severity of inadequate treatment among students were compared between the disciplines of medicine, civil engineering and teaching.69,3% of medical students reported inadequate treatment during their internships, about twice as many as students of other disciplines. The ratios of verbal, non-verbal and organisational inadequate treatment were similar between the different academic disciplines. However, medical students executed tasks without receiving sufficient safety precautions or training significantly more often (sevenfold) than students of other disciplines. In total however, the experienced incidents of inadequate treatment were seen as similarly severe across the different academic fields.Inadequate treatment of students during internships is a larger problem in medicine than in civil engineering or teaching, particularly concerning the performance of unsafe tasks. With regard to the health of students and patients, inadequate treatment in the medical education should be tackled. Previous studies suggest that this goal can be achieved only through longtime extensive measures on the level of students, lecturers, faculty and teaching hospitals.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Inadequate treatment is one of the factors interfering with a successful social and working life. Among students, it can impair their health and learning progress.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33763530/",
+  "mesh_terms": [
+    "Animals",
+    "Education, Medical",
+    "Faculty",
+    "Female",
+    "Humans",
+    "Internship and Residency",
+    "Learning",
+    "Male",
+    "Occupational Health",
+    "Students, Medical",
+    "Surveys and Questionnaires"
+  ],
+  "keywords": [
+    "aggression",
+    "bullying",
+    "communication",
+    "comparative study",
+    "harassment",
+    "non-sexual",
+    "psychological",
+    "stress"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

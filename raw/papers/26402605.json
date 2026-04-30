@@ -1,0 +1,38 @@
+{
+  "pmid": "26402605",
+  "doi": "10.1016/j.neuron.2015.09.016",
+  "title": "Insights into Autism Spectrum Disorder Genomic Architecture and Biology from 71 Risk Loci",
+  "authors": "Sanders SJ, He X, Willsey AJ, Ercan-Sencicek AG, Samocha KE, Cicek AE, et al.",
+  "journal": "Neuron",
+  "date": "2015-09",
+  "source": "pubmed",
+  "abstract": "Analysis of de novo CNVs (dnCNVs) from the full Simons Simplex Collection (SSC) (N = 2,591 families) replicates prior findings of strong association with autism spectrum disorders (ASDs) and confirms six risk loci (1q21.1, 3q29, 7q11.23, 16p11.2, 15q11.2-13, and 22q11.2). The addition of published CNV data from the Autism Genome Project (AGP) and exome sequencing data from the SSC and the Autism Sequencing Consortium (ASC) shows that genes within small de novo deletions, but not within large dnCNVs, significantly overlap the high-effect risk genes identified by sequencing. Alternatively, large dnCNVs are found likely to contain multiple modest-effect risk genes. Overall, we find strong evidence that de novo mutations are associated with ASD apart from the risk for intellectual disability. Extending the transmission and de novo association test (TADA) to include small de novo deletions reveals 71 ASD risk loci, including 6 CNV regions (noted above) and 65 risk genes (FDR &#x2264; 0.1).",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Analysis of de novo CNVs (dnCNVs) from the full Simons Simplex Collection (SSC) (N = 2,591 families) replicates prior findings of strong association with autism spectrum disorders (ASDs) and confirms six risk loci (1q21.1, 3q29, 7q11.23, 16p11.2, 15q11.2-13, and 22q11.2). The addition of published CNV data from the Autism Genome Project (AGP) and exome sequencing data from the SSC and the Autism Sequencing Consortium (ASC) shows that genes within small de novo deletions, but not within large dnC",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26402605/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Female",
+    "Genetic Loci",
+    "Genetic Variation",
+    "Humans",
+    "Male",
+    "Protein Interaction Maps"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

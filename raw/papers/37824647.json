@@ -1,0 +1,41 @@
+{
+  "pmid": "37824647",
+  "doi": "10.1126/science.adf0834",
+  "title": "Single-cell analysis of prenatal and postnatal human cortical development",
+  "authors": "Velmeshev D, Perez Y, Yan Z, Valencia JE, Castaneda-Castellanos DR, Wang L, et al.",
+  "journal": "Science (New York, N.Y.)",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "We analyzed >700,000 single-nucleus RNA sequencing profiles from 106 donors during prenatal and postnatal developmental stages and identified lineage-specific programs that underlie the development of specific subtypes of excitatory cortical neurons, interneurons, glial cell types, and brain vasculature. By leveraging single-nucleus chromatin accessibility data, we delineated enhancer gene regulatory networks and transcription factors that control commitment of specific cortical lineages. By intersecting our results with genetic risk factors for human brain diseases, we identified the cortical cell types and lineages most vulnerable to genetic insults of different brain disorders, especially autism. We find that lineage-specific gene expression programs up-regulated in female cells are especially enriched for the genetic risk factors of autism. Our study captures the molecular progression of cortical lineages across human development.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "We analyzed >700,000 single-nucleus RNA sequencing profiles from 106 donors during prenatal and postnatal developmental stages and identified lineage-specific programs that underlie the development of specific subtypes of excitatory cortical neurons, interneurons, glial cell types, and brain vasculature. By leveraging single-nucleus chromatin accessibility data, we delineated enhancer gene regulatory networks and transcription factors that control commitment of specific cortical lineages.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37824647/",
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Infant, Newborn",
+    "Pregnancy",
+    "Brain Diseases",
+    "Cerebral Cortex",
+    "Gene Regulatory Networks",
+    "Interneurons",
+    "Neurons",
+    "Single-Cell Analysis",
+    "Male",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

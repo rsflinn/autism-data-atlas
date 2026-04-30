@@ -1,0 +1,36 @@
+{
+  "pmid": "36201164",
+  "doi": "10.1044/2022_JSLHR-22-00096",
+  "title": "Attentional Demand of Motor Speech Encoding: Evidence From Parkinson's Disease",
+  "authors": "Fournet M, Catalano Chiuv&#xe9; S, Laganaro M",
+  "journal": "Journal of speech, language, and hearing research : JSLHR",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "While the involvement of attention in utterance planning is well established at the conceptual and lexical levels, the attentional demands of postlexical processes are still debated. This study investigates the involvement of attentional resources on motor speech encoding during utterance production in the context of Parkinson's disease (PD), a population allowing to assess if the attentional demands observed in a dual-task paradigm (the dual-task costs [DTCs]) are explained by postlexical difficulties and not solely by executive impairment.\n\nSpeech production was analyzed in a dual-task paradigm with 30 participants presenting with motor speech disorders due to hypokinetic dysarthria in the context of PD. The dual-task comprised an automatic speech task in which participants recited the days of the week and two nonverbal tasks evaluating processing speed and inhibition. The severity of dysarthria and performance in several executive tests (inhibition, verbal fluency, and cognitive shifting) were used as potential predictors of the DTCs.\n\nIndividuals with PD exhibited a DTC on the nonverbal tasks and on the speech task when the secondary task was inhibition (the most difficult one). Additionally, the severity of dysarthria and a poorer performance in cognitive shifting predicted a more severe DTC on speech rate. Finally, modulation of the magnitude of the DTCs was observed, depending on the difficulty of the nonverbal secondary task.\n\nThe results suggest that, in PD, postlexical processes require attentional resources and cognitive shifting is related to dual-task performance in speech.\n\nhttps://doi.org/10.23641/asha.21265893.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "While the involvement of attention in utterance planning is well established at the conceptual and lexical levels, the attentional demands of postlexical processes are still debated. This study investigates the involvement of attentional resources on motor speech encoding during utterance production in the context of Parkinson's disease (PD), a population allowing to assess if the attentional demands observed in a dual-task paradigm (the dual-task costs [DTCs]) are explained by postlexical diffi",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36201164/",
+  "mesh_terms": [
+    "Attention",
+    "Dysarthria",
+    "Humans",
+    "Parkinson Disease",
+    "Psychomotor Performance",
+    "Speech"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

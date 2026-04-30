@@ -1,0 +1,43 @@
+{
+  "pmid": "35048876",
+  "doi": "10.1192/bjp.2021.102",
+  "title": "Characterisation of age and polarity at onset in bipolar disorder",
+  "authors": "Kalman JL, Olde Loohuis LM, Vreeker A, McQuillin A, Stahl EA, Ruderfer D, et al.",
+  "journal": "The British journal of psychiatry : the journal of mental science",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "Studying phenotypic and genetic characteristics of age at onset (AAO) and polarity at onset (PAO) in bipolar disorder can provide new insights into disease pathology and facilitate the development of screening tools.\n\nTo examine the genetic architecture of AAO and PAO and their association with bipolar disorder disease characteristics.\n\nGenome-wide association studies (GWASs) and polygenic score (PGS) analyses of AAO (n = 12 977) and PAO (n = 6773) were conducted in patients with bipolar disorder from 34 cohorts and a replication sample (n = 2237). The association of onset with disease characteristics was investigated in two of these cohorts.\n\nEarlier AAO was associated with a higher probability of psychotic symptoms, suicidality, lower educational attainment, not living together and fewer episodes. Depressive onset correlated with suicidality and manic onset correlated with delusions and manic episodes. Systematic differences in AAO between cohorts and continents of origin were observed. This was also reflected in single-nucleotide variant-based heritability estimates, with higher heritabilities for stricter onset definitions. Increased PGS for autism spectrum disorder (&#x3b2; = -0.34 years, s.e. = 0.08), major depression (&#x3b2; = -0.34 years, s.e. = 0.08), schizophrenia (&#x3b2; = -0.39 years, s.e. = 0.08), and educational attainment (&#x3b2; = -0.31 years, s.e. = 0.08) were associated with an earlier AAO. The AAO GWAS identified one significant locus, but this finding did not replicate. Neither GWAS nor PGS analyses yielded significant associations with PAO.\n\nAAO and PAO are associated with indicators of bipolar disorder severity. Individuals with an earlier onset show an increased polygenic liability for a broad spectrum of psychiatric traits. Systematic differences in AAO across cohorts, continents and phenotype definitions introduce significant heterogeneity, affecting analyses.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Studying phenotypic and genetic characteristics of age at onset (AAO) and polarity at onset (PAO) in bipolar disorder can provide new insights into disease pathology and facilitate the development of screening tools. To examine the genetic architecture of AAO and PAO and their association with bipolar disorder disease characteristics.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35048876/",
+  "mesh_terms": [
+    "Age of Onset",
+    "Autism Spectrum Disorder",
+    "Bipolar Disorder",
+    "Major Depressive Disorder",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Multifactorial Inheritance"
+  ],
+  "keywords": [
+    "Bipolar disorder",
+    "GWAS",
+    "age at onset",
+    "polarity at onset",
+    "polygenic score"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

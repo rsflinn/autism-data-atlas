@@ -1,0 +1,46 @@
+{
+  "pmid": "27664583",
+  "doi": "10.1016/j.neures.2016.09.005",
+  "title": "Functions of synapse adhesion molecules neurexin/neuroligins and neurodevelopmental disorders",
+  "authors": "Cao X, Tabuchi K",
+  "journal": "Neuroscience research",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "Neurexins and neuroligins are two distinct families of single-pass transmembrane proteins localized at pre- and postsynapses, respectively. They trans-synaptically interact with each other and induce synapse formation and maturation. Common variants and rare mutations, including copy number variations, short deletions, and single or small nucleotide changes in neurexin and neuroligin genes have been linked to the neurodevelopmental disorders, such as autism spectrum disorders (ASDs). In this review, we summarize the structure and basic synaptic function of neurexins and neuroligins, followed by behaviors and synaptic phenotypes of knock-in and knock-out mouse of these family genes. From the studies of these mice, it turns out that the effects of neurexins and neuroligins are amazingly neural circuit dependent, even within the same brain region. In addition, neurexins and neuroligins are commonly involved in the endocannabinoid signaling. These finding may provide not only insight into understanding the pathophysiology, but also the concept for strategy of therapeutic intervention for ASDs.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neurexins and neuroligins are two distinct families of single-pass transmembrane proteins localized at pre- and postsynapses, respectively. They trans-synaptically interact with each other and induce synapse formation and maturation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27664583/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Endocannabinoids",
+    "Gene Knock-In Techniques",
+    "Humans",
+    "Membrane Proteins",
+    "Mice, Knockout",
+    "Mutation",
+    "Signal Transduction",
+    "Synapses"
+  ],
+  "keywords": [
+    "Autism spectrum disorders (ASDs)",
+    "Endocannabinoid signaling",
+    "Mouse model",
+    "Neurexin",
+    "Neuroligin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

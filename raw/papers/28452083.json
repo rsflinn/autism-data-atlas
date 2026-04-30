@@ -1,0 +1,46 @@
+{
+  "pmid": "28452083",
+  "doi": "10.1111/ejn.13595",
+  "title": "Neurobiological bases of autism-epilepsy comorbidity: a focus on excitation/inhibition imbalance",
+  "authors": "Bozzi Y, Provenzano G, Casarosa S",
+  "journal": "The European journal of neuroscience",
+  "date": "2017-05",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) and epilepsy are common neurological diseases of childhood, with an estimated incidence of approximately 0.5-1% of the worldwide population. Several genetic, neuroimaging and neuropathological studies clearly showed that both ASD and epilepsy have developmental origins and a substantial degree of heritability. Most importantly, ASD and epilepsy frequently coexist in the same individual, suggesting a common neurodevelopmental basis for these disorders. Genome-wide association studies recently allowed for the identification of a substantial number of genes involved in ASD and epilepsy, some of which are mutated in syndromes presenting both ASD and epilepsy clinical features. At the cellular level, both preclinical and clinical studies indicate that the different genetic causes of ASD and epilepsy may converge to perturb the excitation/inhibition (E/I) balance, due to the dysfunction of excitatory and inhibitory circuits in various brain regions. Metabolic and immune dysfunctions, as well as environmental causes also contribute to ASD pathogenesis. Thus, an E/I imbalance resulting from neurodevelopmental deficits of multiple origins might represent a common pathogenic mechanism for both diseases. Here, we will review the most significant studies supporting these hypotheses. A deeper understanding of the molecular and cellular determinants of autism-epilepsy comorbidity will pave the way to the development of novel therapeutic strategies.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) and epilepsy are common neurological diseases of childhood, with an estimated incidence of approximately 0.5-1% of the worldwide population. Several genetic, neuroimaging and neuropathological studies clearly showed that both ASD and epilepsy have developmental origins and a substantial degree of heritability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28452083/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Comorbidity",
+    "Cortical Excitability",
+    "Epilepsy",
+    "Glutamic Acid",
+    "Humans",
+    "Neural Inhibition",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [
+    "GABA",
+    "glutamate",
+    "interneuron",
+    "neurodevelopmental disorder",
+    "seizure"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

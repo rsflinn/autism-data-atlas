@@ -1,0 +1,45 @@
+{
+  "pmid": "23650259",
+  "doi": "10.1002/dneu.22089",
+  "title": "A role for synaptic zinc in ProSAP/Shank PSD scaffold malformation in autism spectrum disorders",
+  "authors": "Grabrucker AM",
+  "journal": "Developmental neurobiology",
+  "date": "2013-09",
+  "source": "pubmed",
+  "abstract": "The establishment and maintenance of synaptic contacts as well as synaptic plasticity are crucial factors for normal brain function. The functional properties of a synapse are largely dependent on the molecular setup of synaptic proteins. Multidomain proteins of the ProSAP/Shank family act as major organizing scaffolding elements of the postsynaptic density (PSD). Interestingly, ProSAP/Shank proteins at glutamatergic synapses have been linked to a variety of Autism Spectrum Disorders (ASDs) including Phelan McDermid Syndrome, and deregulation of ProSAP/Shank has been reported in Alzheimer's disease. Although the precise molecular mechanism of the dysfunction of these proteins remains unclear, an emerging model is that mutations or deletions impair neuronal circuitry by disrupting the formation, plasticity and maturation of glutamatergic synapses. Several PSD proteins associated with ASDs are part of a complex centered around ProSAP/Shank proteins and many ProSAP/Shank interaction partners play a role in signaling within dendritic spines. Interfering with any one of the members of this signaling complex might change the output and drive the system towards synaptic dysfunction. Based on recent data, it is possible that the concerted action of ProSAP/Shank and Zn(2+) is essential for the structural integrity of the PSD. This interplay might regulate postsynaptic receptor composition, but also transsynaptic signaling. It might be possible that environmental factors like nutritional Zn(2+) status or metal ion homeostasis in general intersect with this distinct pathway centered around ProSAP/Shank proteins and the deregulation of any of these two factors may lead to ASDs.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The establishment and maintenance of synaptic contacts as well as synaptic plasticity are crucial factors for normal brain function. The functional properties of a synapse are largely dependent on the molecular setup of synaptic proteins.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23650259/",
+  "mesh_terms": [
+    "Animals",
+    "Child Development Disorders, Pervasive",
+    "Humans",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Post-Synaptic Density",
+    "Synaptic Transmission",
+    "Zinc"
+  ],
+  "keywords": [
+    "22q13",
+    "Phelan McDermid Syndrome",
+    "Shank2",
+    "Shank3",
+    "Zn2+"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

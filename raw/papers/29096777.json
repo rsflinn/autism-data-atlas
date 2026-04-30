@@ -1,0 +1,49 @@
+{
+  "pmid": "29096777",
+  "doi": "10.1016/j.jaac.2017.09.414",
+  "title": "Efficacy and Safety of Pediatric Prolonged-Release Melatonin for Insomnia in Children With Autism Spectrum Disorder",
+  "authors": "Gringras P, Nir T, Breddy J, Frydman-Marom A, Findling RL",
+  "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+  "date": "2017-09",
+  "source": "pubmed",
+  "abstract": "To assess the efficacy and safety of novel pediatric-appropriate, prolonged-release melatonin minitablets (PedPRM) versus placebo for insomnia in children and adolescents with autism spectrum disorder (ASD), with or without attention-deficit/hyperactivity disorder (ADHD) comorbidity, and neurogenetic disorders (NGD).\n\nA total of 125 children and adolescents (2-17.5 years of age; 96.8% ASD, 3.2% Smith-Magenis syndrome [SMS]) whose sleep failed to improve on behavioral intervention alone were randomized (1:1 ratio), double-blind, to receive PedPRM (2 mg escalated to 5 mg) or placebo for 13 weeks. Sleep measures included the validated caregivers' Sleep and Nap Diary (SND) and Composite Sleep Disturbance Index (CSDI). The a priori primary endpoint was SND-reported total sleep time (TST) after 13 weeks of treatment.\n\nThe study met the primary endpoint: after 13 weeks of double-blind treatment, participants slept on average 57.5 minutes longer at night with PedPRM compared to 9.14 minutes with placebo (adjusted mean&#xa0;treatment difference PedPRM-placebo&#xa0;-32.43 minutes; p&#xa0;= .034). Sleep latency (SL) decreased by 39.6 minutes on&#xa0;average with PedPRM and 12.5 minutes with placebo (adjusted mean treatment difference&#xa0;-25.30 minutes; p&#xa0;= .011) without causing earlier wakeup time. The rate of participants attaining clinically meaningful responses in TST and/or SL was significantly higher with PedPRM than with placebo (68.9% versus 39.3% respectively; p&#xa0;= .001) corresponding to a number needed to treat (NNT) of 3.38. Overall sleep disturbance (CSDI) tended to decrease. PedPRM was generally safe; somnolence was more commonly reported with PedPRM than placebo.\n\nPedPRM was efficacious and safe for treatment of insomnia in children and adolescents with ASD with/without ADHD and NGD. The acceptability of this pediatric formulation in a population who usually experience significant difficulties in swallowing was remarkably high. Clinical trial registration information-Efficacy and Safety of Circadin in the Treatment of Sleep Disturbances in Children With Neurodevelopment Disabilities; http://clinicaltrials.gov/; NCT01906866.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "To assess the efficacy and safety of novel pediatric-appropriate, prolonged-release melatonin minitablets (PedPRM) versus placebo for insomnia in children and adolescents with autism spectrum disorder (ASD), with or without attention-deficit/hyperactivity disorder (ADHD) comorbidity, and neurogenetic disorders (NGD). A total of 125 children and adolescents (2-17.5 years of age; 96.8% ASD, 3.2% Smith-Magenis syndrome [SMS]) whose sleep failed to improve on behavioral intervention alone were rando",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29096777/",
+  "mesh_terms": [
+    "Adolescent",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Central Nervous System Depressants",
+    "Child",
+    "Child, Preschool",
+    "Delayed-Action Preparations",
+    "Female",
+    "Humans",
+    "Male",
+    "Melatonin",
+    "Outcome Assessment, Health Care",
+    "Sleep Initiation and Maintenance Disorders"
+  ],
+  "keywords": [
+    "autism",
+    "melatonin",
+    "neurogenetic",
+    "pediatric",
+    "sleep"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ]
+}

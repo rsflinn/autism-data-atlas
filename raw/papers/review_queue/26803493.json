@@ -1,0 +1,46 @@
+{
+  "pmid": "26803493",
+  "doi": "10.1007/s12035-015-9680-6",
+  "title": "SK3 Channel Overexpression in Mice Causes Hippocampal Shrinkage Associated with Cognitive Impairments",
+  "authors": "Martin S, Lazzarini M, Dullin C, Balakrishnan S, Gomes FV, Ninkovic M, et al.",
+  "journal": "Molecular neurobiology",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "The dysfunction of the small-conductance calcium-activated Kchannel SK3 has been described as one of the factors responsible for the progress of psychoneurological diseases, but the molecular basis of this is largely unknown. This report reveals through use of immunohistochemistry and computational tomography that long-term increased expression of the SK3 small-conductance calcium-activated potassium channel (SK3-T/T) in mice induces a notable bilateral reduction of the hippocampal area (more than 50&#xa0;%). Histological analysis showed that SK3-T/T mice have cellular disarrangements and neuron discontinuities in the hippocampal formation CA1 and CA3 neuronal layer. SK3 overexpression resulted in cognitive loss as determined by the object recognition test. Electrophysiological examination of hippocampal slices revealed that SK3 channel overexpression induced deficiency of long-term potentiation in hippocampal microcircuits. In association with these results, there were changes at the mRNA levels of some genes involved in Alzheimer's disease and/or linked to schizophrenia, epilepsy, and autism. Taken together, these features suggest that augmenting the function of SK3 ion channel in mice may present a unique opportunity to investigate the neural basis of central nervous system dysfunctions associated with schizophrenia, Alzheimer's disease, or other neuropsychiatric/neurodegenerative disorders in this model system. As a more detailed understanding of the role of the SK3 channel in brain disorders is limited by the lack of specific SK3 antagonists and agonists, the results observed in this study are of significant interest; they suggest a new approach for the development of neuroprotective strategies in neuropsychiatric/neurodegenerative diseases with SK3 representing a potential drug target.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The dysfunction of the small-conductance calcium-activated Kchannel SK3 has been described as one of the factors responsible for the progress of psychoneurological diseases, but the molecular basis of this is largely unknown. This report reveals through use of immunohistochemistry and computational tomography that long-term increased expression of the SK3 small-conductance calcium-activated potassium channel (SK3-T/T) in mice induces a notable bilateral reduction of the hippocampal area (more th",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26803493/",
+  "mesh_terms": [
+    "Animals",
+    "Atrophy",
+    "Cognitive Dysfunction",
+    "Gene Expression",
+    "Hippocampus",
+    "Mice",
+    "Mice, Knockout",
+    "Mice, Transgenic",
+    "Organ Culture Techniques",
+    "Small-Conductance Calcium-Activated Potassium Channels"
+  ],
+  "keywords": [
+    "Alzheimer&#x2019;s disease",
+    "Learning and memory",
+    "Potassium channel KCa2.3",
+    "Schizophrenia",
+    "Whole-cell patch clamp"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

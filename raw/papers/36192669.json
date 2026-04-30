@@ -1,0 +1,44 @@
+{
+  "pmid": "36192669",
+  "doi": "10.1007/s10803-022-05767-w",
+  "title": "A Fusion-Based Machine Learning Approach for Autism Detection in Young Children Using Magnetoencephalography Signals",
+  "authors": "Barik K, Watanabe K, Bhattacharya J, Saha G",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "In this study, we aimed to find biomarkers of autism in young children. We recorded magnetoencephalography (MEG) in thirty children (4-7&#xa0;years) with autism and thirty age, gender-matched controls while they were watching cartoons. We focused on characterizing neural oscillations by amplitude (power spectral density, PSD) and phase (preferred phase angle, PPA). Machine learning based classifier showed a higher classification accuracy (88%) for PPA features than PSD features (82%). Further, by a novel fusion method combining PSD and PPA features, we achieved an average classification accuracy of 94% and 98% for feature-level and score-level fusion, respectively. These findings reveal discriminatory patterns of neural oscillations of autism in young children and provide novel insight into autism pathophysiology.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "In this study, we aimed to find biomarkers of autism in young children. We recorded magnetoencephalography (MEG) in thirty children (4-7&#xa0;years) with autism and thirty age, gender-matched controls while they were watching cartoons.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36192669/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Child, Preschool",
+    "Magnetoencephalography",
+    "Autistic Disorder",
+    "Brain",
+    "Autism Spectrum Disorder",
+    "Machine Learning"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Biomarker",
+    "Brain oscillations",
+    "Classification",
+    "MEG",
+    "Preferred phase angle"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

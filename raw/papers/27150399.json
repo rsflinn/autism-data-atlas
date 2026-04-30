@@ -1,0 +1,40 @@
+{
+  "pmid": "27150399",
+  "doi": "10.1038/nrn.2016.41",
+  "title": "The landscape of DNA methylation amid a perfect storm of autism aetiologies",
+  "authors": "Vogel Ciernia A, LaSalle J",
+  "journal": "Nature reviews. Neuroscience",
+  "date": "2016-05",
+  "source": "pubmed",
+  "abstract": "Increasing evidence points to a complex interplay between genes and the environment in autism spectrum disorder (ASD), including rare de novo mutations in chromatin genes such as methyl-CpG binding protein 2 (MECP2) in Rett syndrome. Epigenetic mechanisms such as DNA methylation act at this interface, reflecting the plasticity in metabolic and neurodevelopmentally regulated gene pathways. Genome-wide studies of gene sequences, gene pathways and DNA methylation are providing valuable mechanistic insights into ASD. The dynamic developmental landscape of DNA methylation is vulnerable to numerous genetic and environmental insults: therefore, understanding pathways that are central to this 'perfect storm' will be crucial to improving the diagnosis and treatment of ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Increasing evidence points to a complex interplay between genes and the environment in autism spectrum disorder (ASD), including rare de novo mutations in chromatin genes such as methyl-CpG binding protein 2 (MECP2) in Rett syndrome. Epigenetic mechanisms such as DNA methylation act at this interface, reflecting the plasticity in metabolic and neurodevelopmentally regulated gene pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27150399/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Chromatin",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Humans",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

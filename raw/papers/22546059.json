@@ -1,0 +1,40 @@
+{
+  "pmid": "22546059",
+  "doi": "10.1177/070674371205700502",
+  "title": "Adults with autism spectrum disorders",
+  "authors": "Howlin P, Moss P",
+  "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+  "date": "2012-05",
+  "source": "pubmed",
+  "abstract": "In the decades since autism was first formally described in the 1940s, there have been major advances in research relating to diagnosis, causation, and treatment approaches for children with this condition. However, research into prognosis, outcomes, or effective interventions for adults with autism spectrum disorders (ASDs) is much more limited. In this paper, we review studies of outcome in adulthood. The findings indicate that, as adults, many people with ASD, including those of normal IQ, are significantly disadvantaged regarding employment, social relationships, physical and mental health, and quality of life. Support to facilitate integration within the wider society is frequently lacking, and there has been almost no research into ways of developing more effective intervention programs for adults. Moreover, most of the research on outcome has involved relatively young people in their 20s and 30s-much less is known about outcomes for people with ASD as they reach mid-late adulthood. Systematic follow-up studies from childhood through adulthood are needed if we are to gain a better understanding of trajectories of development over the lifespan, to identify the factors that influence prognosis, and to determine how these factors exert their effects and how they may be modified to ensure a better future.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "In the decades since autism was first formally described in the 1940s, there have been major advances in research relating to diagnosis, causation, and treatment approaches for children with this condition. However, research into prognosis, outcomes, or effective interventions for adults with autism spectrum disorders (ASDs) is much more limited.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22546059/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Comorbidity",
+    "Epilepsy",
+    "Follow-Up Studies",
+    "Humans",
+    "Prognosis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

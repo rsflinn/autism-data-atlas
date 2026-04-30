@@ -1,0 +1,47 @@
+{
+  "pmid": "36430502",
+  "doi": "10.3390/ijms232214025",
+  "title": "5-HTReceptor Agonist Treatment Partially Ameliorates Rett Syndrome Phenotypes in-Null Mice by Rescuing Impairment of Neuron Transmission and the CREB/BDNF Signaling Pathway",
+  "authors": "Dai H, Kitami Y, Goto YI, Itoh M",
+  "journal": "International journal of molecular sciences",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is an X-linked neurodevelopmental disorder caused by mutations in the gene that encodes methyl CpG-binding protein 2 (MECP2) and is characterized by the loss of acquired motor and language skills, stereotypic movements, respiratory abnormalities and autistic features. There has been no effective treatment for this disorder until now. In this study, we used a-null (KO) mouse model of RTT to investigate whether repeated intraperitoneal treatment with the 5-HTreceptor agonist tandospirone could improve the RTT phenotype. The results showed that administration of tandospirone significantly extended the lifespan of-KO mice and obviously ameliorated RTT phenotypes, including general condition, hindlimb clasping, gait, tremor and breathing in-KO mice. Tandospirone treatment significantly improved the impairment in GABAergic, glutaminergic, dopaminergic and serotoninergic neurotransmission in the brainstem of-KO mice. Decreased dopaminergic neurotransmission in the cerebellum of-KO mice was also significantly increased by tandospirone treatment. Moreover, RNA-sequencing analysis found that tandospirone modulates the RTT phenotype, partially through the CREB1/BDNF signaling pathway in-KO mice. These findings provide a new option for clinical treatment.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is an X-linked neurodevelopmental disorder caused by mutations in the gene that encodes methyl CpG-binding protein 2 (MECP2) and is characterized by the loss of acquired motor and language skills, stereotypic movements, respiratory abnormalities and autistic features. There has been no effective treatment for this disorder until now.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36430502/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Rett Syndrome",
+    "Receptor, Serotonin, 5-HT1A",
+    "Brain-Derived Neurotrophic Factor",
+    "Mice, Knockout",
+    "Synaptic Transmission",
+    "Phenotype",
+    "Serotonin Receptor Agonists",
+    "Neurons",
+    "Methyl-CpG-Binding Protein 2"
+  ],
+  "keywords": [
+    "5-HT1A receptor",
+    "Rett syndrome",
+    "neurotransmitter",
+    "tandospirone"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

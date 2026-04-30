@@ -1,0 +1,47 @@
+{
+  "pmid": "35445787",
+  "doi": "10.1002/aur.2728",
+  "title": "Genetic mouse models of autism spectrum disorder present subtle heterogenous cardiac abnormalities",
+  "authors": "Assimopoulos S, Hammill C, Fernandes DJ, Spencer Noakes TL, Zhou YQ, Nutter LMJ, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) and congenital heart disease (CHD) are linked on a functional and genetic level. Most work has investigated CHD-related neurodevelopmental abnormalities. Cardiac abnormalities in ASD have been less studied. We investigated the prevalence of cardiac comorbidities relative to ASD genetic contributors. Using high frequency ultrasound imaging, we screened 9 ASD-related genetic mouse models (Arid1b, Chd8, 16p11.2 (deletion), Sgsh, Sgsh, Shank3 &#x394;exon 4-9, Shank3 &#x394;exon 4-9, Fmr1, Vps13b), and pooled wild-type littermates (WTs). We measured heart rate (HR), aorta diameter (AoD), thickness and thickening of the left-ventricular (LV) anterior and posterior walls, LV chamber diameter, fractional shortening, stroke volume and cardiac output, mitral inflow Peak E and A velocity ratio, ascending aorta velocity time integral (VTI). Mutant groups presented small-scale alterations in cardiac structure and function compared to WTs (LV anterior wall thickness and thickening, chamber diameter and fractional shortening, HR). A greater number of significant differences was observed among mutant groups than between mutant groups and WTs. Mutant groups differed primarily in structural measures (LV chamber diameter and anterior wall thickness, HR, AoD). The mutant groups with most differences to WTs were 16p11.2 (deletion), Fmr1, Arid1b. The mutant groups with most differences from other mutant groups were 16p11.2 (deletion), Sgsh, Fmr1. Our results recapitulate the associated clinical findings. The characteristic ASD heterogeneity was recapitulated in the cardiac phenotype. The type of abnormal measures (morphological, functional) can highlight common underlying mechanisms. Clinically, knowledge of cardiac abnormalities in ASD can be essential as even non-lethal abnormalities impact normal development. LAY SUMMARY: Autism spectrum disorder (ASD) and congenital heart disease (CHD) are linked functionally and genetically. ASD cardiac phenotyping is limited. We assessed the cardiac phenotype of 9 ASD-related mouse models. We found subtle heterogenous cardiac abnormalities compared to controls, with more differences within ASD than between ASD and controls, mirroring clinical findings. Clinically, knowing the cardiac abnormalities in ASD is vital as even non-lethal cardiac abnormalities can impact development.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) and congenital heart disease (CHD) are linked on a functional and genetic level. Most work has investigated CHD-related neurodevelopmental abnormalities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35445787/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Heart Defects, Congenital",
+    "Mice",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins",
+    "Phenotype",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "autism",
+    "cardiac phenotype/cardiology",
+    "comorbidities",
+    "genetic mouse models",
+    "phenotyping",
+    "ultrasound biomicroscopy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

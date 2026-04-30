@@ -1,0 +1,42 @@
+{
+  "pmid": "24272415",
+  "doi": "10.1007/s10803-013-1963-z",
+  "title": "STX209 (arbaclofen) for autism spectrum disorders: an 8-week open-label study",
+  "authors": "Erickson CA, Veenstra-Vanderweele JM, Melmed RD, McCracken JT, Ginsberg LD, Sikich L, et al.",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2014-04",
+  "source": "pubmed",
+  "abstract": "STX209 (arbaclofen), a selective GABA-B agonist, is hypothesized to modulate the balance of excitatory to inhibitory neurotransmission, and has shown preliminary evidence of benefit in fragile X syndrome. We evaluated its safety, tolerability, and efficacy in non-syndromic autism spectrum disorders, in an 8-week open-label trial enrolling 32 children and adolescents with either Autistic Disorder or Pervasive Developmental Disorder-Not Otherwise Specified, and a score &#x2265;17 on the Aberrant Behavior Checklist (ABC)-Irritability subscale. STX209 was generally well-tolerated. The most common adverse events were agitation and irritability, which typically resolved without dose changes, and were often felt to represent spontaneous variation in underlying symptoms. Improvements were observed on several outcome measures in this exploratory trial, including the ABC-Irritability (the primary endpoint) and the Lethargy/Social Withdrawal subscales, the Social Responsiveness Scale, the CY-BOCS-PDD, and clinical global impression scales. Placebo-controlled study of STX209 is warranted.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "STX209 (arbaclofen), a selective GABA-B agonist, is hypothesized to modulate the balance of excitatory to inhibitory neurotransmission, and has shown preliminary evidence of benefit in fragile X syndrome. We evaluated its safety, tolerability, and efficacy in non-syndromic autism spectrum disorders, in an 8-week open-label trial enrolling 32 children and adolescents with either Autistic Disorder or Pervasive Developmental Disorder-Not Otherwise Specified, and a score &#x2265;17 on the Aberrant B",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24272415/",
+  "mesh_terms": [
+    "Adolescent",
+    "Akathisia, Drug-Induced",
+    "Baclofen",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Female",
+    "GABA-B Receptor Agonists",
+    "Humans",
+    "Irritable Mood",
+    "Male",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

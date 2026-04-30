@@ -1,0 +1,37 @@
+{
+  "pmid": "30945897",
+  "doi": "10.1037/amp0000436",
+  "title": "Impacting development in infants with tuberous sclerosis complex: Multidisciplinary research collaboration",
+  "authors": "Williams ME, Pearson DA, Capal JK, Byars AW, Murray DS, Kissinger R, et al.",
+  "journal": "The American psychologist",
+  "date": "2019-04",
+  "source": "pubmed",
+  "abstract": "The Tuberous Sclerosis Complex Autism Center of Excellence Network (TACERN) is a 6-site collaborative conducting longitudinal research on infants with tuberous sclerosis complex (TSC), focused on identifying early biomarkers for autism spectrum disorder (ASD). A multidisciplinary research team that includes the specialties of psychology, neurology, pediatrics, medical genetics, and speech-language pathology, its members work together to conduct studies on neurological status, brain structure and function, neurodevelopmental phenotype, and behavioral challenges in this population. This article provides insights into the roles of the multidisciplinary multisite team and lessons learned from the collaboration, in terms of research as well as training of future researchers and clinicians. In addition, the authors detail the major findings to date, including those related to the identification and measurement of early symptoms of ASD, relationship between seizures and early development, and early biomarkers for epilepsy and developmental delay in infants and young children with TSC. (PsycINFO Database Record (c) 2019 APA, all rights reserved).",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The Tuberous Sclerosis Complex Autism Center of Excellence Network (TACERN) is a 6-site collaborative conducting longitudinal research on infants with tuberous sclerosis complex (TSC), focused on identifying early biomarkers for autism spectrum disorder (ASD). A multidisciplinary research team that includes the specialties of psychology, neurology, pediatrics, medical genetics, and speech-language pathology, its members work together to conduct studies on neurological status, brain structure and",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30945897/",
+  "mesh_terms": [
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Humans",
+    "Infant",
+    "Interdisciplinary Research",
+    "Longitudinal Studies",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

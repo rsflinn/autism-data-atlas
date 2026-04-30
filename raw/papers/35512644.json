@@ -1,0 +1,51 @@
+{
+  "pmid": "35512644",
+  "doi": "10.1159/000524898",
+  "title": "Multiple Early-Life Seizures Alters Neonatal Communicative Behavior in Fmr1 Knockout Mice",
+  "authors": "Nguyen PH, Narvaiz DA, Womble PD, Sullens DG, Binder MS, Hodges SL, et al.",
+  "journal": "Developmental neuroscience",
+  "date": "2022-05",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the leading monogenic cause of intellectual disability and a significant contributor to Autism Spectrum Disorder. Individuals with FXS are subject to developing numerous comorbidities, one of the most prevalent being seizures. In the present study, we investigated how seizures affected neonatal communicative behavior in the FXS mouse model. On postnatal day (PD) 7 through 11, we administered 3 flurothyl seizures per day to both Fmr1 knockout and wild-type C57BL/6J male mice. Ultrasonic vocalizations were recorded on PD12. Statistically significant alterations were found in both spectral and temporal measurements across seizure groups. We found that induction of seizures across PD7-11 resulted in an increased fundamental frequency (pitch) of ultrasonic vocalizations produced (p < 0.05), a longer duration of calls (p < 0.05), and a greater cumulative duration of calls (p < 0.05) in both genotypes. Induction of seizures across PD7-11 also resulted in a decreased latency to the first emitted vocalization (p < 0.05) and a decrease in mean power (loudness) for their vocalizations (p < 0.05). Early-life seizures also resulted in an increase in the number of downward and frequency step call types (p < 0.05). There was a significant increase in the number of chevron calls emitted from the Fmr1 knockout mice that received seizures compared to knockout control and wild-type seizure mice (p < 0.05). Overall, this study provides evidence that early-life seizures result in communication impairments and that superimposing seizures in Fmr1 knockout mice does produce an additional deficit in vocalization.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the leading monogenic cause of intellectual disability and a significant contributor to Autism Spectrum Disorder. Individuals with FXS are subject to developing numerous comorbidities, one of the most prevalent being seizures.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35512644/",
+  "mesh_terms": [
+    "Animals",
+    "Male",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Vocalization, Animal",
+    "Mice, Knockout",
+    "Mice, Inbred C57BL",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Seizures",
+    "Fragile X Syndrome",
+    "Disease Models, Animal"
+  ],
+  "keywords": [
+    "Animal model",
+    "Behavior",
+    "Developing brain",
+    "Epilepsy",
+    "Fragile X syndrome",
+    "Seizure",
+    "Two-hit model",
+    "USV",
+    "Ultrasonic vocalization"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

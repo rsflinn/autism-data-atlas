@@ -1,0 +1,35 @@
+{
+  "pmid": "42027429",
+  "doi": "10.1016/j.bbrep.2026.102582",
+  "title": "Characterization of a novel inherited splice-site variant inexpands the genetic and phenotypic spectrum of neurodevelopmental disorders",
+  "authors": "Yi S, Yang Q, Song X, Huang L, Yi S, Qin Z, et al.",
+  "journal": "Biochemistry and biophysics reports",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "Thegene encodes JIP3, a kinesin-1 adapter protein crucial for axonal transport and JNK signaling pathway regulation. This gene exhibits extreme intolerance to loss-of-function variants. Heterozygous pathogenicvariants are linked to a neurodevelopmental disorder with or without variable brain abnormalities (NEDBA). This study characterizes a novel inherited canonical splice-site variant identified in a three-generation family.\n\nExome sequencing was performed on three affected individuals from a single non-consanguineous family with presenting neurological abnormalities. The molecular consequences of the identified variant were evaluated by RNA analysis. Clinical features of the variant carriers were evaluated in detail.\n\nWe identified a heterozygous dinucleotide deletion (c.2630-2_2630-1del) at the canonical acceptor splice site of. This variant co-segregated with the neurological phenotype in an affected mother and her two children. RNA analysis demonstrated that this variant leads to a partial deletion of exon 22 (r.2630_2673del), which is predicted to cause a frameshift and introduce a premature termination codon (p.Gly877Valfs&#x2217;36). Notably, despite carrying an identical genotype, the three affected individuals exhibited marked interindividual variability in clinical severity, ranging from mild specific learning difficulties to global developmental delay with severe intellectual disability and autism.\n\nThis represents the first report of a familial, autosomal dominantly inherited pathogenic splice-site variant in, extending the established inheritance pattern beyond previously describedevents. Our findings expand both the mutational and phenotypic spectrum of-related disorders, highlighting the complexity of genotype-phenotype correlations and underscoring the necessity of functional assays for accurate variant interpretation.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Thegene encodes JIP3, a kinesin-1 adapter protein crucial for axonal transport and JNK signaling pathway regulation. This gene exhibits extreme intolerance to loss-of-function variants.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42027429/",
+  "mesh_terms": [],
+  "keywords": [
+    "Alternative splicing",
+    "Exome sequencing",
+    "MAPK8IP3-Associated disorder",
+    "RNA analysis",
+    "Splicing variant",
+    "Variable expressivity"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

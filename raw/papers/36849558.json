@@ -1,0 +1,42 @@
+{
+  "pmid": "36849558",
+  "doi": "10.1038/s41556-023-01093-0",
+  "title": "A neurodevelopmental epigenetic programme mediated by SMARCD3-DAB1-Reelin signalling is hijacked to promote medulloblastoma metastasis",
+  "authors": "Zou H, Poore B, Brown EE, Qian J, Xie B, Asimakidou E, et al.",
+  "journal": "Nature cell biology",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "How abnormal neurodevelopment relates to the tumour aggressiveness of medulloblastoma (MB), the most common type of embryonal tumour, remains elusive. Here we uncover a neurodevelopmental epigenomic programme that is hijacked to induce MB metastatic dissemination. Unsupervised analyses of integrated publicly available datasets with our newly generated data reveal that SMARCD3 (also known as BAF60C) regulates Disabled&#x2009;1 (DAB1)-mediated Reelin signalling in Purkinje cell migration and MB metastasis by orchestrating cis-regulatory elements at the DAB1 locus. We further identify that a core set of transcription factors, enhancer of zeste homologue&#x2009;2 (EZH2) and nuclear factor&#x2009;I&#x2009;X (NFIX), coordinates with the cis-regulatory elements at the SMARCD3 locus to form a chromatin hub to control SMARCD3 expression in the developing cerebellum and in metastatic MB. Increased SMARCD3 expression activates Reelin-DAB1-mediated Src kinase signalling, which results in a MB response to Src inhibition. These data deepen our understanding of how neurodevelopmental programming influences disease progression and provide a potential therapeutic option for patients with MB.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "How abnormal neurodevelopment relates to the tumour aggressiveness of medulloblastoma (MB), the most common type of embryonal tumour, remains elusive. Here we uncover a neurodevelopmental epigenomic programme that is hijacked to induce MB metastatic dissemination.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36849558/",
+  "mesh_terms": [
+    "Humans",
+    "Extracellular Matrix Proteins",
+    "Medulloblastoma",
+    "Phosphorylation",
+    "Epigenomics",
+    "Serine Endopeptidases",
+    "Cell Adhesion Molecules, Neuronal",
+    "Cerebellar Neoplasms",
+    "Epigenesis, Genetic",
+    "Nerve Tissue Proteins",
+    "Adaptor Proteins, Signal Transducing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

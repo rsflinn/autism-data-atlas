@@ -1,0 +1,49 @@
+{
+  "pmid": "29499177",
+  "doi": "10.1016/j.brainres.2018.02.041",
+  "title": "The role of Pax6 in brain development and its impact on pathogenesis of autism spectrum disorder",
+  "authors": "Kikkawa T, Casingal CR, Chun SH, Shinohara H, Hiraoka K, Osumi N",
+  "journal": "Brain research",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "Pax6 transcription factor is a key player in several aspects of brain development and function. Autism spectrum disorder (ASD) is a neurodevelopmental disorder in which several loci and/or genes have been suggested as causative candidate factors. Based on data obtained from meta-analyses of the transcriptome and ChIP analyses, we hypothesized that the neurodevelopmental gene PAX6 regulates and/or binds to a large number of genes (including many ASD-related ones) that modulate the fate of neural stem/progenitor cells and functions of neuronal cells, subsequently affecting animal behavior. Network analyses of PAX6/ASD-related molecules revealed significant clusters of molecular interactions involving regulation of cell-cell adhesion, ion transport, and transcriptional regulation. We discuss a novel function of Pax6 as a chromatin modulator that alters the chromatin status of ASD genes, thereby inducing diverse phenotypes of ASD and related neurodevelopmental diseases.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Pax6 transcription factor is a key player in several aspects of brain development and function. Autism spectrum disorder (ASD) is a neurodevelopmental disorder in which several loci and/or genes have been suggested as causative candidate factors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29499177/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Chromatin",
+    "Gene Expression Regulation",
+    "Gene Regulatory Networks",
+    "Humans",
+    "Neural Stem Cells",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "PAX6 Transcription Factor",
+    "Stem Cells",
+    "Transcription Factors",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "Autism",
+    "Pax6",
+    "Transcriptional regulation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

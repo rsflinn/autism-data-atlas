@@ -1,0 +1,50 @@
+{
+  "pmid": "37602645",
+  "doi": "10.1002/aur.3011",
+  "title": "Well-being spectrum traits are associated with polygenic scores for autism",
+  "authors": "Mohammad S, de Ruijter MJT, Rukh G, Rask-Andersen M, Mwinyi J, Schi&#xf6;th HB",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Individuals with autism spectrum disorder (ASD) tend to experience lower well-being as demonstrated mostly for children and adolescents in epidemiological studies. A further investigation of inclusive well-being, in terms of five well-being spectrum (5-WBS) traits including neuroticism, depression, loneliness, life satisfaction, and positive affect, among adults with ASD may deepen our understanding of their well-being, and lead to the possibility to further modify societal supportive mechanisms for individuals with ASD. This study aims to investigate if a genetic predisposition for ASD is associated with 5-WBS traits using polygenic risk score (PRS) analysis. PRS for ASD were calculated based on the latest genome-wide association study of ASD by the Psychiatric Genetics Consortium (18,381 cases, 27,969 controls) and were created in the independent cohort UK Biobank. Regression analyses were performed to investigate the association between ASD PRS and 5-WBS traits in the UK Biobank population including 337,423 individuals. ASD PRS were significantly associated with all 5-WBS traits, showing a positive association with the negative WBS traits, neuroticism (max R&#x2009;=&#x2009;0.04%, p&#x2009;<&#x2009;1&#x2009;&#xd7;&#x2009;10), depression (max R&#x2009;=&#x2009;0.06%, p&#x2009;<&#x2009;1&#x2009;&#xd7;&#x2009;10), loneliness (max R&#x2009;=&#x2009;0.04%, p&#x2009;<&#x2009;1&#x2009;&#xd7;&#x2009;10), and a negative association with the positive WBS traits, life satisfaction (max R&#x2009;=&#x2009;0.08%, p&#x2009;<&#x2009;1&#x2009;&#xd7;&#x2009;10), positive affect (max R&#x2009;=&#x2009;0.10%, p&#x2009;<&#x2009;1&#x2009;&#xd7;&#x2009;10). The findings suggest that adults carrying a high load of risk single nucleotide peptides (SNPs) for ASD are more likely to report decreased well-being. The study demonstrates a considerable connection between susceptibility to ASD, its underlying genetic etiology and well-being.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Individuals with autism spectrum disorder (ASD) tend to experience lower well-being as demonstrated mostly for children and adolescents in epidemiological studies. A further investigation of inclusive well-being, in terms of five well-being spectrum (5-WBS) traits including neuroticism, depression, loneliness, life satisfaction, and positive affect, among adults with ASD may deepen our understanding of their well-being, and lead to the possibility to further modify societal supportive mechanisms",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37602645/",
+  "mesh_terms": [
+    "Adult",
+    "Child",
+    "Adolescent",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Genome-Wide Association Study",
+    "Phenotype",
+    "Genetic Predisposition to Disease",
+    "Genetic Risk Score"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "depression",
+    "genetic risk score",
+    "life satisfaction",
+    "loneliness",
+    "neuroticism",
+    "polygenic risk score",
+    "positive affect",
+    "well-being spectrum"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

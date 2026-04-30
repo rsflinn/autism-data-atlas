@@ -1,0 +1,38 @@
+{
+  "pmid": "36407762",
+  "doi": "10.3389/fnmol.2022.1033224",
+  "title": "Expression of alternative transcription factor 4 mRNAs and protein isoforms in the developing and adult rodent and human tissues",
+  "authors": "Sirp A, Shubina A, Tuvikene J, Tamberg L, Kiir CS, Kranich L, et al.",
+  "journal": "Frontiers in molecular neuroscience",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Transcription factor 4 (TCF4) belongs to the class I basic helix-loop-helix family of transcription factors (also known as E-proteins) and is vital for the development of the nervous system. Aberrations in thegene are associated with several neurocognitive disorders such as schizophrenia, intellectual disability, post-traumatic stress disorder, depression, and Pitt-Hopkins Syndrome, a rare but severe autism spectrum disorder. Expression of the humangene can produce at least 18 N-terminally distinct protein isoforms, which activate transcription with different activities and thus may vary in their function during development. We used long-read RNA-sequencing and western blot analysis combined with the analysis of publicly available short-read RNA-sequencing data to describe both the mRNA and protein expression of the many distinct TCF4 isoforms in rodent and human neural and nonneural tissues. We show that TCF4 mRNA and protein expression is much higher in the rodent brain compared to nonneural tissues. TCF4 protein expression is highest in the rodent cerebral cortex and hippocampus, where expression peaks around birth, and in the rodent cerebellum, where expression peaks about a week after birth. In human, highestexpression levels were seen in the developing brain, although some nonneural tissues displayed comparable expression levels to adult brain. In addition, we show for the first time that out of the many possible TCF4 isoforms, the main TCF4 isoforms expressed in the rodent and human brain and other tissues are TCF4-B, -C, -D, -A, and-I. Taken together, our isoform specific analysis of TCF4 expression in different tissues could be used for the generation of gene therapy applications for patients with TCF4-associated diseases.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "TCF4"
+  ],
+  "summary": "Transcription factor 4 (TCF4) belongs to the class I basic helix-loop-helix family of transcription factors (also known as E-proteins) and is vital for the development of the nervous system. Aberrations in thegene are associated with several neurocognitive disorders such as schizophrenia, intellectual disability, post-traumatic stress disorder, depression, and Pitt-Hopkins Syndrome, a rare but severe autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36407762/",
+  "mesh_terms": [],
+  "keywords": [
+    "basic helix&#x2013;loop&#x2013;helix transcription factor",
+    "brain tissue",
+    "long-read RNA sequencing",
+    "neurodevelopment",
+    "peripheral tissue",
+    "transcription factor TCF4",
+    "western blot analysis"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

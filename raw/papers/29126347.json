@@ -1,0 +1,51 @@
+{
+  "pmid": "29126347",
+  "doi": "10.1177/1362361317726245",
+  "title": "Language profiles in young children with autism spectrum disorder: A community sample using multiple assessment instruments",
+  "authors": "Nevill R, Hedley D, Uljarevi&#x107; M, Sahin E, Zadek J, Butter E, et al.",
+  "journal": "Autism : the international journal of research and practice",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "This study investigated language profiles in a community-based sample of 104 children aged 1-3&#x2009;years who had been diagnosed with autism spectrum disorder using(5th ed.) diagnostic criteria. Language was assessed with the Mullen scales, Preschool Language Scale, fifth edition, and Vineland-II parent-report. The study aimed to determine whether the receptive-to-expressive language profile is independent from the assessment instrument used, and whether nonverbal cognition, early communicative behaviors, and autism spectrum disorder symptoms predict language scores. Receptive-to-expressive language profiles differed between assessment instruments and reporters, and Preschool Language Scale, fifth edition profiles were also dependent on developmental level. Nonverbal cognition and joint attention significantly predicted receptive language scores, and nonverbal cognition and frequency of vocalizations predicted expressive language scores. These findings support the administration of multiple direct assessment and parent-report instruments when evaluating language in young children with autism spectrum disorder, for both research and in clinical settings. Results also support that joint attention is a useful intervention target for improving receptive language skills in young children with autism spectrum disorder. Future research comparing language profiles of young children with autism spectrum disorder to children with non-autism spectrum disorder developmental delays and typical development will add to our knowledge of early language development in children with autism spectrum disorder.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "This study investigated language profiles in a community-based sample of 104 children aged 1-3&#x2009;years who had been diagnosed with autism spectrum disorder using(5th ed.) diagnostic criteria. Language was assessed with the Mullen scales, Preschool Language Scale, fifth edition, and Vineland-II parent-report.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29126347/",
+  "mesh_terms": [
+    "Age Factors",
+    "Autism Spectrum Disorder",
+    "Child Behavior",
+    "Child Language",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Infant",
+    "Language Tests",
+    "Male",
+    "Severity of Illness Index"
+  ],
+  "keywords": [
+    "Mullen scales",
+    "Preschool Language Scale",
+    "Vineland",
+    "assessment",
+    "autism spectrum disorder",
+    "communication and language",
+    "development",
+    "predictors",
+    "preschool children"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

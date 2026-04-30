@@ -1,0 +1,52 @@
+{
+  "pmid": "26780584",
+  "doi": "10.1016/j.neubiorev.2016.01.001",
+  "title": "The therapeutic potential of insulin-like growth factor-1 in central nervous system disorders",
+  "authors": "Costales J, Kolevzon A",
+  "journal": "Neuroscience and biobehavioral reviews",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Central nervous system (CNS) development is a finely tuned process that relies on multiple factors and intricate pathways to ensure proper neuronal differentiation, maturation, and connectivity. Disruption of this process can cause significant impairments in CNS functioning and lead to debilitating disorders that impact motor and language skills, behavior, and cognitive functioning. Recent studies focused on understanding the underlying cellular mechanisms of neurodevelopmental disorders have identified a crucial role for insulin-like growth factor-1 (IGF-1) in normal CNS development. Work in model systems has demonstrated rescue of pathophysiological and behavioral abnormalities when IGF-1 is administered, and several clinical studies have shown promise of efficacy in disorders of the CNS, including autism spectrum disorder (ASD). In this review, we explore the molecular pathways and downstream effects of IGF-1 and summarize the results of completed and ongoing pre-clinical and clinical trials using IGF-1 as a pharmacologic intervention in various CNS disorders. This aim of this review is to provide evidence for the potential of IGF-1 as a treatment for neurodevelopmental disorders and ASD.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Central nervous system (CNS) development is a finely tuned process that relies on multiple factors and intricate pathways to ensure proper neuronal differentiation, maturation, and connectivity. Disruption of this process can cause significant impairments in CNS functioning and lead to debilitating disorders that impact motor and language skills, behavior, and cognitive functioning.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26780584/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Central Nervous System Diseases",
+    "Humans",
+    "Insulin-Like Growth Factor I",
+    "Neurons",
+    "Randomized Controlled Trials as Topic",
+    "Signal Transduction"
+  ],
+  "keywords": [
+    "ASD",
+    "Autism spectrum disorder",
+    "CNS development",
+    "Central nervous system disorders",
+    "Fragile X syndrome",
+    "IGF-1",
+    "Insulin-like growth factor 1",
+    "Neurodevelopmental disorders",
+    "Neurotrophic factors",
+    "Phelan-McDermid syndrome",
+    "Rett syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

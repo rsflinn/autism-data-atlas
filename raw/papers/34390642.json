@@ -1,0 +1,54 @@
+{
+  "pmid": "34390642",
+  "doi": "10.1016/j.cell.2021.07.039",
+  "title": "Chromatin and gene-regulatory dynamics of the developing human cerebral cortex at single-cell resolution",
+  "authors": "Trevino AE, M&#xfc;ller F, Andersen J, Sundaram L, Kathiria A, Shcherbina A, et al.",
+  "journal": "Cell",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "Genetic perturbations of cortical development can lead to neurodevelopmental disease, including autism spectrum disorder (ASD). To identify genomic regions crucial to corticogenesis, we mapped the activity of gene-regulatory elements generating a single-cell atlas of gene expression and chromatin accessibility both independently and jointly. This revealed waves of gene regulation by key transcription factors (TFs) across a nearly continuous differentiation trajectory, distinguished the expression programs of glial lineages, and identified lineage-determining TFs that exhibited strong correlation between linked gene-regulatory elements and expression levels. These highly connected genes adopted an active chromatin state in early&#xa0;differentiating cells, consistent with lineage commitment. Base-pair-resolution neural network models identified strong cell-type-specific enrichment of noncoding mutations predicted to be disruptive in a cohort&#xa0;of&#xa0;ASD individuals and identified frequently disrupted TF binding sites. This approach illustrates how cell-type-specific mapping can provide insights into the programs governing human development and disease.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Genetic perturbations of cortical development can lead to neurodevelopmental disease, including autism spectrum disorder (ASD). To identify genomic regions crucial to corticogenesis, we mapped the activity of gene-regulatory elements generating a single-cell atlas of gene expression and chromatin accessibility both independently and jointly.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34390642/",
+  "mesh_terms": [
+    "Astrocytes",
+    "Cell Differentiation",
+    "Cell Lineage",
+    "Cerebral Cortex",
+    "Chromatin",
+    "Cluster Analysis",
+    "Deep Learning",
+    "Epigenesis, Genetic",
+    "Fuzzy Logic",
+    "Gene Expression Regulation, Developmental",
+    "Glutamates",
+    "Humans",
+    "Mutation",
+    "Neurons",
+    "Regulatory Sequences, Nucleic Acid",
+    "Single-Cell Analysis"
+  ],
+  "keywords": [
+    "autism spectrum disoder",
+    "development",
+    "human cerebral cortex",
+    "multiome",
+    "single-cell ATAC-seq",
+    "single-cell RNA-seq"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pmid": "31364704",
+  "doi": "10.1093/cercor/bhz141",
+  "title": "Deletion of Fmr1 from Forebrain Excitatory Neurons Triggers Abnormal Cellular, EEG, and Behavioral Phenotypes in the Auditory Cortex of a Mouse Model of Fragile X Syndrome",
+  "authors": "Lovelace JW, Rais M, Palacios AR, Shuai XS, Bishay S, Popa O, et al.",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a leading genetic cause of autism with symptoms that include sensory processing deficits. In both humans with FXS and a mouse model [Fmr1 knockout (KO) mouse], electroencephalographic (EEG) recordings show enhanced resting state gamma power and reduced sound-evoked gamma synchrony. We previously showed that elevated levels of matrix metalloproteinase-9 (MMP-9) may contribute to these phenotypes by affecting perineuronal nets (PNNs) around parvalbumin (PV) interneurons in the auditory cortex of Fmr1 KO mice. However, how different cell types within local cortical circuits contribute to these deficits is not known. Here, we examined whether Fmr1 deletion in forebrain excitatory neurons affects neural oscillations, MMP-9 activity, and PV/PNN expression in the auditory cortex. We found that cortical MMP-9 gelatinase activity, mTOR/Akt phosphorylation, and resting EEG gamma power were enhanced in CreNex1/Fmr1Flox/y conditional KO (cKO) mice, whereas the density of PV/PNN cells was reduced. The CreNex1/Fmr1Flox/y cKO mice also show increased locomotor activity, but not the anxiety-like behaviors. These results indicate that fragile X mental retardation protein changes in excitatory neurons in the cortex are sufficient to elicit cellular, electrophysiological, and behavioral phenotypes in Fmr1 KO mice. More broadly, these results indicate that local cortical circuit abnormalities contribute to sensory processing deficits in autism spectrum disorders.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is a leading genetic cause of autism with symptoms that include sensory processing deficits. In both humans with FXS and a mouse model [Fmr1 knockout (KO) mouse], electroencephalographic (EEG) recordings show enhanced resting state gamma power and reduced sound-evoked gamma synchrony.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31364704/",
+  "mesh_terms": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Auditory Cortex",
+    "Behavior, Animal",
+    "Disease Models, Animal",
+    "Electroencephalography",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Gamma Rhythm",
+    "Male",
+    "Matrix Metalloproteinase 9",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Neurons",
+    "Phenotype",
+    "Prosencephalon",
+    "Signal Transduction"
+  ],
+  "keywords": [
+    "autism",
+    "cortical deficits",
+    "fragile X syndrome",
+    "perineuronal nets",
+    "sensory processing disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

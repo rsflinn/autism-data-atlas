@@ -1,0 +1,42 @@
+{
+  "pmid": "22508080",
+  "doi": "10.55782/ane-2012-1876",
+  "title": "An evaluation of the role and treatment of elevated male hormones in autism spectrum disorders",
+  "authors": "Geier DA, Kern JK, King PG, Sykes LK, Geier MR",
+  "journal": "Acta neurobiologiae experimentalis",
+  "date": "2012-01",
+  "source": "pubmed",
+  "abstract": "Autism, Asperger's syndrome (AS), and pervasive developmental disorder - not otherwise specified (PDD-NOS) compose the overall diagnostic category of autism spectrum disorder (ASD). Subjects diagnosed with an ASD have a male:female ratio of 4:1, and among subjects diagnosed with AS the male:female ratio is as high as 9:1. The purpose of this study was to examine evidence of the association between hyperandrogenism and autistic traits (ATs) among subjects diagnosed with an ASD, and to evaluate the effectiveness of anti-androgen therapy as a means to help treat ATs in subjects diagnosed with an ASD. Evidence of hyperandrogenism in subjects diagnosed with an ASD is supported by multiple studies in the areas of psychological framework, brain pathology, tissue culture, and pre- and postnatal androgen levels. Data from subjects diagnosed with other conditions associated with elevated androgens reveals many of these individuals have ATs. Finally, in a placebo-controlled trial of testosterone administration to neurotypical subjects, testosterone was found to increase ATs. In addition, a controlled trial of human transsexuals revealed a significant increase in ATs in female-to-male transsexuals and a decrease in ATs in male-to-female transsexuals. Data from multiple animals and human clinical trials suggest that antiandrogen medications have the ability to significantly reduce ATs in patients diagnosed with an ASD. In light of the robust association between hyperandrogenism and ASD, it is recommended subjects diagnosed with an ASD should undergo routine screening for elevated androgens, and appropriate treatment should be initiated for those with elevated androgens.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism, Asperger's syndrome (AS), and pervasive developmental disorder - not otherwise specified (PDD-NOS) compose the overall diagnostic category of autism spectrum disorder (ASD). Subjects diagnosed with an ASD have a male:female ratio of 4:1, and among subjects diagnosed with AS the male:female ratio is as high as 9:1.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22508080/",
+  "mesh_terms": [
+    "Androgen Antagonists",
+    "Androgens",
+    "Animals",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Clinical Trials as Topic",
+    "Female",
+    "Humans",
+    "Male",
+    "Sex Characteristics",
+    "Testosterone"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

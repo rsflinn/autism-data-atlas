@@ -1,0 +1,42 @@
+{
+  "pmid": "41914968",
+  "doi": "10.1167/iovs.67.3.64",
+  "title": "Oligodendrocyte Precursor Cells Shape Retinogeniculate Refinement Via a CHD8-Dependent Phagocytic Pathway",
+  "authors": "Wen S, Guo F, Li Z, Huang G, Shen M, He X",
+  "journal": "Investigative ophthalmology & visual science",
+  "date": "2026-03",
+  "source": "pubmed",
+  "abstract": "The most robust functional synaptic refinement in the dorsal lateral geniculate nucleus (dLGN) occurs around the time of eye opening. This study aimed to identify the major glial phagocyte responsible for eliminating excess synapses during this critical window, and to elucidate the molecular mechanisms underlying its regulation.\n\nThree-dimensional imaging was used to assess engulfment ability across glial subtypes, identifying the key population responsible for synaptic engulfment. In vivo ablation of these cells further confirmed their essential role in synaptic pruning. Differential transcriptomic analysis then revealed the core transcriptional regulator driving phagocytosis-related gene expression in this glial population. Conditional knockout mice combined with in vivo electrophysiological assessment of visual function were used to illustrate how this regulator shapes synaptic development by controlling phagocytic glial function.\n\nOur findings revealed that oligodendrocyte precursor cells (OPCs) act as the major cells responsible for synaptic phagocytosis during this stage, and their ablation leads to excessive excitatory synapses in the dLGN. Single-cell sequencing analysis identified a distinct OPC subpopulation exhibiting high phagocytic gene expression independent of myelination. This subpopulation is enriched for the high-risk autism-associated gene Chd8. Genomic occupancy analysis showed that CHD8 directly promotes phagocytosis-related gene transcription. Ablation of Chd8 downregulates phagocytic gene expression, resulting in synaptic surplus and subsequent neural functional abnormalities.\n\nOur results suggest that phagocytosis of excess synapses by OPCs around eye opening is a critical mechanism for visual development, driven by CHD8-mediated upregulation of phagocytosis-related genes. Dysregulation of this pathway is also linked to autism pathology.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "The most robust functional synaptic refinement in the dorsal lateral geniculate nucleus (dLGN) occurs around the time of eye opening. This study aimed to identify the major glial phagocyte responsible for eliminating excess synapses during this critical window, and to elucidate the molecular mechanisms underlying its regulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41914968/",
+  "mesh_terms": [
+    "Animals",
+    "Phagocytosis",
+    "Mice",
+    "Mice, Knockout",
+    "Geniculate Bodies",
+    "DNA-Binding Proteins",
+    "Oligodendrocyte Precursor Cells",
+    "Mice, Inbred C57BL",
+    "Synapses",
+    "Imaging, Three-Dimensional",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

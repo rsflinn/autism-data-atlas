@@ -1,0 +1,45 @@
+{
+  "pmid": "33827289",
+  "doi": "10.1177/1362361321998916",
+  "title": "Overcoming hurdles to intervention studies with autistic children with profound communication difficulties and their families",
+  "authors": "McKinney A, Weisblatt EJ, Hotson KL, Bilal Ahmed Z, Dias C, BenShalom D, et al.",
+  "journal": "Autism : the international journal of research and practice",
+  "date": "2021-04",
+  "source": "pubmed",
+  "abstract": "Autistic children who speak few or no words or who have an intellectual disability are the most in need of new understandings and treatments, but the most often left out of the research that can bring these benefits. Researchers perceive difficulties around compliance with instructions, testing, challenging behaviours and family stress. Although research with these children can indeed be difficult, their continuing exclusion is unethical and unacceptable. Drawing on our experiences testing a possible treatment for children with profound autism, we provide 10 practical guidelines related to (1) interacting physically, (2) combining play and testing, (3) responding to challenging behaviour, (4) finding suitable tests, (5) relationships with parents, (6) relationships with siblings, (7) involving stakeholders, (8) planning the testing times, (9) the role of the clinical supervisor and (10) recruiting and retaining participants. We hope that these guidelines will prepare and embolden other research teams to work with profoundly autistic children, ending their historical exclusion from research. These guidelines also could be useful for conducting research with children with intellectual disabilities.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Autistic children who speak few or no words or who have an intellectual disability are the most in need of new understandings and treatments, but the most often left out of the research that can bring these benefits. Researchers perceive difficulties around compliance with instructions, testing, challenging behaviours and family stress.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33827289/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Communication",
+    "Humans",
+    "Intellectual Disability",
+    "Parents"
+  ],
+  "keywords": [
+    "autism",
+    "clinical trial",
+    "inclusion",
+    "intellectual disability",
+    "intervention",
+    "minimally verbal",
+    "nonverbal"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

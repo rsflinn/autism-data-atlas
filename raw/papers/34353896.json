@@ -1,0 +1,52 @@
+{
+  "pmid": "34353896",
+  "doi": "10.1523/JNEUROSCI.3148-20.2021",
+  "title": "Autism Spectrum Disorder/Intellectual Disability-Associated Mutations in Trio Disrupt Neuroligin 1-Mediated Synaptogenesis",
+  "authors": "Tian C, Paskus JD, Fingleton E, Roche KW, Herring BE",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "We recently identified an autism spectrum disorder/intellectual disability (ASD/ID)-relatedmutation hotspot in the Rac1-activating GEF1 domain of the protein Trio. Trio is a Rho guanine nucleotide exchange factor (RhoGEF) that is essential for glutamatergic synapse function. An ASD/ID-related mutation identified in Trio's GEF1 domain, Trio D1368V, produces a pathologic increase in glutamatergic synaptogenesis, suggesting that Trio is coupled to synaptic regulatory mechanisms that govern glutamatergic synapse formation. However, the molecular mechanisms by which Trio regulates glutamatergic synapses are largely unexplored. Here, using biochemical methods, we identify an interaction between Trio and the synaptogenic protein Neuroligin 1 (NLGN1) in the brain. Molecular biological approaches were then combined with super-resolution dendritic spine imaging and whole-cell voltage-clamp electrophysiology in hippocampal slices from male and female rats to examine the impact ASD/ID-related Trio mutations have on NLGN1-mediated synaptogenesis. We find that an ASD/ID-related mutation in Trio's eighth spectrin repeat region, Trio N1080I, inhibits Trio's interaction with NLGN1 and prevents Trio D1368V-mediated synaptogenesis. Inhibiting Trio's interaction with NLGN1 via Trio N1080I blocked NLGN1-mediated synaptogenesis and increases in synaptic NMDA Receptor function but not NLGN1-mediated increases in synaptic AMPA Receptor function. Finally, we show that the aberrant synaptogenesis produced by Trio D1368V is dependent on NLGN signaling. Our findings demonstrate that ASD/ID-related mutations in Trio are able to pathologically increase as well as decrease NLGN-mediated effects on glutamatergic neurotransmission, and point to an NLGN1-Trio interaction as part of a key pathway involved in ASD/ID etiology.A number of genes have been implicated in the development of autism spectrum disorder/intellectual disability (ASD/ID) in humans. It is now important to identify relationships between these genes to uncover specific cellular regulatory pathways that contribute to these disorders. In this study, we discover that two glutamatergic synapse regulatory proteins implicated in ASD/ID, Trio and Neuroligin 1, interact with one another to promote glutamatergic synaptogenesis. We also identify ASD/ID-related mutations in Trio that either inhibit or augment Neuroligin 1-mediated glutamatergic synapse formation. Together, our results identify a synaptic regulatory pathway that, when disrupted, likely contributes to the development of ASD/ID. Going forward, it will be important to determine whether this pathway represents a point of convergence of other proteins implicated in ASD/ID.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "We recently identified an autism spectrum disorder/intellectual disability (ASD/ID)-relatedmutation hotspot in the Rac1-activating GEF1 domain of the protein Trio. Trio is a Rho guanine nucleotide exchange factor (RhoGEF) that is essential for glutamatergic synapse function.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34353896/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Cell Adhesion Molecules, Neuronal",
+    "Dendritic Spines",
+    "Excitatory Postsynaptic Potentials",
+    "Female",
+    "Hippocampus",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Neurogenesis",
+    "Rats",
+    "Rats, Sprague-Dawley",
+    "Synapses"
+  ],
+  "keywords": [
+    "AMPA Receptor",
+    "NMDA Receptor",
+    "RhoGEF",
+    "dendritic spine",
+    "glutamatergic synapse",
+    "neurodevelopmental disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

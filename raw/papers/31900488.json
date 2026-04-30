@@ -1,0 +1,56 @@
+{
+  "pmid": "31900488",
+  "doi": "10.1093/ijnp/pyz073",
+  "title": "Polygenetic Risk Scores for Major Psychiatric Disorders Among Schizophrenia Patients, Their First-Degree Relatives, and Healthy Participants",
+  "authors": "Ohi K, Nishizawa D, Shimada T, Kataoka Y, Hasegawa J, Shioiri T, et al.",
+  "journal": "The international journal of neuropsychopharmacology",
+  "date": "2020-04",
+  "source": "pubmed",
+  "abstract": "The genetic etiology of schizophrenia (SCZ) overlaps with that of other major psychiatric disorders in samples of European ancestry. The present study investigated transethnic polygenetic features shared between Japanese SCZ or their unaffected first-degree relatives and European patients with major psychiatric disorders by conducting polygenic risk score (PRS) analyses.\n\nTo calculate PRSs for 5 psychiatric disorders (SCZ, bipolar disorder [BIP], major depressive disorder, autism spectrum disorder, and attention-deficit/hyperactivity disorder) and PRSs differentiating SCZ from BIP, we utilized large-scale European genome-wide association study (GWAS) datasets as discovery samples. PRSs derived from these GWASs were calculated for 335 Japanese target participants [SCZ patients, FRs, and healthy controls (HCs)]. We took these PRSs based on GWASs of European psychiatric disorders and investigated their effect on risk in Japanese SCZ patients and unaffected first-degree relatives.\n\nThe PRSs obtained from European SCZ and BIP patients were higher in Japanese SCZ patients than in HCs. Furthermore, PRSs differentiating SCZ patients from European BIP patients were higher in Japanese SCZ patients than in HCs. Interestingly, PRSs related to European autism spectrum disorder were lower in Japanese first-degree relatives than in HCs or SCZ patients. The PRSs of autism spectrum disorder were positively correlated with a young onset age of SCZ.\n\nThese findings suggest that polygenic factors related to European SCZ and BIP and the polygenic components differentiating SCZ from BIP can transethnically contribute to SCZ risk in Japanese people. Furthermore, we suggest that reduced levels of an ASD-related genetic factor in unaffected first-degree relatives may help protect against SCZ development.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The genetic etiology of schizophrenia (SCZ) overlaps with that of other major psychiatric disorders in samples of European ancestry. The present study investigated transethnic polygenetic features shared between Japanese SCZ or their unaffected first-degree relatives and European patients with major psychiatric disorders by conducting polygenic risk score (PRS) analyses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31900488/",
+  "mesh_terms": [
+    "Adult",
+    "Adult Children",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Bipolar Disorder",
+    "Major Depressive Disorder",
+    "Europe",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Japan",
+    "Male",
+    "Middle Aged",
+    "Multifactorial Inheritance",
+    "Parents",
+    "Risk",
+    "Schizophrenia",
+    "Siblings"
+  ],
+  "keywords": [
+    "schizophrenia",
+    "GWAS",
+    "autism spectrum disorder",
+    "bipolar disorder",
+    "first-degree relative",
+    "polygenic risk score"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

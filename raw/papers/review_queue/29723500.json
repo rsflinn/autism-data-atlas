@@ -1,0 +1,47 @@
+{
+  "pmid": "29723500",
+  "doi": "10.1016/j.neuron.2018.03.017",
+  "title": "Calcium Channels, Synaptic Plasticity, and Neuropsychiatric Disease",
+  "authors": "Nanou E, Catterall WA",
+  "journal": "Neuron",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "Voltage-gated calcium channels couple depolarization of the cell-surface membrane to entry of calcium, which triggers secretion, contraction, neurotransmission, gene expression, and other physiological responses. They are encoded by ten genes, which generate three voltage-gated calcium channel subfamilies: Ca1; Ca2; and Ca3. At synapses, Ca2 channels form large signaling complexes in the presynaptic nerve terminal, which are responsible for the calcium entry that triggers neurotransmitter release and short-term presynaptic plasticity. Ca1 channels form signaling complexes in postsynaptic dendrites and dendritic spines, where their calcium entry induces long-term potentiation. These calcium channels are the targets of mutations and polymorphisms that alter their function and/or regulation and cause neuropsychiatric diseases, including migraine headache, cerebellar ataxia, autism, schizophrenia, bipolar disorder, and depression. This&#xa0;article reviews the molecular properties of calcium channels, considers their multiple roles in synaptic plasticity, and discusses their potential involvement in this wide range of neuropsychiatric diseases.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Voltage-gated calcium channels couple depolarization of the cell-surface membrane to entry of calcium, which triggers secretion, contraction, neurotransmission, gene expression, and other physiological responses. They are encoded by ten genes, which generate three voltage-gated calcium channel subfamilies: Ca1; Ca2; and Ca3.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29723500/",
+  "mesh_terms": [
+    "Animals",
+    "Calcium Channels",
+    "Calcium Signaling",
+    "Humans",
+    "Mental Disorders",
+    "Mutation",
+    "Neuronal Plasticity",
+    "Protein Structure, Secondary"
+  ],
+  "keywords": [
+    "autism",
+    "calcium channel",
+    "migraine",
+    "periodic paralysis",
+    "psychiatric disease",
+    "synapse",
+    "synaptic plasticity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

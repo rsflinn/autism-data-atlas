@@ -1,0 +1,47 @@
+{
+  "pmid": "26456390",
+  "doi": "10.1111/gtc.12305",
+  "title": "Disruption of MeCP2 attenuates circadian rhythm in CRISPR/Cas9-based Rett syndrome model mouse",
+  "authors": "Tsuchiya Y, Minami Y, Umemura Y, Watanabe H, Ono D, Nakamura W, et al.",
+  "journal": "Genes to cells : devoted to molecular & cellular mechanisms",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Methyl-CpG-binding protein 2 (Mecp2) is an X-linked gene encoding a methylated DNA-binding nuclear protein which regulates transcriptional activity. The mutation of MECP2 in humans is associated with Rett syndrome (RTT), a neurodevelopmental disorder. Patients with RTT frequently show abnormal sleep patterns and sleep-associated problems, in addition to autistic symptoms, raising the possibility of circadian clock dysfunction in RTT. In this study, we investigated circadian clock function in Mecp2-deficient mice. We successfully generated both male and female Mecp2-deficient mice on the wild-type C57BL/6 background and PER2(Luciferase) (PER2(Luc)) knock-in background using the clustered regularly interspaced short palindromic repeats (CRISPR)/Cas9 system. Generated Mecp2-deficient mice recapitulated reduced activity in mouse models of RTT, and their activity rhythms were diminished in constant dark conditions. Furthermore, real-time bioluminescence imaging showed that the amplitude of PER2(Luc)-driven circadian oscillation was significantly attenuated in Mecp2-deficient SCN neurons. On the other hand, in vitro circadian rhythm development assay using Mecp2-deficient mouse embryonic stem cells (ESCs) did not show amplitude changes of PER2(Luc) bioluminescence rhythms. Together, these results show that Mecp2 deficiency abrogates the circadian pacemaking ability of the SCN, which may be a therapeutic target to treat the sleep problems of patients with RTT.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Methyl-CpG-binding protein 2 (Mecp2) is an X-linked gene encoding a methylated DNA-binding nuclear protein which regulates transcriptional activity. The mutation of MECP2 in humans is associated with Rett syndrome (RTT), a neurodevelopmental disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26456390/",
+  "mesh_terms": [
+    "Animals",
+    "CRISPR-Cas Systems",
+    "Cell Differentiation",
+    "Cells, Cultured",
+    "Circadian Rhythm",
+    "Disease Models, Animal",
+    "Female",
+    "Humans",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mouse Embryonic Stem Cells",
+    "Period Circadian Proteins",
+    "Rett Syndrome",
+    "Suprachiasmatic Nucleus"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

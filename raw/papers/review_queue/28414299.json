@@ -1,0 +1,41 @@
+{
+  "pmid": "28414299",
+  "doi": "10.1172/JCI93918",
+  "title": "An indirect route to repetitive actions",
+  "authors": "Lovinger DM",
+  "journal": "The Journal of clinical investigation",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "It is increasingly evident that there is a genetic contribution to autism spectrum disorders (ASDs) and other neural disorders involving excessive repetition of action sequences. Among the implicated genes in these disorders are those encoding postsynaptic scaffolding proteins with roles in synaptic transmission and plasticity. Several mouse models harboring synonymous mutations have shown alterations in synaptic transmission within the striatum, which has key roles in controlling actions and action sequences. In this issue of the JCI, Wang and coworkers show that glutamatergic synaptic transmission onto striatal projection neurons is weakened in mutant mice lacking the SH3 and multiple ankyrin repeat domains 3 (SHANK3B) scaffolding protein, defective expression of which has been implicated in ASDs. This synaptic alteration gives rise to stronger activity in the indirect pathway accompanied by decreased dendritic spines on the indirect pathway medium spiny projection neuron, indicative of decreased numbers of glutamatergic synapses. Selectively enhancing activity in this pathway reduced excessive repetitive grooming in the mutant mice. Changes in glutamatergic input to striatal projection neurons have been observed in several other murine ASD models and associated disorders. Thus, manipulation of the function of the striatal indirect pathway may be a useful therapeutic target for treating disorders characterized by excessive repetitive behaviors.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "It is increasingly evident that there is a genetic contribution to autism spectrum disorders (ASDs) and other neural disorders involving excessive repetition of action sequences. Among the implicated genes in these disorders are those encoding postsynaptic scaffolding proteins with roles in synaptic transmission and plasticity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28414299/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Corpus Striatum",
+    "Dendritic Spines",
+    "Disease Models, Animal",
+    "Gene Expression Regulation",
+    "Humans",
+    "Mice",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins",
+    "Synapses",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

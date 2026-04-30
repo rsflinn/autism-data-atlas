@@ -1,0 +1,56 @@
+{
+  "pmid": "29753726",
+  "doi": "10.1016/j.bbr.2018.04.048",
+  "title": "Two single-nucleotide polymorphisms of the RELN gene and symptom-based and developmental deficits among children and adolescents with autistic spectrum disorders in the Tianjin, China",
+  "authors": "Wang GF, Ye S, Gao L, Han Y, Guo X, Dong XP, et al.",
+  "journal": "Behavioural brain research",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "Increasing evidence has revealed that genetic variants in Reelin (RELN) gene, especially single-nucleotide polymorphisms (SNPs), correlate with autistic spectrum disorders (ASD) risk; however, no consensus have been reached. This study aimed to provide additional evidence for the association between two SNPs of RELN (i.e., rs736707, rs2229864) and ASD risk, as well as the relationship between RELN gene and symptom-based and developmental deficits of ASD patients in Chinese Han children and adolescents. 157 ASD subjects and 256 typical development (TD) controls were genotyped by TaqMan&#xae; genotyping assay. ASD patients were assessed by Childhood Autism Rating Scale (CARS), Autism Behavior Checklist (ABC), and Early Childhood Development Questionnaire (ECDQ). We found that SNP rs2229864 was associated with the genetic predisposition of ASD, whereas a negative association between SNP rs2229864 and symptom-based and developmental features was detected. In contrast, RELN rs736707 correlated with the sensory subscale of the ABC, the relating subscale of the ABC and the total score of ABC, although we did not detect a significant association between SNP rs736707 and ASD risk. Furthermore, a significant rs736707-rs2229864 haplotype was detected. Individuals with a CC haplotype were more likely to have ASD, but individuals with a CT haplotype had more chance be TD controls. Further studies using more samples and including more gene variants in RELN are warranted to confirm our results.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Increasing evidence has revealed that genetic variants in Reelin (RELN) gene, especially single-nucleotide polymorphisms (SNPs), correlate with autistic spectrum disorders (ASD) risk; however, no consensus have been reached. This study aimed to provide additional evidence for the association between two SNPs of RELN (i.e., rs736707, rs2229864) and ASD risk, as well as the relationship between RELN gene and symptom-based and developmental deficits of ASD patients in Chinese Han children and adole",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29753726/",
+  "mesh_terms": [
+    "Adolescent",
+    "Asian People",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Cell Adhesion Molecules, Neuronal",
+    "Child",
+    "Child, Preschool",
+    "China",
+    "Extracellular Matrix Proteins",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Haplotypes",
+    "Humans",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Nitrogen Mustard Compounds",
+    "Polymorphism, Single Nucleotide",
+    "Reelin Protein",
+    "Serine Endopeptidases"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Children and adolescents",
+    "RELN gene",
+    "Symptom-based and developmental deficits",
+    "rs2229864",
+    "rs736707"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

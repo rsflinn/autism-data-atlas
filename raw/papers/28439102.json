@@ -1,0 +1,52 @@
+{
+  "pmid": "28439102",
+  "doi": "10.1038/mp.2017.86",
+  "title": "MeCP2-regulated miRNAs control early human neurogenesis through differential effects on ERK and AKT signaling",
+  "authors": "Mellios N, Feldman DA, Sheridan SD, Ip JPK, Kwok S, Amoah SK, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is an X-linked, neurodevelopmental disorder caused primarily by mutations in the methyl-CpG-binding protein 2 (MECP2) gene, which encodes a multifunctional epigenetic regulator with known links to a wide spectrum of neuropsychiatric disorders. Although postnatal functions of MeCP2 have been thoroughly investigated, its role in prenatal brain development remains poorly understood. Given the well-established importance of microRNAs (miRNAs) in neurogenesis, we employed isogenic human RTT patient-derived induced pluripotent stem cell (iPSC) and MeCP2 short hairpin RNA knockdown approaches to identify novel MeCP2-regulated miRNAs enriched during early human neuronal development. Focusing on the most dysregulated miRNAs, we found miR-199 and miR-214 to be increased during early brain development and to differentially regulate extracellular signal-regulated kinase (ERK)/mitogen-activated protein kinase and protein kinase B (PKB/AKT) signaling. In parallel, we characterized the effects on human neurogenesis and neuronal differentiation brought about by MeCP2 deficiency using both monolayer and three-dimensional (cerebral organoid) patient-derived and MeCP2-deficient neuronal culture models. Inhibiting miR-199 or miR-214 expression in iPSC-derived neural progenitors deficient in MeCP2 restored AKT and ERK activation, respectively, and ameliorated the observed alterations in neuronal differentiation. Moreover, overexpression of miR-199 or miR-214 in the wild-type mouse embryonic brains was sufficient to disturb neurogenesis and neuronal migration in a similar manner to Mecp2 knockdown. Taken together, our data support a novel miRNA-mediated pathway downstream of MeCP2 that influences neurogenesis via interactions with central molecular hubs linked to autism spectrum disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is an X-linked, neurodevelopmental disorder caused primarily by mutations in the methyl-CpG-binding protein 2 (MECP2) gene, which encodes a multifunctional epigenetic regulator with known links to a wide spectrum of neuropsychiatric disorders. Although postnatal functions of MeCP2 have been thoroughly investigated, its role in prenatal brain development remains poorly understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28439102/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Cell Differentiation",
+    "Cell Line",
+    "Extracellular Signal-Regulated MAP Kinases",
+    "Female",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "MAP Kinase Signaling System",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "MicroRNAs",
+    "Neurogenesis",
+    "Neurons",
+    "Proto-Oncogene Proteins c-akt",
+    "RNA, Small Interfering",
+    "Rett Syndrome",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

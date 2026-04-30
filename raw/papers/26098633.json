@@ -1,0 +1,51 @@
+{
+  "pmid": "26098633",
+  "doi": "10.1371/journal.pone.0130183",
+  "title": "MeCP2 Affects Skeletal Muscle Growth and Morphology through Non Cell-Autonomous Mechanisms",
+  "authors": "Conti V, Gandaglia A, Galli F, Tirone M, Bellini E, Campana L, et al.",
+  "journal": "PloS one",
+  "date": "2015-06",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is an autism spectrum disorder mainly caused by mutations in the X-linked MECP2 gene and affecting roughly 1 out of 10.000 born girls. Symptoms range in severity and include stereotypical movement, lack of spoken language, seizures, ataxia and severe intellectual disability. Notably, muscle tone is generally abnormal in RTT girls and women and the Mecp2-null mouse model constitutively reflects this disease feature. We hypothesized that MeCP2 in muscle might physiologically contribute to its development and/or homeostasis, and conversely its defects in RTT might alter the tissue integrity or function. We show here that a disorganized architecture, with hypotrophic fibres and tissue fibrosis, characterizes skeletal muscles retrieved from Mecp2-null mice. Alterations of the IGF-1/Akt/mTOR pathway accompany the muscle phenotype. A conditional mouse model selectively depleted of Mecp2 in skeletal muscles is characterized by healthy muscles that are morphologically and molecularly indistinguishable from those of wild-type mice raising the possibility that hypotonia in RTT is mainly, if not exclusively, mediated by non-cell autonomous effects. Our results suggest that defects in paracrine/endocrine signaling and, in particular, in the GH/IGF axis appear as the major cause of the observed muscular defects. Remarkably, this is the first study describing the selective deletion of Mecp2 outside the brain. Similar future studies will permit to unambiguously define the direct impact of MeCP2 on tissue dysfunctions.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is an autism spectrum disorder mainly caused by mutations in the X-linked MECP2 gene and affecting roughly 1 out of 10.000 born girls. Symptoms range in severity and include stereotypical movement, lack of spoken language, seizures, ataxia and severe intellectual disability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26098633/",
+  "mesh_terms": [
+    "Animals",
+    "Brain-Derived Neurotrophic Factor",
+    "Disease Models, Animal",
+    "Female",
+    "Fibrosis",
+    "Growth Hormone",
+    "Insulin-Like Growth Factor I",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Muscle Hypotonia",
+    "Muscle, Skeletal",
+    "Muscular Atrophy",
+    "Paracrine Communication",
+    "Proto-Oncogene Proteins c-akt",
+    "Rett Syndrome",
+    "TOR Serine-Threonine Kinases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

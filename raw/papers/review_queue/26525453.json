@@ -1,0 +1,42 @@
+{
+  "pmid": "26525453",
+  "doi": "10.1101/cshperspect.a022756",
+  "title": "Single-Gene Determinants of Epilepsy Comorbidity",
+  "authors": "Noebels JL",
+  "journal": "Cold Spring Harbor perspectives in medicine",
+  "date": "2015-11",
+  "source": "pubmed",
+  "abstract": "Common somatic conditions are bound to occur by chance in individuals with neurological disorders as prevalent as epilepsy, but when biological links underlying the comorbidity can be uncovered, the relationship may provide clues into the origin and mechanisms of both. The expanding list of monogenic epilepsies and their associated clinical features offer a remarkable opportunity to mine the epilepsy genome for coordinate neurodevelopmental phenotypes and examine their pathogenic mechanisms. Defined single-gene-linked epilepsy syndromes identified to date include all of the most frequently cited comorbidities, such as cognitive disorders, autism, migraine, mood disorders, late-onset dementia, and even premature lethality. Gene-linked comorbidities may be aggravated by, or independent of, seizure history. Mutations in these genes establish clear biological links between abnormal neuronal synchronization and a variety of neurobehavioral disorders, and critically substantiate the definition of epilepsy as a complex spectrum disorder. Mapping the neural circuitry of epilepsy comorbidities and understanding their single-gene risk should substantially clarify this challenging aspect of clinical epilepsy management.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Common somatic conditions are bound to occur by chance in individuals with neurological disorders as prevalent as epilepsy, but when biological links underlying the comorbidity can be uncovered, the relationship may provide clues into the origin and mechanisms of both. The expanding list of monogenic epilepsies and their associated clinical features offer a remarkable opportunity to mine the epilepsy genome for coordinate neurodevelopmental phenotypes and examine their pathogenic mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26525453/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Autistic Disorder",
+    "Brain Diseases",
+    "Cognition Disorders",
+    "Comorbidity",
+    "Depression",
+    "Epilepsy",
+    "Genes",
+    "Genetic Predisposition to Disease",
+    "Humans"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "29490614",
+  "doi": "10.1186/s11689-018-9226-0",
+  "title": "A cross-syndrome cohort comparison of sleep disturbance in children with Smith-Magenis syndrome, Angelman syndrome, autism spectrum disorder and tuberous sclerosis complex",
+  "authors": "Trickett J, Heald M, Oliver C, Richards C",
+  "journal": "Journal of neurodevelopmental disorders",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "Sleep disturbance is common in children with neurodevelopmental disorders, with high rates identified in children with Smith-Magenis syndrome (SMS), Angelman syndrome (AS), autism spectrum disorder (ASD) and tuberous sclerosis complex (TSC). Phenotypic sleep profiles for these groups may implicate different pathways to sleep disturbance. At present, cross-group comparisons that might elucidate putative phenotypic sleep characteristics are limited by measurement differences between studies. In this study, a standardised questionnaire was administered across groups affording comparison of the prevalence and profile of sleep disturbance between groups and contrast to chronologically age-matched typically developing (TD) peers.\n\nThe modified version of Simonds and Parraga's sleep questionnaire, adapted for use in children with intellectual disabilities, was employed to assess sleep disturbance profiles in children aged 2-15&#xa0;years with SMS (n&#x2009;=&#x2009;26), AS (n&#x2009;=&#x2009;70), ASD (n&#x2009;=&#x2009;30), TSC (n&#x2009;=&#x2009;20) and a TD contrast group (n&#x2009;=&#x2009;47). Associations between sleep disturbance and age, obesity, health conditions and overactivity/impulsivity were explored for each neurodevelopmental disorder group.\n\nChildren with SMS displayed severe night waking (81%) and early morning waking (73%). In contrast, children with ASD experienced difficulties with sleep onset (30%) and sleep maintenance (43%). Fewer children with ASD (43%) and AS (46%) experienced severe night waking compared to children with SMS (both p&#x2009;<&#x2009;.01). Higher sleep-disordered breathing scores were identified for children with SMS (p&#x2009;<&#x2009;.001) and AS (p&#x2009;<&#x2009;.001) compared to the TD group. Sleep disturbance in children with AS and TSC was associated with poorer health. Children experiencing symptoms indicative of gastro-oesophageal reflux had significantly higher sleep-disordered breathing scores in the AS, SMS and ASD groups (all p&#x2009;<&#x2009;.01). A number of associations between overactivity, impulsivity, gastro-oesophageal reflux, age and sleep disturbance were found for certain groups.\n\nThese data reveal syndrome-specific profiles of sleep disturbance. The divergent associations between sleep parameters and person characteristics, specifically symptoms of gastro-oesophageal reflux, overactivity and impulsivity and age, implicate aetiology-specific mechanisms underpinning sleep disturbance. The differences in prevalence, severity and mechanisms implicated in sleep disturbance between groups support a syndrome-sensitive approach to assessment and treatment of sleep disturbance in children with neurodevelopmental disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Sleep disturbance is common in children with neurodevelopmental disorders, with high rates identified in children with Smith-Magenis syndrome (SMS), Angelman syndrome (AS), autism spectrum disorder (ASD) and tuberous sclerosis complex (TSC). Phenotypic sleep profiles for these groups may implicate different pathways to sleep disturbance.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29490614/",
+  "mesh_terms": [
+    "Angelman Syndrome",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Sleep Wake Disorders",
+    "Smith-Magenis Syndrome",
+    "Surveys and Questionnaires",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Angelman syndrome",
+    "Autism spectrum disorder",
+    "Cross-group comparison",
+    "Genetic syndromes",
+    "Intellectual disability",
+    "Sleep disturbance",
+    "Smith-Magenis syndrome",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

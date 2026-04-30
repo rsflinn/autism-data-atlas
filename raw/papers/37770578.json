@@ -1,0 +1,39 @@
+{
+  "pmid": "37770578",
+  "doi": "10.1038/s41380-023-02248-z",
+  "title": "Psychiatric risk gene Transcription Factor 4 (TCF4) regulates the density and connectivity of distinct inhibitory interneuron subtypes",
+  "authors": "Chen HY, Phan BN, Shim G, Hamersky GR, Sadowski N, O'Donnell TS, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2023-09",
+  "source": "pubmed",
+  "abstract": "Transcription factor 4 (TCF4) is a basic helix-loop-helix transcription factor that is implicated in a variety of psychiatric disorders including autism spectrum disorder (ASD), major depression, and schizophrenia. Autosomal dominant mutations in TCF4 are causal for a specific ASD called Pitt-Hopkins Syndrome (PTHS). However, our understanding of etiological and pathophysiological mechanisms downstream of TCF4 mutations is incomplete. Single cell sequencing indicates TCF4 is highly expressed in GABAergic interneurons (INs). Here, we performed cell-type specific expression analysis (CSEA) and cellular deconvolution (CD) on bulk RNA sequencing data from 5 different PTHS mouse models. Using CSEA we observed differentially expressed genes (DEGs) were enriched in parvalbumin expressing (PV+) INs and CD predicted a reduction in the PV+ INs population. Therefore, we investigated the role of TCF4 in regulating the development and function of INs in the Tcf4mouse model of PTHS. In Tcf4mice, immunohistochemical (IHC) analysis of subtype-specific IN markers and reporter mice identified reductions in PV+, vasoactive intestinal peptide (VIP+), and cortistatin (CST+) expressing INs in the cortex and cholinergic (ChAT+) INs in the striatum, with the somatostatin (SST+) IN population being spared. The reduction of these specific IN populations led to cell-type specific alterations in the balance of excitatory and inhibitory inputs onto PV+ and VIP+ INs and excitatory pyramidal neurons within the cortex. These data indicate TCF4 is a critical regulator of the development of specific subsets of INs and highlight the inhibitory network as an important source of pathophysiology in PTHS.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "TCF4"
+  ],
+  "summary": "Transcription factor 4 (TCF4) is a basic helix-loop-helix transcription factor that is implicated in a variety of psychiatric disorders including autism spectrum disorder (ASD), major depression, and schizophrenia. Autosomal dominant mutations in TCF4 are causal for a specific ASD called Pitt-Hopkins Syndrome (PTHS).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37770578/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Cerebral Cortex",
+    "Interneurons",
+    "Mutation",
+    "Transcription Factor 4"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

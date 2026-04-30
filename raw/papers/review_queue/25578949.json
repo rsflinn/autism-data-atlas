@@ -1,0 +1,50 @@
+{
+  "pmid": "25578949",
+  "doi": "10.1016/j.neulet.2015.01.011",
+  "title": "Dendritic spine dysgenesis in autism related disorders",
+  "authors": "Phillips M, Pozzo-Miller L",
+  "journal": "Neuroscience letters",
+  "date": "2015-01",
+  "source": "pubmed",
+  "abstract": "The activity-dependent structural and functional plasticity of dendritic spines has led to the long-standing belief that these neuronal compartments are the subcellular sites of learning and memory. Of relevance to human health, central neurons in several neuropsychiatric illnesses, including autism related disorders, have atypical numbers and morphologies of dendritic spines. These so-called dendritic spine dysgeneses found in individuals with autism related disorders are consistently replicated in experimental mouse models. Dendritic spine dysgenesis reflects the underlying synaptopathology that drives clinically relevant behavioral deficits in experimental mouse models, providing a platform for testing new therapeutic approaches. By examining molecular signaling pathways, synaptic deficits, and spine dysgenesis in experimental mouse models of autism related disorders we find strong evidence for mTOR to be a critical point of convergence and promising therapeutic target.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The activity-dependent structural and functional plasticity of dendritic spines has led to the long-standing belief that these neuronal compartments are the subcellular sites of learning and memory. Of relevance to human health, central neurons in several neuropsychiatric illnesses, including autism related disorders, have atypical numbers and morphologies of dendritic spines.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25578949/",
+  "mesh_terms": [
+    "Angelman Syndrome",
+    "Animals",
+    "Child Development Disorders, Pervasive",
+    "Dendritic Spines",
+    "Down Syndrome",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Rett Syndrome",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Fragile X",
+    "Intellectual disability",
+    "MeCP2",
+    "Rett syndrome",
+    "TrkB",
+    "mGluR",
+    "mTOR"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

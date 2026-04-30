@@ -1,0 +1,51 @@
+{
+  "pmid": "32122747",
+  "doi": "10.1016/j.ymgme.2020.02.007",
+  "title": "Clinical and biochemical footprints of inherited metabolic diseases. III. Psychiatric presentations",
+  "authors": "Horvath GA, Stowe RM, Ferreira CR, Blau N",
+  "journal": "Molecular genetics and metabolism",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "Psychiatric symptoms are common manifestations in many inborn errors of metabolism (IEMs), ranging from attention deficit, anxiety and mood and behavioral disorders to psychosis. Furthermore, IEMs represent a significant percentage of all autism cases. We reviewed and updated the list of metabolic disorders known to be associated with various psychiatric manifestations and found more than 100 relevant IEMs. This represents the third of a series of articles attempting to create and maintain a comprehensive list of clinical and metabolic differential diagnoses according to organ system involvement.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Psychiatric symptoms are common manifestations in many inborn errors of metabolism (IEMs), ranging from attention deficit, anxiety and mood and behavioral disorders to psychosis. Furthermore, IEMs represent a significant percentage of all autism cases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32122747/",
+  "mesh_terms": [
+    "Aggression",
+    "Anxiety",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Bipolar Disorder",
+    "Diagnosis, Differential",
+    "Humans",
+    "Metabolic Diseases",
+    "Metabolism, Inborn Errors"
+  ],
+  "keywords": [
+    "Aggressive behavior",
+    "Anxiety",
+    "Autism spectrum disorder",
+    "Behavioral disorder",
+    "Depression",
+    "Hyperactivity",
+    "Inborn errors of metabolism",
+    "Obsessive compulsive disorder",
+    "Psychiatric disorders",
+    "Psychosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

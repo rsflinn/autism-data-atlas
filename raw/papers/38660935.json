@@ -1,0 +1,47 @@
+{
+  "pmid": "38660935",
+  "doi": "10.1002/aur.3140",
+  "title": "Smartphone-based gaze estimation for in-home autism research",
+  "authors": "Kim NY, He J, Wu Q, Dai N, Kohlhoff K, Turner J, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Atypical gaze patterns are a promising biomarker of autism spectrum disorder. To measure gaze accurately, however, it typically requires highly controlled studies in the laboratory using specialized equipment that is often expensive, thereby limiting the scalability of these approaches. Here we test whether a recently developed smartphone-based gaze estimation method could overcome such limitations and take advantage of the ubiquity of smartphones. As a proof-of-principle, we measured gaze while a small sample of well-assessed autistic participants and controls watched videos on a smartphone, both in the laboratory (with lab personnel) and in remote home settings (alone). We demonstrate that gaze data can be efficiently collected, in-home and longitudinally by participants themselves, with sufficiently high accuracy (gaze estimation error below 1&#xb0; visual angle on average) for quantitative, feature-based analysis. Using this approach, we show that autistic individuals have reduced gaze time on human faces and longer gaze time on non-social features in the background, thereby reproducing established findings in autism using just smartphones and no additional hardware. Our approach provides a foundation for scaling future research with larger and more representative participant groups at vastly reduced cost, also enabling better inclusion of underserved communities.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Atypical gaze patterns are a promising biomarker of autism spectrum disorder. To measure gaze accurately, however, it typically requires highly controlled studies in the laboratory using specialized equipment that is often expensive, thereby limiting the scalability of these approaches.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38660935/",
+  "mesh_terms": [
+    "Humans",
+    "Smartphone",
+    "Male",
+    "Female",
+    "Fixation, Ocular",
+    "Autism Spectrum Disorder",
+    "Adult",
+    "Young Adult",
+    "Eye-Tracking Technology",
+    "Adolescent",
+    "Autistic Disorder"
+  ],
+  "keywords": [
+    "autism",
+    "eye tracking",
+    "remote assessment",
+    "smartphones",
+    "visual attention"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

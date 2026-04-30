@@ -1,0 +1,48 @@
+{
+  "pmid": "29775702",
+  "doi": "10.1016/j.neuroscience.2018.05.012",
+  "title": "Abnormal Sleep Architecture and Hippocampal Circuit Dysfunction in a Mouse Model of Fragile X Syndrome",
+  "authors": "Boone CE, Davoudi H, Harrold JB, Foster DJ",
+  "journal": "Neuroscience",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common heritable cause of intellectual disability and single-gene cause of autism spectrum disorder. The Fmr1 null mouse models much of the human disease including hyperarousal, sensory hypersensitivity, seizure activity, and hippocampus-dependent cognitive impairment. Sleep architecture is disorganized in FXS patients, but has not been examined in Fmr1 knockout (Fmr1-KO) mice. Hippocampal neural activity during sleep, which is implicated in memory processing, also remains uninvestigated in Fmr1-KO mice. We performed in vivo electrophysiological studies of freely behaving Fmr1-KO mice to assess neural activity, in the form of single-unit spiking and local field potential (LFP), within the hippocampal CA1 region during multiple differentiated sleep and wake states. Here, we demonstrate that Fmr1-KO mice exhibited a deficit in rapid eye movement sleep (REM) due to a reduction in the frequency of bouts of REM, consistent with sleep architecture abnormalities of FXS patients. Fmr1-KO CA1 pyramidal cells (CA1-PCs) were hyperactive in all sleep and wake states. Increased low gamma power in CA1 suggests that this hyperactivity was related to increased input to CA1 from CA3. By contrast, slower sharp-wave ripple events (SWRs) in Fmr1-KO mice exhibited longer event duration, slower oscillation frequency, with reduced CA1-PC firing rates during SWRs, yet the incidence rate of SWRs remained intact. These results suggest abnormal neuronal activity in the Fmr1-KO mouse during SWRs, and hyperactivity during other wake and sleep states, with likely adverse consequences for memory processes.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the most common heritable cause of intellectual disability and single-gene cause of autism spectrum disorder. The Fmr1 null mouse models much of the human disease including hyperarousal, sensory hypersensitivity, seizure activity, and hippocampus-dependent cognitive impairment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29775702/",
+  "mesh_terms": [
+    "Action Potentials",
+    "Animals",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Hippocampus",
+    "Mice",
+    "Mice, Knockout",
+    "Nerve Net",
+    "Polysomnography",
+    "Sleep"
+  ],
+  "keywords": [
+    "Fmr1 knockout mouse",
+    "Fragile X syndrome",
+    "Gamma",
+    "hippocampal CA1 pyramidal cell",
+    "sharp-wave ripple",
+    "sleep architecture"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "32975584",
+  "doi": "10.1093/hmg/ddaa213",
+  "title": "Genes influenced by MEF2C contribute to neurodevelopmental disease via gene expression changes that affect multiple types of cortical excitatory neurons",
+  "authors": "Cosgrove D, Whitton L, Fahey L, &#xd3; Broin P, Donohoe G, Morris DW",
+  "journal": "Human molecular genetics",
+  "date": "2021-05",
+  "source": "pubmed",
+  "abstract": "Myocyte enhancer factor 2 C (MEF2C) is an important transcription factor during neurodevelopment. Mutation or deletion of MEF2C causes intellectual disability (ID), and common variants within MEF2C are associated with cognitive function and schizophrenia risk. We investigated if genes influenced by MEF2C during neurodevelopment are enriched for genes associated with neurodevelopmental phenotypes and if this can be leveraged to identify biological mechanisms and individual brain cell types affected. We used a set of 1055 genes that were differentially expressed in the adult mouse brain following early embryonic deletion of Mef2c in excitatory cortical neurons. Using genome-wide association studies data, we found these differentially expressed genes (DEGs) to be enriched for genes associated with schizophrenia, intelligence and educational attainment but not autism spectrum disorder (ASD). For this gene set, genes that overlap with target genes of the Fragile X mental retardation protein (FMRP) are a major driver of these enrichments. Using trios data, we found these DEGs to be enriched for genes containing de novo mutations reported in ASD and ID, but not schizophrenia. Using single-cell RNA sequencing data, we identified that a number of different excitatory glutamatergic neurons in the cortex were enriched for these DEGs including deep layer pyramidal cells and cells in the retrosplenial cortex, entorhinal cortex and subiculum, and these cell types are also enriched for FMRP target genes. The involvement of MEF2C and FMRP in synapse elimination suggests that disruption of this process in these cell types during neurodevelopment contributes to cognitive function and risk of neurodevelopmental disorders.",
+  "relevance_score": 33,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "MEF2C"
+  ],
+  "summary": "Myocyte enhancer factor 2 C (MEF2C) is an important transcription factor during neurodevelopment. Mutation or deletion of MEF2C causes intellectual disability (ID), and common variants within MEF2C are associated with cognitive function and schizophrenia risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32975584/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Gene Expression Regulation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Intellectual Disability",
+    "MEF2 Transcription Factors",
+    "Mice",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "Schizophrenia",
+    "Single-Cell Analysis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

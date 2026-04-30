@@ -1,0 +1,45 @@
+{
+  "pmid": "31152370",
+  "doi": "10.1007/s12630-019-01410-y",
+  "title": "Enhanced perioperative management of children with autism: a pilot study",
+  "authors": "Whippey A, Bernstein LM, O'Rourke D, Reddy D",
+  "journal": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "When children with autism spectrum disorder (ASD) are in hospital, difficulties with socialization, communication, and behaviour can be exacerbated. The purpose of this study was to establish feasibility of an enhanced perioperative care pathway.\n\nUtilizing parental and provider feedback, a protocol including environment modification, anxiolysis plans, specialized order sets, and child life specialist (CLS) support was developed over a nine-month period. Autism severity scores (ASS), communication styles, triggers, and previous experiences were used to create individualized care plans in the preoperative clinic. Emotion and sedation scores in the same day surgery unit, at anesthesia induction, and in the postanesthesia care unit were recorded. Acceptance was obtained from nurses, anesthesiologists, and parents. Feasibility criteria included the recruitment rate, adherence to protocol, data collection, and patient follow-up.\n\nEighteen patients were enrolled in this pilot study. All feasibility criteria including recruitment, adherence to study protocol (97%), and follow-up (94%) were met. Fifteen (83%) patients were nonverbal and minimally interactive (ASS = 3). Common triggers were loud noises (78%), crowds (78%), and bright lights (56%). After implementation of the protocol, 15 (83%) of the anesthetic inductions were described as excellent. Ten different premedication plans were used. Parents described the personalized plan, anxiolysis medication, and CLS support as advantageous. All (100%) nurses, anesthesiologists, and parents felt the program should continue.\n\nWe showed that a multidisciplinary perioperative care plan for children with severe ASD was feasible and 100% accepted at our institution. The individual nature of anxiolysis plans was considered a strength of the protocol.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "When children with autism spectrum disorder (ASD) are in hospital, difficulties with socialization, communication, and behaviour can be exacerbated. The purpose of this study was to establish feasibility of an enhanced perioperative care pathway.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31152370/",
+  "mesh_terms": [
+    "Ambulatory Surgical Procedures",
+    "Anesthesia",
+    "Anti-Anxiety Agents",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Communication",
+    "Feasibility Studies",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Interdisciplinary Communication",
+    "Male",
+    "Parents",
+    "Perioperative Care",
+    "Pilot Projects"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

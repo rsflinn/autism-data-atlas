@@ -1,0 +1,41 @@
+{
+  "pmid": "32396753",
+  "doi": "10.1146/annurev-genom-121219-082309",
+  "title": "Recent Advances in Understanding the Genetic Architecture of Autism",
+  "authors": "Dias CM, Walsh CA",
+  "journal": "Annual review of genomics and human genetics",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Recent advances in understanding the genetic architecture of autism spectrum disorder have allowed for unprecedented insight into its biological underpinnings. New studies have elucidated the contributions of a variety of forms of genetic variation to autism susceptibility. While the roles of de novo copy number variants and single-nucleotide variants-causing loss-of-function or missense changes-have been increasingly recognized and refined, mosaic single-nucleotide variants have been implicated more recently in some cases. Moreover, inherited variants (including common variants) and, more recently, rare recessive inherited variants have come into greater focus. Finally, noncoding variants-both inherited and de novo-have been implicated in the last few years. This work has revealed a convergence of diverse genetic drivers on common biological pathways and has highlighted the ongoing importance of increasing sample size and experimental innovation. Continuing to synthesize these genetic findings with functional and phenotypic evidence and translating these discoveries to clinical care remain considerable challenges for the field.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Recent advances in understanding the genetic architecture of autism spectrum disorder have allowed for unprecedented insight into its biological underpinnings. New studies have elucidated the contributions of a variety of forms of genetic variation to autism susceptibility.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32396753/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "Humans"
+  ],
+  "keywords": [
+    "ASD",
+    "autism spectrum disorder",
+    "genetic architecture",
+    "neurodevelopment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

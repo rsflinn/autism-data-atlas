@@ -1,0 +1,46 @@
+{
+  "pmid": "34817560",
+  "doi": "10.1001/jamapsychiatry.2021.3392",
+  "title": "Comparing Copy Number Variations in a Danish Case Cohort of Individuals With Psychiatric Disorders",
+  "authors": "Calle S&#xe1;nchez X, Helenius D, Bybjerg-Grauholm J, Pedersen C, Hougaard DM, B&#xf8;rglum AD, et al.",
+  "journal": "JAMA psychiatry",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Although the association between several recurrent genomic copy number variants (CNVs) and mental disorders has been studied for more than a decade, unbiased, population-based estimates of the prevalence, disease risks and trajectories, fertility, and mortality to contrast chromosomal abnormalities and advance precision health care are lacking.\n\nTo generate unbiased, population-based estimates of prevalence, disease risks and trajectories, fertility, and mortality of CNVs implicated in neuropsychiatric disorders.\n\nIn a population-based case-cohort study, using the Lundbeck Foundation Initiative for Integrative Psychiatric Research (iPSYCH) 2012 database, individuals born between May 1, 1981, and December 31, 2005, and followed up until December 31, 2012, were analyzed. All individuals (n&#x2009;=&#x2009;57&#x202f;377) with attention-deficit/hyperactivity disorder (ADHD), major depressive disorder (MDD), schizophrenia (SCZ), autism spectrum disorder (ASD), or bipolar disorder (BPD) were included, as well as 30&#x202f;000 individuals randomly drawn from the database. Data analysis was conducted from July 1, 2017, to September 7, 2021.\n\nCopy number variants at 6 genomic loci (1q21.1, 15q11.2, 15q13.3, 16p11.2, 17p12, and 17q12).\n\nPopulation-unbiased hazard ratio (HR) and survival estimates of CNV associations with the 5 ascertained psychiatric disorders, epilepsy, intellectual disability, selected somatic disorders, fertility, and mortality.\n\nParticipants' age ranged from 1 to 32 years (mean, 12.0 [IQR, 6.9] years) during follow-up, and 38 662 were male (52.3%). Copy number variants broadly associated with an increased risk of autism spectrum disorder and ADHD, whereas risk estimates of SCZ for most CNVs were lower than previously reported. Comparison with previous studies suggests that the lower risk estimates are associated with a higher CNV prevalence in the general population than in control samples of most case-control studies. Significant risk of major depressive disorder (HR, 5.8; 95% CI, 1.5-22.2) and sex-specific risk of bipolar disorder (HR, 17; 95% CI, 1.5-189.3, in men only) were noted for the 1q21.1 deletion. Although CNVs at 1q21.1 and 15q13.3 were associated with increased risk across most diagnoses, the 17p12 deletion consistently conferred less risk of psychiatric disorders (HR 0.4-0.8), although none of the estimates differed significantly from the general population. Trajectory analyses noted that, although diagnostic risk profiles differed across loci, they were similar for deletions and duplications within each locus. Sex-stratified analyses suggest that pathogenicity of many CNVs may be modulated by sex.\n\nThe findings of this study suggest that the iPSYCH population case cohort reveals broad disease risk for some of the studied CNVs and narrower risk for others, in addition to sex differential liability. This finding on genomic risk variants at the level of a population may be important for health care planning and clinical decision making, and thus the advancement of precision health care.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Although the association between several recurrent genomic copy number variants (CNVs) and mental disorders has been studied for more than a decade, unbiased, population-based estimates of the prevalence, disease risks and trajectories, fertility, and mortality to contrast chromosomal abnormalities and advance precision health care are lacking. To generate unbiased, population-based estimates of prevalence, disease risks and trajectories, fertility, and mortality of CNVs implicated in neuropsych",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34817560/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Case-Control Studies",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "DNA Copy Number Variations",
+    "Denmark",
+    "Female",
+    "Humans",
+    "Infant",
+    "Male",
+    "Mental Disorders",
+    "Prevalence",
+    "Proportional Hazards Models"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

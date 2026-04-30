@@ -1,0 +1,51 @@
+{
+  "pmid": "39817906",
+  "doi": "10.1016/j.celrep.2024.115213",
+  "title": "Coordinated neuron-specific splicing events restrict nucleosome engagement of the LSD1 histone demethylase complex",
+  "authors": "Porter RS, An S, Gavilan MC, Nagai M, Murata-Nakamura Y, Zhou B, et al.",
+  "journal": "Cell reports",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Chromatin regulatory proteins are expressed broadly and assumed to exert the same intrinsic function across cell types. Here, we report that 14 chromatin regulators undergo evolutionary-conserved neuron-specific splicing events involving microexons. Among them are two components of a histone demethylase complex: LSD1 H3K4 demethylase and the H3K4me0-reader PHF21A. We found that neuronal LSD1 splicing reduces the enzymes' affinity to the nucleosome. Meanwhile, neuronal PHF21A splicing significantly attenuates histone H3 binding and further ablates the DNA-binding function exerted by an AT-hook motif. Furthermore, in&#xa0;vitro reconstitution of the canonical and neuronal PHF21A-LSD1 complexes, combined with in&#xa0;vivo methylation mapping, identified the neuronal complex as a hypomorphic H3K4 demethylating machinery. The neuronal PHF21A, albeit with its weaker nucleosome binding, is necessary for normal gene expression and the H3K4 landscape in the developing brain. Thus, ubiquitously expressed chromatin regulatory complexes can exert neuron-specific functions via alternative splicing of their subunits.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Chromatin regulatory proteins are expressed broadly and assumed to exert the same intrinsic function across cell types. Here, we report that 14 chromatin regulators undergo evolutionary-conserved neuron-specific splicing events involving microexons.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39817906/",
+  "mesh_terms": [
+    "Nucleosomes",
+    "Histone Demethylases",
+    "Neurons",
+    "Histones",
+    "Animals",
+    "Alternative Splicing",
+    "Humans",
+    "Mice",
+    "Protein Binding",
+    "Methylation",
+    "Chromatin"
+  ],
+  "keywords": [
+    "CP: Molecular biology",
+    "CP: Neuroscience",
+    "alternative splicing",
+    "cellular differentiation",
+    "chromatin regulation",
+    "genetics of autism spectrum disorder",
+    "methyl-histone regulation",
+    "neurodevelopment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

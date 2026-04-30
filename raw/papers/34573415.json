@@ -1,0 +1,62 @@
+{
+  "pmid": "34573415",
+  "doi": "10.3390/genes12091433",
+  "title": "Environmental Influences Measured by Epigenetic Clock and Vulnerability Components at Birth Impact Clinical ASD Heterogeneity",
+  "authors": "Neri de Souza Reis V, Tahira AC, Daguano Gastaldi V, Mari P, Portolese J, Feio Dos Santos AC, et al.",
+  "journal": "Genes",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "Although Autism Spectrum Disorders (ASD) is recognized as being heavily influenced by genetic factors, the role of epigenetic and environmental factors is still being established. This study aimed to identify ASD vulnerability components based on familial history and intrauterine environmental stress exposure, explore possible vulnerability subgroups, access DNA methylation age acceleration (AA) as a proxy of stress exposure during life, and evaluate the association of ASD vulnerability components and AA to phenotypic severity measures. Principal Component Analysis (PCA) was used to search the vulnerability components from 67 mothers of autistic children. We found that PC1 had a higher correlation with psychosocial stress (maternal stress, maternal education, and social class), and PC2 had a higher correlation with biological factors (psychiatric family history and gestational complications). Comparing the methylome between above and below PC1 average subgroups we found 11,879 statistically significant differentially methylated probes (DMPs,< 0.05). DMPs CpG sites were enriched in variably methylated regions (VMRs), most showing environmental and genetic influences. Hypermethylated probes presented higher rates in different regulatory regions associated with functional SNPs, indicating that the subgroups may have different affected regulatory regions and their liability to disease explained by common variations. Vulnerability components score moderated by epigenetic clock AA was associated with Vineland Total score (= 0.0036, adjR= 0.31), suggesting risk factors with stress burden can influence ASD phenotype.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Although Autism Spectrum Disorders (ASD) is recognized as being heavily influenced by genetic factors, the role of epigenetic and environmental factors is still being established. This study aimed to identify ASD vulnerability components based on familial history and intrauterine environmental stress exposure, explore possible vulnerability subgroups, access DNA methylation age acceleration (AA) as a proxy of stress exposure during life, and evaluate the association of ASD vulnerability componen",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34573415/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age Factors",
+    "Autism Spectrum Disorder",
+    "Brazil",
+    "Child",
+    "Child, Preschool",
+    "Circadian Clocks",
+    "DNA Methylation",
+    "Disease Susceptibility",
+    "Environment",
+    "Epigenesis, Genetic",
+    "Female",
+    "Gene-Environment Interaction",
+    "Genetic Heterogeneity",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Male",
+    "Middle Aged",
+    "Parturition",
+    "Pregnancy",
+    "Risk Factors",
+    "Vulnerable Populations",
+    "Young Adult"
+  ],
+  "keywords": [
+    "ASD",
+    "exome",
+    "methylation",
+    "psychiatry",
+    "risk factors",
+    "vulnerability components"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

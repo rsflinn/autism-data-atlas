@@ -1,0 +1,57 @@
+{
+  "pmid": "30107084",
+  "doi": "10.1002/aur.1980",
+  "title": "The autism spectrum phenotype in ADNP syndrome",
+  "authors": "Arnett AB, Rhoads CL, Hoekzema K, Turner TN, Gerdts J, Wallace AS, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2018-08",
+  "source": "pubmed",
+  "abstract": "Pathogenic disruptions to the activity-dependent neuroprotector homeobox (ADNP) gene are among the most common heterozygous genetic mutations associated with autism spectrum disorders (ASDs). Individuals with ADNP disruptions share a constellation of medical and psychiatric features, including ASD, intellectual disability (ID), dysmorphic features, and hypotonia. However, the profile of ASD symptoms associated with ADNP may differ from that of individuals with another ASD-associated single gene disruption or with ASD without a known genetic cause. The current study examined the ASD phenotype in a sample of representative youth with ADNP disruptions. Participants (N = 116, ages 4-22 years) included a cohort with ADNP mutations (n = 11) and three comparison groups with either a mutation to CHD8 (n = 11), a mutation to another ASD-associated gene (other mutation; n = 53), or ASD with no known genetic etiology (idiopathic ASD; n = 41). As expected, individuals with ADNP disruptions had higher rates of ID but less severe social affect symptoms compared to the CHD8 and Idiopathic ASD groups. In addition, verbal intelligence explained more variance in social impairment in the ADNP group compared to CHD8, other mutation, and idiopathic ASD comparison groups. Restricted and repetitive behaviors in the ADNP group were characterized by high levels of stereotyped motor behaviors, whereas the idiopathic ASD group showed high levels of restricted interests. Taken together, these results underscore the role of ADNP in cognitive functioning and suggest that social impairments in ADNP syndrome are consistent with severity of verbal deficits. Autism Res 2018, 11: 1300-1310. &#xa9; 2018 International Society for Autism Research, Wiley Periodicals, Inc. LAY SUMMARY: Disruptions to the ADNP gene (i.e., ADNP syndrome) have been associated with autism spectrum disorder (ASD). This article describes intellectual disability, mild social difficulties, and severe repetitive motor movements in a group of 11 youth with ADNP Syndrome. We found lower rates of ASD than previously reported. Verbal skills explained individual variability in social impairment. This pattern suggests that the ADNP gene is primarily associated with learning and memory, and level of social difficulties is consistent with level of verbal impairment.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "ADNP",
+    "CHD8"
+  ],
+  "summary": "Pathogenic disruptions to the activity-dependent neuroprotector homeobox (ADNP) gene are among the most common heterozygous genetic mutations associated with autism spectrum disorders (ASDs). Individuals with ADNP disruptions share a constellation of medical and psychiatric features, including ASD, intellectual disability (ID), dysmorphic features, and hypotonia.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30107084/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Female",
+    "Homeodomain Proteins",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Phenotype",
+    "Social Communication Disorder",
+    "Stereotypic Movement Disorder",
+    "Syndrome",
+    "Young Adult"
+  ],
+  "keywords": [
+    "ADNP",
+    "autism spectrum disorder",
+    "developmental disorder",
+    "genetic syndrome",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

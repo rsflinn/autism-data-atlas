@@ -1,0 +1,46 @@
+{
+  "pmid": "32142125",
+  "doi": "10.1093/hmg/ddaa036",
+  "title": "Oligodendrocyte dysfunction due to Chd8 mutation gives rise to behavioral deficits in mice",
+  "authors": "Kawamura A, Katayama Y, Nishiyama M, Shoji H, Tokuoka K, Ueta Y, et al.",
+  "journal": "Human molecular genetics",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Mutations in the gene encoding the chromatin remodeler CHD8 are strongly associated with autism spectrum disorder (ASD). CHD8 haploinsufficiency also results in autistic phenotypes in humans and mice. Although myelination defects have been observed in individuals with ASD, whether oligodendrocyte dysfunction is responsible for autistic phenotypes has remained unknown. Here we show that reduced expression of CHD8 in oligodendrocytes gives rise to abnormal behavioral phenotypes in mice. CHD8 was found to regulate the expression of many myelination-related genes and to be required for oligodendrocyte maturation and myelination. Ablation of Chd8 specifically in oligodendrocytes of mice impaired myelination, slowed action potential propagation and resulted in behavioral deficits including increased social interaction and anxiety-like behavior, with similar effects being apparent in Chd8 heterozygous mutant mice. Our results thus indicate that CHD8 is essential for myelination and that dysfunction of oligodendrocytes as a result of CHD8 haploinsufficiency gives rise to several neuropsychiatric phenotypes.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Mutations in the gene encoding the chromatin remodeler CHD8 are strongly associated with autism spectrum disorder (ASD). CHD8 haploinsufficiency also results in autistic phenotypes in humans and mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32142125/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Chromatin Assembly and Disassembly",
+    "DNA-Binding Proteins",
+    "Disease Models, Animal",
+    "Haploinsufficiency",
+    "Heterozygote",
+    "Humans",
+    "Mice",
+    "Mutation",
+    "Neurogenesis",
+    "Oligodendroglia",
+    "Phenotype",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

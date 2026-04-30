@@ -1,0 +1,47 @@
+{
+  "pmid": "16399702",
+  "doi": "10.1523/JNEUROSCI.2623-05.2006",
+  "title": "Learning and memory and synaptic plasticity are impaired in a mouse model of Rett syndrome",
+  "authors": "Moretti P, Levenson JM, Battaglia F, Atkinson R, Teague R, Antalffy B, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2006-01",
+  "source": "pubmed",
+  "abstract": "Loss-of-function mutations or abnormal expression of the X-linked gene encoding methyl CpG binding protein 2 (MeCP2) cause a spectrum of postnatal neurodevelopmental disorders including Rett syndrome (RTT), nonsyndromic mental retardation, learning disability, and autism. Mice expressing a truncated allele of Mecp2 (Mecp2(308)) reproduce the motor and social behavior abnormalities of RTT; however, it is not known whether learning deficits are present in these animals. We investigated learning and memory, neuronal morphology, and synaptic function in Mecp2(308) mice. Hippocampus-dependent spatial memory, contextual fear memory, and social memory were significantly impaired in Mecp2(308) mutant males (Mecp2(308/Y)). The morphology of dendritic arborizations, the biochemical composition of synaptosomes and postsynaptic densities, and brain-derived neurotrophic factor expression were not altered in these mice. However, reduced postsynaptic density cross-sectional length was identified in asymmetric synapses of area CA1 of the hippocampus. In the hippocampus of symptomatic Mecp2(308/Y) mice, Schaffer-collateral synapses exhibited enhanced basal synaptic transmission and decreased paired-pulse facilitation, suggesting that neurotransmitter release was enhanced. Schaffer-collateral long-term potentiation (LTP) was impaired. LTP was also reduced in the motor and sensory regions of the neocortex. Finally, very early symptomatic Mecp2(308/Y) mice had increased basal synaptic transmission and deficits in the induction of long-term depression. These data demonstrate a requirement for MeCP2 in learning and memory and suggest that functional and ultrastructural synaptic dysfunction is an early event in the pathogenesis of RTT.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Loss-of-function mutations or abnormal expression of the X-linked gene encoding methyl CpG binding protein 2 (MeCP2) cause a spectrum of postnatal neurodevelopmental disorders including Rett syndrome (RTT), nonsyndromic mental retardation, learning disability, and autism. Mice expressing a truncated allele of Mecp2 (Mecp2(308)) reproduce the motor and social behavior abnormalities of RTT; however, it is not known whether learning deficits are present in these animals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16399702/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Female",
+    "In Vitro Techniques",
+    "Learning",
+    "Male",
+    "Memory",
+    "Memory Disorders",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Transgenic",
+    "Mutation",
+    "Neuronal Plasticity",
+    "Rett Syndrome",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

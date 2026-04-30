@@ -1,0 +1,35 @@
+{
+  "pmid": "32142628",
+  "doi": "10.1016/S1474-4422(20)30034-X",
+  "title": "Evidence-based support for autistic people across the lifespan: maximising potential, minimising barriers, and optimising the person-environment fit",
+  "authors": "Lai MC, Anagnostou E, Wiznitzer M, Allison C, Baron-Cohen S",
+  "journal": "The Lancet. Neurology",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Autism is both a medical condition that gives rise to disability and an example of human variation that is characterised by neurological and cognitive differences. The goal of evidence-based intervention and support is to alleviate distress, improve adaptation, and promote wellbeing. Support should be collaborative, with autistic individuals, families, and service providers taking a shared decision-making approach to maximise the individual's potential, minimise barriers, and optimise the person-environment fit. Comprehensive, naturalistic early intervention with active caregiver involvement can facilitate early social communication, adaptive functioning, and cognitive development; targeted intervention can help to enhance social skills and aspects of cognition. Augmentative and alternative communication interventions show preliminary evidence of benefit in minimising communication barriers. Co-occurring health issues, such as epilepsy and other neurodevelopmental disorders, sleep problems, and mental health challenges, should be treated in a timely fashion. The creation of autism-friendly contexts is best achieved by supporting families, reducing stigma, enhancing peer understanding, promoting inclusion in education, the community, and at work, and through advocacy.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is both a medical condition that gives rise to disability and an example of human variation that is characterised by neurological and cognitive differences. The goal of evidence-based intervention and support is to alleviate distress, improve adaptation, and promote wellbeing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32142628/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Caregivers",
+    "Persons with Disabilities",
+    "Evidence-Based Practice",
+    "Humans"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

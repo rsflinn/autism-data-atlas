@@ -1,0 +1,49 @@
+{
+  "pmid": "23821644",
+  "doi": "10.1093/hmg/ddt315",
+  "title": "The UPF3B gene, implicated in intellectual disability, autism, ADHD and childhood onset schizophrenia regulates neural progenitor cell behaviour and neuronal outgrowth",
+  "authors": "Jolly LA, Homan CC, Jacob R, Barry S, Gecz J",
+  "journal": "Human molecular genetics",
+  "date": "2013-07",
+  "source": "pubmed",
+  "abstract": "Loss-of-function mutations in UPF3B result in variable clinical presentations including intellectual disability (ID, syndromic and non-syndromic), autism, childhood onset schizophrenia and attention deficit hyperactivity disorder. UPF3B is a core member of the nonsense-mediated mRNA decay (NMD) pathway that functions to rapidly degrade transcripts with premature termination codons (PTCs). Traditionally identified in thousands of human diseases, PTCs were recently also found to be part of 'normal' genetic variation in human populations. Furthermore, many human transcripts have naturally occurring regulatory features compatible with 'endogenous' PTCs strongly suggesting roles of NMD beyond PTC mRNA control. In this study, we investigated the role of Upf3b and NMD in neural cells. We provide evidence that suggests Upf3b-dependent NMD (Upf3b-NMD) is regulated at multiple levels during development including regulation of expression and sub-cellular localization of Upf3b. Furthermore, complementary expression of Upf3b, Upf3a and Stau1 stratify the developing dorsal telencephalon, suggesting that alternative NMD, and the related Staufen1-mediated mRNA decay (SMD) pathways are differentially employed. A loss of Upf3b-NMD in neural progenitor cells (NPCs) resulted in the expansion of cell numbers at the expense of their differentiation. In primary hippocampal neurons, loss of Upf3b-NMD resulted in subtle neurite growth effects. Our data suggest that the cellular consequences of loss of Upf3b-NMD can be explained in-part by changes in expression of key NMD-feature containing transcripts, which are commonly deregulated also in patients with UPF3B mutations. Our research identifies novel pathological mechanisms of UPF3B mutations and at least partly explains the clinical phenotype of UPF3B patients.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Loss-of-function mutations in UPF3B result in variable clinical presentations including intellectual disability (ID, syndromic and non-syndromic), autism, childhood onset schizophrenia and attention deficit hyperactivity disorder. UPF3B is a core member of the nonsense-mediated mRNA decay (NMD) pathway that functions to rapidly degrade transcripts with premature termination codons (PTCs).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23821644/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Cell Differentiation",
+    "Cells, Cultured",
+    "Female",
+    "Gene Expression Regulation, Developmental",
+    "Humans",
+    "Intellectual Disability",
+    "Mice",
+    "Mice, Transgenic",
+    "Neural Stem Cells",
+    "Neurogenesis",
+    "Neurons",
+    "Nonsense Mediated mRNA Decay",
+    "Organ Specificity",
+    "RNA-Binding Proteins",
+    "Schizophrenia, Childhood",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

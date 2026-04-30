@@ -1,0 +1,51 @@
+{
+  "pmid": "27219475",
+  "doi": "10.1002/hbm.23211",
+  "title": "Reciprocal white matter alterations due to 16p11.2 chromosomal deletions versus duplications",
+  "authors": "Chang YS, Owen JP, Pojman NJ, Thieu T, Bukshpun P, Wakahiro ML, et al.",
+  "journal": "Human brain mapping",
+  "date": "2016-05",
+  "source": "pubmed",
+  "abstract": "Copy number variants at the 16p11.2 chromosomal locus are associated with several neuropsychiatric disorders, including autism, schizophrenia, bipolar disorder, attention-deficit hyperactivity disorder, and speech and language disorders. A gene dosage dependence has been suggested, with 16p11.2 deletion carriers demonstrating higher body mass index and head circumference, and 16p11.2 duplication carriers demonstrating lower body mass index and head circumference. Here, we use diffusion tensor imaging to elucidate this reciprocal relationship in white matter organization, showing widespread increases of fractional anisotropy throughout the supratentorial white matter in pediatric deletion carriers and, in contrast, extensive decreases of white matter fractional anisotropy in pediatric and adult duplication carriers. We find associations of these white matter alterations with cognitive and behavioral impairments. We further demonstrate the value of imaging metrics for characterizing the copy number variant phenotype by employing linear discriminant analysis to predict the gene dosage status of the study subjects. These results show an effect of 16p11.2 gene dosage on white matter microstructure, and further suggest that opposite changes in diffusion tensor imaging metrics can lead to similar cognitive and behavioral deficits. Given the large effect sizes found in this study, our results support the view that specific genetic variations are more strongly associated with specific brain alterations than are shared neuropsychiatric diagnoses. Hum Brain Mapp 37:2833-2848, 2016. &#xa9; 2016 Wiley Periodicals, Inc.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants at the 16p11.2 chromosomal locus are associated with several neuropsychiatric disorders, including autism, schizophrenia, bipolar disorder, attention-deficit hyperactivity disorder, and speech and language disorders. A gene dosage dependence has been suggested, with 16p11.2 deletion carriers demonstrating higher body mass index and head circumference, and 16p11.2 duplication carriers demonstrating lower body mass index and head circumference.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27219475/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Brain",
+    "Child",
+    "Chromosome Deletion",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "Diffusion Tensor Imaging",
+    "Female",
+    "Gene Dosage",
+    "Heterozygote",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "White Matter",
+    "Young Adult"
+  ],
+  "keywords": [
+    "autism",
+    "genetics",
+    "magnetic resonance imaging",
+    "neurodevelopmental disorders",
+    "white matter"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

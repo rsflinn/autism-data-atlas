@@ -1,0 +1,39 @@
+{
+  "pmid": "31146125",
+  "doi": "10.1016/j.conb.2019.04.010",
+  "title": "Regulation of neuronal connectivity in the mammalian brain by chromatin remodeling",
+  "authors": "Goodman JV, Bonni A",
+  "journal": "Current opinion in neurobiology",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "Precise temporal and spatial control of gene expression is essential for brain development. Besides DNA sequence-specific transcription factors, epigenetic factors play an integral role in the control of gene expression in neurons. Among epigenetic mechanisms, chromatin remodeling enzymes have emerged as essential to the control of neural circuit assembly and function in the brain. Here, we review recent studies on the roles and mechanisms of the chromodomain-helicase-DNA-binding (Chd) family of chromatin remodeling enzymes in the regulation of neuronal morphogenesis and connectivity in the mammalian brain. We explore the field through the lens of Chd3, Chd4, and Chd5 proteins, which incorporate into the nucleosome remodeling and deacetylase (NuRD) complex, and the related proteins Chd7 and Chd8, implicated in the pathogenesis of intellectual disability and autism spectrum disorders. These studies have advanced our understanding of the mechanisms that regulate neuronal connectivity in brain development and neurodevelopmental disorders of cognition.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Precise temporal and spatial control of gene expression is essential for brain development. Besides DNA sequence-specific transcription factors, epigenetic factors play an integral role in the control of gene expression in neurons.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31146125/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Chromatin",
+    "Chromatin Assembly and Disassembly",
+    "Mi-2 Nucleosome Remodeling and Deacetylase Complex",
+    "Neurons",
+    "Nucleosomes"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

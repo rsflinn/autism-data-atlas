@@ -1,0 +1,45 @@
+{
+  "pmid": "36201102",
+  "doi": "10.1007/s11033-022-07935-8",
+  "title": "Whole genome sequencing of ASD 16 and ADT 43 to identify predominant grain size and starch associated alleles in rice",
+  "authors": "Mannu J, Latha AM, Rajagopal S, Lalitha HDA, Muthurajan R, Loganathan A, et al.",
+  "journal": "Molecular biology reports",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "The rice cultivars ASD&#xa0;16 and ADT&#xa0;43 are the most popular high-yielding Indica rice cultivars in southern India. Despite their popularity very little is known about their genetic basis due to lack of studies on the complete genome. In the current study, efforts were made to identify alleles and SNP markers that differentiate the two contrasting rice genotypes, ASD 16 and ADT 43 for grain shape and starch content.\n\nThe complete genome of bold grain ASD&#xa0;16 and slender grain ADT&#xa0;43 were sequenced via Illumina's paired-end sequencing and the reads obtained were mapped to the Oryza sativa Indica Group cultivar 93-11 reference genome. The grain size of rice is controlled by Quantitative Trait Loci (QTL) that has a robust effect on grain yield and quality. To gain insight into genes that controlling grain size and starch content, an in-silico analysis was performed by taking into account of 72 grain elongation and starch biosynthesis genes. The identified alleles were further validated in the whole genome sequencing data of 32 bold grain and 25 slender grain varieties that were retrieved from the 3&#xa0;K rice genome project.\n\nAn \"A to G\" polymorphism leading to SER 74 PRO was identified at the CDS position 220 of the An-1 gene, encoding bHLH domain-containing protein that regulates awn formation and increase in grain length. The non-synonymous substitutions such as A545C variant leading PHE 182 CYS in ADP Glucose Pyrophosphorylase large subunit IV (AGPL4) and C3094G variant leading to VAL 1032 LEU in Starch synthase IIIb (OsSSIIIb) were also identified in the starch biosynthesis genes. These identified allelic variants may contribute to the crop improvement programs in rice.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The rice cultivars ASD&#xa0;16 and ADT&#xa0;43 are the most popular high-yielding Indica rice cultivars in southern India. Despite their popularity very little is known about their genetic basis due to lack of studies on the complete genome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36201102/",
+  "mesh_terms": [
+    "Oryza",
+    "Starch",
+    "Alleles",
+    "Polymorphism, Single Nucleotide",
+    "Edible Grain",
+    "Whole Genome Sequencing",
+    "Autism Spectrum Disorder"
+  ],
+  "keywords": [
+    "ADT43",
+    "AGPL4",
+    "ASD16",
+    "Allele mining",
+    "An-1",
+    "Grain size",
+    "OsSSIIIb",
+    "WGS"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

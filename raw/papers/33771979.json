@@ -1,0 +1,42 @@
+{
+  "pmid": "33771979",
+  "doi": "10.1038/s41398-021-01308-8",
+  "title": "Polygenic risk scores for major psychiatric and neurodevelopmental disorders contribute to sleep disturbance in childhood: Adolescent Brain Cognitive Development (ABCD) Study",
+  "authors": "Ohi K, Ochi R, Noda Y, Wada M, Sugiyama S, Nishi A, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Sleep disturbance is a common symptom of psychiatric and neurodevelopmental disorders and, especially in childhood, can be a precursor to various mental disorders. However, the genetic etiology of mental illness that contributes to sleep disturbance during childhood is poorly understood. We investigated whether the polygenic features of psychiatric and neurodevelopmental disorders are associated with sleep disturbance during childhood. We conducted polygenic risk score (PRS) analyses by utilizing large-scale genome-wide association studies (GWASs) (n&#x2009;=&#x2009;46,350-500,199) of five major psychiatric and neurodevelopmental disorders (autism spectrum disorder, schizophrenia, attention-deficit/hyperactivity disorder (ADHD), major depressive disorder (MDD), and bipolar disorder) and, additionally, anxiety disorders as base datasets. We used the data of 9- to 10-year-olds from the Adolescent Brain Cognitive Development study (n&#x2009;=&#x2009;9683) as a target dataset. Sleep disturbance was assessed based on the Sleep Disturbance Scale for Children (SDSC) scores. The effects of PRSs for these psychiatric and neurodevelopmental disorders on the total scores and six subscale scores of the SDSC were investigated. Of the PRSs for the five psychiatric and neurodevelopmental disorders, the PRSs for ADHD and MDD positively correlated with sleep disturbance in children (ADHD: R&#x2009;=&#x2009;0.0033, p&#x2009;=&#x2009;6.19&#x2009;&#xd7;&#x2009;10, MDD: R&#x2009;=&#x2009;0.0042, p&#x2009;=&#x2009;5.69&#x2009;&#xd7;&#x2009;10). Regarding the six subscale scores of the SDSC, the PRSs for ADHD positively correlated with both disorders of initiating and maintaining sleep (R&#x2009;=&#x2009;0.0028, p&#x2009;=&#x2009;2.31&#x2009;&#xd7;&#x2009;10) and excessive somnolence (R&#x2009;=&#x2009;0.0023, p&#x2009;=&#x2009;8.44&#x2009;&#xd7;&#x2009;10). Furthermore, the PRSs for MDD primarily positively correlated with disorders of initiating and maintaining sleep (R&#x2009;=&#x2009;0.0048, p&#x2009;=&#x2009;1.26&#x2009;&#xd7;&#x2009;10), followed by excessive somnolence (R&#x2009;=&#x2009;0.0023, p&#x2009;=&#x2009;7.74&#x2009;&#xd7;&#x2009;10) and sleep hyperhidrosis (R&#x2009;=&#x2009;0.0014, p&#x2009;=&#x2009;9.55&#x2009;&#xd7;&#x2009;10). Despite high genetic overlap between MDD and anxiety disorders, PRSs for anxiety disorders correlated with different types of sleep disturbances such as disorders of arousal or nightmares (R&#x2009;=&#x2009;0.0013, p&#x2009;=&#x2009;0.011). These findings suggest that greater genetic susceptibility to specific psychiatric and neurodevelopmental disorders, as represented by ADHD, MDD, and anxiety disorders, may contribute to greater sleep problems among children.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Sleep disturbance is a common symptom of psychiatric and neurodevelopmental disorders and, especially in childhood, can be a precursor to various mental disorders. However, the genetic etiology of mental illness that contributes to sleep disturbance during childhood is poorly understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33771979/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Child",
+    "Cognition",
+    "Major Depressive Disorder",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Neurodevelopmental Disorders",
+    "Risk Factors",
+    "Sleep"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

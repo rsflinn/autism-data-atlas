@@ -1,0 +1,52 @@
+{
+  "pmid": "25529181",
+  "doi": "10.1016/j.nrl.2014.10.009",
+  "title": "Clinical, molecular, and pharmacological aspects of FMR1 related disorders",
+  "authors": "Pugin A, Faundes V, Santa Mar&#xed;a L, Curotto B, Aliaga S, Salas I, et al.",
+  "journal": "Neurologia (Barcelona, Spain)",
+  "date": "2014-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome, the most common inherited cause of intellectual disability, is associated with a broad spectrum of disorders across different generations of a single family. This study reviews the clinical manifestations of fragile X-associated disorders as well as the spectrum of mutations of the fragile X mental retardation 1 gene (FMR1) and the neurobiology of the fragile X mental retardation protein (FMRP), and also provides an overview of the potential therapeutic targets and genetic counselling.\n\nThis disorder is caused by expansion of the CGG repeat (>200 repeats) in the 5 prime untranslated region of FMR1, resulting in a deficit or absence of FMRP. FMRP is an RNA-binding protein that regulates the translation of several genes that are important in synaptic plasticity and dendritic maturation. It is believed that CGG repeat expansions in the premutation range (55 to 200 repeats) elicit an increase in mRNA levels of FMR1, which may cause neuronal toxicity. These changes manifest clinically as developmental problems such as autism and learning disabilities as well as neurodegenerative diseases including fragile X-associated tremor/ataxia syndrome (FXTAS).\n\nAdvances in identifying the molecular basis of fragile X syndrome may help us understand the causes of neuropsychiatric disorders, and they will probably contribute to development of new and specific treatments.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome, the most common inherited cause of intellectual disability, is associated with a broad spectrum of disorders across different generations of a single family. This study reviews the clinical manifestations of fragile X-associated disorders as well as the spectrum of mutations of the fragile X mental retardation 1 gene (FMR1) and the neurobiology of the fragile X mental retardation protein (FMRP), and also provides an overview of the potential therapeutic targets and genetic co",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25529181/",
+  "mesh_terms": [
+    "Ataxia",
+    "Autistic Disorder",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "RNA, Messenger",
+    "Tremor"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Deoxyribonucleic acid methylation",
+    "Discapacidad intelectual",
+    "Fagile X mental retardation protein",
+    "Intellectual disability",
+    "Metilaci&#xf3;n del ADN",
+    "Prote&#xed;na FMRP",
+    "Prote&#xed;nas de uni&#xf3;n al RNA",
+    "Ribonucleic acid-binding proteins",
+    "Trastornos del espectro autista"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

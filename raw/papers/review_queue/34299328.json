@@ -1,0 +1,42 @@
+{
+  "pmid": "34299328",
+  "doi": "10.3390/ijms22147710",
+  "title": "Blood-Brain Barrier and Neurodegenerative Diseases-Modeling with iPSC-Derived Brain Cells",
+  "authors": "Wu YC, Sonninen TM, Peltonen S, Koistinaho J, Lehtonen &#x160;",
+  "journal": "International journal of molecular sciences",
+  "date": "2021-07",
+  "source": "pubmed",
+  "abstract": "The blood-brain barrier (BBB) regulates the delivery of oxygen and important nutrients to the brain through active and passive transport and prevents neurotoxins from entering the brain. It also has a clearance function and removes carbon dioxide and toxic metabolites from the central nervous system (CNS). Several drugs are unable to cross the BBB and enter the CNS, adding complexity to drug screens targeting brain disorders. A well-functioning BBB is essential for maintaining healthy brain tissue, and a malfunction of the BBB, linked to its permeability, results in toxins and immune cells entering the CNS. This impairment is associated with a variety of neurological diseases, including Alzheimer's disease and Parkinson's disease. Here, we summarize current knowledge about the BBB in neurodegenerative diseases. Furthermore, we focus on recent progress of using human-induced pluripotent stem cell (iPSC)-derived models to study the BBB. We review the potential of novel stem cell-based platforms in modeling the BBB and address advances and key challenges of using stem cell technology in modeling the human BBB. Finally, we highlight future directions in this area.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The blood-brain barrier (BBB) regulates the delivery of oxygen and important nutrients to the brain through active and passive transport and prevents neurotoxins from entering the brain. It also has a clearance function and removes carbon dioxide and toxic metabolites from the central nervous system (CNS).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34299328/",
+  "mesh_terms": [
+    "Animals",
+    "Blood-Brain Barrier",
+    "Brain",
+    "Cerebrovascular Circulation",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Models, Biological",
+    "Neurodegenerative Diseases"
+  ],
+  "keywords": [
+    "blood&#x2013;brain barrier (BBB)",
+    "induced pluripotent stem cell (iPSC)",
+    "neurodegenerative diseases (NDDs)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

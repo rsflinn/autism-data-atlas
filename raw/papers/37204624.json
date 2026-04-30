@@ -1,0 +1,50 @@
+{
+  "pmid": "37204624",
+  "doi": "10.1002/aur.2939",
+  "title": "Germ-cell-specific transcriptome analysis illuminates the chromatin and ubiquitin pathway in autism spectrum disorders",
+  "authors": "Furukawa S, Nomura J, Hanafusa H, Maegawa H, Takumi T",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Accumulating epidemiological studies have suggested a positive association between advanced paternal age at conception and the increased risk of neurodevelopmental outcomes such as autism spectrum disorder (ASD) in their children. Recent biological studies using human sperm have identified increased de novo mutations in aged fathers, and hyper- or hypomethylation has been identified in the sperm from aged rodents. Dysregulation of DNA methylation in sperm may explain the transgenerational effects on the pathogenesis of ASD. However, compared to these epigenetic changes in the sperm of aged males, the effects of inherited predisposition from germ cells are largely unknown. Here, we use single-cell transcriptome data sets from 13 cell lines, including 12 ASD-associated CNVs models and control, that are performed neural differentiation from mouse embryonic stem cells. This study performed comprehensive bioinformatic analyses such as gene ontology (GO), network, pathway, and upstream regulator analyses. Through these analyses, we identify several susceptible pathways, such as chromatin and ubiquitin, in addition to translational and oxidative phosphorylation. Our results suggest that dysregulation of epigenetic chromosome remodeling and ubiquitin-proteasome pathway in the germ cell is a possible modulator for subsequent differentiated cells, sperm, and egg, as a risk factor for the neurodevelopmental disorder.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Accumulating epidemiological studies have suggested a positive association between advanced paternal age at conception and the increased risk of neurodevelopmental outcomes such as autism spectrum disorder (ASD) in their children. Recent biological studies using human sperm have identified increased de novo mutations in aged fathers, and hyper- or hypomethylation has been identified in the sperm from aged rodents.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37204624/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Male",
+    "Animals",
+    "Mice",
+    "Aged",
+    "Autism Spectrum Disorder",
+    "Chromatin",
+    "Ubiquitin",
+    "Semen",
+    "Germ Cells",
+    "Gene Expression Profiling",
+    "Genetic Predisposition to Disease"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "bioinformatics",
+    "copy number variants",
+    "embryonic stem cells",
+    "germ cells",
+    "single-cell analysis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

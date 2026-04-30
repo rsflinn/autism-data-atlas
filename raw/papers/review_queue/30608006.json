@@ -1,0 +1,44 @@
+{
+  "pmid": "30608006",
+  "doi": "10.1177/0883073818821036",
+  "title": "Genetic Testing Practices of Genetic Counselors, Geneticists, and Pediatric Neurologists With Regard to Childhood-Onset Neurogenetic Conditions",
+  "authors": "Wofford S, Noblin S, Davis JM, Farach LS, Hashmi SS, Mancias P, et al.",
+  "journal": "Journal of child neurology",
+  "date": "2019-01",
+  "source": "pubmed",
+  "abstract": "Identifying genetic diagnoses for neurologic conditions with a considerable hereditary component, such as autism spectrum disorder, intellectual disability, and epilepsy, is critical to providing proper medical management for patients and their families. However, many patients with these conditions are not tested appropriately or receive no genetic testing at all. The current study was designed to characterize the genetic testing practices of the providers most likely to evaluate or order genetic testing for these patients: pediatric neurologists, geneticists, and genetic counselors. Significant variance was present between testing strategies selected by pediatric neurologists and those by geneticists and genetic counselors, supporting the need for updated genetic testing guidelines that are consistent across specialties. Pediatric neurologists also report lower confidence in ordering genetic testing and desire further education regarding genetic testing. Together, these results propose that continued integration of genetics providers, such as genetic counselors, into pediatric neurology clinics may improve utilization of genetic testing while reducing the burden on pediatric neurologists.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Identifying genetic diagnoses for neurologic conditions with a considerable hereditary component, such as autism spectrum disorder, intellectual disability, and epilepsy, is critical to providing proper medical management for patients and their families. However, many patients with these conditions are not tested appropriately or receive no genetic testing at all.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30608006/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child",
+    "Epilepsy",
+    "Fragile X Syndrome",
+    "Genetic Counseling",
+    "Genetic Testing",
+    "Humans",
+    "Intellectual Disability",
+    "Neurologists"
+  ],
+  "keywords": [
+    "autism",
+    "fragile X",
+    "genetic testing",
+    "neurogenetics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

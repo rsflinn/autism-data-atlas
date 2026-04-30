@@ -1,0 +1,37 @@
+{
+  "pmid": "41890637",
+  "doi": "10.3389/fnana.2026.1783101",
+  "title": "Foxp2 mutations and abnormal brain and gastrointestinal development: insights from animal models of speech-language and autism spectrum disorders",
+  "authors": "Fujita-Jimbo E, Kawahara G, Momoi T",
+  "journal": "Frontiers in neuroanatomy",
+  "date": "2026-03",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) and speech and language disorder (SLD) are distinct neurodevelopmental conditions, yet both share overlapping communication impairments.(), a key transcription factor involved in speech and language development, harbors pathogenic mutations such as R553H, which cause SLD and have been suggested to contribute to aspects of ASD-related phenotypes. This review synthesizes insights from animal models to explore the molecular mechanisms by whichmutations disrupt the development of the cerebral cortex, thalamus, and enteric nervous system. We highlight findings from heterozygousmutants and discuss severe phenotypes observed in homozygousmutants (2and2/mCherry-Tg mice), including profound ultrasonic vocalization deficits, brain malformations, and early lethality. Notably, these mice exhibit gastrointestinal abnormalities involving the epithelium, smooth muscle, and enteric nervous system, which are linked to impaired autoregulation and interference with Wnt signaling during development. Such observations underscore the relevance of the brain-gut-microbiome axis and Hirschsprung-like pathology in neurodevelopmental disorders. Finally, this review discusses future directions using gene-editing approaches in non-mammalian models-zebra finches, zebrafish, and-to dissect neural networks underlying intellectual disability and communication deficits. Collectively, these studies provide a framework for understanding-related molecular mechanisms in the pathogenesis of ASD and SLD.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) and speech and language disorder (SLD) are distinct neurodevelopmental conditions, yet both share overlapping communication impairments.(), a key transcription factor involved in speech and language development, harbors pathogenic mutations such as R553H, which cause SLD and have been suggested to contribute to aspects of ASD-related phenotypes. This review synthesizes insights from animal models to explore the molecular mechanisms by whichmutations disrupt the dev",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41890637/",
+  "mesh_terms": [],
+  "keywords": [
+    "Forkhead-box Protein P2 (FOXP2)",
+    "Wnt signaling",
+    "animal models",
+    "autism spectrum disorder (ASD)",
+    "brain-gut-microbiome axis",
+    "cerebral cortex development",
+    "speech and language disorder (SLD)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

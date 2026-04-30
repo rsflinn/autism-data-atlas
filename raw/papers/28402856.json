@@ -1,0 +1,58 @@
+{
+  "pmid": "28402856",
+  "doi": "10.1016/j.celrep.2017.03.052",
+  "title": "Chd8 Mutation Leads to Autistic-like Behaviors and Impaired Striatal Circuits",
+  "authors": "Platt RJ, Zhou Y, Slaymaker IM, Shetty AS, Weisbach NR, Kim JA, et al.",
+  "journal": "Cell reports",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a heterogeneous disease, but genetically defined models can provide an entry point to studying the molecular underpinnings of this disorder. We generated germline mutant mice with loss-of-function mutations in Chd8, a de&#xa0;novo mutation strongly associated with ASD, and demonstrate that these mice display hallmark ASD behaviors, macrocephaly, and craniofacial abnormalities similar to patient phenotypes. Chd8mice display a broad, brain-region-specific dysregulation of major regulatory and cellular processes, most notably histone and chromatin modification, mRNA and protein processing, Wnt signaling, and cell-cycle regulation. We also find altered synaptic physiology in medium spiny neurons of the nucleus accumbens. Perturbation of Chd8 in adult mice recapitulates improved acquired motor learning behavior found in Chd8animals, suggesting a role for CHD8 in adult striatal circuits. These results support a mechanism linking chromatin modification to striatal dysfunction and the molecular pathology of ASD.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Autism spectrum disorder (ASD) is a heterogeneous disease, but genetically defined models can provide an entry point to studying the molecular underpinnings of this disorder. We generated germline mutant mice with loss-of-function mutations in Chd8, a de&#xa0;novo mutation strongly associated with ASD, and demonstrate that these mice display hallmark ASD behaviors, macrocephaly, and craniofacial abnormalities similar to patient phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28402856/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Chromatin",
+    "Corpus Striatum",
+    "DNA-Binding Proteins",
+    "Disease Models, Animal",
+    "Gene Expression Regulation, Developmental",
+    "Germ-Line Mutation",
+    "Histones",
+    "Humans",
+    "Megalencephaly",
+    "Mice",
+    "Wnt Signaling Pathway"
+  ],
+  "keywords": [
+    "CRISPR",
+    "Cas9 knockin mouse",
+    "ChIP-seq",
+    "MRI",
+    "RNA-seq",
+    "adeno-associated virus",
+    "autism spectrum disorder",
+    "behavior",
+    "neocortical development",
+    "physiology"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

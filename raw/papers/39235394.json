@@ -1,0 +1,46 @@
+{
+  "pmid": "39235394",
+  "doi": "10.1089/cap.2024.0055",
+  "title": "SYNGAP-1 Mutation And Catatonia: A Case Series and Systematic Review",
+  "authors": "Baldwin I, Cho A, Orenstein G, Wilner N, Nicoli D, Smith JR",
+  "journal": "Journal of child and adolescent psychopharmacology",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Hyperactive catatonia is often unrecognized in pediatric patients due to its clinical heterogeneity, though it is often seen in children with neurodevelopmental disabilities, especially autism spectrum disorder (ASD). Emerging evidence implicates hyperactive catatonia in more cases of self-injury and aggression in ASD than previously thought.The study seeks to describe cases of hyperactive catatonia in SYNGAP-1 mutation and examine existing literature for symptomatic overlap between previously-described clinical and behavioral phenotypes of individuals with SYNGAP-1 mutations and catatonia.The study describes two cases of an adolescent and a young adult with SYNGAP-1 mutation and ASD presenting with hyperactive catatonia, which are the first reports of catatonia in individuals known to have a pathogenic variant in SYNGAP-1. A systematic review was undertaken during which 101 articles were screened. 13 articles were then examined for neurological and behavioral features present in participants with SYNGAP-1 mutations which are seen in catatonia.The systematic review demonstrates that clinical features suggestive of catatonia are frequently seen among individuals with SYNGAP-1 mutations, including verbal impairment, psychomotor symptoms, aggression, oral aversion, and incontinence. These features were also present in the cases of catatonia in SYNGAP-1 mutations presented here. Both patients showed clinical improvement with use of a long-acting benzodiazepine, and one patient showed benefit from electroconvulsive therapy.This symptomatic overlap revealed in the systematic review, including symptoms seen in the reported cases, raises the possibility that diagnoses of catatonia may have been missed in the past in individuals with SYNGAP-1 mutations. Self-injurious behavior and aggression, which are hallmarks of hyperactive catatonia, are commonly part of the behavioral phenotype of SYNGAP-1-related disorders. Clinicians should consider catatonia as a cause of such symptoms in individuals with SYNGAP-1 mutations, as effective treatment can result in significant improvement in safety and quality of life.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Hyperactive catatonia is often unrecognized in pediatric patients due to its clinical heterogeneity, though it is often seen in children with neurodevelopmental disabilities, especially autism spectrum disorder (ASD). Emerging evidence implicates hyperactive catatonia in more cases of self-injury and aggression in ASD than previously thought.The study seeks to describe cases of hyperactive catatonia in SYNGAP-1 mutation and examine existing literature for symptomatic overlap between previously-d",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39235394/",
+  "mesh_terms": [
+    "Adolescent",
+    "Female",
+    "Humans",
+    "Young Adult",
+    "Autism Spectrum Disorder",
+    "Catatonia",
+    "Mutation",
+    "ras GTPase-Activating Proteins"
+  ],
+  "keywords": [
+    "SYNGAP-1",
+    "autism spectrum disorder",
+    "case series",
+    "catatonia",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Case Reports",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

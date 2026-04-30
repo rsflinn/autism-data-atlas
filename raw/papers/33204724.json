@@ -1,0 +1,42 @@
+{
+  "pmid": "33204724",
+  "doi": "10.1155/2020/8872577",
+  "title": "Identification of a-Arrestin 2 Mutation Related to Autism by Whole-Exome Sequencing",
+  "authors": "Tang Y, Liu Y, Tong L, Feng S, Du D, Chen F",
+  "journal": "BioMed research international",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurological disease characterized by impaired social communication and interaction skills, rigid behavior, decreased interest, and repetitive activities. The disease has a high degree of genetic heterogeneity, and the genetic cause of ASD in many autistic individuals is currently unclear. In this study, we report a patient with ASD whose clinical features included social interaction disorder, communication disorder, and repetitive behavior. We examined the patient's genetic variation using whole-exome sequencing technology and found new de novo mutations. After analysis and evaluation, ARRB2 was identified as a candidate gene. To study the potential contribution of the ARRB2 gene to the human brain development and function, we first evaluated the expression profile of this gene in different brain regions and developmental stages. Then, we used weighted gene coexpression network analysis to analyze the associations between ARRB2 and ASD risk genes. Additionally, the spatial conformation and stability of the ARRB2 wild type and mutant proteins were examined by simulations. Then, we further established a mouse model of ASD. The results showed abnormal ARRB2 expression in the mouse ASD model. Our study showed that ARRB2 may be a risk gene for ASD, but the contribution of de novo ARRB2 mutations to ASD is unclear. This information will provide references for the etiology of ASD and aid in the mechanism-based drug development and treatment.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurological disease characterized by impaired social communication and interaction skills, rigid behavior, decreased interest, and repetitive activities. The disease has a high degree of genetic heterogeneity, and the genetic cause of ASD in many autistic individuals is currently unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33204724/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Female",
+    "Gene Expression Regulation",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Mutation",
+    "Valproic Acid",
+    "Exome Sequencing",
+    "beta-Arrestin 2"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

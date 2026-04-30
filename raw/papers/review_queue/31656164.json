@@ -1,0 +1,53 @@
+{
+  "pmid": "31656164",
+  "doi": "10.1186/s11689-019-9286-9",
+  "title": "Quantitative gait assessment in children with 16p11.2 syndrome",
+  "authors": "Goldman S, McCullough AK, Young SD, Mueller C, Stahl A, Zoeller A, et al.",
+  "journal": "Journal of neurodevelopmental disorders",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders such as 16p11.2 syndrome are frequently associated with motor impairments including locomotion. The lack of precise measures of gait, combined with the challenges inherent in studying children with neurodevelopmental disorders, hinders quantitative motor assessments. Gait and balance are quantifiable measures that may help to refine the motor phenotype in 16p11.2. The characterization of motor profile is useful to study the trajectories of locomotion performance of children with genetic variants and may provide insights into neural pathway dysfunction based on genotype/phenotype model.\n\nThirty-six children (21 probands with 16p11.2 deletion and duplication mutation and 15 unaffected siblings), with a mean age of 8.5&#x2009;years (range 3.2-15.4) and 55% male, were enrolled. Of the probands, 23% (n&#x2009;=&#x2009;6) had a confirmed diagnosis of autism spectrum disorder (ASD) and were all male. Gait assessments included 6-min walk test (6MWT), 10-m walk/run test (10MWR), timed-up-and-go test (TUG), and spatio-temporal measurements of preferred- and fast-paced walking. The Pediatric Evaluation of Disability Inventory-Computer Adaptive Tests (PEDI-CAT), a caregiver-reported functional assessment, was administered. Measures of balance were calculated using percent time in double support and base of support. Analyses of the six children with ASD were described separately.\n\nThirty-six participants completed the protocol. Compared with sibling controls, probands had significantly lower scores on the 6MWT (p&#x2009;=&#x2009;0.04), 10MWR (p&#x2009;=&#x2009;0.01), and TUG (p&#x2009;=&#x2009;0.005). Group differences were also identified in base of support (p&#x2009;=&#x2009;0.003). Probands had significantly lower PEDI-CAT scores in all domains including the mobility scale (p&#x2009;<&#x2009;0.001). Using age-matched subsamples, the ASD and non-ASD genetic variant groups had larger base of support compared to the controls. In the fast-paced condition, all participants increased their velocity, and there was a corresponding decrease in percent time in double support compared to the preferred-pace condition in all participants. Only the ASD group presented with upper limb arm/hand stereotypies.\n\nChildren with 16p11.2, with and without ASD, present with balance impairment during locomotion activities. Probands performed worse on functional assessments, and quantitative measures revealed differences in base of support. These results highlight the importance of using precise measures to differentiate motor dysfunction in children with neurodevelopmental disorders.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders such as 16p11.2 syndrome are frequently associated with motor impairments including locomotion. The lack of precise measures of gait, combined with the challenges inherent in studying children with neurodevelopmental disorders, hinders quantitative motor assessments.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31656164/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Female",
+    "Gait Disorders, Neurologic",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Motor Activity",
+    "Motor Skills",
+    "Postural Balance",
+    "Siblings"
+  ],
+  "keywords": [
+    "16p11.2",
+    "Autism spectrum disorder",
+    "Children",
+    "Gait",
+    "Motor function",
+    "Neurodevelopment disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

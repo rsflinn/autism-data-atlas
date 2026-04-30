@@ -1,0 +1,51 @@
+{
+  "pmid": "29479405",
+  "doi": "10.1186/s13229-017-0183-3",
+  "title": "Advanced glycation endproducts, dityrosine and arginine transporter dysfunction in autism - a source of biomarkers for clinical diagnosis",
+  "authors": "Anwar A, Abruzzo PM, Pasha S, Rajpoot K, Bolotta A, Ghezzo A, et al.",
+  "journal": "Molecular autism",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "Clinical chemistry tests for autism spectrum disorder (ASD) are currently unavailable. The aim of this study was to explore the diagnostic utility of proteotoxic biomarkers in plasma and urine, plasma protein glycation, oxidation, and nitration adducts, and related glycated, oxidized, and nitrated amino acids (free adducts), for the clinical diagnosis of ASD.\n\nThirty-eight children with ASD (29 male, 9 female; age 7.6&#x2009;&#xb1;&#x2009;2.0&#xa0;years) and 31 age-matched healthy controls (23 males, 8 females; 8.6&#x2009;&#xb1;&#x2009;2.0&#xa0;years) were recruited for this study. Plasma protein glycation, oxidation, and nitration adducts and amino acid metabolome in plasma and urine were determined by stable isotopic dilution analysis liquid chromatography-tandem mass spectrometry. Machine learning methods were then employed to explore and optimize combinations of analyte data for ASD diagnosis.\n\nWe found that children with ASD had increased advanced glycation endproducts (AGEs),-carboxymethyl-lysine (CML) and-carboxymethylarginine (CMA), and increased oxidation damage marker, dityrosine (DT), in plasma protein, with respect to healthy controls. We also found that children with ASD had increased CMA free adduct in plasma ultrafiltrate and increased urinary excretion of oxidation free adducts, alpha-aminoadipic semialdehyde and glutamic semialdehyde. From study of renal handling of amino acids, we found that children with ASD had decreased renal clearance of arginine and CMA with respect to healthy controls. Algorithms to discriminate between ASD and healthy controls gave strong diagnostic performance with features: plasma protein AGEs-CML, CMA-and 3-deoxyglucosone-derived hydroimidazolone, and oxidative damage marker, DT. The sensitivity, specificity, and receiver operating characteristic area-under-the-curve were 92%, 84%, and 0.94, respectively.\n\nChanges in plasma AGEs were likely indicative of dysfunctional metabolism of dicarbonyl metabolite precursors of AGEs, glyoxal and 3-deoxyglucosone. DT is formed enzymatically by dual oxidase (DUOX); selective increase of DT as an oxidative damage marker implicates increased DUOX activity in ASD possibly linked to impaired gut mucosal immunity. Decreased renal clearance of arginine and CMA in ASD is indicative of increased arginine transporter activity which may be a surrogate marker of disturbance of neuronal availability of amino acids. Data driven combination of these biomarkers perturbed by proteotoxic stress, plasma protein AGEs and DT, gave diagnostic algorithms of high sensitivity and specificity for ASD.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Clinical chemistry tests for autism spectrum disorder (ASD) are currently unavailable. The aim of this study was to explore the diagnostic utility of proteotoxic biomarkers in plasma and urine, plasma protein glycation, oxidation, and nitration adducts, and related glycated, oxidized, and nitrated amino acids (free adducts), for the clinical diagnosis of ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29479405/",
+  "mesh_terms": [
+    "Amino Acid Transport Systems, Basic",
+    "Arginine",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Child",
+    "Female",
+    "Glycation End Products, Advanced",
+    "Humans",
+    "Lysine",
+    "Machine Learning",
+    "Male",
+    "Oxidative Stress",
+    "Sensitivity and Specificity",
+    "Tyrosine"
+  ],
+  "keywords": [
+    "Advanced glycation endproducts (AGEs)",
+    "Amino acid metabolome",
+    "Autism spectrum disorder (ASD)",
+    "Machine learning",
+    "Oxidative stress"
+  ],
+  "article_types": [
+    "Evaluation Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

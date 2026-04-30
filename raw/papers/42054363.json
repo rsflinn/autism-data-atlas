@@ -1,0 +1,40 @@
+{
+  "pmid": "42054363",
+  "doi": "10.1073/pnas.2509781123",
+  "title": "Multimodal analysis reveals cellular diversity and divergent circuits of the zona incerta",
+  "authors": "Kast R, Simmons SK, Rome N, Adiconis X, Melamed L, McCabe KA, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "The zona incerta (ZI) plays an important role in diverse behavioral functions and is an emerging clinical target for deep brain stimulation to treat neurological conditions. Despite their importance, the cell type composition of the ZI and the anatomical circuit organization linking specific ZI cell types to brain-wide circuits remain unclear. In this study, we used single-nucleus RNA-sequencing, spatial RNA profiling, ex vivo electrophysiology, and anatomical circuit mapping to generate a multimodal cellular atlas of the ZI and to characterize the brain-wide monosynaptic inputs to specific ZI cell types. We define four genetically distinct populations of ZI GABAergic neurons that display unique spatial distributions, specialized intrinsic electrophysiological properties, divergent efferent projections, and cell-type-dependent synaptic input patterns. Finally, using fiber photometry, we reveal response divergence between distinct ZI cell types in a behavioral assay that centers around approach-avoidance conflict produced by appetitive and innately aversive stimuli. This study thus provides a foundational resource for the design and interpretation of future experiments aimed at understanding the organization and function of the ZI.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The zona incerta (ZI) plays an important role in diverse behavioral functions and is an emerging clinical target for deep brain stimulation to treat neurological conditions. Despite their importance, the cell type composition of the ZI and the anatomical circuit organization linking specific ZI cell types to brain-wide circuits remain unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42054363/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Zona Incerta",
+    "GABAergic Neurons",
+    "Male",
+    "Mice, Inbred C57BL"
+  ],
+  "keywords": [
+    "GABAergic",
+    "single nucleus RNA-sequencing",
+    "snRNA-seq",
+    "zona incerta"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

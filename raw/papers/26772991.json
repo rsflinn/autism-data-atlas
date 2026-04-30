@@ -1,0 +1,46 @@
+{
+  "pmid": "26772991",
+  "doi": "10.1016/j.ygeno.2016.01.001",
+  "title": "A genomic view on epilepsy and autism candidate genes",
+  "authors": "Jabbari K, N&#xfc;rnberg P",
+  "journal": "Genomics",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Epilepsy is a common complex disorder most frequently associated with psychiatric and neurological diseases. Massive parallel sequencing of individual or cohort genomes and exomes led the identification of several disease associated genes. We review here the candidate genes in epilepsy genetics with focus on exome and gene panel data. Together with the examination of brain expressed genes and post synaptic proteome the results show that: (1) Non-metabolic epilepsies and autism candidate genes tend to be AT-rich and (2) large transcript size and local AT-richness are characteristic features of genes involved in developmental brain disorders and synaptic functions. These results point to the preferential location of core epilepsy and autism candidate genes in late replicating, GC-poor chromosomal regions (isochores). These results indicate that the genomic alterations leading to some brain disorders are confined to responsive chromatin areas harboring brain critical genes.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Epilepsy is a common complex disorder most frequently associated with psychiatric and neurological diseases. Massive parallel sequencing of individual or cohort genomes and exomes led the identification of several disease associated genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26772991/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Brain",
+    "Epilepsy",
+    "Gene Expression Profiling",
+    "Genetic Predisposition to Disease",
+    "Genome, Human",
+    "Genomics",
+    "Humans",
+    "Isochores",
+    "Proteome"
+  ],
+  "keywords": [
+    "Brain",
+    "Chromatin",
+    "Isochores",
+    "Lamina",
+    "Replication timing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

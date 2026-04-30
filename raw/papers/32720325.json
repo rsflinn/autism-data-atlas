@@ -1,0 +1,53 @@
+{
+  "pmid": "32720325",
+  "doi": "10.1111/cge.13819",
+  "title": "Inherited cases of CNOT3-associated intellectual developmental disorder with speech delay, autism, and dysmorphic facies",
+  "authors": "Meyer R, Begemann M, Demuth S, Kraft F, Dey D, Sch&#xfc;ler H, et al.",
+  "journal": "Clinical genetics",
+  "date": "2020-08",
+  "source": "pubmed",
+  "abstract": "De novo pathogenic variants in CNOT3 have recently been reported in a developmental delay disorder (intellectual developmental disorder with speech delay, autism, and dysmorphic facies [IDDSADF, OMIM: #618672]). The patients present with a variable degree of developmental delay and behavioral problems. To date, all reported disease-causing variants occurred de novo and no parent-child transmission was observed. We report for the first time autosomal dominant transmissions of the CNOT3-associated developmental disorder in two unrelated families. The clinical characteristics in our patients match the IDDSADF features reported so far and suggest substantial variability of the phenotype within the same family.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "De novo pathogenic variants in CNOT3 have recently been reported in a developmental delay disorder (intellectual developmental disorder with speech delay, autism, and dysmorphic facies [IDDSADF, OMIM: #618672]). The patients present with a variable degree of developmental delay and behavioral problems.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32720325/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Facies",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Intellectual Disability",
+    "Language Development Disorders",
+    "Male",
+    "Middle Aged",
+    "Phenotype",
+    "Transcription Factors",
+    "Exome Sequencing",
+    "Young Adult"
+  ],
+  "keywords": [
+    "CNOT3",
+    "familial transmission",
+    "intellectual disability",
+    "neurodevelopmental disorder",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

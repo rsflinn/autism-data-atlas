@@ -1,0 +1,43 @@
+{
+  "pmid": "32147509",
+  "doi": "10.1016/j.neuroscience.2020.02.043",
+  "title": "Neurobiological Mechanisms of Autism Spectrum Disorder and Epilepsy, Insights from Animal Models",
+  "authors": "Sierra-Arregui T, Llorente J, Gim&#xe9;nez Minguez P, T&#xf8;nnesen J, Pe&#xf1;agarikano O",
+  "journal": "Neuroscience",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) and epilepsy are two neurodevelopmental disorders that have a high comorbidity rate, suggesting that a common neurodevelopmental mechanism exists. However, to date there is no conclusive way to predict whether a child will develop either syndrome or both and to what degree associated phenotypes will be affected. Failure to consistently identify predictive patterns of ASD and/or epilepsy diagnosis stems from the fact that they are etiologically heterogeneous conditions and research into their neuropathological mechanisms becomes challenging. Whole genome/exome sequencing has advanced our understanding of the genetic causes of ASD and epilepsy to an extent that currently about half of all ASD as well as epilepsy cases are known to have a genetic basis. In fact, a picture is emerging of both conditions as a collection of distinct genetically defined disorders, although the role of environmental factors has also been established. A plethora of animal models, most of them based on identified human genetic mutations and a few on known environmental causes, have been developed. Animal models provide a major experimental avenue for studying the underlying cellular and molecular mechanisms of human disorders. They also provide invaluable preclinical tools that can be used to test therapeutic approaches. In this review, we first summarize the methods for validating mouse models of ASD and epilepsy. Second, we present the current models validated for the comorbidity and finally, we recapitulate the common pathomechanisms identified in these models with special emphasis on synaptic plasticity.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) and epilepsy are two neurodevelopmental disorders that have a high comorbidity rate, suggesting that a common neurodevelopmental mechanism exists. However, to date there is no conclusive way to predict whether a child will develop either syndrome or both and to what degree associated phenotypes will be affected.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32147509/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Comorbidity",
+    "Epilepsy",
+    "Neurobiology",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "animal model",
+    "autism",
+    "epilepsy",
+    "seizure",
+    "social behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

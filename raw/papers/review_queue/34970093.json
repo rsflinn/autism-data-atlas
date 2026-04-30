@@ -1,0 +1,45 @@
+{
+  "pmid": "34970093",
+  "doi": null,
+  "title": "Raising Knowledge and Awareness of Fragile X Syndrome in Serbia, Georgia, and Colombia: A Model for Other Developing Countries?",
+  "authors": "Protic D, Salcedo-Arellano MJ, Stojkovic M, Saldarriaga W, &#xc1;vila Vidal LA, Miller RM, et al.",
+  "journal": "The Yale journal of biology and medicine",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome is the most common monogenetic cause of inherited intellectual disability and syndromic autism spectrum disorder. Fragile X syndrome is caused by an expansion (full mutation &#x2265;200 CGGs repeats, normal 10-45 CGGs) of the fragile X mental retardation 1 () gene, epigenetic silencing of the gene, which leads to reduction or lack of the gene's product: the fragile X mental retardation protein. In this cross-sectional study, we assessed general and pharmacotherapy knowledge (GK and PTK) of fragile X syndrome and satisfaction with education in neurodevelopmental disorders (NDDs) among senior medical students in Serbia (N=348), Georgia (N=112), and Colombia (N=58). A self-administered 18-item questionnaire included GK (8/18) and PTK (7/18) components and self-assessment of the participants education in NDDs (3/18). Roughly 1 in 5 respondents had correct answers on half or more facts about fragile X syndrome (GK>PTK), which ranged similarly 5-7 in Serbia, 6-8 in Georgia, and 5-8 in Colombia, respectively. No cohort had an average value greater than 9 (60%) that would represent passing score \"cut-off.\" None of the participants answered all the questions correctly. More than two-thirds of the participants concluded that they gained inadequate knowledge of NDDs during their studies, and that their education in this field should be more intense. In conclusion, there is a major gap in knowledge regarding fragile X syndrome among senior medical students in these three developing countries. The finding could at least in part be generalized to other developing countries aimed toward increasing knowledge and awareness of NDDs and fostering an institutional collaboration between developed and developing countries.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome is the most common monogenetic cause of inherited intellectual disability and syndromic autism spectrum disorder. Fragile X syndrome is caused by an expansion (full mutation &#x2265;200 CGGs repeats, normal 10-45 CGGs) of the fragile X mental retardation 1 () gene, epigenetic silencing of the gene, which leads to reduction or lack of the gene's product: the fragile X mental retardation protein.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34970093/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Colombia",
+    "Cross-Sectional Studies",
+    "Developing Countries",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Georgia (Republic)",
+    "Humans",
+    "Mutation",
+    "Serbia"
+  ],
+  "keywords": [
+    "Fragile X syndrome",
+    "developing countries",
+    "knowledge and awareness",
+    "medical collaboration"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

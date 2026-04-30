@@ -1,0 +1,49 @@
+{
+  "pmid": "30563709",
+  "doi": "10.1016/j.tins.2018.11.002",
+  "title": "The Role of De Novo Noncoding Regulatory Mutations in Neurodevelopmental Disorders",
+  "authors": "Turner TN, Eichler EE",
+  "journal": "Trends in neurosciences",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Advances in sequencing technology have significantly expanded our understanding of the genetics of autism and neurodevelopmental disorders (NDDs). Continued technological improvements and cost reductions have now shifted the focus to investigations into the functional noncoding portions of the genome. There is a patient trend toward an excess of de novo and potentially disruptive mutations among conserved noncoding sequences implicated in the regulation of genes. The signals become stronger when restricted to genes already implicated in NDDs, but de novo mutation in such elements is estimated to account for <5% of patients. Larger sample sizes, improved variant detection, functional testing, and better approaches to classify noncoding variation will be required to identify specific pathogenic variants underlying disease.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Advances in sequencing technology have significantly expanded our understanding of the genetics of autism and neurodevelopmental disorders (NDDs). Continued technological improvements and cost reductions have now shifted the focus to investigations into the functional noncoding portions of the genome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30563709/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "DNA",
+    "Gene Expression Regulation",
+    "Genetic Predisposition to Disease",
+    "Genome, Human",
+    "Humans",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "RNA, Untranslated",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [
+    "autism",
+    "genetic architecture",
+    "genome sequencing",
+    "neurodevelopmental disorders",
+    "noncoding",
+    "regulatory mutations"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

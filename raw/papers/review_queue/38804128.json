@@ -1,0 +1,44 @@
+{
+  "pmid": "38804128",
+  "doi": "10.1161/CIRCGEN.123.004320",
+  "title": "Meta-Analysis of Genome-Wide Association Studies Reveals Genetic Mechanisms of Supraventricular Arrhythmias",
+  "authors": "Weng LC, Khurshid S, Hall AW, Nauffal V, Morrill VN, Sun YV, et al.",
+  "journal": "Circulation. Genomic and precision medicine",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Substantial data support a heritable basis for supraventricular tachycardias, but the genetic determinants and molecular mechanisms of these arrhythmias are poorly understood. We sought to identify genetic loci associated with atrioventricular nodal reentrant tachycardia (AVNRT) and atrioventricular accessory pathways or atrioventricular reciprocating tachycardia (AVAPs/AVRT).\n\nWe performed multiancestry meta-analyses of genome-wide association studies to identify genetic loci for AVNRT (4 studies) and AVAP/AVRT (7 studies). We assessed evidence supporting the potential causal effects of candidate genes by analyzing relations between associated variants and cardiac gene expression, performing transcriptome-wide analyses, and examining prior genome-wide association studies.\n\nAnalyses comprised 2384 AVNRT cases and 106&#x2005;489 referents, and 2811 AVAP/AVRT cases and 1,483&#x2005;093 referents. We identified 2 significant loci for AVNRT, which implicateandas disease susceptibility genes. A transcriptome-wide association analysis supported an association between reduced predicted cardiac expression ofand AVNRT. We identified 3 significant loci for AVAP/AVRT, which implicate,, and. Variant associations at several loci have been previously reported for cardiac phenotypes, including atrial fibrillation, stroke, Brugada syndrome, and electrocardiographic intervals.\n\nOur findings highlight gene regions associated with ion channel function (AVAP/AVRT), as well as cardiac development and the sarcomere (AVAP/AVRT and AVNRT) as important potential effectors of supraventricular tachycardia susceptibility.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Substantial data support a heritable basis for supraventricular tachycardias, but the genetic determinants and molecular mechanisms of these arrhythmias are poorly understood. We sought to identify genetic loci associated with atrioventricular nodal reentrant tachycardia (AVNRT) and atrioventricular accessory pathways or atrioventricular reciprocating tachycardia (AVAPs/AVRT).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38804128/",
+  "mesh_terms": [
+    "Humans",
+    "Genome-Wide Association Study",
+    "Tachycardia, Supraventricular",
+    "Genetic Predisposition to Disease",
+    "Tachycardia, Atrioventricular Nodal Reentry",
+    "Polymorphism, Single Nucleotide",
+    "Connectin",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "atrial fibrillation",
+    "genome-wide association study",
+    "heart rate",
+    "heart ventricles",
+    "tachycardia, supraventricular"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ]
+}

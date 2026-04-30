@@ -1,0 +1,44 @@
+{
+  "pmid": "32989314",
+  "doi": "10.1038/s41591-020-1043-9",
+  "title": "Neuronal defects in a human cellular model of 22q11.2 deletion syndrome",
+  "authors": "Khan TA, Revah O, Gordon A, Yoon SJ, Krawisz AK, Goold C, et al.",
+  "journal": "Nature medicine",
+  "date": "2020-09",
+  "source": "pubmed",
+  "abstract": "22q11.2 deletion syndrome (22q11DS) is a highly penetrant and common genetic cause of neuropsychiatric disease. Here we generated induced pluripotent stem cells from 15 individuals with 22q11DS and 15 control individuals and differentiated them into three-dimensional (3D) cerebral cortical organoids. Transcriptional profiling across 100 days showed high reliability of differentiation and revealed changes in neuronal excitability-related genes. Using electrophysiology and live imaging, we identified defects in spontaneous neuronal activity and calcium signaling in both organoid- and 2D-derived cortical neurons. The calcium deficit was related to resting membrane potential changes that led to abnormal inactivation of voltage-gated calcium channels. Heterozygous loss of DGCR8 recapitulated the excitability and calcium phenotypes and its overexpression rescued these defects. Moreover, the 22q11DS calcium abnormality could also be restored by application of antipsychotics. Taken together, our study illustrates how stem cell derived models can be used to uncover and rescue cellular phenotypes associated with genetic forms of neuropsychiatric disease.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "22q11.2 deletion syndrome (22q11DS) is a highly penetrant and common genetic cause of neuropsychiatric disease. Here we generated induced pluripotent stem cells from 15 individuals with 22q11DS and 15 control individuals and differentiated them into three-dimensional (3D) cerebral cortical organoids.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32989314/",
+  "mesh_terms": [
+    "Adult",
+    "Calcium Signaling",
+    "Cell Differentiation",
+    "Cerebral Cortex",
+    "DiGeorge Syndrome",
+    "Female",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Male",
+    "Neurons",
+    "Organoids",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

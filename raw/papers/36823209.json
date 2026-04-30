@@ -1,0 +1,41 @@
+{
+  "pmid": "36823209",
+  "doi": "10.1038/s41398-023-02341-5",
+  "title": "Polygenic risk score-based phenome-wide association study identifies novel associations for Tourette syndrome",
+  "authors": "Jain P, Miller-Fleming T, Topaloudi A, Yu D, Drineas P, Georgitsi M, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Tourette Syndrome (TS) is a complex neurodevelopmental disorder characterized by vocal and motor tics lasting more than a year. It is highly polygenic in nature with both rare and common previously associated variants. Epidemiological studies have shown TS to be correlated with other phenotypes, but large-scale phenome wide analyses in biobank level data have not been performed to date. In this study, we used the summary statistics from the latest meta-analysis of TS to calculate the polygenic risk score (PRS) of individuals in the UK Biobank data and applied a Phenome Wide Association Study (PheWAS) approach to determine the association of disease risk with a wide range of phenotypes. A total of 57 traits were found to be significantly associated with TS polygenic risk, including multiple psychosocial factors and mental health conditions such as anxiety disorder and depression. Additional associations were observed with complex non-psychiatric disorders such as Type 2 diabetes, heart palpitations, and respiratory conditions. Cross-disorder comparisons of phenotypic associations with genetic risk for other childhood-onset disorders (e.g.: attention deficit hyperactivity disorder [ADHD], autism spectrum disorder [ASD], and obsessive-compulsive disorder [OCD]) indicated an overlap in associations between TS and these disorders. ADHD and ASD had a similar direction of effect with TS while OCD had an opposite direction of effect for all traits except mental health factors. Sex-specific PheWAS analysis identified differences in the associations with TS genetic risk between males and females. Type 2 diabetes and heart palpitations were significantly associated with TS risk in males but not in females, whereas diseases of the respiratory system were associated with TS risk in females but not in males. This analysis provides further evidence of shared genetic and phenotypic architecture of different complex disorders.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Tourette Syndrome (TS) is a complex neurodevelopmental disorder characterized by vocal and motor tics lasting more than a year. It is highly polygenic in nature with both rare and common previously associated variants.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36823209/",
+  "mesh_terms": [
+    "Male",
+    "Female",
+    "Humans",
+    "Tourette Syndrome",
+    "Diabetes Mellitus, Type 2",
+    "Autism Spectrum Disorder",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

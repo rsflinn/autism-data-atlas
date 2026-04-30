@@ -1,0 +1,38 @@
+{
+  "pmid": "26105128",
+  "doi": "10.1007/s13311-015-0363-9",
+  "title": "Discovery of Rare Mutations in Autism: Elucidating Neurodevelopmental Mechanisms",
+  "authors": "Gamsiz ED, Sciarra LN, Maguire AM, Pescosolido MF, van Dyck LI, Morrow EM",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "date": "2015-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a group of highly genetic neurodevelopmental disorders characterized by language, social, cognitive, and behavioral abnormalities. ASD is a complex disorder with a heterogeneous etiology. The genetic architecture of autism is such that a variety of different rare mutations have been discovered, including rare monogenic conditions that involve autistic symptoms. Also, de novo copy number variants and single nucleotide variants contribute to disease susceptibility. Finally, autosomal recessive loci are contributing to our understanding of inherited factors. We will review the progress that the field has made in the discovery of these rare genetic variants in autism. We argue that mutation discovery of this sort offers an important opportunity to identify neurodevelopmental mechanisms in disease. The hope is that these mechanisms will show some degree of convergence that may be amenable to treatment intervention.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a group of highly genetic neurodevelopmental disorders characterized by language, social, cognitive, and behavioral abnormalities. ASD is a complex disorder with a heterogeneous etiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26105128/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Mutation",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "37372334",
+  "doi": "10.3390/genes14061154",
+  "title": "Rett-like Phenotypes in-Related Neurodevelopmental Disorder",
+  "authors": "Gonzalez JN, Goldman S, Carter MT, Bain JM",
+  "journal": "Genes",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Rett Syndrome (RTT) is a neurodevelopmental disorder with a prevalence of 1:10,000 to 15,000 females worldwide. Classic Rett Syndrome presents in early childhood with a period of developmental regression, loss of purposeful hand skills along with hand stereotypies, gait abnormalities, and loss of acquired speech. Atypical RTT is diagnosed when a child shows some but not all the phenotypes of classic RTT, along with additional supporting criteria. Over 95% of classic RTT cases are attributed to pathogenic variants in Methyl-CpG Binding Protein 2 (), though additional genes have been implicated in other RTT cases, particularly those with the atypical RTT clinical picture. Other genetic etiologies have emerged with similar clinical characteristics to RTT Syndrome. Our team has characterized-related neurodevelopmental disorder (RNDD) in 33 individuals associated with de novo pathogenic missense variants in the X-linkedgene, characterized by developmental delay, intellectual disability, seizures, autistic-like features, and motor abnormalities. We sought to further characterize RTT clinical features in this group of individuals by using caregiver report. Twenty-six caregivers completed electronic surveys, with only 3 individuals having previously received an atypical RTT diagnosis, and no individuals with a typical RTT diagnosis. Caregivers reported a high number of behaviors and/or phenotypes consistent with RTT, including the major criteria of the syndrome, such as regression of developmental skills and abnormal gait. Based on the survey results, 12 individuals could meet the diagnostic clinical criteria for atypical RTT Syndrome. In summary, individuals withRNDD exhibit clinical characteristics that overlap with those of RTT, and therefore,RNDD, should be considered on the differential diagnosis list with this clinical picture.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Rett Syndrome (RTT) is a neurodevelopmental disorder with a prevalence of 1:10,000 to 15,000 females worldwide. Classic Rett Syndrome presents in early childhood with a period of developmental regression, loss of purposeful hand skills along with hand stereotypies, gait abnormalities, and loss of acquired speech.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37372334/",
+  "mesh_terms": [
+    "Female",
+    "Child, Preschool",
+    "Humans",
+    "Rett Syndrome",
+    "Mutation",
+    "Phenotype",
+    "Intellectual Disability",
+    "Heterogeneous-Nuclear Ribonucleoprotein Group F-H"
+  ],
+  "keywords": [
+    "HNRNPH2",
+    "HNRNPH2-related neurodevelopmental disorder (HNRNPH2-RNDD)",
+    "Rett Syndrome",
+    "Rett-like phenotypes",
+    "neurodevelopmental disorder",
+    "neurodevelopmental disorder (NDD)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

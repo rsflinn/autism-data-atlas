@@ -1,0 +1,39 @@
+{
+  "pmid": "25588580",
+  "doi": "10.1007/s13311-014-0328-4",
+  "title": "Reversing synapse loss in Alzheimer's disease: Rho-guanosine triphosphatases and insights from other brain disorders",
+  "authors": "Lefort R",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "date": "2015-01",
+  "source": "pubmed",
+  "abstract": "Alzheimer's disease (AD) is a monumental public health crisis with no effective cure or treatment. To date, therapeutic strategies have focused almost exclusively on upstream signaling events in the disease, namely on &#x3b2;-amyloid and amyloid precursor protein processing, and have, unfortunately, yielded few, if any, promising results. An alternative approach may be to target signaling events downstream of &#x3b2;-amyloid and even tau. However, with so many pathways already linked to the disease, understanding which ones are \"drivers\" versus \"passengers\" in the pathogenesis of the disease remains a tremendous challenge. Given the critical roles of Rho-guanosine triphosphatases (GTPases) in regulating the actin cytoskeleton and spine dynamics, and the strong association between spine abnormalities and cognition, it is not surprising that mutations in a number of genes involved in Rho-GTPase signaling have been implicated in several brain disorders, including schizophrenia and autism. And now, there is mounting literature implicating Rho-GTPase signaling in AD pathogenesis as well. Here, I review this evidence, with a particular emphasis on the regulators of Rho-GTPase signaling, namely guanine nucleotide exchange factors and GTPase-activating proteins. Several of these have been linked to various aspects of AD, and each offers a novel potential therapeutic target for AD.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Alzheimer's disease (AD) is a monumental public health crisis with no effective cure or treatment. To date, therapeutic strategies have focused almost exclusively on upstream signaling events in the disease, namely on &#x3b2;-amyloid and amyloid precursor protein processing, and have, unfortunately, yielded few, if any, promising results.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25588580/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Animals",
+    "Brain Diseases",
+    "GTPase-Activating Proteins",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Signal Transduction",
+    "Synapses",
+    "rho GTP-Binding Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

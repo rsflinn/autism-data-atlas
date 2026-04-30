@@ -1,0 +1,53 @@
+{
+  "pmid": "37802044",
+  "doi": "10.1016/j.ajhg.2023.09.004",
+  "title": "Heterozygous deletion of the autism-associated gene CHD8 impairs synaptic function through widespread changes in gene expression and chromatin compaction",
+  "authors": "Shi X, Lu C, Corman A, Nikish A, Zhou Y, Platt RJ, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Whole-exome sequencing of autism spectrum disorder (ASD) probands and unaffected family members has identified many genes harboring de novo variants suspected to play a causal role in the disorder. Of these, chromodomain helicase DNA-binding protein 8 (CHD8) is the most recurrently mutated. Despite the prevalence of CHD8 mutations, we have little insight into how CHD8 loss affects genome organization or the functional consequences of these molecular alterations in neurons. Here, we engineered two isogenic human embryonic stem cell lines with CHD8 loss-of-function mutations and characterized differences in differentiated human cortical neurons. We identified hundreds of genes with altered expression, including many involved in neural development and excitatory synaptic transmission. Field recordings and single-cell electrophysiology revealed a 3-fold decrease in firing rates and synaptic activity in CHD8neurons, as well as a similar firing-rate deficit in primary cortical neurons from Chd8mice. These alterations in neuron and synapse function can be reversed by CHD8 overexpression. Moreover, CHD8neurons displayed a large increase in open chromatin across the genome, where the greatest change in compaction was near autism susceptibility candidate 2 (AUTS2), which encodes a transcriptional regulator implicated in ASD. Genes with changes in chromatin accessibility and expression in CHD8neurons have significant overlap with genes mutated in probands for ASD, intellectual disability, and schizophrenia but not with genes mutated in healthy controls or other disease cohorts. Overall, this study characterizes key molecular alterations in genome structure and expression in CHD8neurons and links these changes to impaired neuronal and synaptic function.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Whole-exome sequencing of autism spectrum disorder (ASD) probands and unaffected family members has identified many genes harboring de novo variants suspected to play a causal role in the disorder. Of these, chromodomain helicase DNA-binding protein 8 (CHD8) is the most recurrently mutated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37802044/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Chromatin",
+    "DNA-Binding Proteins",
+    "Gene Expression",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "ASD",
+    "CHD8",
+    "CRISPR",
+    "autism",
+    "chromatin",
+    "chromodomain",
+    "helicase",
+    "isogenic",
+    "neurodevelopment",
+    "synaptic transmission"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

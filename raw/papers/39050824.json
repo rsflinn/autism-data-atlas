@@ -1,0 +1,36 @@
+{
+  "pmid": "39050824",
+  "doi": "10.3389/fnmol.2024.1401746",
+  "title": "Context-dependent hyperactivity inandzebrafish models of SYNGAP1-related disorder",
+  "authors": "Sumathipala SH, Khan S, Kozol RA, Araki Y, Syed S, Huganir RL, et al.",
+  "journal": "Frontiers in molecular neuroscience",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "SYNGAP1-related disorder (SYNGAP1-RD) is a prevalent genetic form of Autism Spectrum Disorder and Intellectual Disability (ASD/ID) and is caused byor inherited mutations in one copy of thegene. In addition to ASD/ID, SYNGAP1 disorder is associated with comorbid symptoms including treatment-resistant-epilepsy, sleep disturbances, and gastrointestinal distress. Mechanistic links between these diverse symptoms andvariants remain obscure, therefore, our goal was to generate a zebrafish model in which this range of symptoms can be studied.\n\nWe used CRISPR/Cas9 to introduce frameshift mutations in theandzebrafish duplicates () and validated these stable models for Syngap1 loss-of-function. Becauseis extensively spliced, we mapped splice variants to the two zebrafishandgenes and identified mammalian-like isoforms. We then quantified locomotory behaviors in zebrafishlarvae under three conditions that normally evoke different arousal states in wild-type larvae: aversive, high-arousal acoustic, medium-arousal dark, and low-arousal light stimuli.\n\nWe show that CRISPR/Cas9 indels in zebrafishandproduced loss-of-function alleles at RNA and protein levels. Our analyses of zebrafish Syngap1 isoforms showed that, as in mammals, zebrafish Syngap1 N- and C-termini are extensively spliced. We identified a zebrafish&#x3b1;1-like variant that maps exclusively to thegene. Quantifying locomotor behaviors showed thatmutant larvae are hyperactive compared to wild-type but to differing degrees depending on the stimulus. Hyperactivity was most pronounced in low arousal settings, and hyperactivity was proportional to the number of mutantalleles.\n\nloss-of-function mutations produce relatively subtle phenotypes in zebrafish compared to mammals. For example, while mousehomozygotes die at birth, zebrafishsurvive to adulthood and are fertile, thus some aspects of symptoms in people withRelated Disorder are not likely to be reflected in zebrafish.\n\nOur data support mutations in zebrafishas causal for hyperactivity associated with elevated arousal that is especially pronounced in low-arousal environments.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "SYNGAP1-related disorder (SYNGAP1-RD) is a prevalent genetic form of Autism Spectrum Disorder and Intellectual Disability (ASD/ID) and is caused byor inherited mutations in one copy of thegene. In addition to ASD/ID, SYNGAP1 disorder is associated with comorbid symptoms including treatment-resistant-epilepsy, sleep disturbances, and gastrointestinal distress.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39050824/",
+  "mesh_terms": [],
+  "keywords": [
+    "autism",
+    "haploinsufficiency mutant profiling",
+    "sensory-processing",
+    "syngap1",
+    "zebrafish"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

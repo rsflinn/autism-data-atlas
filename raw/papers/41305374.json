@@ -1,0 +1,43 @@
+{
+  "pmid": "41305374",
+  "doi": "10.3390/pathogens14111137",
+  "title": "Gut Microbiotas, Plasma Metabolites, and Autism Spectrum Disorder: A Bidirectional Mendelian Randomization Analysis",
+  "authors": "Zhou J, Fu Z, Gao Y, An C, Zhang Z, Zhong X, et al.",
+  "journal": "Pathogens (Basel, Switzerland)",
+  "date": "2025-11",
+  "source": "pubmed",
+  "abstract": ": Previous studies have indicated that the gut microbiome and plasma metabolites play key roles in autism spectrum disorder (ASD), but their causal relationships remain unclear. Linkage disequilibrium score regression (LDSC) and Mendelian randomization (MR) are powerful tools for assessing genetic causality. This study uses LDSC and MR to investigate the genetic links between the gut microbiome and ASD and explore the mediating role of plasma metabolites.: To explore the genetic relationships between the gut microbiome, plasma metabolites, and ASD, we obtained summary statistics from large-scale genome-wide association studies (GWAS). Gut microbiome data came from a MiBioGen consortium meta-analysis (= 18,340), ASD data from the Danish Psychiatric Central Research Register (DPCRR) (= 18,382), and plasma metabolite data from the Canadian Longitudinal Study of Aging (CLSA)= 8299). We applied LDSC and bidirectional MR to analyze the genetic associations between the gut microbiome and ASD and plasma metabolites and ASD. Mediation MR was used to assess the mediating role of plasma metabolites in the gut microbiome-ASD relationship.: LDSC analysis revealed significant genetic correlations between the gut microbiotaNK4A136 group andwith ASD. Moreover, bidirectional MR demonstrated causal effects of five gut microbial genera on ASD risk, as indicated by inverse variance weighted (IVW) methods. Similarly, we identified 49 plasma metabolites that exhibited genetic correlations with ASD, and 58 metabolites had causal effects on ASD in MR analysis. Mediation analysis revealed that specific bacteria,, reduce the occurrence of ASD through metabolites Delta-CEHC and Docosadioate (C22-DC). Furthermore,andmodulate ASD by inhibiting Serotonin and N-acetyl-L-glutamine, respectively.: This study provides evidence of a causal relationship between the gut microbiome and ASD, with plasma metabolites acting as a potential mediator. Our findings offer new insights into the causal mechanisms linking the gut microbiome and ASD and provide a theoretical foundation for microbiome-based therapeutic strategies.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": ": Previous studies have indicated that the gut microbiome and plasma metabolites play key roles in autism spectrum disorder (ASD), but their causal relationships remain unclear. Linkage disequilibrium score regression (LDSC) and Mendelian randomization (MR) are powerful tools for assessing genetic causality.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41305374/",
+  "mesh_terms": [
+    "Humans",
+    "Gastrointestinal Microbiome",
+    "Autism Spectrum Disorder",
+    "Mendelian Randomization Analysis",
+    "Genome-Wide Association Study",
+    "Linkage Disequilibrium",
+    "Metabolome",
+    "Male",
+    "Female"
+  ],
+  "keywords": [
+    "ASD",
+    "gut microbiota",
+    "mendelian randomization",
+    "plasma metabolites"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

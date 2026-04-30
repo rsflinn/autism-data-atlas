@@ -1,0 +1,41 @@
+{
+  "pmid": "26050032",
+  "doi": "10.1016/j.neuron.2015.03.042",
+  "title": "The GABAA Receptor as a Therapeutic Target for Neurodevelopmental Disorders",
+  "authors": "Braat S, Kooy RF",
+  "journal": "Neuron",
+  "date": "2015-06",
+  "source": "pubmed",
+  "abstract": "Intellectual disability, autism spectrum disorder, and epilepsy are prime examples of neurodevelopmental disorders that collectively affect a significant percentage of the world population. Recent technological breakthroughs allowed the elucidation of the genetic causes of many of these disorders. As neurodevelopmental disorders are genetically heterogeneous, the development of rational therapy is extremely challenging. Fortunately, many causative genes are interconnected and cluster in specific cellular pathways. Targeting a common node in such a network would allow us to interfere with a series of related neurodevelopmental disorders at once. Here, we argue that the GABAergic system is disturbed in many neurodevelopmental disorders, including fragile X syndrome, Rett syndrome, and Dravet syndrome, and is a key candidate target for therapeutic intervention. Many drugs that modulate the GABAergic system have already been tested in animal models with encouraging outcomes and are readily available for clinical trials.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Intellectual disability, autism spectrum disorder, and epilepsy are prime examples of neurodevelopmental disorders that collectively affect a significant percentage of the world population. Recent technological breakthroughs allowed the elucidation of the genetic causes of many of these disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26050032/",
+  "mesh_terms": [
+    "Animals",
+    "Child Development Disorders, Pervasive",
+    "Developmental Disabilities",
+    "Drug Delivery Systems",
+    "Fragile X Syndrome",
+    "GABA Modulators",
+    "Humans",
+    "Nervous System Diseases",
+    "Receptors, GABA-A",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

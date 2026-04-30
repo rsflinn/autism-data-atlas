@@ -1,0 +1,41 @@
+{
+  "pmid": "34613815",
+  "doi": "10.1126/scitranslmed.abc0497",
+  "title": "Targeting integrated epigenetic and metabolic pathways in lethal childhood PFA ependymomas",
+  "authors": "Panwalkar P, Tamrazi B, Dang D, Chung C, Sweha S, Natarajan SK, et al.",
+  "journal": "Science translational medicine",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "Childhood posterior fossa group A ependymomas (PFAs) have limited treatment options and bear dismal prognoses compared to group B ependymomas (PFBs). PFAs overexpress the oncohistone-like protein EZHIP (enhancer of Zeste homologs inhibitory protein), causing global reduction of repressive histone H3 lysine 27 trimethylation (H3K27me3), similar to the oncohistone H3K27M. Integrated metabolic analyses in patient-derived cells and tumors, single-cell RNA sequencing of tumors, and noninvasive metabolic imaging in patients demonstrated enhanced glycolysis and tricarboxylic acid (TCA) cycle metabolism in PFAs. Furthermore, high glycolytic gene expression in PFAs was associated with a poor outcome. PFAs demonstrated high EZHIP expression associated with poor prognosis and elevated activating mark histone H3 lysine 27 acetylation (H3K27ac). Genomic H3K27ac was enriched in PFAs at key glycolytic and TCA cycle&#x2013;related genes includingand. Similarly, mouse neuronal stem cells (NSCs) expressing wild-type EZHIP (EZHIP-WT) versus catalytically attenuated EZHIP-M406K demonstrated H3K27ac enrichment atand, accompanied by enhanced glycolysis and TCA cycle metabolism.&#x3b1;, a key component of the metabolic regulator AMP-activated protein kinase (AMPK), also showed H3K27ac enrichment in PFAs and EZHIP-WT NSCs. The AMPK activator metformin lowered EZHIP protein concentrations, increased H3K27me3, suppressed TCA cycle metabolism, and showed therapeutic efficacy in vitro and in vivo in patient-derived PFA xenografts in mice. Our data indicate that PFAs and EZHIP-WT&#x2013;expressing NSCs are characterized by enhanced glycolysis and TCA cycle metabolism. Repurposing the antidiabetic drug metformin lowered pathogenic EZHIP, increased H3K27me3, and suppressed tumor growth, suggesting that targeting integrated metabolic/epigenetic pathways is a potential therapeutic strategy for treating childhood ependymomas.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Childhood posterior fossa group A ependymomas (PFAs) have limited treatment options and bear dismal prognoses compared to group B ependymomas (PFBs). PFAs overexpress the oncohistone-like protein EZHIP (enhancer of Zeste homologs inhibitory protein), causing global reduction of repressive histone H3 lysine 27 trimethylation (H3K27me3), similar to the oncohistone H3K27M.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34613815/",
+  "mesh_terms": [
+    "Animals",
+    "Child",
+    "Ependymoma",
+    "Epigenesis, Genetic",
+    "Epigenomics",
+    "Histones",
+    "Humans",
+    "Metabolic Networks and Pathways",
+    "Mice"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

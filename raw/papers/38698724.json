@@ -1,0 +1,50 @@
+{
+  "pmid": "38698724",
+  "doi": "10.1002/aur.3148",
+  "title": "Visual social attention in SYNGAP1-related intellectual disability",
+  "authors": "Wright D, Kenny A, Eley S, McKechanie AG, Stanfield AC",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "SYNGAP1-ID is a neurodevelopmental disorder caused by a mutation of the SYNGAP1 gene. Characterized by moderate to severe developmental delay, it is associated with several physical and behavioral issues as well as additional diagnoses, including autism. However, it is not known whether social cognitive differences seen in SYNGAP1-ID are similar to those previously identified in idiopathic or other forms of autism. This study therefore investigated visual social attention in SYNGAP1-ID. Eye movements were recorded across three passive viewing tasks (face scanning, pop-out, and social preference) of differing social complexity in 24 individuals with SYNGAP1-ID and 12 typically developing controls. We found that SYNGAP1-ID participants looked at faces less than the controls, and when they did look at faces, they had less time looking at and fewer fixations to the eyes. For the pop-out task, where social and nonsocial objects (Phone, car, face, bird, and face-noise) were presented in an array, those with SYNGAP1-ID spent significantly less time looking at the phone stimulus as well as fewer fixations to the face compared with the typically developing controls. When looking at two naturalistic scenes side by side, one social in nature (e.g., with children present) and the other not, there were no differences between the SYNGAP1-ID group and typically developing controls on any of the examined eye tracking measures. This study provides novel findings on the social attention of those with SYNGAP1-ID and helps to provide further evidence for using eye tracking as an objective measure of the social phenotype in this population in future clinical trials.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "SYNGAP1-ID is a neurodevelopmental disorder caused by a mutation of the SYNGAP1 gene. Characterized by moderate to severe developmental delay, it is associated with several physical and behavioral issues as well as additional diagnoses, including autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38698724/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "ras GTPase-Activating Proteins",
+    "Attention",
+    "Intellectual Disability",
+    "Child",
+    "Adolescent",
+    "Adult",
+    "Young Adult",
+    "Eye Movements",
+    "Visual Perception",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "SYNGAP1&#x2010;related ID",
+    "autism",
+    "eye&#x2010;tracking",
+    "visual social attention"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

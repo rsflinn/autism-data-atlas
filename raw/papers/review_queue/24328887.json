@@ -1,0 +1,43 @@
+{
+  "pmid": "24328887",
+  "doi": "10.1111/epi.12458",
+  "title": "Resecting the epileptogenic tuber: what happens in the long term?",
+  "authors": "Shahid A",
+  "journal": "Epilepsia",
+  "date": "2013-12",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is an autosomal dominant, neurocutaneous disorder causing benign noninvasive lesions in multiple organ systems. Cognitive delays and neuropsychiatric disorders such as autism are common. Epilepsy is very common and is associated with single or multiple epileptogenic cortical tubers. More than half of these individuals will become medically refractory over time. For these patients, epilepsy surgery with resection of the epileptogenic tuber or tubers not only can render a select patient population seizure-free, but also improves IQ and cognitive behaviors over time.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is an autosomal dominant, neurocutaneous disorder causing benign noninvasive lesions in multiple organ systems. Cognitive delays and neuropsychiatric disorders such as autism are common.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24328887/",
+  "mesh_terms": [
+    "Cognition Disorders",
+    "Electroencephalography",
+    "Epilepsy",
+    "Humans",
+    "Longitudinal Studies",
+    "Neurosurgical Procedures",
+    "Treatment Outcome",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Epilepsy surgery",
+    "Epileptogenic tuber",
+    "Outcome",
+    "Tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "41391149",
+  "doi": "10.1016/j.celrep.2025.116670",
+  "title": "MeCP2 regulates telencephalic development in human cerebral organoids",
+  "authors": "Tenreiro MF, Mohana-Borges R, S&#xe1;nchez-S&#xe1;nchez SM, Dias &#xc2;RM, Blanch R, Muotri AR",
+  "journal": "Cell reports",
+  "date": "2025-12",
+  "source": "pubmed",
+  "abstract": "Loss-of-function variants in the X-linked gene MeCP2 cause a severe form of syndromic autism spectrum disorder known as Rett syndrome (RTT). Although traditionally considered a postnatal disorder, increasing evidence suggests that MeCP2 plays a crucial role during prenatal brain development. Here, we used human pluripotent stem cell-derived cerebral organoids and human telencephalic assembloids to model early cortical development in the context of MeCP2 deficiency. Loss of MeCP2 led to widespread dysregulation of transcriptional programs associated with cortical excitatory neuron development, accompanied by delayed morphological and functional maturation, despite preserved neuroepithelial architecture, dorsal telencephalic identity, and laminar organization. MeCP2 deficiency also led to an overproduction of cortical interneurons (cINs), with these cINs exhibiting hypermotile tangential migration dynamics and contributing to persistent hypersynchronous network activity in assembloids. These findings highlight the critical role of MeCP2 in early telencephalic neurodevelopment and underscore the prenatal origin of RTT-related dysfunction.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Loss-of-function variants in the X-linked gene MeCP2 cause a severe form of syndromic autism spectrum disorder known as Rett syndrome (RTT). Although traditionally considered a postnatal disorder, increasing evidence suggests that MeCP2 plays a crucial role during prenatal brain development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41391149/",
+  "mesh_terms": [
+    "Humans",
+    "Organoids",
+    "Methyl-CpG-Binding Protein 2",
+    "Telencephalon",
+    "Interneurons",
+    "Rett Syndrome",
+    "Neurogenesis"
+  ],
+  "keywords": [
+    "CP: Neuroscience",
+    "CP: Stem cell research",
+    "MeCP2",
+    "Rett syndrome",
+    "assembloids",
+    "brain development",
+    "cerebral organoids",
+    "neurodevelopment",
+    "neurodevelopmental disorders",
+    "syndromic autism spectrum disorder"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

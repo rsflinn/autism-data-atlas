@@ -1,0 +1,41 @@
+{
+  "pmid": "36478299",
+  "doi": "10.1002/jdn.10246",
+  "title": "PARK2 microdeletion in a multiplex family with autism spectrum disorder",
+  "authors": "Barone R, Cirnigliaro L, Saccuzzo L, Valdese S, Pettinato F, Prato A, et al.",
+  "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+  "date": "2022-12",
+  "source": "pubmed",
+  "abstract": "PARK2 (PRKN; MIM*602544) encodes Parkin protein, an ubiquitin-protein ligase required for proteasomal degradation and operating in the synaptic compartments. Copy number variations (CNVs) involving PARK2 have been associated with autism spectrum disorder (ASD). We report on a family with ASD (multiplex family) harbouring a microdeletion at chr. 6q26 causing PARK2 disruption.\n\nCNV analyses were performed using CGH/SNP-array platforms, and the detected microdeletion was confirmed by real-time quantitative PCR. Standardized psychometric evaluation was used for neurobehavioral characterization.\n\nWe found an intragenic ~157&#x2009;kb microdeletion of the chromosomal region 6q26 causing PARK2 disruption in two male sibs with ASD and syndromic phenotype. They both had dysmorphic facial features with coarse faces, deeply set eyes with long horizontal palpebral fissures, long eyelashes and thick eyebrows, fleshy lips and mild skeletal problems. We found an intrafamilial clinical heterogeneity owing to different severity of the autism symptoms between the affected sibs: the younger one had minimally verbal autism and severe intellectual disability, whereas his older brother presented high-functioning autism and preserved speech. Parental analysis and real-time PCR using a PRKN fragment mapping within the deletion demonstrated that the deletion was inherited from their father having subthreshold features of ASD consisting with broad autism phenotype.\n\nThe study corroborates the hypothesis that PARK2 aberrations may be associated with ASD and highlights correlations between CNV affecting PARK2 and ASD in a multiplex family. We show remarkable intrafamilial variability in the severity of inherited ASD associated with PARK2 microdeletion.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "PARK2 (PRKN; MIM*602544) encodes Parkin protein, an ubiquitin-protein ligase required for proteasomal degradation and operating in the synaptic compartments. Copy number variations (CNVs) involving PARK2 have been associated with autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36478299/",
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "DNA Copy Number Variations",
+    "Autistic Disorder",
+    "Phenotype",
+    "Intellectual Disability"
+  ],
+  "keywords": [
+    "PARK2 microdeletion",
+    "autism spectrum disorder",
+    "broad autism phenotype",
+    "multiplex family"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

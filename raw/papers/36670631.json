@@ -1,0 +1,33 @@
+{
+  "pmid": "36670631",
+  "doi": "10.3390/children10010080",
+  "title": "Dendritic Spine in Autism Genetics: Whole-Exome Sequencing Identifying De Novo Variant ofin a Quad Family Affected by Autism Spectrum Disorder",
+  "authors": "Xie Y, Wang H, Hu B, Zhang X, Liu A, Cai C, et al.",
+  "journal": "Children (Basel, Switzerland)",
+  "date": "2022-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) affects around 1% of children with no effective blood test or cure. Recent studies have suggested that these are neurological disorders with a strong genetic basis and that they are associated with the abnormal formation of dendritic spines. Chromosome microarray (CMA) together with high-throughput sequencing technology has been used as a powerful tool to identify new candidate genes for ASD. In the present study, CMA was first used to scan for genome-wide copy number variants in a proband, and no clinically significant copy number variants were found. Whole-exome sequencing (WES) was used further for genetic testing of the whole quad family affected by ASD, including the proband, his non-autistic sister, and his parents. Sanger sequencing and MassARRAY-based validation were used to identify and confirm variants associated with ASD. WES yielded a 151-fold coverage depth for each sample. A total of 98.65% of the targeted whole-exome region was covered at >20-fold depth. A de novo variant in CTTNBP2, p.M115T, was identified. The CTTNBP2 gene belongs to a family of ankyrin repeat domain-containing proteins associated with dendritic spine formation. Although CTTNBP2 has been associated with ASD, limited studies have been developed to identify clinically relevant de novo mutations of CTTNBP2 in children with ASD; family-based WES successfully identified a clinically relevant mutation in the CTTNBP2 gene in a quad family affected by ASD. Considering the neuron-specific expression of CTTNBP2 and its role in dendritic spine formation, our results suggest a correlation between the CTTNBP2 mutation and ASD, providing genetic evidence for ASD spine pathology. Although the present study is currently insufficient to support the assertion that the de novo mutation M115T in CTTNBP2 directly causes the autism phenotype, our study provides support for the assertion that this mutation is a candidate clinically relevant variant in autism.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) affects around 1% of children with no effective blood test or cure. Recent studies have suggested that these are neurological disorders with a strong genetic basis and that they are associated with the abnormal formation of dendritic spines.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36670631/",
+  "mesh_terms": [],
+  "keywords": [
+    "CTTNBP2",
+    "autism spectrum disorder",
+    "cortactin-binding protein 2",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pmid": "33536055",
+  "doi": "10.1186/s13229-021-00420-2",
+  "title": "Cannabinoid treatment for autism: a proof-of-concept randomized trial",
+  "authors": "Aran A, Harel M, Cassuto H, Polyansky L, Schnapp A, Wattad N, et al.",
+  "journal": "Molecular autism",
+  "date": "2021-02",
+  "source": "pubmed",
+  "abstract": "Endocannabinoid dysfunction in animal models of autism spectrum disorder (ASD) and accumulating, albeit anecdotal, evidence for efficacy in humans motivated this placebo-controlled double-blind comparison of two oral cannabinoid solutions in 150 participants (age 5-21&#xa0;years) with ASD.\n\nWe tested (1) BOL-DP-O-01-W, a whole-plant cannabis extract containing cannabidiol and &#x394;9-tetrahydrocannabinol at a 20:1 ratio and (2) BOL-DP-O-01, purified cannabidiol and &#x394;9-tetrahydrocannabinol at the same ratio. Participants (N&#x2009;=&#x2009;150) received either placebo or cannabinoids for 12-weeks (testing efficacy) followed by a 4-week washout and predetermined cross-over for another 12&#xa0;weeks to further assess tolerability. Registered primary efficacy outcome measures were improvement in behavioral problems (differences between whole-plant extract and placebo) on the Home Situation Questionnaire-ASD (HSQ-ASD) and the Clinical Global Impression-Improvement scale with disruptive behavior anchor points (CGI-I). Secondary measures were Social Responsiveness Scale (SRS-2) and Autism Parenting Stress Index (APSI).\n\nChanges in Total Scores of HSQ-ASD (primary-outcome) and APSI (secondary-outcome) did not differ among groups. Disruptive behavior on the CGI-I (co-primary outcome) was either much or very much improved in 49% on whole-plant extract (n&#x2009;=&#x2009;45) versus 21% on placebo (n&#x2009;=&#x2009;47; p&#x2009;=&#x2009;0.005). Median SRS Total Score (secondary-outcome) improved by 14.9 on whole-plant extract (n&#x2009;=&#x2009;34) versus 3.6 points after placebo (n&#x2009;=&#x2009;36); p&#x2009;=&#x2009;0.009). There were no treatment-related serious adverse events. Common adverse events included somnolence and decreased appetite, reported for 28% and 25% on whole-plant extract, respectively (n&#x2009;=&#x2009;95); 23% and 21% on pure-cannabinoids (n&#x2009;=&#x2009;93), and 8% and 15% on placebo (n&#x2009;=&#x2009;94). Limitations Lack of pharmacokinetic data and a wide range of ages and functional levels among participants warrant caution when interpreting the results.\n\nThis interventional study provides evidence that BOL-DP-O-01-W and BOL-DP-O-01, administrated for 3&#xa0;months, are well tolerated. Evidence for efficacy of these interventions are mixed and insufficient. Further testing of cannabinoids in ASD is recommended. Trial registration ClinicalTrials.gov: NCT02956226. Registered 06 November 2016, https://clinicaltrials.gov/ct2/show/NCT02956226.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Endocannabinoid dysfunction in animal models of autism spectrum disorder (ASD) and accumulating, albeit anecdotal, evidence for efficacy in humans motivated this placebo-controlled double-blind comparison of two oral cannabinoid solutions in 150 participants (age 5-21&#xa0;years) with ASD. We tested (1) BOL-DP-O-01-W, a whole-plant cannabis extract containing cannabidiol and &#x394;9-tetrahydrocannabinol at a 20:1 ratio and (2) BOL-DP-O-01, purified cannabidiol and &#x394;9-tetrahydrocannabinol ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33536055/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Cannabinoids",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Social Behavior",
+    "Treatment Outcome",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Behavior",
+    "Cannabidiol",
+    "Cannabinoids",
+    "Child psychiatry",
+    "Clinical trials randomized controlled",
+    "Developmental disorders",
+    "Entourage effect",
+    "Neuropsychology",
+    "Tetrahydrocannabinol"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

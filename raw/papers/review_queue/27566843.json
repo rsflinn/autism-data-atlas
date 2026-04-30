@@ -1,0 +1,46 @@
+{
+  "pmid": "27566843",
+  "doi": "10.1093/schbul/sbw124",
+  "title": "Gesture Performance in Schizophrenia Predicts Functional Outcome After 6 Months",
+  "authors": "Walther S, Eisenhardt S, Bohlhalter S, Vanbellingen T, M&#xfc;ri R, Strik W, et al.",
+  "journal": "Schizophrenia bulletin",
+  "date": "2016-08",
+  "source": "pubmed",
+  "abstract": "The functional outcome of schizophrenia is heterogeneous and markers of the course are missing. Functional outcome is associated with social cognition and negative symptoms. Gesture performance and nonverbal social perception are critically impaired in schizophrenia. Here, we tested whether gesture performance or nonverbal social perception could predict functional outcome and the ability to adequately perform relevant skills of everyday function (functional capacity) after 6 months. In a naturalistic longitudinal study, 28 patients with schizophrenia completed tests of nonverbal communication at baseline and follow-up. In addition, functional outcome, social and occupational functioning, as well as functional capacity at follow-up were assessed. Gesture performance and nonverbal social perception at baseline predicted negative symptoms, functional outcome, and functional capacity at 6-month follow-up. Gesture performance predicted functional outcome beyond the baseline measure of functioning. Patients with gesture deficits at baseline had stable negative symptoms and experienced a decline in social functioning. While in patients without gesture deficits, negative symptom severity decreased and social functioning remained stable. Thus, a simple test of hand gesture performance at baseline may indicate favorable outcomes in short-term follow-up. The results further support the importance of nonverbal communication skills in subjects with schizophrenia.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "The functional outcome of schizophrenia is heterogeneous and markers of the course are missing. Functional outcome is associated with social cognition and negative symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27566843/",
+  "mesh_terms": [
+    "Adult",
+    "Female",
+    "Follow-Up Studies",
+    "Gestures",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Outcome Assessment, Health Care",
+    "Schizophrenia",
+    "Social Behavior",
+    "Social Perception"
+  ],
+  "keywords": [
+    "hand gestures",
+    "negative symptoms",
+    "nonverbal communication",
+    "psychosis",
+    "social perception"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pmid": "37232588",
+  "doi": "10.3390/bs13050349",
+  "title": "Verbal, Figural, and Arithmetic Fluency of Children with Cochlear Implants",
+  "authors": "Skrbic R, Bugarski-Ignjatovic V, Komazec Z, Veselinovic M",
+  "journal": "Behavioral sciences (Basel, Switzerland)",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "Cochlear implantation gives children with prelingual severe hearing loss and deafness the opportunity to develop their hearing abilities, speech, language, cognitive abilities and academic skills with adequate rehabilitation. The aim of the research was to analyze verbal, figural and arithmetic fluency and their interrelationship in children with a cochlear implant (CI) and children with normal hearing (NH). A total of 46 children with CI and 110 children with NH, aged 9 to 16, participated in the research. Verbal fluency was assessed using phonemic and semantic fluency, and non-verbal fluency using figural fluency. Arithmetic fluency was assessed using simple arithmetic tasks within the number range up to 100. The results showed that children with CI achieved poorer results in phonemic fluency (z = -4.92;< 0.001), semantic fluency (z = -3.89;< 0.001), figural fluency (z = -3.07;= 0.002), and arithmetic fluency (z = -4.27;< 0.001). In both groups, a positive correlation was obtained between the measured modalities and types of fluency. In the group of children with CI, a sex difference was obtained on the phonemic fluency test, in favor of girls. The age of children with CI was correlated with arithmetic fluency. Verbal, figural and arithmetic fluency of children with CI speak in favor of the importance of early auditory and language experiences.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Cochlear implantation gives children with prelingual severe hearing loss and deafness the opportunity to develop their hearing abilities, speech, language, cognitive abilities and academic skills with adequate rehabilitation. The aim of the research was to analyze verbal, figural and arithmetic fluency and their interrelationship in children with a cochlear implant (CI) and children with normal hearing (NH).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37232588/",
+  "mesh_terms": [],
+  "keywords": [
+    "cognitive functions",
+    "deafness",
+    "hearing impairment",
+    "mathematical fluency",
+    "non-verbal fluency",
+    "phonemic fluency",
+    "semantic fluency"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

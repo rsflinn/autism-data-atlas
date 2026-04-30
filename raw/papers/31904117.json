@@ -1,0 +1,47 @@
+{
+  "pmid": "31904117",
+  "doi": "10.1111/epi.16386",
+  "title": "SCN1A-related phenotypes: Epilepsy and beyond",
+  "authors": "Scheffer IE, Nabbout R",
+  "journal": "Epilepsia",
+  "date": "2019-12",
+  "source": "pubmed",
+  "abstract": "SCN1A, encoding the alpha 1 subunit of the sodium channel, is associated with several epilepsy syndromes and a range of other diseases. SCN1A represents the archetypal channelopathy associated with a wide phenotypic spectrum of epilepsies ranging from genetic epilepsy with febrile seizures plus (GEFS+), to developmental and epileptic encephalopathies (DEEs). SCN1A disorders also result in other diseases such as hemiplegic migraine and autism spectrum disorder (ASD). Dravet syndrome (DS) is the prototypic DEE with an early onset of febrile status epilepticus, hemiclonic or generalized tonic-clonic seizures, and later onset of additional seizure types. Electroencephalography (EEG) and magnetic resonance imaging (MRI) are normal at onset. Development is normal in the first year of life but plateaus rapidly, with most patients ultimately having intellectual disability. Epilepsy is drug-resistant and necessitates polytherapy. Most pathogenic variants occur de novo in the affected child, but they are inherited from mosaic affected or unaffected parents in rare cases. The molecular finding of haploinsufficiency is consistent with a loss-of-function defect in cells and animal models. Although seizures are the most commonly reported symptom in DS, many additional issues critically affect patients' cognitive and behavioral functioning. Hemiplegic migraine (HM) is a rare form of migraine with aura, characterized by the emergence of hemiparesis as part of the aura phase. All SCN1A mutations reported in sporadic/familial HM3 are missense mutations. Most of the experimental results show that they cause a gain of function of Na1.1 as opposed to the loss of function of the epileptogenic Na1.1 mutations. SCN1A and SCN2A pathogenic variants have been identified in genetic studies of cohorts of patients with ASD. In addition, ASD features are often reported in patients with Dravet syndrome and other DEEs.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SCN1A",
+    "SCN2A"
+  ],
+  "summary": "SCN1A, encoding the alpha 1 subunit of the sodium channel, is associated with several epilepsy syndromes and a range of other diseases. SCN1A represents the archetypal channelopathy associated with a wide phenotypic spectrum of epilepsies ranging from genetic epilepsy with febrile seizures plus (GEFS+), to developmental and epileptic encephalopathies (DEEs).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31904117/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Epilepsies, Myoclonic",
+    "Epilepsy",
+    "Epileptic Syndromes",
+    "Humans",
+    "Mutation",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Seizures, Febrile"
+  ],
+  "keywords": [
+    "Dravet syndrome",
+    "SUDEP patient-centered outcomes",
+    "autism spectrum disorder",
+    "hemiplegic migraine"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

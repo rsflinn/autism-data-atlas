@@ -1,0 +1,43 @@
+{
+  "pmid": "36637595",
+  "doi": "10.1007/s10803-022-05883-7",
+  "title": "Spatial Language and Cognition in Autistic Preschoolers",
+  "authors": "Prescott KE, Crespo K, Ellis Weismer S",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "ASD is associated with relative strengths in the visuospatial domain but varying abilities in the linguistic domain. Previous studies suggest parallels between spatial language and spatial cognition in older autistic individuals, but no research to date has examined this relationship in young autistic children. Therefore, the purpose of the present study was to investigate the connection between children's spatial language production and nonverbal spatial cognition over time. We also examined two potential predictors of spatial language observed in previous literature, ASD symptom severity and parent spatial language input.\n\nIn past work investigating spatial language in NT children of the same age, parent-child interactions have been a primary context for study. Therefore, in the present study, we analyzed transcripts of dyadic naturalistic play interactions between autistic children and their parents over three visits from age 30 to 66 months and administered standardized cognitive and ASD diagnostic assessments at each visit.\n\nSpatial language production was related to nonverbal spatial cognition even when accounting for overall language production, though the strength of that relationship decreased over time. Parent spatial input (but not ASD severity) significantly predicted children's spatial language production over and above the effect of overall language production.\n\nSpatial language is associated with spatial cognition in young autistic children and appears to reflect the interaction of overall linguistic skills and nonverbal spatial cognitive ability regardless of autism severity. Parent-mediated interventions may be a promising context for increasing spatial language in autistic preschoolers.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "ASD is associated with relative strengths in the visuospatial domain but varying abilities in the linguistic domain. Previous studies suggest parallels between spatial language and spatial cognition in older autistic individuals, but no research to date has examined this relationship in young autistic children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36637595/",
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "Child, Preschool",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Language",
+    "Cognition",
+    "Linguistics"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Language development",
+    "Nonverbal cognition",
+    "Parent input",
+    "Spatial language"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

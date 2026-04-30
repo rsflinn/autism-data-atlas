@@ -1,0 +1,46 @@
+{
+  "pmid": "38456581",
+  "doi": "10.1002/aur.3117",
+  "title": "Dynamic functional connectivity in the right temporoparietal junction captures variations in male autistic trait expression",
+  "authors": "Bravo Balsa L, Abu-Akel A, Mevorach C",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Autistic individuals can experience difficulties with attention reorienting and Theory of Mind (ToM), which are closely associated with anterior and posterior subdivisions of the right temporoparietal junction. While the link between these processes remains unclear, it is likely subserved by a dynamic crosstalk between these two subdivisions. We, therefore, examined the dynamic functional connectivity (dFC) between the anterior and posterior temporoparietal junction, as a biological marker of attention and ToM, to test its contribution to the manifestation of autistic trait expression in Autism Spectrum Condition (ASC). Two studies were conducted, exploratory (14 ASC, 15 TD) and replication (29 ASC, 29 TD), using resting-state fMRI data and the Social Responsiveness Scale (SRS) from the Autism Brain Imaging Data Exchange repository. Dynamic Independent Component Analysis was performed in both datasets using the CONN toolbox. An additional sliding-window analysis was performed in the replication study to explore different connectivity states (from highly negatively to highly positively correlated). Dynamic FC was reduced in ASC compared to TD adults in both the exploratory and replication datasets and was associated with increased SRS scores (especially in ASC). Regression analyses revealed that decreased SRS autistic expression was predicted by engagement of highly negatively correlated states, while engagement of highly positively correlated states predicted increased expression. These findings provided consistent evidence that the difficulties observed in ASC are associated with altered patterns of dFC between brain regions subserving attention reorienting and ToM processes and may serve as a biomarker of autistic trait expression.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autistic individuals can experience difficulties with attention reorienting and Theory of Mind (ToM), which are closely associated with anterior and posterior subdivisions of the right temporoparietal junction. While the link between these processes remains unclear, it is likely subserved by a dynamic crosstalk between these two subdivisions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38456581/",
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Male",
+    "Autistic Disorder",
+    "Brain Mapping",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Magnetic Resonance Imaging"
+  ],
+  "keywords": [
+    "attention reorienting",
+    "autism spectrum condition (ASC)",
+    "dynamic functional connectivity (dFC)",
+    "mentalizing",
+    "resting&#x2010;state fMRI (RSfMRI)",
+    "right temporoparietal junction (TPJ)",
+    "theory of mind (ToM)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

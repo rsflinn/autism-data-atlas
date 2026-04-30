@@ -1,0 +1,49 @@
+{
+  "pmid": "36202289",
+  "doi": "10.1016/j.nbd.2022.105882",
+  "title": "Neuronal hyperexcitability and ion channel dysfunction in CDKL5-deficiency patient iPSC-derived cortical organoids",
+  "authors": "Wu W, Yao H, Negraes PD, Wang J, Trujillo CA, de Souza JS, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "Early epilepsy is a prominent feature in patients with CDKL5-deficiency disorder (CDD). The underlying mechanism for excessive excitability in CDD is largely unknown. The brain organoid model has been recently developed to resemble many critical features of early human brain development. Here, we used a brain organoid model to investigate the cellular electrophysiological basis for hyper-excitability in CDD patients. Our study employed cortical organoids derived from two CDD patients harboring the same CDKL5 mutation (R59X) and two controls from their healthy parents. Whole-cell patch-clamp recordings revealed higher action potential (AP) firing rate and lower rheobase in both CDD organoids, indicating increased intrinsic neuronal excitability. We further found dysfunction of voltage-gated ion channels in CDD neurons that leads to hyperexcitability, including higher Naand Kcurrent densities and a negative shift in Nachannel activation. In contrast to neuronal properties, we found that glutamatergic neurotransmission and the electrophysiological properties of glial cells were not altered in CDD organoids. In support of our CDD findings, we further discovered similar electrophysiologic properties in cortical organoids derived from a Rett syndrome (RTT) patient, including alterations in AP firings and Naand Kchannel function suggesting a convergent mechanism. Together, our study suggests a critical role of intrinsic neuronal hyperexcitability and ion channel dysfunction, seen in early brain development in both CDD and RTT disorders. This investigation provides potential novel drug targets for developing treatments of early epilepsy in such disorders.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CDKL5"
+  ],
+  "summary": "Early epilepsy is a prominent feature in patients with CDKL5-deficiency disorder (CDD). The underlying mechanism for excessive excitability in CDD is largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36202289/",
+  "mesh_terms": [
+    "Humans",
+    "Organoids",
+    "Induced Pluripotent Stem Cells",
+    "Ion Channels",
+    "Rett Syndrome",
+    "Epilepsy",
+    "Protein Serine-Threonine Kinases",
+    "Spasms, Infantile",
+    "Epileptic Syndromes"
+  ],
+  "keywords": [
+    "AP firing",
+    "CDD",
+    "RTT",
+    "cortical organoid",
+    "ion channel",
+    "patch-clamp"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "37833512",
+  "doi": "10.1007/s00726-023-03338-6",
+  "title": "Cross species review of the physiological role of D-serine in translationally relevant behaviors",
+  "authors": "Arizanovska D, Emodogo JA, Lally AP, Palavicino-Maggio CB, Liebl DJ, Folorunso OO",
+  "journal": "Amino acids",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Bridging the gap between preclinical models of neurological and psychiatric disorders with their human manifestations is necessary to understand their underlying mechanisms, identify biomarkers, and develop novel therapeutics. Cognitive and social impairments underlie multiple neuropsychiatric and neurological disorders and are often comorbid with sleep disturbances, which can exacerbate poor outcomes. Importantly, many symptoms are conserved between vertebrates and invertebrates, although they may have subtle differences. Therefore, it is essential to determine the molecular mechanisms underlying these behaviors across different species and their translatability to humans. Genome-wide association studies have indicated an association between glutamatergic gene variants and both the risk and frequency of psychiatric disorders such as schizophrenia, bipolar disorder, and autism spectrum disorder. For example, changes in glutamatergic neurotransmission, such as glutamate receptor subtype N-methyl-D-aspartate receptor (NMDAR) hypofunction, have been shown to contribute to the pathophysiology of schizophrenia. Furthermore, in neurological disorders, such as traumatic brain injury and Alzheimer's disease, hyperactivation of NMDARs leads to synaptic damage. In addition to glutamate binding, NMDARs require the binding of a co-agonist D-serine or glycine to the GluN1 subunit to open. D-serine, which is racemized from L-serine by the neuronal enzyme serine racemase (SRR), and both SRR and D-serine are enriched in cortico-limbic brain regions. D-serine is critical for complex behaviors, such as cognition and social behavior, where dysregulation of its synthesis and release has been implicated in many pathological conditions. In this review, we explore the role of D-serine in behaviors that are translationally relevant to multiple psychiatric and neurological disorders in different models across species.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Bridging the gap between preclinical models of neurological and psychiatric disorders with their human manifestations is necessary to understand their underlying mechanisms, identify biomarkers, and develop novel therapeutics. Cognitive and social impairments underlie multiple neuropsychiatric and neurological disorders and are often comorbid with sleep disturbances, which can exacerbate poor outcomes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37833512/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Serine",
+    "Genome-Wide Association Study",
+    "Autism Spectrum Disorder",
+    "Neurons",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Nervous System Diseases",
+    "Racemases and Epimerases"
+  ],
+  "keywords": [
+    "Cognition",
+    "D-Serine",
+    "Serine racemase",
+    "Sleep",
+    "Sociability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

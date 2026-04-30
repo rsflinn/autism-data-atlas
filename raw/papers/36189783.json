@@ -1,0 +1,46 @@
+{
+  "pmid": "36189783",
+  "doi": "10.1017/S0033291722002884",
+  "title": "Neurological and psychiatric disorders among autistic adults: a population healthcare record study",
+  "authors": "Underwood JFG, DelPozo-Banos M, Frizzati A, Rai D, John A, Hall J",
+  "journal": "Psychological medicine",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "Co-occurring psychiatric disorders are common in autism, with previous studies suggesting 54-94% of autistic individuals develop a mental health condition in their lifetime. Most studies have looked at clinically-recruited cohorts, or paediatric cohorts followed into adulthood, with less known about the autistic community at a population level. We therefore studied the prevalence of co-occurring psychiatric and neurological conditions in autistic individuals in a national sample.\n\nThis retrospective case-control study utilised the SAIL Databank to examine anonymised whole population electronic health record data from 2001 to 2016 in Wales, UK (= 3.6 million). We investigated the prevalence of co-occurring psychiatric and selected neurological diagnoses in autistic adults' records during the study period using International Classification of Diseases-10 and Read v2 clinical codes compared to general population controls matched for age, sex and deprivation.\n\nAll psychiatric conditions examined were more common amongst adults with autism after adjusting for age, sex and deprivation. Prevalence of attention-deficit hyperactivity disorder (7.00%), bipolar disorder (2.50%), obsessive-compulsive disorder (3.02%), psychosis (18.30%) and schizophrenia (5.20%) were markedly elevated in those with autism, with corresponding odds ratios 8.24-10.74 times the general population. Depression (25.90%) and anxiety (22.40%) were also more prevalent, with epilepsy 9.21 times more common in autism.\n\nWe found that a range of psychiatric conditions were more frequently recorded in autistic individuals. We add to understanding of under-reporting and diagnostic overshadowing in autism. With increasing awareness of autism, services should be cognisant of the psychiatric conditions that frequently co-occur in this population.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Co-occurring psychiatric disorders are common in autism, with previous studies suggesting 54-94% of autistic individuals develop a mental health condition in their lifetime. Most studies have looked at clinically-recruited cohorts, or paediatric cohorts followed into adulthood, with less known about the autistic community at a population level.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36189783/",
+  "mesh_terms": [
+    "Humans",
+    "Adult",
+    "Child",
+    "Autistic Disorder",
+    "Retrospective Studies",
+    "Case-Control Studies",
+    "Autism Spectrum Disorder",
+    "Comorbidity",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Delivery of Health Care"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "autism",
+    "co-morbidity",
+    "co-occurring conditions",
+    "epidemiology"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "35483565",
+  "doi": "10.1016/j.nbd.2022.105742",
+  "title": "Somatosensory cortex hyperconnectivity and impaired whisker-dependent responses in Cntnap2mice",
+  "authors": "Balasco L, Pagani M, Pangrazzi L, Chelini G, Viscido F, Chama AGC, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Sensory abnormalities are a common feature in autism spectrum disorders (ASDs). Tactile responsiveness is altered in autistic individuals, with hypo-responsiveness being associated with the severity of ASD core symptoms. Similarly, sensory abnormalities have been described in mice lacking ASD-associated genes. Loss-of-function mutations in CNTNAP2 result in cortical dysplasia-focal epilepsy syndrome (CDFE) and autism. Likewise, Cntnap2mice show epilepsy and deficits relevant with core symptoms of human ASDs, and are considered a reliable model to study ASDs. Altered synaptic transmission and synchronicity found in the cerebral cortex of Cntnap2mice would suggest a network dysfunction. Here, we investigated the neural substrates of whisker-dependent responses in Cntnap2and Cntnap2adult mice. When compared to controls, Cntnap2mice showed focal hyper-connectivity within the primary somatosensory cortex (S1), in the absence of altered connectivity between S1 and other somatosensory areas. This data suggests the presence of impaired somatosensory processing in these mutants. Accordingly, Cntnap2mice displayed impaired whisker-dependent discrimination in the textured novel object recognition test (tNORT) and increased c-fos mRNA induction within S1 following whisker stimulation. S1 functional hyperconnectivity might underlie the aberrant whisker-dependent responses observed in Cntnap2mice, indicating that Cntnap2 mice are a reliable model to investigate sensory abnormalities that characterize ASDs.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "CNTNAP2"
+  ],
+  "summary": "Sensory abnormalities are a common feature in autism spectrum disorders (ASDs). Tactile responsiveness is altered in autistic individuals, with hypo-responsiveness being associated with the severity of ASD core symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35483565/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Cerebral Cortex",
+    "Membrane Proteins",
+    "Mice",
+    "Nerve Tissue Proteins",
+    "Somatosensory Cortex",
+    "Vibrissae"
+  ],
+  "keywords": [
+    "Autism",
+    "Connectivity",
+    "Gene expression",
+    "Somatosensory"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

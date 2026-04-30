@@ -1,0 +1,50 @@
+{
+  "pmid": "22596160",
+  "doi": "10.1038/nature11091",
+  "title": "KCTD13 is a major driver of mirrored neuroanatomical phenotypes of the 16p11.2 copy number variant",
+  "authors": "Golzio C, Willer J, Talkowski ME, Oh EC, Taniguchi Y, Jacquemont S, et al.",
+  "journal": "Nature",
+  "date": "2012-05",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) are major contributors to genetic disorders. We have dissected a region of the 16p11.2 chromosome--which encompasses 29 genes--that confers susceptibility to neurocognitive defects when deleted or duplicated. Overexpression of each human transcript in zebrafish embryos identified KCTD13 as the sole message capable of inducing the microcephaly phenotype associated with the 16p11.2 duplication, whereas suppression of the same locus yielded the macrocephalic phenotype associated with the 16p11.2 deletion, capturing the mirror phenotypes of humans. Analyses of zebrafish and mouse embryos suggest that microcephaly is caused by decreased proliferation of neuronal progenitors with concomitant increase in apoptosis in the developing brain, whereas macrocephaly arises by increased proliferation and no changes in apoptosis. A role for KCTD13 dosage changes is consistent with autism in both a recently reported family with a reduced 16p11.2 deletion and a subject reported here with a complex 16p11.2 rearrangement involving de novo structural alteration of KCTD13. Our data suggest that KCTD13 is a major driver for the neurodevelopmental phenotypes associated with the 16p11.2 CNV, reinforce the idea that one or a small number of transcripts within a CNV can underpin clinical phenotypes, and offer an efficient route to identifying dosage-sensitive loci.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants (CNVs) are major contributors to genetic disorders. We have dissected a region of the 16p11.2 chromosome--which encompasses 29 genes--that confers susceptibility to neurocognitive defects when deleted or duplicated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22596160/",
+  "mesh_terms": [
+    "Animals",
+    "Apoptosis",
+    "Cell Proliferation",
+    "Chromosomes, Human, Pair 16",
+    "DNA Copy Number Variations",
+    "Gene Dosage",
+    "Gene Duplication",
+    "Head",
+    "Humans",
+    "Mice",
+    "Microcephaly",
+    "Nuclear Proteins",
+    "Organ Size",
+    "Phenotype",
+    "RNA, Messenger",
+    "Sequence Deletion",
+    "Transcription, Genetic",
+    "Up-Regulation",
+    "Zebrafish"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

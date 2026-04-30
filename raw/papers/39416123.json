@@ -1,0 +1,29 @@
+{
+  "pmid": "39416123",
+  "doi": "10.1101/2024.10.07.617121",
+  "title": "Longitudinal multi-omics reveals pathogenicvariants disrupt developmental trajectories of human cortical organoids derived from Tuberous Sclerosis Complex",
+  "authors": "Niu W, Yu S, Li X, Wang Z, Chen R, Michalski C, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Tuberous Sclerosis Complex (TSC), an autosomal dominant condition, is caused by heterozygous mutations in either theorgenes, manifesting in systemic growth of benign tumors. In addition to brain lesions, neurologic sequelae represent the greatest morbidity in TSC patients. Investigations utilizing-knockout animal or human stem cell models suggest that TSC deficiency-causing hyper-activation of mTOR signaling might precipitate anomalous neurodevelopmental processes. However, how the pathogenic variants ofgenes affect the longitudinal trajectory of human brain development remains largely unexplored. Here, we employed 3-dimensional cortical organoids derived from induced pluripotent stem cells (iPSCs) from TSC patients harboringvariants, alongside organoids from age- and sex-matched healthy individuals as controls. Through comprehensively longitudinal molecular and cellular analyses of TSC organoids, we found thatpathogenic variants dysregulate neurogenesis, synaptogenesis, and gliogenesis, particularly for reactive astrogliosis. The altered developmental trajectory of TSC organoids significantly resembles the molecular signatures of neuropsychiatric disorders, including autism spectrum disorders, epilepsy, and intellectual disability. Intriguingly, single cell transcriptomic analyses on TSC organoids revealed thatpathogenic variants disrupt the neuron/reactive astrocyte crosstalk within the NLGN-NRXN signaling network. Furthermore, cellular and electrophysiological assessments of TSC cortical organoids, along with proteomic analyses of synaptosomes, demonstrated that thevariants precipitate perturbations in synaptic transmission, neuronal network activity, mitochondrial translational integrity, and neurofilament formation. Notably, similar perturbations were observed in surgically resected cortical specimens from TSC patients. Collectively, our study illustrates that disease-associatedvariants disrupt the neurodevelopmental trajectories through perturbations of gene regulatory networks during early cortical development, leading to mitochondrial dysfunction, aberrant neurofilament formation, impaired synaptic formation and neuronal network activity.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous Sclerosis Complex (TSC), an autosomal dominant condition, is caused by heterozygous mutations in either theorgenes, manifesting in systemic growth of benign tumors. In addition to brain lesions, neurologic sequelae represent the greatest morbidity in TSC patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39416123/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

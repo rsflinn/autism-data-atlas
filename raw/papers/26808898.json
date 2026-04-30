@@ -1,0 +1,51 @@
+{
+  "pmid": "26808898",
+  "doi": "10.1038/nature16533",
+  "title": "Autism-like behaviours and germline transmission in transgenic monkeys overexpressing MeCP2",
+  "authors": "Liu Z, Li X, Zhang JT, Cai YJ, Cheng TL, Cheng C, et al.",
+  "journal": "Nature",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Methyl-CpG binding protein 2 (MeCP2) has crucial roles in transcriptional regulation and microRNA processing. Mutations in the MECP2 gene are found in 90% of patients with Rett syndrome, a severe developmental disorder with autistic phenotypes. Duplications of MECP2-containing genomic segments cause the MECP2 duplication syndrome, which shares core symptoms with autism spectrum disorders. Although Mecp2-null mice recapitulate most developmental and behavioural defects seen in patients with Rett syndrome, it has been difficult to identify autism-like behaviours in the mouse model of MeCP2 overexpression. Here we report that lentivirus-based transgenic cynomolgus monkeys (Macaca fascicularis) expressing human MeCP2 in the brain exhibit autism-like behaviours and show germline transmission of the transgene. Expression of the MECP2 transgene was confirmed by western blotting and immunostaining of brain tissues of transgenic monkeys. Genomic integration sites of the transgenes were characterized by a deep-sequencing-based method. As compared to wild-type monkeys, MECP2 transgenic monkeys exhibited a higher frequency of repetitive circular locomotion and increased stress responses, as measured by the threat-related anxiety and defensive test. The transgenic monkeys showed less interaction with wild-type monkeys within the same group, and also a reduced interaction time when paired with other transgenic monkeys in social interaction tests. The cognitive functions of the transgenic monkeys were largely normal in the Wisconsin general test apparatus, although some showed signs of stereotypic cognitive behaviours. Notably, we succeeded in generating five F1 offspring of MECP2 transgenic monkeys by intracytoplasmic sperm injection with sperm from one F0 transgenic monkey, showing germline transmission and Mendelian segregation of several MECP2 transgenes in the F1 progeny. Moreover, F1 transgenic monkeys also showed reduced social interactions when tested in pairs, as compared to wild-type monkeys of similar age. Together, these results indicate the feasibility and reliability of using genetically engineered non-human primates to study brain disorders.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Methyl-CpG binding protein 2 (MeCP2) has crucial roles in transcriptional regulation and microRNA processing. Mutations in the MECP2 gene are found in 90% of patients with Rett syndrome, a severe developmental disorder with autistic phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26808898/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Genetically Modified",
+    "Anxiety",
+    "Autistic Disorder",
+    "Brain",
+    "Cognition",
+    "Disease Models, Animal",
+    "Female",
+    "Germ-Line Mutation",
+    "Heredity",
+    "Humans",
+    "Locomotion",
+    "Macaca fascicularis",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Phenotype",
+    "Social Behavior",
+    "Sperm Injections, Intracytoplasmic",
+    "Transgenes"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "33453761",
+  "doi": "10.1016/S2352-4642(20)30350-3",
+  "title": "Identification of genetic loci associated with nocturnal enuresis: a genome-wide association study",
+  "authors": "J&#xf8;rgensen CS, Horsdal HT, Rajagopal VM, Grove J, Als TD, Kamperis K, et al.",
+  "journal": "The Lancet. Child & adolescent health",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Nocturnal enuresis (bedwetting) is a common disorder affecting 10-16% of 7-year-old children globally. Nocturnal enuresis is highly heritable, but its genetic determinants remain unknown. We aimed to identify genetic variants associated with nocturnal enuresis and explore its genetic architecture and underlying biology.\n\nWe did a genome-wide association study (GWAS) of nocturnal enuresis. Nocturnal enuresis cases were identified in iPSYCH2012, a large Danish population-based case cohort established to investigate mental disorders, on the basis of 10th revision of the International Statistical Classification of Diseases (ICD-10) diagnoses and redeemed desmopressin prescriptions in Danish registers. The GWAS was done in a genetically homogeneous sample of unrelated individuals using logistic regression with relevant covariates. All genome-wide significant variants were analysed for their association with nocturnal enuresis in an independent Icelandic sample from deCODE genetics. Standardised polygenic risk scores for attention-deficit hyperactivity disorder (ADHD) and autism spectrum disorder were constructed from summary statistics of large GWASs and analysed for association with nocturnal enuresis.\n\nThe GWAS included 3882 nocturnal enuresis cases and 31&#x2008;073 controls. We found two loci at chromosome 6 and chromosome 13 significantly associated with nocturnal enuresis. Six genetic variants at the two loci (five variants at chromosome 6q16.2 and one variant at chromosome 13q22.3) surpassed the threshold for genome-wide significance (p<5&#x2008;&#xd7;&#x2008;10). There were two lead variants: rs9376454 (chromosome 6q16.2), with an odds ratio (OR) of 1&#xb7;199 (95% CI 1&#xb7;135-1&#xb7;267; p=9&#xb7;91&#x2008;&#xd7;&#x2008;10), and rs60721117 (chromosome 13q22.3), with an OR of 1&#xb7;149 (1&#xb7;095-1&#xb7;205; p=1&#xb7;21&#x2008;&#xd7;&#x2008;10). All associated variants in the chromosome 6 locus were replicated (p<8&#x2008;&#xd7;&#x2008;10) in the independent Icelandic cohort of 5475 nocturnal enuresis cases and 303&#x2008;996 controls, whereas the associated variant in the chromosome 13 locus showed nominal significant association (p=0&#xb7;031). The percentage of nocturnal enuresis phenotypic variance explained by the common genetic variants was 23&#xb7;9-30&#xb7;4%. Polygenic risk for ADHD was associated with nocturnal enuresis (OR 1&#xb7;06, 95% CI, 1&#xb7;01-1&#xb7;10; p=0&#xb7;011). Among the potential nocturnal enuresis risk genes mapped, PRDM13 and EDNRB have biological functions associated with known pathophysiological mechanisms in nocturnal enuresis, and SIM1 regulates the formation of the hypothalamic neuroendocrine lineage that produces arginine vasopressin, a well known nocturnal enuresis drug target.\n\nThis study shows that common genetic variants contribute considerably to nocturnal enuresis, and it identifies potential nocturnal enuresis risk genes with roles in sleep, urine production, and bladder function. Given that available treatments target these mechanisms, any of the identified genes and their functional gene networks are potential drug targets.\n\nThe Lundbeck Foundation Initiative for Integrative Psychiatric Research (iPSYCH), Stanley Foundation.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Nocturnal enuresis (bedwetting) is a common disorder affecting 10-16% of 7-year-old children globally. Nocturnal enuresis is highly heritable, but its genetic determinants remain unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33453761/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Chromosomes, Human, Pair 13",
+    "Chromosomes, Human, Pair 6",
+    "Deamino Arginine Vasopressin",
+    "Female",
+    "Genetic Loci",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Nocturnal Enuresis",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

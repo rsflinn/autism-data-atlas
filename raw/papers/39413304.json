@@ -1,0 +1,52 @@
+{
+  "pmid": "39413304",
+  "doi": "10.1097/DBP.0000000000001306",
+  "title": "A Comparison of Parent-Reported Severe Autism With Mild/Moderate Autism Among US Children",
+  "authors": "Carbone PS, Stipelman CH, Villalobos ME, Ellzey A, Stuart A, Stoddard GJ, et al.",
+  "journal": "Journal of developmental and behavioral pediatrics : JDBP",
+  "date": "2024-08",
+  "source": "pubmed",
+  "abstract": "An expert commission has proposed the term \"profound\" autism for children on the spectrum who are minimally verbal or nonverbal and have intellectual disability (ID), behavioral challenges, and co-occurring conditions. It is unknown whether parents' rating of \"severe\" autism aligns with the definition of \"profound\" autism. Using the National Survey of Children's Health, we sought to (1) estimate the prevalence of parent-reported severe autism, (2) identify child characteristics that are associated with severe autism, (3) compare health care utilization, and (4) compare caregiver stress and resilience between families of children with severe versus mild/moderate autism.\n\nParent responses on the 2018 to 2019 NSCH were used to compare school-age children with parent-reported severe autism and those with mild/moderate autism. Descriptive statistics, &#x3c7; 2 tests, and logistic regression were used for statistical analysis.\n\nAmong parents of 1,368 US children with autism, 10.1% characterized their child's autism as severe, a prevalence of 1 in 333. Parents of children with severe autism were more likely to report ID (45% vs 12.1%, p < 0.001), language delay (88% vs 58.7%, p < 0.001), and difficulties in dressing and bathing (67% vs 19.2%, p < 0.001). Children with severe autism had more behavioral problems and co-occurring conditions but were no more likely to see specialists or receive autism-specific behavioral therapy. Their caregivers reported more stress and less resilience.\n\nThe characteristics of \"profound\" autism and parent-reported \"severe\" autism significantly overlap, allowing the use of the NSCH for studies of this vulnerable population. Children with profound/severe autism could benefit from more behavioral therapy, specialty care, and family support.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "An expert commission has proposed the term \"profound\" autism for children on the spectrum who are minimally verbal or nonverbal and have intellectual disability (ID), behavioral challenges, and co-occurring conditions. It is unknown whether parents' rating of \"severe\" autism aligns with the definition of \"profound\" autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39413304/",
+  "mesh_terms": [
+    "Adolescent",
+    "Child",
+    "Female",
+    "Humans",
+    "Male",
+    "Autistic Disorder",
+    "Caregiver Burden",
+    "Chi-Square Distribution",
+    "Delivery of Health Care",
+    "Demography",
+    "Developmental Disabilities",
+    "Family Support",
+    "Health Surveys",
+    "Intellectual Disability",
+    "Language Development Disorders",
+    "Logistic Models",
+    "Parents",
+    "Prevalence",
+    "Resilience, Psychological",
+    "United States",
+    "Autism Spectrum Disorder",
+    "Severity of Illness Index"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Comparative Study"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "36416887",
+  "doi": "10.1097/DBP.0000000000001151",
+  "title": "Addressing Self-Injurious Behavior in the Medically Complex Child: Identifying the Root Cause vs Blocking Resulting Behavior",
+  "authors": "Low Kapalu C, Krasaelap A, Nyp SS",
+  "journal": "Journal of developmental and behavioral pediatrics : JDBP",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Gillian is a 7-year-old nonverbal, internationally adopted girl with significant visual impairment (sees shadows and objects with high contrast), moderate-severe hearing loss, autism spectrum disorder, profound intellectual disability, and a seizure disorder. She resided in an orphanage until age 4 years when she was adopted by her mother. She is referred to the multidisciplinary team in developmental-behavioral pediatrics by her gastroenterologist, who is managing her constipation, for evaluation and management of self-injurious behavior that occurs before bowel movements.Gillian's adoptive mother reported that Gillian has a history of repetitive and self-injurious behavior including hitting her head with the palm of her hand and poking her eyes. The head-hitting behavior has resulted in consistent bruising to her forehead and nasal bridge. The eye poking is of significant concern because of the possibility of resultant injury including corneal abrasion or retinal detachment. Eye poking occurs exclusively during the hour before stooling, at home and school, and is accompanied by screaming, pacing, and increased aggression toward her mother/teachers. Mother typically responds by blocking the eye poking, redirecting Gillian to the toilet, providing prompts to use calming strategies (e.g., deep breathing), or providing sensory input by rubbing her arms/back. Teachers respond in a similar way at school. Gillian's mother has tried to place goggles over Gillian's eyes during eye poking, but this resulted in increased aggressive behaviors.Gillian is not fully bowel trained but will sit on the toilet to urinate when prompted. She completes toilet-sits at home/school 5 to 7 times daily. Gillian passes small, soft bowel movements 2 to 4 times daily on a bowel management regimen consisting of polyethylene glycol 3350 17 grams twice daily and liquid senna 8.8 mg daily. Seizures are reportedly well controlled with an antiepileptic medication managed by her neurologist. Previous medical evaluation by otolaryngology, ophthalmology, neurology, and gastroenterology did not identify a source of pain or other cause for the eye poking. Physical examination reveals normal bowel sounds and a mildly distended abdomen but is otherwise unremarkable. What are your next steps for evaluation and treatment?",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Gillian is a 7-year-old nonverbal, internationally adopted girl with significant visual impairment (sees shadows and objects with high contrast), moderate-severe hearing loss, autism spectrum disorder, profound intellectual disability, and a seizure disorder. She resided in an orphanage until age 4 years when she was adopted by her mother.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36416887/",
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Child",
+    "Child, Preschool",
+    "Autism Spectrum Disorder",
+    "Self-Injurious Behavior",
+    "Mothers",
+    "Aggression",
+    "Intellectual Disability"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

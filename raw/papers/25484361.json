@@ -1,0 +1,49 @@
+{
+  "pmid": "25484361",
+  "doi": "10.1016/j.neuroscience.2014.11.033",
+  "title": "Organization of the human superior olivary complex in 15q duplication syndromes and autism spectrum disorders",
+  "authors": "Lukose R, Beebe K, Kulesza RJ",
+  "journal": "Neuroscience",
+  "date": "2014-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by a number of behavioral and social features. Although the etiology of most cases of ASD is idiopathic, a significant number of cases can be attributed to genetic causes, such as chromosome 15q duplications [dup(15q)]. Recent neuropathological investigations have provided evidence for distinct patterns of heterotopias and dysplasias in ASD and subjects with both ASD and dup(15q). Individuals with ASD characteristically have hearing difficulties and we have previously demonstrated significant and consistent hypoplasia in a number of auditory brainstem nuclei in subjects with ASD. Herein, we compare results from a morphometric investigation of auditory brainstem nuclei in subjects with ASD, dup(15q) and controls. Our observations in subjects with ASD support our previous reports. However, in subjects with dup(15q), we find significantly fewer neurons and in many nuclei, neurons were significantly smaller than in ASD subjects. Finally, we find a notably higher incidence of ectopic neurons in dup(15q). These results suggest that in the brainstem, these neuropathological conditions may evolve from some of the same developmental errors but are distinguished on microscopic features.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by a number of behavioral and social features. Although the etiology of most cases of ASD is idiopathic, a significant number of cases can be attributed to genetic causes, such as chromosome 15q duplications [dup(15q)].",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25484361/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Cell Count",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Child, Preschool",
+    "Chromosome Aberrations",
+    "Chromosomes, Human, Pair 15",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neurons",
+    "Superior Olivary Complex",
+    "Trapezoid Body",
+    "Young Adult"
+  ],
+  "keywords": [
+    "auditory",
+    "brainstem",
+    "ectopic"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

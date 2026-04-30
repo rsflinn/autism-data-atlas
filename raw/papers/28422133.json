@@ -1,0 +1,38 @@
+{
+  "pmid": "28422133",
+  "doi": "10.1038/ejhg.2017.55",
+  "title": "Gene-set analysis shows association between FMRP targets and autism spectrum disorder",
+  "authors": "Jansen A, Dieleman GC, Smit AB, Verhage M, Verhulst FC, Polderman TJC, et al.",
+  "journal": "European journal of human genetics : EJHG",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a heterogeneous group of disorders characterized by problems with social interaction, communication, and repetitive and restricted behavior. Despite its high heritability and the substantial progress made in elucidating genetic associations, the corresponding biological mechanisms are largely unknown. Our objective is to investigate the contribution of common genetic variation to biological pathways functionally involved in ASD. We conducted gene-set analyses to identify ASD-associated functional biological pathways using the statistical tools MAGMA and INRICH. Gene-set selection was based on previously reported associations with psychiatric disorders and resulted in testing of specific synaptic and glial sets, a glutamate pathway gene-set, mitochondrial gene-sets and gene-sets consisting of fragile X mental retardation protein (FMRP) targets. In total 32 gene-sets were tested. We used Psychiatric Genomics Consortium genome-wide association studies summary statistics of ASD. The study is based on the largest ASD sample to date (N=5305). We found one significantly associated gene-set consisting of FMRP-targeting transcripts (MAGMA: p corr.=0.014, INRICH: p corr.=0.031; all competitive P-values). The results indicate the involvement of FMRP-targeted transcripts in ASD in common genetic variation. This novel finding is in line with the literature as FMRP has been linked to fragile X syndrome, ASD and cognitive development in whole-exome sequencing and copy number variant studies. This gene-set has also been linked to Schizophrenia suggesting that FMRP-targeted transcripts might be involved in a general mechanism with shared genetic etiology between psychiatric disorders.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a heterogeneous group of disorders characterized by problems with social interaction, communication, and repetitive and restricted behavior. Despite its high heritability and the substantial progress made in elucidating genetic associations, the corresponding biological mechanisms are largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28422133/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Gene Regulatory Networks",
+    "Genes, Mitochondrial",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Humans",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "37197974",
+  "doi": "10.1017/S0950268823000687",
+  "title": "Genetic and epidemiological analyses of infection load and its relationship with psychiatric disorders",
+  "authors": "Nudel R, Hougaard DM, Werge T, Benros ME",
+  "journal": "Epidemiology and infection",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Severe infections and psychiatric disorders have a large impact on both society and the individual. Studies investigating these conditions and the links between them are therefore important. Most past studies have focused on binary phenotypes of particular infections or overall infection, thereby losing some information regarding susceptibility to infection as reflected in the number of specific infection types, or sites, which we term infection load. In this study we found that infection load was associated with increased risk for attention-deficit/hyperactivity disorder, autism spectrum disorder, bipolar disorder, depression, schizophrenia and overall psychiatric diagnosis. We obtained a modest but significant heritability for infection load (= 0.0221), and a high degree of genetic correlation between it and overall psychiatric diagnosis (= 0.4298). We also found evidence supporting a genetic causality for overall infection on overall psychiatric diagnosis. Our genome-wide association study for infection load identified 138 suggestive associations. Our study provides further evidence for genetic links between susceptibility to infection and psychiatric disorders, and suggests that a higher infection load may have a cumulative association with psychiatric disorders, beyond what has been described for individual infections.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Severe infections and psychiatric disorders have a large impact on both society and the individual. Studies investigating these conditions and the links between them are therefore important.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37197974/",
+  "mesh_terms": [
+    "Humans",
+    "Communicable Diseases",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Mental Disorders",
+    "Molecular Epidemiology"
+  ],
+  "keywords": [
+    "GWAS",
+    "Genetics",
+    "genetic correlation",
+    "heritability",
+    "infectious disease",
+    "infectious disease epidemiology",
+    "psychiatric disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "38278994",
+  "doi": "10.1038/s41380-024-02411-0",
+  "title": "Dissecting 16p11.2 hemi-deletion to study sex-specific striatal phenotypes of neurodevelopmental disorders",
+  "authors": "Kim J, Vanrobaeys Y, Kelvington B, Peterson Z, Baldwin E, Gaine ME, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) are polygenic in nature and copy number variants (CNVs) are ideal candidates to study the nature of this polygenic risk. The disruption of striatal circuits is considered a central mechanism in NDDs. The 16p11.2 hemi-deletion (16p11.2 del/+) is one of the most common CNVs associated with NDD, and 16p11.2 del/+ mice show sex-specific striatum-related behavioral phenotypes. However, the critical genes among the 27 genes in the 16p11.2 region that underlie these phenotypes remain unknown. Previously, we applied a novel strategy to identify candidate genes associated with the sex-specific phenotypes of 16p11.2 del/+ mice and highlighted three genes within the deleted region: thousand and one amino acid protein kinase 2 (Taok2), seizure-related 6 homolog-like 2 (Sez6l2), and major vault protein (Mvp). Using CRISPR/Cas9, we generated mice carrying null mutations in&#xa0;Taok2, Sez6l2, and Mvp (3 gene hemi-deletion (3g del/+)). Hemi-deletion of these 3 genes recapitulates sex-specific behavioral alterations in striatum-dependent behavioral tasks observed in 16p11.2 del/+ mice, specifically male-specific hyperactivity and impaired motivation for reward seeking. Moreover, RNAseq analysis revealed that 3g del/+ mice exhibit gene expression changes in the striatum similar to 16p11.2 del/+ mice exclusively in males. Subsequent analysis identified translation dysregulation and/or extracellular signal-regulated kinase signaling as plausible molecular mechanisms underlying male-specific, striatum-dependent behavioral alterations. Interestingly, ribosomal profiling supported the notion of translation dysregulation in both 3g del/+ and 16p11.2 del/+ male mice. However, mice carrying a 4-gene deletion (with an additional deletion of Mapk3) exhibited fewer phenotypic similarities with 16p11.2 del/+ mice. Together, the mutation of 3 genes within the 16p11.2 region phenocopies striatal sex-specific phenotypes of 16p11.2 del/+ mice. These results support the importance of a polygenic approach to study NDDs and underscore that the effects of the large genetic deletions result from complex interactions between multiple candidate genes.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders (NDDs) are polygenic in nature and copy number variants (CNVs) are ideal candidates to study the nature of this polygenic risk. The disruption of striatal circuits is considered a central mechanism in NDDs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38278994/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Male",
+    "Female",
+    "Phenotype",
+    "Chromosome Deletion",
+    "Neurodevelopmental Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Corpus Striatum",
+    "DNA Copy Number Variations",
+    "Sex Characteristics",
+    "Mice, Inbred C57BL",
+    "Disease Models, Animal",
+    "Autistic Disorder",
+    "Intellectual Disability",
+    "Chromosome Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "39223259",
+  "doi": "10.1038/s41598-024-70728-5",
+  "title": "Impact of KDM6B mosaic brain knockout on synaptic function and behavior",
+  "authors": "Brauer B, Ancat&#xe9;n-Gonz&#xe1;lez C, Ahumada-Marchant C, Meza RC, Merino-Veliz N, Nardocci G, et al.",
+  "journal": "Scientific reports",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are complex neurodevelopmental conditions characterized by impairments in social communication, repetitive behaviors, and restricted interests. Epigenetic modifications serve as critical regulators of gene expression playing a crucial role in controlling brain function and behavior. Lysine (K)-specific demethylase 6B (KDM6B), a stress-inducible H3K27me3 demethylase, has emerged as one of the highest ASD risk genes, but the precise effects of KDM6B mutations on neuronal activity and behavioral function remain elusive. Here we show the impact of KDM6B mosaic brain knockout on the manifestation of different autistic-like phenotypes including repetitive behaviors, social interaction, and significant cognitive deficits. Moreover, KDM6B mosaic knockout display abnormalities in hippocampal excitatory synaptic transmission decreasing NMDA receptor mediated synaptic transmission and plasticity. Understanding the intricate interplay between epigenetic modifications and neuronal function may provide novel insights into the pathophysiology of ASD and potentially inform the development of targeted therapeutic interventions.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "KDM6B"
+  ],
+  "summary": "Autism spectrum disorders (ASD) are complex neurodevelopmental conditions characterized by impairments in social communication, repetitive behaviors, and restricted interests. Epigenetic modifications serve as critical regulators of gene expression playing a crucial role in controlling brain function and behavior.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39223259/",
+  "mesh_terms": [
+    "Animals",
+    "Jumonji Domain-Containing Histone Demethylases",
+    "Mice, Knockout",
+    "Synaptic Transmission",
+    "Autism Spectrum Disorder",
+    "Mice",
+    "Brain",
+    "Neuronal Plasticity",
+    "Behavior, Animal",
+    "Hippocampus",
+    "Epigenesis, Genetic",
+    "Male",
+    "Synapses"
+  ],
+  "keywords": [
+    "ASD",
+    "Behavior",
+    "Gene editing",
+    "KDM6B",
+    "NMDA"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "34767477",
+  "doi": "10.1044/2021_LSHSS-21-00064",
+  "title": "Functional Communication Abilities in Youth With Cerebral Palsy: Association With Impairment Profiles and School-Based Therapy Goals",
+  "authors": "Koopmans C, Sakash A, Soriano J, Long HL, Hustad KC",
+  "journal": "Language, speech, and hearing services in schools",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "The aim of this study was to examine the relationship between functional communication skills, underlying speech, language, and cognitive impairments and school-based speech pathology services in students with cerebral palsy (CP).\n\nThirty-five participants with CP who had Individualized Education Programs (IEPs) were classified according to the Communication Function Classification System (CFCS). Participants completed laboratory assessments of speech, receptive language, executive functioning, and nonverbal cognition. Each participant's speech and language IEP goals were coded into treatment units and then categorized into seven, mutually exclusive target goal areas. Nonparametric analyses were employed to examine differences among CFCS groups in the number of deficit areas and the number of goal areas from the IEP. Descriptive analyses were used to evaluate the extent to which deficit and goal areas in the IEP co-occurred by CFCS level.\n\nThose in more involved CFCS levels demonstrated more severe speech, receptive language, and cognitive impairments. However, there were no significant differences in the number of deficit areas across CFCS groups. Regardless of CFCS level, there were no differences in the number of treatment goals specified in the IEP. Literacy was the only goal area addressed across all CFCS levels. Those in the most involved CFCS levels had augmentative and alternative communication (AAC) goals, but those with more moderate restrictions in functional communication who also had markedly reduced speech intelligibility did not typically have speech or AAC goals.\n\nIndividuals with CP across CFCS levels demonstrate variability in underlying deficit profiles, suggesting that measures of both functional communication and of underlying deficits are necessary to provide a complete picture of communication needs. Literacy goals were common across all CFCS levels, but AAC goals were limited to the most severely involved individuals, suggesting that continuing education may be necessary to support speech-language pathologists in developing treatments involving the integration of AAC and speech to foster functional communication at school.\n\nhttps://doi.org/10.23641/asha.16968073.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "The aim of this study was to examine the relationship between functional communication skills, underlying speech, language, and cognitive impairments and school-based speech pathology services in students with cerebral palsy (CP). Thirty-five participants with CP who had Individualized Education Programs (IEPs) were classified according to the Communication Function Classification System (CFCS).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34767477/",
+  "mesh_terms": [
+    "Adolescent",
+    "Cerebral Palsy",
+    "Communication",
+    "Communication Disorders",
+    "Goals",
+    "Humans",
+    "Language",
+    "Speech Intelligibility"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

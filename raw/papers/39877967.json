@@ -1,0 +1,47 @@
+{
+  "pmid": "39877967",
+  "doi": "10.1093/hmg/ddae199",
+  "title": "Human TSC2 mutant cells exhibit aberrations in early neurodevelopment accompanied by changes in the DNA Methylome",
+  "authors": "Chalkley ML, Guerin LN, Iyer T, Mallahan S, Nelson S, Sahin M, et al.",
+  "journal": "Human molecular genetics",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Tuberous Sclerosis Complex (TSC) is a debilitating developmental disorder characterized by a variety of clinical manifestations. While benign tumors in the heart, lungs, kidney, and brain are all hallmarks of the disease, the most severe symptoms of TSC are often neurological, including seizures, autism, psychiatric disorders, and intellectual disabilities. TSC is caused by loss of function mutations in the TSC1 or TSC2 genes and consequent dysregulation of signaling via mechanistic Target of Rapamycin Complex 1 (mTORC1). While TSC neurological phenotypes are well-documented, it is not yet known how early in neural development TSC1/2-mutant cells diverge from the typical developmental trajectory. Another outstanding question is the contribution of homozygous-mutant cells to disease phenotypes and whether phenotypes are also present in the heterozygous-mutant populations that comprise the vast majority of cells in patients. Using TSC patient-derived isogenic induced pluripotent stem cells (iPSCs) with defined genetic changes, we observed aberrant early neurodevelopment in vitro, including misexpression of key proteins associated with lineage commitment and premature electrical activity. These alterations in differentiation were coincident with hundreds of differentially methylated DNA regions, including loci associated with key genes in neurodevelopment. Collectively, these data suggest that mutation or loss of TSC2 affects gene regulation and expression at earlier timepoints than previously appreciated, with implications for whether and how prenatal treatment should be pursued.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous Sclerosis Complex (TSC) is a debilitating developmental disorder characterized by a variety of clinical manifestations. While benign tumors in the heart, lungs, kidney, and brain are all hallmarks of the disease, the most severe symptoms of TSC are often neurological, including seizures, autism, psychiatric disorders, and intellectual disabilities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39877967/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Tuberous Sclerosis",
+    "DNA Methylation",
+    "Induced Pluripotent Stem Cells",
+    "Mutation",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Mechanistic Target of Rapamycin Complex 1",
+    "Cell Differentiation",
+    "Epigenome"
+  ],
+  "keywords": [
+    "DNA methylation",
+    "iPS cells",
+    "neurodevelopment",
+    "tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

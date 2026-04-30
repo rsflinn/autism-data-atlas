@@ -1,0 +1,35 @@
+{
+  "pmid": "35463507",
+  "doi": "10.3389/fpsyt.2022.856153",
+  "title": "Effectiveness of De-Escalation in Reducing Aggression and Coercion in Acute Psychiatric Units. A Cluster Randomized Study",
+  "authors": "Celofiga A, Kores Plesnicar B, Koprivsek J, Moskon M, Benkovic D, Gregoric Kumperscak H",
+  "journal": "Frontiers in psychiatry",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Most guidelines for the management of aggressive behavior in acute psychiatric patients describe the use of de-escalation as the first-choice method, but the evidence for its effectiveness is inconsistent. The aim of the study was to assess the effect of verbal and non-verbal de-escalation on the incidence and severity of aggression and the use of physical restraints in acute psychiatric wards.\n\nA multi-center cluster randomized study was conducted in the acute wards of all psychiatric hospitals in Slovenia. The research was carried out in two phases, a baseline period of five consecutive months and an intervention period of the same five consecutive months in the following year. The intervention was implemented after the baseline period and included training in verbal and non-verbal de-escalation techniques for the staff teams on experimental wards.\n\nIn the baseline study period, there were no significant differences in the incidence of aggressive behavior and physical restraints between the experimental and control groups. The incidence rates of aggressive events, severe aggressive events, and physical restraints per 100 treatment days decreased significantly after the intervention. Compared to the control group, the incidence rate of aggressive events was 73% lower in the experimental group (IRR = 0.268, 95% CI [0.221; 0.342]), while the rate of severe events was 86% lower (IRR = 0.142, 95% CI [0.107; 0.189]). During the intervention period, the incidence rate of physical restraints due to aggression in the experimental group decreased to 30% of the rate in the control group (IRR = 0.304, 95% CI [0.238; 0.386]). No reduction in the incidence of restraint used for reasons unrelated to aggression was observed. After the intervention, a statistically significant decrease in the severity of aggressive incidents (< 0.001) was observed, while the average duration of restraint episodes did not decrease.\n\nDe-escalation training is effective in reducing the incidence and severity of aggression and the use of physical restraints in acute psychiatric units.\n\n[www.ClinicalTrials.gov], identifier [NCT05166278].",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Most guidelines for the management of aggressive behavior in acute psychiatric patients describe the use of de-escalation as the first-choice method, but the evidence for its effectiveness is inconsistent. The aim of the study was to assess the effect of verbal and non-verbal de-escalation on the incidence and severity of aggression and the use of physical restraints in acute psychiatric wards.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35463507/",
+  "mesh_terms": [],
+  "keywords": [
+    "acute ward",
+    "aggression",
+    "de-escalation training",
+    "incidence",
+    "psychiatry",
+    "restraint"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

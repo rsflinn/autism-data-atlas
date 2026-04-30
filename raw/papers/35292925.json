@@ -1,0 +1,47 @@
+{
+  "pmid": "35292925",
+  "doi": "10.1007/s10578-022-01328-5",
+  "title": "A Phase III Study of Bumetanide Oral Liquid Formulation for the Treatment of Children and Adolescents Aged Between 7 and 17 Years with Autism Spectrum Disorder (SIGN 1 Trial): Participant Baseline Characteristics",
+  "authors": "Georgoula C, Ferrin M, Pietraszczyk-Kedziora B, Hervas A, Marret S, Oliveira G, et al.",
+  "journal": "Child psychiatry and human development",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "The efficacy of bumetanide (oral liquid formulation 0.5&#xa0;mg bid) as a treatment for the core symptoms of autism spectrum disorders in children and adolescents aged 7-17&#xa0;years is being investigated in an international, randomised, double-blind, placebo-controlled phase III study. The primary endpoint is the change in Childhood Autism Rating Scale 2 (CARS2) total raw score after 6&#xa0;months of treatment. At baseline, the 211 participants analysed are broadly representative of autistic subjects in this age range: mean (SD) age, 10.4 (3.0) years; 82.5% male; 47.7% with intelligence quotient&#x2009;&#x2265;&#x2009;70. Mean CARS2 score was 40.1 (4.9) and mean Social Responsiveness Scale score was 116.7 (23.4). Final study results will provide data on efficacy and safety of bumetanide in autistic children and adolescents.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The efficacy of bumetanide (oral liquid formulation 0.5&#xa0;mg bid) as a treatment for the core symptoms of autism spectrum disorders in children and adolescents aged 7-17&#xa0;years is being investigated in an international, randomised, double-blind, placebo-controlled phase III study. The primary endpoint is the change in Childhood Autism Rating Scale 2 (CARS2) total raw score after 6&#xa0;months of treatment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35292925/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Male",
+    "Adolescent",
+    "Female",
+    "Autism Spectrum Disorder",
+    "Bumetanide",
+    "Autistic Disorder",
+    "Double-Blind Method",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Bumetanide",
+    "Paediatrics",
+    "Randomised controlled trial"
+  ],
+  "article_types": [
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase III",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

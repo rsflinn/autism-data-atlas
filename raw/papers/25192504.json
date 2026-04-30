@@ -1,0 +1,38 @@
+{
+  "pmid": "25192504",
+  "doi": "10.1055/s-0034-1386764",
+  "title": "Autism and fragile X syndrome",
+  "authors": "Yu TW, Berry-Kravis E",
+  "journal": "Seminars in neurology",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "Autistic spectrum disorders (ASDs) are characterized by impairments in language, social skills, and repetitive behaviors, often accompanied by intellectual disability. Advances in the genetics of ASDs are providing new glimpses into the underlying neurobiological mechanisms disrupted in these conditions. These glimpses on one hand reinforce the idea that synapse development and plasticity are one of the major pathways disrupted in autism, but beyond that are providing fresh molecular support to the idea of mechanistic parallels between idiopathic ASD and specific syndromic neurodevelopmental disorders like fragile X syndrome (FXS). Fragile X syndrome is already recognized as the most common identifiable genetic cause of intellectual disability and ASDs, with many overlapping phenotypic features. Fragile X syndrome is associated with a variety of cognitive, behavioral, physical, and medical problems, which are managed through supportive treatment. Recent major advances in the understanding of the underlying neurobiology in FXS have led to the discovery of agents that rescue phenotypes in the FXS mouse model, and early clinical trials of targeted treatments in humans with FXS. Thus translational strategies in FXS may be poised to serve as models for ASD and other cognitive disorders.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Autistic spectrum disorders (ASDs) are characterized by impairments in language, social skills, and repetitive behaviors, often accompanied by intellectual disability. Advances in the genetics of ASDs are providing new glimpses into the underlying neurobiological mechanisms disrupted in these conditions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25192504/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Cognition Disorders",
+    "Disease Models, Animal",
+    "Fragile X Syndrome",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

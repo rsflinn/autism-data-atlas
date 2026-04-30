@@ -1,0 +1,46 @@
+{
+  "pmid": "28424947",
+  "doi": "10.1007/s11064-017-2262-4",
+  "title": "Neurodevelopmental Effects of Antiepileptic Drugs",
+  "authors": "Kellogg M, Meador KJ",
+  "journal": "Neurochemical research",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Increasing evidence suggests that exposure to certain antiepileptic drugs (AEDs) during critical periods of development may induce transient or long-lasting neurodevelopmental deficits across cognitive, motor and behavioral domains. The developing nervous system may endure prolonged chronic exposure to AEDs during pregnancy (in utero) or during childhood, which can lead to neurodevelopmental defects such as congenital neural tube defects, lower IQ, language deficits, autism and ADHD. To date, valproate is the most widely recognized AED to significantly negatively affect neurodevelopment, and demonstrates greater adverse effects than any other AEDs that have been assessed. Although some AEDs appear to have low risk (i.e., lamotrigine, levetiracetam), other AEDs have been implicated in a variety of studies detailed below, and many AEDs have not been adequately assessed. The purpose of this review article is to summarize our current understanding of the neurodevelopmental effects of AEDs.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Increasing evidence suggests that exposure to certain antiepileptic drugs (AEDs) during critical periods of development may induce transient or long-lasting neurodevelopmental deficits across cognitive, motor and behavioral domains. The developing nervous system may endure prolonged chronic exposure to AEDs during pregnancy (in utero) or during childhood, which can lead to neurodevelopmental defects such as congenital neural tube defects, lower IQ, language deficits, autism and ADHD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28424947/",
+  "mesh_terms": [
+    "Animals",
+    "Anticonvulsants",
+    "Clinical Trials as Topic",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Neurodevelopmental Disorders",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects"
+  ],
+  "keywords": [
+    "AED",
+    "AED exposure",
+    "Anticonvulsant drugs",
+    "Antiepileptic drugs",
+    "Neurodevelopment",
+    "Neurodevelopmental effects"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

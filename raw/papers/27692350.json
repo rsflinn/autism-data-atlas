@@ -1,0 +1,48 @@
+{
+  "pmid": "27692350",
+  "doi": "10.1016/j.encep.2016.07.007",
+  "title": "[Epigenetics' implication in autism spectrum disorders: A review]",
+  "authors": "Hamza M, Halayem S, Mrad R, Bourgou S, Charfi F, Belhadj A",
+  "journal": "L'Encephale",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "The etiology of autism spectrum disorders (ASD) is complex and multifactorial, and the roles of genetic and environmental factors in its emergence have been well documented. Current research tends to indicate that these two factors act in a synergistic manner. The processes underlying this interaction are still poorly known, but epigenetic modifications could be the mediator in the gene/environment interface. The epigenetic mechanisms have been implicated in susceptibility to stress and also in the pathogenesis of psychiatric disorders including depression and schizophrenia. Currently, several studies focus on the consideration of the etiological role of epigenetic regulation in ASD.\n\nThe object of this review is to present a summary of current knowledge of an epigenetic hypothesis in ASD, outlining the recent findings in this field.\n\nUsing Pubmed, we did a systematic review of the literature researching words such as: autism spectrum disorders, epigenetics, DNA methylation and histone modification.\n\nEpigenetic refers to the molecular process modulating gene expression without changes in the DNA sequence. The most studied epigenetic mechanisms are those that alter the chromatin structure including DNA methylation of cytosine residues in CpG dinucleotides and post-translational histone modifications. In ASD several arguments support the epigenetic hypothesis. In fact, there is a frequent association between ASD and genetic diseases whose epigenetic etiologies are recognized. A disturbance in the expression of genes involved in the epigenetic regulation has also been described in this disorder. Some studies have demonstrated changes in the DNA methylation of several autism candidate genes including the gene encoding the oxytocin receptor (OXTR), the RELN and the SHANK3 genes. Beyond the analysis of candidate genes, recent epigenome-wide association studies have investigated the methylation level of several other genes and showed hypomethylation of the whole DNA in brain and blood samples of autistic patients. The changes in epigenetic marks following exposure to environmental factors known as autism risk factors are also discussed in many reports. They include nutritional (vitamin D and folate) and toxic (sodium valproate, bisphenol A) factors. Despite a considerable contribution to understanding the complexity of ASD etiology, the epigenetic studies suffer from numerous methodological biases that limit the scope of their results and make their interpretation difficult. The cell samples used in the psychiatric studies are mostly from the post-mortem tissue of the central nervous system, and factors that might change the epigenome (age, gender, treatments received&#x2026;) are not taken into account. The use of blood and buccal epithelium samples raises in turn the question as to whether the epigenome of these cells reflects that of the nerve cells. DNA methylation can also be influenced by cell subcomposition variability, transcriptional variability and by DNA sequence variants.\n\nThese recent discoveries in epigenetics are the beginnings of an etiopathogenic research revolution in neurodevelopmental disorders. The conceptualization of epigenetic processes is in its early stages and despite its limited means will help integrate disparate data factors previously involved in autism. It could also be the target for the development of new therapeutic modalities.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "OXTR",
+    "SHANK3"
+  ],
+  "summary": "The etiology of autism spectrum disorders (ASD) is complex and multifactorial, and the roles of genetic and environmental factors in its emergence have been well documented. Current research tends to indicate that these two factors act in a synergistic manner.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27692350/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Histones",
+    "Humans",
+    "Reelin Protein"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "DNA methylation",
+    "Epigenetics",
+    "Histone",
+    "M&#xe9;thylation ADN",
+    "Troubles du spectre autistique",
+    "&#xc9;pig&#xe9;n&#xe9;tique"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review"
+  ]
+}

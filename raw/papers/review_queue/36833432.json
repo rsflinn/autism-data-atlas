@@ -1,0 +1,43 @@
+{
+  "pmid": "36833432",
+  "doi": "10.3390/genes14020505",
+  "title": "Efficient Delivery ofacross the Blood Brain Barrier Using AAVphp Construct in AdultKO Mice Suggests the Feasibility of Gene Therapy for Fragile X Syndrome",
+  "authors": "Chadman KK, Adayev T, Udayan A, Ahmed R, Dai CL, Goodman JH, et al.",
+  "journal": "Genes",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Background Fragile X syndrome (FXS) is the most common inherited cause of intellectual disability and autism. Gene therapy may offer an efficient method to ameliorate the symptoms of this disorder. Methods An AAVphp.eb-hSyn-mFMR1IOS7 vector and an empty control were injected into the tail vein of adultknockout (KO) mice and wildtype (WT) controls. The KO mice were injected with 2 &#xd7; 10vg/kg of the construct. The control KO and WT mice were injected with an empty vector. Four weeks following treatment, the animals underwent a battery of tests: open field, marble burying, rotarod, and fear conditioning. The mouse brains were studied for levels of theproduct FMRP. Results: No significant levels of FMRP were found outside the CNS in the treated animals. The gene delivery was highly efficient, and it exceeded the control FMRP levels in all tested brain regions. There was also improved performance in the rotarod test and partial improvements in the other tests in the treated KO animals. Conclusion: These experiments demonstrate efficient, brain-specific delivery ofvia peripheral administration in adult mice. The gene delivery led to partial alleviation of theKO phenotypical behaviors. FMRP oversupply may explain why not all behaviors were significantly affected. Since AAV.php vectors are less efficient in humans than in the mice used in the current experiment, studies to determine the optimal dose using human-suitable vectors will be necessary to further demonstrate feasibility.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Background Fragile X syndrome (FXS) is the most common inherited cause of intellectual disability and autism. Gene therapy may offer an efficient method to ameliorate the symptoms of this disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36833432/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Mice, Knockout",
+    "Blood-Brain Barrier",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Feasibility Studies",
+    "Genetic Therapy"
+  ],
+  "keywords": [
+    "FMR1",
+    "FMRP",
+    "fragile X syndrome",
+    "gene therapy"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

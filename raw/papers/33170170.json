@@ -1,0 +1,37 @@
+{
+  "pmid": "33170170",
+  "doi": "10.23750/abm.v91i13-S.10684",
+  "title": "Genetic analysis of intellectual disability and autism",
+  "authors": "Chiurazzi P, Kiani AK, Miertus J, Paolacci S, Barati S, Manara E, et al.",
+  "journal": "Acta bio-medica : Atenei Parmensis",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Intellectual disability (ID) and autism spectrum disorders (ASD) are neurodevelopmental conditions that often co-exist and affect children from birth, impacting on their cognition and adaptive behaviour. Social interaction and communication ability are also severely impaired in ASD. Almost 1-3% of the population is affected and it has been estimated that approximately 30% of intellectual disability and autism is caused by genetic factors. The aim of this review is to summarize monogenic conditions characterized by intellectual disability and/or autism for which the causative genes have been identified.\n\nWe identified monogenic ID/ASD conditions through PubMed and other NCBI databases. Many such genes are located on the X chromosome (>150 out of 900 X-linked protein-coding genes), but at least 2000 human genes are estimated to be involved in ID/ASD. We selected 174 genes (64 X-linked and 110 autosomal) for an NGS panel in order to screen patients with ID and/or ASD, after fragile X syndrome and significant Copy Number Variants have been excluded.\n\nAccurate clinical and genetic diagnosis is required for precise treatment of these disorders, but due to their genetic heterogeneity, most cases remain undiagnosed. Next generation sequencing technologies have greatly enhanced the identification of new genes associated with intellectual disability and autism, ultimately leading to the development of better treatment options.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Intellectual disability (ID) and autism spectrum disorders (ASD) are neurodevelopmental conditions that often co-exist and affect children from birth, impacting on their cognition and adaptive behaviour. Social interaction and communication ability are also severely impaired in ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33170170/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Genetic Testing",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Intellectual Disability"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

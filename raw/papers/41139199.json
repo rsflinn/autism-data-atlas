@@ -1,0 +1,45 @@
+{
+  "pmid": "41139199",
+  "doi": "10.1210/clinem/dgaf572",
+  "title": "MECP2 Rare Variants in Boys With Central Precocious Puberty",
+  "authors": "Canton APM, Mebarak JB, Read JE, Roberts SA, Benson M, Shenoy R, et al.",
+  "journal": "The Journal of clinical endocrinology and metabolism",
+  "date": "2026-03",
+  "source": "pubmed",
+  "abstract": "Central precocious puberty (CPP) has strong genetic and epigenetic influences. MECP2, an X-linked gene, encodes a DNA methylation reader with a role in gene transcription regulation. MECP2 loss-of-function mutations are linked to neurodevelopmental disorders, particularly with Rett syndrome, a severe disorder that may be associated with early puberty. MECP2 variants were identified in girls with CPP with or without neurodevelopmental disorders.\n\nThis work aimed to investigate potential MECP2 variants in boys with idiopathic CPP at 3 academic hospitals.\n\nMECP2 DNA sequencing was performed in 10 boys with idiopathic CPP to screen for coding variants (5 exome; 5 Sanger sequencing). There were no mutations in other CPP-causing genes (MKRN3 and DLK1). MECP2 protein levels of wild-type and identified variants were assessed in a gonadotropin-releasing hormone neuronal cell line.\n\nWe identified 2 hemizygous missense MECP2 variants in 2 unrelated boys. Patient 1 had very early sporadic CPP, speech delay, and autism. He harbored a p.Val312Ile variant, an extremely rare variant located in a critical MECP2 domain. Patient 2 had sporadic CPP with no apparent neurodevelopmental disorders. He harbored a rare variant, p.Arg366Cys. Both MECP2 variants were inherited from mothers with normal puberty. Neither patient had features of Rett syndrome. Both variants had reduced MECP2 protein levels, suggesting a potential deleterious effect.\n\nMECP2 rare variants were identified in boys with sporadic CPP, expanding this association as previously described in girls. Our findings provide additional evidence for a role of MECP2, an epigenetic factor, in hypothalamic control of pubertal timing.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Central precocious puberty (CPP) has strong genetic and epigenetic influences. MECP2, an X-linked gene, encodes a DNA methylation reader with a role in gene transcription regulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41139199/",
+  "mesh_terms": [
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Puberty, Precocious",
+    "Male",
+    "Child",
+    "Mutation, Missense",
+    "Female",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "MECP2",
+    "X-linked precocious puberty",
+    "central precocious puberty",
+    "genetics of puberty"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Case Reports"
+  ]
+}

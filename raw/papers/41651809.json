@@ -1,0 +1,36 @@
+{
+  "pmid": "41651809",
+  "doi": "10.1038/s41398-026-03824-x",
+  "title": "Convergence and divergence of genes informed by common and rare variants of autism spectrum disorders in tissue-specific pathways and gene networks",
+  "authors": "Gill C, Zuo Y, Ha DS, Littman R, Hong J, Cheng J, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "The genetic heterogeneity of autism spectrum disorder (ASD) presents significant challenges in understanding its pathogenic mechanisms, as the genetic risk involves numerous common variants and rare de novo or inherited variants. Prior research has mainly focused on identifying rare variants and their impact on neurodevelopment and neuronal functions in cortical brain regions. By contrast, common variants, which contribute substantially to ASD heritability, remain understudied, suggesting a need to consider both variant types to understand ASD's genetic mechanisms. Previous studies have also implicated subcortical brain regions and peripheral digestive and immune systems, but tissue-specific mechanisms remain unclear. We address these knowledge gaps by identifying gene networks, pathways, and key regulators informed by ASD common variants in brain and peripheral tissues, further examining whether these networks also capture genes informed by rare variants. Our approach integrates genome wide association study (GWAS) summary statistics, tissue-level genetics of gene expression, and gene coexpression and transcriptional regulatory networks across ~50 tissues. Our multitissue, multiomics analysis reveals that key brain regions and networks crucial for synaptic signaling and neurodevelopment are enriched for both rare and common variants, whereas peripheral tissues, such as the digestive and immune systems, are primarily informed by common variants. This partitioning of key tissues and biological pathways into core (targeted by both variant types) and modifying components provide insight into ASD heterogeneity. We also identified central gene network regulators, such as SYT1 and ADD2, which may orchestrate the effects of both common and rare ASD genetic risk factors on ASD pathogenesis.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The genetic heterogeneity of autism spectrum disorder (ASD) presents significant challenges in understanding its pathogenic mechanisms, as the genetic risk involves numerous common variants and rare de novo or inherited variants. Prior research has mainly focused on identifying rare variants and their impact on neurodevelopment and neuronal functions in cortical brain regions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41651809/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Genome-Wide Association Study",
+    "Gene Regulatory Networks",
+    "Brain",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

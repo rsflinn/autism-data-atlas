@@ -1,0 +1,44 @@
+{
+  "pmid": "35893067",
+  "doi": "10.3390/genes13081329",
+  "title": "MicroRNA and MicroRNA-Target Variants Associated with Autism Spectrum Disorder and Related Disorders",
+  "authors": "Wong A, Zhou A, Cao X, Mahaganapathy V, Azaro M, Gwin C, et al.",
+  "journal": "Genes",
+  "date": "2022-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a childhood neurodevelopmental disorder with a complex and heterogeneous genetic etiology. MicroRNA (miRNA), a class of small non-coding RNAs, could regulate ASD risk genes post-transcriptionally and affect broad molecular pathways related to ASD and associated disorders. Using whole-genome sequencing, we analyzed 272 samples in 73 families in the New Jersey Language and Autism Genetics Study (NJLAGS) cohort. Families with at least one ASD patient were recruited and were further assessed for language impairment, reading impairment, and other associated phenotypes. A total of 5104 miRNA variants and 1,181,148 3' untranslated region (3' UTR) variants were identified in the dataset. After applying several filtering criteria, including population allele frequency, brain expression, miRNA functional regions, and inheritance patterns, we identified high-confidence variants in five brain-expressed miRNAs (targeting 326 genes) and 3' UTR miRNA target regions of 152 genes. Some genes, such asand, were identified in multiple families. Using Gene Ontology overrepresentation analysis and protein-protein interaction network analysis, we identified clusters of genes and pathways that are important for neurodevelopment. The miRNAs and miRNA target genes identified in this study are potentially involved in neurodevelopmental disorders and should be considered for further functional studies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a childhood neurodevelopmental disorder with a complex and heterogeneous genetic etiology. MicroRNA (miRNA), a class of small non-coding RNAs, could regulate ASD risk genes post-transcriptionally and affect broad molecular pathways related to ASD and associated disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35893067/",
+  "mesh_terms": [
+    "3' Untranslated Regions",
+    "Alleles",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Humans",
+    "MicroRNAs"
+  ],
+  "keywords": [
+    "3&#x2032; UTR",
+    "autism spectrum disorder",
+    "family cohort",
+    "miRNA",
+    "neurodevelopmental disorder",
+    "whole-genome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

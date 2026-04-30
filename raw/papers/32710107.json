@@ -1,0 +1,57 @@
+{
+  "pmid": "32710107",
+  "doi": "10.1093/cercor/bhaa198",
+  "title": "Right Posterior Insula and Putamen Volume Mediate the Effect of Oxytocin Receptor Polygenic Risk for Autism Spectrum Disorders on Reward Dependence in Healthy Adults",
+  "authors": "Wang J, Zhang P, Li W, Wen Q, Liu F, Xu J, et al.",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Much evidence indicates the influence of the oxytocin receptor (OXTR) gene on autism spectrum disorders (ASDs), a set of disorders characterized by a range of deficits in prosocial behaviors, which are closely related to the personality trait of reward dependence (RD). However, we do not know the effect of the OXTR polygenic risk score for ASDs (OXTR-PRSASDs) on RD and its underlying neuroanatomical substrate. Here, we aimed to investigate associations among the OXTR-PRSASDs, gray matter volume (GMV), and RD in two independent datasets of healthy young adults (n&#x2009;=&#x2009;450 and 540). We found that the individuals with higher OXTR-PRSASDs had lower RD and significantly smaller GMV in the right posterior insula and putamen. The GMV of this region showed a positive correlation with RD and a mediation effect on the association between OXTR-PRSASDs and RD. Moreover, the correlation map between OXTR-PRSASDs and GMV showed spatial correlation with OXTR gene expression. All results were highly consistent between the two datasets. These findings highlight a possible neural pathway by which the common variants in the OXTR gene associated with ASDs may jointly impact the GMV of the right posterior insula and putamen and further affect the personality trait of RD.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "OXTR"
+  ],
+  "summary": "Much evidence indicates the influence of the oxytocin receptor (OXTR) gene on autism spectrum disorders (ASDs), a set of disorders characterized by a range of deficits in prosocial behaviors, which are closely related to the personality trait of reward dependence (RD). However, we do not know the effect of the OXTR polygenic risk score for ASDs (OXTR-PRSASDs) on RD and its underlying neuroanatomical substrate.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32710107/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Brain Mapping",
+    "Cerebral Cortex",
+    "Female",
+    "Gene Frequency",
+    "Genetic Variation",
+    "Genotype",
+    "Gray Matter",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Neural Pathways",
+    "Polymorphism, Single Nucleotide",
+    "Putamen",
+    "Receptors, Oxytocin",
+    "Reward",
+    "Young Adult"
+  ],
+  "keywords": [
+    "imaging genetics",
+    "oxytocin receptor",
+    "polygenic risk score",
+    "single nucleotide polymorphism",
+    "voxel-based morphometry"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "35453345",
+  "doi": "10.3390/antiox11040659",
+  "title": "A Pathway-Based Genetic Score for Oxidative Stress: An Indicator of Host Vulnerability to Phthalate-Associated Adverse Neurodevelopment",
+  "authors": "Tanner S, Thomson S, Drummond K, O'Hely M, Symeonides C, Mansell T, et al.",
+  "journal": "Antioxidants (Basel, Switzerland)",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "The developing brain is highly sensitive to environmental disturbances, and adverse exposures can act through oxidative stress. Given that oxidative stress susceptibility is determined partly by genetics, multiple studies have employed genetic scores to explore the role of oxidative stress in human disease. However, traditional approaches to genetic score construction face a range of challenges, including a lack of interpretability, bias towards the disease outcome, and often overfitting to the study they were derived on. Here, we develop an alternative strategy by first generating a genetic pathway function score for oxidative stress (gPFSox) based on the transcriptional activity levels of the oxidative stress response pathway in brain and other tissue types. Then, in the Barwon Infant Study (BIS), a population-based birth cohort (n = 1074), we show that a high gPFSox, indicating reduced ability to counter oxidative stress, is linked to higher autism spectrum disorder risk and higher parent-reported autistic traits at age 4 years, with AOR values (per 2 additional pro-oxidant alleles) of 2.10 (95% CI (1.12, 4.11); p = 0.024) and 1.42 (95% CI (1.02, 2.01); p = 0.041), respectively. Past work in BIS has reported higher prenatal phthalate exposure at 36 weeks of gestation associated with offspring autism spectrum disorder. In this study, we examine combined effects and show a consistent pattern of increased neurodevelopmental problems for individuals with both a high gPFSox and high prenatal phthalate exposure across a range of outcomes, including high gPFSox and high DEHP levels against autism spectrum disorder (attributable proportion due to interaction 0.89; 95% CI (0.62, 1.16); p < 0.0001). The results highlight the utility of this novel functional genetic score and add to the growing evidence implicating gestational phthalate exposure in adverse neurodevelopment.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The developing brain is highly sensitive to environmental disturbances, and adverse exposures can act through oxidative stress. Given that oxidative stress susceptibility is determined partly by genetics, multiple studies have employed genetic scores to explore the role of oxidative stress in human disease.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35453345/",
+  "mesh_terms": [],
+  "keywords": [
+    "ADHD",
+    "ASD",
+    "attention-deficit hyperactivity disorder",
+    "autism",
+    "biological pathway",
+    "cognition",
+    "genetic score",
+    "neurodevelopment",
+    "oxidative stress",
+    "phthalates",
+    "plastics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

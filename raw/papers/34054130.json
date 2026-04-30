@@ -1,0 +1,38 @@
+{
+  "pmid": "34054130",
+  "doi": "10.1038/s41386-021-01044-z",
+  "title": "Genetic underpinnings of sociability in the general population",
+  "authors": "Bralten J, Mota NR, Klemann CJHM, De Witte W, Laing E, Collier DA, et al.",
+  "journal": "Neuropsychopharmacology : official publication of the American College of Neuropsychopharmacology",
+  "date": "2021-05",
+  "source": "pubmed",
+  "abstract": "Levels of sociability are continuously distributed in the general population, and decreased sociability represents an early manifestation of several brain disorders. Here, we investigated the genetic underpinnings of sociability in the population. We performed a genome-wide association study (GWAS) of a sociability score based on four social functioning-related self-report questions from 342,461 adults in the UK Biobank. Subsequently we performed gene-wide and functional follow-up analyses. Robustness analyses were performed in the form of GWAS split-half validation analyses, as well as analyses excluding neuropsychiatric cases. Using genetic correlation analyses as well as polygenic risk score analyses we investigated genetic links of our sociability score to brain disorders and social behavior outcomes. Individuals with autism spectrum disorders, bipolar disorder, depression, and schizophrenia had a lower sociability score. The score was significantly heritable (SNP hof 6%). We identified 18 independent loci and 56 gene-wide significant genes, including genes like ARNTL, DRD2, and ELAVL2. Many associated variants are thought to have deleterious effects on gene products and our results were robust. The sociability score showed negative genetic correlations with autism spectrum, disorders, depression, schizophrenia, and two sociability-related traits-loneliness and social anxiety-but not with bipolar disorder or Alzheimer's disease. Polygenic risk scores of our sociability GWAS were associated with social behavior outcomes within individuals with bipolar disorder and with major depressive disorder. Variation in population sociability scores has a genetic component, which is relevant to several psychiatric disorders. Our findings provide clues towards biological pathways underlying sociability.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Levels of sociability are continuously distributed in the general population, and decreased sociability represents an early manifestation of several brain disorders. Here, we investigated the genetic underpinnings of sociability in the population.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34054130/",
+  "mesh_terms": [
+    "Adult",
+    "Bipolar Disorder",
+    "Major Depressive Disorder",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Polymorphism, Single Nucleotide",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

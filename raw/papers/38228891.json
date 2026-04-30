@@ -1,0 +1,46 @@
+{
+  "pmid": "38228891",
+  "doi": "10.1038/s41380-024-02407-w",
+  "title": "Deficiency of FRMD5 results in neurodevelopmental dysfunction and autistic-like behavior in mice",
+  "authors": "Lyu TJ, Ma J, Zhang XY, Xie GG, Liu C, Du J, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "The pathophysiology of autism spectrum disorders (ASDs) is causally linked to postsynaptic scaffolding proteins, as evidenced by numerous large-scale genomic studies [1, 2] and in vitro and in vivo neurobiological studies of mutations in animal models [3, 4]. However, due to the distinct phenotypic and genetic heterogeneity observed in ASD patients, individual mutation genes account for only a small proportion (<2%) of cases [1, 5]. Recently, a human genetic study revealed a correlation between de novo variants in FERM domain-containing-5 (FRMD5) and neurodevelopmental abnormalities [6]. In this study, we demonstrate that deficiency of the scaffolding protein FRMD5 leads to neurodevelopmental dysfunction and ASD-like behavior in mice. FRMD5 deficiency results in morphological abnormalities in neurons and synaptic dysfunction in mice. Frmd5-deficient mice display learning and memory dysfunction, impaired social function, and increased repetitive stereotyped behavior. Mechanistically, tandem mass tag (TMT)-labeled quantitative proteomics revealed that FRMD5 deletion affects the distribution of synaptic proteins involved in the pathological process of ASD. Collectively, our findings delineate the critical role of FRMD5 in neurodevelopment and ASD pathophysiology, suggesting potential therapeutic implications for the treatment of ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The pathophysiology of autism spectrum disorders (ASDs) is causally linked to postsynaptic scaffolding proteins, as evidenced by numerous large-scale genomic studies [1, 2] and in vitro and in vivo neurobiological studies of mutations in animal models [3, 4]. However, due to the distinct phenotypic and genetic heterogeneity observed in ASD patients, individual mutation genes account for only a small proportion (<2%) of cases [1, 5].",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38228891/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Neurodevelopmental Disorders",
+    "Membrane Proteins",
+    "Male",
+    "Neurons",
+    "Behavior, Animal",
+    "Cytoskeletal Proteins",
+    "Mice, Knockout",
+    "Autistic Disorder",
+    "Mice, Inbred C57BL",
+    "Social Behavior",
+    "Stereotyped Behavior",
+    "Synapses",
+    "Female"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

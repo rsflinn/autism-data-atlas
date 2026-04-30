@@ -1,0 +1,41 @@
+{
+  "pmid": "21289514",
+  "doi": "10.1097/GIM.0b013e3182076c0c",
+  "title": "Copy number variation in the dosage-sensitive 16p11.2 interval accounts for only a small proportion of autism incidence: a systematic review and meta-analysis",
+  "authors": "Walsh KM, Bracken MB",
+  "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "date": "2011-05",
+  "source": "pubmed",
+  "abstract": "Autism is one of the most heritable complex disorders, but the genetic etiology of autism spectrum disorders is unexplained in &#x223c; 90% of cases. Highly penetrant microdeletions and microduplications of 16p11.2 contribute to the pathogenesis of autism spectrum disorder, but the extent to which these variants account for the total burden of idiopathic autism spectrum disorders has not been systematically investigated.\n\nA systematic literature review and meta-analysis were performed to determine the prevalence of these variants among individuals diagnosed with autism spectrum disorders. A planned subgroup analysis was conducted to assess prevalence differences between sporadic and familial autism spectrum disorder cases.\n\nIn the combined analysis of 3613 idiopathic autism spectrum disorder cases from seven studies, the meta-analytic prevalence of these microdeletions and microduplications was 0.76% (95% CI, 0.51-1.12%). When stratified by copy number variant-type, the prevalence of microdeletions was 0.50% (95% CI, 0.31-0.82%) and the prevalence of microduplications was 0.28% (95% CI, 0.14-0.56%). Sporadic autism spectrum disorder cases showed only a slightly higher prevalence than familial cases.\n\nThe number needed to test to identify one such variant is 132 patients (95% CI, 89-198). Such information, especially as it pertains to diagnostic yield in genetic testing, should prove useful to clinicians considering chromosomal microarray analysis in subjects with autism spectrum disorders.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is one of the most heritable complex disorders, but the genetic etiology of autism spectrum disorders is unexplained in &#x223c; 90% of cases. Highly penetrant microdeletions and microduplications of 16p11.2 contribute to the pathogenesis of autism spectrum disorder, but the extent to which these variants account for the total burden of idiopathic autism spectrum disorders has not been systematically investigated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21289514/",
+  "mesh_terms": [
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Chromosome Deletion",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "DNA Copy Number Variations",
+    "Gene Dosage",
+    "Humans",
+    "Incidence",
+    "Publication Bias"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ]
+}

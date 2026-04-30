@@ -1,0 +1,44 @@
+{
+  "pmid": "34553604",
+  "doi": "10.2217/epi-2021-0319",
+  "title": "Understanding environmental epigenomics in autism spectrum disorder: an interview with Farah R&#xa0;Zahir",
+  "authors": "Zahir FR",
+  "journal": "Epigenomics",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "In this interview, Dr Farah R&#xa0;Zahir speaks with Storm Johnson, Commissioning Editor for, on her work to date in the field of epigenomics, autism and intellectual disability. Dr Farah R&#xa0;Zahir specializes in the identification of novel genetic and epigenetic causes for neurodevelopmental diseases. Her PhD, awarded in 2011 by the University of British Columbia (UBC), resulted in the characterization of new intellectual disability (ID) syndromes, as well as discovery of several new causative genes for the disorder. She was awarded the prestigious James Miller Memorial Prize for integrating basic and clinical science in 2010. Her PhD dissertation was nominated for the Governor General's gold medal - the highest possible accolade at UBC for doctoral research work. She then completed a postdoctoral tenure in Canada's premier Michael Smith Genome Sciences Centre, where she used whole-genome-sequencing methods to comprehensively assess genetic, molecular&#xa0;and structural causes for ID, employing several firsts for bioinformatic data mining in the field. During her postdoctorate she won three distinguished&#xa0;awards and was a fellow of the Canadian Institute of Health Research, ranking in the top 2% nationally. Dr Zahir was appointed as an Assistant Professor at the Hamad Bin Khalifa University in 2016, where she led a group focused on neurogenomics and neuroepigenomics research. She was a founding&#xa0;member of the Precision and Genomics Medicine graduate program there. Currently she has rejoined UBC's department of Medical Genetics. Among her most significant achievements is the establishment of the novel Zahir Friedman syndrome, an intellectual disability/autism spectrum disorder syndrome that is caused by a major epigenomic regulator. Her current primary research interest is how epigenomics can be changed by environmental impacts&#xa0;and how these effects may be harnessed for neurodevelopmental disorders' prophylaxis and therapeutics.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "In this interview, Dr Farah R&#xa0;Zahir speaks with Storm Johnson, Commissioning Editor for, on her work to date in the field of epigenomics, autism and intellectual disability. Dr Farah R&#xa0;Zahir specializes in the identification of novel genetic and epigenetic causes for neurodevelopmental diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34553604/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "DNA-Binding Proteins",
+    "Environment",
+    "Epigenomics",
+    "Gene-Environment Interaction",
+    "Humans",
+    "Intellectual Disability",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "CHD8",
+    "autism spectrum disorder",
+    "environmental epigenomics",
+    "epigenetics",
+    "intellectual disability",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Interview"
+  ]
+}

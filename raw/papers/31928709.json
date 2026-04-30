@@ -1,0 +1,60 @@
+{
+  "pmid": "31928709",
+  "doi": "10.1016/j.ajhg.2019.12.007",
+  "title": "Delineation of a Human Mendelian Disorder of the DNA Demethylation Machinery: TET3 Deficiency",
+  "authors": "Beck DB, Petracovici A, He C, Moore HW, Louie RJ, Ansar M, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Germline pathogenic variants in chromatin-modifying enzymes are a common cause of pediatric developmental disorders. These enzymes catalyze reactions that regulate epigenetic inheritance via histone post-translational modifications and DNA methylation. Cytosine methylation (5-methylcytosine [5mC]) of DNA is the quintessential epigenetic mark, yet no human Mendelian disorder of DNA demethylation has yet been delineated. Here, we describe in detail a Mendelian disorder caused by the disruption of DNA demethylation. TET3 is a methylcytosine dioxygenase that initiates DNA demethylation during early zygote formation, embryogenesis, and neuronal differentiation and is intolerant to haploinsufficiency in mice and humans. We identify and characterize 11 cases of human TET3 deficiency in eight families with the common phenotypic features of intellectual disability and/or global developmental delay; hypotonia; autistic traits; movement disorders; growth abnormalities; and facial dysmorphism. Mono-allelic frameshift and nonsense variants in TET3 occur throughout the coding region. Mono-allelic and bi-allelic missense variants localize to conserved residues; all but one such variant occur within the catalytic domain, and most display hypomorphic function in an assay of catalytic activity. TET3 deficiency and other Mendelian disorders of the epigenetic machinery show substantial phenotypic overlap, including features of intellectual disability and abnormal growth, underscoring shared disease mechanisms.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Germline pathogenic variants in chromatin-modifying enzymes are a common cause of pediatric developmental disorders. These enzymes catalyze reactions that regulate epigenetic inheritance via histone post-translational modifications and DNA methylation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31928709/",
+  "mesh_terms": [
+    "Adult",
+    "Amino Acid Sequence",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "DNA Demethylation",
+    "Developmental Disabilities",
+    "Dioxygenases",
+    "Embryonic Development",
+    "Female",
+    "Gene Expression Regulation, Developmental",
+    "Growth Disorders",
+    "Humans",
+    "Infant",
+    "Male",
+    "Middle Aged",
+    "Movement Disorders",
+    "Pedigree",
+    "Protein Conformation",
+    "Sequence Homology",
+    "Young Adult"
+  ],
+  "keywords": [
+    "5-hydroxymethylcytosine",
+    "5-methylcytosine",
+    "DNA methylation",
+    "TET",
+    "epigenetic",
+    "genetic",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

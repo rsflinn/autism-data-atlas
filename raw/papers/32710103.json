@@ -1,0 +1,50 @@
+{
+  "pmid": "32710103",
+  "doi": "10.1093/cercor/bhaa195",
+  "title": "Cell Surface Protein mRNAs Show Differential Transcription in Pyramidal and Fast-Spiking Cells as Revealed by Single-Cell Sequencing",
+  "authors": "Ravasz L, K&#xe9;kesi KA, Mittli D, Todorov MI, Borhegyi Z, Ercsey-Ravasz M, et al.",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "The prefrontal cortex (PFC) plays a key role in higher order cognitive functions and psychiatric disorders such as autism, schizophrenia, and depression. In the PFC, the two major classes of neurons are the glutamatergic pyramidal (Pyr) cells and the GABAergic interneurons such as fast-spiking (FS) cells. Despite extensive electrophysiological, morphological, and pharmacological studies of the PFC, the therapeutically utilized drug targets are restricted to dopaminergic, glutamatergic, and GABAergic receptors. To expand the pharmacological possibilities as well as to better understand the cellular and network effects of clinically used drugs, it is important to identify cell-type-selective, druggable cell surface proteins and to link developed drug candidates to Pyr or FS cell targets. To identify the mRNAs of such cell-specific/enriched proteins, we performed ultra-deep single-cell mRNA sequencing (19&#x2009;685 transcripts in total) on electrophysiologically characterized intact PFC neurons harvested from acute brain slices of mice. Several selectively expressed transcripts were identified with some of the genes that have already been associated with cellular mechanisms of psychiatric diseases, which we can now assign to Pyr (e.g., Kcnn2, Gria3) or FS (e.g., Kcnk2, Kcnmb1) cells. The earlier classification of PFC neurons was also confirmed at mRNA level, and additional markers have been provided.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The prefrontal cortex (PFC) plays a key role in higher order cognitive functions and psychiatric disorders such as autism, schizophrenia, and depression. In the PFC, the two major classes of neurons are the glutamatergic pyramidal (Pyr) cells and the GABAergic interneurons such as fast-spiking (FS) cells.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32710103/",
+  "mesh_terms": [
+    "Animals",
+    "Electrophysiological Phenomena",
+    "Genetic Markers",
+    "Membrane Proteins",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Nerve Net",
+    "Neurons",
+    "Prefrontal Cortex",
+    "Pyramidal Cells",
+    "RNA, Messenger",
+    "Transcription, Genetic"
+  ],
+  "keywords": [
+    "drug target",
+    "interneuron",
+    "prefrontal cortex",
+    "pyramidal cell",
+    "single-cell transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

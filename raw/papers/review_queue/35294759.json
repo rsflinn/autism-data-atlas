@@ -1,0 +1,46 @@
+{
+  "pmid": "35294759",
+  "doi": "10.1007/978-1-0716-2213-1_10",
+  "title": "Generation of iPSC-Derived Brain Organoids for Drug Testing and Toxicological Evaluation",
+  "authors": "Nguyen HN",
+  "journal": "Methods in molecular biology (Clifton, N.J.)",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "The road to discover novel therapeutics for mental and neurological disorders has been severely hampered by the lack of access to relevant testing platforms. Currently, roughly 0.1% of drugs that show promise in preclinical testing make it to Phase I clinical trials, and 90% of those drugs go on to fail FDA approval. One of the reasons responsible for this low success rate is that conventional two-dimensional (2D) cell culture models are not accurate enough predictors of how drugs will work in humans. Three-dimensional (3D) brain organoids differentiated from induced pluripotent stem cells (iPSCs) to resemble specific parts of the human brain, which include architecture composition and physiology, can provide an alternative system that may lead to breakthroughs in key areas of drug testing and toxicological evaluation. Having reliable and scalable iPSC-derived brain organoid models that can much more accurately predict human drug responses will significantly increase success rate in developing treatments for brain-related disorders.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The road to discover novel therapeutics for mental and neurological disorders has been severely hampered by the lack of access to relevant testing platforms. Currently, roughly 0.1% of drugs that show promise in preclinical testing make it to Phase I clinical trials, and 90% of those drugs go on to fail FDA approval.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35294759/",
+  "mesh_terms": [
+    "Brain",
+    "Cell Culture Techniques",
+    "Cell Differentiation",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Organoids"
+  ],
+  "keywords": [
+    "Cell culture",
+    "Cellular differentiation",
+    "Choroid plexus organoids",
+    "Drug testing",
+    "Forebrain organoids",
+    "Induced pluripotent stem cells",
+    "Midbrain organoids",
+    "Tissue engineering",
+    "Toxicological evaluation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

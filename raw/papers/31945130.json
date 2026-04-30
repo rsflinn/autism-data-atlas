@@ -1,0 +1,49 @@
+{
+  "pmid": "31945130",
+  "doi": "10.1371/journal.pone.0227626",
+  "title": "Preliminary evaluation of a novel nine-biomarker profile for the prediction of autism spectrum disorder",
+  "authors": "El-Ansary A, Hassan WM, Daghestani M, Al-Ayadhi L, Ben Bacha A",
+  "journal": "PloS one",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex group of heterogeneous neurodevelopmental disorders the prevalence of which has been in the rise in the past decade. In an attempt to better target the basic causes of ASD for diagnosis and treatment, efforts to identify reliable biomarkers related to the body's metabolism are increasing. Despite an increase in identifying biomarkers in ASD, there are none so far with enough evidence to be used in routine clinical examination, unless medical illness is suspected. Promising biomarkers include those of mitochondrial dysfunction, oxidative stress, energy metabolism, and apoptosis.\n\nSodium (Na+), Potassium (K+), glutathione (GSH), glutathione-s-transferase (GST), Creatine kinase (CK), lactate dehydrogenase (LDH), Coenzyme Q10, and melatonin (MLTN) were evaluated in 13 participants with ASD and 24 age-matched healthy controls. Additionally, five ratios, which include Na+/K+, GSH:GST, CK:Cas7, CoQ10: Cas 7, and Cas7:MLTN, were tested to measure their predictive values in discriminating between autistic individuals and controls. These markers, either in absolute values, as five ratios, or combined (9 markers + 5 ratios) were subjected to a principal component analysis and multidimensional scaling (MDS), and hierarchical clustering, which are helpful statistical tools in the field of biomarkers.\n\nOur data demonstrated that both PCA and MDS analysis were effective in separating autistic from control subjects completely. This was also confirmed through the use of hierarchical clustering, which showed complete separation of the autistic and control groups based on nine biomarkers, five biomarker ratios, or a combined profile. Excellent predictive value of the measured profile was obtained using the receiver operating characteristics analysis, which showed an area under the curve of 1.\n\nThe availability of an improved predictive profile, represented by nine biomarkers plus the five ratios, inter-related different etiological mechanisms in ASD and would be valuable in providing greater recognition of the altered biological pathways in ASD. Our predictive profile could be used for the diagnosis and intervention of ASD.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex group of heterogeneous neurodevelopmental disorders the prevalence of which has been in the rise in the past decade. In an attempt to better target the basic causes of ASD for diagnosis and treatment, efforts to identify reliable biomarkers related to the body's metabolism are increasing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31945130/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Case-Control Studies",
+    "Caspase 7",
+    "Child",
+    "Child, Preschool",
+    "Cluster Analysis",
+    "Creatine Kinase",
+    "Glutathione Transferase",
+    "Humans",
+    "L-Lactate Dehydrogenase",
+    "Melatonin",
+    "Mitochondria",
+    "Potassium",
+    "Principal Component Analysis",
+    "Sodium",
+    "Ubiquinone"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Retracted Publication"
+  ]
+}

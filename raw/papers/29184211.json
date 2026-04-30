@@ -1,0 +1,38 @@
+{
+  "pmid": "29184211",
+  "doi": "10.1038/s41593-017-0017-9",
+  "title": "Whole genome sequencing in psychiatric disorders: the WGSPD consortium",
+  "authors": "Sanders SJ, Neale BM, Huang H, Werling DM, An JY, Dong S, et al.",
+  "journal": "Nature neuroscience",
+  "date": "2017-12",
+  "source": "pubmed",
+  "abstract": "As technology advances, whole genome sequencing (WGS) is likely to supersede other genotyping technologies. The rate of this change depends on its relative cost and utility. Variants identified uniquely through WGS may reveal novel biological pathways underlying complex disorders and provide high-resolution insight into when, where, and in which cell type these pathways are affected. Alternatively, cheaper and less computationally intensive approaches may yield equivalent insights. Understanding the role of rare variants in the noncoding gene-regulating genome, through pilot WGS projects, will be critical to determine which of these two extremes best represents reality. With large cohorts, well-defined risk loci, and a compelling need to understand the underlying biology, psychiatric disorders have a role to play in this preliminary WGS assessment. The WGSPD consortium will integrate data for 18,000 individuals with psychiatric disorders, beginning with autism spectrum disorder, schizophrenia, bipolar disorder, and major depressive disorder, along with over 150,000 controls.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "As technology advances, whole genome sequencing (WGS) is likely to supersede other genotyping technologies. The rate of this change depends on its relative cost and utility.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29184211/",
+  "mesh_terms": [
+    "Biological Psychiatry",
+    "Genetic Variation",
+    "Genome, Human",
+    "Humans",
+    "Mental Disorders",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

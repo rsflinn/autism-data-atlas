@@ -1,0 +1,44 @@
+{
+  "pmid": "34314857",
+  "doi": "10.1016/j.nbd.2021.105453",
+  "title": "Nanoscale synapse organization and dysfunction in neurodevelopmental disorders",
+  "authors": "Zieger HL, Choquet D",
+  "journal": "Neurobiology of disease",
+  "date": "2021-07",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders such as those linked to intellectual disabilities or autism spectrum disorder are thought to originate in part from genetic defects in synaptic proteins. Single gene mutations linked to synapse dysfunction can broadly be separated in three categories: disorders of transcriptional regulation, disorders of synaptic signaling and disorders of synaptic scaffolding and structures. The recent developments in super-resolution imaging technologies and their application to synapses have unraveled a complex nanoscale organization of synaptic components. On the one hand, part of receptors, adhesion proteins, ion channels, scaffold elements and the pre-synaptic release machinery are partitioned in subsynaptic nanodomains, and the respective organization of these nanodomains has tremendous impact on synaptic function. For example, pre-synaptic neurotransmitter release sites are partly aligned with nanometer precision to postsynaptic receptor clusters. On the other hand, a large fraction of synaptic components is extremely dynamic and constantly exchanges between synaptic domains and extrasynaptic or intracellular compartments. It is largely the combination of the exquisitely precise nanoscale synaptic organization of synaptic components and their high dynamic that allows the rapid and profound regulation of synaptic function during synaptic plasticity processes that underlie adaptability of brain function, learning and memory. It is very tempting to speculate that genetic defects that lead to neurodevelopmental disorders and target synaptic scaffolds and structures mediate their deleterious impact on brain function through perturbing synapse nanoscale dynamic organization. We discuss here how applying super-resolution imaging methods in models of neurodevelopmental disorders could help in addressing this question.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders such as those linked to intellectual disabilities or autism spectrum disorder are thought to originate in part from genetic defects in synaptic proteins. Single gene mutations linked to synapse dysfunction can broadly be separated in three categories: disorders of transcriptional regulation, disorders of synaptic signaling and disorders of synaptic scaffolding and structures.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34314857/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Humans",
+    "Neurodevelopmental Disorders",
+    "Neuroimaging",
+    "Synapses"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Intellectual disabilities",
+    "Neurodevelopmental diseases",
+    "Receptor trafficking",
+    "Synapse nanoscale organization",
+    "Synaptic plasticity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

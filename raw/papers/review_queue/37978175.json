@@ -1,0 +1,43 @@
+{
+  "pmid": "37978175",
+  "doi": "10.1038/s41467-023-43062-z",
+  "title": "Mutation of key signaling regulators of cerebrovascular development in vein of Galen malformations",
+  "authors": "Zhao S, Mekbib KY, van der Ent MA, Allington G, Prendergast A, Chau JE, et al.",
+  "journal": "Nature communications",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "To elucidate the pathogenesis of vein of Galen malformations (VOGMs), the most common and most severe of congenital brain arteriovenous malformations, we performed an integrated analysis of 310 VOGM proband-family exomes and 336,326 human cerebrovasculature single-cell transcriptomes. We found the Ras suppressor p120 RasGAP (RASA1) harbored a genome-wide significant burden of loss-of-function de novo variants (2042.5-fold, p&#x2009;=&#x2009;4.79&#x2009;x&#x2009;10). Rare, damaging transmitted variants were enriched in Ephrin receptor-B4 (EPHB4) (17.5-fold, p&#x2009;=&#x2009;1.22&#x2009;x&#x2009;10), which cooperates with p120 RasGAP to regulate vascular development. Additional probands had damaging variants in ACVRL1, NOTCH1, ITGB1, and PTPN11. ACVRL1 variants were also identified in a multi-generational VOGM pedigree. Integrative genomic analysis defined developing endothelial cells as a likely spatio-temporal locus of VOGM pathophysiology. Mice expressing a VOGM-specific EPHB4 kinase-domain missense variant (Phe867Leu) exhibited disrupted developmental angiogenesis and impaired hierarchical development of arterial-capillary-venous networks, but only in the presence of a \"second-hit\" allele. These results illuminate human arterio-venous development and VOGM pathobiology and have implications for patients and their families.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "To elucidate the pathogenesis of vein of Galen malformations (VOGMs), the most common and most severe of congenital brain arteriovenous malformations, we performed an integrated analysis of 310 VOGM proband-family exomes and 336,326 human cerebrovasculature single-cell transcriptomes. We found the Ras suppressor p120 RasGAP (RASA1) harbored a genome-wide significant burden of loss-of-function de novo variants (2042.5-fold, p&#x2009;=&#x2009;4.79&#x2009;x&#x2009;10).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37978175/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Vein of Galen Malformations",
+    "Endothelial Cells",
+    "Mutation",
+    "Signal Transduction",
+    "Mutation, Missense",
+    "GTPase-Activating Proteins",
+    "Vascular Diseases",
+    "Activin Receptors, Type II",
+    "p120 GTPase Activating Protein"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

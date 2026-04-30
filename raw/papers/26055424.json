@@ -1,0 +1,50 @@
+{
+  "pmid": "26055424",
+  "doi": "10.1038/mp.2015.75",
+  "title": "GABA/Glutamate synaptic pathways targeted by integrative genomic and electrophysiological explorations distinguish autism from intellectual disability",
+  "authors": "Bonnet-Brilhault F, Alirol S, Blanc R, Bazaud S, Marouillat S, Th&#xe9;pault RA, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2015-06",
+  "source": "pubmed",
+  "abstract": "Phenotypic and genetic heterogeneity is predominant in autism spectrum disorders (ASD), for which the molecular and pathophysiological bases are still unclear. Significant comorbidity and genetic overlap between ASD and other neurodevelopmental disorders are also well established. However, little is understood regarding the frequent observation of a wide phenotypic spectrum associated with deleterious mutations affecting a single gene even within multiplex families. We performed a clinical, neurophysiological (in vivo electroencephalography-auditory-evoked related potentials) and genetic (whole-exome sequencing) follow-up analysis of two families with known deleterious NLGN4X gene mutations (either truncating or overexpressing) present in individuals with ASD and/or with intellectual disability (ID). Complete phenotypic evaluation of the pedigrees in the ASD individuals showed common specific autistic behavioural features and neurophysiological patterns (abnormal MisMatch Negativity in response to auditory change) that were absent in healthy parents as well as in family members with isolated ID. Whole-exome sequencing in ASD patients from each family identified a second rare inherited genetic variant, affecting either the GLRB or the ANK3 genes encoding NLGN4X interacting proteins expressed in inhibitory or in excitatory synapses, respectively. The GRLB and ANK3 mutations were absent in relatives with ID as well as in control databases. In summary, our findings provide evidence of a double-hit genetic model focused on excitatory/inhibitory synapses in ASD, that is not found in isolated ID, associated with an atypical in vivo neurophysiological pattern linked to predictive coding.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Phenotypic and genetic heterogeneity is predominant in autism spectrum disorders (ASD), for which the molecular and pathophysiological bases are still unclear. Significant comorbidity and genetic overlap between ASD and other neurodevelopmental disorders are also well established.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26055424/",
+  "mesh_terms": [
+    "Acoustic Stimulation",
+    "Autistic Disorder",
+    "Cell Adhesion Molecules, Neuronal",
+    "Child, Preschool",
+    "Electroencephalography",
+    "Evoked Potentials, Auditory",
+    "Family Health",
+    "Female",
+    "Follow-Up Studies",
+    "Genetic Predisposition to Disease",
+    "Genomics",
+    "Glutamic Acid",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Severity of Illness Index",
+    "Signal Transduction",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, American Recovery and Reinvestment Act",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

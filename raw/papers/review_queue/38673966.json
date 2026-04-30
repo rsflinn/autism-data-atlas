@@ -1,0 +1,49 @@
+{
+  "pmid": "38673966",
+  "doi": "10.3390/ijms25084382",
+  "title": "Moderate Physical Activity Increases the Expression of ADNP in Rat Brain",
+  "authors": "Maugeri G, D'Amico AG, Federico C, Saccone S, D'Agata V, Musumeci G",
+  "journal": "International journal of molecular sciences",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Activity-dependent neuroprotective protein (ADNP) is a neuroprotective protein essential for embryonic development, proper brain development, and neuronal plasticity. Its mutation causes the autism-like ADNP syndrome (also called the Helsmoortel-Van der Aa syndrome), characterized by neural developmental disorders and motor dysfunctions. Similar to the ADNP syndrome, thehaploinsufficient mouse shows low synapse density, leading to motor and cognitive ability delays. Moderate physical activity (PA) has several neuroprotective and cognitive benefits, promoting neuronal survival, differentiation, neurogenesis, and plasticity. Until now, no study has investigated the effect of moderate exercise on ADNP expression and distribution in the rat brain. The aim of the current investigation was to study the effects of moderate exercise on the ADNP expression and neuronal activation measured by the microtubule protein &#x3b2;-Tubulin III. In pursuit of this objective, twenty-four rats were selected and evenly distributed into two categories: sedentary control rats and rats exposed to moderate physical activity on a treadmill over a span of 12 weeks. Our results showed that moderate PA increases the expression of ADNP and &#x3b2;-Tubulin III in the dentate gyrus (DG) hippocampal region and cerebellum. Moreover, we found a co-localization of ADNP and &#x3b2;-Tubulin III in both DG and cerebellum, suggesting a direct association of ADNP with adult neuronal activation induced by moderate PA.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "Activity-dependent neuroprotective protein (ADNP) is a neuroprotective protein essential for embryonic development, proper brain development, and neuronal plasticity. Its mutation causes the autism-like ADNP syndrome (also called the Helsmoortel-Van der Aa syndrome), characterized by neural developmental disorders and motor dysfunctions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38673966/",
+  "mesh_terms": [
+    "Animals",
+    "Male",
+    "Rats",
+    "Brain",
+    "Cerebellum",
+    "Dentate Gyrus",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "Physical Conditioning, Animal",
+    "Tubulin",
+    "Rats, Wistar"
+  ],
+  "keywords": [
+    "ADNP",
+    "brain",
+    "cerebellum",
+    "dentate gyrus",
+    "moderate physical activity",
+    "&#x3b2;-Tubulin III"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

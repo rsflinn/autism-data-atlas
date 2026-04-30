@@ -1,0 +1,49 @@
+{
+  "pmid": "37968726",
+  "doi": "10.1186/s13059-023-03092-8",
+  "title": "Dissecting the autism-associated 16p11.2 locus identifies multiple drivers in neuroanatomical phenotypes and unveils a male-specific role for the major vault protein",
+  "authors": "Kretz PF, Wagner C, Mikhaleva A, Montillot C, Hugel S, Morella I, et al.",
+  "journal": "Genome biology",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Using mouse genetic studies and systematic assessments of brain neuroanatomical phenotypes, we set out to identify which of the 30 genes causes brain defects at the autism-associated 16p11.2 locus.\n\nWe show that multiple genes mapping to this region interact to regulate brain anatomy, with female mice exhibiting far fewer brain neuroanatomical phenotypes. In male mice, among the 13 genes associated with neuroanatomical defects (Mvp, Ppp4c, Zg16, Taok2, Slx1b, Maz, Fam57b, Bola2, Tbx6, Qprt, Spn, Hirip3, and Doc2a), Mvp is the top driver implicated in phenotypes pertaining to brain, cortex, hippocampus, ventricles, and corpus callosum sizes. The major vault protein (MVP), the main component of the vault organelle, is a conserved protein found in eukaryotic cells, yet its function is not understood. Here, we find MVP expression highly specific to the limbic system and show that Mvp regulates neuronal morphology, postnatally and specifically in males. We also recapitulate a previously reported genetic interaction and show that Mvp;Mapk3mice exhibit behavioral deficits, notably decreased anxiety-like traits detected in the elevated plus maze and open field paradigms.\n\nOur study highlights multiple gene drivers in neuroanatomical phenotypes, interacting with each other through complex relationships. It also provides the first evidence for the involvement of the major vault protein in the regulation of brain size and neuroanatomy, specifically in male mice.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Using mouse genetic studies and systematic assessments of brain neuroanatomical phenotypes, we set out to identify which of the 30 genes causes brain defects at the autism-associated 16p11.2 locus. We show that multiple genes mapping to this region interact to regulate brain anatomy, with female mice exhibiting far fewer brain neuroanatomical phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37968726/",
+  "mesh_terms": [
+    "Male",
+    "Animals",
+    "Mice",
+    "Female",
+    "Autistic Disorder",
+    "Neuroanatomy",
+    "Brain",
+    "Phenotype",
+    "T-Box Domain Proteins",
+    "Protein Serine-Threonine Kinases",
+    "Calcium-Binding Proteins",
+    "Nerve Tissue Proteins",
+    "Major Vault Protein"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Brain anatomy",
+    "Major vault protein",
+    "Mouse genetic studies",
+    "Sex differences"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

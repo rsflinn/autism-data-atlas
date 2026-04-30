@@ -1,0 +1,43 @@
+{
+  "pmid": "33495627",
+  "doi": "10.1038/s41596-020-00472-3",
+  "title": "Nuclei isolation of multiple brain cell types for omics interrogation",
+  "authors": "Nott A, Schlachetzki JCM, Fixsen BR, Glass CK",
+  "journal": "Nature protocols",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "We present a nuclei isolation protocol for genomic and epigenomic interrogation of multiple cell type populations in the human and rodent brain. The nuclei isolation protocol allows cell type-specific profiling of neurons, microglia, oligodendrocytes, and astrocytes, being compatible with fresh and frozen samples obtained from either resected or postmortem brain tissue. This 2-day procedure consists of tissue homogenization with fixation, nuclei extraction, and antibody staining followed by fluorescence-activated nuclei sorting (FANS) and does not require specialized skillsets. Cell type-specific nuclei populations can be used for downstream omic-scale sequencing applications with an emphasis on epigenomic interrogation such as histone modifications, transcription factor binding, chromatin accessibility, and chromosome architecture. The nuclei isolation protocol enables translational examination of archived healthy and diseased brain specimens through utilization of existing medical biorepositories.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "We present a nuclei isolation protocol for genomic and epigenomic interrogation of multiple cell type populations in the human and rodent brain. The nuclei isolation protocol allows cell type-specific profiling of neurons, microglia, oligodendrocytes, and astrocytes, being compatible with fresh and frozen samples obtained from either resected or postmortem brain tissue.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33495627/",
+  "mesh_terms": [
+    "Animals",
+    "Astrocytes",
+    "Brain",
+    "Brain Chemistry",
+    "Cell Nucleus",
+    "Chromatin",
+    "Epigenomics",
+    "Flow Cytometry",
+    "Genomics",
+    "Humans",
+    "Neurons",
+    "Protein Processing, Post-Translational"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

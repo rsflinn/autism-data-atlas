@@ -1,0 +1,49 @@
+{
+  "pmid": "24735654",
+  "doi": "10.1017/thg.2014.12",
+  "title": "The Roots of Autism and ADHD Twin Study in Sweden (RATSS)",
+  "authors": "B&#xf6;lte S, Willfors C, Berggren S, Norberg J, Poltrago L, Mevel K, et al.",
+  "journal": "Twin research and human genetics : the official journal of the International Society for Twin Studies",
+  "date": "2014-04",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders affect a substantial minority of the general population. Their origins are still largely unknown, but a complex interplay of genetic and environmental factors causing disturbances of the central nervous system's maturation and a variety of higher cognitive skills is presumed. Only limited research of rather small sample size and narrow scope has been conducted in neurodevelopmental disorders using a twin-differences design. The Roots of Autism and ADHD Twin Study in Sweden (RATSS) is an ongoing project targeting monozygotic twins discordant for categorical or dimensional autistic and inattentive/hyperactive-impulsive phenotypes as well as other neurodevelopmental disorders, and typically developing twin controls. Included pairs are 9 years of age or older, and comprehensively assessed for psychopathology, medical history, neuropsychology, and dysmorphology, as well as structural, functional, and molecular brain imaging. Specimens are collected for induced pluripotent (iPS) and neuroepithelial stem cells, genetic, gut bacteria, protein-/monoamine, and electron microscopy analyses. RATSS's objective is to generate a launch pad for novel surveys to understand the complexity of genotype-environment-phenotype interactions in autism spectrum disorder and attention-deficit hyperactivity disorder (ADHD). By October 2013, RATSS had collected data from 55 twin pairs, among them 10 monozygotic pairs discordant for autism spectrum disorder, seven for ADHD, and four for other neurodevelopmental disorders. This article describes the design, recruitment, data collection, measures, collected pairs' characteristics, as well as ongoing and planned analyses in RATSS. Potential gains of the study comprise the identification of environmentally mediated biomarkers, the emergence of candidates for drug development, translational modeling, and new leads for prevention of incapacitating outcomes.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders affect a substantial minority of the general population. Their origins are still largely unknown, but a complex interplay of genetic and environmental factors causing disturbances of the central nervous system's maturation and a variety of higher cognitive skills is presumed.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24735654/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "Cognition",
+    "Diseases in Twins",
+    "Environment",
+    "Female",
+    "Humans",
+    "Male",
+    "Neuroimaging",
+    "Phenotype",
+    "Psychiatric Status Rating Scales",
+    "Sweden",
+    "Twins, Dizygotic",
+    "Twins, Monozygotic",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Twin Study"
+  ]
+}

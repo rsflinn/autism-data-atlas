@@ -1,0 +1,36 @@
+{
+  "pmid": "39226293",
+  "doi": "10.1371/journal.pone.0308224",
+  "title": "Urine metabolomic profiles of autism and autistic traits-A twin study",
+  "authors": "Arora A, Mastropasqua F, B&#xf6;lte S, Tammimies K",
+  "journal": "PloS one",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Currently, there are no reliable biomarkers for autism diagnosis. The heterogeneity of autism and several co-occurring conditions are key challenges to establishing these. Here, we used untargeted mass spectrometry-based urine metabolomics to investigate metabolic differences for autism diagnosis and autistic traits in a well-characterized twin cohort (N = 105). We identified 208 metabolites in the urine samples of the twins. No clear, significant metabolic drivers for autism diagnosis were detected when controlling for other neurodevelopmental conditions. However, we identified nominally significant changes for several metabolites. For instance, phenylpyruvate (p = 0.019) and taurine (p = 0.032) were elevated in the autism group, while carnitine (p = 0.047) was reduced. We furthermore accounted for the shared factors, such as genetics within the twin pairs, and report additional metabolite differences. Based on the nominally significant metabolites for autism diagnosis, the arginine and proline metabolism pathway (p = 0.024) was enriched. We also investigated the association between quantitative autistic traits, as measured by the Social Responsiveness Scale 2nd Edition, and metabolite differences, identifying a greater number of nominally significant metabolites and pathways. A significant positive association between indole-3-acetate and autistic traits was observed within the twin pairs (adjusted p = 0.031). The utility of urine biomarkers in autism, therefore, remains unclear, with mixed findings from different study populations.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Currently, there are no reliable biomarkers for autism diagnosis. The heterogeneity of autism and several co-occurring conditions are key challenges to establishing these.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39226293/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Metabolome",
+    "Metabolomics",
+    "Twins, Monozygotic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Twin Study"
+  ]
+}

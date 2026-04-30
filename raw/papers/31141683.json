@@ -1,0 +1,60 @@
+{
+  "pmid": "31141683",
+  "doi": "10.1016/j.celrep.2019.05.006",
+  "title": "Reduced Prefrontal Synaptic Connectivity and Disturbed Oscillatory Population Dynamics in the CNTNAP2 Model of Autism",
+  "authors": "Lazaro MT, Taxidis J, Shuman T, Bachmutsky I, Ikrar T, Santos R, et al.",
+  "journal": "Cell reports",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "Loss-of-function mutations in CNTNAP2 cause a syndromic form of autism spectrum disorder in humans and produce social deficits, repetitive behaviors, and seizures in mice. However, the functional effects of these mutations at cellular and circuit levels remain&#xa0;elusive. Using laser-scanning photostimulation, whole-cell recordings, and electron microscopy, we found a dramatic decrease in excitatory and inhibitory synaptic inputs onto L2/3 pyramidal neurons of the medial prefrontal cortex (mPFC) of Cntnap2 knockout (KO) mice, concurrent with reduced spines and synapses, despite normal dendritic complexity and intrinsic excitability. Moreover, recording of mPFC local field potentials (LFPs) and unit spiking in&#xa0;vivo revealed increased activity in inhibitory neurons, reduced phase-locking to delta and theta oscillations, and delayed phase preference during locomotion. Excitatory neurons showed similar phase modulation changes at delta frequencies. Finally, pairwise correlations increased during immobility in KO mice. Thus, reduced synaptic inputs can yield perturbed temporal coordination of neuronal firing in cortical ensembles.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CNTNAP2"
+  ],
+  "summary": "Loss-of-function mutations in CNTNAP2 cause a syndromic form of autism spectrum disorder in humans and produce social deficits, repetitive behaviors, and seizures in mice. However, the functional effects of these mutations at cellular and circuit levels remain&#xa0;elusive.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31141683/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Dendrites",
+    "Disease Models, Animal",
+    "Excitatory Postsynaptic Potentials",
+    "Female",
+    "Male",
+    "Membrane Proteins",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Nerve Tissue Proteins",
+    "Prefrontal Cortex",
+    "Pyramidal Cells",
+    "Synapses"
+  ],
+  "keywords": [
+    "EEG",
+    "biomarker",
+    "brain state",
+    "connectivity",
+    "delta",
+    "functional",
+    "inhibition",
+    "oscillation",
+    "phase-locking",
+    "theta"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "27068282",
+  "doi": "10.1016/j.biochi.2016.04.005",
+  "title": "The basis for folinic acid treatment in neuro-psychiatric disorders",
+  "authors": "Ramaekers VT, Sequeira JM, Quadros EV",
+  "journal": "Biochimie",
+  "date": "2016-04",
+  "source": "pubmed",
+  "abstract": "Multiple factors such as genetic and extraneous causes (drugs, toxins, adverse psychological events) contribute to neuro-psychiatric conditions. In a subgroup of these disorders, systemic folate deficiency has been associated with macrocytic anemia and neuropsychiatric phenotypes. In some of these, despite normal systemic levels, folate transport to the brain is impaired in the so-called cerebral folate deficiency (CFD) syndromes presenting as developmental and psychiatric disorders. These include infantile-onset CFD syndrome, infantile autism with or without neurologic deficits, a spastic-ataxic syndrome and intractable epilepsy in young children expanding to refractory schizophrenia in adolescents, and finally treatment-resistant major depression in adults. Folate receptor alpha (FR&#x3b1;) autoimmunity with low CSF N(5)-methyl-tetrahydrofolate (MTHF) underlies most CFD syndromes, whereas FR&#x3b1; gene abnormalities and mitochondrial gene defects are rarely found. The age at which FR&#x3b1; antibodies of the blocking type emerge, determines the clinical phenotype. Infantile CFD syndrome and autism with neurological deficits tend to be characterized by elevated FR&#x3b1; antibody titers and low CSF MTHF. In contrast, in infantile autism and intractable schizophrenia, abnormal behavioral signs and symptoms may wax and wane with fluctuating FR&#x3b1; antibody titers over time accompanied by cycling changes in CSF folate, tetrahydrobiopterin (BH4) and neurotransmitter metabolites ranging between low and normal levels. We propose a hypothetical model explaining the pathogenesis of schizophrenia. Based on findings from clinical, genetic, spinal fluid and MRI spectroscopic studies, we discuss the neurochemical changes associated with these disorders, metabolic and regulatory pathways, synthesis and catabolism of neurotransmitters, and the impact of oxidative stress on the pathogenesis of these conditions. A diagnostic algorithm and therapeutic regimens using high dose folinic acid, corticosteroids and milk-free diet is presented which has proven to be beneficial in providing adequate folate to the brain and decreasing the FR&#x3b1; autoantibody titer in those positive for the antibody.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Multiple factors such as genetic and extraneous causes (drugs, toxins, adverse psychological events) contribute to neuro-psychiatric conditions. In a subgroup of these disorders, systemic folate deficiency has been associated with macrocytic anemia and neuropsychiatric phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27068282/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autistic Disorder",
+    "Female",
+    "Humans",
+    "Leucovorin",
+    "Male",
+    "Schizophrenia"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Autoimmunity",
+    "Cerebral folate deficiency",
+    "Depression",
+    "Folate",
+    "Folate receptor",
+    "Schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

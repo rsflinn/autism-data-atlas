@@ -1,0 +1,44 @@
+{
+  "pmid": "41903657",
+  "doi": "10.1016/j.nbd.2026.107365",
+  "title": "Synaptic protein mutations in autism",
+  "authors": "Sauer AK, Walsh JA, Curran D, Zohourian N, Stanton JE, Zabetakis I, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2026-03",
+  "source": "pubmed",
+  "abstract": "Several genetic and non-genetic factors associated with the etiology of Autism Spectrum Disorder (ASD) have been identified, impacting directly or indirectly on the formation and function of synapses. Therefore, in recent years, synaptopathy has emerged as a central motif for a causative mechanism of ASD. Within synapses, many physically linked proteins or proteins found within the same signaling process have been associated with ASD and studied in in vitro systems and animal models. The results of this research support the crucial role of synaptic protein dysfunction in the development of ASD. The synaptic processes defined by critical proteins may be a point of convergence for many genetic and non-genetic factors. Therefore, this review will summarize key findings on the link between synaptic proteins and ASD from human genetic and animal studies and discuss the emerging synaptic biological processes directed by these proteins. The convergence of genetic and environmental risk factors impacting these processes will be highlighted to unify a theory in ASD research: A significant portion of ASD cases may in fact be explained by the dysregulation of essential synaptic proteins.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Several genetic and non-genetic factors associated with the etiology of Autism Spectrum Disorder (ASD) have been identified, impacting directly or indirectly on the formation and function of synapses. Therefore, in recent years, synaptopathy has emerged as a central motif for a causative mechanism of ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41903657/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Synapses",
+    "Mutation",
+    "Autism Spectrum Disorder",
+    "Nerve Tissue Proteins",
+    "Autistic Disorder"
+  ],
+  "keywords": [
+    "ASD",
+    "Etiology",
+    "PSD",
+    "Pathology",
+    "SHANK3",
+    "Synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

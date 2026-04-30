@@ -1,0 +1,47 @@
+{
+  "pmid": "29516448",
+  "doi": null,
+  "title": "[Autistic regression: clinical and aetiological aspects]",
+  "authors": "Ruggieri VL, Arberas CL",
+  "journal": "Revista de neurologia",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders are neurodevelopmental dysfunctions that are characterised by deficits in social integration and communication, associated with restricted interests and stereotypic behaviour. A high percentage are related to language disorders, sensory dysfunctions, attention deficit disorder, bipolarity, intellectual disability or epilepsy, among other comorbidities. It is estimated that around 30% of children with autism, with typical early development, may present regression in the first years of life, which was already reported by Kanner in one of his original cases. The term regression refers to the loss of social, communicative or motor skills. It is essential to be alert to any symptoms of autistic regression, since it is not always an unspecific usual manifestation of the clinical spectrum of autism. Although little is known about the pathogenesis of regression, it needs to be organised hierarchically, as it can be part of different conditions with a variety of causes.\n\nThe aim of this study is to analyse distinct conditions that need to be addressed in the case of a child with autistic regression, including genetic and toxic causations, autoimmune and nutritional phenomena, and epilepsies.\n\nWhen faced with a case of autistic regression it is essential to try to identify the possible aetiology, as this can allow specific treatment and adequate genetic counselling to be established.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders are neurodevelopmental dysfunctions that are characterised by deficits in social integration and communication, associated with restricted interests and stereotypic behaviour. A high percentage are related to language disorders, sensory dysfunctions, attention deficit disorder, bipolarity, intellectual disability or epilepsy, among other comorbidities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29516448/",
+  "mesh_terms": [
+    "Anti-N-Methyl-D-Aspartate Receptor Encephalitis",
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Diet, Vegetarian",
+    "Disease Progression",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Infant",
+    "Mercury Poisoning, Nervous System",
+    "Neuronal Ceroid-Lipofuscinoses",
+    "Pregnancy",
+    "Pregnancy Complications",
+    "Prenatal Exposure Delayed Effects",
+    "Syndrome",
+    "Tics",
+    "Vitamin B 12 Deficiency"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

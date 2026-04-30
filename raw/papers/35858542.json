@@ -1,0 +1,50 @@
+{
+  "pmid": "35858542",
+  "doi": "10.1016/j.celrep.2022.111085",
+  "title": "Synaptic hyperexcitability of cytomegalic pyramidal neurons contributes to epileptogenesis in tuberous sclerosis complex",
+  "authors": "Wu X, Sosunov AA, Lado W, Teoh JJ, Ham A, Li H, et al.",
+  "journal": "Cell reports",
+  "date": "2022-07",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a developmental disorder associated with epilepsy, autism, and cognitive impairment. Despite inactivating mutations in the TSC1 or TSC2 genes and hyperactive mechanistic target of rapamycin (mTOR) signaling, the mechanisms underlying TSC-associated neurological symptoms remain incompletely understood. Here we generate a Tsc1 conditional knockout (CKO) mouse model in which Tsc1 inactivation in late embryonic radial glia causes social and cognitive impairment and spontaneous seizures. Tsc1 depletion occurs in a subset of layer 2/3 cortical pyramidal neurons, leading to development of cytomegalic pyramidal neurons (CPNs) that mimic dysplastic neurons in human TSC, featuring abnormal dendritic and axonal overgrowth, enhanced glutamatergic synaptic transmission, and increased susceptibility to seizure-like activities. We provide evidence that enhanced synaptic excitation in CPNs contributes to cortical hyperexcitability and epileptogenesis. In contrast, astrocytic regulation of synapse formation and synaptic transmission remains unchanged after late embryonic radial glial Tsc1 inactivation, and astrogliosis evolves secondary to seizures.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is a developmental disorder associated with epilepsy, autism, and cognitive impairment. Despite inactivating mutations in the TSC1 or TSC2 genes and hyperactive mechanistic target of rapamycin (mTOR) signaling, the mechanisms underlying TSC-associated neurological symptoms remain incompletely understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35858542/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Pyramidal Cells",
+    "Seizures",
+    "Tuberous Sclerosis",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Tumor Suppressor Proteins"
+  ],
+  "keywords": [
+    "CP: Neuroscience",
+    "astrogliosis",
+    "cortical hyperexcitability",
+    "cytomegalic dysplastic neurons",
+    "epileptogenesis",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

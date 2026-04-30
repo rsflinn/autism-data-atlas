@@ -1,0 +1,41 @@
+{
+  "pmid": "38263034",
+  "doi": "10.1186/s12888-024-05514-8",
+  "title": "Relationship between autism and brain cortex surface area: genetic correlation and a two-sample Mendelian randomization study",
+  "authors": "Li X, Jiang M, Zhao L, Yang K, Lu T, Zhang D, et al.",
+  "journal": "BMC psychiatry",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Alterations in surface area (SA) in specific regions of the cortex have been reported in many individuals with autism spectrum disorder (ASD), however, the genetic background between ASD and SA is still unclear. This study estimated the genetic correlation and causal effect of ASD and cortical SA.\n\nSummarized data of genome-wide association studies (GWAS) were separately downloaded from the Psychiatric Genomics Consortium (18,381 cases of ASD, and 27,969 controls) and the Enhancing Neuroimaging Genetics through Meta-Analysis Consortium (33,992 participants of Europeans). We used Linkage disequilibrium score regression (LDSC) and Heritability Estimation from Summary Statistics (HESS) to calculate the heritability of each trait. As for the genetic correlation between ASD and SA, LDSC was used for global correlation and HESS was used to examine the local genetic covariance further. We used three Mendelian randomization (MR) methods, Inverse-variance weighted, MR-Egger, and weighted median to estimate the causal relationship.\n\nLDSC observed a nominal significant genetic correlation (rg&#x2009;=&#x2009;0.1229, P-value&#x2009;=&#x2009;0.0346) between ASD and SA of the rostral anterior cingulate gyrus whereas analysis through HESS did not reveal any significant loci having genetic covariance. Based on MR results, statistically meaningful estimations were found in the following areas, postcentral cortex (&#x3b2; (SE)&#x2009;=&#x2009;21.82 (7.84) mm, 95% CI: 6.46 to 37.19&#xa0;mm, P= 5.38&#x2009;&#xd7;&#x2009;10, P= 3.09&#x2009;&#xd7;&#x2009;10), posterior cingulate gyrus (&#x3b2; (SE)&#x2009;=&#x2009;6.23 (2.69) mm, 95% CI: 0.96 to 11.49&#xa0;mm, P= 2.05&#x2009;&#xd7;&#x2009;10, P= 4.26&#x2009;&#xd7;&#x2009;10), supramarginal gyrus (&#x3b2; (SE)&#x2009;=&#x2009;19.25 (8.43) mm, 95% CI: 29.29 to 35.77&#xa0;mm, P= 2.24&#x2009;&#xd7;&#x2009;10, P= 4.31&#x2009;&#xd7;&#x2009;10).\n\nOur results provided genetic evidence to support the opinion that individuals with ASD tend to develop differences in cortical SA of special areas. The findings contributed to understanding the genetic relationship between ASD and cortical SA.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Alterations in surface area (SA) in specific regions of the cortex have been reported in many individuals with autism spectrum disorder (ASD), however, the genetic background between ASD and SA is still unclear. This study estimated the genetic correlation and causal effect of ASD and cortical SA.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38263034/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Genome-Wide Association Study",
+    "Gyrus Cinguli",
+    "Mendelian Randomization Analysis"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Cortical surface area",
+    "Genetic correlation",
+    "Mendelian randomization analysis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

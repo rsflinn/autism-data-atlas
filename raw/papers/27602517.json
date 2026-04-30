@@ -1,0 +1,54 @@
+{
+  "pmid": "27602517",
+  "doi": "10.1038/nature19357",
+  "title": "CHD8 haploinsufficiency results in autistic-like phenotypes in mice",
+  "authors": "Katayama Y, Nishiyama M, Shoji H, Ohkawa Y, Kawamura A, Sato T, et al.",
+  "journal": "Nature",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) comprises a range of neurodevelopmental disorders characterized by deficits in social interaction and communication as well as by restricted and repetitive behaviours. ASD has a strong genetic component with high heritability. Exome sequencing analysis has recently identified many de novo mutations in a variety of genes in individuals with ASD, with CHD8, a gene encoding a chromatin remodeller, being most frequently affected. Whether CHD8 mutations are causative for ASD and how they might establish ASD traits have remained unknown. Here we show that mice heterozygous for Chd8 mutations manifest ASD-like behavioural characteristics including increased anxiety, repetitive behaviour, and altered social behaviour. CHD8 haploinsufficiency did not result in prominent changes in the expression of a few specific genes but instead gave rise to small but global changes in gene expression in the mouse brain, reminiscent of those in the brains of patients with ASD. Gene set enrichment analysis revealed that neurodevelopment was delayed in the mutant mouse embryos. Furthermore, reduced expression of CHD8 was associated with abnormal activation of RE-1 silencing transcription factor (REST), which suppresses the transcription of many neuronal genes. REST activation was also observed in the brains of humans with ASD, and CHD8 was found to interact physically with REST in the mouse brain. Our results are thus consistent with the notion that CHD8 haploinsufficiency is a highly penetrant risk factor for ASD, with disease pathogenesis probably resulting from a delay in neurodevelopment.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Autism spectrum disorder (ASD) comprises a range of neurodevelopmental disorders characterized by deficits in social interaction and communication as well as by restricted and repetitive behaviours. ASD has a strong genetic component with high heritability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27602517/",
+  "mesh_terms": [
+    "Animals",
+    "Anxiety",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "DNA-Binding Proteins",
+    "Developmental Disabilities",
+    "Disease Models, Animal",
+    "Down-Regulation",
+    "Genetic Predisposition to Disease",
+    "Haploinsufficiency",
+    "Heterozygote",
+    "Male",
+    "Megalencephaly",
+    "Mice",
+    "Mice, Knockout",
+    "Mutation",
+    "Penetrance",
+    "Phenotype",
+    "Repressor Proteins",
+    "Social Behavior",
+    "Transcriptome",
+    "RE1-Silencing Transcription Factor"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

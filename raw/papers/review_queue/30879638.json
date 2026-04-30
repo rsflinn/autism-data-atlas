@@ -1,0 +1,62 @@
+{
+  "pmid": "30879638",
+  "doi": "10.1016/j.ajhg.2019.02.002",
+  "title": "Deleterious Variation in BRSK2 Associates with a Neurodevelopmental Disorder",
+  "authors": "Hiatt SM, Thompson ML, Prokop JW, Lawlor JMJ, Gray DE, Bebin EM, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Developmental delay and intellectual disability (DD and ID) are heterogeneous phenotypes that arise in many rare monogenic disorders. Because of this rarity, developing cohorts with enough individuals to robustly identify disease-associated genes is challenging. Social-media platforms that facilitate data sharing among sequencing labs can help to address this challenge. Through one such tool, GeneMatcher, we identified nine DD- and/or ID-affected probands with a rare, heterozygous variant in the gene encoding the serine/threonine-protein kinase BRSK2. All probands have a speech delay, and most present with intellectual disability, motor delay, behavioral issues, and autism. Six of the nine variants are predicted to result in loss of function, and computational modeling predicts that the remaining three missense variants are damaging to BRSK2 structure and function. All nine variants are absent from large variant databases, and BRSK2 is, in general, relatively intolerant to protein-altering variation among humans. In all six probands for whom parents were available, the mutations were found to have arisen de novo. Five of these de novo variants were from cohorts with at least 400 sequenced probands; collectively, the cohorts span 3,429 probands, and the observed rate of de novo variation in these cohorts is significantly higher than the estimated background-mutation rate (p = 2.46&#xa0;&#xd7; 10). We also find that exome sequencing provides lower coverage and appears less sensitive to rare variation in BRSK2 than does genome sequencing; this fact most likely reduces BRSK2's visibility in many clinical and research sequencing efforts. Altogether, our results implicate damaging variation in BRSK2 as a source of neurodevelopmental disease.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Developmental delay and intellectual disability (DD and ID) are heterogeneous phenotypes that arise in many rare monogenic disorders. Because of this rarity, developing cohorts with enough individuals to robustly identify disease-associated genes is challenging.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30879638/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Child",
+    "Child Behavior Disorders",
+    "Child, Preschool",
+    "Developmental Disabilities",
+    "Exome",
+    "Female",
+    "Gene Deletion",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Heterozygote",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Motor Skills Disorders",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Phenotype",
+    "Protein Serine-Threonine Kinases",
+    "Exome Sequencing",
+    "Young Adult"
+  ],
+  "keywords": [
+    "BRSK2",
+    "Mendelian disease",
+    "clinical sequencing",
+    "de novo",
+    "developmental delay",
+    "exome",
+    "genome",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

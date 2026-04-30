@@ -1,0 +1,51 @@
+{
+  "pmid": "39633007",
+  "doi": "10.1038/s41380-024-02865-2",
+  "title": "Lithium normalizes ASD-related neuronal, synaptic, and behavioral phenotypes in DYRK1A-knockin mice",
+  "authors": "Roh JD, Bae M, Kim H, Yang Y, Lee Y, Cho Y, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "Dyrk1A deficiency is linked to various neurodevelopmental disorders, including developmental delays, intellectual disability (ID) and autism spectrum disorders (ASD). Haploinsufficiency of Dyrk1a in mice reportedly leads to ASD-related phenotypes. However, the key pathological mechanisms remain unclear and human DYRK1A mutations remain uncharacterized in mice. Here, we generated and studied Dyrk1a-knockin mice carrying a human ASD patient mutation (Ile48LysfsX2; Dyrk1a-I48K mice). These mice display severe microcephaly, social and cognitive deficits, dendritic shrinkage, excitatory synaptic deficits, and altered phospho-proteomic patterns enriched for multiple signaling pathways and synaptic proteins. Early chronic lithium treatment of newborn mutant mice rescues the brain volume, behavior, dendritic, synaptic, and signaling/synapse phospho-proteomic phenotypes at juvenile and adult stages. These results suggest that signaling/synaptic alterations contribute to the phenotypic alterations seen in Dyrk1a-I48K mice, and that early correction of these alterations by lithium treatment has long-lasting effects in preventing juvenile and adult-stage phenotypes.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "DYRK1A"
+  ],
+  "summary": "Dyrk1A deficiency is linked to various neurodevelopmental disorders, including developmental delays, intellectual disability (ID) and autism spectrum disorders (ASD). Haploinsufficiency of Dyrk1a in mice reportedly leads to ASD-related phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39633007/",
+  "mesh_terms": [
+    "Animals",
+    "Protein-Tyrosine Kinases",
+    "Dyrk Kinases",
+    "Autism Spectrum Disorder",
+    "Protein Serine-Threonine Kinases",
+    "Mice",
+    "Phenotype",
+    "Disease Models, Animal",
+    "Synapses",
+    "Neurons",
+    "Lithium",
+    "Humans",
+    "Mice, Transgenic",
+    "Brain",
+    "Gene Knock-In Techniques",
+    "Mutation",
+    "Behavior, Animal",
+    "Male",
+    "Signal Transduction",
+    "Microcephaly"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "39825710",
+  "doi": "10.1002/aur.3308",
+  "title": "Naa15 Haploinsufficiency and De Novo Missense Variants Associate With Neurodevelopmental Disorders and Interfere With Neurogenesis and Neuron Development",
+  "authors": "He M, Du B, Chen G, Lyu Y, Guo H, Jia X, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) encompass a group of conditions that impact brain development and function, exhibiting significant genetic and clinical heterogeneity. NAA15, the auxiliary subunit of the N-terminal acetyltransferase complex, has garnered attention due to its association with NDDs. However, the precise role of NAA15 in cortical development and its contribution to NDDs remain elusive. By employing targeted sequencing on a large Chinese cohort affected by ASD and conducting an extensive literature review, we have compiled 64 distinct variants in the NAA15 gene identified among individuals with neurodevelopmental disorders. Our research demonstrates that loss of NAA15 leads to a substantial increase in neuronal count, potentially resulting in aberrant brain development and triggering repetitive as well as anxious behaviors in mice models. Furthermore, disorder-associated variants within NAA15 impair axon and synapse formation processes crucial for neural connectivity establishment. These findings shed light on the consequences of NAA15 deficiency along with its de novo mutations on brain development while unraveling the cellular mechanisms underlying NDDs.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders (NDDs) encompass a group of conditions that impact brain development and function, exhibiting significant genetic and clinical heterogeneity. NAA15, the auxiliary subunit of the N-terminal acetyltransferase complex, has garnered attention due to its association with NDDs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39825710/",
+  "mesh_terms": [
+    "Humans",
+    "Neurogenesis",
+    "N-Terminal Acetyltransferase A",
+    "N-Terminal Acetyltransferase E",
+    "Neurodevelopmental Disorders",
+    "Haploinsufficiency",
+    "Mutation, Missense",
+    "Animals",
+    "Mice",
+    "Neurons",
+    "Male",
+    "Female",
+    "Brain",
+    "Autism Spectrum Disorder",
+    "Child"
+  ],
+  "keywords": [
+    "NAA15",
+    "autism spectrum disorders",
+    "brain development",
+    "de novo mutations",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

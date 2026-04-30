@@ -1,0 +1,45 @@
+{
+  "pmid": "38438524",
+  "doi": "10.1038/s41380-024-02491-y",
+  "title": "The complex etiology of autism spectrum disorder due to missense mutations of CHD8",
+  "authors": "Shiraishi T, Katayama Y, Nishiyama M, Shoji H, Miyakawa T, Mizoo T, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "CHD8 is an ATP-dependent chromatin-remodeling factor encoded by the most frequently mutated gene in individuals with autism spectrum disorder (ASD). Although many studies have examined the consequences of CHD8 haploinsufficiency in cells and mice, few have focused on missense mutations, the most common type of CHD8 alteration in ASD patients. We here characterized CHD8 missense mutations in ASD patients according to six prediction scores and experimentally examined the effects of such mutations on the biochemical activities of CHD8, neural differentiation of embryonic stem cells, and mouse behavior. Only mutations with high prediction scores gave rise to ASD-like phenotypes in mice, suggesting that not all CHD8 missense mutations detected in ASD patients are directly responsible for the development of ASD. Furthermore, we found that mutations with high scores cause ASD by mechanisms either dependent on or independent of loss of chromatin-remodeling function. Our results thus provide insight into the molecular underpinnings of ASD pathogenesis caused by missense mutations of CHD8.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "CHD8 is an ATP-dependent chromatin-remodeling factor encoded by the most frequently mutated gene in individuals with autism spectrum disorder (ASD). Although many studies have examined the consequences of CHD8 haploinsufficiency in cells and mice, few have focused on missense mutations, the most common type of CHD8 alteration in ASD patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38438524/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Mutation, Missense",
+    "Humans",
+    "DNA-Binding Proteins",
+    "Animals",
+    "Mice",
+    "Male",
+    "Transcription Factors",
+    "Female",
+    "Embryonic Stem Cells",
+    "Phenotype",
+    "Chromatin Assembly and Disassembly",
+    "Cell Differentiation",
+    "Haploinsufficiency"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

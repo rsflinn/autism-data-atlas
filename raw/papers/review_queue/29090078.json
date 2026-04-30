@@ -1,0 +1,56 @@
+{
+  "pmid": "29090078",
+  "doi": "10.1186/s13229-017-0174-4",
+  "title": "RNA sequencing and proteomics approaches reveal novel deficits in the cortex of-deficient mice, a model for Rett syndrome",
+  "authors": "Pacheco NL, Heaven MR, Holt LM, Crossman DK, Boggio KJ, Shaffer SA, et al.",
+  "journal": "Molecular autism",
+  "date": "2017-10",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is an X-linked neurodevelopmental disorder caused by mutations in the transcriptional regulator MeCP2. Much of our understanding of MeCP2 function is derived from transcriptomic studies with the general assumption that alterations in the transcriptome correlate with proteomic changes. Advances in mass spectrometry-based proteomics have facilitated recent interest in the examination of global protein expression to better understand the biology between transcriptional and translational regulation.\n\nWe therefore performed the first comprehensive transcriptome-proteome comparison in a RTT mouse model to elucidate RTT pathophysiology, identify potential therapeutic targets, and further our understanding of MeCP2 function. The whole cortex of wild-type and symptomatic RTT male littermates (&#xa0;=&#xa0;4 per genotype) were analyzed using RNA-sequencing and data-independent acquisition liquid chromatography tandem mass spectrometry. Ingenuity&#xae; Pathway Analysis was used to identify significantly affected pathways in the transcriptomic and proteomic data sets.\n\nOur results indicate these two \"omics\" data sets supplement one another. In addition to confirming previous works regarding mRNA expression in-deficient animals, the current study identified hundreds of novel protein targets. Several selected protein targets were validated by Western blot analysis. These data indicate RNA metabolism, proteostasis, monoamine metabolism, and cholesterol synthesis are disrupted in the RTT proteome. Hits common to both data sets indicate disrupted cellular metabolism, calcium signaling, protein stability, DNA binding, and cytoskeletal cell structure. Finally, in addition to confirming disrupted pathways and identifying novel hits in neuronal structure and synaptic transmission, our data indicate aberrant myelination, inflammation, and vascular disruption. Intriguingly, there is no evidence of reactive gliosis, but instead, gene, protein, and pathway analysis suggest astrocytic maturation and morphological deficits.\n\nThis comparative omics analysis supports previous works indicating widespread CNS dysfunction and may serve as a valuable resource for those interested in cellular dysfunction in RTT.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Rett syndrome (RTT) is an X-linked neurodevelopmental disorder caused by mutations in the transcriptional regulator MeCP2. Much of our understanding of MeCP2 function is derived from transcriptomic studies with the general assumption that alterations in the transcriptome correlate with proteomic changes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29090078/",
+  "mesh_terms": [
+    "Animals",
+    "Cerebral Cortex",
+    "Chromatography, High Pressure Liquid",
+    "Disease Models, Animal",
+    "Female",
+    "Genotype",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Neurons",
+    "Phenotype",
+    "Proteome",
+    "Proteomics",
+    "RNA",
+    "Rett Syndrome",
+    "Sequence Analysis, RNA",
+    "Tandem Mass Spectrometry",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "Multi-cellular deficits",
+    "Proteome",
+    "Rett syndrome",
+    "Transcriptome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

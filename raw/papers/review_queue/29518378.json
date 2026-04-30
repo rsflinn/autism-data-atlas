@@ -1,0 +1,58 @@
+{
+  "pmid": "29518378",
+  "doi": "10.1016/j.brainres.2018.02.044",
+  "title": "The crux of Cux genes in neuronal function and plasticity",
+  "authors": "Weiss LA, Nieto M",
+  "journal": "Brain research",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "Cux1 and Cux2 are the vertebrate members of a family of homeodomain transcription factors (TF) containing Cut repeat DNA-binding sequences. Perturbation of their expression has been implicated in a wide variety of diseases and disorders, ranging from cancer to autism spectrum disorder (ASD). Within the nervous system, both genes are expressed during neurogenesis and in specific neuronal subpopulations. Their role during development and circuit specification is discussed here, with a particular focus on the cortex where their restricted expression in pyramidal neurons of the upper layers appears to be responsible for many of the specialized functions of these cells, and where their functions have been extensively investigated. Finally, we discuss how Cux TF represent a promising avenue for manipulating neuronal function and for reprogramming.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Cux1 and Cux2 are the vertebrate members of a family of homeodomain transcription factors (TF) containing Cut repeat DNA-binding sequences. Perturbation of their expression has been implicated in a wide variety of diseases and disorders, ranging from cancer to autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29518378/",
+  "mesh_terms": [
+    "Cerebral Cortex",
+    "Embryonic Development",
+    "Gene Expression Regulation, Developmental",
+    "Hippocampus",
+    "Homeodomain Proteins",
+    "Humans",
+    "Neurogenesis",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Nuclear Proteins",
+    "Pyramidal Cells",
+    "Repressor Proteins",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Brain disorders",
+    "CUX1",
+    "CUX2",
+    "Cortex",
+    "Cutl1",
+    "Cutl2",
+    "Cux1",
+    "Cux2",
+    "Reprogramming",
+    "Selector",
+    "Superficial layers",
+    "Transcription factors",
+    "Upper layers"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "30298087",
+  "doi": "10.3389/fgene.2018.00406",
+  "title": "Mutations (DNMs) in Autism Spectrum Disorder (ASD): Pathway and Network Analysis",
+  "authors": "Alonso-Gonzalez A, Rodriguez-Fontenla C, Carracedo A",
+  "journal": "Frontiers in genetics",
+  "date": "2018-09",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder (NDD) defined by impairments in social communication and social interactions, accompanied by repetitive behavior and restricted interests. ASD is characterized by its clinical and etiological heterogeneity, which makes it difficult to elucidate the neurobiological mechanisms underlying its pathogenesis. Recently,mutations (DNMs) have been recognized as strong source of genetic causality. Here, we review different aspects of the DNMs associated with ASD, including their functional annotation and classification. In addition, we also focus on the most recent advances in this area, such as the detection of PZMs (), and we outline the main bioinformatics tools commonly employed to study these. Some of these approaches available allow DNMs to be analyzed in the context of gene networks and pathways, helping to shed light on the biological processes underlying ASD. To end this review, a brief insight into the future perspectives for genetic studies into ASD will be provided.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder (NDD) defined by impairments in social communication and social interactions, accompanied by repetitive behavior and restricted interests. ASD is characterized by its clinical and etiological heterogeneity, which makes it difficult to elucidate the neurobiological mechanisms underlying its pathogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30298087/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism Spectrum Disorder",
+    "de novo mutations",
+    "gene networks",
+    "genetics",
+    "neurodevelopmental disorders",
+    "pathway analysis",
+    "post-zygotic mutations",
+    "whole exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

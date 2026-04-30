@@ -1,0 +1,51 @@
+{
+  "pmid": "38657042",
+  "doi": "10.1073/pnas.2316819121",
+  "title": "SHP2 regulates GluA2 tyrosine phosphorylation required for AMPA receptor endocytosis and mGluR-LTD",
+  "authors": "Lee S, Kim J, Ryu HH, Jang H, Lee D, Lee S, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Posttranslational modifications regulate the properties and abundance of synaptic &#x3b1;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors that mediate fast excitatory synaptic transmission and synaptic plasticity in the central nervous system. During long-term depression (LTD), protein tyrosine phosphatases (PTPs) dephosphorylate tyrosine residues in the C-terminal tail of AMPA receptor GluA2 subunit, which is essential for GluA2 endocytosis and group I metabotropic glutamate receptor (mGluR)-dependent LTD. However, as a selective downstream effector of mGluRs, the mGluR-dependent PTP responsible for GluA2 tyrosine dephosphorylation remains elusive at Schaffer collateral (SC)-CA1 synapses. In the present study, we find that mGluR5 stimulation activates Src homology 2 (SH2) domain-containing phosphatase 2 (SHP2) by increasing phospho-Y542 levels in SHP2. Under steady-state conditions, SHP2 plays a protective role in stabilizing phospho-Y869 of GluA2 by directly interacting with GluA2 phosphorylated at Y869, without affecting GluA2 phospho-Y876 levels. Upon mGluR5 stimulation, SHP2 dephosphorylates GluA2 at Y869 and Y876, resulting in GluA2 endocytosis and mGluR-LTD. Our results establish SHP2 as a downstream effector of mGluR5 and indicate a dual action of SHP2 in regulating GluA2 tyrosine phosphorylation and function. Given the implications of mGluR5 and SHP2 in synaptic pathophysiology, we propose SHP2 as a promising therapeutic target for neurodevelopmental and autism spectrum disorders.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Posttranslational modifications regulate the properties and abundance of synaptic &#x3b1;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid (AMPA) receptors that mediate fast excitatory synaptic transmission and synaptic plasticity in the central nervous system. During long-term depression (LTD), protein tyrosine phosphatases (PTPs) dephosphorylate tyrosine residues in the C-terminal tail of AMPA receptor GluA2 subunit, which is essential for GluA2 endocytosis and group I metabotropic glutamate",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38657042/",
+  "mesh_terms": [
+    "Receptors, AMPA",
+    "Animals",
+    "Phosphorylation",
+    "Endocytosis",
+    "Long-Term Synaptic Depression",
+    "Receptors, Metabotropic Glutamate",
+    "Protein Tyrosine Phosphatase, Non-Receptor Type 11",
+    "Rats",
+    "Tyrosine",
+    "Receptor, Metabotropic Glutamate 5",
+    "Synapses",
+    "Mice",
+    "Humans",
+    "Neurons"
+  ],
+  "keywords": [
+    "GluA2",
+    "SHP2",
+    "mGluR-LTD",
+    "mGluR5",
+    "trafficking"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

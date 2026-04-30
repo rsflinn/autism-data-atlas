@@ -1,0 +1,42 @@
+{
+  "pmid": "38253686",
+  "doi": "10.1038/s44319-023-00036-y",
+  "title": "Nomo1 deficiency causes autism-like behavior in zebrafish",
+  "authors": "Zhang Q, Li F, Li T, Lin J, Jian J, Zhang Y, et al.",
+  "journal": "EMBO reports",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Patients with neuropsychiatric disorders often exhibit a combination of clinical symptoms such as autism, epilepsy, or schizophrenia, complicating diagnosis and development of therapeutic strategies. Functional studies of novel genes associated with co-morbidities can provide clues to understand the pathogenic mechanisms and interventions. NOMO1 is one of the candidate genes located at 16p13.11, a hotspot of neuropsychiatric diseases. Here, we generate nomo1zebrafish to get further insight into the function of NOMO1. Nomo1 mutants show abnormal brain and neuronal development and activation of apoptosis and inflammation-related pathways in the brain. Adult Nomo1-deficient zebrafish exhibit multiple neuropsychiatric behaviors such as hyperactive locomotor activity, social deficits, and repetitive stereotypic behaviors. The Habenular nucleus and the pineal gland in the telencephalon are affected, and the melatonin level of nomo1is reduced. Melatonin treatment restores locomotor activity, reduces repetitive stereotypic behaviors, and rescues the noninfectious brain inflammatory responses caused by nomo1 deficiency. These results suggest melatonin supplementation as a potential therapeutic regimen for neuropsychiatric disorders caused by NOMO1 deficiency.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Patients with neuropsychiatric disorders often exhibit a combination of clinical symptoms such as autism, epilepsy, or schizophrenia, complicating diagnosis and development of therapeutic strategies. Functional studies of novel genes associated with co-morbidities can provide clues to understand the pathogenic mechanisms and interventions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38253686/",
+  "mesh_terms": [
+    "Animals",
+    "Adult",
+    "Humans",
+    "Zebrafish",
+    "Melatonin",
+    "Autistic Disorder",
+    "Brain"
+  ],
+  "keywords": [
+    "Inflammatory Response",
+    "Melatonin",
+    "Neuropsychiatric Disorders",
+    "Nomo1",
+    "Serotonin"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

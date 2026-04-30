@@ -1,0 +1,39 @@
+{
+  "pmid": "35948532",
+  "doi": "10.1038/s41398-022-02076-9",
+  "title": "Cell-type-specific epigenetic effects of early life stress on the brain",
+  "authors": "Rahman MF, McGowan PO",
+  "journal": "Translational psychiatry",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "Early life stress (ELS) induces long-term phenotypic adaptations that contribute to increased vulnerability to a host of neuropsychiatric disorders. Epigenetic mechanisms, including DNA methylation, histone modifications and non-coding RNA, are a proposed link between environmental stressors, alterations in gene expression, and phenotypes. Epigenetic modifications play a primary role in shaping functional differences between cell types and can be modified by environmental perturbations, especially in early development. Together with contributions from genetic variation, epigenetic mechanisms orchestrate patterns of gene expression within specific cell types that contribute to phenotypic variation between individuals. To date, many studies have provided insights into epigenetic changes resulting from ELS. However, most of these studies have examined heterogenous brain tissue, despite evidence of cell-type-specific epigenetic modifications in phenotypes associated with ELS. In this review, we focus on rodent and human studies that have examined epigenetic modifications induced by ELS in select cell types isolated from the brain or associated with genes that have cell-type-restricted expression in neurons, microglia, astrocytes, and oligodendrocytes. Although significant challenges remain, future studies using these approaches can enable important mechanistic insight into the role of epigenetic variation in the effects of ELS on brain function.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Early life stress (ELS) induces long-term phenotypic adaptations that contribute to increased vulnerability to a host of neuropsychiatric disorders. Epigenetic mechanisms, including DNA methylation, histone modifications and non-coding RNA, are a proposed link between environmental stressors, alterations in gene expression, and phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35948532/",
+  "mesh_terms": [
+    "Humans",
+    "Adverse Childhood Experiences",
+    "Brain",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Epigenomics",
+    "Stress, Psychological",
+    "Animals"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

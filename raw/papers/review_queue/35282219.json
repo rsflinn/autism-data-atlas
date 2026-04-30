@@ -1,0 +1,36 @@
+{
+  "pmid": "35282219",
+  "doi": "10.3389/fpsyg.2022.804093",
+  "title": "The Impact of Poor Nonverbal Social Perception on Functional Capacity in Schizophrenia",
+  "authors": "Chapellier V, Pavlidou A, Maderthaner L, von K&#xe4;nel S, Walther S",
+  "journal": "Frontiers in psychology",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "Nonverbal social perception is the ability to interpret the intentions and dispositions of others by evaluating cues such as facial expressions, body movements, and emotional prosody. Nonverbal social perception plays a key role in social cognition and is fundamental for successful social interactions. Patients with schizophrenia have severe impairments in nonverbal social perception leading to social isolation and withdrawal. Collectively, these aforementioned deficits affect patients' quality of life. Here, we compare nonverbal social perception in patients with schizophrenia and controls and examine how nonverbal social perception relates to daily functioning.\n\nWe compared nonverbal social perception in 41 stable outpatients with schizophrenia and 30 healthy controls using the Mini Profile of Nonverbal Sensitivity (Mini-PONS). The participants evaluated 64 video clips showing a female actor demonstrating various nonverbal social cues. Participants were asked to choose one of two options that best described the observed scenario. We correlated clinical ratings (Positive and Negative Syndrome Scale, Brief Negative Syndrome Scale), Self-report of Negative Symptoms, and functional assessments (functional capacity and functional outcome) with Mini-PONS scores.\n\nPatients performed significantly poorer in the Mini-PONS compared to controls, suggesting deficits in nonverbal social perception. These deficits were not associated with either positive symptoms or negative symptoms (including self-report). However, impaired nonverbal social perception correlated with distinctive domains of BNSS (mainly avolition and blunted affect), as well as functional capacity and functional outcome in patients.\n\nWe demonstrate that nonverbal social perception is impaired in stable outpatients with schizophrenia. Nonverbal social perception is directly related to specific negative symptom domains, functional capacity and functional outcome. These findings underline the importance of nonverbal social perception for patients' everyday life and call for novel therapeutic approaches to alleviate nonverbal social perception deficits.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Nonverbal social perception is the ability to interpret the intentions and dispositions of others by evaluating cues such as facial expressions, body movements, and emotional prosody. Nonverbal social perception plays a key role in social cognition and is fundamental for successful social interactions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35282219/",
+  "mesh_terms": [],
+  "keywords": [
+    "affect",
+    "communication",
+    "functional domains",
+    "gesture",
+    "psychosis",
+    "social cognition",
+    "social functioning"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

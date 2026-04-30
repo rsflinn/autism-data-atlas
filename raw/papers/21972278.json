@@ -1,0 +1,49 @@
+{
+  "pmid": "21972278",
+  "doi": "10.1192/bjp.bp.109.076877",
+  "title": "Epilepsy in autism: features and correlates",
+  "authors": "Bolton PF, Carcani-Rathwell I, Hutton J, Goode S, Howlin P, Rutter M",
+  "journal": "The British journal of psychiatry : the journal of mental science",
+  "date": "2011-04",
+  "source": "pubmed",
+  "abstract": "Epilepsy occurs in a significant minority of individuals with autism, but few long-term follow-up studies have been reported, so the prevalence, features (type of seizures, age at onset and severity, etc.) and correlates (IQ history of regression, family history) have only partially been identified.\n\nTo undertake a long-term follow-up study of individuals with autism in order to better characterise the features and correlates of epilepsy in individuals with autism.\n\nOne hundred and fifty individuals diagnosed with autism in childhood were followed up when they were 21+ years of age. All individuals were screened for a history of possible seizures by parental/informant questionnaire. An epilepsy interview was undertaken and medical notes reviewed for individuals with a history of possible seizures. The features and correlates of epilepsy were examined using survival and regression analysis.\n\nEpilepsy developed in 22% of participants. In the majority, seizures began after 10 years of age. Generalised tonic-clonic seizures predominated (88%). In over a half (19/33), seizures occurred weekly or less frequently and in the majority of individuals (28/31) they were controlled with the prescription of one to two anticonvulsants. Epilepsy was associated with gender (female), intellectual disability and poorer verbal abilities. Although the presence of epilepsy in the probands was not associated with an increased risk of epilepsy in their relatives, it was associated with the presence of the broader autism phenotype in relatives. This indicates that the familial liability to autism was associated with the risk for epilepsy in the proband.\n\nEpilepsy is an important medical complication that develops in individuals with autism. Seizures may first begin in adolescence or adulthood. Putative risk factors for epilepsy in autism were identified and these will require further investigation in future studies.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Epilepsy occurs in a significant minority of individuals with autism, but few long-term follow-up studies have been reported, so the prevalence, features (type of seizures, age at onset and severity, etc.) and correlates (IQ history of regression, family history) have only partially been identified. To undertake a long-term follow-up study of individuals with autism in order to better characterise the features and correlates of epilepsy in individuals with autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21972278/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age of Onset",
+    "Antipsychotic Agents",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Epilepsy",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Phenotype",
+    "Prevalence",
+    "Risk Factors",
+    "Severity of Illness Index",
+    "Survival Analysis",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

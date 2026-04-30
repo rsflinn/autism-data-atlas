@@ -1,0 +1,57 @@
+{
+  "pmid": "28746872",
+  "doi": "10.1016/j.celrep.2017.07.008",
+  "title": "Aberrant Proteostasis of BMAL1&#xa0;Underlies Circadian Abnormalities in a Paradigmatic mTOR-opathy",
+  "authors": "Lipton JO, Boyle LM, Yuan ED, Hochstrasser KJ, Chifamba FF, Nathan A, et al.",
+  "journal": "Cell reports",
+  "date": "2017-07",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a neurodevelopmental disorder characterized by mutations in either the TSC1 or TSC2 genes, whose products form a critical inhibitor of the mechanistic target of rapamycin (mTOR). Loss of TSC1/2 gene function renders an mTOR-overactivated state. Clinically, TSC manifests with epilepsy, intellectual disability, autism, and sleep dysfunction. Here, we report that mouse models of TSC have abnormal circadian rhythms. We show that mTOR regulates the proteostasis of the core clock protein BMAL1, affecting its translation, degradation, and subcellular localization. This results in elevated levels of BMAL1 and a dysfunctional clock that displays abnormal timekeeping under constant conditions and exaggerated responses to phase resetting. Genetically lowering the dose of BMAL1 rescues circadian behavioral phenotypes in TSC mouse models. These findings indicate that BMAL1 deregulation is a feature of the&#xa0;mTOR-activated state and suggest a molecular mechanism for mitigating circadian phenotypes in a neurodevelopmental disorder.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is a neurodevelopmental disorder characterized by mutations in either the TSC1 or TSC2 genes, whose products form a critical inhibitor of the mechanistic target of rapamycin (mTOR). Loss of TSC1/2 gene function renders an mTOR-overactivated state.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28746872/",
+  "mesh_terms": [
+    "ARNTL Transcription Factors",
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Circadian Rhythm",
+    "Immunoprecipitation",
+    "Mice",
+    "Mice, Knockout",
+    "Proteostasis",
+    "Sleep Wake Disorders",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Tumor Suppressor Proteins",
+    "Ubiquitination"
+  ],
+  "keywords": [
+    "BMAL1",
+    "autism",
+    "circadian rhythms",
+    "mTOR",
+    "neurodevelopmental disorder",
+    "sleep disorders",
+    "translation",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

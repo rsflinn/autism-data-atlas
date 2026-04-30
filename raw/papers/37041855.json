@@ -1,0 +1,34 @@
+{
+  "pmid": "37041855",
+  "doi": "10.2147/NDT.S347327",
+  "title": "Treatment-Resistant Epilepsy and Tuberous Sclerosis Complex: Treatment, Maintenance, and Future Directions",
+  "authors": "Singh A, Hadjinicolaou A, Peters JM, Salussolia CL",
+  "journal": "Neuropsychiatric disease and treatment",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a neurogenetic disorder that affects multiple organ systems, including the heart, kidneys, eyes, skin, and central nervous system. The neurologic manifestations have the highest morbidity and mortality, in particular in children. Clinically, patients with TSC often present with new-onset seizures within the first year of life. TSC-associated epilepsy is often difficult to treat and refractory to multiple antiseizure medications. Refractory TSC-associated epilepsy is associated with increased risk of neurodevelopmental comorbidities, including developmental delay, intellectual disability, autism spectrum disorder, and attention hyperactivity disorder. An increasing body of research suggests that early, effective treatment of TSC-associated epilepsy during critical neurodevelopmental periods can potentially improve cognitive outcomes. Therefore, it is important to treat TSC-associated epilepsy aggressively, whether it be with pharmacological therapy, surgical intervention, and/or neuromodulation. This review discusses current and future pharmacological treatments for TSC-associated epilepsy, as well as the importance of early surgical evaluation for refractory epilepsy in children with TSC and consideration of neuromodulatory interventions in young adults.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is a neurogenetic disorder that affects multiple organ systems, including the heart, kidneys, eyes, skin, and central nervous system. The neurologic manifestations have the highest morbidity and mortality, in particular in children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37041855/",
+  "mesh_terms": [],
+  "keywords": [
+    "epilepsy surgery",
+    "infantile spasms",
+    "neurodevelopment",
+    "vigabatrin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

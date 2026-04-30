@@ -1,0 +1,54 @@
+{
+  "pmid": "19000991",
+  "doi": "10.1093/hmg/ddn380",
+  "title": "Reciprocal co-regulation of EGR2 and MECP2 is disrupted in Rett syndrome and autism",
+  "authors": "Swanberg SE, Nagarajan RP, Peddada S, Yasui DH, LaSalle JM",
+  "journal": "Human molecular genetics",
+  "date": "2008-11",
+  "source": "pubmed",
+  "abstract": "Mutations in MECP2, encoding methyl-CpG-binding protein 2 (MeCP2), cause the neurodevelopmental disorder Rett syndrome (RTT). Although MECP2 mutations are rare in idiopathic autism, reduced MeCP2 levels are common in autism cortex. MeCP2 is critical for postnatal neuronal maturation and a modulator of activity-dependent genes such as Bdnf (brain-derived neurotropic factor) and JUNB. The activity-dependent early growth response gene 2 (EGR2), required for both early hindbrain development and mature neuronal function, has predicted binding sites in the promoters of several neurologically relevant genes including MECP2. Conversely, MeCP2 family members MBD1, MBD2 and MBD4 bind a methylated CpG island in an enhancer region located in EGR2 intron 1. This study was designed to test the hypothesis that MECP2 and EGR2 regulate each other's expression during neuronal maturation in postnatal brain development. Chromatin immunoprecipitation analysis showed EGR2 binding to the MECP2 promoter and MeCP2 binding to the enhancer region in EGR2 intron 1. Reduction in EGR2 and MeCP2 levels in cultured human neuroblastoma cells by RNA interference reciprocally reduced expression of both EGR2 and MECP2 and their protein products. Consistent with a role of MeCP2 in enhancing EGR2, Mecp2-deficient mouse cortex samples showed significantly reduced EGR2 by quantitative immunofluorescence. Furthermore, MeCP2 and EGR2 show coordinately increased levels during postnatal development of both mouse and human cortex. In contrast to age-matched Controls, RTT and autism postmortem cortex samples showed significant reduction in EGR2. Together, these data support a role of dysregulation of an activity-dependent EGR2/MeCP2 pathway in RTT and autism.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Mutations in MECP2, encoding methyl-CpG-binding protein 2 (MeCP2), cause the neurodevelopmental disorder Rett syndrome (RTT). Although MECP2 mutations are rare in idiopathic autism, reduced MeCP2 levels are common in autism cortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19000991/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Animals",
+    "Autistic Disorder",
+    "Cell Line, Tumor",
+    "Cerebral Cortex",
+    "Child",
+    "Child, Preschool",
+    "Early Growth Response Protein 2",
+    "Female",
+    "Gene Expression Regulation",
+    "Gene Expression Regulation, Developmental",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Promoter Regions, Genetic",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

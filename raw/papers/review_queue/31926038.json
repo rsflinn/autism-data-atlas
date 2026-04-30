@@ -1,0 +1,45 @@
+{
+  "pmid": "31926038",
+  "doi": "10.1002/glia.23781",
+  "title": "Human iPSC-derived microglia: A growing toolset to study the brain's innate immune cells",
+  "authors": "Hasselmann J, Blurton-Jones M",
+  "journal": "Glia",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Recent advances in the generation of microglia from human induced pluripotent stem cells (iPSCs) have provided exciting new approaches to examine and decipher the biology of microglia. As these techniques continue to evolve to encompass more complex in situ and in vivo paradigms, so too have they begun to yield novel scientific insight into the genetics and function of human microglia. As such, researchers now have access to a toolset comprised of three unique \"flavors\" of iPSC-derived microglia: in vitro microglia (iMGs), organoid microglia (oMGs), and xenotransplanted microglia (xMGs). The goal of this review is to discuss the variety of research applications that each of these techniques enables and to highlight recent discoveries that these methods have begun to uncover. By presenting the research paradigms in which each model has been successful, as well as the key benefits and limitations of each approach, it is our hope that this review will help interested researchers to incorporate these techniques into their studies, collectively advancing our understanding of human microglia biology.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Recent advances in the generation of microglia from human induced pluripotent stem cells (iPSCs) have provided exciting new approaches to examine and decipher the biology of microglia. As these techniques continue to evolve to encompass more complex in situ and in vivo paradigms, so too have they begun to yield novel scientific insight into the genetics and function of human microglia.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31926038/",
+  "mesh_terms": [
+    "Brain",
+    "Humans",
+    "Immunity, Innate",
+    "Induced Pluripotent Stem Cells",
+    "Microglia",
+    "Models, Biological"
+  ],
+  "keywords": [
+    "cerebral organoids",
+    "chimeric",
+    "induced pluripotent stem cells",
+    "microglia",
+    "microglia-like cells",
+    "xenotransplantation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

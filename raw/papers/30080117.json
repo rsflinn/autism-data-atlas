@@ -1,0 +1,51 @@
+{
+  "pmid": "30080117",
+  "doi": "10.1024/1422-4917/a000604",
+  "title": "[&#xfeff;Neuropsychiatric manifestations in Tuberous Sclerosis Complex (TSC): diagnostic guidelines, TAND concept and therapy with mTOR inhibitors&#xfeff;]",
+  "authors": "Waltereit R, Feucht M, de Vries MC, Huemer J, Roessner V, de Vries PJ",
+  "journal": "Zeitschrift fur Kinder- und Jugendpsychiatrie und Psychotherapie",
+  "date": "2018-08",
+  "source": "pubmed",
+  "abstract": "Neuropsychiatric manifestations in Tuberous Sclerosis Complex (TSC): diagnostic guidelines, TAND concept and therapy with mTOR inhibitors Abstract. Tuberous sclerosis complex (TSC), albeit a rare autosomal-dominant multisystem disease with an incidence of 1:6,000, is one of the most important monogenetic disorders in child and adolescent psychiatry. In up to 90 % of patients, neurological disorders such as epilepsy and psychiatric disorders such as autism spectrum disorder, ADHD, affective disorders, and intellectual disability are observed. In recent years, significant progress has been made in understanding the molecular mechanism as well as in the clinical diagnosis and treatment of the disease. Here, we review these recent developments. In the first part, we describe the need for psychiatric assessment and treatment of patients and analyse challenges in interdisciplinary work between child and adolescent psychiatry, child neurology, and other professional groups. In the second part, we introduce the concept of TSC-associated neuropsychiatric disorders (TAND), developed by the TSC Neuropsychiatry Panel as a guide to help clinical teams, families, and individuals with TSC via screening, assessment, and treatment of neuropsychiatric symptoms and disorders as well as with a novel screening instrument, the TAND Checklist. Finally, we report findings from recent clinical trials of mTOR-inhibitors to treat TAND. The paper includes the German translation of the TAND Checklist as an electronic supplement.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Neuropsychiatric manifestations in Tuberous Sclerosis Complex (TSC): diagnostic guidelines, TAND concept and therapy with mTOR inhibitors Abstract. Tuberous sclerosis complex (TSC), albeit a rare autosomal-dominant multisystem disease with an incidence of 1:6,000, is one of the most important monogenetic disorders in child and adolescent psychiatry.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30080117/",
+  "mesh_terms": [
+    "Adolescent",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Checklist",
+    "Child",
+    "Epilepsy",
+    "Humans",
+    "Intellectual Disability",
+    "Protein Kinase Inhibitors",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "TAND Checklist",
+    "TAND-Checkliste",
+    "TSC",
+    "diagnostische Leitlinien",
+    "interdisciplinary work",
+    "interdisziplin&#xe4;re Zusammenarbeit",
+    "mTOR inhibitors",
+    "mTOR-Inhibitoren",
+    "surveillance and management guidelines"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

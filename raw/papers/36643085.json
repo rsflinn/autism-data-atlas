@@ -1,0 +1,35 @@
+{
+  "pmid": "36643085",
+  "doi": "10.7759/cureus.33682",
+  "title": "A Novel De Novo Mutation of the DHX30 Gene in a Patient With Neurodevelopmental Disorder, Severe Motor Impairment, and Absent Language (NEDMIAL)",
+  "authors": "Alomaim MM, Mushiba AM",
+  "journal": "Cureus",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "&#xa0;DExH-Box Helicase 30 (DHX30) is a gene that codes for proteins. It belongs to the class of RNA secondary structure unwinding helicases known as DExH-boxes. There have been numerous reports of pathogenic DHX30 variants. Most mutations, but not all, result in severe phenotypic abnormalities. The most common symptoms are severe motor developmental delay, intellectual disability, sleep disturbances, autism spectrum disorder, seizures, and gait abnormalities.\n\nThe objectives of reporting this case are:&#xa0;To report a novel mutation giving rise to NEDMIAL&#xa0;and to update the literature regarding the manifestation of the case of a rare condition (NEDMIAL).\n\n&#xa0;We report the case of a 12-year-old female who presented with similar complaints of severe motor impairment, seizures, intellectual disability, and absent language and was later diagnosed on Next-Generation Sequencing (NGS) with an autosomal dominant neurodevelopmental disorder (NEDMIAL).\n\n&#xa0;We report a case of neurodevelopmental disorder with severe motor impairment and absent language (NEDMIAL) with a De novo novel DHX30 mutation (p.Pro796Leu) detected by whole exome sequence. We suggest&#xa0;upgrading&#xa0;the variant classification of DHX30:p.Pro796Leu to likely pathogenic, according to the evidence found in our patient. To the best of our knowledge, this is the first reported case of this mutation and disorder in the Middle East.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "&#xa0;DExH-Box Helicase 30 (DHX30) is a gene that codes for proteins. It belongs to the class of RNA secondary structure unwinding helicases known as DExH-boxes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36643085/",
+  "mesh_terms": [],
+  "keywords": [
+    "atp-dependent rna helicase",
+    "dhx30",
+    "nedmial",
+    "pro796leu",
+    "whole exome sequence"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

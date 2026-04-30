@@ -1,0 +1,52 @@
+{
+  "pmid": "32998551",
+  "doi": "10.1176/appi.ajp.2020.19101025",
+  "title": "Genome-Wide Association Study of Suicide Death and Polygenic Prediction of Clinical Antecedents",
+  "authors": "Docherty AR, Shabalin AA, DiBlasi E, Monson E, Mullins N, Adkins DE, et al.",
+  "journal": "The American journal of psychiatry",
+  "date": "2020-10",
+  "source": "pubmed",
+  "abstract": "Death by suicide is a highly preventable yet growing worldwide health crisis. To date, there has been a lack of adequately powered genomic studies of suicide, with no sizable suicide death cohorts available for analysis. To address this limitation, the authors conducted the first comprehensive genomic analysis of suicide death using previously unpublished genotype data from a large population-ascertained cohort.\n\nThe analysis sample comprised 3,413 population-ascertained case subjects of European ancestry and 14,810 ancestrally matched control subjects. Analytical methods included principal component analysis for ancestral matching and adjusting for population stratification, linear mixed model genome-wide association testing (conditional on genetic-relatedness matrix), gene and gene set-enrichment testing, and polygenic score analyses, as well as single-nucleotide polymorphism (SNP) heritability and genetic correlation estimation using linkage disequilibrium score regression.\n\nGenome-wide association analysis identified two genome-wide significant loci (involving six SNPs: rs34399104, rs35518298, rs34053895, rs66828456, rs35502061, and rs35256367). Gene-based analyses implicated 22 genes on chromosomes 13, 15, 16, 17, and 19 (q<0.05). Suicide death heritability was estimated at an hvalue of 0.25 (SE=0.04) and a value of 0.16 (SE=0.02) when converted to a liability scale. Notably, suicide polygenic scores were significantly predictive across training and test sets. Polygenic scores for several other psychiatric disorders and psychological traits were also predictive, particularly scores for behavioral disinhibition and major depressive disorder.\n\nMultiple genome-wide significant loci and genes were identified and polygenic score prediction of suicide death case-control status was demonstrated, adjusting for ancestry, in independent training and test sets. Additionally, the suicide death sample was found to have increased genetic risk for behavioral disinhibition, major depressive disorder, depressive symptoms, autism spectrum disorder, psychosis, and alcohol use disorder compared with the control sample.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Death by suicide is a highly preventable yet growing worldwide health crisis. To date, there has been a lack of adequately powered genomic studies of suicide, with no sizable suicide death cohorts available for analysis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32998551/",
+  "mesh_terms": [
+    "Adult",
+    "Case-Control Studies",
+    "Female",
+    "Genome, Human",
+    "Genome-Wide Association Study",
+    "Genotyping Techniques",
+    "Humans",
+    "Linkage Disequilibrium",
+    "Male",
+    "Multifactorial Inheritance",
+    "Polymorphism, Single Nucleotide",
+    "Principal Component Analysis",
+    "Scotland",
+    "Sex Factors",
+    "Suicide, Completed",
+    "Utah",
+    "Young Adult"
+  ],
+  "keywords": [
+    "GWAS",
+    "Polygenic Score",
+    "Suicide"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "30564305",
+  "doi": "10.1186/s13229-018-0247-z",
+  "title": "Inherited and multiple de novo mutations in autism/developmental delay risk genes suggest a multifactorial model",
+  "authors": "Guo H, Wang T, Wu H, Long M, Coe BP, Li H, et al.",
+  "journal": "Molecular autism",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "We previously performed targeted sequencing of autism risk genes in probands from the Autism Clinical and Genetic Resources in China (ACGC) (phase I). Here, we expand this analysis to a larger cohort of patients (ACGC phase II) to better understand the prevalence, inheritance, and genotype-phenotype correlations of likely gene-disrupting (LGD) mutations for autism candidate genes originally identified in cohorts of European descent.\n\nWe sequenced 187 autism candidate genes in an additional 784 probands and 85 genes in 599 probands using single-molecule molecular inversion probes. We tested the inheritance of potentially pathogenic mutations, performed a meta-analysis of phase I and phase II data and combined our results with existing exome sequence data to investigate the phenotypes of carrier parents and patients with multiple hits in different autism risk genes.\n\nWe validated recurrent, LGD, de novo mutations (DNMs) in 13 genes. We identified a potential novel risk gene (), one novel gene with recurrent LGD DNMs (), as well as genes associated with macrocephaly (and). We identified the transmission of private LGD mutations in genes predominantly associated with DNMs and showed that parental carriers tended to share milder autism-related phenotypes. Patients that carried DNMs in two or more candidate genes show more severe phenotypes.\n\nWe identify new risk genes and transmission of deleterious mutations in genes primarily associated with DNMs. The fact that parental carriers show milder phenotypes and patients with multiple hits are more severe supports a multifactorial model of risk.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "We previously performed targeted sequencing of autism risk genes in probands from the Autism Clinical and Genetic Resources in China (ACGC) (phase I). Here, we expand this analysis to a larger cohort of patients (ACGC phase II) to better understand the prevalence, inheritance, and genotype-phenotype correlations of likely gene-disrupting (LGD) mutations for autism candidate genes originally identified in cohorts of European descent.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30564305/",
+  "mesh_terms": [
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Female",
+    "Humans",
+    "Male",
+    "Models, Genetic",
+    "Multifactorial Inheritance",
+    "Mutation",
+    "Pedigree",
+    "Quantitative Trait Loci"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "De novo mutations",
+    "Genotype&#x2013;phenotype relationship",
+    "Multifactorial model",
+    "Multiple hit",
+    "Targeted sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

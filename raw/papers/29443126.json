@@ -1,0 +1,29 @@
+{
+  "pmid": "29443126",
+  "doi": "10.1212/CPJ.0000000000000260",
+  "title": "Tuberous sclerosis complex: Five new things",
+  "authors": "Hsieh DT, Whiteway SL, Rohena LO, Thiele EA",
+  "journal": "Neurology. Clinical practice",
+  "date": "2016-08",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a variably expressed neurocutaneous genetic disorder characterized by hamartomatous growths in multiple organ systems. Neurologic involvement often confers the most severe symptoms, and can include epilepsy, increased intracranial pressure from hydrocephalus, intellectual deficits, and autism. The purpose of this review is to provide a neurologically focused update in the diagnosis and treatment of these complications in patients with TSC.\n\nWe highlight 5 new areas of understanding in TSC: the neurobiology of TSC and its translation into clinical practice, vigabatrin in the treatment of infantile spasms, the role of tubers and epilepsy surgery, the treatment of subependymal giant cell astrocytomas, and TSC-related neuropsychiatric disorders.\n\nThese recent advances in diagnosis and treatment give our patients with TSC and their families hope for the future for improved care and possible preventive cures, to the end goal of improving quality of life.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is a variably expressed neurocutaneous genetic disorder characterized by hamartomatous growths in multiple organ systems. Neurologic involvement often confers the most severe symptoms, and can include epilepsy, increased intracranial pressure from hydrocephalus, intellectual deficits, and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29443126/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

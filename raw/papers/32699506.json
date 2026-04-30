@@ -1,0 +1,51 @@
+{
+  "pmid": "32699506",
+  "doi": "10.31887/DCNS.2020.22.1/macrocq",
+  "title": "Neurodevelopmental disorders-the history and future of a diagnostic concept&#x2029;",
+  "authors": "Morris-Rosendahl DJ, Crocq MA",
+  "journal": "Dialogues in clinical neuroscience",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "This article describes the history of the diagnostic class of neurodevelopmental disorders (NDDs) up to DSM-5. We further analyze how the development of genetics will transform the classification and diagnosis of NDDs. In DSM-5, NDDs include intellectual disability (ID), autism spectrum disorder (ASD), and attention-deficit/hyperactivity disorder (ADHD). Physicians in German-, French- and English-speaking countries (eg, Weikard, Georget, Esquirol, Down, Asperger, and Kanner) contributed to the phenomenological definitions of these disorders throughout the 18th and 20th centuries. These diagnostic categories show considerable comorbidity and phenotypic overlap. NDDs are one of the chapters of psychiatric nosology most likely to benefit from the approach advocated by the National Institute of Mental Health's Research Domain Criteria project. Genetic research supports the hypothesis that ID, ASD, ADHD, schizophrenia, and bipolar disorder lie on a neurodevelopmental continuum. The identification of recurrently observed copy number variants and disruptive gene variants in ASD (eg, CDH8, 16p11.2, SCN2A) led to the adoption of the genotype-first approach to characterize individuals at the etiological level.&#x2029;.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "This article describes the history of the diagnostic class of neurodevelopmental disorders (NDDs) up to DSM-5. We further analyze how the development of genetics will transform the classification and diagnosis of NDDs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32699506/",
+  "mesh_terms": [
+    "Diagnostic and Statistical Manual of Mental Disorders",
+    "Forecasting",
+    "History, 18th Century",
+    "History, 19th Century",
+    "History, 20th Century",
+    "History, 21st Century",
+    "Humans",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "genome-wide association study (GWAS)",
+    "(CNV)",
+    "ADHD",
+    "RDoC",
+    "autism",
+    "copy number variant",
+    "genetics",
+    "intellectual disability",
+    "neurodevelopmental disorder"
+  ],
+  "article_types": [
+    "Historical Article",
+    "Journal Article",
+    "Review"
+  ]
+}

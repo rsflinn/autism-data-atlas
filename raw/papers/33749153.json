@@ -1,0 +1,44 @@
+{
+  "pmid": "33749153",
+  "doi": "10.1002/aur.2502",
+  "title": "PLXNA2 and LRRC40 as candidate genes in autism spectrum disorder",
+  "authors": "Pijuan J, Ortigoza-Escobar JD, Ortiz J, Alcal&#xe1; A, Calvo MJ, Cubells M, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disability with high heritability yet the genetic etiology remains elusive. Therefore, it is necessary to elucidate new genotype-phenotype relationships for ASD to improve both the etiological knowledge and diagnosis. In this work, a copy-number variant and whole-exome sequencing analysis were performed in an ASD patient with a complex neurobehavioral phenotype with epilepsy and attention deficit hyperactivity disorder. We identified rare recessive single nucleotide variants in the two genes, PLXNA2 encoding Plexin A2 that participates in neurodevelopment, and LRRC40, which encodes Leucine-rich repeat containing protein 40, a protein of unknown function. PLXNA2 showed the heterozygous missense variants c.614G>A (p.Arg205Gln) and c.4904G>A (p.Arg1635Gln) while LRRC40 presented the homozygous missense variant c.1461G>T (p.Leu487Phe). In silico analysis predicted that these variants could be pathogenic. We studied PLXNA2 and LRRC40 mRNA and proteins in fibroblasts from the patient and controls. We observed a significant PlxnA2 subcellular delocalization and very low levels of LRRC40 in the patient. Moreover, we found a novel interaction between PlxnA2 and LRRC40 suggesting that participate in a common neural pathway. This interaction was significant decreased in the patient's fibroblasts. In conclusion, our results identified PLXNA2 and LRRC40 genes as candidates in ASD providing novel clues for the pathogenesis. Further attention to these genes is warranted in genetic studies of patients with neurodevelopmental disorders, particularly ASD. LAY SUMMARY: Genomics is improving the knowledge and diagnosis of patients with autism spectrum disorder (ASD) yet the genetic etiology remains elusive. Here, using genomic analysis together with experimental functional studies, we identified in an ASD complex patient the PLXNA2 and LRRC40 recessive genes as ASD candidates. Furthermore, we found that the proteins of these genes interact in a common neural network. Therefore, more attention to these genes is warranted in genetic studies of patients with neurodevelopmental disorders, particularly ASD.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disability with high heritability yet the genetic etiology remains elusive. Therefore, it is necessary to elucidate new genotype-phenotype relationships for ASD to improve both the etiological knowledge and diagnosis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33749153/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "DNA Copy Number Variations",
+    "Exome",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Nerve Tissue Proteins",
+    "Receptors, Cell Surface"
+  ],
+  "keywords": [
+    "LRRC40",
+    "PLXNA2",
+    "autism spectrum disorder",
+    "diagnosis",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

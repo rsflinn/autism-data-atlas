@@ -1,0 +1,45 @@
+{
+  "pmid": "31387202",
+  "doi": "10.3390/ijms20153813",
+  "title": "Glial Dysfunction in MeCP2 Deficiency Models: Implications for Rett Syndrome",
+  "authors": "Kahanovitch U, Patterson KC, Hernandez R, Olsen ML",
+  "journal": "International journal of molecular sciences",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a rare, X-linked neurodevelopmental disorder typically affecting females, resulting in a range of symptoms including autistic features, intellectual impairment, motor deterioration, and autonomic abnormalities. RTT is primarily caused by the genetic mutation of the Mecp2 gene. Initially considered a neuronal disease, recent research shows that glial dysfunction contributes to the RTT disease phenotype. In the following manuscript, we review the evidence regarding glial dysfunction and its effects on disease etiology.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Rett syndrome (RTT) is a rare, X-linked neurodevelopmental disorder typically affecting females, resulting in a range of symptoms including autistic features, intellectual impairment, motor deterioration, and autonomic abnormalities. RTT is primarily caused by the genetic mutation of the Mecp2 gene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31387202/",
+  "mesh_terms": [
+    "Animals",
+    "Astrocytes",
+    "Energy Metabolism",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Neuroglia",
+    "Oligodendroglia",
+    "Phenotype",
+    "Rett Syndrome"
+  ],
+  "keywords": [
+    "astrocytes",
+    "microglia",
+    "oligodendrocytes"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

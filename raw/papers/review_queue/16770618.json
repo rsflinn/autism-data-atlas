@@ -1,0 +1,42 @@
+{
+  "pmid": "16770618",
+  "doi": "10.1007/s00381-006-0130-7",
+  "title": "Tuberous sclerosis complex: a review of the management of epilepsy with emphasis on surgical aspects",
+  "authors": "Connolly MB, Hendson G, Steinbok P",
+  "journal": "Child's nervous system : ChNS : official journal of the International Society for Pediatric Neurosurgery",
+  "date": "2006-06",
+  "source": "pubmed",
+  "abstract": "To review the management of epilepsy in patients with tuberous sclerosis complex (TSC) with an emphasis on surgical aspects, neuropathology, and pathogenesis.\n\nReview of the literature and presentation of the authors' experience of surgery for refractory epilepsy in patients with TSC.\n\nTSC is a multisystem genetic disorder with variable phenotypic expression. TSC results from a mutation in the TSC1 gene on chromosome 9, which codes for hamartin, or in the TSC 2 gene on chromosome 16 which codes for tuberin. The majority of the patients have TSC as a result of spontaneous genetic mutations while in one-third of the patients, the disorder is inherited in an autosomal dominant manner. Epilepsy is the most common neurological complication, and up to 80-90% of individuals with TSC develop epilepsy at some point in their lifetime. The onset of epilepsy is typically in early childhood. Infantile spasms are a very common early seizure type although partial seizures may occur. Developmental delay, intellectual impairment, autism, behavioral problems, and neuropsychiatric disorders occur commonly in individuals with TSC and may be associated with poorly controlled epilepsy. Antiepileptic drugs are the first-line management for epilepsy but the ketogenic diet, resection of one or more tubers, corpus callosotomy, and vagus nerve stimulation are other therapeutic options for individuals with poorly controlled epilepsy.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "TSC1"
+  ],
+  "summary": "To review the management of epilepsy in patients with tuberous sclerosis complex (TSC) with an emphasis on surgical aspects, neuropathology, and pathogenesis. Review of the literature and presentation of the authors' experience of surgery for refractory epilepsy in patients with TSC.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16770618/",
+  "mesh_terms": [
+    "Cognition",
+    "Electroencephalography",
+    "Epilepsy",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Psychosurgery",
+    "Tuberous Sclerosis",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Tumor Suppressor Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "36153334",
+  "doi": "10.1038/s41398-022-02179-3",
+  "title": "Quantitative trait locus analysis for endophenotypes reveals genetic substrates of core symptom domains and neurocognitive function in autism spectrum disorder",
+  "authors": "Lee IH, Koelliker E, Kong SW",
+  "journal": "Translational psychiatry",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) represents a heterogeneous group of neurodevelopmental disorders and is largely attributable to genetic risk factors. Phenotypic and genetic heterogeneity of ASD have been well-recognized; however, genetic substrates for endophenotypes that constitute phenotypic heterogeneity are not yet known. In the present study, we compiled data from the Autism Genetic Resource Exchange, which contains the demographic and detailed phenotype information of 11,961 individuals. Notably, the whole-genome sequencing data available from MSSNG and iHART for 3833 individuals in this dataset was used to perform an endophenotype-wide association study. Using a linear mixed model, genome-wide association analyses were performed for 29 endophenotype scores and 0.58 million common variants with variant allele frequency&#x2009;&#x2265; 5%. We discovered significant associations between 9 genetic variants and 6 endophenotype scores comprising neurocognitive development and severity scores for core symptoms of ASD at a significance threshold of p&#x2009;<&#x2009;5&#x2009;&#xd7;&#x2009;10. Of note, the Stereotyped Behaviors and Restricted Interests total score in Autism Diagnostic Observation Schedule Module 3 was significantly associated with multiple variants in the VPS13B gene, a causal gene for Cohen syndrome and a candidate gene for syndromic ASD. Our findings yielded loci with small effect sizes due to the moderate sample size and, thus, require validation in another cohort. Nonetheless, our endophenotype-wide association analysis extends previous candidate gene discovery in the context of genotype and endophenotype association. As a result, these candidate genes may be responsible for specific traits that constitute core symptoms and neurocognitive function of ASD rather than the disorder itself.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) represents a heterogeneous group of neurodevelopmental disorders and is largely attributable to genetic risk factors. Phenotypic and genetic heterogeneity of ASD have been well-recognized; however, genetic substrates for endophenotypes that constitute phenotypic heterogeneity are not yet known.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36153334/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Endophenotypes",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Quantitative Trait Loci"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

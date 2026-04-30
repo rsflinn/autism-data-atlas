@@ -1,0 +1,48 @@
+{
+  "pmid": "28685626",
+  "doi": "10.1080/13543784.2017.1353600",
+  "title": "Lurasidone for the treatment of irritability and anger in autism spectrum disorders",
+  "authors": "McClellan L, Dominick KC, Pedapati EV, Wink LK, Erickson CA",
+  "journal": "Expert opinion on investigational drugs",
+  "date": "2017-07",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is a heterogeneous neurodevelopmental disorder characterized by deficits in social interaction and communication as well as restricted patterns of behaviors and interests. Irritability marked by tantrums, self-injury and aggression occurs frequently in youth with ASD, causing significant parent and caregiver distress. Atypical antipsychotics have been the most studied drug class targeting irritability in ASD. Risperidone and aripiprazole are Food and Drug Administration (FDA)-approved atypical antipsychotics for treatment of irritability in youth with ASD. However, other atypical antipsychotics, such as lurasidone, are often considered for off-label use in the treatment of irritability, whether because of tolerability issues with risperidone and aripiprazole or because of the drug-refractory nature of this symptom cluster. Areas covered: Following a comprehensive review of the literature this article summarizes information on the efficacy and tolerability of lurasidone as a potential off label treatment of irritability in children and adolescents with ASD. Available data included a 6&#xa0;week randomized, blind, fixed dose, placebo-controlled study and a case study. Expert opinion: To date the safety and tolerability of lurasidone in treating irritability in youth with ASD has yet to be established with, lurasidone being the only antipsychotic with published negative placebo-controlled results.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is a heterogeneous neurodevelopmental disorder characterized by deficits in social interaction and communication as well as restricted patterns of behaviors and interests. Irritability marked by tantrums, self-injury and aggression occurs frequently in youth with ASD, causing significant parent and caregiver distress.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28685626/",
+  "mesh_terms": [
+    "Adolescent",
+    "Anger",
+    "Antipsychotic Agents",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Humans",
+    "Irritable Mood",
+    "Lurasidone Hydrochloride",
+    "Off-Label Use",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "Autism",
+    "adolescent",
+    "anger",
+    "atypical antipsychotics",
+    "children",
+    "irritability",
+    "lurasidone"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

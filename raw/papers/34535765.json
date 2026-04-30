@@ -1,0 +1,40 @@
+{
+  "pmid": "34535765",
+  "doi": "10.1038/s41380-021-01281-0",
+  "title": "IQSEC2 mutation associated with epilepsy, intellectual disability, and autism results in hyperexcitability of patient-derived neurons and deficient synaptic transmission",
+  "authors": "Brant B, Stern T, Shekhidem HA, Mizrahi L, Rosh I, Stern Y, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "Mutations in the IQSEC2 gene are associated with drug-resistant, multifocal infantile and childhood epilepsy; autism; and severe intellectual disability (ID). We used induced pluripotent stem cell (iPSC) technology to obtain hippocampal neurons to investigate the neuropathology of IQSEC2-mediated disease. The neurons were characterized at three-time points during differentiation to assess developmental progression. We showed that immature IQSEC2 mutant dentate gyrus (DG) granule neurons were extremely hyperexcitable, exhibiting increased sodium and potassium currents compared to those of CRISPR-Cas9-corrected isogenic controls, and displayed dysregulation of genes involved in differentiation and development. Immature IQSEC2 mutant cultured neurons exhibited a marked reduction in the number of inhibitory neurons, which contributed further to hyperexcitability. As the mutant neurons aged, they became hypoexcitable, exhibiting reduced sodium and potassium currents and a reduction in the rate of synaptic and network activity, and showed dysregulation of genes involved in synaptic transmission and neuronal differentiation. Mature IQSEC2 mutant neurons were less viable than wild-type mature neurons and had reduced expression of surface AMPA receptors. Our studies provide mechanistic insights into severe infantile epilepsy and neurodevelopmental delay associated with this mutation and present a human model for studying IQSEC2 mutations in vitro.",
+  "relevance_score": 30,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Mutations in the IQSEC2 gene are associated with drug-resistant, multifocal infantile and childhood epilepsy; autism; and severe intellectual disability (ID). We used induced pluripotent stem cell (iPSC) technology to obtain hippocampal neurons to investigate the neuropathology of IQSEC2-mediated disease.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34535765/",
+  "mesh_terms": [
+    "Aged",
+    "Autistic Disorder",
+    "Child",
+    "Epilepsy",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "Neurons",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

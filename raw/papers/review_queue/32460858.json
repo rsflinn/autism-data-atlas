@@ -1,0 +1,57 @@
+{
+  "pmid": "32460858",
+  "doi": "10.1186/s13229-020-00344-3",
+  "title": "Quantitative proteomic analysis of Rett iPSC-derived neuronal progenitors",
+  "authors": "Varderidou-Minasian S, Hinz L, Hagemans D, Posthuma D, Altelaar M, Heine VM",
+  "journal": "Molecular autism",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a progressive neurodevelopmental disease that is characterized by abnormalities in cognitive, social, and motor skills. RTT is often caused by mutations in the X-linked gene encoding methyl-CpG binding protein 2 (MeCP2). The mechanism by which impaired MeCP2 induces the pathological abnormalities in the brain is not understood. Both patients and mouse models have shown abnormalities at molecular and cellular level before typical RTT-associated symptoms appear. This implies that underlying mechanisms are already affected during neurodevelopmental stages.\n\nTo understand the molecular mechanisms involved in disease onset, we used an RTT patient induced pluripotent stem cell (iPSC)-based model with isogenic controls and performed time-series of proteomic analysis using in-depth high-resolution quantitative mass spectrometry during early stages of neuronal development.\n\nWe provide mass spectrometry-based quantitative proteomic data, depth of about 7000 proteins, at neuronal progenitor developmental stages of RTT patient cells and isogenic controls. Our data gives evidence of proteomic alteration at early neurodevelopmental stages, suggesting alterations long before the phase that symptoms of RTT syndrome become apparent. Significant changes are associated with the GO enrichment analysis in biological processes cell-cell adhesion, actin cytoskeleton organization, neuronal stem cell population maintenance, and pituitary gland development, next to protein changes previously associated with RTT, i.e., dendrite morphology and synaptic deficits. Differential expression increased from early to late neural stem cell phases, although proteins involved in immunity, metabolic processes, and calcium signaling were affected throughout all stages analyzed.\n\nThe limitation of our study is the number of RTT patients analyzed. As the aim of our study was to investigate a large number of proteins, only one patient was considered, of which 3 different RTT iPSC clones and 3 isogenic control iPSC clones were included. Even though this approach allowed the study of mutation-induced alterations due to the usage of isogenic controls, results should be validated on different RTT patients to suggest common disease mechanisms.\n\nDuring early neuronal differentiation, there are consistent and time-point specific proteomic alterations in RTT patient cells carrying exons 3-4 deletion in MECP2. We found changes in proteins involved in pathway associated with RTT phenotypes, including dendrite morphology and synaptogenesis. Our results provide a valuable resource of proteins and pathways for follow-up studies, investigating common mechanisms involved during early disease stages of RTT syndrome.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is a progressive neurodevelopmental disease that is characterized by abnormalities in cognitive, social, and motor skills. RTT is often caused by mutations in the X-linked gene encoding methyl-CpG binding protein 2 (MeCP2).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32460858/",
+  "mesh_terms": [
+    "Biomarkers",
+    "Cell Differentiation",
+    "Cells, Cultured",
+    "Cellular Reprogramming",
+    "Computational Biology",
+    "Disease Susceptibility",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Immunohistochemistry",
+    "Induced Pluripotent Stem Cells",
+    "Mass Spectrometry",
+    "Neural Stem Cells",
+    "Neurogenesis",
+    "Neurons",
+    "Phenotype",
+    "Protein Interaction Mapping",
+    "Proteome",
+    "Proteomics",
+    "Rett Syndrome"
+  ],
+  "keywords": [
+    "Neuron differentiation",
+    "Quantitative mass spectrometry",
+    "Rett syndrome",
+    "TMT-10plex",
+    "iPSC"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

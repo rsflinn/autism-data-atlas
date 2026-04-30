@@ -1,0 +1,50 @@
+{
+  "pmid": "30340903",
+  "doi": "10.1016/j.yebeh.2018.09.036",
+  "title": "EEG endophenotypes in autism spectrum disorder",
+  "authors": "Capal JK, Carosella C, Corbin E, Horn PS, Caine R, Manning-Courtney P",
+  "journal": "Epilepsy & behavior : E&B",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "The association between autism spectrum disorder (ASD) and epilepsy is well-known. Abnormalities on electroencephalography (EEG) results have been reported in patients with ASD without a history of seizures. However, little is known about the relationship between abnormalities on EEG results and the core features of ASD. The purpose of the study was to determine the relationship between the presence of epilepsy and/or abnormalities on EEG results and disease-associated impairments in young children with ASD.\n\nData were collected from medical records at Cincinnati Children's Hospital Medical Center (CCHMC) of patients with well-characterized ASD. Patients were subdivided into three groups: ASD without epilepsy but with abnormal EEG results, ASD without epilepsy and normal EEG results, and ASD with epilepsy. Developmental (Mullen Scales of Early Learning (MSEL)), adaptive (Vineland Adaptive Behavior Scales (VABS)), behavioral (Child Behavior Checklist), and language (Preschool Language Scales (PLS)) assessments, along with birth and developmental histories, medications, and medical comorbidities were collected. Electroencephalography data were abstracted from reports and included presence, characterization, and location of abnormalities.\n\nAnalysis was performed on 443 patients with ASD. Seventy patients (15.8%) had epilepsy at the time of ASD diagnosis. Out of 372 patients with ASD and no epilepsy, 95 (25.5%) had an abnormal EEG result (67.4% epileptiform, 36.8% other abnormalities). Majority of epileptiform discharges were focal (83%) and most commonly seen in the left temporal region. The group with abnormal EEG results exhibited more impaired adaptive functioning when compared with the group with normal EEG results (p&#x202f;<&#x202f;0.05). The group with abnormal EEG results was more similar to the group with epilepsy, differing only in expressive language (p&#x202f;<&#x202f;0.01) and fine motor (p&#x202f;<&#x202f;0.05) skills on the Mullen Scales. The group with epilepsy exhibited lower scores in all areas of developmental and adaptive functioning compared with the group with normal EEG results (p&#x202f;<&#x202f;0.05). At the time of analysis, 13 patients (8 in the group with abnormal EEG results, 5 in the group with normal EEG results) developed epilepsy at a mean age of 10.5&#x202f;years&#x202f;&#xb1;&#x202f;3.3&#x202f;years.\n\nThe presence of an abnormal EEG result or epilepsy in the setting of ASD suggests worse developmental and adaptive functioning. Further analysis will help to clarify associations and offer insight into treatment for this subpopulation without epilepsy but with abnormal EEG results.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The association between autism spectrum disorder (ASD) and epilepsy is well-known. Abnormalities on electroencephalography (EEG) results have been reported in patients with ASD without a history of seizures.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30340903/",
+  "mesh_terms": [
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Comorbidity",
+    "Electroencephalography",
+    "Endophenotypes",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Seizures",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Behavior",
+    "Cognition",
+    "EEG",
+    "Epilepsy",
+    "Language"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

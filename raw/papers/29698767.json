@@ -1,0 +1,57 @@
+{
+  "pmid": "29698767",
+  "doi": "10.1016/j.nlm.2018.04.014",
+  "title": "Regulation of neural differentiation, synaptic scaling and animal behavior by MeCP2 phophorylation",
+  "authors": "Zhong X, Li H, Kim J, Chang Q",
+  "journal": "Neurobiology of learning and memory",
+  "date": "2018-04",
+  "source": "pubmed",
+  "abstract": "Highly expressed in the mammalian brain and widely distributed across the genome, MeCP2 is a key player in recognizing modified DNA and interpreting the epigenetic information encoded in different DNA methylation/hydroxymethylation patterns. Alterations in sequence or copy number of the X-linked human MECP2 gene cause either Rett syndrome (RTT) or MECP2 duplication syndrome. Alterations in MECP2 levels have also been identified in patients with autism. To fully understand the significant role of MECP2 in regulating the development and function of the nervous system, it is important to study all aspects of MeCP2 function. Stimulus-induced MeCP2 phosphorylation has been shown to influence the proliferation and differentiation of neural progenitor cells, synaptic scaling, excitatory synaptogenesis, and animal behavior. However, all of the previous functional evidence is from studying phospho-dead mutations. In addition, the relationship between phosphorylation events at multiple sites on the MeCP2 protein is not well understood. Here, we report the generation of a phospho-mimic knockin Mecp2 mouse line. At the synaptic and behavioral levels, the phospho-mimic Mecp2 mice show phenotypes opposite to those observed in phospho-dead mutation at the same phosphorylation site. Moreover, we report opposite phenotypes between phospho-mutants of two sites on the MeCP2 protein. Our new data further confirm the functional significance of specific MeCP2 phosphorylation event and support the opposing regulatory role between different MeCP2 phosphorylation events.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Highly expressed in the mammalian brain and widely distributed across the genome, MeCP2 is a key player in recognizing modified DNA and interpreting the epigenetic information encoded in different DNA methylation/hydroxymethylation patterns. Alterations in sequence or copy number of the X-linked human MECP2 gene cause either Rett syndrome (RTT) or MECP2 duplication syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29698767/",
+  "mesh_terms": [
+    "Animals",
+    "Behavior, Animal",
+    "Blotting, Western",
+    "Cell Differentiation",
+    "Cell Line",
+    "Cells, Cultured",
+    "Female",
+    "Gene Knock-In Techniques",
+    "Hippocampus",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Microscopy, Confocal",
+    "Neural Stem Cells",
+    "Neurons",
+    "Patch-Clamp Techniques",
+    "Phosphorylation",
+    "Synapses"
+  ],
+  "keywords": [
+    "MeCP2",
+    "Phosphorylation",
+    "Rett syndrome",
+    "S421",
+    "S80"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

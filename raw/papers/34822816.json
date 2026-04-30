@@ -1,0 +1,56 @@
+{
+  "pmid": "34822816",
+  "doi": "10.1016/j.neuropharm.2021.108893",
+  "title": "Inhibition of histone deacetylase 5 ameliorates abnormalities in 16p11.2 duplication mouse model",
+  "authors": "Rein B, Conrow-Graham M, Frazier A, Cao Q, Yan Z",
+  "journal": "Neuropharmacology",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Microduplication of the human 16p11.2 gene locus is associated with a range of neurodevelopmental outcomes, including autism spectrum disorder (ASD). Mice carrying heterozygous 16p11.2 duplication (16p11.2) display social deficits, which is attributable to impaired GABAergic synaptic function in prefrontal cortex (PFC) driven by downregulation of Npas4, an activity-dependent transcription factor that regulates GABA synapse formation. However, the molecular mechanisms underlying the diminished transcription of Npas4 in 16p11.2 duplication remain unknown. Npas4 is one of the target genes regulated by histone deacetylase 5 (HDAC5), an epigenetic enzyme repressing gene expression via removal of transcription-permissive acetyl groups from histones. Here we report that HDAC5 expression is elevated and histone acetylation is reduced at the Npas4 promoter in PFC of 16p11.2mice. Treatment with the HDAC5 inhibitor LMK235 normalizes histone acetylation, restores GABAergic signaling in PFC, and significantly improves social preference in 16p11.2mice. These findings suggest that HDAC5 inhibition is a promising therapeutic avenue to alleviate genetic, synaptic and behavioral deficits in 16p11.2 duplication conditions.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Microduplication of the human 16p11.2 gene locus is associated with a range of neurodevelopmental outcomes, including autism spectrum disorder (ASD). Mice carrying heterozygous 16p11.2 duplication (16p11.2) display social deficits, which is attributable to impaired GABAergic synaptic function in prefrontal cortex (PFC) driven by downregulation of Npas4, an activity-dependent transcription factor that regulates GABA synapse formation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34822816/",
+  "mesh_terms": [
+    "Acetylation",
+    "Animals",
+    "Autistic Disorder",
+    "Basic Helix-Loop-Helix Proteins",
+    "Benzamides",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Disease Models, Animal",
+    "Down-Regulation",
+    "Gene Expression",
+    "Gene Expression Regulation, Enzymologic",
+    "Histone Deacetylases",
+    "Histones",
+    "Humans",
+    "Intellectual Disability",
+    "Mice, Transgenic"
+  ],
+  "keywords": [
+    "16p11.2 duplication",
+    "Autism spectrum disorder",
+    "GABA",
+    "HDAC5",
+    "LMK235",
+    "Npas4",
+    "Prefrontal cortex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

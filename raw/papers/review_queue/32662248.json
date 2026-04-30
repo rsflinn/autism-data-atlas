@@ -1,0 +1,50 @@
+{
+  "pmid": "32662248",
+  "doi": "10.1002/ajmg.a.61736",
+  "title": "Neurocognitive development and capabilities in boys with 49,XXXXY syndrome",
+  "authors": "Gropman AL, Porter GF, Lasutschinkow PC, Sadeghin T, Tipton ES, Powell S, et al.",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "49,XXXXY was previously associated with profound to severe intellectual deficits. However, prior research papers on the cognitive profiles of this population were confounded by small samples sizes, wide age spreads, and incomplete histories of testosterone replacement therapy. This study is the first comprehensive, international investigation of the neurocognitive aspects of 49,XXXXY, and the potential effects of biological treatment on this profile. Sixty-seven boys from infancy to 11&#x2009;years of age were enrolled in this longitudinal study, with the majority of boys postnatally diagnosed though chromosomal analysis. These boys received a comprehensive neurocognitive evaluation tailored to specific language-based deficits and cognitive challenges. Results revealed higher neurocognitive capacities, both verbally and nonverbally, than previously reported in this disorder. Infant boys with 49,XXXXY who received early hormonal therapy (EHT) had significantly higher scores on the cognitive domain of the Bayley Scales of Infant Development than untreated infants (p&#xa0;=&#xa0;.013). In addition, treated school-aged participants had significantly better scaled scores than untreated boys in form completion (p&#xa0;=&#xa0;.042), a task that requires deductive reasoning, on nonverbal testing on the Leiter International Performance Scales. This study indicates greater cognitive capacities with a wide range of abilities in the child with 49,XXXXY, thus warranting further investigation to identify and understand the critical influences on the etiology and the variability of those capacities.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "49,XXXXY was previously associated with profound to severe intellectual deficits. However, prior research papers on the cognitive profiles of this population were confounded by small samples sizes, wide age spreads, and incomplete histories of testosterone replacement therapy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32662248/",
+  "mesh_terms": [
+    "Aneuploidy",
+    "Child",
+    "Child, Preschool",
+    "Chromosomes, Human, X",
+    "Chromosomes, Human, Y",
+    "Cognition Disorders",
+    "Hormone Replacement Therapy",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Klinefelter Syndrome",
+    "Language Development Disorders",
+    "Longitudinal Studies",
+    "Male",
+    "Neurocognitive Disorders"
+  ],
+  "keywords": [
+    "49,XXXXY",
+    "X and Y chromosomal variation",
+    "sex chromosome aneuploidies",
+    "variant of 47,XXY (Klinefelter syndrome)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

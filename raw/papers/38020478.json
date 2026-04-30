@@ -1,0 +1,34 @@
+{
+  "pmid": "38020478",
+  "doi": "10.1016/j.bbih.2023.100698",
+  "title": "Genetic relationship between the immune system and autism",
+  "authors": "Arenella M, Fanelli G, Kiemeney LA, McAlonan G, Murphy DG, Bralten J",
+  "journal": "Brain, behavior, & immunity - health",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a common and complex neurodevelopmental condition. The pathophysiology of ASD is poorly defined; however, it includes a strong genetic component and there is increasing evidence to support a role of immune dysregulation. Nonetheless, it is unclear which immune phenotypes link to ASD through genetics. Hence, we investigated the genetic correlation between ASD and diverse classes of immune conditions and markers; and if these immune-related genetic factors link to specific autistic-like traits in the population. We estimated global and local genetic correlations between ASD (n&#xa0;=&#xa0;55,420) and 11 immune phenotypes (n&#xa0;=&#xa0;14,256-755,406) using genome-wide association study summary statistics. Subsequently, polygenic scores (PGS) for these immune phenotypes were calculated in a population-based sample (n&#xa0;=&#xa0;2487) and associated to five autistic-like traits (i.e., attention to detail, childhood behaviour, imagination, rigidity, social skills), and a total autistic-like traits score. Sex-stratified PGS analyses were also performed. At the genome-wide level, ASD was positively correlated with allergic diseases (ALG), and negatively correlated with lymphocyte count, rheumatoid arthritis (RA), and systemic lupus erythematosus (SLE) (FDR-p&#xa0;=&#xa0;0.01-0.02). At the local genetic level, ASD was correlated with RA, C-reactive protein, and granulocytes and lymphocyte counts (p&#xa0;=&#xa0;5.8&#xa0;&#xd7;&#xa0;10-0.002). In the general population sample, increased genetic liability for SLE, RA, ALG, and lymphocyte levels, captured by PGS, was associated with the total autistic score and with rigidity and childhood behaviour (FDR-p&#xa0;=&#xa0;0.03). In conclusion, we demonstrated a genetic relationship between ASD and immunity that depends on the type of immune phenotype considered; some increase likelihood whereas others may potentially help build resilience. Also, this relationship may be restricted to specific genetic loci and link to specific autistic dimensions (e.g., rigidity).",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a common and complex neurodevelopmental condition. The pathophysiology of ASD is poorly defined; however, it includes a strong genetic component and there is increasing evidence to support a role of immune dysregulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38020478/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism",
+    "Autistic traits",
+    "GWAS",
+    "Immune",
+    "Polygenic risk scores"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "37607817",
+  "doi": "10.1523/JNEUROSCI.0980-23.2023",
+  "title": "KCNQ2/3 Gain-of-Function Variants and Cell Excitability: Differential Effects in CA1 versus L2/3 Pyramidal Neurons",
+  "authors": "Varghese N, Moscoso B, Chavez A, Springer K, Ortiz E, Soh H, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Gain-of-function (GOF) pathogenic variants in the potassium channels KCNQ2 and KCNQ3 lead to hyperexcitability disorders such as epilepsy and autism spectrum disorders. However, the underlying cellular mechanisms of how these variants impair forebrain function are unclear. Here, we show that the R201C variant in KCNQ2 has opposite effects on the excitability of two types of mouse pyramidal neurons of either sex, causing hyperexcitability in layer 2/3 (L2/3) pyramidal neurons and hypoexcitability in CA1 pyramidal neurons. Similarly, the homologous R231C variant in KCNQ3 leads to hyperexcitability in L2/3 pyramidal neurons and hypoexcitability in CA1 pyramidal neurons. However, the effects of KCNQ3 gain-of-function on excitability are specific to superficial CA1 pyramidal neurons. These findings reveal a new level of complexity in the function of KCNQ2 and KCNQ3 channels in the forebrain and provide a framework for understanding the effects of gain-of-function variants and potassium channels in the brain.KCNQ2/3 gain-of-function (GOF) variants lead to severe forms of neurodevelopmental disorders, but the mechanisms by which these channels affect neuronal activity are poorly understood. In this study, using a series of transgenic mice we demonstrate that the same KCNQ2/3 GOF variants can lead to either hyperexcitability or hypoexcitability in different types of pyramidal neurons [CA1 vs layer (L)2/3]. Additionally, we show that expression of the recurrent KCNQ2 GOF variant R201C in forebrain pyramidal neurons could lead to seizures and SUDEP. Our data suggest that the effects of KCNQ2/3 GOF variants depend on specific cell types and brain regions, possibly accounting for the diverse range of phenotypes observed in individuals with KCNQ2/3 GOF variants.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Gain-of-function (GOF) pathogenic variants in the potassium channels KCNQ2 and KCNQ3 lead to hyperexcitability disorders such as epilepsy and autism spectrum disorders. However, the underlying cellular mechanisms of how these variants impair forebrain function are unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37607817/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Gain of Function Mutation",
+    "KCNQ2 Potassium Channel",
+    "Mice, Transgenic",
+    "Neurodevelopmental Disorders",
+    "Potassium Channels",
+    "Prosencephalon",
+    "Pyramidal Cells",
+    "KCNQ3 Potassium Channel",
+    "Nerve Tissue Proteins"
+  ],
+  "keywords": [
+    "KCNQ2",
+    "KCNQ3",
+    "gain-of-function",
+    "hippocampus",
+    "neurological disorders",
+    "potassium channels"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

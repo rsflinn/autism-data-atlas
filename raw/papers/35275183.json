@@ -1,0 +1,43 @@
+{
+  "pmid": "35275183",
+  "doi": "10.1093/jmicro/dfab039",
+  "title": "Imaging neural circuit pathology of autism spectrum disorders: autism-associated genes, animal models and the application of in vivo two-photon imaging",
+  "authors": "Terashima H, Minatohara K, Maruoka H, Okabe S",
+  "journal": "Microscopy (Oxford, England)",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "Recent advances in human genetics identified genetic variants involved in causing autism spectrum disorders (ASDs). Mouse models that mimic mutations found in patients with ASD exhibit behavioral phenotypes consistent with ASD symptoms. These mouse models suggest critical biological factors of ASD etiology. Another important implication of ASD genetics is the enrichment of ASD risk genes in molecules involved in developing synapses and regulating neural circuit function. Sophisticated in vivo imaging technologies applied to ASD mouse models identify common synaptic impairments in the neocortex, with genetic-mutation-specific defects in local neural circuits. In this article, we review synapse- and circuit-level phenotypes identified by in vivo two-photon imaging in multiple mouse models of ASD and discuss the contributions of altered synapse properties and neural circuit activity to ASD pathogenesis.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Recent advances in human genetics identified genetic variants involved in causing autism spectrum disorders (ASDs). Mouse models that mimic mutations found in patients with ASD exhibit behavioral phenotypes consistent with ASD symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35275183/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Humans",
+    "Mice",
+    "Synapses"
+  ],
+  "keywords": [
+    "autism-spectrum disorder",
+    "calcium imaging",
+    "in vivo imaging",
+    "synapse",
+    "two-photon microscopy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

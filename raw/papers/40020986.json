@@ -1,0 +1,52 @@
+{
+  "pmid": "40020986",
+  "doi": "10.1016/j.pnpbp.2025.111293",
+  "title": "Embryonic exposure of estrogen and BPA in zebrafish leads to ADHD-like and ASD-like phenotypes, respectively",
+  "authors": "Shen Q, Zhao F, Zhang N, Zheng L, Su D, Qian Y, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Exposure to the estrogenic pollutant bisphenol A (BPA) during pregnancy and early childhood is a risk factor for numerous neurodevelopmental and psychiatric disorders in humans. To understand why early BPA exposure is associated with attention deficit hyperactivity disorder (ADHD) and autism spectrum disorder (ASD), we have analyzed a series of zebrafish behaviors, neurodevelopmental process, and gene expression profiles, after a moderate level of estrogen (17&#x3b2;-estradiol, E, as a positive control) and BPA treatments during embryogenesis (2-48&#xa0;h post fertilization). Eexposure-caused hyperactivity was likely due to elevated expression of cyp19a1b since blocking aromatase activity rescued the defect. Furthermore, Eexposure resulted in impulsive behaviors, perhaps due to a reduced expression of brain th (crucial for dopamine synthesis), resembling the ADHD phenotypes. However, the hyperactivity upon BPA exposure was due to a reduction of GABAergic neurons, particularly in the midbrain. BPA-exposed fish were less-social, with increased repetitive behaviors and escape rate (during strobe light stimulation), like the ASD phenotypes. Taking advantage of published single-cell and bulk RNA-sequencing data related to zebrafish BPA exposure, we uncovered that embryonic midbrain GABAergic neurons express less stmn1a upon BPA exposure. When stmn1a function was partially lost, 14-day post-fertilization larvae became less social, further stressing the ASD phenotype after BPA exposure. Upon embryonic Eand BPA exposure, we have unexpectedly unveiled zebrafish ADHD-like and ASD-like phenotypes, respectively, suggesting that women of childbearing age should be cautious to use BPA and estrogen related products.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Exposure to the estrogenic pollutant bisphenol A (BPA) during pregnancy and early childhood is a risk factor for numerous neurodevelopmental and psychiatric disorders in humans. To understand why early BPA exposure is associated with attention deficit hyperactivity disorder (ADHD) and autism spectrum disorder (ASD), we have analyzed a series of zebrafish behaviors, neurodevelopmental process, and gene expression profiles, after a moderate level of estrogen (17&#x3b2;-estradiol, E, as a positive ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40020986/",
+  "mesh_terms": [
+    "Animals",
+    "Zebrafish",
+    "Phenols",
+    "Benzhydryl Compounds",
+    "Autism Spectrum Disorder",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Estrogens",
+    "Phenotype",
+    "Female",
+    "Zebrafish Proteins",
+    "Estradiol",
+    "Aromatase",
+    "Embryo, Nonmammalian",
+    "Disease Models, Animal",
+    "GABAergic Neurons",
+    "Bisphenol A Compounds"
+  ],
+  "keywords": [
+    "ADHD",
+    "ASD",
+    "BPA",
+    "Early neural development",
+    "Estrogen",
+    "Zebrafish"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "32660622",
+  "doi": "10.1186/s13229-020-00360-3",
+  "title": "Cerebral organoids as tools to identify the developmental roots of autism",
+  "authors": "Chan WK, Griffiths R, Price DJ, Mason JO",
+  "journal": "Molecular autism",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "Some autism spectrum disorders (ASD) likely arise as a result of abnormalities during early embryonic development of the brain. Studying human embryonic brain development directly is challenging, mainly due to ethical and practical constraints. However, the recent development of cerebral organoids provides a powerful tool for studying both normal human embryonic brain development and, potentially, the origins of neurodevelopmental disorders including ASD. Substantial evidence now indicates that cerebral organoids can mimic normal embryonic brain development and neural cells found in organoids closely resemble their in vivo counterparts. However, with prolonged culture, significant differences begin to arise. We suggest that cerebral organoids, in their current form, are most suitable to model earlier neurodevelopmental events and processes such as neurogenesis and cortical lamination. Processes implicated in ASDs which occur at later stages of development, such as synaptogenesis and neural circuit formation, may also be modeled using organoids. The accuracy of such models will benefit from continuous improvements to protocols for organoid differentiation.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Some autism spectrum disorders (ASD) likely arise as a result of abnormalities during early embryonic development of the brain. Studying human embryonic brain development directly is challenging, mainly due to ethical and practical constraints.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32660622/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Cerebrum",
+    "Electrophysiological Phenomena",
+    "Humans",
+    "Neurons",
+    "Organoids",
+    "Synapses"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Cerebral organoids",
+    "Embryonic brain development"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "35428338",
+  "doi": "10.1186/s40337-022-00578-x",
+  "title": "How genetic analysis may contribute to the understanding of avoidant/restrictive food intake disorder (ARFID)",
+  "authors": "Kennedy HL, Dinkler L, Kennedy MA, Bulik CM, Jordan J",
+  "journal": "Journal of eating disorders",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Avoidant/restrictive food intake disorder (ARFID) was introduced in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). Unlike anorexia nervosa, ARFID is characterised by avoidant or restricted food intake that is not driven by weight or body shape-related concerns. As with other eating disorders, it is expected that ARFID will have a significant genetic risk component; however, sufficiently large-scale genetic investigations are yet to be performed in this group of patients. This narrative review considers the current literature on the diagnosis, presentation, and course of ARFID, including evidence for different presentations, and identifies fundamental questions about how ARFID might fit into the fluid landscape of other eating and mental disorders. In the absence of large ARFID GWAS, we consider genetic research on related conditions to point to possible features or mechanisms relevant to future ARFID investigations, and discuss the theoretical and clinical implications an ARFID GWAS. An argument for a collaborative approach to recruit ARFID participants for genome-wide association study is presented, as understanding the underlying genomic architecture of ARFID will be a key step in clarifying the biological mechanisms involved, and the development of interventions and treatments for this serious, and often debilitating disorder.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Avoidant/restrictive food intake disorder (ARFID) was introduced in the fifth edition of the Diagnostic and Statistical Manual of Mental Disorders (DSM-5). Unlike anorexia nervosa, ARFID is characterised by avoidant or restricted food intake that is not driven by weight or body shape-related concerns.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35428338/",
+  "mesh_terms": [],
+  "keywords": [
+    "Fussy eating",
+    "GWAS",
+    "Heritability",
+    "Psychiatric genetics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "pmid": "33215285",
+  "doi": "10.1007/s13311-020-00968-6",
+  "title": "Overlapping Molecular Pathways Leading to Autism Spectrum Disorders, Fragile X Syndrome, and Targeted Treatments",
+  "authors": "Salcedo-Arellano MJ, Cabal-Herrera AM, Punatar RH, Clark CJ, Romney CA, Hagerman RJ",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are subdivided into idiopathic (unknown) etiology and secondary, based on known etiology. There are hundreds of causes of ASD and most of them are genetic in origin or related to the interplay of genetic etiology and environmental toxicology. Approximately 30 to 50% of the etiologies can be identified when using a combination of available genetic testing. Many of these gene mutations are either core components of the Wnt signaling pathway or their modulators. The full mutation of the fragile X mental retardation 1 (FMR1) gene leads to fragile X syndrome (FXS), the most common cause of monogenic origin of ASD, accounting for&#x2009;~&#x2009;2% of the cases. There is an overlap of molecular mechanisms in those with idiopathic ASD and those with FXS, an interaction between various signaling pathways is suggested during the development of the autistic brain. This review summarizes the cross talk between neurobiological pathways found in ASD and FXS. These signaling pathways are currently under evaluation to target specific treatments in search of the reversal of the molecular abnormalities found in both idiopathic ASD and FXS.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Autism spectrum disorders (ASD) are subdivided into idiopathic (unknown) etiology and secondary, based on known etiology. There are hundreds of causes of ASD and most of them are genetic in origin or related to the interplay of genetic etiology and environmental toxicology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33215285/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Metabolic Networks and Pathways",
+    "Molecular Targeted Therapy",
+    "Signal Transduction"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "ERK/MAPK",
+    "Wnt",
+    "endocannabinoid system",
+    "fragile X syndrome",
+    "mTOR",
+    "neurodevelopmental disorders",
+    "retinoic acid",
+    "signaling cross talk",
+    "targeted treatments"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

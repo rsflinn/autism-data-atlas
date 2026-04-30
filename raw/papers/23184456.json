@@ -1,0 +1,50 @@
+{
+  "pmid": "23184456",
+  "doi": "10.1002/ajmg.b.32114",
+  "title": "Epilepsy with cognitive deficit and autism spectrum disorders: prospective diagnosis by array CGH",
+  "authors": "Nicholl J, Waters W, Suwalski S, Brown S, Hull Y, Harbord MG, et al.",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2012-11",
+  "source": "pubmed",
+  "abstract": "The clinical significance of chromosomal microdeletions and microduplications was predicted based on their gene content, de novo or familial inheritance and accumulated knowledge recorded on public databases. A patient group comprised of 247 cases with epilepsy and its common co-morbidities of developmental delay, intellectual disability, autism spectrum disorders, and congenital abnormalities was reviewed prospectively in a diagnostic setting using a standardized oligo-array CGH platform. Seventy-three (29.6%) had copy number variations (CNVs) and of these 73 cases, 27 (37.0%) had CNVs that were likely causative. These 27 cases comprised 10.9% of the 247 cases reviewed. The range of pathogenic CNVs associated with seizures was consistent with the existence of many genetic determinants for epilepsy.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The clinical significance of chromosomal microdeletions and microduplications was predicted based on their gene content, de novo or familial inheritance and accumulated knowledge recorded on public databases. A patient group comprised of 247 cases with epilepsy and its common co-morbidities of developmental delay, intellectual disability, autism spectrum disorders, and congenital abnormalities was reviewed prospectively in a diagnostic setting using a standardized oligo-array CGH platform.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23184456/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Child, Preschool",
+    "Chromosome Deletion",
+    "Chromosome Duplication",
+    "Cognition Disorders",
+    "Comparative Genomic Hybridization",
+    "DNA Copy Number Variations",
+    "Epilepsy",
+    "Female",
+    "Genetic Counseling",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Incidental Findings",
+    "Infant",
+    "Male",
+    "Middle Aged",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

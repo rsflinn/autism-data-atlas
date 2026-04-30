@@ -1,0 +1,53 @@
+{
+  "pmid": "38994948",
+  "doi": "10.3390/cells13131095",
+  "title": "iPSC-Derived Astrocytes and Neurons Replicate Brain Gene Expression, Epigenetic, Cell Morphology and Connectivity Alterations Found in Autism",
+  "authors": "Mostafavi Abdolmaleky H, Alam R, Nohesara S, Deth RC, Zhou JR",
+  "journal": "Cells",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Excessive inflammatory reactions and oxidative stress are well-recognized molecular findings in autism and these processes can affect or be affected by the epigenetic landscape. Nonetheless, adequate therapeutics are unavailable, as patient-specific brain molecular markers for individualized therapies remain challenging.\n\nWe used iPSC-derived neurons and astrocytes of patients with autism vs. controls (5/group) to examine whether they replicate the postmortem brain expression/epigenetic alterations of autism. Additionally, DNA methylation of 10 postmortem brain samples (5/group) was analyzed for genes affected in PSC-derived cells.\n\nWe found hyperexpression of,,andand decreased expression of,,,,,,andin the astrocytes of patients with autism, along with DNA hypomethylation of,,andgene promoters and a decrease inpromoter 5-hydroxymethylation in the astrocytes of patients with autism. In neurons,andexpression trended alike. Whilepromoter was hypermethylated in neurons,andpromoters were hypomethylated andexhibited increased promoter 5-hydroxymethlation. We also found a reduction in neuronal arborization, spine size, growth rate, and migration, but increased astrocyte size and a reduced growth rate in autism. In postmortem brain samples, we found DNA hypomethylation ofandpromoter regions, but DNA hypermethylation ofandpromoters in autism.\n\nAutism-associated expression/epigenetic alterations in iPSC-derived cells replicated those reported in the literature, making them appropriate surrogates to study disease pathogenesis or patient-specific therapeutics.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Excessive inflammatory reactions and oxidative stress are well-recognized molecular findings in autism and these processes can affect or be affected by the epigenetic landscape. Nonetheless, adequate therapeutics are unavailable, as patient-specific brain molecular markers for individualized therapies remain challenging.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38994948/",
+  "mesh_terms": [
+    "Humans",
+    "Astrocytes",
+    "Epigenesis, Genetic",
+    "Induced Pluripotent Stem Cells",
+    "Autistic Disorder",
+    "Neurons",
+    "DNA Methylation",
+    "Brain",
+    "Male",
+    "Female",
+    "Promoter Regions, Genetic",
+    "Cell Shape",
+    "Child",
+    "Gene Expression Regulation",
+    "Reelin Protein"
+  ],
+  "keywords": [
+    "astrocyte",
+    "autism",
+    "brain",
+    "epigenetic",
+    "gene expression",
+    "iPSC",
+    "neuron"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

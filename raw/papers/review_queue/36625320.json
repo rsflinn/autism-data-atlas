@@ -1,0 +1,46 @@
+{
+  "pmid": "36625320",
+  "doi": "10.1113/JP283311",
+  "title": "Impaired dendritic spike generation in the Fragile X prefrontal cortex is due to loss of dendritic sodium channels",
+  "authors": "Brandalise F, Kalmbach BE, Cook EP, Brager DH",
+  "journal": "The Journal of physiology",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Patients with Fragile X syndrome, the leading monogenetic cause of autism, suffer from impairments related to the prefrontal cortex, including working memory and attention. Synaptic inputs to the distal dendrites of layer 5 pyramidal neurons in the prefrontal cortex have a weak influence on the somatic membrane potential. To overcome this filtering, distal inputs are transformed into local dendritic Naspikes, which propagate to the soma and trigger action potential output. Layer 5 extratelencephalic (ET) prefrontal cortex (PFC) neurons project to the brainstem and various thalamic nuclei and are therefore well positioned to integrate task-relevant sensory signals and guide motor actions. We used current clamp and outside-out patch clamp recording to investigate dendritic spike generation in ET neurons from male wild-type and Fmr1 knockout (FX) mice. The threshold for dendritic spikes was more depolarized in FX neurons compared to wild-type. Analysis of voltage responses to simulated in vivo 'noisy' current injections showed that a larger dendritic input stimulus was required to elicit dendritic spikes in FX ET dendrites compared to wild-type. Patch clamp recordings revealed that the dendritic Naconductance was significantly smaller in FX ET dendrites. Taken together, our results suggest that the generation of Na-dependent dendritic spikes is impaired in ET neurons of the PFC in FX mice. Considering our prior findings that somatic D-type Kand dendritic hyperpolarization-activated cyclic nucleotide-gated-channel function is reduced in ET neurons, we suggest that dendritic integration by PFC circuits is fundamentally altered in Fragile X syndrome. KEY POINTS: Dendritic spike threshold is depolarized in layer 5 prefrontal cortex neurons in Fmr1 knockout (FX) mice. Simultaneous somatic and dendritic recording with white noise current injections revealed that larger dendritic stimuli were required to elicit dendritic spikes in FX extratelencephalic (ET) neurons. Outside-out patch clamp recording revealed that dendritic sodium conductance density was lower in FX ET neurons.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Patients with Fragile X syndrome, the leading monogenetic cause of autism, suffer from impairments related to the prefrontal cortex, including working memory and attention. Synaptic inputs to the distal dendrites of layer 5 pyramidal neurons in the prefrontal cortex have a weak influence on the somatic membrane potential.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36625320/",
+  "mesh_terms": [
+    "Mice",
+    "Male",
+    "Animals",
+    "Fragile X Syndrome",
+    "Neurons",
+    "Dendrites",
+    "Pyramidal Cells",
+    "Sodium Channels",
+    "Action Potentials",
+    "Prefrontal Cortex",
+    "Fragile X Messenger Ribonucleoprotein 1"
+  ],
+  "keywords": [
+    "PFC",
+    "dendrite",
+    "voltage-gated channel"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

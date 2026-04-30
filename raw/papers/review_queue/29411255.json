@@ -1,0 +1,46 @@
+{
+  "pmid": "29411255",
+  "doi": "10.1007/s10995-018-2470-9",
+  "title": "Advanced Maternal Age and Maternal Education Disparity in Children with Autism Spectrum Disorder",
+  "authors": "Lung FW, Chiang TL, Lin SJ, Lee MC, Shu BC",
+  "journal": "Maternal and child health journal",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Objective Previous studies have shown inconsistent results with regard to the association between advanced parental age and autism spectrum disorder (ASD). The sociodemographic status of parents has been found to be associated with children with ASD, however. Therefore, a pathway analysis was undertaken of the roles of maternal age and education in ASD diagnosis and community screening, in a national birth cohort database, using a propensity score matching (PSM) method. Method The 6- and 66-month Taiwan Birth Cohort Study dataset was used (N&#x2009;=&#x2009;20,095). The PSM exact matching method was used to select 1700 families (ratio of 1:4 between ASD diagnosis and control) from the Taiwan Birth Cohort Study dataset. Results (1) The results from the complete dataset and the PSM exact matching dataset both show that the risk of a child being diagnosed with ASD was increased by the mother being over 40&#xa0;years old. (2) Although more children of mothers with lower-than-average education were positive on screening, more children of mothers with higher-than-average education were also diagnosed with ASD. Conclusions for Practice Advanced maternal age had a higher association with the diagnosis of ASD, and maternal educational disparity was found between ASD clinical diagnosis and community screening. Community and primary medical care services should pay more attention to children of parents with lower education during ASD screening to prevent delayed diagnosis.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Objective Previous studies have shown inconsistent results with regard to the association between advanced parental age and autism spectrum disorder (ASD). The sociodemographic status of parents has been found to be associated with children with ASD, however.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29411255/",
+  "mesh_terms": [
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Maternal Age",
+    "Mothers",
+    "Propensity Score",
+    "Taiwan"
+  ],
+  "keywords": [
+    "M-CHAT",
+    "Propensity score matching",
+    "Taiwan Birth Cohort Study"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

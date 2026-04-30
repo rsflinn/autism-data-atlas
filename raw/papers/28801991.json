@@ -1,0 +1,48 @@
+{
+  "pmid": "28801991",
+  "doi": "10.1002/aur.1846",
+  "title": "Early autism symptoms in infants with tuberous sclerosis complex",
+  "authors": "McDonald NM, Varcin KJ, Bhatt R, Wu JY, Sahin M, Nelson CA, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2017-08",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a rare, autosomal dominant genetic syndrome that confers significantly increased risk for autism spectrum disorder (ASD), with 50-60% of infants with TSC meeting criteria for ASD by 3 years of age. In a previous study of the current longitudinal cohort, we found that infants with TSC who develop ASD (TSC/ASD) evidence decreased cognitive abilities that diverge from infants with TSC and no ASD (TSC/no ASD). We extended this work by asking whether TSC/ASD infants (n&#x2009;=&#x2009;13) differed from TSC/no ASD infants (n&#x2009;=&#x2009;10) and infants with low developmental risk and no ASD (LR; n&#x2009;=&#x2009;21) in their social communication functioning during the first year of life. We measured early ASD symptoms with the Autism Observation Scale for Infants (AOSI) at 9 and 12 months of age. At both ages, infants in the TSC/ASD group had significantly higher AOSI total scores than infants in the TSC/no ASD and LR groups, which were not fully explained by differences in cognitive abilities. Several items on the AOSI at both ages were predictive of ASD outcome, particularly those representing core social communication deficits (e.g., social referencing). Our findings signal the need for further study of this population within the first year and provide strong justification for early identification and early intervention targeting social communication skills in infants with TSC. Autism Res 2017, 10: 1981-1990. &#xa9; 2017 International Society for Autism Research, Wiley Periodicals, Inc.\n\nWe examined early signs of autism spectrum disorder (ASD) in infants with tuberous sclerosis complex (TSC), approximately 50% of whom will meet criteria for ASD by age 3. Infants with TSC and ASD showed deficits in social communication behaviors by 9 months of age that were clearly distinguishable from behaviors in infants with TSC who do not develop ASD and low risk infants. Results support the importance of early ASD screening and intervention for infants with TSC.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is a rare, autosomal dominant genetic syndrome that confers significantly increased risk for autism spectrum disorder (ASD), with 50-60% of infants with TSC meeting criteria for ASD by 3 years of age. In a previous study of the current longitudinal cohort, we found that infants with TSC who develop ASD (TSC/ASD) evidence decreased cognitive abilities that diverge from infants with TSC and no ASD (TSC/no ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28801991/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Early Diagnosis",
+    "Female",
+    "Humans",
+    "Infant",
+    "Longitudinal Studies",
+    "Los Angeles",
+    "Male",
+    "Risk Assessment",
+    "Social Behavior",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Autism Observation Scale for Infants",
+    "autism spectrum disorder",
+    "early risk markers",
+    "high-risk infants",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ]
+}

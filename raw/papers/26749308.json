@@ -1,0 +1,45 @@
+{
+  "pmid": "26749308",
+  "doi": "10.1016/j.ajhg.2015.11.023",
+  "title": "Genome Sequencing of Autism-Affected Families Reveals Disruption of Putative Noncoding Regulatory DNA",
+  "authors": "Turner TN, Hormozdiari F, Duyzend MH, McClymont SA, Hook PW, Iossifov I, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2015-12",
+  "source": "pubmed",
+  "abstract": "We performed whole-genome sequencing (WGS) of 208 genomes from 53 families affected by simplex autism. For the majority of these families, no copy-number variant (CNV) or candidate de novo gene-disruptive single-nucleotide variant (SNV) had been detected by microarray or whole-exome sequencing (WES). We integrated multiple CNV and SNV analyses and extensive experimental validation to identify additional candidate mutations in eight families. We report that compared to control individuals, probands showed a significant (p = 0.03) enrichment of de novo and private disruptive mutations within fetal CNS DNase I hypersensitive sites (i.e., putative regulatory regions). This effect was only observed within 50 kb of genes that have been previously associated with autism risk, including genes where dosage sensitivity has already been established by recurrent disruptive de novo protein-coding mutations (ARID1B, SCN2A, NR3C2, PRKCA, and DSCAM). In addition, we provide evidence of gene-disruptive CNVs (in DISC1, WNT7A, RBFOX1, and MBD5), as well as smaller de novo CNVs and exon-specific SNVs missed by exome sequencing in neurodevelopmental genes (e.g., CANX, SAE1, and PIK3CA). Our results suggest that the detection of smaller, often multiple CNVs affecting putative regulatory elements might help explain additional risk of simplex autism.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "ARID1B",
+    "MBD5",
+    "RBFOX1",
+    "SCN2A"
+  ],
+  "summary": "We performed whole-genome sequencing (WGS) of 208 genomes from 53 families affected by simplex autism. For the majority of these families, no copy-number variant (CNV) or candidate de novo gene-disruptive single-nucleotide variant (SNV) had been detected by microarray or whole-exome sequencing (WES).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26749308/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "DNA",
+    "Exome",
+    "Female",
+    "Genome, Human",
+    "Humans",
+    "Male",
+    "Pedigree",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

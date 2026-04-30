@@ -1,0 +1,37 @@
+{
+  "pmid": "36846568",
+  "doi": "10.3389/fnmol.2023.1128974",
+  "title": "Targeting Shank3 deficiency and paresthesia in autism spectrum disorder: A brief review",
+  "authors": "Huang M, Qi Q, Xu T",
+  "journal": "Frontiers in molecular neuroscience",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) includes a group of multifactorial neurodevelopmental disorders characterized by impaired social communication, social interaction, and repetitive behaviors. Several studies have shown an association between cases of ASD and mutations in the genes of SH3 and multiple ankyrin repeat domain protein 3 (SHANK3). These genes encode many cell adhesion molecules, scaffold proteins, and proteins involved in synaptic transcription, protein synthesis, and degradation. They have a profound impact on all aspects of synaptic transmission and plasticity, including synapse formation and degeneration, suggesting that the pathogenesis of ASD may be partially attributable to synaptic dysfunction. In this review, we summarize the mechanism of synapses related to Shank3 in ASD. We also discuss the molecular, cellular, and functional studies of experimental models of ASD and current autism treatment methods targeting related proteins.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Autism spectrum disorder (ASD) includes a group of multifactorial neurodevelopmental disorders characterized by impaired social communication, social interaction, and repetitive behaviors. Several studies have shown an association between cases of ASD and mutations in the genes of SH3 and multiple ankyrin repeat domain protein 3 (SHANK3).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36846568/",
+  "mesh_terms": [],
+  "keywords": [
+    "ASD",
+    "Shank3",
+    "autism spectrum disorder",
+    "synapse",
+    "treatment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

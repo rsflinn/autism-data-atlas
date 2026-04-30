@@ -1,0 +1,51 @@
+{
+  "pmid": "24670167",
+  "doi": "10.1056/NEJMoa1307491",
+  "title": "Patches of disorganization in the neocortex of children with autism",
+  "authors": "Stoner R, Chow ML, Boyle MP, Sunkin SM, Mouton PR, Roy S, et al.",
+  "journal": "The New England journal of medicine",
+  "date": "2014-03",
+  "source": "pubmed",
+  "abstract": "Autism involves early brain overgrowth and dysfunction, which is most strongly evident in the prefrontal cortex. As assessed on pathological analysis, an excess of neurons in the prefrontal cortex among children with autism signals a disturbance in prenatal development and may be concomitant with abnormal cell type and laminar development.\n\nTo systematically examine neocortical architecture during the early years after the onset of autism, we used RNA in situ hybridization with a panel of layer- and cell-type-specific molecular markers to phenotype cortical microstructure. We assayed markers for neurons and glia, along with genes that have been implicated in the risk of autism, in prefrontal, temporal, and occipital neocortical tissue from postmortem samples obtained from children with autism and unaffected children between the ages of 2 and 15 years.\n\nWe observed focal patches of abnormal laminar cytoarchitecture and cortical disorganization of neurons, but not glia, in prefrontal and temporal cortical tissue from 10 of 11 children with autism and from 1 of 11 unaffected children. We observed heterogeneity between cases with respect to cell types that were most abnormal in the patches and the layers that were most affected by the pathological features. No cortical layer was uniformly spared, with the clearest signs of abnormal expression in layers 4 and 5. Three-dimensional reconstruction of layer markers confirmed the focal geometry and size of patches.\n\nIn this small, explorative study, we found focal disruption of cortical laminar architecture in the cortexes of a majority of young children with autism. Our data support a probable dysregulation of layer formation and layer-specific neuronal differentiation at prenatal developmental stages. (Funded by the Simons Foundation and others.).",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism involves early brain overgrowth and dysfunction, which is most strongly evident in the prefrontal cortex. As assessed on pathological analysis, an excess of neurons in the prefrontal cortex among children with autism signals a disturbance in prenatal development and may be concomitant with abnormal cell type and laminar development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24670167/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Calbindin 1",
+    "Cell Count",
+    "Child",
+    "Child, Preschool",
+    "Cryoultramicrotomy",
+    "Cyclic Nucleotide Phosphodiesterases, Type 1",
+    "Gene Expression",
+    "Humans",
+    "Imaging, Three-Dimensional",
+    "In Situ Hybridization",
+    "Neocortex",
+    "Nerve Tissue Proteins",
+    "Neurofilament Proteins",
+    "Neurogenesis",
+    "Neurons",
+    "Nuclear Receptor Subfamily 1, Group F, Member 2",
+    "RNA"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

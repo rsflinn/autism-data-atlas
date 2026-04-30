@@ -1,0 +1,37 @@
+{
+  "pmid": "26458342",
+  "doi": "10.4103/0971-5916.166584",
+  "title": "Aripiprazole for treating irritability in children & adolescents with autism: A systematic review",
+  "authors": "Ghanizadeh A, Tordjman S, Jaafari N",
+  "journal": "The Indian journal of medical research",
+  "date": "2015-09",
+  "source": "pubmed",
+  "abstract": "No clear therapeutic benefits of antipsychotics have been reported for the treatment of behavioural symptoms in autism. This systematic review provides an assessment of evidence for treating irritability in autism by aripiprazole.\n\nThe databases of MEDLINE/PubMed and Google Scholar were searched for relevant articles about the effect of aripiprazole in children with autism. The articles were searched according to the inclusion and exclusion criteria specifed for this review. All the double-blind, controlled, randomized, clinical trials examining the efficacy of aripiprazole for treating children and adolescents with autism were included.\n\nFrom the 93 titles identified, 26 were irrelevant and 58 were evaluated for more details. Only five articles met the inclusive criteria. The evidence from precise randomized double blind clinical trials of aripiprazole for the treatment of autism in children and adolescents was convincing enough to recommend aripiprazole. Adverse effects were not very common and were usually mild.\n\nCurrent evidence suggests that aripiprazole is as effective and safe as risperidone for treating irritability in autism. However, further studies with larger sample size and longer duration are required.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "No clear therapeutic benefits of antipsychotics have been reported for the treatment of behavioural symptoms in autism. This systematic review provides an assessment of evidence for treating irritability in autism by aripiprazole.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26458342/",
+  "mesh_terms": [
+    "Adolescent",
+    "Aripiprazole",
+    "Autistic Disorder",
+    "Child",
+    "Drug-Related Side Effects and Adverse Reactions",
+    "Humans",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review"
+  ]
+}

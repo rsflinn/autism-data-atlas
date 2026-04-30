@@ -1,0 +1,46 @@
+{
+  "pmid": "37216537",
+  "doi": "10.1073/pnas.2300773120",
+  "title": "The autism-associated loss of &#x3b4;-catenin functions disrupts social behavior",
+  "authors": "Mendez-Vazquez H, Roach RL, Nip K, Chanda S, Sathler MF, Garver T, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "&#x3b4;-catenin is expressed in excitatory synapses and functions as an anchor for the glutamatergic AMPA receptor (AMPAR) GluA2 subunit in the postsynaptic density. The glycine 34 to serine (G34S) mutation in thegene has been found in autism spectrum disorder (ASD) patients and results in loss of &#x3b4;-catenin functions at excitatory synapses, which is presumed to underlie ASD pathogenesis in humans. However, how the G34S mutation causes loss of &#x3b4;-catenin functions to induce ASD remains unclear. Here, using neuroblastoma cells, we identify that the G34S mutation increases glycogen synthase kinase 3&#x3b2; (GSK3&#x3b2;)-dependent &#x3b4;-catenin degradation to reduce &#x3b4;-catenin levels, which likely contributes to the loss of &#x3b4;-catenin functions. Synaptic &#x3b4;-catenin and GluA2 levels in the cortex are significantly decreased in mice harboring the &#x3b4;-catenin G34S mutation. The G34S mutation increases glutamatergic activity in cortical excitatory neurons while it is decreased in inhibitory interneurons, indicating changes in cellular excitation and inhibition. &#x3b4;-catenin G34S mutant mice also exhibit social dysfunction, a common feature of ASD. Most importantly, pharmacological inhibition of GSK3&#x3b2; activity reverses the G34S-induced loss of &#x3b4;-catenin function effects in cells and mice. Finally, using &#x3b4;-catenin knockout mice, we confirm that &#x3b4;-catenin is required for GSK3&#x3b2; inhibition-induced restoration of normal social behavior in &#x3b4;-catenin G34S mutant animals. Taken together, we reveal that the loss of &#x3b4;-catenin functions arising from the ASD-associated G34S mutation induces social dysfunction via alterations in glutamatergic activity and that GSK3&#x3b2; inhibition can reverse &#x3b4;-catenin G34S-induced synaptic and behavioral deficits.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "&#x3b4;-catenin is expressed in excitatory synapses and functions as an anchor for the glutamatergic AMPA receptor (AMPAR) GluA2 subunit in the postsynaptic density. The glycine 34 to serine (G34S) mutation in thegene has been found in autism spectrum disorder (ASD) patients and results in loss of &#x3b4;-catenin functions at excitatory synapses, which is presumed to underlie ASD pathogenesis in humans.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37216537/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Delta Catenin",
+    "Glycogen Synthase Kinase 3 beta",
+    "Mice, Knockout",
+    "Social Behavior",
+    "Synapses"
+  ],
+  "keywords": [
+    "AMPA receptors",
+    "autism",
+    "delta-catenin",
+    "social behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

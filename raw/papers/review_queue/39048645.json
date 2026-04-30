@@ -1,0 +1,50 @@
+{
+  "pmid": "39048645",
+  "doi": "10.1038/s41380-024-02661-y",
+  "title": "Neurocognitive profiles of 22q11.2 and 16p11.2 deletions and duplications",
+  "authors": "Gur RC, Bearden CE, Jacquemont S, Swillen A, van Amelsvoort T, van den Bree M, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Rare recurrent copy number variants (CNVs) at chromosomal loci 22q11.2 and 16p11.2 are genetic disorders with lifespan risk for neuropsychiatric disorders. Microdeletions and duplications are associated with neurocognitive deficits, yet few studies compared these groups using the same measures to address confounding measurement differences. We report a prospective international collaboration applying the same computerized neurocognitive assessment, the Penn Computerized Neurocognitive Battery (CNB), administered in a multi-site study on rare genomic disorders: 22q11.2 deletions (n&#x2009;=&#x2009;492); 22q11.2 duplications (n&#x2009;=&#x2009;106); 16p11.2 deletion (n&#x2009;=&#x2009;117); and 16p11.2 duplications (n&#x2009;=&#x2009;46). Domains examined include executive functions, episodic memory, complex cognition, social cognition, and psychomotor speed. Accuracy and speed for each domain were included as dependent measures in a mixed-model repeated measures analysis. Locus (22q11.2, 16p11.2) and Copy number (deletion/duplication) were grouping factors and Measure (accuracy, speed) and neurocognitive domain were repeated measures factors, with Sex and Site as covariates. We also examined correlation with IQ. We found a significant Locus&#x2009;&#xd7;&#x2009;Copy number&#x2009;&#xd7;&#x2009;Domain&#x2009;&#xd7;&#x2009;Measure interaction (p&#x2009;=&#x2009;0.0004). 22q11.2 deletions were associated with greater performance accuracy deficits than 22q11.2 duplications, while 16p11.2 duplications were associated with greater specific deficits than 16p11.2 deletions. Duplications at both loci were associated with reduced speed compared to deletions. Performance profiles differed among the groups with particularly poor memory performance of the 22q11.2 deletion group while the 16p11.2 duplication group had greatest deficits in complex cognition. Average accuracy on the CNB was moderately correlated with Full Scale IQ. Deletions and duplications of 22q11.2 and 16p11.2 have differential effects on accuracy and speed of neurocognition indicating locus specificity of performance profiles. These profile differences can help inform mechanistic substrates to heterogeneity in presentation and outcome, and can only be established in large-scale international consortia using the same neurocognitive assessment. Future studies could aim to link performance profiles to clinical features and brain function.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Rare recurrent copy number variants (CNVs) at chromosomal loci 22q11.2 and 16p11.2 are genetic disorders with lifespan risk for neuropsychiatric disorders. Microdeletions and duplications are associated with neurocognitive deficits, yet few studies compared these groups using the same measures to address confounding measurement differences.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39048645/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Female",
+    "Humans",
+    "Male",
+    "Young Adult",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "Chromosomes, Human, Pair 22",
+    "Cognition",
+    "DiGeorge Syndrome",
+    "DNA Copy Number Variations",
+    "Executive Function",
+    "Intellectual Disability",
+    "Neuropsychological Tests",
+    "Prospective Studies",
+    "Autistic Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ]
+}

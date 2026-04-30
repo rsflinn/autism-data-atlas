@@ -1,0 +1,36 @@
+{
+  "pmid": "32731531",
+  "doi": "10.3390/brainsci10080491",
+  "title": "Actigraph-Measured Movement Correlates of Attention-Deficit/Hyperactivity Disorder (ADHD) Symptoms in Young People with Tuberous Sclerosis Complex (TSC) with and without Intellectual Disability and Autism Spectrum Disorder (ASD)",
+  "authors": "Earnest T, Shephard E, Tye C, McEwen F, Woodhouse E, Liang H, et al.",
+  "journal": "Brain sciences",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "Actigraphy, an objective measure of motor activity, reliably indexes increased movement levels in attention-deficit/hyperactivity disorder (ADHD) and may be useful for diagnosis and treatment-monitoring. However, actigraphy has not been examined in complex neurodevelopmental conditions. This study used actigraphy to objectively measure movement levels in individuals with a complex neurodevelopmental genetic disorder, tuberous sclerosis (TSC). Thirty participants with TSC (11-21 years, 20 females, IQ = 35-108) underwent brief (approximately 1 h) daytime actigraph assessment during two settings: movie viewing and cognitive testing. Multiple linear regressions were used to test associations between movement measurements and parent-rated ADHD symptoms. Correlations were used to examine associations between actigraph measures and parent-rated ADHD symptoms and other characteristics of TSC (symptoms of autism spectrum disorder (ASD), intellectual ability (IQ), epilepsy severity, cortical tuber count). Higher movement levels during movies were associated with higher parent-rated ADHD symptoms. Higher ADHD symptoms and actigraph-measured movement levels during movies were positively associated with ASD symptoms and negatively associated with IQ. Inter-individual variability of movement during movies was not associated with parent-rated hyperactivity or IQ but was negatively associated with ASD symptoms. There were no associations with tuber count or epilepsy. Our findings suggest that actigraph-measured movement provides a useful correlate of ADHD in TSC.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Actigraphy, an objective measure of motor activity, reliably indexes increased movement levels in attention-deficit/hyperactivity disorder (ADHD) and may be useful for diagnosis and treatment-monitoring. However, actigraphy has not been examined in complex neurodevelopmental conditions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32731531/",
+  "mesh_terms": [],
+  "keywords": [
+    "actigraphy",
+    "activity levels",
+    "attention-deficit/hyperactivity disorder (ADHD)",
+    "autism spectrum disorder (ASD)",
+    "epilepsy",
+    "intellectual disability",
+    "tuberous sclerosis (TSC)"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

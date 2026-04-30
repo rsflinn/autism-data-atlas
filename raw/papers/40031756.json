@@ -1,0 +1,44 @@
+{
+  "pmid": "40031756",
+  "doi": "10.1109/TNSRE.2025.3546519",
+  "title": "Automated Autism Assessment With Multimodal Data and Ensemble Learning: A Scalable and Consistent Robot-Enhanced Therapy Framework",
+  "authors": "Hassan I, Nahid N, Islam M, Hossain S, Schuller B, Ahad MAR",
+  "journal": "IEEE transactions on neural systems and rehabilitation engineering : a publication of the IEEE Engineering in Medicine and Biology Society",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "Navigating the complexities of Autism Spectrum Disorder (ASD) diagnosis and intervention requires a nuanced approach that addresses both the inherent variability in therapeutic practices and the imperative for scalable solutions. This paper presents a transformative Robot-Enhanced Therapy (RET) framework, leveraging an intricate amalgamation of an Adaptive Boosted 3D biomarker approach and Saliency Maps generated through Kernel Density Estimation. By seamlessly integrating these methodologies through majority voting, the framework pioneers a new frontier in automating the assessment of ASD levels and Autism Diagnostic Observation Schedule (ADOS) scores, offering unprecedented precision and efficiency. Drawing upon the rich tapestry of the DREAM Dataset, encompassing data from 61 children, this study meticulously crafts novel features derived from diverse modalities including body skeleton, head movement, and eye gaze data. Our 3D bio-marker approach achieves a remarkable predictive prowess, boasting a staggering 95.59% accuracy and an F1 score of 92.75% for ASD level prediction, alongside an RMSE of 1.78 and an R-squared value of 0.74 for ADOS score prediction. Furthermore, the introduction of a pioneering saliency map generation method, harnessing gaze data, further enhances predictive models, elevating ASD level prediction accuracy to an impressive 97.36%, with a corresponding F1 score of 95.56%. Beyond technical achievements, this study underscores RET's transformative potential in reshaping ASD intervention paradigms, offering a promising alternative to Standard Human Therapy (SHT) by mitigating therapist variability and providing scalable therapeutic approaches. While acknowledging limitations in the research, such as sample constraints and model generalizability, our findings underscore RET's capacity to revolutionize ASD management.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Navigating the complexities of Autism Spectrum Disorder (ASD) diagnosis and intervention requires a nuanced approach that addresses both the inherent variability in therapeutic practices and the imperative for scalable solutions. This paper presents a transformative Robot-Enhanced Therapy (RET) framework, leveraging an intricate amalgamation of an Adaptive Boosted 3D biomarker approach and Saliency Maps generated through Kernel Density Estimation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40031756/",
+  "mesh_terms": [
+    "Humans",
+    "Robotics",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Male",
+    "Algorithms",
+    "Female",
+    "Machine Learning",
+    "Autistic Disorder",
+    "Child, Preschool",
+    "Head Movements",
+    "Eye Movements",
+    "Fixation, Ocular",
+    "Databases, Factual",
+    "Ensemble Learning"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

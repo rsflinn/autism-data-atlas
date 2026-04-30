@@ -1,0 +1,47 @@
+{
+  "pmid": "39793916",
+  "doi": "10.1016/j.brainres.2024.149438",
+  "title": "Nitric oxide and peroxynitrite as new biomarkers for early diagnosis of autism",
+  "authors": "Khan AA, Dewald HD",
+  "journal": "Brain research",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder, or autism, is a neurodevelopmental disorder of the developing child's brain with a genetic causality. It can be diagnosed at about three years after birth when it begins to present itself via a range of neuropsychiatric symptoms. Nitric oxide is a crucial small molecule of life synthesized within cells of our body systems, including cells of our brain. Peroxynitrite is the product of reaction between superoxide anion and nitric oxide. It normally isomerizes into harmless nitrates or nitrites. However, when excessive superoxide anion is present, the cellular concentration of peroxynitrite can increase to a toxic level. Autism has been suggested to cause oxidative damage to brain cells. Until now, it is impossible to sample tissue from a live brain. Instead, stem cells can be derived (from an autism patient's somatic cells) which can then be differentiated and chemically directed to grow into miniature 3-dimensional tissue masses resembling specific brain regions (e.g., the cortex) called brain organoids. This review discusses utilizing nitric oxide and peroxynitrite as biomarkers and comparing their relative concentrations in stem cells and stem cell derived brain organoids of healthy and autistic individuals to develop a bioanalytical process for early diagnosis of autism.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder, or autism, is a neurodevelopmental disorder of the developing child's brain with a genetic causality. It can be diagnosed at about three years after birth when it begins to present itself via a range of neuropsychiatric symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39793916/",
+  "mesh_terms": [
+    "Humans",
+    "Peroxynitrous Acid",
+    "Nitric Oxide",
+    "Biomarkers",
+    "Early Diagnosis",
+    "Autistic Disorder",
+    "Brain",
+    "Autism Spectrum Disorder",
+    "Animals"
+  ],
+  "keywords": [
+    "3D brain organoids",
+    "Autism spectrum disorder",
+    "Induced pluripotent stem cells",
+    "Nanosensor",
+    "Nitric oxide",
+    "Nitric oxide synthase",
+    "Peroxynitrite"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

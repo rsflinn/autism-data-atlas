@@ -1,0 +1,39 @@
+{
+  "pmid": "23065398",
+  "doi": "10.1007/s12640-012-9354-3",
+  "title": "Excitotoxicity in the pathogenesis of autism",
+  "authors": "Essa MM, Braidy N, Vijayan KR, Subash S, Guillemin GJ",
+  "journal": "Neurotoxicity research",
+  "date": "2012-10",
+  "source": "pubmed",
+  "abstract": "Autism is a debilitating neurodevelopment disorder characterised by stereotyped interests and behaviours, and abnormalities in verbal and non-verbal communication. It is a multifactorial disorder resulting from interactions between genetic, environmental and immunological factors. Excitotoxicity and oxidative stress are potential mechanisms, which are likely to serve as a converging point to these risk factors. Substantial evidence suggests that excitotoxicity, oxidative stress and impaired mitochondrial function are the leading cause of neuronal dysfunction in autistic patients. Glutamate is the primary excitatory neurotransmitter produced in the CNS, and overactivity of glutamate and its receptors leads to excitotoxicity. The over excitatory action of glutamate, and the glutamatergic receptors NMDA and AMPA, leads to activation of enzymes that damage cellular structure, membrane permeability and electrochemical gradients. The role of excitotoxicity and the mechanism behind its action in autistic subjects is delineated in this review.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a debilitating neurodevelopment disorder characterised by stereotyped interests and behaviours, and abnormalities in verbal and non-verbal communication. It is a multifactorial disorder resulting from interactions between genetic, environmental and immunological factors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23065398/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Calcium Signaling",
+    "Glutamic Acid",
+    "Humans",
+    "Oxidative Stress",
+    "Receptors, AMPA",
+    "Receptors, N-Methyl-D-Aspartate"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

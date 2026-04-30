@@ -1,0 +1,38 @@
+{
+  "pmid": "26842699",
+  "doi": "10.1113/JP270672",
+  "title": "Ca1.3 (CACNA1D) L-type Cachannel dysfunction in CNS disorders",
+  "authors": "Pinggera A, Striessnig J",
+  "journal": "The Journal of physiology",
+  "date": "2016-02",
+  "source": "pubmed",
+  "abstract": "Ca1.3 belongs to the family of voltage-gated L-type Cachannels and is encoded by the CACNA1D gene. Ca1.3 channels are not only essential for cardiac pacemaking, hearing and hormone secretion but are also expressed postsynaptically in neurons, where they shape neuronal firing and plasticity. Recent findings provide evidence that human mutations in the CACNA1D gene can confer risk for the development of neuropsychiatric disease and perhaps also epilepsy. Loss of Ca1.3 function, as shown in knock-out mouse models and by human mutations, does not result in neuropsychiatric or neurological disease symptoms, whereas their acute selective pharmacological activation results in a depressive-like behaviour in mice. Therefore it is likely that CACNA1D mutations enhancing activity may be disease relevant also in humans. Indeed, whole exome sequencing studies, originally prompted to identify mutations in primary aldosteronism, revealed de novo CACNA1D missense mutations permitting enhanced Casignalling through Ca1.3. Remarkably, apart from primary aldosteronism, heterozygous carriers of these mutations also showed seizures and neurological abnormalities. Different missense mutations with very similar gain-of-function properties were recently reported in patients with autism spectrum disorders (ASD). These data strongly suggest that CACNA1D mutations enhancing Ca1.3 activity confer a strong risk for - or even cause - CNS disorders, such as ASD.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Ca1.3 belongs to the family of voltage-gated L-type Cachannels and is encoded by the CACNA1D gene. Ca1.3 channels are not only essential for cardiac pacemaking, hearing and hormone secretion but are also expressed postsynaptically in neurons, where they shape neuronal firing and plasticity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26842699/",
+  "mesh_terms": [
+    "Animals",
+    "Calcium Channels, L-Type",
+    "Central Nervous System Diseases",
+    "Epilepsy",
+    "Humans",
+    "Mutation, Missense",
+    "Neurons"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

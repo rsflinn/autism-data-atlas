@@ -1,0 +1,48 @@
+{
+  "pmid": "30089410",
+  "doi": "10.1177/0004563218796860",
+  "title": "Carnosine supplementation does not affect serum concentrations of advanced glycation and precursors of lipoxidation end products in autism: a randomized controlled clinical trial",
+  "authors": "Ghodsi R, Kheirouri S, Nosrati R",
+  "journal": "Annals of clinical biochemistry",
+  "date": "2018-09",
+  "source": "pubmed",
+  "abstract": "Abundant evidence indicate the increased levels of oxidative stress in patients with autism. Advanced glycation end products and advanced lipoxidation end products and their precursors play a major role in increased oxidative stress in numerous metabolic and neurologic diseases. Carnosine is a natural dipeptide with antiglycation effects. The aim of this trial was to examine the effects of carnosine supplementation on the advanced glycation end products and the precursors of advanced lipoxidation end products in patients with autism.\n\nThis randomized double-blind, placebo-controlled clinical trial was conducted on 36 autistic children, 18 in the carnosine group and 18 in the placebo group. The groups received a daily supplement of 500 mg carnosine or placebo for two months, respectively. Plasma concentrations of glycation and precursors of lipoxidation markers were evaluated by enzyme-linked immunosorbent assay method.\n\nIn all, 63.9% of the autistic children had normal nutritional status. Carnosine supplementation did not significantly alter plasma concentrations of advanced glycation end products and precursors of advanced lipoxidation end products in autistic children.\n\nThe findings indicate that supplementation of carnosine could not change advanced glycation end products and precursor of advanced lipoxidation end products in autistic children.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Abundant evidence indicate the increased levels of oxidative stress in patients with autism. Advanced glycation end products and advanced lipoxidation end products and their precursors play a major role in increased oxidative stress in numerous metabolic and neurologic diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30089410/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Carnosine",
+    "Child",
+    "Child, Preschool",
+    "Dietary Supplements",
+    "Double-Blind Method",
+    "Female",
+    "Glycation End Products, Advanced",
+    "Humans",
+    "Male",
+    "Oxidative Stress"
+  ],
+  "keywords": [
+    "Autism",
+    "advanced glycation end products",
+    "advanced lipoxidation end products",
+    "malondialdehyde",
+    "methylglyoxal"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

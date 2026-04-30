@@ -1,0 +1,51 @@
+{
+  "pmid": "40171667",
+  "doi": "10.1089/cap.2024.0002",
+  "title": "Pilot Trial on the Effects of Propranolol on Gastrointestinal Symptoms in Autism Spectrum Disorder and Heart Rate Variability as a Treatment Response Biomarker",
+  "authors": "Ferguson BJ, Dovgan K, Hoffman M, Hogg M, Rose C, Beversdorf DQ",
+  "journal": "Journal of child and adolescent psychopharmacology",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Many individuals with autism spectrum disorder (ASD) experience gastrointestinal (GI) symptoms, which can impact social interactions, exacerbate social communication deficits, and decrease the quality of life. GI symptoms have been shown to be correlated with the autonomic nervous system and endocrine response to stress in some people with ASD. Furthermore, propranolol, a central and peripheral beta-adrenergic antagonist that inhibits the stress response, has been shown to provide GI relief for some individuals with ASD, but not others. This pilot study examined whether baseline (i.e., resting) heart rate variability (HRV), a biomarker that is sensitive to the stress response, predicted the response to propranolol in decreasing GI symptoms.In this pilot study, a sample of 37 individuals with ASD participated in a 12-week open-label trial of propranolol. The Gastrointestinal Severity Index and HRV were collected at baseline (i.e., prior to taking propranolol) and again at the end of the 12-week trial period.Higher HRV was associated with the greatest reduction in GI symptoms, with a strong effect size, but only for adolescents and young adults (15-24 years old). Baseline HRV and GI change scores were not significantly correlated for younger children (7-14 years old).The results from this open-label pilot trial suggest that autistic adolescents and young adults with higher baseline HRV, indicating greater parasympathetic tone, may respond better to propranolol and show the greatest reduction in GI symptoms. The data from this pilot should be interpreted with caution until larger, randomized, double-blinded, placebo-controlled trials of propranolol for GI symptoms in ASD are completed.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Many individuals with autism spectrum disorder (ASD) experience gastrointestinal (GI) symptoms, which can impact social interactions, exacerbate social communication deficits, and decrease the quality of life. GI symptoms have been shown to be correlated with the autonomic nervous system and endocrine response to stress in some people with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40171667/",
+  "mesh_terms": [
+    "Humans",
+    "Propranolol",
+    "Pilot Projects",
+    "Male",
+    "Heart Rate",
+    "Female",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Gastrointestinal Diseases",
+    "Adolescent",
+    "Adrenergic beta-Antagonists",
+    "Biomarkers",
+    "Young Adult",
+    "Adult",
+    "Treatment Outcome",
+    "Severity of Illness Index"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "gastrointestinal",
+    "heart rate variability",
+    "propranolol"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Clinical Trial"
+  ]
+}

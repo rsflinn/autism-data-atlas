@@ -1,0 +1,51 @@
+{
+  "pmid": "29752066",
+  "doi": "10.1016/j.immuni.2018.04.016",
+  "title": "The Microglial Innate Immune Receptor TREM2 Is Required for Synapse Elimination and Normal Brain Connectivity",
+  "authors": "Filipello F, Morini R, Corradini I, Zerbi V, Canzi A, Michalski B, et al.",
+  "journal": "Immunity",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "The triggering receptor expressed on myeloid cells 2 (TREM2) is a microglial innate immune receptor associated with a lethal form of early, progressive dementia, Nasu-Hakola disease, and with an increased risk of Alzheimer's disease. Microglial defects in phagocytosis of toxic aggregates or apoptotic membranes were proposed to be at the origin of the pathological processes in the presence of Trem2 inactivating mutations. Here, we show that TREM2 is essential for microglia-mediated synaptic refinement during the early stages of brain development. The absence of Trem2 resulted in impaired synapse elimination, accompanied by enhanced excitatory neurotransmission and reduced long-range functional connectivity. Trem2mice displayed repetitive behavior and altered sociability. TREM2 protein levels were also negatively correlated with the severity of symptoms in humans affected by autism. These data unveil the role of TREM2 in neuronal circuit sculpting and provide the evidence for the receptor's involvement in neurodevelopmental diseases.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The triggering receptor expressed on myeloid cells 2 (TREM2) is a microglial innate immune receptor associated with a lethal form of early, progressive dementia, Nasu-Hakola disease, and with an increased risk of Alzheimer's disease. Microglial defects in phagocytosis of toxic aggregates or apoptotic membranes were proposed to be at the origin of the pathological processes in the presence of Trem2 inactivating mutations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29752066/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Cells, Cultured",
+    "Humans",
+    "Membrane Glycoproteins",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Microglia",
+    "Neurons",
+    "Receptors, Immunologic",
+    "Synapses",
+    "Synaptic Transmission"
+  ],
+  "keywords": [
+    "PSD95",
+    "TREM2",
+    "autism",
+    "development",
+    "microglia",
+    "synapse",
+    "synaptic pruning"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

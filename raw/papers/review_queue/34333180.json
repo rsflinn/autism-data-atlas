@@ -1,0 +1,43 @@
+{
+  "pmid": "34333180",
+  "doi": "10.1016/j.ridd.2021.104036",
+  "title": "Drawing a New Picture: Children with Developmental Dyslexia Exhibit Superior Nonverbal Creativity",
+  "authors": "Lam JHY, Tong SX",
+  "journal": "Research in developmental disabilities",
+  "date": "2021-07",
+  "source": "pubmed",
+  "abstract": "Creativity and literacy are essential skills that today's children are expected to develop. However, the question of whether children with developmental dyslexia, a severe difficulty in reading and writing, exhibit any intact creativity strengths remains controversial. This study examined creativity strengths across verbal, figural, and nonverbal modalities, and the relations among creativity, nonverbal intelligence, and literacy skills, in younger and older Chinese children with and without developmental dyslexia.\n\nTwo age groups of Chinese children with developmental dyslexia (Grade 2: N = 62; Grades 4-5: N = 62) and their age matched controls (Grade 2: N = 61; Grades 4-5: N = 61) were assessed on fluency and originality of verbal, figural, and nonverbal creativity, as well as on nonverbal intelligence, vocabulary, working memory, Chinese word reading accuracy and fluency, and word dictation.\n\nMultifactorial analysis of variance demonstrated that regardless of grade level, children with developmental dyslexia exhibited higher nonverbal creativity than, and comparable figural creativity to, their typically developing peers. Moreover, the partial correlation analysis revealed creativity was not significantly correlated with nonverbal intelligence and literacy skills.\n\nThese findings suggest that children with dyslexia possess strengths and even advantages in nonverbal creativity and that the relationship between intelligence and/or literacy and creativity is negligible.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Creativity and literacy are essential skills that today's children are expected to develop. However, the question of whether children with developmental dyslexia, a severe difficulty in reading and writing, exhibit any intact creativity strengths remains controversial.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34333180/",
+  "mesh_terms": [
+    "Child",
+    "Dyslexia",
+    "Humans",
+    "Literacy",
+    "Phonetics",
+    "Reading",
+    "Vocabulary",
+    "Writing"
+  ],
+  "keywords": [
+    "Creativity",
+    "Dyslexia",
+    "Intelligence",
+    "Literacy",
+    "Strength-based approach"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

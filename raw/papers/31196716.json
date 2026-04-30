@@ -1,0 +1,48 @@
+{
+  "pmid": "31196716",
+  "doi": "10.1016/j.jgg.2019.04.002",
+  "title": "Rare inherited missense variants of POGZ associate with autism risk and disrupt neuronal development",
+  "authors": "Zhao W, Tan J, Zhu T, Ou J, Li Y, Shen L, et al.",
+  "journal": "Journal of genetics and genomics = Yi chuan xue bao",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "Excess de novo likely gene-disruptive and missense variants within dozens of genes have been identified in autism spectrum disorder (ASD) and other neurodevelopmental disorders. However, many rare inherited missense variants of these high-risk genes have not been thoroughly evaluated. In this study, we analyzed the rare missense variant burden of POGZ in a large cohort of ASD patients from the Autism Clinical and Genetic Resources in China (ACGC) and further dissected the functional effect of disease-associated missense variants on neuronal development. Our results showed a significant burden of rare missense variants in ASD patients compared to the control population (P&#x202f;=&#x202f;4.6&#x202f;&#xd7;&#x202f;10, OR&#x202f;=&#x202f;3.96), and missense variants in ASD patients showed more severe predicted functional outcomes than those in controls. Furthermore, by leveraging published large-scale sequencing data of neurodevelopmental disorders (NDDs) and sporadic case reports, we identified 8 de novo missense variants of POGZ in NDD patients. Functional analysis revealed that two inherited, but not de novo, missense variants influenced the cellular localization of POGZ and failed to rescue the defects in neurite and dendritic spine development caused by Pogz knockdown in cultured mouse primary cortical neurons. Significantly, L1CAM, an autism candidate risk gene, is differentially expressed in POGZ deficient cell lines. Reduced expression of L1cam was able to partially rescue the neurite length defects caused by Pogz knockdown. Our study showed the important roles of rare inherited missense variants of POGZ in ASD risk and neuronal development and identified the potential downstream targets of POGZ, which are important for further molecular mechanism studies.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "POGZ"
+  ],
+  "summary": "Excess de novo likely gene-disruptive and missense variants within dozens of genes have been identified in autism spectrum disorder (ASD) and other neurodevelopmental disorders. However, many rare inherited missense variants of these high-risk genes have not been thoroughly evaluated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31196716/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Dendritic Spines",
+    "Down-Regulation",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Mutation, Missense",
+    "Neurites",
+    "Neurons",
+    "Transposases",
+    "DNA-Binding Proteins",
+    "Cell Cycle Proteins"
+  ],
+  "keywords": [
+    "Autism",
+    "Missense variants",
+    "Neuronal development",
+    "POGZ"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

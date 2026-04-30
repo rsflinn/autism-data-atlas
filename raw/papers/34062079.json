@@ -1,0 +1,42 @@
+{
+  "pmid": "34062079",
+  "doi": "10.33549/physiolres.934662",
+  "title": "Alternations in the Cardiovascular Autonomic Regulation and Growth Factors in Autism",
+  "authors": "Tonhajzerova I, Ondrejka I, Ferencova N, Bujnakova I, Grendar M, Olexova LB, et al.",
+  "journal": "Physiological research",
+  "date": "2021-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) represents a serious neurodevelopmental disorder associated with autonomic nervous system dysregulation. The aim was to study complex cardiovascular autonomic regulation using heart rate variability (HRV) and systolic blood pressure variability (SBPV) linear/non-linear analysis at rest and during orthostasis, and to assess plasma levels of epidermal growth factor (EGF) and vascular endothelial growth factor (VEGF) in autistic children. Twenty-five ASD boys and 25 age and gender-matched children at the age 7-15 years were examined. After venous blood taking, continuous ECG and blood pressure biosignals were recorded at rest and during orthostasis. Evaluated parameters: RR intervals, high- and low-frequency band of HRV spectral analysis (HF-HRV, LF-HRV), symbolic dynamics parameters 0V%, 1V%, 2LV%, 2UV%, low- and high-frequency band of SBPV (LF-SBPV, HF-SBPV), systolic, diastolic, mean blood pressure, EGF, VEGF plasma levels. RR intervals were significantly shortened and the HF-HRV, LF-SBPV, HF-SBPV parameters were significantly lower at rest, the HF-HRV and LF-SBPV remained lower during orthostasis in autistic children compared to controls (p<0.05). EGF plasma levels were significantly lower in ASD compared to controls (p=0.046). No significant differences were found in remaining parameters. Our study revealed tachycardia, cardiovagal underactivity, and blunted sympathetic vasomotor regulation at rest and during orthostasis in autistic children. Additionally, complex heart rate dynamics are similar in autistic children than controls. Furthermore, EGF was reduced in autistic children without significant correlations with any autonomic parameters. We suggest that the abnormal complex cardiovascular reflex control could contribute to understanding the pathway linking autonomic features and autism.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) represents a serious neurodevelopmental disorder associated with autonomic nervous system dysregulation. The aim was to study complex cardiovascular autonomic regulation using heart rate variability (HRV) and systolic blood pressure variability (SBPV) linear/non-linear analysis at rest and during orthostasis, and to assess plasma levels of epidermal growth factor (EGF) and vascular endothelial growth factor (VEGF) in autistic children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34062079/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Autonomic Nervous System",
+    "Baroreflex",
+    "Biomarkers",
+    "Blood Pressure",
+    "Child",
+    "Epidermal Growth Factor",
+    "Heart",
+    "Heart Rate",
+    "Humans",
+    "Male",
+    "Vascular Endothelial Growth Factor A"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

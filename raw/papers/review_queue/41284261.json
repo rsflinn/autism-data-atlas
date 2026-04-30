@@ -1,0 +1,40 @@
+{
+  "pmid": "41284261",
+  "doi": "10.1001/jamapediatrics.2025.4786",
+  "title": "Prevalence, Characteristics, and Genetic Architecture of Avoidant/Restrictive Food Intake Phenotypes",
+  "authors": "Bj&#xf8;rndal LD, Corfield EC, Hannigan LJ, Ayorech Z, Bulik CM, Watson HJ, et al.",
+  "journal": "JAMA pediatrics",
+  "date": "2026-01",
+  "source": "pubmed",
+  "abstract": "A narrow range of food consumption and/or restricted eating is a core feature of avoidant/restrictive food intake (ARFI) disorder. However, there is limited knowledge of developmental characteristics of children with ARFI and its etiological influences, which constrains research, prevention, and intervention efforts.\n\nTo estimate the prevalence of ARFI phenotypes in a population-based sample, examine developmental characteristics across childhood, and investigate the genetic architecture of ARFI using genome-wide association analyses.\n\nThis preregistered study used data from children born from 1999 to 2009 in the population-based Norwegian Mother, Father, and Child Cohort Study (MoBa), with mother-reported data on ARFI symptoms at 3 and 8 years and linkage with diagnostic data from population health registries. Data were analyzed from March 2024 to May 2025.\n\nMultiple items were used to identify children with broad ARFI. These children were subclassified into 3 groups based on symptom persistence: ARFI-broad transient (only at age 3 years), emergent (only at age 8 years), and persistent (ages 3 and 8 years). Children in these groups with 1 or more indicators of clinical significance (eg, nutritional deficiency) were further classified into ARFI-clinical subgroups.\n\nARFI groups were compared across developmental characteristics from 6 months to 14 years. Genome-wide methods were used to examine single-nucleotide variant (SNV) heritability (SNV-h2), conduct genetic association analyses, and quantify genetic correlations with other phenotypes.\n\nOf 35&#x202f;751 children with available ARFI assessments at 3 and 8 years (18&#x202f;236 male [51%]), the prevalence of ARFI-broad persistent, transient, and emergent was 2129 (6.0%), 6338 (17.7%), and 3001 (8.4%), respectively. The prevalence of ARFI-clinical persistent, transient, and emergent was 624 (1.8%), 1157 (3.2%), and 484 (1.4%), respectively (2265 [6.3%] overall). Children with ARFI-broad persistent exhibited more developmental difficulties compared with children with no ARFI. SNV-h2 ranged from 8% to 16%. Two independent genome-wide significant loci were identified. For ARFI-clinical, a significant association was identified with ADCY3 (z&#x2009;=&#x2009;5.42; P&#x2009;=&#x2009;3.03&#x2009;&#xd7;&#x2009;10-8). Small to moderate genetic correlations were observed for ARFI-broad, ARFI-clinical and mental health, cognitive/educational, anthropometric, food-associated, and gastrointestinal disorder phenotypes.\n\nThis cohort study found that the prevalence of ARFI in the general pediatric population was substantial, and affected children had an associated elevated risk of developmental difficulties across multiple domains. Findings suggest a need for broad support interventions and advance understanding of the genetic underpinnings of ARFI.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "A narrow range of food consumption and/or restricted eating is a core feature of avoidant/restrictive food intake (ARFI) disorder. However, there is limited knowledge of developmental characteristics of children with ARFI and its etiological influences, which constrains research, prevention, and intervention efforts.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41284261/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Child",
+    "Female",
+    "Child, Preschool",
+    "Phenotype",
+    "Prevalence",
+    "Genome-Wide Association Study",
+    "Norway",
+    "Avoidant Restrictive Food Intake Disorder",
+    "Feeding and Eating Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

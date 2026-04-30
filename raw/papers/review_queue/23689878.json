@@ -1,0 +1,43 @@
+{
+  "pmid": "23689878",
+  "doi": "10.1007/s10339-013-0566-0",
+  "title": "Multimodal interactions in typically and atypically developing children: natural versus artificial environments",
+  "authors": "Giannopulu I",
+  "journal": "Cognitive processing",
+  "date": "2013-05",
+  "source": "pubmed",
+  "abstract": "This review addresses the central role played by multimodal interactions in neurocognitive development. We first analyzed our studies of multimodal verbal and nonverbal cognition and emotional interactions within neuronal, that is, natural environments in typically developing children. We then tried to relate them to the topic of creating artificial environments using mobile toy robots to neurorehabilitate severely autistic children. By doing so, both neural/natural and artificial environments are considered as the basis of neuronal organization and reorganization. The common thread underlying the thinking behind this approach revolves around the brain's intrinsic properties: neuroplasticity and the fact that the brain is neurodynamic. In our approach, neural organization and reorganization using natural or artificial environments aspires to bring computational perspectives into cognitive developmental neuroscience.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "This review addresses the central role played by multimodal interactions in neurocognitive development. We first analyzed our studies of multimodal verbal and nonverbal cognition and emotional interactions within neuronal, that is, natural environments in typically developing children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23689878/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Child Development",
+    "Child, Preschool",
+    "Cognition",
+    "Developmental Disabilities",
+    "Emotions",
+    "Environment",
+    "Humans",
+    "Neuronal Plasticity",
+    "Play and Playthings",
+    "Robotics",
+    "User-Computer Interface"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "25228304",
+  "doi": "10.1136/jmedgenet-2014-102582",
+  "title": "De novo and rare inherited mutations implicate the transcriptional coregulator TCF20/SPBP in autism spectrum disorder",
+  "authors": "Babbs C, Lloyd D, Pagnamenta AT, Twigg SR, Green J, McGowan SJ, et al.",
+  "journal": "Journal of medical genetics",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) are common and have a strong genetic basis, yet the cause of &#x223c;70-80% ASDs remains unknown. By clinical cytogenetic testing, we identified a family in which two brothers had ASD, mild intellectual disability and a chromosome 22 pericentric inversion, not detected in either parent, indicating de novo mutation with parental germinal mosaicism. We hypothesised that the rearrangement was causative of their ASD and localised the chromosome 22 breakpoints.\n\nThe rearrangement was characterised using fluorescence in situ hybridisation, Southern blotting, inverse PCR and dideoxy-sequencing. Open reading frames and intron/exon boundaries of the two physically disrupted genes identified, TCF20 and TNRC6B, were sequenced in 342 families (260 multiplex and 82 simplex) ascertained by the International Molecular Genetic Study of Autism Consortium (IMGSAC).\n\nIMGSAC family screening identified a de novo missense mutation of TCF20 in a single case and significant association of a different missense mutation of TCF20 with ASD in three further families. Through exome sequencing in another project, we independently identified a de novo frameshifting mutation of TCF20 in a woman with ASD and moderate intellectual disability. We did not identify a significant association of TNRC6B mutations with ASD.\n\nTCF20 encodes a transcriptional coregulator (also termed SPBP) that is structurally and functionally related to RAI1, the critical dosage-sensitive protein implicated in the behavioural phenotypes of the Smith-Magenis and Potocki-Lupski 17p11.2 deletion/duplication syndromes, in which ASD is frequently diagnosed. This study provides the first evidence that mutations in TCF20 are also associated with ASD.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TCF20"
+  ],
+  "summary": "Autism spectrum disorders (ASDs) are common and have a strong genetic basis, yet the cause of &#x223c;70-80% ASDs remains unknown. By clinical cytogenetic testing, we identified a family in which two brothers had ASD, mild intellectual disability and a chromosome 22 pericentric inversion, not detected in either parent, indicating de novo mutation with parental germinal mosaicism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25228304/",
+  "mesh_terms": [
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Chromosome Breakpoints",
+    "Chromosomes, Human, Pair 22",
+    "Gene Rearrangement",
+    "Humans",
+    "In Situ Hybridization, Fluorescence",
+    "Infant",
+    "Male",
+    "Mutation",
+    "Sequence Analysis, DNA",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Chromosomal",
+    "Clinical genetics",
+    "Genetics",
+    "Molecular genetics",
+    "Psychiatry"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

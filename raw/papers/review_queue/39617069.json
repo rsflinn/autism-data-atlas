@@ -1,0 +1,56 @@
+{
+  "pmid": "39617069",
+  "doi": "10.1016/j.bbi.2024.11.030",
+  "title": "NLRP3 inflammasome mediates astroglial dysregulation of innate and adaptive immune responses in schizophrenia",
+  "authors": "Szabo A, Akkouh I, Osete JR, de Assis DR, Kondratskaya E, Hughes T, et al.",
+  "journal": "Brain, behavior, and immunity",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Mounting evidence indicates the involvement of neuroinflammation in the development of schizophrenia (SCZ), but the potential role of astroglia in this phenomenon remains poorly understood. We assessed the molecular and functional consequences of inflammasome activation using induced pluripotent stem cell (iPSC)-derived astrocytes generated from SCZ patients and healthy controls (CTRL). Screening protein levels in astrocytes at baseline identified lower expression of the NLRP3-ASC complex in SCZ, but increased Caspase-1 activity upon specific NLRP3 stimulation compared to CTRL. Using transcriptional profiling, we found corresponding downregulations of NLRP3 and ASC/PYCARD in both iPSC-derived astrocytes, and in a large (n&#xa0;=&#xa0;429) brain postmortem case-control sample. Functional analyses following NLRP3 activation revealed an inflammatory phenotype characterized by elevated production of IL-1&#x3b2;/IL-18 and skewed priming of helper T lymphocytes (Th1/Th17) by SCZ astrocytes. This phenotype was rescued by specific inhibition of NLRP3 activation, demonstrating its dependence on the NLRP3 inflammasome. Taken together, SCZ iPSC-astrocytes display unique, NLRP3-dependent inflammatory characteristics that are manifested via various cellular functions, as well as via dysregulated innate and adaptive immune responses.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Mounting evidence indicates the involvement of neuroinflammation in the development of schizophrenia (SCZ), but the potential role of astroglia in this phenomenon remains poorly understood. We assessed the molecular and functional consequences of inflammasome activation using induced pluripotent stem cell (iPSC)-derived astrocytes generated from SCZ patients and healthy controls (CTRL).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39617069/",
+  "mesh_terms": [
+    "Humans",
+    "NLR Family, Pyrin Domain-Containing 3 Protein",
+    "Astrocytes",
+    "Schizophrenia",
+    "Inflammasomes",
+    "Immunity, Innate",
+    "Adaptive Immunity",
+    "Induced Pluripotent Stem Cells",
+    "Male",
+    "Female",
+    "Adult",
+    "Middle Aged",
+    "Interleukin-1beta",
+    "Case-Control Studies",
+    "Caspase 1",
+    "Inflammation",
+    "Th17 Cells",
+    "Brain",
+    "Interleukin-18"
+  ],
+  "keywords": [
+    "Adaptive immunity",
+    "Astrocyte",
+    "Inflammasome",
+    "Inflammation",
+    "Innate immunity",
+    "NLRP3",
+    "Schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "37815090",
+  "doi": "10.1242/bio.060113",
+  "title": "Deficiency of the Heterogeneous Nuclear Ribonucleoprotein U locus leads to delayed hindbrain neurogenesis",
+  "authors": "Mastropasqua F, Oksanen M, Soldini C, Alatar S, Arora A, Ballarino R, et al.",
+  "journal": "Biology open",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Genetic variants affecting Heterogeneous Nuclear Ribonucleoprotein U (HNRNPU) have been identified in several neurodevelopmental disorders (NDDs). HNRNPU is widely expressed in the human brain and shows the highest postnatal expression in the cerebellum. Recent studies have investigated the role of HNRNPU in cerebral cortical development, but the effects of HNRNPU deficiency on cerebellar development remain unknown. Here, we describe the molecular and cellular outcomes of HNRNPU locus deficiency during in vitro neural differentiation of patient-derived and isogenic neuroepithelial stem cells with a hindbrain profile. We demonstrate that HNRNPU deficiency leads to chromatin remodeling of A/B compartments, and transcriptional rewiring, partly by impacting exon inclusion during mRNA processing. Genomic regions affected by the chromatin restructuring and host genes of exon usage differences show a strong enrichment for genes implicated in epilepsies, intellectual disability, and autism. Lastly, we show that at the cellular level HNRNPU downregulation leads to an increased fraction of neural progenitors in the maturing neuronal population. We conclude that the HNRNPU locus is involved in delayed commitment of neural progenitors to differentiate in cell types with hindbrain profile.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Genetic variants affecting Heterogeneous Nuclear Ribonucleoprotein U (HNRNPU) have been identified in several neurodevelopmental disorders (NDDs). HNRNPU is widely expressed in the human brain and shows the highest postnatal expression in the cerebellum.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37815090/",
+  "mesh_terms": [
+    "Humans",
+    "Chromatin",
+    "Heterogeneous-Nuclear Ribonucleoprotein U",
+    "Neurodevelopmental Disorders",
+    "Neurogenesis",
+    "Rhombencephalon"
+  ],
+  "keywords": [
+    "HNRNPU",
+    "HiC-sequencing",
+    "Hindbrain",
+    "Neurodevelopmental disorders",
+    "Neurogenesis",
+    "RNA-sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

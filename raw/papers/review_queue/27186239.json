@@ -1,0 +1,37 @@
+{
+  "pmid": "27186239",
+  "doi": "10.1186/s11689-016-9147-8",
+  "title": "Investigating the effects of copy number variants on reading and language performance",
+  "authors": "Gialluisi A, Visconti A, Willcutt EG, Smith SD, Pennington BF, Falchi M, et al.",
+  "journal": "Journal of neurodevelopmental disorders",
+  "date": "2016-05",
+  "source": "pubmed",
+  "abstract": "Reading and language skills have overlapping genetic bases, most of which are still unknown. Part of the missing heritability may be caused by copy number variants (CNVs).\n\nIn a dataset of children recruited for a history of reading disability (RD, also known as dyslexia) or attention deficit hyperactivity disorder (ADHD) and their siblings, we investigated the effects of CNVs on reading and language performance. First, we called CNVs with PennCNV using signal intensity data from Illumina OmniExpress arrays (~723,000 probes). Then, we computed the correlation between measures of CNV genomic burden and the first principal component (PC) score derived from several continuous reading and language traits, both before and after adjustment for performance IQ. Finally, we screened the genome, probe-by-probe, for association with the PC scores, through two complementary analyses: we tested a binary CNV state assigned for the location of each probe (i.e., CNV+ or CNV-), and we analyzed continuous probe intensity data using FamCNV.\n\nNo significant correlation was found between measures of CNV burden and PC scores, and no genome-wide significant associations were detected in probe-by-probe screening. Nominally significant associations were detected (p~10(-2)-10(-3)) within CNTN4 (contactin 4) and CTNNA3 (catenin alpha 3). These genes encode cell adhesion molecules with a likely role in neuronal development, and they have been previously implicated in autism and other neurodevelopmental disorders. A further, targeted assessment of candidate CNV regions revealed associations with the PC score (p~0.026-0.045) within CHRNA7 (cholinergic nicotinic receptor alpha 7), which encodes a ligand-gated ion channel and has also been implicated in neurodevelopmental conditions and language impairment. FamCNV analysis detected a region of association (p~10(-2)-10(-4)) within a frequent deletion ~6&#xa0;kb downstream of ZNF737 (zinc finger protein 737, uncharacterized protein), which was also observed in the association analysis using CNV calls.\n\nThese data suggest that CNVs do not underlie a substantial proportion of variance in reading and language skills. Analysis of additional, larger datasets is warranted to further assess the potential effects that we found and to increase the power to detect CNV effects on reading and language.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Reading and language skills have overlapping genetic bases, most of which are still unknown. Part of the missing heritability may be caused by copy number variants (CNVs).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27186239/",
+  "mesh_terms": [],
+  "keywords": [
+    "CLDRC",
+    "Copy number variants",
+    "Developmental dyslexia",
+    "Family-based GWAS",
+    "Language",
+    "Meta-analysis",
+    "Reading",
+    "Reading disability"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

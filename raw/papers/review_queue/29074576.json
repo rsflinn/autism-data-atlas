@@ -1,0 +1,48 @@
+{
+  "pmid": "29074576",
+  "doi": "10.1523/JNEUROSCI.0893-17.2017",
+  "title": "A Presynaptic Function of Shank Protein in",
+  "authors": "Wu S, Gan G, Zhang Z, Sun J, Wang Q, Gao Z, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2017-10",
+  "source": "pubmed",
+  "abstract": "Human genetic studies support that loss-of-function mutations in the3 domain andyrin repeat containing family proteins (SHANK1-3), the large synaptic scaffolding proteins enriched at the postsynaptic density of excitatory synapses, are causative for autism spectrum disorder and other neuropsychiatric disorders in humans. To better understand thefunctions of Shank and facilitate dissection of neuropathology associated withmutations in human, we generated multiple mutations in thegene, the only member of the SHANK family inBoth male and femalenull mutants were fully viable and fertile with no apparent morphological or developmental defects. Expression analysis revealed apparent enrichment of Shank in the neuropils of the CNS. Specifically, Shank coexpressed with another PSD scaffold protein, Homer, in the calyx of mushroom bodies in the brain. Consistent with high expression in mushroom body calyces,mutants show an abnormal calyx structure and reduced olfactory acuity. These morphological and functional phenotypes were fully rescued by pan-neuronal reexpression of Shank, and only partially rescued by presynaptic but no rescue by postsynaptic reexpression of Shank. Our findings thus establish a previously unappreciated presynaptic function of Shank.Mutations infamily genes are causative for idiopathic autism spectrum disorder. To understand the neural function of Shank, a large scaffolding protein enriched at the postsynaptic densities, we examined the role ofShank in synapse development at the peripheral neuromuscular junctions and the central mushroom body calyx. Our results demonstrate that, in addition to its conventional postsynaptic function, Shank also acts presynaptically in synapse development in the brain. This study offers novel insights into the synaptic role of Shank.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SHANK1"
+  ],
+  "summary": "Human genetic studies support that loss-of-function mutations in the3 domain andyrin repeat containing family proteins (SHANK1-3), the large synaptic scaffolding proteins enriched at the postsynaptic density of excitatory synapses, are causative for autism spectrum disorder and other neuropsychiatric disorders in humans. To better understand thefunctions of Shank and facilitate dissection of neuropathology associated withmutations in human, we generated multiple mutations in thegene, the only me",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29074576/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Genetically Modified",
+    "Drosophila",
+    "Female",
+    "Male",
+    "Mushroom Bodies",
+    "Nerve Tissue Proteins",
+    "Neuromuscular Junction",
+    "Presynaptic Terminals"
+  ],
+  "keywords": [
+    "PSD",
+    "Shank",
+    "autism",
+    "mushroom body calyx",
+    "synaptic function"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

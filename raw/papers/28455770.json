@@ -1,0 +1,40 @@
+{
+  "pmid": "28455770",
+  "doi": "10.1007/s10072-017-2974-x",
+  "title": "Autism, epilepsy, and synaptopathies: a not rare association",
+  "authors": "Keller R, Basta R, Salerno L, Elia M",
+  "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are neurodevelopmental disorders typically diagnosed in childhood, characterized by core social dysfunction, rigid and repetitive behaviors, restricted interests, and abnormal sensorial sensitivity. ASD belong to multifactorial diseases: both genetic and environmental factors have been considered as potential risk factors for their onset. ASD are often associated with neurological conditions: the co-occurrence of epilepsy is well documented and there is also evidence of a higher prevalence of EEG abnormalities with 4-86% of individuals with ASD presenting epileptiform or not epileptiform EEG abnormalities. The presence of epilepsy in people with ASD may be determined by several structural alterations, genetic conditions, or metabolic dysfunctions, known to play a role in the emergence of both epilepsy and autism. The purpose of this article is to discuss precisely such latter cause of the autism-epilepsy association, focusing specifically on those \"synaptic genes,\" whose mutation predisposes to both the diseases.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) are neurodevelopmental disorders typically diagnosed in childhood, characterized by core social dysfunction, rigid and repetitive behaviors, restricted interests, and abnormal sensorial sensitivity. ASD belong to multifactorial diseases: both genetic and environmental factors have been considered as potential risk factors for their onset.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28455770/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Electroencephalography",
+    "Epilepsy",
+    "Humans",
+    "Synapses"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Epilepsy",
+    "Genetic",
+    "Synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

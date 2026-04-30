@@ -1,0 +1,58 @@
+{
+  "pmid": "28009282",
+  "doi": "10.1016/j.celrep.2016.11.067",
+  "title": "Beyond Epilepsy and Autism: Disruption of GABRB3 Causes Ocular Hypopigmentation",
+  "authors": "Delahanty RJ, Zhang Y, Bichell TJ, Shen W, Verdier K, Macdonald RL, et al.",
+  "journal": "Cell reports",
+  "date": "2016-12",
+  "source": "pubmed",
+  "abstract": "Reduced ocular pigmentation is common in Angelman syndrome (AS) and Prader-Willi syndrome (PWS) and is long thought to be caused by OCA2 deletion. GABRB3 is located in the 15q11-13 region flanked by UBE3A, GABRA5, GABRG3, and OCA2. Mutations in GABRB3 have frequently been associated with epilepsy and autism, consistent with its role in neurodevelopment. We report here a robust phenotype in the mouse in which deletion of Gabrb3 alone causes nearly complete loss of retinal pigmentation due to atrophied melanosomes, as evidenced by electron microscopy. Using exome and RNA sequencing, we confirmed that only the Gabrb3 gene was disrupted while the Oca2 gene was intact. However, mRNA abundance of Oca2 and other genes adjacent to Gabrb3 is substantially reduced in Gabrb3mice, suggesting complex transcriptional regulation in this region. These results suggest that impairment in GABRB3 downregulates OCA2 and indirectly causes ocular hypopigmentation and visual defects in AS and PWS.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "GABRB3",
+    "UBE3A"
+  ],
+  "summary": "Reduced ocular pigmentation is common in Angelman syndrome (AS) and Prader-Willi syndrome (PWS) and is long thought to be caused by OCA2 deletion. GABRB3 is located in the 15q11-13 region flanked by UBE3A, GABRA5, GABRG3, and OCA2.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28009282/",
+  "mesh_terms": [
+    "Angelman Syndrome",
+    "Animals",
+    "Autistic Disorder",
+    "Epilepsy",
+    "Genetic Predisposition to Disease",
+    "Genomic Imprinting",
+    "Humans",
+    "Hypopigmentation",
+    "Membrane Transport Proteins",
+    "Mice",
+    "Mutation",
+    "Prader-Willi Syndrome",
+    "Receptors, GABA-A"
+  ],
+  "keywords": [
+    "Angelman syndrome",
+    "GABA(A) receptors",
+    "GABRB3",
+    "OCA2",
+    "UBE3A",
+    "autism",
+    "deletion",
+    "epilepsy",
+    "eye",
+    "hypopigmentation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "28729973",
+  "doi": "10.4102/ajod.v1i1.10",
+  "title": "Communication training for centre-based carers of children with severe or profound disabilities in the Western Cape, South Africa",
+  "authors": "Geiger M",
+  "journal": "African journal of disability",
+  "date": "2012-09",
+  "source": "pubmed",
+  "abstract": "The purpose of this paper is to provide a preliminary, qualitative review of an approach to training centre-based carers in supporting basic communication development and providing communication opportunities for the children with severe and profound disabilities in their care. In South Africa, these children are often the most neglected in terms of planning and providing appropriate interventions. For those with severedisabilities, an additional lack is in the area of the basic human right to meaningful interactions and communication. Sustainable strategies to provide opportunities for basic communication development of these children are urgently sought. Several effective international and localtraining programmes have been developed, but the urgent need remains to train. Non-profit organisations (NPOs) have been exploring practical centre-based approaches to skills sharing in physical rehabilitation, activities for daily living, feeding and support for basic communication development. As a freelance speech therapist contracted by four NPOs to implement hands-on training in basic communication for centre-based carers of non-verbal children, the author describes a training approach that evolved over three years, in collaboration with the carers and centre managements. Implications for training (for speech therapists and for community-based rehabilitation workers) and for further research are identified.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The purpose of this paper is to provide a preliminary, qualitative review of an approach to training centre-based carers in supporting basic communication development and providing communication opportunities for the children with severe and profound disabilities in their care. In South Africa, these children are often the most neglected in terms of planning and providing appropriate interventions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28729973/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

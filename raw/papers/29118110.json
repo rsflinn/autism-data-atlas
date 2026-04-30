@@ -1,0 +1,49 @@
+{
+  "pmid": "29118110",
+  "doi": "10.1523/JNEUROSCI.1393-17.2017",
+  "title": "Cellular Functions of the Autism Risk Factor PTCHD1 in Mice",
+  "authors": "Tora D, Gomez AM, Michaud JF, Yam PT, Charron F, Scheiffele P",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "The gene() is mutated in patients with autism spectrum disorders and intellectual disabilities and has been hypothesized to contribute to Sonic hedgehog (Shh) signaling and synapse formation. We identify a panel of Ptchd1-interacting proteins that include postsynaptic density proteins and the retromer complex, revealing a link to critical regulators of dendritic and postsynaptic trafficking.knock-out (KO) male mice exhibit cognitive alterations, including defects in a novel object recognition task. To test whether Ptchd1 is required for Shh-dependent signaling, we examined two Shh-dependent cell populations that express high levels ofmRNA: cerebellar granule cell precursors and dentate granule cells in the hippocampus. We found that proliferation of these neuronal precursors was not altered significantly inKO male mice. We used whole-cell electrophysiology and anatomical methods to assess synaptic function in Ptchd1-deficient dentate granule cells. In the absence of Ptchd1, we observed profound disruption in excitatory/inhibitory balance despite normal dendritic spine density on dentate granule cells. These findings support a critical role of the Ptchd1 protein in the dentate gyrus, but indicate that it is not required for structural synapse formation in dentate granule cells or for Shh-dependent neuronal precursor proliferation.The mechanisms underlying neuronal and cellular alterations resulting from() gene mutations are unknown. The results from this study support an association with dendritic trafficking complexes of Ptchd1. Loss-of-function experiments do not support a role in sonic hedgehog-dependent signaling, but reveal a disruption of synaptic transmission in the mouse dentate gyrus. The findings will help to guide ongoing efforts to understand the etiology of neurodevelopmental disorders arising from Ptchd1 deficiency.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The gene() is mutated in patients with autism spectrum disorders and intellectual disabilities and has been hypothesized to contribute to Sonic hedgehog (Shh) signaling and synapse formation. We identify a panel of Ptchd1-interacting proteins that include postsynaptic density proteins and the retromer complex, revealing a link to critical regulators of dendritic and postsynaptic trafficking.knock-out (KO) male mice exhibit cognitive alterations, including defects in a novel object recognition ta",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29118110/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Dendrites",
+    "Dentate Gyrus",
+    "Hippocampus",
+    "Male",
+    "Membrane Proteins",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Neurogenesis",
+    "Protein Transport",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "autism",
+    "glutamatergic synapse",
+    "mental retardation",
+    "retromer",
+    "sonic hedgehog"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

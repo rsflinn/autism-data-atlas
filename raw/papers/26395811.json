@@ -1,0 +1,51 @@
+{
+  "pmid": "26395811",
+  "doi": "10.1503/jpn.140009",
+  "title": "Potential serum biomarkers from a metabolomics study of autism",
+  "authors": "Wang H, Liang S, Wang M, Gao J, Sun C, Wang J, et al.",
+  "journal": "Journal of psychiatry & neuroscience : JPN",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Early detection and diagnosis are very important for autism. Current diagnosis of autism relies mainly on some observational questionnaires and interview tools that may involve a great variability. We performed a metabolomics analysis of serum to identify potential biomarkers for the early diagnosis and clinical evaluation of autism.\n\nWe analyzed a discovery cohort of patients with autism and participants without autism in the Chinese Han population using ultra-performance liquid chromatography quadrupole time-of-flight tandem mass spectrometry (UPLC/Q-TOF MS/MS) to detect metabolic changes in serum associated with autism. The potential metabolite candidates for biomarkers were individually validated in an additional independent cohort of cases and controls. We built a multiple logistic regression model to evaluate the validated biomarkers.\n\nWe included 73 patients and 63 controls in the discovery cohort and 100 cases and 100 controls in the validation cohort. Metabolomic analysis of serum in the discovery stage identified 17 metabolites, 11 of which were validated in an independent cohort. A multiple logistic regression model built on the 11 validated metabolites fit well in both cohorts. The model consistently showed that autism was associated with 2 particular metabolites: sphingosine 1-phosphate and docosahexaenoic acid.\n\nWhile autism is diagnosed predominantly in boys, we were unable to perform the analysis by sex owing to difficulty recruiting enough female patients. Other limitations include the need to perform test-retest assessment within the same individual and the relatively small sample size.\n\nTwo metabolites have potential as biomarkers for the clinical diagnosis and evaluation of autism.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Early detection and diagnosis are very important for autism. Current diagnosis of autism relies mainly on some observational questionnaires and interview tools that may involve a great variability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26395811/",
+  "mesh_terms": [
+    "Asian People",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Blood Chemical Analysis",
+    "Child",
+    "Child, Preschool",
+    "China",
+    "Chromatography, High Pressure Liquid",
+    "Cohort Studies",
+    "Docosahexaenoic Acids",
+    "Female",
+    "Humans",
+    "Least-Squares Analysis",
+    "Logistic Models",
+    "Lysophospholipids",
+    "Male",
+    "Metabolomics",
+    "ROC Curve",
+    "Sphingosine",
+    "Tandem Mass Spectrometry"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Validation Study"
+  ]
+}

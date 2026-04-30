@@ -1,0 +1,47 @@
+{
+  "pmid": "34750364",
+  "doi": "10.1038/s41467-021-26769-9",
+  "title": "Dopamine D2 receptor regulates cortical synaptic pruning in rodents",
+  "authors": "Zhang YQ, Lin WP, Huang LP, Zhao B, Zhang CC, Yin DM",
+  "journal": "Nature communications",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Synaptic pruning during adolescence is important for appropriate neurodevelopment and synaptic plasticity. Aberrant synaptic pruning may underlie a variety of brain disorders such as schizophrenia, autism and anxiety. Dopamine D2 receptor (Drd2) is associated with several neuropsychiatric diseases and is the target of some antipsychotic drugs. Here we generate self-reporting Drd2 heterozygous (SR-Drd2) rats to simultaneously visualize Drd2-positive neurons and downregulate Drd2 expression. Time course studies on the developing anterior cingulate cortex (ACC) from control and SR-Drd2rats reveal important roles of Drd2 in regulating synaptic pruning rather than synapse formation. Drd2 also regulates LTD, a form of synaptic plasticity which includes some similar cellular/biochemical processes as synaptic pruning. We further demonstrate that Drd2 regulates synaptic pruning via cell-autonomous mechanisms involving activation of mTOR signaling. Deficits of Drd2-mediated synaptic pruning in the ACC during adolescence lead to hyper-glutamatergic function and anxiety-like behaviors in adulthood. Taken together, our results demonstrate important roles of Drd2 in cortical synaptic pruning.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Synaptic pruning during adolescence is important for appropriate neurodevelopment and synaptic plasticity. Aberrant synaptic pruning may underlie a variety of brain disorders such as schizophrenia, autism and anxiety.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34750364/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Genetically Modified",
+    "Dendritic Spines",
+    "Gene Knockout Techniques",
+    "Gyrus Cinguli",
+    "Heterozygote",
+    "Inhibitory Postsynaptic Potentials",
+    "Mutation",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Patch-Clamp Techniques",
+    "Rats, Sprague-Dawley",
+    "Receptors, Dopamine D2",
+    "Signal Transduction",
+    "Synapses",
+    "Time Factors",
+    "Rats"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

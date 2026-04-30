@@ -1,0 +1,42 @@
+{
+  "pmid": "37788244",
+  "doi": "10.1371/journal.pone.0291978",
+  "title": "Primary complex motor stereotypies are associated with de novo damaging DNA coding mutations that identify KDM5B as a risk gene",
+  "authors": "Fernandez TV, Williams ZP, Kline T, Rajendran S, Augustine F, Wright N, et al.",
+  "journal": "PloS one",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Motor stereotypies are common in children with autism spectrum disorder (ASD), intellectual disability, or sensory deprivation, as well as in typically developing children (\"primary\" stereotypies, pCMS). The precise pathophysiological mechanism for motor stereotypies is unknown, although genetic etiologies have been suggested. In this study, we perform whole-exome DNA sequencing in 129 parent-child trios with pCMS and 853 control trios (118 cases and 750 controls after quality control). We report an increased rate of de novo predicted-damaging DNA coding variants in pCMS versus controls, identifying KDM5B as a high-confidence risk gene and estimating 184 genes conferring risk. Genes harboring de novo damaging variants in pCMS probands show significant overlap with those in Tourette syndrome, ASD, and those in ASD probands with high versus low stereotypy scores. An exploratory analysis of these pCMS gene expression patterns finds clustering within the cortex and striatum during early mid-fetal development. Exploratory gene ontology and network analyses highlight functional convergence in calcium ion transport, demethylation, cell signaling, cell cycle and development. Continued sequencing of pCMS trios will identify additional risk genes and provide greater insights into biological mechanisms of stereotypies across diagnostic boundaries.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "KDM5B"
+  ],
+  "summary": "Motor stereotypies are common in children with autism spectrum disorder (ASD), intellectual disability, or sensory deprivation, as well as in typically developing children (\"primary\" stereotypies, pCMS). The precise pathophysiological mechanism for motor stereotypies is unknown, although genetic etiologies have been suggested.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37788244/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Tourette Syndrome",
+    "DNA",
+    "Exome Sequencing",
+    "Mutation",
+    "Genetic Predisposition to Disease",
+    "Nuclear Proteins",
+    "Repressor Proteins",
+    "Jumonji Domain-Containing Histone Demethylases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

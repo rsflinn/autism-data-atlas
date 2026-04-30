@@ -1,0 +1,43 @@
+{
+  "pmid": "41690235",
+  "doi": "10.1016/j.gde.2026.102441",
+  "title": "Convergence and divergence of molecular phenotypes in iPSC-derived models of 16p11.2 and 22q11.2 reciprocal copy number variants",
+  "authors": "Rajkumar S, Bearden CE, Sebat J, Iakoucheva LM",
+  "journal": "Current opinion in genetics & development",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "Deletions and duplications of 16p11.2 and 22q11.2, along&#xa0;with other copy number variants (CNVs), are strongly implicated in neurodevelopmental disorders, including autism spectrum disorder and schizophrenia. While clinical data provide valuable insights, such data are limited in uncovering precise cellular and molecular mechanisms, and animal models often lack direct human relevance.&#xa0;Human induced pluripotent stem cell-derived 2D neuronal cultures, 3D brain organoids, and assembloids with 16p11.2 or 22q11.2 CNVs offer complementary systems to investigate altered pathways for future clinical translation. Studies using patient-derived or clustered regularly interspaced short palindromic repeats/CRISPR-associated protein 9-engineered induced pluripotent stem cells carrying these CNVs have identified a range of phenotypes that yield mechanistic insights. This review consolidates these findings, highlighting convergent and divergent phenotypes across reciprocal CNVs, and proposes promising molecular and cellular readouts for advancing translational research.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Deletions and duplications of 16p11.2 and 22q11.2, along&#xa0;with other copy number variants (CNVs), are strongly implicated in neurodevelopmental disorders, including autism spectrum disorder and schizophrenia. While clinical data provide valuable insights, such data are limited in uncovering precise cellular and molecular mechanisms, and animal models often lack direct human relevance.&#xa0;Human induced pluripotent stem cell-derived 2D neuronal cultures, 3D brain organoids, and assembloids w",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41690235/",
+  "mesh_terms": [
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "DNA Copy Number Variations",
+    "Phenotype",
+    "Chromosomes, Human, Pair 16",
+    "Chromosomes, Human, Pair 22",
+    "Schizophrenia",
+    "Chromosome Deletion",
+    "Autism Spectrum Disorder",
+    "Animals",
+    "Autistic Disorder",
+    "Intellectual Disability",
+    "Chromosome Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

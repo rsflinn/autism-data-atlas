@@ -1,0 +1,44 @@
+{
+  "pmid": "25639674",
+  "doi": "10.1016/j.tips.2014.12.002",
+  "title": "Nicotinic ACh receptors as therapeutic targets in CNS disorders",
+  "authors": "Dineley KT, Pandya AA, Yakel JL",
+  "journal": "Trends in pharmacological sciences",
+  "date": "2015-01",
+  "source": "pubmed",
+  "abstract": "The neurotransmitter acetylcholine (ACh) can regulate neuronal excitability by acting on the cys-loop cation-conducting ligand-gated nicotinic ACh receptor (nAChR) channels. These receptors are widely distributed throughout the central nervous system (CNS), being expressed on neurons and non-neuronal cells, where they participate in a variety of physiological responses such as anxiety, the central processing of pain, food intake, nicotine seeking behavior, and cognitive functions. In the mammalian brain, nine different subunits have been found thus far, which assemble into pentameric complexes with much subunit diversity; however, the &#x3b1;7 and &#x3b1;4&#x3b2;2 subtypes predominate in the CNS. Neuronal nAChR dysfunction is involved in the pathophysiology of many neurological disorders. Here we will briefly discuss the functional makeup and expression of the nAChRs in mammalian brain, and their role as targets in neurodegenerative diseases (in particular Alzheimer's disease, AD), neurodevelopmental disorders (in particular autism and schizophrenia), and neuropathic pain.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The neurotransmitter acetylcholine (ACh) can regulate neuronal excitability by acting on the cys-loop cation-conducting ligand-gated nicotinic ACh receptor (nAChR) channels. These receptors are widely distributed throughout the central nervous system (CNS), being expressed on neurons and non-neuronal cells, where they participate in a variety of physiological responses such as anxiety, the central processing of pain, food intake, nicotine seeking behavior, and cognitive functions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25639674/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Central Nervous System Diseases",
+    "Humans",
+    "Pain",
+    "Receptors, Nicotinic",
+    "Schizophrenia"
+  ],
+  "keywords": [
+    "cys-loop receptor",
+    "nAChR",
+    "&#x3b1;4&#x3b2;2 receptor",
+    "&#x3b1;7 receptor"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

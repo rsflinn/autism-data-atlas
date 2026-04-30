@@ -1,0 +1,38 @@
+{
+  "pmid": "24292384",
+  "doi": "10.1007/s00213-013-3334-z",
+  "title": "Using genetic findings in autism for the development of new pharmaceutical compounds",
+  "authors": "Vorstman JA, Spooren W, Persico AM, Collier DA, Aigner S, Jagasia R, et al.",
+  "journal": "Psychopharmacology",
+  "date": "2013-11",
+  "source": "pubmed",
+  "abstract": "The main reason for the current lack of effective treatments for the core symptoms of autism is our limited understanding of the biological mechanisms underlying this heterogeneous group of disorders. A primary value of genetic research is enhancing our insight into the biology of autism through the study of identified autism risk genes.\n\nIn the current review we discuss (1) the genes and loci that are associated with autism, (2) how these provide us with essential cues as to what neurobiological mechanisms may be involved, and (3) how these mechanisms may be used as targets for novel treatments. Next, we provide an overview of currently ongoing clinical trials registered at clinicaltrials.gov with a variety of compounds. Finally, we review current approaches used to translate knowledge derived from gene discovery into novel pharmaceutical compounds and discuss their pitfalls and problems.\n\nAn increasing number of genetic variants associated with autism have been identified. This will generate new ideas about the biological mechanisms involved in autism, which in turn may provide new leads for the development of novel pharmaceutical compounds. To optimize this pipeline of drug discovery, large-scale international collaborations are needed for gene discovery, functional validation of risk genes, and improvement of clinical outcome measures and clinical trial methodology in autism.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The main reason for the current lack of effective treatments for the core symptoms of autism is our limited understanding of the biological mechanisms underlying this heterogeneous group of disorders. A primary value of genetic research is enhancing our insight into the biology of autism through the study of identified autism risk genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24292384/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Clinical Trials as Topic",
+    "Drug Discovery",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

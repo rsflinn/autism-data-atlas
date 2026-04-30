@@ -1,0 +1,48 @@
+{
+  "pmid": "34338974",
+  "doi": "10.1007/s11011-021-00788-3",
+  "title": "Profiles of urine and blood metabolomics in autism spectrum disorders",
+  "authors": "Likhitweerawong N, Thonusin C, Boonchooduang N, Louthrenoo O, Nookaew I, Chattipakorn N, et al.",
+  "journal": "Metabolic brain disease",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "Early diagnosis and treatment for autism spectrum disorder (ASD) pose challenges. The current diagnostic approach for ASD is mainly clinical assessment of patient behaviors. Biomarkers-based identification of ASD would be useful for pediatricians. Currently, there is no specific treatment for ASD, and evidence for the efficacy of alternative treatments remains inconclusive. The prevalence of ASD is increasing, and it is becoming more urgent to find the pathogenesis of such disorder. Metabolomic studies have been used to deeply investigate the alteration of metabolic pathways, including those associated with ASD. Metabolomics is a promising tool for identifying potential biomarkers and possible pathogenesis of ASD. This review comprehensively summarizes and discusses the abnormal metabolic pathways in ASD children, as indicated by evidence from metabolomic studies in urine and blood. In addition, the targeted interventions that could correct the metabolomic profiles relating to the improvement of autistic behaviors in affected animals and humans have been included. The results revealed that the possible underlying pathophysiology of ASD were alterations of amino acids, reactive oxidative stress, neurotransmitters, and microbiota-gut-brain axis. The potential common pathways shared by animal and human studies related to the improvement of ASD symptoms after pharmacological interventions were mammalian-microbial co-metabolite, purine metabolism, and fatty acid oxidation. The content of this review may contribute to novel biomarkers for the early diagnosis of ASD and possible therapeutic paradigms.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Early diagnosis and treatment for autism spectrum disorder (ASD) pose challenges. The current diagnostic approach for ASD is mainly clinical assessment of patient behaviors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34338974/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Humans",
+    "Isothiocyanates",
+    "Metabolic Networks and Pathways",
+    "Metabolomics",
+    "Sulfoxides",
+    "Suramin"
+  ],
+  "keywords": [
+    "Autism",
+    "Diagnostic marker",
+    "Intervention",
+    "Metabolite",
+    "Metabolome",
+    "Therapeutic marker"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

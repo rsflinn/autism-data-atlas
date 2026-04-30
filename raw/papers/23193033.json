@@ -1,0 +1,39 @@
+{
+  "pmid": "23193033",
+  "doi": "10.1002/ajmg.b.32121",
+  "title": "No evidence that common genetic risk variation is shared between schizophrenia and autism",
+  "authors": "Vorstman JA, Anney RJ, Derks EM, Gallagher L, Gill M, de Jonge MV, et al.",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2012-11",
+  "source": "pubmed",
+  "abstract": "The similarity between aspects of the clinical presentation of schizophrenia and autism spectrum disorders (ASD) suggests that elements of the biological etiology may also be shared between these two disorders. Recently, an increasing number of rare, mostly structural genetic variants are reported to increase the risk of both schizophrenia and ASD. We hypothesized that given this evidence for a shared genetic background based on rare genetic variants, common risk alleles may also be shared between ASD and schizophrenia. To test this hypothesis, the polygenic score, which summarizes the collective effect of a large number of common risk alleles, was used. We examined whether the polygenic score derived from a schizophrenia case-control dataset, previously reported by Purcell et al., was able to differentiate ASD cases from controls. The results demonstrate that the schizophrenia-derived polygenic score is not different between ASD cases and controls, indicating that there is no important sharing of common risk alleles between the two neuropsychiatric disorders. Possibly, common risk alleles are less important in ASD in comparison to their more prominent role in schizophrenia and bipolar disorders. These findings provide important novel insights into shared and distinct elements of the genetic architecture of autism and schizophrenia.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The similarity between aspects of the clinical presentation of schizophrenia and autism spectrum disorders (ASD) suggests that elements of the biological etiology may also be shared between these two disorders. Recently, an increasing number of rare, mostly structural genetic variants are reported to increase the risk of both schizophrenia and ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23193033/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Case-Control Studies",
+    "Genetic Markers",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Humans",
+    "Multifactorial Inheritance",
+    "Risk Factors",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

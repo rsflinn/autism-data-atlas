@@ -1,0 +1,35 @@
+{
+  "pmid": "21931335",
+  "doi": "10.1038/nrn3113",
+  "title": "In search of biomarkers for autism: scientific, social and ethical challenges",
+  "authors": "Walsh P, Elsabbagh M, Bolton P, Singh I",
+  "journal": "Nature reviews. Neuroscience",
+  "date": "2011-09",
+  "source": "pubmed",
+  "abstract": "There is widespread hope that the discovery of valid biomarkers for autism will both reveal the causes of autism and enable earlier and more targeted methods for diagnosis and intervention. However, growing enthusiasm about recent advances in this area of autism research needs to be tempered by an awareness of the major scientific challenges and the important social and ethical concerns arising from the development of biomarkers and their clinical application. Collaborative approaches involving scientists and other stakeholders must combine the search for valid, clinically useful autism biomarkers with efforts to ensure that individuals with autism and their families are treated with respect and understanding.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "There is widespread hope that the discovery of valid biomarkers for autism will both reveal the causes of autism and enable earlier and more targeted methods for diagnosis and intervention. However, growing enthusiasm about recent advances in this area of autism research needs to be tempered by an awareness of the major scientific challenges and the important social and ethical concerns arising from the development of biomarkers and their clinical application.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21931335/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Biomarkers",
+    "Humans",
+    "Predictive Value of Tests"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Research Support, Non-U.S. Gov't",
+    "Review",
+    "Journal Article"
+  ]
+}

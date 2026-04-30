@@ -1,0 +1,29 @@
+{
+  "pmid": "39829892",
+  "doi": "10.1101/2025.01.08.632056",
+  "title": "Physiological and molecular impairment of PV circuit homeostasis in mouse models of autism",
+  "authors": "Monday HR, Nieto AM, Yohannes SA, Luxu S, Wong KW, Bolio FE, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Circuit dysfunction in autism may involve a failure of homeostatic plasticity. To test this, we studied parvalbumin (PV) interneurons which exhibit rapid homeostatic plasticity of intrinsic excitability following whisker deprivation in mouse somatosensory cortex. Brief deprivation reduces PV excitability by increasing Kv1 current to increase PV spike threshold. We found that PV homeostatic plasticity is disrupted inandmodels of autism. In wildtype mice, deprivation elevates the transcription factor ER81 which drivestranscription, increasing Kv1.1 protein in the axon initial segment and soma. These molecular signatures of homeostasis were absent inand. Whisker enrichment increased PV excitability, but not in, indicating that homeostasis is lost bidirectionally. Deprivation reduced feedforward L4-L2/3 inhibition in wildtype but notmice. Thus, two autism models show a convergent loss of PV circuit homeostasis at physiological and molecular levels, potentially contributing to sensory processing impairments.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Circuit dysfunction in autism may involve a failure of homeostatic plasticity. To test this, we studied parvalbumin (PV) interneurons which exhibit rapid homeostatic plasticity of intrinsic excitability following whisker deprivation in mouse somatosensory cortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39829892/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

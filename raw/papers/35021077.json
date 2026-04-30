@@ -1,0 +1,53 @@
+{
+  "pmid": "35021077",
+  "doi": "10.1016/j.celrep.2021.110231",
+  "title": "Stride-level analysis of mouse open field behavior using deep-learning-based pose estimation",
+  "authors": "Sheppard K, Gardin J, Sabnis GS, Peer A, Darrell M, Deats S, et al.",
+  "journal": "Cell reports",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Gait and posture are often perturbed in many neurological, neuromuscular, and neuropsychiatric conditions. Rodents provide a tractable model for elucidating disease mechanisms and interventions. Here, we develop a neural-network-based assay that adopts the commonly used open field apparatus for mouse gait and posture analysis. We quantitate both with high precision across 62 strains of mice. We characterize four mutants with known gait deficits and demonstrate that multiple autism spectrum disorder (ASD) models show gait and posture deficits, implying this is a general feature of ASD. Mouse gait and posture measures are highly heritable and fall into three distinct classes. We conduct a genome-wide association study to define the genetic architecture of stride-level mouse movement in the open field. We provide a method for gait and posture extraction from the open field and one of the largest laboratory mouse gait and posture data resources for the research community.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Gait and posture are often perturbed in many neurological, neuromuscular, and neuropsychiatric conditions. Rodents provide a tractable model for elucidating disease mechanisms and interventions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35021077/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Deep Learning",
+    "Exploratory Behavior",
+    "Gait",
+    "Genome-Wide Association Study",
+    "Mice",
+    "Movement",
+    "Nerve Net",
+    "Open Field Test",
+    "Postural Balance"
+  ],
+  "keywords": [
+    "Machine learning",
+    "animal behavior",
+    "complex behavior",
+    "gait analysis",
+    "genome-wide association study (GWAS)",
+    "key-point detection",
+    "neural network",
+    "pose estimation",
+    "posture analysis",
+    "quantitative genetics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

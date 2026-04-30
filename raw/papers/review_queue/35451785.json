@@ -1,0 +1,43 @@
+{
+  "pmid": "35451785",
+  "doi": "10.1007/978-1-0716-2205-6_15",
+  "title": "From Genotype to Phenotype: Polygenic Prediction of Complex Human Traits",
+  "authors": "Raben TG, Lello L, Widen E, Hsu SDH",
+  "journal": "Methods in molecular biology (Clifton, N.J.)",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Decoding the genome confers the capability to predict characteristics of the organism (phenotype) from DNA (genotype). We describe the present status and future prospects of genomic prediction of complex traits in humans. Some highly heritable complex phenotypes such as height and other quantitative traits can already be predicted with reasonable accuracy from DNA alone. For many diseases, including important common conditions such as coronary artery disease, breast cancer, type I and II diabetes, individuals with outlier polygenic scores (e.g., top few percent) have been shown to have 5 or even 10 times higher risk than average. Several psychiatric conditions such as schizophrenia and autism also fall into this category. We discuss related topics such as the genetic architecture of complex traits, sibling validation of polygenic scores, and applications to adult health, in vitro fertilization (embryo selection), and genetic engineering.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Decoding the genome confers the capability to predict characteristics of the organism (phenotype) from DNA (genotype). We describe the present status and future prospects of genomic prediction of complex traits in humans.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35451785/",
+  "mesh_terms": [
+    "Genome-Wide Association Study",
+    "Genomics",
+    "Genotype",
+    "Humans",
+    "Models, Genetic",
+    "Multifactorial Inheritance",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "Complex trait prediction",
+    "Genetic engineering",
+    "Genomics",
+    "In vitro fertilization",
+    "PRS"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

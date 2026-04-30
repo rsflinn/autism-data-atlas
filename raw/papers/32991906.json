@@ -1,0 +1,50 @@
+{
+  "pmid": "32991906",
+  "doi": "10.1016/j.neubiorev.2020.09.017",
+  "title": "The neuroligins and the synaptic pathway in Autism Spectrum Disorder",
+  "authors": "Trobiani L, Meringolo M, Diamanti T, Bourne Y, Marchot P, Martella G, et al.",
+  "journal": "Neuroscience and biobehavioral reviews",
+  "date": "2020-09",
+  "source": "pubmed",
+  "abstract": "The genetics underlying autism spectrum disorder (ASD) is complex and heterogeneous, and de novo variants are found in genes converging in functional biological processes. Neuronal communication, including trans-synaptic signaling involving two families of cell-adhesion proteins, the presynaptic neurexins and the postsynaptic neuroligins, is one of the most recurrently affected pathways in ASD. Given the role of these proteins in determining synaptic function, abnormal synaptic plasticity and failure to establish proper synaptic contacts might represent mechanisms underlying risk of ASD. More than 30 mutations have been found in the neuroligin genes. Most of the resulting residue substitutions map in the extracellular, cholinesterase-like domain of the protein, and impair protein folding and trafficking. Conversely, the stalk and intracellular domains are less affected. Accordingly, several genetic animal models of ASD have been generated, showing behavioral and synaptic alterations. The aim of this review is to discuss the current knowledge on ASD-linked mutations in the neuroligin proteins and their effect on synaptic function, in various brain areas and circuits.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The genetics underlying autism spectrum disorder (ASD) is complex and heterogeneous, and de novo variants are found in genes converging in functional biological processes. Neuronal communication, including trans-synaptic signaling involving two families of cell-adhesion proteins, the presynaptic neurexins and the postsynaptic neuroligins, is one of the most recurrently affected pathways in ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32991906/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Cell Adhesion Molecules, Neuronal",
+    "Nerve Tissue Proteins",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Synapses"
+  ],
+  "keywords": [
+    "Animal model",
+    "Behaviour",
+    "Endoplasmic reticulum",
+    "Genetics",
+    "Homeostatic mechanisms",
+    "Misfolding",
+    "Physiology",
+    "Synaptic plasticity",
+    "Trafficking",
+    "Unfolded protein response",
+    "excitatory/inhibitory balance"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

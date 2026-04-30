@@ -1,0 +1,54 @@
+{
+  "pmid": "40210476",
+  "doi": "10.3779/j.issn.1009-3419.2025.101.04",
+  "title": "[ARID1B Gene Deletion Promotes the Proliferation, Migration and Invasion &#x2029;of NSCLC Cells]",
+  "authors": "Zhu L, Zhang X",
+  "journal": "Zhongguo fei ai za zhi = Chinese journal of lung cancer",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "Abnormalities of the switch/sucrose nonfermentable (SWI/SNF) chromatin-remodeling complex are closely related to various cancers, and ARID1B (AT-rich interaction domain 1B) is one of the core subunits of the SWI/SNF complex. Mutations or copy number deletions of the ARID1B gene are associated with impaired DNA damage response and altered chromatin accessibility. However, whether ARID1B deficiency affects the proliferation, migration and invasion abilities of non-small cell lung cancer (NSCLC) cells and its molecular mechanisms remain poorly understood. This study aims to reveal the regulatory role of ARID1B gene deletion on the malignant phenotype of NSCLC cells and its molecular mechanism.\n\nOnline databases were used to analyze the relationship between ARID1B and the prognosis of patients with lung cancer, and the expression levels of ARID1B in lung cancer tissues. The CRISPR/Cas9 (clustered regularly interspaced short palindromic repeat) technology was employed to construct stable ARID1B gene knockout (KO) cell lines. The plate colony formation assay was used to detect cell proliferation, and the Transwell cell migration and invasion assays were used to detect changes in cell migration ability. RNA-Seq was utilized for the expression and enrichment analysis of differentially expressed genes. Western blot (WB) was used to verify the knockout effect of the ARID1B gene and to detect the expression changes of epithelial-mesenchymal transition (EMT) markers and mitogen-activated protein kinases (MAPK) signaling pathway-related proteins. Nude mouse tumor models were constructed and the tumorigenic abilities of control and ARID1B-deficient cells were compared.\n\nPatients with low ARID1B expression have poor overall survival. ARID1B is differentially expressed in lung cancer and normal tissues, and its expression level being lower in cancer cells. ARID1B-deficient cells had significantly enhanced in vitro proliferation, migration and invasion abilities. In animal experiments, the tumor formation speed of ARID1B gene deficient cells was significantly accelerated. Enrichment analysis of RNA-Seq results revealed that the differentially expressed genes were mainly enriched in MAPK, phosphoinositide 3-kinase-protein kinase B (PI3K/Akt) and other signaling pathways. WB experiments demonstrated that the expressions of E-cadherin, N-cadherin and Vimentin changed in ARID1B gene deficient cells, and the expressions of MAPK and p-MAPK was increased.\n\nThe A549-ARID1B KO and PC9-ARID1B KO cell lines were successfully established. The ARID1B-deficient cell lines demonstrated high migration, invasion and proliferation potential at both in vitro and in vivo biological behavior levels and at the transcriptome sequencing level. The changes in the expression of EMT markers and the activation of the MAPK signaling pathway suggest possible metastasis mechanisms of ARID1B-deficient NSCLC.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "Abnormalities of the switch/sucrose nonfermentable (SWI/SNF) chromatin-remodeling complex are closely related to various cancers, and ARID1B (AT-rich interaction domain 1B) is one of the core subunits of the SWI/SNF complex. Mutations or copy number deletions of the ARID1B gene are associated with impaired DNA damage response and altered chromatin accessibility.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40210476/",
+  "mesh_terms": [
+    "Humans",
+    "Cell Proliferation",
+    "Cell Movement",
+    "Lung Neoplasms",
+    "Animals",
+    "Carcinoma, Non-Small-Cell Lung",
+    "Transcription Factors",
+    "Neoplasm Invasiveness",
+    "Mice",
+    "DNA-Binding Proteins",
+    "Gene Deletion",
+    "Cell Line, Tumor",
+    "Epithelial-Mesenchymal Transition",
+    "Mice, Nude",
+    "Gene Expression Regulation, Neoplastic"
+  ],
+  "keywords": [
+    "ARID1B",
+    "Lung neoplasms",
+    "MAPK",
+    "Migration",
+    "Proliferation",
+    "RNA-seq"
+  ],
+  "article_types": [
+    "English Abstract",
+    "Journal Article"
+  ]
+}

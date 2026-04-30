@@ -1,0 +1,50 @@
+{
+  "pmid": "30606997",
+  "doi": "10.5692/clinicalneurol.cn-001240",
+  "title": "[The considerations for diagnosis of autism spectrum disorders and its pathogenic mechanisms]",
+  "authors": "Kato H, Ozaki N",
+  "journal": "Rinsho shinkeigaku = Clinical neurology",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is characterized by deficits in social interaction and social communication, along with restricted and repetitive sensory-motor behaviors. The diagnosis of ASD includes various phenotypes outlined in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM)-5. The comprehensive evaluation of each individual case with ASD is needed because many of them have comorbidity with number of neuropsychiatric disorders or somatic conditions. The growing number of genetic studies detected multiple rare variants with relatively large effect sizes. The results have revealed their common potential pathology including abnormal chromatin regulation, which induces epigenetic changes. More researches are expected to elucidate the pathogenesis of ASD and to develop therapeutic approaches.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is characterized by deficits in social interaction and social communication, along with restricted and repetitive sensory-motor behaviors. The diagnosis of ASD includes various phenotypes outlined in the American Psychiatric Association's Diagnostic and Statistical Manual of Mental Disorders (DSM)-5.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30606997/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Chromatin Assembly and Disassembly",
+    "Chromosome Aberrations",
+    "Environment",
+    "Epigenesis, Genetic",
+    "Genetic Variation",
+    "Genome, Human",
+    "Genome-Wide Association Study",
+    "Genomics",
+    "Histone Code",
+    "Humans",
+    "Mice",
+    "Mutation"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "chromatin remodeling",
+    "diagnosis",
+    "genetic variant",
+    "histone modification"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

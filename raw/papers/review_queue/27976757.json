@@ -1,0 +1,37 @@
+{
+  "pmid": "27976757",
+  "doi": "10.12688/wellcomeopenres.10011.1",
+  "title": "Efficient and versatile CRISPR engineering of human neurons in culture to model neurological disorders",
+  "authors": "Shah RR, Cholewa-Waclaw J, Davies FCJ, Paton KM, Chaligne R, Heard E, et al.",
+  "journal": "Wellcome open research",
+  "date": "2016-11",
+  "source": "pubmed",
+  "abstract": "The recent identification of multiple new genetic causes of neurological disorders highlights the need for model systems that give experimental access to the underlying biology. In particular, the ability to couple disease-causing mutations with human neuronal differentiation systems would be beneficial. Gene targeting is a well-known approach for dissecting gene function, but low rates of homologous recombination in somatic cells (including neuronal cells) have traditionally impeded the development of robust cellular models of neurological disorders. Recently, however, CRISPR/Cas9 gene editing technologies have expanded the number of systems within which gene targeting is possible. Here we adopt as a model system LUHMES cells, a commercially available diploid human female mesencephalic cell line that differentiates into homogeneous mature neurons in 1-2 weeks. We describe optimised methods for transfection and selection of neuronal progenitor cells carrying targeted genomic alterations using CRISPR/Cas9 technology. By targeting the endogenous X-linkedlocus, we introduced four independent missense mutations that cause the autism spectrum disorder Rett syndrome and observed the desired genetic structure in 3-26% of selected clones, including gene targeting of the inactive X chromosome. Similar efficiencies were achieved by introducing neurodevelopmental disorder-causing mutations at the autosomallocus on chromosome 20. Our results indicate that efficiency of genetic \"knock-in\" is determined by the location of the mutation within the donor DNA molecule. Furthermore, we successfully introduced an mCherry tag at thelocus to yield a fusion protein, demonstrating that larger insertions are also straightforward in this system. We suggest that our optimised methods for altering the genome of LUHMES cells make them an attractive model for the study of neurogenetic disorders.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The recent identification of multiple new genetic causes of neurological disorders highlights the need for model systems that give experimental access to the underlying biology. In particular, the ability to couple disease-causing mutations with human neuronal differentiation systems would be beneficial.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27976757/",
+  "mesh_terms": [],
+  "keywords": [
+    "CRISPR",
+    "Cas9",
+    "EEF1A2",
+    "LUHMES",
+    "MeCP2",
+    "human",
+    "neurological",
+    "neurons"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

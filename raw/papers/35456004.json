@@ -1,0 +1,46 @@
+{
+  "pmid": "35456004",
+  "doi": "10.3390/cells11081325",
+  "title": "Towards Kinase Inhibitor Therapies for Fragile X Syndrome: Tweaking Twists in the Autism Spectrum Kinase Signaling Network",
+  "authors": "D'Incal C, Broos J, Torfs T, Kooy RF, Vanden Berghe W",
+  "journal": "Cells",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Absence of the Fragile X Messenger Ribonucleoprotein 1 (FMRP) causes autism spectrum disorders and intellectual disability, commonly referred to as the Fragile X syndrome. FMRP is a negative regulator of protein translation and is essential for neuronal development and synapse formation. FMRP is a target for several post-translational modifications (PTMs) such as phosphorylation and methylation, which tightly regulate its cellular functions. Studies have indicated the involvement of FMRP in a multitude of cellular pathways, and an absence of FMRP was shown to affect several neurotransmitter receptors, for example, the GABA receptor and intracellular signaling molecules such as Akt, ERK, mTOR, and GSK3. Interestingly, many of these molecules function as protein kinases or phosphatases and thus are potentially amendable by pharmacological treatment. Several treatments acting on these kinase-phosphatase systems have been shown to be successful in preclinical models; however, they have failed to convincingly show any improvements in clinical trials. In this review, we highlight the different protein kinase and phosphatase studies that have been performed in the Fragile X syndrome. In our opinion, some of the paradoxical study conclusions are potentially due to the lack of insight into integrative kinase signaling networks in the disease. Quantitative proteome analyses have been performed in several models for the FXS to determine global molecular processes in FXS. However, only one phosphoproteomics study has been carried out inknock-out mouse embryonic fibroblasts, and it showed dysfunctional protein kinase and phosphatase signaling hubs in the brain. This suggests that the further use of phosphoproteomics approaches in Fragile X syndrome holds promise for identifying novel targets for kinase inhibitor therapies.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Absence of the Fragile X Messenger Ribonucleoprotein 1 (FMRP) causes autism spectrum disorders and intellectual disability, commonly referred to as the Fragile X syndrome. FMRP is a negative regulator of protein translation and is essential for neuronal development and synapse formation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35456004/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Fibroblasts",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Glycogen Synthase Kinase 3",
+    "Mice",
+    "Phosphoric Monoester Hydrolases"
+  ],
+  "keywords": [
+    "autism",
+    "fragile X syndrome",
+    "intellectual disability",
+    "phosphoproteomics",
+    "phosphorylation",
+    "protein kinases"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

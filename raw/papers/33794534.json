@@ -1,0 +1,42 @@
+{
+  "pmid": "33794534",
+  "doi": "10.1159/000515264",
+  "title": "A Role for Vasoactive Intestinal Peptide Interneurons in Neurodevelopmental Disorders",
+  "authors": "Goff KM, Goldberg EM",
+  "journal": "Developmental neuroscience",
+  "date": "2021-04",
+  "source": "pubmed",
+  "abstract": "GABAergic inhibitory interneurons of the cerebral cortex expressing vasoactive intestinal peptide (VIP-INs) are rapidly emerging as important regulators of network dynamics and normal circuit development. Several recent studies have also identified VIP-IN dysfunction in models of genetically determined neurodevelopmental disorders (NDDs). In this article, we review the known circuit functions of VIP-INs and how they may relate to accumulating evidence implicating VIP-INs in the mechanisms of prominent NDDs. We highlight recurring VIP-IN-mediated circuit motifs that are shared across cerebral cortical areas and how VIP-IN activity can shape sensory input, development, and behavior. Ultimately, we extract a set of themes that inform our understanding of how VIP-INs influence pathogenesis of NDDs. Using publicly available single-cell RNA sequencing data from the Allen Institute, we also identify several underexplored disease-associated genes that are highly expressed in VIP-INs. We survey these genes and their shared related disease phenotypes that may broadly implicate VIP-INs in autism spectrum disorder and intellectual disability rather than epileptic encephalopathy. Finally, we conclude with a discussion of the relevance of cell type-specific investigations and therapeutics in the age of genomic diagnosis and targeted therapeutics.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "GABAergic inhibitory interneurons of the cerebral cortex expressing vasoactive intestinal peptide (VIP-INs) are rapidly emerging as important regulators of network dynamics and normal circuit development. Several recent studies have also identified VIP-IN dysfunction in models of genetically determined neurodevelopmental disorders (NDDs).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33794534/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Cerebral Cortex",
+    "Humans",
+    "Interneurons",
+    "Vasoactive Intestinal Peptide"
+  ],
+  "keywords": [
+    "Autism",
+    "Epilepsy",
+    "Interneurons",
+    "Vasoactive intestinal peptide"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

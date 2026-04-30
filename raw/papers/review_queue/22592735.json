@@ -1,0 +1,45 @@
+{
+  "pmid": "22592735",
+  "doi": "10.1002/14651858.CD009043.pub2",
+  "title": "Aripiprazole for autism spectrum disorders (ASD)",
+  "authors": "Ching H, Pringsheim T",
+  "journal": "The Cochrane database of systematic reviews",
+  "date": "2012-05",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) include Autistic Disorder, Asperger's Disorder and Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS). Irritability related to ASD has been treated with antipsychotics. Aripiprazole, a third generation atypical antipsychotic, is a relatively new drug that has a unique mechanism of action different from other antipsychotics.\n\nTo determine the safety and efficacy of aripiprazole for individuals with ASD.\n\nWe searched the following databases on 4th May 2011: Cochrane Central Register of Controlled Trials (CENTRAL) (2011, Issue 2), MEDLINE (1948 to April Week 3 2011), EMBASE (1980 to 2011 Week 17), PsycINFO (1887 to current), CINAHL (1937 to current), WorldCat, ZETOC, Autism Data, Conference Proceedings Index-S, Conference Proceedings Index -SSH, ClinicalTrials.gov, and WHO ICTRP. We searched for records published in 1990 or later, as this was the year aripiprazole became available.\n\nRandomized controlled trials of aripiprazole versus placebo for the treatment of individuals with a diagnosis of ASD.\n\nTwo review authors independently collected, evaluated, and analyzed data. We performed meta-analysis for primary and secondary outcomes, when possible.\n\nTwo randomized controlled trials with similar methodology have evaluated the use of aripiprazole for a duration of eight weeks in 316 children with ASD. The included trials had a low risk of bias. Although we searched for studies across age groups, only studies in children and youths were found. Meta-analysis of study results revealed a mean improvement of 6.17 points on the Aberrant Behavior Checklist (ABC) irritability subscale, 7.93 points on the ABC hyperactivity subscale, and 2.66 points in the stereotypy subscale in children treated with aripiprazole relative to children treated with a placebo. In terms of adverse side effects, children treated with aripiprazole had a greater increase in weight with a mean increase of 1.13 kg relative to placebo, and had a higher risk ratio for sedation (RR 4.28) and tremor (RR 10.26).\n\nEvidence from two randomized controlled trials suggests that aripiprazole can be effective in treating some behavioral aspects of ASD in children. After treatment with aripiprazole, children showed less irritability, hyperactivity, and stereotypies (repetitive, purposeless actions). Notable side effects must be considered, however, such as weight gain, sedation, drooling, and tremor. Longer studies of aripiprazole in individuals with ASD would be useful to gain information on long-term safety and efficacy.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) include Autistic Disorder, Asperger's Disorder and Pervasive Developmental Disorder Not Otherwise Specified (PDD-NOS). Irritability related to ASD has been treated with antipsychotics.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22592735/",
+  "mesh_terms": [
+    "Adolescent",
+    "Antipsychotic Agents",
+    "Aripiprazole",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Female",
+    "Humans",
+    "Hyperkinesis",
+    "Irritable Mood",
+    "Male",
+    "Piperazines",
+    "Quinolones",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ]
+}

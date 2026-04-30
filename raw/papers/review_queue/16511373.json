@@ -1,0 +1,57 @@
+{
+  "pmid": "16511373",
+  "doi": "10.1097/00004703-200602000-00012",
+  "title": "Lessons from fragile X regarding neurobiology, autism, and neurodegeneration",
+  "authors": "Hagerman RJ",
+  "journal": "Journal of developmental and behavioral pediatrics : JDBP",
+  "date": "2006-02",
+  "source": "pubmed",
+  "abstract": "The fragile X mental retardation 1 gene (FMR1) mutation causes two disorders: fragile X syndrome (FXS) in those with the full mutation and the fragile X-associated tremor/ataxia syndrome (FXTAS) in some older individuals with the premutation. FXS is caused by a deficiency of the FMR1 protein (FMRP) leading to dysregulation of many genes that create a phenotype with ADHD, anxiety, and autism. FXTAS is caused by the elevation of FMR1-mRNA to levels 2 to 8 times normal in the premutation. This causes an RNA gain of function toxicity leading to brain atrophy, white matter disease, neuronal and astrocytic inclusion formation, and subsequent ataxia, intention tremor, peripheral neuropathy, and cognitive decline. The neurobiology and pathophysiology of FXS and FXTAS are described in detail.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "The fragile X mental retardation 1 gene (FMR1) mutation causes two disorders: fragile X syndrome (FXS) in those with the full mutation and the fragile X-associated tremor/ataxia syndrome (FXTAS) in some older individuals with the premutation. FXS is caused by a deficiency of the FMR1 protein (FMRP) leading to dysregulation of many genes that create a phenotype with ADHD, anxiety, and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16511373/",
+  "mesh_terms": [
+    "Adult",
+    "Alleles",
+    "Animals",
+    "Anxiety Disorders",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "DNA Mutational Analysis",
+    "Disease Models, Animal",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Genetic Carrier Screening",
+    "Genetic Counseling",
+    "Genetic Testing",
+    "Heredodegenerative Disorders, Nervous System",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Pedigree",
+    "Phenotype",
+    "RNA, Messenger",
+    "Trinucleotide Repeats"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

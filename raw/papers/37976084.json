@@ -1,0 +1,41 @@
+{
+  "pmid": "37976084",
+  "doi": "10.2196/52377",
+  "title": "App Characteristics and Accuracy Metrics of Available Digital Biomarkers for Autism: Scoping Review",
+  "authors": "Ponzo S, May M, Tamayo-Elizalde M, Bailey K, Shand AJ, Bamford R, et al.",
+  "journal": "JMIR mHealth and uHealth",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Diagnostic delays in autism are common, with the time to diagnosis being up to 3 years from the onset of symptoms. Such delays have a proven detrimental effect on individuals and families going through the process. Digital health products, such as mobile apps, can help close this gap due to their scalability and ease of access. Further, mobile apps offer the opportunity to make the diagnostic process faster and more accurate by providing additional and timely information to clinicians undergoing autism assessments.\n\nThe aim of this scoping review was to synthesize the available evidence about digital biomarker tools to aid clinicians, researchers in the autism field, and end users in making decisions as to their adoption within clinical and research settings.\n\nWe conducted a structured literature search on databases and search engines to identify peer-reviewed studies and regulatory submissions that describe app characteristics, validation study details, and accuracy and validity metrics of commercial and research digital biomarker apps aimed at aiding the diagnosis of autism.\n\nWe identified 4 studies evaluating 4 products: 1 commercial and 3 research apps. The accuracy of the identified apps varied between 28% and 80.6%. Sensitivity and specificity also varied, ranging from 51.6% to 81.6% and 18.5% to 80.5%, respectively. Positive predictive value ranged from 20.3% to 76.6%, and negative predictive value fluctuated between 48.7% and 97.4%. Further, we found a lack of details around participants' demographics and, where these were reported, important imbalances in sex and ethnicity in the studies evaluating such products. Finally, evaluation methods as well as accuracy and validity metrics of available tools were not clearly reported in some cases and varied greatly across studies. Different comparators were also used, with some studies validating their tools against the Diagnostic and Statistical Manual of Mental Disorders criteria and others through self-reported measures. Further, while in most cases, 2 classes were used for algorithm validation purposes, 1 of the studies reported a third category (indeterminate). These discrepancies substantially impact the comparability and generalizability of the results, thus highlighting the need for standardized validation processes and the reporting of findings.\n\nDespite their popularity, systematic evaluations and syntheses of the current state of the art of digital health products are lacking. Standardized and transparent evaluations of digital health tools in diverse populations are needed to assess their real-world usability and validity, as well as help researchers, clinicians, and end users safely adopt novel tools within clinical and research practices.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Diagnostic delays in autism are common, with the time to diagnosis being up to 3 years from the onset of symptoms. Such delays have a proven detrimental effect on individuals and families going through the process.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37976084/",
+  "mesh_terms": [
+    "Humans",
+    "Mobile Applications",
+    "Autistic Disorder",
+    "Algorithms"
+  ],
+  "keywords": [
+    "autism",
+    "diagnostics",
+    "digital biomarkers",
+    "digital health",
+    "mobile apps",
+    "neurodevelopmental conditions"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Scoping Review"
+  ]
+}

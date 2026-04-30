@@ -1,0 +1,53 @@
+{
+  "pmid": "25181011",
+  "doi": "10.1002/0471141755.ph0566s66",
+  "title": "Overview of mouse models of autism spectrum disorders",
+  "authors": "Bey AL, Jiang YH",
+  "journal": "Current protocols in pharmacology",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "This overview describes many well characterized mouse models of autism spectrum disorders (ASDs). Mouse models considered here were selected because they are examples of genetically engineered models where human genetic evidence supports a causative relationship between the targeted mutation and the behavioral phenotype. As the ASD diagnosis is based primarily on behavioral evaluations in humans in the domains of social interaction, communication, and restricted interests, the murine phenotypes analogous to human autistic behaviors are highlighted for the different models and behaviors. Although genetically engineered mouse models with good construct and face validity are valuable for identifying and defining underlying pathophysiological mechanisms and for developing potential therapeutic interventions for the human condition, the translational value of various rodent behavioral assays remains a subject of debate. Significant challenges associated with modeling ASDs in rodents because of the clinical and molecular heterogeneity that characterize this disorder are also considered.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "This overview describes many well characterized mouse models of autism spectrum disorders (ASDs). Mouse models considered here were selected because they are examples of genetically engineered models where human genetic evidence supports a causative relationship between the targeted mutation and the behavioral phenotype.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25181011/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Disease Models, Animal",
+    "Fragile X Syndrome",
+    "Hamartoma Syndrome, Multiple",
+    "Long QT Syndrome",
+    "Mice",
+    "Mice, Mutant Strains",
+    "Mice, Transgenic",
+    "Rett Syndrome",
+    "Syndactyly",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "ASDs",
+    "autism spectrum disorders",
+    "behavior",
+    "genetically engineered",
+    "mouse models",
+    "therapeutic interventions"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

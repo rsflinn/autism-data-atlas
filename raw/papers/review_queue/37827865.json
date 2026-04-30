@@ -1,0 +1,36 @@
+{
+  "pmid": "37827865",
+  "doi": "10.1016/j.pmn.2023.08.003",
+  "title": "Evaluation of Pain During Endotracheal Aspiration in Intensive Care Patients Diagnosed with COVID-19",
+  "authors": "Eti Aslan F, &#xc7;inar F, Hayat D",
+  "journal": "Pain management nursing : official journal of the American Society of Pain Management Nurses",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Endotracheal aspiration, a procedure that is particularly painful for intensive care patients, has received little attention in terms of pain evaluation specifically among intubated patients with COVID-19 in intensive care.\n\nThe study aims to assess the level of pain experienced by intubated intensive care patients diagnosed with COVID-19 during an endotracheal aspiration procedure.\n\nThe study population was composed of patients admitted to the COVID-19 intensive care unit of the specified hospital between February and March 2021. Of the 56 patients admitted during that period, 47 were contacted and participated in the study. These 47 intubated and sedated patients were evaluated for 94 different expressions of pain during endotracheal aspiration twice a day before and during the procedure. Data were collected using the patient descriptive information form, the Non-Verbal Pain Scale for adults and data observation record form.\n\nIn the study, pain behavior was observed in 54.2% (n&#xa0;=&#xa0;51) of the 94 observations. The patients were found to experience mild pain with an average score of 3.6 &#xb1; 1.07 on the Non-Verbal Pain Scale. The mean pain score before the procedure was found to be significantly different from the mean pain score during the procedure (p < .05), with an increase in pain during the procedure. During the procedure, 33.3% (n&#xa0;=&#xa0;17) of the patients had a 10% decreased SpO, and 29.4% (n&#xa0;=&#xa0;15) had an increase in systolic blood pressure (>20), pulse (>20), and respiration (>10). Additionally, 21.5% (n&#xa0;=&#xa0;11) of the patients experienced severe incompatibility with the ventilator, and 15.68% had muscle tension.\n\nThe study findings showed that nonverbal pain scores of sedated and intubated intensive care patients diagnosed with COVID-19 increased during endotracheal aspiration, accompanied by physiologic pain indicators. Effective pain management should be a priority for nurses. It is important to remember that patients with COVID-19 in the intensive care unit may experience pain while sedated and intubated. A holistic approach should be adopted for the evaluation and relief of pain in these patients. Intensive care nurses should consider physiologic and nonverbal behavioral pain indicators when evaluating pain in patients diagnosed with COVID-19.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Endotracheal aspiration, a procedure that is particularly painful for intensive care patients, has received little attention in terms of pain evaluation specifically among intubated patients with COVID-19 in intensive care. The study aims to assess the level of pain experienced by intubated intensive care patients diagnosed with COVID-19 during an endotracheal aspiration procedure.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37827865/",
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "COVID-19",
+    "Pain",
+    "Critical Care",
+    "Intensive Care Units",
+    "Pain Management"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

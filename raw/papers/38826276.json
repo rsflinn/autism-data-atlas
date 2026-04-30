@@ -1,0 +1,36 @@
+{
+  "pmid": "38826276",
+  "doi": "10.1101/2024.05.22.595175",
+  "title": "Cell-type-specific effects of autism-associated chromosome 15q11.2-13.1 duplications in human brain",
+  "authors": "Dias C, Mo A, Cai C, Sun L, Cabral K, Brownstein CA, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Recurrent copy number variation represents one of the most well-established genetic drivers in neurodevelopmental disorders, including autism spectrum disorder (ASD). Duplication of 15q11.2-13.1 (dup15q) is a well-described neurodevelopmental syndrome that increases the risk of ASD by over 40-fold. However, the effects of this duplication on gene expression and chromatin accessibility in specific cell types in the human brain remain unknown. To identify the cell-type-specific transcriptional and epigenetic effects of dup15q in the human frontal cortex we conducted single-nucleus RNA-sequencing and multi-omic sequencing on dup15q cases (n=6) as well as non-dup15q ASD (n=7) and neurotypical controls (n=7). Cell-type-specific differential expression analysis identified significantly regulated genes, critical biological pathways, and differentially accessible genomic regions. Although there was overall increased gene expression across the duplicated genomic region, cellular identity represented an important factor mediating gene expression changes. Neuronal subtypes, showed greater upregulation of gene expression across a critical region within the duplication as compared to other cell types. Genes within the duplicated region that had high baseline expression in control individuals showed only modest changes in dup15q, regardless of cell type. Of note, dup15q and ASD had largely distinct signatures of chromatin accessibility, but shared the majority of transcriptional regulatory motifs, suggesting convergent biological pathways. However, the transcriptional binding factor motifs implicated in each condition implicated distinct biological mechanisms; neuronal JUN/FOS networks in ASD vs. an inflammatory transcriptional network in dup15q microglia. This work provides a cell-type-specific analysis of how dup15q changes gene expression and chromatin accessibility in the human brain and finds evidence of marked cell-type-specific effects of this genetic driver. These findings have implications for guiding therapeutic development in dup15q syndrome, as well as understanding the functional effects CNVs more broadly in neurodevelopmental disorders.",
+  "relevance_score": 29,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Recurrent copy number variation represents one of the most well-established genetic drivers in neurodevelopmental disorders, including autism spectrum disorder (ASD). Duplication of 15q11.2-13.1 (dup15q) is a well-described neurodevelopmental syndrome that increases the risk of ASD by over 40-fold.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38826276/",
+  "mesh_terms": [],
+  "keywords": [
+    "ATAC-seq",
+    "autism",
+    "copy number variant",
+    "dup15q",
+    "neurodevelopment",
+    "snRNA-seq"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

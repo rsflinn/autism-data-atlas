@@ -1,0 +1,43 @@
+{
+  "pmid": "34793435",
+  "doi": "10.1371/journal.pcbi.1009477",
+  "title": "The meaning of significant mean group differences for biomarker discovery",
+  "authors": "Loth E, Ahmad J, Chatham C, L&#xf3;pez B, Carter B, Crawley D, et al.",
+  "journal": "PLoS computational biology",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Over the past decade, biomarker discovery has become a key goal in psychiatry to aid in the more reliable diagnosis and prognosis of heterogeneous psychiatric conditions and the development of tailored therapies. Nevertheless, the prevailing statistical approach is still the mean group comparison between \"cases\" and \"controls,\" which tends to ignore within-group variability. In this educational article, we used empirical data simulations to investigate how effect size, sample size, and the shape of distributions impact the interpretation of mean group differences for biomarker discovery. We then applied these statistical criteria to evaluate biomarker discovery in one area of psychiatric research-autism research. Across the most influential areas of autism research, effect size estimates ranged from small (d = 0.21, anatomical structure) to medium (d = 0.36 electrophysiology, d = 0.5, eye-tracking) to large (d = 1.1 theory of mind). We show that in normal distributions, this translates to approximately 45% to 63% of cases performing within 1 standard deviation (SD) of the typical range, i.e., they do not have a deficit/atypicality in a statistical sense. For a measure to have diagnostic utility as defined by 80% sensitivity and 80% specificity, Cohen's d of 1.66 is required, with still 40% of cases falling within 1 SD. However, in both normal and nonnormal distributions, 1 (skewness) or 2 (platykurtic, bimodal) biologically plausible subgroups may exist despite small or even nonsignificant mean group differences. This conclusion drastically contrasts the way mean group differences are frequently reported. Over 95% of studies omitted the \"on average\" when summarising their findings in their abstracts (\"autistic people have deficits in X\"), which can be misleading as it implies that the group-level difference applies to all individuals in that group. We outline practical approaches and steps for researchers to explore mean group comparisons for the discovery of stratification biomarkers.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Over the past decade, biomarker discovery has become a key goal in psychiatry to aid in the more reliable diagnosis and prognosis of heterogeneous psychiatric conditions and the development of tailored therapies. Nevertheless, the prevailing statistical approach is still the mean group comparison between \"cases\" and \"controls,\" which tends to ignore within-group variability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34793435/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Biomarkers",
+    "Case-Control Studies",
+    "Computational Biology",
+    "Computer Simulation",
+    "Humans",
+    "Individuality",
+    "Mental Disorders",
+    "Neurodevelopmental Disorders",
+    "Neuropsychiatry",
+    "Neuropsychology",
+    "Normal Distribution",
+    "Sample Size"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

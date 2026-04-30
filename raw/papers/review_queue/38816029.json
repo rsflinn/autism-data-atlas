@@ -1,0 +1,43 @@
+{
+  "pmid": "38816029",
+  "doi": "10.1503/jpn.230125",
+  "title": "Oxytocin neurons in the paraventricular nucleus and fear empathy among male mice",
+  "authors": "Zhang L, Chen HC, Li B, Cao JX, Su XM, Kang YT, et al.",
+  "journal": "Journal of psychiatry & neuroscience : JPN",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Recent studies have identified empathy deficit as a core impairment and diagnostic criterion for people with autism spectrum disorders; however, the improvement of empathy focuses primarily on behavioural interventions without the target regulation. We sought to compare brain regions associated with empathy-like behaviours of fear and pain, and to explore the role of the oxytocin-oxytocin receptor system in fear empathy.\n\nWe used C57BL mice to establish 2 models of fear empathy and pain empathy. We employed immunofluorescence histochemical techniques to observe the expression of c-Fos throughout the entire brain and subsequently quantified the number of c-Fos-positive cells in different brain regions. Furthermore, we employed chemogenetic technology to selectively manipulate these neurons in Oxt-Cremice to identify the role of oxytocin in this process.\n\nThe regions activated by fear empathy were the anterior cingulate cortex, basolateral amygdala, nucleus accumbens, paraventricular nucleus (PVN), lateral habenula, and ventral and dorsal hippocampus. The regions activated by pain empathy were the anterior cingulate cortex, basolateral amygdala, nucleus accumbens, and lateral habenula. We found that increasing the activity of oxytocin neurons in the PVN region enhanced the response to fear empathy. This enhancement may be mediated through oxytocin receptors.\n\nThis study included only male animals, which restricts the broader interpretation of the findings. Further investigations on circuit function need to be conducted.\n\nThe brain regions implicated in the regulation of fear and pain empathy exhibit distinctions; the activity of PVN neurons was positively correlated with empathic behaviour in mice. These findings highlight the role of the PVN oxytocin pathway in regulating fear empathy and suggest the importance of oxytocin signalling in mediating empathetic responses.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Recent studies have identified empathy deficit as a core impairment and diagnostic criterion for people with autism spectrum disorders; however, the improvement of empathy focuses primarily on behavioural interventions without the target regulation. We sought to compare brain regions associated with empathy-like behaviours of fear and pain, and to explore the role of the oxytocin-oxytocin receptor system in fear empathy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38816029/",
+  "mesh_terms": [
+    "Animals",
+    "Oxytocin",
+    "Male",
+    "Paraventricular Hypothalamic Nucleus",
+    "Fear",
+    "Empathy",
+    "Mice, Inbred C57BL",
+    "Neurons",
+    "Mice",
+    "Receptors, Oxytocin",
+    "Proto-Oncogene Proteins c-fos",
+    "Pain",
+    "Mice, Transgenic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

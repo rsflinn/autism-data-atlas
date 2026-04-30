@@ -1,0 +1,47 @@
+{
+  "pmid": "34048549",
+  "doi": "10.1093/brain/awab173",
+  "title": "PTEN somatic mutations contribute to spectrum of cerebral overgrowth",
+  "authors": "Koboldt DC, Miller KE, Miller AR, Bush JM, McGrath S, Leraas K, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Phosphatase and tensin homologue (PTEN) regulates cell growth and survival through inhibition of the mammalian target of rapamycin (MTOR) signalling pathway. Germline genetic variation of PTEN is associated with autism, macrocephaly and PTEN hamartoma tumour syndromes. The effect of developmental PTEN somatic mutations on nervous system phenotypes is not well understood, although brain somatic mosaicism of MTOR pathway genes is an emerging cause of cortical dysplasia and epilepsy in the paediatric population. Here we report two somatic variants of PTEN affecting a single patient presenting with intractable epilepsy and hemimegalencephaly that varied in clinical severity throughout the left cerebral hemisphere. High-throughput sequencing analysis of affected brain tissue identified two somatic variants in PTEN. The first variant was present in multiple cell lineages throughout the entire hemisphere and associated with mild cerebral overgrowth. The second variant was restricted to posterior brain regions and affected the opposite PTEN allele, resulting in a segmental region of more severe malformation, and the only neurons in which it was found by single-nuclei RNA-sequencing had a unique disease-related expression profile. This study reveals brain mosaicism of PTEN as a disease mechanism of hemimegalencephaly and furthermore demonstrates the varying effects of single- or bi-allelic disruption of PTEN on cortical phenotypes.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "Phosphatase and tensin homologue (PTEN) regulates cell growth and survival through inhibition of the mammalian target of rapamycin (MTOR) signalling pathway. Germline genetic variation of PTEN is associated with autism, macrocephaly and PTEN hamartoma tumour syndromes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34048549/",
+  "mesh_terms": [
+    "Cerebral Cortex",
+    "Genetic Variation",
+    "Hemimegalencephaly",
+    "Humans",
+    "Infant",
+    "Male",
+    "Mutation",
+    "PTEN Phosphohydrolase"
+  ],
+  "keywords": [
+    "brain development",
+    "epilepsy",
+    "hemimegalencephaly (HME)",
+    "somatic mosaicism"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

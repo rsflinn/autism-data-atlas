@@ -1,0 +1,46 @@
+{
+  "pmid": "35852003",
+  "doi": "10.1002/mgg3.2001",
+  "title": "Descriptive analysis of seizures and comorbidities associated with fragile X syndrome",
+  "authors": "Albizua I, Charen K, Shubeck L, Talboy A, Berry-Kravis E, Kaufmann WE, et al.",
+  "journal": "Molecular genetics & genomic medicine",
+  "date": "2022-07",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome is characterized by a myriad of physical features, behavioral features, and medical problems. Commonly found behavioral features are hyperactivity, anxiety, socialization difficulties, and ASD. There is also a higher incidence than in the general population of strabismus, otitis media, and mitral valve prolapse. In addition, one of the most common medical problems associated with FXS is an increased risk of seizures. A subset of individuals carrying the full mutation of the FMR1 gene and diagnosed with fragile X syndrome (FXS) are reported to experience seizures, mostly during the first 10&#x2009;years of their life span.\n\nAs part of a larger project to identify genetic variants that modify the risk of seizures, we collected clinical information from 49 carriers with FXS who experienced seizures and 46 without seizures. We compared seizure type and comorbid conditions based on the source of data as well as family history of seizures.\n\nWe found that the concordance of seizure types observed by parents and medical specialists varied by type of seizure. The most common comorbid condition among those with seizures was autism spectrum disorder (47% per medical records vs. 33% per parent report compared with 19% among those without seizures per parent report); the frequency of other comorbid conditions did not differ among groups. We found a slightly higher frequency of family members who experienced seizures among the seizure group compared with the nonseizure group.\n\nThis study confirms previously reported features of seizures in FXS, supports additional genetic factors, and highlights the importance of information sources, altogether contributing to a better understanding of seizures in FXS.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome is characterized by a myriad of physical features, behavioral features, and medical problems. Commonly found behavioral features are hyperactivity, anxiety, socialization difficulties, and ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35852003/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Comorbidity",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Mitral Valve Prolapse",
+    "Seizures"
+  ],
+  "keywords": [
+    "ADHD",
+    "autism spectrum disorder",
+    "epilepsy",
+    "fragile X syndrome",
+    "seizures"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, P.H.S."
+  ]
+}

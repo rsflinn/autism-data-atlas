@@ -1,0 +1,56 @@
+{
+  "pmid": "27663742",
+  "doi": "10.1073/pnas.1610812113",
+  "title": "Elevated ERK/p90 ribosomal S6 kinase activity underlies audiogenic seizure susceptibility in fragile X mice",
+  "authors": "Sawicka K, Pyronneau A, Chao M, Bennett MV, Zukin RS",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common heritable cause of intellectual disability and a leading genetic form of autism. The Fmr1 KO mouse, a model of FXS, exhibits elevated translation in the hippocampus and the cortex. ERK (extracellular signal-regulated kinase) and mTOR (mechanistic target of rapamycin) signaling regulate protein synthesis by activating downstream targets critical to translation initiation and elongation and are known to contribute to hippocampal defects in fragile X. Here we show that the effect of loss of fragile X mental retardation protein (FMRP) on these pathways is brain region specific. In contrast to the hippocampus, ERK (but not mTOR) signaling is elevated in the neocortex of fragile X mice. Phosphorylation of ribosomal protein S6, typically a downstream target of mTOR, is elevated in the neocortex, despite normal mTOR activity. This is significant in that S6 phosphorylation facilitates translation, correlates with neuronal activation, and is altered in neurodevelopmental disorders. We show that in fragile X mice, S6 is regulated by ERK via the \"alternative\" S6 kinase p90-ribosomal S6 kinase (RSK), as evidenced by the site of elevated phosphorylation and the finding that ERK inhibition corrects elevated RSK and S6 activity. These findings indicate that signaling networks are altered in the neocortex of fragile X mice such that S6 phosphorylation receives aberrant input from ERK/RSK. Importantly, an RSK inhibitor reduces susceptibility to audiogenic seizures in fragile X mice. Our findings identify RSK as a therapeutic target for fragile X and suggest the therapeutic potential of drugs for the treatment of FXS may vary in a brain-region-specific manner.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the most common heritable cause of intellectual disability and a leading genetic form of autism. The Fmr1 KO mouse, a model of FXS, exhibits elevated translation in the hippocampus and the cortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27663742/",
+  "mesh_terms": [
+    "Animals",
+    "Cerebral Cortex",
+    "DNA-Binding Proteins",
+    "Disease Models, Animal",
+    "Epilepsy, Reflex",
+    "Extracellular Signal-Regulated MAP Kinases",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Mice",
+    "Mice, Knockout",
+    "Neurons",
+    "Phosphatidylinositol 3-Kinases",
+    "Phosphorylation",
+    "Ribosomal Protein S6 Kinases, 90-kDa",
+    "Seizures",
+    "Signal Transduction",
+    "Synapses",
+    "TOR Serine-Threonine Kinases",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "FMRP",
+    "RSK",
+    "autism",
+    "intellectual disability",
+    "mTOR"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

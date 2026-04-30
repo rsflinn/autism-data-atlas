@@ -1,0 +1,46 @@
+{
+  "pmid": "31161490",
+  "doi": "10.1007/s13311-019-00743-2",
+  "title": "Molecular Signatures of the Aging Brain: Finding the Links Between Genes and Phenotypes",
+  "authors": "Lupo G, Gaetani S, Cacci E, Biagioni S, Negri R",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "date": "2019-07",
+  "source": "pubmed",
+  "abstract": "Aging is associated with cognitive decline and increased vulnerability to neurodegenerative diseases. The progressive extension of the average human lifespan is bound to lead to a corresponding increase in the fraction of cognitively impaired elderly individuals among the human population, with an enormous societal and economic burden. At the cellular and tissue levels, cognitive decline is linked to a reduction in specific neuronal subpopulations, a widespread decrease in synaptic plasticity and an increase in neuroinflammation due to an enhanced activation of astrocytes and microglia, but the molecular mechanisms underlying these functional changes during normal aging and in neuropathological conditions remain poorly understood. In this review, we summarize very recent and outstanding progress in elucidating the molecular changes associated with cognitive decline through the genome-wide profiling of aging brain cells at different molecular levels (genomic, epigenomic, transcriptomic, proteomic). We discuss how the correlation of different molecular and phenotypic traits driven by mathematical and computational analyses of large datasets has led to the prediction of key molecular nodes of neurodegenerative pathways, and provide a few examples of candidate regulators of cognitive decline identified with these approaches. Furthermore, we highlight the dysregulation of the synaptic transcriptome in neuronal cells and of the inflammatory transcriptome in glial cells as some of the key events during normal and neuropathological human brain aging.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Aging is associated with cognitive decline and increased vulnerability to neurodegenerative diseases. The progressive extension of the average human lifespan is bound to lead to a corresponding increase in the fraction of cognitively impaired elderly individuals among the human population, with an enormous societal and economic burden.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31161490/",
+  "mesh_terms": [
+    "Aging",
+    "Animals",
+    "Brain",
+    "Cognitive Aging",
+    "Epigenomics",
+    "Gene Expression Profiling",
+    "Genetic Association Studies",
+    "Humans",
+    "Neurodegenerative Diseases"
+  ],
+  "keywords": [
+    "Aging",
+    "Brain",
+    "Cognitive decline",
+    "DNA methylation",
+    "Gene expression",
+    "Histone acetylation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

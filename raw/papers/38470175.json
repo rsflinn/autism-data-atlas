@@ -1,0 +1,58 @@
+{
+  "pmid": "38470175",
+  "doi": "10.1111/epi.17913",
+  "title": "Comprehensive phenotypes of patients with SYNGAP1-related disorder reveals high rates of epilepsy and autism",
+  "authors": "Wiltrout K, Brimble E, Poduri A",
+  "journal": "Epilepsia",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "To delineate the comprehensive phenotypic spectrum of SYNGAP1-related disorder in a large patient cohort aggregated through a digital registry.\n\nWe obtained de-identified patient data from an online registry. Data were extracted from uploaded medical records. We reclassified all SYNGAP1 variants using American College of Medical Genetics criteria and included patients with pathogenic/likely pathogenic (P/LP) single nucleotide variants or microdeletions incorporating SYNGAP1. We analyzed neurodevelopmental phenotypes, including epilepsy, intellectual disability (ID), autism spectrum disorder (ASD), behavioral disorders, and gait dysfunction for all patients with respect to variant type and location within the SynGAP1 protein.\n\nWe identified 147 patients (50% male, median age 8 years) with P/LP SYNGAP1 variants from 151 individuals with data available through the database. One hundred nine were truncating variants and 22 were missense. All patients were diagnosed with global developmental delay (GDD) and/or ID, and 123 patients (84%) were diagnosed with epilepsy. Of those with epilepsy, 73% of patients had GDD diagnosed before epilepsy was diagnosed. Other prominent features included autistic traits (n = 100, 68%), behavioral problems (n = 100, 68%), sleep problems (n = 90, 61%), anxiety (n = 35, 24%), ataxia or abnormal gait (n = 69, 47%), sensory problems (n = 32, 22%), and feeding difficulties (n = 69, 47%). Behavioral problems were more likely in those patients diagnosed with anxiety (odds ratio [OR] 3.6, p = .014) and sleep problems (OR 2.41, p = .015) but not necessarily those with autistic traits. Patients with variants in exons 1-4 were more likely to have the ability to speak in phrases vs those with variants in exons 5-19, and epilepsy occurred less frequently in patients with variants in the SH3 binding motif.\n\nWe demonstrate that the data obtained from a digital registry recapitulate earlier but smaller studies of SYNGAP1-related disorder and add additional genotype-phenotype relationships, validating the use of the digital registry. Access to data through digital registries broadens the possibilities for efficient data collection in rare diseases.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "To delineate the comprehensive phenotypic spectrum of SYNGAP1-related disorder in a large patient cohort aggregated through a digital registry. We obtained de-identified patient data from an online registry.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38470175/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Child",
+    "Epilepsy",
+    "ras GTPase-Activating Proteins",
+    "Phenotype",
+    "Child, Preschool",
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Registries",
+    "Intellectual Disability",
+    "Adult",
+    "Young Adult",
+    "Developmental Disabilities",
+    "Infant",
+    "Cohort Studies",
+    "Autistic Disorder"
+  ],
+  "keywords": [
+    "SYNGAP1",
+    "developmental and epileptic encephalopathy",
+    "epilepsy with eyelid myoclonia",
+    "epilepsy with myoclonic&#x2013;atonic seizures",
+    "genetic generalized epilepsy",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

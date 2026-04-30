@@ -1,0 +1,40 @@
+{
+  "pmid": "21970828",
+  "doi": "10.1097/MOP.0b013e32834c9282",
+  "title": "Common neurological co-morbidities in autism spectrum disorders",
+  "authors": "Maski KP, Jeste SS, Spence SJ",
+  "journal": "Current opinion in pediatrics",
+  "date": "2011-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) are heterogeneous neurodevelopmental disorders associated with various co-morbidities. Neurological co-morbidities include motor impairments, epilepsy, and sleep dysfunction. These impairments have been receiving more attention recently, perhaps because of their significant impact on the behavior and cognitive function of children with ASDs. Here, we review the epidemiology, etiology, and clinical approach to these neurological co-morbidities and highlight future research directions.\n\nMotor impairments include stereotypies, motor delays, and deficits, such as dyspraxia, incoordination, and gait problems. Sleep dysfunction typically presents as difficulty with sleep onset and prolonged awakenings during the night. Recent data suggest that abnormalities in melatonin may affect sleep and may be a potential treatment target. There is no classic epilepsy syndrome associated with ASDs. Intellectual disability, syndromic autism, and female sex are specific risk factors. Recent research has focused on identifying the overlapping pathways between these neurological co-morbidities and the core deficits in ASDs, which may have direct and powerful implications for treatment and prognosis.\n\nMotor impairment, epilepsy, and sleep dysfunction are common neurological co-morbidities in ASDs. Clinicians should be aware that recognition and treatment of these issues may improve the function and outcome of children with ASDs.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASDs) are heterogeneous neurodevelopmental disorders associated with various co-morbidities. Neurological co-morbidities include motor impairments, epilepsy, and sleep dysfunction.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21970828/",
+  "mesh_terms": [
+    "Apraxias",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Comorbidity",
+    "Epilepsy",
+    "Humans",
+    "Mental Disorders",
+    "Sleep Wake Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+  ]
+}

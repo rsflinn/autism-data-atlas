@@ -1,0 +1,52 @@
+{
+  "pmid": "34791268",
+  "doi": "10.1093/ijnp/pyab081",
+  "title": "Vorinostat Corrects Cognitive and Non-Cognitive Symptoms in a Mouse Model of Fragile X Syndrome",
+  "authors": "Ding Q, Wu X, Li X, Wang H",
+  "journal": "The international journal of neuropsychopharmacology",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is caused by mutations in the FMR1 gene. It is a form of heritable intellectual disability and autism. Despite recent advance in elucidating disease mechanisms, there is no efficacious medication. Because de novo drug development is a lengthy process, repurposing the existing FDA-approved drugs offers an opportunity to advance clinical intervention for FXS. Our previous study with transcriptome analysis predicts potential therapeutic effects of vorinostat on FXS.\n\nWe analyzed the vorinostat-induced transcriptome changes and confirmed its similarity to that induced by trifluoperazine, which was previously shown to correct pathological outcomes associated with FXS. To validate the therapeutic efficacy, we examined vorinostat's effect on correcting the key behavioral and cellular symptoms in a mouse model of FXS.\n\nWe found that vorinostat restores object location memory and passive avoidance memory in the Fmr1 knockout mice. For the non-cognitive behavioral symptoms, vorinostat corrected the autism-associated alterations, including repetitive behavior and social interaction deficits. In the open field test, vorinostat dampened hyperactivity in the center area of the arena. Surprisingly, vorinostat did not correct the abnormally elevated protein synthesis in cultured Fmr1 knockout hippocampal neurons, suggesting that different aspects of pathological outcomes may respond differently to a specific therapeutic intervention.\n\nWe used the drug-induced transcriptome signature to predict new application of existing drugs. Our data reveal the therapeutic effects of the FDA-approved drug vorinostat in a mouse model of FXS.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is caused by mutations in the FMR1 gene. It is a form of heritable intellectual disability and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34791268/",
+  "mesh_terms": [
+    "Animals",
+    "Cognition",
+    "Disease Models, Animal",
+    "Drug Repositioning",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Gene Expression Profiling",
+    "Hippocampus",
+    "Male",
+    "Mice",
+    "Mice, Knockout",
+    "Neurons",
+    "Transcriptome",
+    "Vorinostat"
+  ],
+  "keywords": [
+    "Drug repurposing",
+    "fragile X syndrome",
+    "therapeutics",
+    "transcriptome analysis",
+    "vorinostat"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

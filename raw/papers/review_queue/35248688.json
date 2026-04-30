@@ -1,0 +1,38 @@
+{
+  "pmid": "35248688",
+  "doi": "10.1016/j.clindermatol.2022.02.010",
+  "title": "The genetics and diagnosis of pediatric neurocutaneous disorders: Neurofibromatosis and tuberous sclerosis complex",
+  "authors": "Tolliver S, Smith ZI, Silverberg N",
+  "journal": "Clinics in dermatology",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "Neurofibromatosis (NF) and tuberous sclerosis complex (TSC) are the two most common neurocutaneous disorders, both transmitted as autosomal dominant or, in the case of NF, also as a mosaic condition. The causative genetic mutations in these neurocutaneous disorders can lead to benign skin changes or uninhibited growth and proliferation in multiple organ systems due to the loss of tumor suppression in mitogen-activated protein kinase and mammalian target of rapamycin signaling pathways. Common clinical features in NF include pigmented lesions, known as caf&#xe9; au lait patches, neurofibromas, intertriginous freckles (Crowe's sign), and benign fibrous growths, such as hamartomas in multiple organ systems. Common clinical features in TSC include hypopigmented macules, known as ash leaf spots, in addition to neurologic sequelae, such as autism, seizures, and developmental delays. Advances in genetic sequencing technologies have allowed an exponential expansion in the understanding of NF and TSC. Consensus criteria have been established for both diagnoses that can be confirmed in most cases through gene testing. Once diagnosed, the clinical and diagnostic value of disease-specific surveillance include early identification of benign and malignant tumors. Genetic counseling is important for informed reproductive decision-making for patients and at-risk family members. The improvement in understanding of pathways of pathogenic disease development and oncogenesis in both conditions have produced a new series of therapeutic options that can be used to control seizures and tumor growth. Tremendous advances in life expectancy and quality of life are now a reality due to early introduction of seizure control and novel medications. While we lack cures, early institution of interventions, such as seizure control in tuberous sclerosis, appears to be disease-modifying and holds immense promise to offer patients better lives.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neurofibromatosis (NF) and tuberous sclerosis complex (TSC) are the two most common neurocutaneous disorders, both transmitted as autosomal dominant or, in the case of NF, also as a mosaic condition. The causative genetic mutations in these neurocutaneous disorders can lead to benign skin changes or uninhibited growth and proliferation in multiple organ systems due to the loss of tumor suppression in mitogen-activated protein kinase and mammalian target of rapamycin signaling pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35248688/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Mitogen-Activated Protein Kinases",
+    "Neurocutaneous Syndromes",
+    "Neurofibromatosis 1",
+    "Quality of Life",
+    "Seizures",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

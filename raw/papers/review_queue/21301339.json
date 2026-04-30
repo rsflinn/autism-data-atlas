@@ -1,0 +1,44 @@
+{
+  "pmid": "21301339",
+  "doi": "10.1097/WCO.0b013e32834451c4",
+  "title": "Mechanisms of neurocognitive dysfunction and therapeutic considerations in tuberous sclerosis complex",
+  "authors": "Tsai P, Sahin M",
+  "journal": "Current opinion in neurology",
+  "date": "2011-04",
+  "source": "pubmed",
+  "abstract": "Mendelian disorders that affect cognition provide a unique opportunity to study the mechanisms of neurodevelopmental disorders through the examination of genetic defects in animals and development of hypotheses that can be tested in human beings. Tuberous sclerosis complex (TSC) is a genetic disease that presents with epilepsy, autism, and intellectual disability. Here we review recent advances in our understanding of TSC pathogenesis and signaling pathways that may be modulated to treat the neurological symptoms.\n\nAccumulating evidence suggests that TSC patients have nontuber abnormalities that contribute to the development of the neurological phenotype- in particular, disorganization of axon tracts and deficient myelination. TSC mouse models have failed to replicate the human neuropathology entirely, but have shed light on the cellular abnormalities and the neurobehavioral phenotypes. Most importantly, cell culture and animal models have identified the mTORC1 pathway as a therapeutic target in this disease.\n\nPreclinical data strongly suggest that TSC is a disease of abnormal neuronal connectivity. The high incidence of neurodevelopmental deficits, early detection of the disease in very young ages, and availability of mTORC1 inhibitors make TSC a model for other Mendelian disorders of neurocognition and an avenue for the mechanism-based treatment trials of neurodevelopmental disorders.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Mendelian disorders that affect cognition provide a unique opportunity to study the mechanisms of neurodevelopmental disorders through the examination of genetic defects in animals and development of hypotheses that can be tested in human beings. Tuberous sclerosis complex (TSC) is a genetic disease that presents with epilepsy, autism, and intellectual disability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21301339/",
+  "mesh_terms": [
+    "Abnormalities, Multiple",
+    "Animals",
+    "Cognition Disorders",
+    "Disease Models, Animal",
+    "Humans",
+    "Mechanistic Target of Rapamycin Complex 1",
+    "Multiprotein Complexes",
+    "Neurons",
+    "Proteins",
+    "Signal Transduction",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

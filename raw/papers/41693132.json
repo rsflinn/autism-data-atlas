@@ -1,0 +1,54 @@
+{
+  "pmid": "41693132",
+  "doi": "10.1016/j.braindev.2025.104479",
+  "title": "Clinical profiles of tuberous sclerosis complex: A regionally based survey",
+  "authors": "Yamada M, Natsume J, Maki Y, Ishimaru S, Numoto S, Kobayashi S, et al.",
+  "journal": "Brain & development",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "This study aimed to clarify the clinical profiles of patients with tuberous sclerosis complex (TSC) in the general population by a regionally based survey of medical facilities in a region with 7.5 million residents, and investigate differences in clinical profiles according to medical facility size and type.\n\nA survey was sent to 146 hospitals and clinics regarding clinical profiles of patients with TSC who lived in Aichi Prefecture, Japan, between 2013 and 2018. Medical facilities were classified as large hospitals (&#x2265;750 beds or a children's hospital), small hospitals (<750 beds), institutions for handicapped children, and private clinics.\n\nInformation was obtained of 232 patients (median age, 25&#xa0;years; range, 1-81&#xa0;years). Estimated prevalence of TSC was 3.1 per 100,000. Cortical tubers were present in 88&#xa0;%, epilepsy in 81&#xa0;%, autism spectrum disorder in 44&#xa0;%, and subependymal giant cell astrocytoma in 17&#xa0;%. Hypomelanotic macules, facial angiofibroma, renal angiomyolipoma, and cardiac rhabdomyoma were present in >50&#xa0;% of patients. Rates of epilepsy with frequent seizures and autism spectrum disorder were both higher in patients in institutions for handicapped children. In more than half of patients in institutions for handicapped children information on cranial MRI findings was not obtained.\n\nOur regionally based study confirmed the clinical profiles previously reported in specialized hospitals for TSC and found that clinical characteristics differed among the types and sizes of medical facilities. Multicenter information sharing and collaboration between general hospitals and institutions for handicapped children are important for the comprehensive care of patients with TSC.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "This study aimed to clarify the clinical profiles of patients with tuberous sclerosis complex (TSC) in the general population by a regionally based survey of medical facilities in a region with 7.5 million residents, and investigate differences in clinical profiles according to medical facility size and type. A survey was sent to 146 hospitals and clinics regarding clinical profiles of patients with TSC who lived in Aichi Prefecture, Japan, between 2013 and 2018.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41693132/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis",
+    "Adolescent",
+    "Child",
+    "Child, Preschool",
+    "Male",
+    "Female",
+    "Infant",
+    "Adult",
+    "Young Adult",
+    "Japan",
+    "Middle Aged",
+    "Aged",
+    "Aged, 80 and over",
+    "Surveys and Questionnaires",
+    "Epilepsy",
+    "Autism Spectrum Disorder",
+    "Prevalence"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "epidemiology",
+    "epilepsy",
+    "intellectual disability",
+    "prevalence",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

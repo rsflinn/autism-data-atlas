@@ -1,0 +1,48 @@
+{
+  "pmid": "26849906",
+  "doi": "10.1016/j.semcdb.2016.01.040",
+  "title": "The role of mTOR signalling in neurogenesis, insights from tuberous sclerosis complex",
+  "authors": "Tee AR, Sampson JR, Pal DK, Bateman JM",
+  "journal": "Seminars in cell & developmental biology",
+  "date": "2016-02",
+  "source": "pubmed",
+  "abstract": "Understanding the development and function of the nervous system is one of the foremost aims of current biomedical research. The nervous system is generated during a relatively short period of intense neurogenesis that is orchestrated by a number of key molecular signalling pathways. Even subtle defects in the activity of these molecules can have serious repercussions resulting in neurological, neurodevelopmental and neurocognitive problems including epilepsy, intellectual disability and autism. Tuberous sclerosis complex (TSC) is a monogenic disease characterised by these problems and by the formation of benign tumours in multiple organs, including the brain. TSC is caused by mutations in the TSC1 or TSC2 gene leading to activation of the mechanistic target of rapamycin (mTOR) signalling pathway. A desire to understand the neurological manifestations of TSC has stimulated research into the role of the mTOR pathway in neurogenesis. In this review we describe TSC neurobiology and how the use of animal model systems has provided insights into the roles of mTOR signalling in neuronal differentiation and migration. Recent progress in this field has identified novel mTOR pathway components regulating neuronal differentiation. The roles of mTOR signalling and aberrant neurogenesis in epilepsy are also discussed. Continuing efforts to understand mTOR neurobiology will help to identify new therapeutic targets for TSC and other neurological diseases.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Understanding the development and function of the nervous system is one of the foremost aims of current biomedical research. The nervous system is generated during a relatively short period of intense neurogenesis that is orchestrated by a number of key molecular signalling pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26849906/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Humans",
+    "Neurogenesis",
+    "Signal Transduction",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Epilepsy",
+    "Neural stem cell",
+    "Neuronal differentiation",
+    "Neuronal migration",
+    "TSC",
+    "mTOR"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

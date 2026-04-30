@@ -1,0 +1,48 @@
+{
+  "pmid": "40037376",
+  "doi": "10.1093/brain/awaf081",
+  "title": "TSC2 loss in neural progenitor cells suppresses mRNA translation of neurodevelopmental genes",
+  "authors": "Martin P, Szkop KJ, Robert F, Bhattacharyya S, Beauchamp RL, Brenner J, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2025-08",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is an inherited multi-system neurocutaneous disorder where patients often present with neurodevelopmental manifestations such as epilepsy and TSC-associated neuropsychiatric disorder (TAND) that includes autism spectrum disorder (ASD). TSC is caused by inactivating mutations in TSC1 or TSC2 tumour suppressor genes, with encoded proteins hamartin (TSC1) and tuberin (TSC2) forming a functional complex inhibiting mechanistic target of rapamycin complex 1 (mTORC1) signalling. This has led to treatment with allosteric mTORC1 inhibitor rapamycin analogues ('rapalogs') for TSC tumours; however, rapalogs are ineffective for treating neurodevelopmental manifestations. mTORC1 signalling controls protein synthesis by regulating formation of the eukryotic initiation factor (eIF) 4F complex, with further modulation by MAP kinase-interacting serine/threonine protein kinases 1 and 2 (MNK1/2) via phosphorylation of the eIF4F subunit eIF4E. While both these pathways modulate translation, comparing their impact on transcriptome-wide mRNA translation, as well as effects of inhibiting these pathways in TSC has not been explored. Employing CRISPR-modified, isogenic neural progenitor cells (NPCs) derived from a female TSC2 patient, we have examined alterations in early neurodevelopmental phenotypes including proliferation and neurite outgrowth, as well as the ability of the bi-steric mTORC1-specific inhibitor RMC-6272 to rescue these phenotypes. Further, we utilized polysome profiling to examine transcriptome-wide changes in mRNA translation upon TSC2 loss and tested effects of treatment with RMC-6272 or the MNK1/2-specific inhibitor eFT-508. Our results reveal that altered early neurodevelopmental phenotypes can be rescued upon treatment with RMC-6272, but not rapamycin. We also discovered dysregulated mRNA translation in TSC2-Null NPCs, which significantly overlaps with the translatome from TSC1-Null NPCs. Interestingly, numerous non-monogenic ASD-, neurodevelopmental disorder (NDD)- and epilepsy-associated genes identified in patients harbouring putative loss-of-function mutations, were translationally suppressed in TSC2-Null NPCs. Importantly, translation of these ASD- and NDD-associated genes was reversed upon inhibition of either mTORC1 or MNK1/2 signalling using RMC-6272 or eFT-508, respectively. This study establishes the importance of mTORC1-eIF4F- and MNK-eIF4E-sensitive mRNA translation in TAND, ASD and other neurodevelopmental disorders laying the groundwork for evaluating drugs in clinical development that target these pathways as a treatment strategy for these disorders.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is an inherited multi-system neurocutaneous disorder where patients often present with neurodevelopmental manifestations such as epilepsy and TSC-associated neuropsychiatric disorder (TAND) that includes autism spectrum disorder (ASD). TSC is caused by inactivating mutations in TSC1 or TSC2 tumour suppressor genes, with encoded proteins hamartin (TSC1) and tuberin (TSC2) forming a functional complex inhibiting mechanistic target of rapamycin complex 1 (mTORC1) si",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40037376/",
+  "mesh_terms": [
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Neural Stem Cells",
+    "Humans",
+    "Tuberous Sclerosis",
+    "RNA, Messenger",
+    "Protein Biosynthesis",
+    "Mechanistic Target of Rapamycin Complex 1",
+    "Animals",
+    "Tuberous Sclerosis Complex 1 Protein"
+  ],
+  "keywords": [
+    "4E-BP1",
+    "5&#x2032;UTR",
+    "CNS",
+    "S6K1",
+    "protein synthesis",
+    "rapalogs"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

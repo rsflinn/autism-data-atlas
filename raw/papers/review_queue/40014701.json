@@ -1,0 +1,45 @@
+{
+  "pmid": "40014701",
+  "doi": "10.1126/science.adp6325",
+  "title": "4D marmoset brain map reveals MRI and molecular signatures for onset of multiple sclerosis-like lesions",
+  "authors": "Lin JP, Brake A, Donadieu M, Lee A, Smith G, Hu K, et al.",
+  "journal": "Science (New York, N.Y.)",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Inferring cellular and molecular dynamics of multiple sclerosis (MS) lesions from postmortem tissue collected decades after onset is challenging. Using magnetic resonance image (MRI)-guided spatiotemporal RNA profiling in marmoset experimental autoimmune encephalitis (EAE), we mapped lesion dynamics and modeled molecular perturbations relevant to MS. Five distinct lesion microenvironments emerged, involving neuroglial responses, tissue destruction and repair, and brain border regulation. Before demyelination, MRI identified a high ratio of proton density-weighted signal torelaxation time, capturing early hypercellularity, and elevated astrocytic and ependymal senescence signals marked perivascular and periventricular areas that later became demyelination hotspots. As lesions expanded, concentric glial barriers formed, initially dominated by proliferating and diversifying microglia and oligodendrocyte precursors, later replaced by monocytes and lymphocytes. We highlight SERPINE1astrocytes as a signaling hub underlying lesion onset in both marmoset EAE and MS.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Inferring cellular and molecular dynamics of multiple sclerosis (MS) lesions from postmortem tissue collected decades after onset is challenging. Using magnetic resonance image (MRI)-guided spatiotemporal RNA profiling in marmoset experimental autoimmune encephalitis (EAE), we mapped lesion dynamics and modeled molecular perturbations relevant to MS.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40014701/",
+  "mesh_terms": [
+    "Animals",
+    "Female",
+    "Male",
+    "Astrocytes",
+    "Brain",
+    "Brain Mapping",
+    "Callithrix",
+    "Encephalomyelitis, Autoimmune, Experimental",
+    "Magnetic Resonance Imaging",
+    "Microglia",
+    "Multiple Sclerosis",
+    "Oligodendroglia",
+    "Plasminogen Activator Inhibitor 1",
+    "Transcriptome",
+    "Gene Expression Profiling",
+    "Single-Cell Analysis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

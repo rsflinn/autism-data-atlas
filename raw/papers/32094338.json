@@ -1,0 +1,36 @@
+{
+  "pmid": "32094338",
+  "doi": "10.1038/s41398-020-0760-7",
+  "title": "Rare genetic susceptibility variants assessment in autism spectrum disorder: detection rate and practical use",
+  "authors": "Husson T, Lecoquierre F, Cassinari K, Charbonnier C, Quenez O, Goldenberg A, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with a strong genetic component whose knowledge evolves quickly. Next-generation sequencing is the only effective technology to deal with the high genetic heterogeneity of ASD in a clinical setting. However, rigorous criteria to classify rare genetic variants conferring ASD susceptibility are currently lacking. We have performed whole-exome sequencing to identify both nucleotide variants and copy number variants (CNVs) in 253 ASD patients, including 68 patients with intellectual disability (ID) and 90 diagnosed as Asperger syndrome. Using explicit criteria to classify both susceptibility genes and susceptibility variants we prioritized 217 genes belonging to the following categories: syndromic genes, genes with an excess of de novo protein truncating variants and genes targeted by rare CNVs. We obtained a susceptibility variant detection rate of 19.7% (95% CI: [15-25.2%]). The rate for CNVs was 7.1% (95% CI: [4.3-11%]) and 12.6% (95% CI: [8.8-17.4%]) for nucleotide variants. The highest rate (30.1%, 95% CI: [20.2-43.2%]) was obtained in the ASD&#x2009;+&#x2009;ID subgroup. A strong contributor for at risk nucleotide variants was the recently identified set of genes (n&#x2009;=&#x2009;81) harboring an excess of de novo protein truncating variants. Since there is currently no evidence that the genes targeted here are necessary and sufficient to cause ASD, we recommend to avoid the term \"causative of ASD\" when delivering the information about a variant to a family and to use instead the term \"genetic susceptibility factor contributing to ASD\".",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with a strong genetic component whose knowledge evolves quickly. Next-generation sequencing is the only effective technology to deal with the high genetic heterogeneity of ASD in a clinical setting.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32094338/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Exome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

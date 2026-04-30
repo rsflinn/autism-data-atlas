@@ -1,0 +1,52 @@
+{
+  "pmid": "34615535",
+  "doi": "10.1186/s13229-021-00465-3",
+  "title": "Prevalence and phenotypic impact of rare potentially damaging variants in autism spectrum disorder",
+  "authors": "Mahjani B, De Rubeis S, Gustavsson Mahjani C, Mulhern M, Xu X, Klei L, et al.",
+  "journal": "Molecular autism",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "The Autism Sequencing Consortium identified 102 high-confidence autism spectrum disorder (ASD) genes, showing that individuals with ASD and with potentially damaging single nucleotide variation (pdSNV) in these genes had lower cognitive levels and delayed age at walking, when compared to ASD participants without pdSNV. Here, we made use of a Swedish sample of individuals with ASD (called PAGES, for Population-Based Autism Genetics & Environment Study) to evaluate the frequency of pdSNV and their impact on medical and psychiatric phenotypes, using an epidemiological frame and universal health reporting. We then combine findings with those for potentially damaging copy number variation (pdCNV).\n\nSNV and CNV calls were generated from whole-exome sequencing and chromosome microarray data, respectively. Birth and medical register data were used to collect phenotypes.\n\nOf 808 individuals assessed by sequencing, 69 (9%) had pdSNV in the 102 ASC genes, and 144 (18%) had pdSNV in the 102&#xa0;ASC genes or in a larger set of curated neurodevelopmental genes (from the Deciphering Developmental Disorders study, the&#xa0;gene2phenotype database, and the Radboud University gene lists). Three or more individuals had pdSNV in GRIN2B, POGZ, SATB1, DYNC1H1, SCN8A, or CREBBP. In comparison, out of the 996 individuals from whom CNV were called, 105 (11%) carried one or more pdCNV, including four or more individuals with CNV in the recurrent 15q11q13, 22q11.2, and 16p11.2 loci. Carriers of pdSNV were more likely to have intellectual disability (ID) and epilepsy, while carriers of pdCNV showed increased rates of congenital anomalies and scholastic skill disorders. Carriers of either pdSNV or pdCNV were more likely to have ID, scholastic skill disorders, and epilepsy.\n\nThe cohort only included individuals with autistic disorder, the more severe form of ASD, and phenotypes are defined from medical registers. Not all genes studied are definitively ASD genes, and we did not have de novo information to aid in classification.\n\nIn this epidemiological sample, rare pdSNV were more common than pdCNV and the combined yield of potentially damaging variation was substantial at 27%. The results provide compelling rationale for the use of high-throughout sequencing as part of routine clinical&#xa0;workup for ASD and support the development of precision medicine in ASD.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "CREBBP",
+    "GRIN2B",
+    "POGZ"
+  ],
+  "summary": "The Autism Sequencing Consortium identified 102 high-confidence autism spectrum disorder (ASD) genes, showing that individuals with ASD and with potentially damaging single nucleotide variation (pdSNV) in these genes had lower cognitive levels and delayed age at walking, when compared to ASD participants without pdSNV. Here, we made use of a Swedish sample of individuals with ASD (called PAGES, for Population-Based Autism Genetics & Environment Study) to evaluate the frequency of pdSNV and their",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34615535/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "DNA Copy Number Variations",
+    "Humans",
+    "Matrix Attachment Region Binding Proteins",
+    "Phenotype",
+    "Prevalence",
+    "Transposases",
+    "DNA-Binding Proteins",
+    "Cell Cycle Proteins"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Copy number variant",
+    "Intellectual disability",
+    "PAGES",
+    "Single nucleotide variant",
+    "Whole exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

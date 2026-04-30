@@ -1,0 +1,45 @@
+{
+  "pmid": "40174488",
+  "doi": "10.1016/j.yebeh.2025.110396",
+  "title": "Tuberous Sclerosis Complex: An updated in the treatment of epilepsy for early careers",
+  "authors": "Valente KD, Sampaio LB, Vincentiis S, Pinto ALR, Montenegro MA",
+  "journal": "Epilepsy & behavior : E&B",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Tuberous Sclerosis Complex (TSC) is a rare autosomal dominant disorder that is characterized by multisystem involvement and significant neurological manifestations. TSC1 and TSC2 pathogenic variants lead to hyperactivation of the mammalian target of rapamycin (mTOR) pathway, which disrupts cellular growth and differentiation. Epilepsy, affecting 85-90% of individuals with TSC, often presents within the first year of life and is commonly resistant to conventional therapies. This paper provides a comprehensive overview of the diagnostic criteria, pathophysiology, and current treatment strategies for TSC-associated epilepsy, including pharmacological approaches such as vigabatrin, cannabidiol, and mTOR inhibitors, as well as non-pharmacological interventions such as ketogenic diet and epilepsy surgery. Preventive strategies, highlighted by robust trials, delay seizure onset and reduce its severity but have a limited impact on neurodevelopmental outcomes. Challenges include the heterogeneity of cortical tubers, suboptimal seizure control with existing therapies, and underutilization of neuropsychiatric care for TSC-associated neuropsychiatric disorders. Advances in biomarkers, precision medicine, and surgical techniques have paved the way for personalized treatment approaches. Future research providing earlier detection strategies and integrating therapies targeting both the neurological and behavioral dimensions of TSC is ongoing. By addressing these needs, clinicians and researchers can enhance the quality of life and developmental outcomes of individuals with TSC.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous Sclerosis Complex (TSC) is a rare autosomal dominant disorder that is characterized by multisystem involvement and significant neurological manifestations. TSC1 and TSC2 pathogenic variants lead to hyperactivation of the mammalian target of rapamycin (mTOR) pathway, which disrupts cellular growth and differentiation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40174488/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis",
+    "Epilepsy",
+    "Anticonvulsants",
+    "Diet, Ketogenic"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Epilepsy surgery",
+    "Epileptic spasms",
+    "Neurodevelopment",
+    "Tuberous sclerosis complex",
+    "mTOR inhibitor therapy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

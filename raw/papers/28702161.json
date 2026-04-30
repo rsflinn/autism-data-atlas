@@ -1,0 +1,39 @@
+{
+  "pmid": "28702161",
+  "doi": "10.1186/s13229-017-0154-8",
+  "title": "Bio-collections in autism research",
+  "authors": "Reilly J, Gallagher L, Chen JL, Leader G, Shen S",
+  "journal": "Molecular autism",
+  "date": "2017-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a group of complex neurodevelopmental disorders with diverse clinical manifestations and symptoms. In the last 10&#xa0;years, there have been significant advances in understanding the genetic basis for ASD, critically supported through the establishment of ASD bio-collections and application in research. Here, we summarise a selection of major ASD bio-collections and their associated findings. Collectively, these include mapping ASD candidate genes, assessing the nature and frequency of gene mutations and their association with ASD clinical subgroups, insights into related molecular pathways such as the synapses, chromatin remodelling, transcription and ASD-related brain regions. We also briefly review emerging studies on the use of induced pluripotent stem cells (iPSCs) to potentially model ASD in culture. These provide deeper insight into ASD progression during development and could generate human cell models for drug screening. Finally, we provide perspectives concerning the utilities of ASD bio-collections and limitations, and highlight considerations in setting up a new bio-collection for ASD research.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a group of complex neurodevelopmental disorders with diverse clinical manifestations and symptoms. In the last 10&#xa0;years, there have been significant advances in understanding the genetic basis for ASD, critically supported through the establishment of ASD bio-collections and application in research.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28702161/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Chromatin Assembly and Disassembly",
+    "Chromosome Mapping",
+    "Drug Evaluation, Preclinical",
+    "Humans",
+    "Pluripotent Stem Cells",
+    "Synapses",
+    "Transcription, Genetic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

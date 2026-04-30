@@ -1,0 +1,44 @@
+{
+  "pmid": "21934270",
+  "doi": "10.1159/000329420",
+  "title": "Fragile X syndrome: the GABAergic system and circuit dysfunction",
+  "authors": "Paluszkiewicz SM, Martin BS, Huntsman MM",
+  "journal": "Developmental neuroscience",
+  "date": "2011-09",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a neurodevelopmental disorder characterized by intellectual disability, sensory hypersensitivity, and high incidences of autism spectrum disorders and epilepsy. These phenotypes are suggestive of defects in neural circuit development and imbalances in excitatory glutamatergic and inhibitory GABAergic neurotransmission. While alterations in excitatory synapse function and plasticity are well-established in Fmr1 knockout (KO) mouse models of FXS, a number of recent electrophysiological and molecular studies now identify prominent defects in inhibitory GABAergic transmission in behaviorally relevant forebrain regions such as the amygdala, cortex, and hippocampus. In this review, we summarize evidence for GABAergic system dysfunction in FXS patients and Fmr1 KO mouse models alike. We then discuss some of the known developmental roles of GABAergic signaling, as well as the development and refinement of GABAergic synapses as a framework for understanding potential causes of mature circuit dysfunction. Finally, we highlight the GABAergic system as a relevant target for the treatment of FXS.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is a neurodevelopmental disorder characterized by intellectual disability, sensory hypersensitivity, and high incidences of autism spectrum disorders and epilepsy. These phenotypes are suggestive of defects in neural circuit development and imbalances in excitatory glutamatergic and inhibitory GABAergic neurotransmission.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21934270/",
+  "mesh_terms": [
+    "Amygdala",
+    "Animals",
+    "Cerebral Cortex",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Hippocampus",
+    "Humans",
+    "Neuronal Plasticity",
+    "Synapses",
+    "Synaptic Transmission",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

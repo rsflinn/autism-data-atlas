@@ -1,0 +1,41 @@
+{
+  "pmid": "41901519",
+  "doi": "10.3390/medicina62030435",
+  "title": "Cerebellar Abnormalities: A Component of Autism Pathophysiology",
+  "authors": "Jagadapillai R, Tuncali I, Nagarajan N, Barnes G, Gozal E",
+  "journal": "Medicina (Kaunas, Lithuania)",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": ": Autism spectrum disorder (ASD) is a prevalent and largely idiopathic developmental disorder with relatively widespread etiology. Currently, there are no validated diagnostic or screening biomarkers for ASD, besides addressing the associated comorbidities. ASD is primarily diagnosed based on behavioral, motor, and cognitive characteristics. Until recently, although the cerebellum was particularly implicated in motor control, it was under-researched for its potential role in the development of ASD. However, cerebellar circuitry is altered in ASD, impacting its brain interconnections, affecting brain development, as well as social and behavioral outcomes associated with ASD.: We reviewed the potential role of the cerebellum in ASD, particularly how its dysfunction during development or its early postnatal injury may impact on the maturation of other connected circuits and play a role in the development of core ASD symptoms.: Based on the literature, we addressed cerebellar changes that may alter synaptic pruning, immune cells' function, neurotransmitters, blood-brain barrier permeability, and potential signaling pathways involved in ASD, and how these changes may interplay to contribute to ASD pathophysiology.: Further research is needed to understand these interactions that may provide novel therapeutic options specifically targeted at the cerebellum.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": ": Autism spectrum disorder (ASD) is a prevalent and largely idiopathic developmental disorder with relatively widespread etiology. Currently, there are no validated diagnostic or screening biomarkers for ASD, besides addressing the associated comorbidities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41901519/",
+  "mesh_terms": [
+    "Humans",
+    "Cerebellum",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder"
+  ],
+  "keywords": [
+    "astroglia",
+    "autism",
+    "autism signaling pathways",
+    "autism-linked genes",
+    "cerebellum",
+    "neurodevelopmental disease"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

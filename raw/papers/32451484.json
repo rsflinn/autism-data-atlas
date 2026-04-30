@@ -1,0 +1,46 @@
+{
+  "pmid": "32451484",
+  "doi": "10.1038/s41593-020-0634-6",
+  "title": "Three-dimensional genome restructuring across timescales of activity-induced neuronal gene expression",
+  "authors": "Beagan JA, Pastuzyn ED, Fernandez LR, Guo MH, Feng K, Titus KR, et al.",
+  "journal": "Nature neuroscience",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Neuronal activation induces rapid transcription of immediate early genes (IEGs) and longer-term chromatin remodeling around secondary response genes (SRGs). Here, we use high-resolution chromosome-conformation-capture carbon-copy sequencing (5C-seq) to elucidate the extent to which long-range chromatin loops are altered during short- and long-term changes in neural activity. We find that more than 10% of loops surrounding select IEGs, SRGs, and synaptic genes are induced de novo during cortical neuron activation. IEGs Fos and Arc connect to activity-dependent enhancers via singular short-range loops that form within 20&#x2009;min after stimulation, prior to peak messenger RNA levels. By contrast, the SRG Bdnf engages in both pre-existing and activity-inducible loops that form within 1-6&#x2009;h. We also show that common single-nucleotide variants that are associated with autism and schizophrenia are colocalized with distinct classes of activity-dependent, looped enhancers. Our data link architectural complexity to transcriptional kinetics and reveal the rapid timescale by which higher-order chromatin architecture reconfigures during neuronal stimulation.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neuronal activation induces rapid transcription of immediate early genes (IEGs) and longer-term chromatin remodeling around secondary response genes (SRGs). Here, we use high-resolution chromosome-conformation-capture carbon-copy sequencing (5C-seq) to elucidate the extent to which long-range chromatin loops are altered during short- and long-term changes in neural activity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32451484/",
+  "mesh_terms": [
+    "Animals",
+    "Bicuculline",
+    "Brain-Derived Neurotrophic Factor",
+    "Chromatin Assembly and Disassembly",
+    "Cytoskeletal Proteins",
+    "Gene Expression",
+    "Genome",
+    "Humans",
+    "Mice",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "Proto-Oncogene Proteins c-fos",
+    "Tetrodotoxin",
+    "Time Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

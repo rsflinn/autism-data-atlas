@@ -1,0 +1,37 @@
+{
+  "pmid": "35680847",
+  "doi": "10.1038/s41398-022-02010-z",
+  "title": "Targeting NMDA receptors in neuropsychiatric disorders by drug screening on human neurons derived from pluripotent stem cells",
+  "authors": "Zhang W, Ross PJ, Ellis J, Salter MW",
+  "journal": "Translational psychiatry",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "NMDA receptors (NMDARs), a prominent subtype of glutamatergic receptors, are implicated in the pathogenesis and development of neuropsychiatric disorders such as epilepsy, intellectual disability, autism spectrum disorder, and schizophrenia, and are therefore a potential therapeutic target in treating these disorders. Neurons derived from induced pluripotent stem cells (iPSCs) have provided the opportunity to investigate human NMDARs in their native environment. In this review, we describe the expression, function, and regulation of NMDARs in human iPSC-derived neurons and discuss approaches for utilizing human neurons for identifying potential drugs that target NMDARs in the treatment of neuropsychiatric disorders. A challenge in studying NMDARs in human iPSC-derived neurons is a predominance of those receptors containing the GluN2B subunit and low synaptic expression, suggesting a relatively immature phenotype of these neurons and delayed development of functional NMDARs. We outline potential approaches for improving neuronal maturation of human iPSC-derived neurons and accelerating the functional expression of NMDARs. Acceleration of functional expression of NMDARs in human iPSC-derived neurons will improve the modeling of neuropsychiatric disorders and facilitate the discovery and development of novel therapeutics targeting NMDARs for the treatment of these disorders.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "NMDA receptors (NMDARs), a prominent subtype of glutamatergic receptors, are implicated in the pathogenesis and development of neuropsychiatric disorders such as epilepsy, intellectual disability, autism spectrum disorder, and schizophrenia, and are therefore a potential therapeutic target in treating these disorders. Neurons derived from induced pluripotent stem cells (iPSCs) have provided the opportunity to investigate human NMDARs in their native environment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35680847/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Drug Evaluation, Preclinical",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurons",
+    "Receptors, N-Methyl-D-Aspartate"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

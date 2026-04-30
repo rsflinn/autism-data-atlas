@@ -1,0 +1,42 @@
+{
+  "pmid": "27902989",
+  "doi": "10.1159/000452336",
+  "title": "Plasma Levels of Leptin and Adiponectin in Fragile X Syndrome",
+  "authors": "Lisik MZ, Gutmajster E, Siero&#x144; AL",
+  "journal": "Neuroimmunomodulation",
+  "date": "2016-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common form of familial mental retardation and one of the leading known causes of autism. The mutation responsible for FXS is a large expansion of the CGG repeats in the promoter region of the FMR1 gene, resulting in the transcriptional silencing of the gene. Leptin may be considered a cytokine-like hormone with pleiotropic actions since it may be involved in the regulation of neuroendocrine functions and the immune system response, in addition to playing a role in development. Leptin and adiponectin may act in parallel as opposing metabolic counterparts. The involvement of leptin and adiponectin in the pathophysiology of FXS was hypothesized.\n\nTwenty-three male patients affected by FXS (full mutation in the FMR1 gene) and 24 controls were included in the study. Plasma leptin and adiponectin levels were measured by the ELISA method using commercially available kits.\n\nAdiponectin levels in FXS patients were significantly lower than those found in controls (p < 0.04). Leptin levels in FXS patients were significantly higher than those found in controls (p = 0.03).\n\nAdipokines may be involved in the psychiatric features observed in FXS patients. Further investigations are necessary to evaluate the role of adiponectin and leptin in FXS.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is the most common form of familial mental retardation and one of the leading known causes of autism. The mutation responsible for FXS is a large expansion of the CGG repeats in the promoter region of the FMR1 gene, resulting in the transcriptional silencing of the gene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27902989/",
+  "mesh_terms": [
+    "Adiponectin",
+    "Adolescent",
+    "Adult",
+    "Biomarkers",
+    "Child",
+    "Fragile X Syndrome",
+    "Humans",
+    "Leptin",
+    "Male",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "35927526",
+  "doi": "10.1007/s00787-022-02041-3",
+  "title": "The association between early childhood onset epilepsy and attention-deficit hyperactivity disorder (ADHD) in 3237 children and adolescents with Autism Spectrum Disorder (ASD): a historical longitudinal cohort data linkage study",
+  "authors": "Carson L, Parlatini V, Safa T, Baig B, Shetty H, Phillips-Owen J, et al.",
+  "journal": "European child & adolescent psychiatry",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "Children and young people with Autism Spectrum Disorder (ASD) have an increased risk of comorbidities, such as epilepsy and Attention-Deficit/Hyperactivity Disorder (ADHD). However, little is known about the relationship between early childhood epilepsy (below age 7) and later ADHD diagnosis (at age 7 or above) in ASD. In this historical cohort study, we examined this relationship using an innovative data source, which included linked data from routinely collected acute hospital paediatric records and childhood community and inpatient psychiatric records. In a large sample of children and young people with ASD (N&#x2009;=&#x2009;3237), we conducted a longitudinal analysis to examine early childhood epilepsy as a risk factor for ADHD diagnosis while adjusting for potential confounders, including socio-demographic characteristics, intellectual disability, family history of epilepsy and associated physical conditions. We found that ASD children and young people diagnosed with early childhood epilepsy had nearly a twofold increase in risk of developing ADHD later in life, an association which persisted after adjusting for potential confounders (adjusted OR&#x2009;=&#x2009;1.72, CI95%&#x2009;=&#x2009;1.13-2.62). This study suggests that sensitive monitoring of ADHD symptoms in children with ASD who have a history of childhood epilepsy may be important to promote early detection and treatment. It also highlights how linked electronic health records can be used to examine potential risk factors over time for multimorbidity in neurodevelopmental conditions.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Children and young people with Autism Spectrum Disorder (ASD) have an increased risk of comorbidities, such as epilepsy and Attention-Deficit/Hyperactivity Disorder (ADHD). However, little is known about the relationship between early childhood epilepsy (below age 7) and later ADHD diagnosis (at age 7 or above) in ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35927526/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Child, Preschool",
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Cohort Studies",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Comorbidity",
+    "Epilepsy"
+  ],
+  "keywords": [
+    "ADHD",
+    "ASD",
+    "Childhood epilepsy",
+    "Data Linkage"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

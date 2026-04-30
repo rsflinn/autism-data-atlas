@@ -1,0 +1,52 @@
+{
+  "pmid": "31171447",
+  "doi": "10.1016/j.neuron.2019.05.002",
+  "title": "SynGO: An Evidence-Based, Expert-Curated Knowledge Base for the Synapse",
+  "authors": "Koopmans F, van Nierop P, Andres-Alonso M, Byrnes A, Cijsouw T, Coba MP, et al.",
+  "journal": "Neuron",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "Synapses are fundamental information-processing units of the brain, and synaptic dysregulation is central to many brain disorders (\"synaptopathies\"). However, systematic annotation of synaptic genes and ontology of synaptic processes are currently lacking. We established SynGO, an interactive knowledge base that accumulates available research about synapse biology using Gene Ontology (GO) annotations to novel ontology terms: 87 synaptic locations and 179 synaptic processes. SynGO annotations are exclusively based on published, expert-curated evidence. Using 2,922 annotations for 1,112 genes, we show that synaptic genes are exceptionally well conserved and less tolerant to mutations than other genes. Many SynGO terms are significantly overrepresented among gene variations associated with intelligence, educational attainment, ADHD, autism, and bipolar disorder and among de&#xa0;novo variants associated with neurodevelopmental disorders, including schizophrenia. SynGO is a public, universal reference for synapse research and an online analysis platform for interpretation of&#xa0;large-scale -omics data (https://syngoportal.org and http://geneontology.org).",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Synapses are fundamental information-processing units of the brain, and synaptic dysregulation is central to many brain disorders (\"synaptopathies\"). However, systematic annotation of synaptic genes and ontology of synaptic processes are currently lacking.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31171447/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Databases, Genetic",
+    "Gene Ontology",
+    "Humans",
+    "Knowledge Bases",
+    "Proteomics",
+    "Software",
+    "Synapses",
+    "Synaptic Potentials",
+    "Synaptosomes"
+  ],
+  "keywords": [
+    "Gene Ontology",
+    "enrichment study",
+    "gene annotation",
+    "gene set analysis",
+    "synapse",
+    "synaptic plasticity",
+    "synaptic proteome network",
+    "synaptome",
+    "synaptopathies"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

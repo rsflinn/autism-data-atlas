@@ -1,0 +1,46 @@
+{
+  "pmid": "31949403",
+  "doi": "10.31887/DCNS.2019.21.4/jday",
+  "title": "Genetic and epigenetic editing in&#x2028;nervous system&#x2029;",
+  "authors": "Day JJ",
+  "journal": "Dialogues in clinical neuroscience",
+  "date": "2019-12",
+  "source": "pubmed",
+  "abstract": "Numerous neuronal functions depend on the precise spatiotemporal regulation of gene expression, and the cellular machinery that contributes to this regulation is frequently disrupted in neurodevelopmental, neuropsychiatric, and neurological disease states. Recent advances in gene editing technology have enabled increasingly rapid understanding of gene sequence variation and gene regulatory function in the central nervous system. Moreover, these tools have provided new insights into the locus-specific functions of epigenetic modifications and enabled epigenetic editing at specific gene loci in disease contexts. Continued development of clustered regularly interspaced short palindromic repeats (CRISPR)-based tools has provided not only cell-specific modulation, but also rapid induction profiles that permit sophisticated interrogation of the temporal dynamics that contribute to brain health and disease. This review summarizes recent advances in genetic editing, transcriptional modulation, and epigenetic reorganization, with a focus on applications to neuronal systems and potential uses in brain disorders characterized by genetic sequence variation or transcriptional dysregulation.&#x2029;.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Numerous neuronal functions depend on the precise spatiotemporal regulation of gene expression, and the cellular machinery that contributes to this regulation is frequently disrupted in neurodevelopmental, neuropsychiatric, and neurological disease states. Recent advances in gene editing technology have enabled increasingly rapid understanding of gene sequence variation and gene regulatory function in the central nervous system.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31949403/",
+  "mesh_terms": [
+    "Animals",
+    "Brain Diseases",
+    "Central Nervous System",
+    "Clustered Regularly Interspaced Short Palindromic Repeats",
+    "Epigenesis, Genetic",
+    "Epigenomics",
+    "Gene Editing",
+    "Humans"
+  ],
+  "keywords": [
+    "CRISPR/Cas9",
+    "epigenetic editing",
+    "gene regulation",
+    "neuroepigenetics",
+    "transcription"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

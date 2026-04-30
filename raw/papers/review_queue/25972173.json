@@ -1,0 +1,56 @@
+{
+  "pmid": "25972173",
+  "doi": "10.1523/JNEUROSCI.1581-14.2015",
+  "title": "Synaptic Function of Rab11Fip5: Selective Requirement for Hippocampal Long-Term Depression",
+  "authors": "Bacaj T, Ahmad M, Jurado S, Malenka RC, S&#xfc;dhof TC",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2015-05",
+  "source": "pubmed",
+  "abstract": "Postsynaptic AMPA-type glutamate receptors (AMPARs) are among the major determinants of synaptic strength and can be trafficked into and out of synapses. Neuronal activity regulates AMPAR trafficking during synaptic plasticity to induce long-term changes in synaptic strength, including long-term potentiation (LTP) and long-term depression (LTD). Rab family GTPases regulate most membrane trafficking in eukaryotic cells; particularly, Rab11 and its effectors are implicated in mediating postsynaptic AMPAR insertion during LTP. To explore the synaptic function of Rab11Fip5, a neuronal Rab11 effector and a candidate autism-spectrum disorder gene, we performed shRNA-mediated knock-down and genetic knock-out (KO) studies. Surprisingly, we observed robust shRNA-induced synaptic phenotypes that were rescued by a Rab11Fip5 cDNA but that were nevertheless not observed in conditional KO neurons. Both in cultured neurons and acute slices, KO of Rab11Fip5 had no significant effect on basic parameters of synaptic transmission, indicating that Rab11Fip5 is not required for fundamental synaptic operations, such as neurotransmitter release or postsynaptic AMPAR insertion. KO of Rab11Fip5 did, however, abolish hippocampal LTD as measured both in acute slices or using a chemical LTD protocol in cultured neurons but did not affect hippocampal LTP. The Rab11Fip5 KO mice performed normally in several behavioral tasks, including fear conditioning, but showed enhanced contextual fear extinction. These are the first findings to suggest a requirement for Rab11Fip5, and presumably Rab11, during LTD.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Postsynaptic AMPA-type glutamate receptors (AMPARs) are among the major determinants of synaptic strength and can be trafficked into and out of synapses. Neuronal activity regulates AMPAR trafficking during synaptic plasticity to induce long-term changes in synaptic strength, including long-term potentiation (LTP) and long-term depression (LTD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25972173/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Newborn",
+    "Carrier Proteins",
+    "Conditioning, Psychological",
+    "Exploratory Behavior",
+    "Fear",
+    "GABA Antagonists",
+    "Hippocampus",
+    "In Vitro Techniques",
+    "Long-Term Synaptic Depression",
+    "Maze Learning",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Mitochondrial Proteins",
+    "Mutation",
+    "Picrotoxin",
+    "Receptors, AMPA",
+    "Social Behavior",
+    "Synapses",
+    "rab GTP-Binding Proteins"
+  ],
+  "keywords": [
+    "LTD",
+    "Rab11",
+    "Rab11Fip5",
+    "autism"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

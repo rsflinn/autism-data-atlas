@@ -1,0 +1,44 @@
+{
+  "pmid": "41046068",
+  "doi": "10.1016/j.neuroscience.2025.09.051",
+  "title": "The role of neurotrophins in sensory processing in autism",
+  "authors": "Suprunowicz M, Wi&#x144;ska A, Oracz AJ, Modzelewski S, Konarzewska B, Waszkiewicz N",
+  "journal": "Neuroscience",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by a wide range of symptoms, including altered sensory processing. Impaired perception and interpretation of sensory stimuli may result from abnormal neuroplasticity and disruptions in neurotrophin signaling. These phenomena play a crucial role in neuronal development and function. Elevated serum levels of brain-derived neurotrophic factor (BDNF) and nerve growth factor (NGF) have been reported in individuals with ASD, while concentrations of neurotrophin-3 (NT-3) and neurotrophin-4/5 (NT-4/5) appear unchanged. However, extant research has not yet examined the relationship between neurotrophin levels and sensory integration deficits, thus indicating a significant gap in the current body of knowledge. The heterogeneity of ASD, encompassing a broad spectrum of symptoms and neuroanatomical alterations, complicates the search for universal biomarkers. Consequently, an analysis of neurotrophin concentrations in relation to specific sensory disturbances and their severity may offer valuable insights. Modulation of neurotrophin signaling has emerged as a promising therapeutic avenue; however, its effectiveness in ASD remains unclear. A paucity of studies has evaluated the potential of neurotrophins as biomarkers for diagnosis or treatment monitoring. Nevertheless, recent advances in biotechnology-including gene therapy, pharmacological agents that enhance neurotrophin release, and non-invasive brain stimulation-offer the prospect of more effective and personalized interventions for ASD. Despite the nascent stage of research in this domain, these approaches hold considerable promise for future autism treatment.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by a wide range of symptoms, including altered sensory processing. Impaired perception and interpretation of sensory stimuli may result from abnormal neuroplasticity and disruptions in neurotrophin signaling.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41046068/",
+  "mesh_terms": [
+    "Humans",
+    "Nerve Growth Factors",
+    "Autism Spectrum Disorder",
+    "Animals",
+    "Biomarkers",
+    "Autistic Disorder",
+    "Brain-Derived Neurotrophic Factor"
+  ],
+  "keywords": [
+    "ASD",
+    "Autism",
+    "Neurotrophic factors",
+    "Neurotrophins",
+    "Sensory alterations",
+    "Sensory processing disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

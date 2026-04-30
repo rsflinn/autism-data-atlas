@@ -1,0 +1,48 @@
+{
+  "pmid": "33497755",
+  "doi": "10.1016/j.pnpbp.2021.110249",
+  "title": "Exposure to the plasticizer, Di-(2-ethylhexyl) phthalate during juvenile period exacerbates autism-like behavior in adult BTBR T&#xa0;+&#xa0;tf/J mice due to DNA hypomethylation and enhanced inflammation in brain and systemic immune cells",
+  "authors": "Nadeem A, Al-Harbi NO, Ahmad SF, Alhazzani K, Attia SM, Alsanea S, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Epigenetic modifications are known to play a crucial role in the behavioral modifications through regulation of gene expression. Environmental factors are known to regulate genetic transcription through DNA methylation which is one of the mechanisms of epigenetic modification. Di-2-ethylhexyl phthalate (DEHP) is one of the most abundant phthalate plasticizers in day-to-day products. Prenatal/postnatal DEHP administration has been reported to cause inflammation as well as behavioral dysregulation, however it is not known if exposure to DEHP during juvenile stage affects peripheral/neuronal inflammation and autism-like symptoms in BTBR mice at adulthood. This study investigated effect of DEHP exposure during juvenile period on DNA methylation (global DNA methylation/DNMT1 expression) and inflammation (IL-17A, IL-6, MCP-1, TNF-&#x3b1;) in CD4&#xa0;+&#xa0;T cells/CD11c&#xa0;+&#xa0;DCs and cortex, and autism-like symptoms (three-chambered sociability test, self-grooming and marble burying test) in asocial BTBR and social C57 mice at adulthood. Our data reveal that BTBR mice exposed to DEHP during juvenile period have hypomethylated DNA/DNMT1 expression in CD11c&#xa0;+&#xa0;DCs and cortex as compared to vehicle-exposed BTBR mice. It was associated with upregulated inflammation in periphery [plasma IL-6/IL-17A, CD11c&#xa0;+&#xa0;DCs (IL-6/MCP-1/TNF-&#x3b1;), and CD4+ T cells (IL-17A)] and cortex (IL-6, MCP-1, TNF-&#x3b1;), and aggravation in autism-like symptoms in DEHP-treated BTBR mice. These data propose that exposure of DEHP during juvenile period may affect autism-like behavior and inflammation in BTBR mice at adulthood through epigenetic regulation. Therefore, underlying genetic predisposition may play a crucial role in worsening of autistic symptoms in ASD subjects in adulthood if they are exposed to environmental pollutants such as DEHP during juvenile period.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Epigenetic modifications are known to play a crucial role in the behavioral modifications through regulation of gene expression. Environmental factors are known to regulate genetic transcription through DNA methylation which is one of the mechanisms of epigenetic modification.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33497755/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Brain",
+    "Cytokines",
+    "DNA Methylation",
+    "Diethylhexyl Phthalate",
+    "Disease Models, Animal",
+    "Inflammation",
+    "Mice",
+    "Plasticizers",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "Autism",
+    "Chronic inflammation",
+    "Cortex",
+    "DEHP",
+    "DNA methylation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

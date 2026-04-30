@@ -1,0 +1,44 @@
+{
+  "pmid": "41611887",
+  "doi": "10.1038/s41586-025-10047-5",
+  "title": "Developmental convergence and divergence in human stem cell models of autism",
+  "authors": "Gordon A, Yoon SJ, Bicks LK, Mart&#xed;n JM, Pintacuda G, Arteaga S, et al.",
+  "journal": "Nature",
+  "date": "2026-01",
+  "source": "pubmed",
+  "abstract": "Two decades of genetic studies in autism spectrum disorder (ASD) have identified more than 100 genes&#xa0;harbouring rare risk mutations. Despite this substantial heterogeneity, transcriptomic and epigenetic analyses have identified convergent patterns of dysregulation across the ASD postmortem brain. To identify shared and distinct mechanisms of ASD-linked mutations, we assembled a large patient&#xa0;collection of human induced pluripotent stem (hiPS) cells, consisting of 70 hiPS cell lines after stringent quality control&#xa0;representing 8 ASD-associated mutations, idiopathic ASD, and 20 lines from&#xa0;non-affected control individuals. Here we used these hiPS cell lines to generate human cortical organoids, profiling by RNA sequencing at four distinct time points up to 100&#x2009;days after in vitro differentiation. Early time points harboured the largest mutation-specific changes, but different mutations converged on shared transcriptional changes as development progressed. We identified a shared RNA and protein interaction network, which was enriched in ASD risk genes and predicted to drive the observed downstream changes in gene expression. CRISPR-Cas9 screening of these candidate transcriptional regulators in induced human neural progenitors validated their downstream convergent molecular effects. These data illustrate how risk associated with genetically defined forms of ASD can propagate by means of transcriptional regulation to affect convergently dysregulated pathways, providing new insight into the convergent impact of ASD genetic risk on human neurodevelopment.",
+  "relevance_score": 30,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Two decades of genetic studies in autism spectrum disorder (ASD) have identified more than 100 genes&#xa0;harbouring rare risk mutations. Despite this substantial heterogeneity, transcriptomic and epigenetic analyses have identified convergent patterns of dysregulation across the ASD postmortem brain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41611887/",
+  "mesh_terms": [
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Organoids",
+    "Autism Spectrum Disorder",
+    "Mutation",
+    "Cell Differentiation",
+    "Neural Stem Cells",
+    "Protein Interaction Maps",
+    "Models, Biological",
+    "CRISPR-Cas Systems",
+    "Female",
+    "Transcriptome",
+    "Male",
+    "Cell Line"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

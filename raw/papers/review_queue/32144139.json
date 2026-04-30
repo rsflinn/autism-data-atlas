@@ -1,0 +1,62 @@
+{
+  "pmid": "32144139",
+  "doi": "10.1073/pnas.1912429117",
+  "title": "Central neurogenetic signatures of the visuomotor integration system",
+  "authors": "Bueichek&#xfa; E, Azn&#xe1;rez-Sanado M, Diez I, d'Oleire Uquillas F, Ortiz-Ter&#xe1;n L, Qureshi AY, et al.",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Visuomotor impairments characterize numerous neurological disorders and neurogenetic syndromes, such as autism spectrum disorder (ASD) and Dravet, Fragile X, Prader-Willi, Turner, and Williams syndromes. Despite recent advances in systems neuroscience, the biological basis underlying visuomotor functional impairments associated with these clinical conditions is poorly understood. In this study, we used neuroimaging connectomic approaches to map the visuomotor integration (VMI) system in the human brain and investigated the topology approximation of the VMI network to the Allen Human Brain Atlas, a whole-brain transcriptome-wide atlas of cortical genetic expression. We found the genetic expression of four genes-TBR1, SCN1A, MAGEL2, and CACNB4-to be prominently associated with visuomotor integrators in the human cortex. TBR1 gene transcripts, an ASD gene whose expression is related to neural development of the cortex and the hippocampus, showed a central spatial allocation within the VMI system. Our findings delineate gene expression traits underlying the VMI system in the human cortex, where specific genes, such as TBR1, are likely to play a central role in its neuronal organization, as well as on specific phenotypes of neurogenetic syndromes.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "SCN1A",
+    "TBR1"
+  ],
+  "summary": "Visuomotor impairments characterize numerous neurological disorders and neurogenetic syndromes, such as autism spectrum disorder (ASD) and Dravet, Fragile X, Prader-Willi, Turner, and Williams syndromes. Despite recent advances in systems neuroscience, the biological basis underlying visuomotor functional impairments associated with these clinical conditions is poorly understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32144139/",
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Autism Spectrum Disorder",
+    "Brain Mapping",
+    "Calcium Channels",
+    "Cohort Studies",
+    "Epilepsies, Myoclonic",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Motor Cortex",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Neurodevelopmental Disorders",
+    "Prader-Willi Syndrome",
+    "Proteins",
+    "Psychomotor Performance",
+    "T-Box Domain Proteins",
+    "Visual Cortex",
+    "Visual Perception",
+    "Intracellular Signaling Peptides and Proteins",
+    "Intrinsically Disordered Proteins"
+  ],
+  "keywords": [
+    "TBR1",
+    "brain functional networks",
+    "functional connectivity",
+    "genetics",
+    "visuomotor integration"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

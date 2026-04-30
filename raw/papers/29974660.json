@@ -1,0 +1,53 @@
+{
+  "pmid": "29974660",
+  "doi": "10.1111/gbb.12504",
+  "title": "Relationships between substance abuse/dependence and psychiatric disorders based on polygenic scores",
+  "authors": "Gurriar&#xe1;n X, Rodr&#xed;guez-L&#xf3;pez J, Fl&#xf3;rez G, Pereiro C, Fern&#xe1;ndez JM, Fari&#xf1;as E, et al.",
+  "journal": "Genes, brain, and behavior",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Genetic susceptibility to substance use disorders (SUDs) is partially shared between substances. Heritability of any substance dependence, estimated as 54%, is partly explained by additive effects of common variants. Comorbidity between SUDs and other psychiatric disorders is frequent. The present study aims to analyze the additive role of common variants in this comorbidity using polygenic scores (PGSs) based on genome-wide association study discovery samples of schizophrenia (SCZ), bipolar disorder, attention-deficit/hyperactivity disorder, autism spectrum disorder, major depressive disorder and anxiety disorders, available from large consortia. PGSs were calculated for 534 patients meeting DSM-IV criteria for dependence of a substance and abuse/dependence of another substance between alcohol, tobacco, cannabis, cocaine, opiates, hypnotics, stimulants, hallucinogens and solvents; and 587 blood donors from the same population, Iberians from Galicia, as controls. Significance of the PGS and percentage of variance explained were calculated by logistic regression. Using discovery samples of similar size, significant associations with SUDs were detected for SCZ PGS. SCZ PGS explained more variance in SUDs than in most psychiatric disorders. Cross-disorder PGS based on five psychiatric disorders was significant after adjustment for the effect of SCZ PGS. SCZ PGS was significantly higher in women than in men abusing alcohol. Our findings indicate that SUDs share genetic susceptibility with SCZ to a greater extent than with other psychiatric disorders, including externalizing disorders such as attention-deficit/hyperactivity disorder. Women have lower probability to develop substance abuse/dependence than men at similar PGS probably because of a higher social pressure against excessive drug use in women.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Genetic susceptibility to substance use disorders (SUDs) is partially shared between substances. Heritability of any substance dependence, estimated as 54%, is partly explained by additive effects of common variants.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29974660/",
+  "mesh_terms": [
+    "Adult",
+    "Case-Control Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Mental Disorders",
+    "Middle Aged",
+    "Models, Genetic",
+    "Multifactorial Inheritance",
+    "Polymorphism, Genetic",
+    "Substance-Related Disorders"
+  ],
+  "keywords": [
+    "SNP",
+    "addiction",
+    "genetic risk score",
+    "genome-wide association studies",
+    "polygenic risk score",
+    "polygenic score",
+    "psychiatric comorbidity",
+    "schizophrenia",
+    "substance abuse",
+    "substance dependence",
+    "substance use disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

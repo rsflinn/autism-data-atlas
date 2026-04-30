@@ -1,0 +1,41 @@
+{
+  "pmid": "37264456",
+  "doi": "10.1186/s13229-023-00550-9",
+  "title": "SETD5 haploinsufficiency affects mitochondrial compartment in neural cells",
+  "authors": "Zaghi M, Longo F, Massimino L, Rubio A, Bido S, Mazzara PG, et al.",
+  "journal": "Molecular autism",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) are heterogeneous conditions due to alterations of a variety of molecular mechanisms and cell dysfunctions. SETD5 haploinsufficiency leads to NDDs due to chromatin defects. Epigenetic basis of NDDs has been reported in an increasing number of cases while mitochondrial dysfunctions are more common within NDD patients than in the general population.\n\nWe investigated in vitro neural stem cells as well as the brain of the Setd5 haploinsufficiency mouse model interrogating its transcriptome, analyzing mitochondrial structure, biochemical composition, and dynamics, as well as mitochondrial functionality.\n\nMitochondrial impairment is facilitated by transcriptional aberrations originated by the decrease of the SETD5 enzyme. Low levels of SETD5 resulted in fragmented mitochondria, reduced mitochondrial membrane potential, and ATP production both in neural precursors and neurons. Mitochondria were also mislocalized in mutant neurons, with reduced organelles within neurites and synapses.\n\nWe found several defects in the mitochondrial compartment; however, we can only speculate about their position in the hierarchy of the pathological mechanisms at the basis of the disease.\n\nOur study explores the interplay between chromatin regulation and mitochondria functions as a possible important aspect of SETD5-associated NDD pathophysiology. Our data, if confirmed in patient context, suggest that the mitochondrial activity and dynamics may represent new therapeutic targets for disorders associated with the loss of SETD5.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SETD5"
+  ],
+  "summary": "Neurodevelopmental disorders (NDDs) are heterogeneous conditions due to alterations of a variety of molecular mechanisms and cell dysfunctions. SETD5 haploinsufficiency leads to NDDs due to chromatin defects.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37264456/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Humans",
+    "Haploinsufficiency",
+    "Neurons",
+    "Mitochondria",
+    "Neural Stem Cells",
+    "Chromatin",
+    "Methyltransferases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

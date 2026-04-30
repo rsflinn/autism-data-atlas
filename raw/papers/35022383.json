@@ -1,0 +1,38 @@
+{
+  "pmid": "35022383",
+  "doi": "10.1038/s41398-021-01772-2",
+  "title": "Genetic liability to rheumatoid arthritis on autism and autistic traits: polygenic risk score and Mendelian randomization analyses",
+  "authors": "Ly A, Leppert B, Rai D, Jones H, Dardani C, Stergiakouli E",
+  "journal": "Translational psychiatry",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Higher prevalence of autism in offspring born to mothers with rheumatoid arthritis has been reported in observational studies. We investigated (a) the associations between maternal and offspring's own genetic liability for rheumatoid arthritis and autism-related outcomes in the offspring using polygenic risk scores (PRS) and (b) whether the effects were causal using Mendelian randomization (MR). Using the latest genome-wide association (GWAS) summary data on rheumatoid arthritis and individual-level data from the Avon Longitudinal Study of Parents and Children, United Kingdom, we constructed PRSs for maternal and offspring genetic liability for rheumatoid arthritis (single-nucleotide polymorphism [SNP] p-value threshold 0.05). We investigated associations with autism, and autistic traits: social and communication difficulties, coherence, repetitive behaviours and sociability. We used modified Poisson regression with robust standard errors. In two-sample MR analyses, we used 40 genome-wide significant SNPs for rheumatoid arthritis and investigated the causal effects on risk for autism, in 18,381 cases and 27,969 controls of the Psychiatric Genetics Consortium and iPSYCH. Sample size ranged from 4992 to 7849 in PRS analyses. We found little evidence of associations between rheumatoid arthritis PRSs and autism-related phenotypes in the offspring (maternal PRS on autism: RR 0.89, 95%CI 0.73-1.07, p&#x2009;=&#x2009;0.21; offspring's own PRS on autism: RR 1.11, 95%CI 0.88-1.39, p&#x2009;=&#x2009;0.39). MR results provided little evidence for a causal effect (IVW OR 1.01, 95%CI 0.98-1.04, p&#x2009;=&#x2009;0.56). There was little evidence for associations between genetic liability for rheumatoid arthritis on autism-related outcomes in offspring. Lifetime risk for rheumatoid arthritis has no causal effects on autism.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Higher prevalence of autism in offspring born to mothers with rheumatoid arthritis has been reported in observational studies. We investigated (a) the associations between maternal and offspring's own genetic liability for rheumatoid arthritis and autism-related outcomes in the offspring using polygenic risk scores (PRS) and (b) whether the effects were causal using Mendelian randomization (MR).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35022383/",
+  "mesh_terms": [
+    "Arthritis, Rheumatoid",
+    "Autistic Disorder",
+    "Female",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Longitudinal Studies",
+    "Mendelian Randomization Analysis",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

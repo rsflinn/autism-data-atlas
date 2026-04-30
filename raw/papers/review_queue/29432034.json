@@ -1,0 +1,48 @@
+{
+  "pmid": "29432034",
+  "doi": "10.1080/23279095.2018.1429442",
+  "title": "Cognitive functioning in chronic post-stroke aphasia",
+  "authors": "Fonseca J, Raposo A, Martins IP",
+  "journal": "Applied neuropsychology. Adult",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "There is a minimal amount of knowledge regarding the cognitive abilities of people with aphasia. We evaluated the performance of individuals with chronic aphasia (AP) and control participants without aphasia (CP) with left hemisphere stroke in a battery of nonverbal cognitive tests and its relationship with aphasia severity, comprehension abilities, and speech fluency in a prospective cross-sectional study. Cognitive evaluation comprised 10 nonverbal tests. Scores were converted to age and education adjusted standard scores. Forty-eight AP and 32 CP were included. AP average scores were below normal range in three tests: Camel and Cactus Test, immediate recall of 5 Objects Test and Spatial Span. The mean test scores were significantly lower in AP than in CP, except in four tests. Aphasia severity and verbal comprehension ability correlated significantly with semantic memory, constructive abilities and attention/processing speed tests. Subjects with nonfluent aphasia had lower scores than CP in memory, executive functions and attention tests, while subjects with fluent aphasia showed lower scores in memory tests only. On average half of the individuals with aphasia exhibit results within the normal range. Nonetheless, their performance was worse than that of controls, despite the fact that many tests do not correlate with the severity of language disorder.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "There is a minimal amount of knowledge regarding the cognitive abilities of people with aphasia. We evaluated the performance of individuals with chronic aphasia (AP) and control participants without aphasia (CP) with left hemisphere stroke in a battery of nonverbal cognitive tests and its relationship with aphasia severity, comprehension abilities, and speech fluency in a prospective cross-sectional study.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29432034/",
+  "mesh_terms": [
+    "Aged",
+    "Aphasia",
+    "Case-Control Studies",
+    "Chronic Disease",
+    "Cognition",
+    "Cross-Sectional Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Neuropsychological Tests",
+    "Stroke"
+  ],
+  "keywords": [
+    "assessment",
+    "cognition",
+    "neuropsychological evaluation",
+    "nonverbal evaluation",
+    "phasia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Observational Study"
+  ]
+}

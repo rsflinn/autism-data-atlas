@@ -1,0 +1,42 @@
+{
+  "pmid": "16506134",
+  "doi": null,
+  "title": "[Rett syndrome: a diagnostic, clinical and molecular update]",
+  "authors": "Tejada MI",
+  "journal": "Revista de neurologia",
+  "date": "2006-01",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RS) was first reported in 1966 and in 1999 it was discovered that it was associated to mutations in the MECP2 gene. In the last 5 years over 500 articles have been written on the subject, which is clear evidence of how complex and important this syndrome is.\n\nTo present an updated summary of the topic in Spanish.\n\nRS is the second most common cause of mental retardation in females after Down syndrome, with an estimated prevalence of 1/15,000 girls in Europe. It is a syndrome involving progressive psychomotor deterioration, with autism, stereotypic movements of the hands, loss of acquired language and decreased cranial growth. It is a dominant X-linked pathology that is usually fatal in males and in which over 99% of cases involve de novo mutations. The MECP2 gene has four exons that code for two different isoforms of a protein that controls and regulates the activity of other genes by inhibiting their transcription. Molecular studies of the MECP2 gene have shown that the clinical phenotype of RS is far broader than the one initially described and has numerous variants, which may be either more or less severe, and there are even mutations in males and in other non-Rett phenotypes, as well as in cases of mental retardation in which the aetiology is unknown. More recently, in the variants with early epilepsy, mutations have been found in another gene--CDKL5.\n\nThe work carried out in recent years shows the vast complexity of neurological developmental diseases and illustrates the need to make further progress in molecular studies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "CDKL5",
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RS) was first reported in 1966 and in 1999 it was discovered that it was associated to mutations in the MECP2 gene. In the last 5 years over 500 articles have been written on the subject, which is clear evidence of how complex and important this syndrome is.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16506134/",
+  "mesh_terms": [
+    "Adolescent",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+  ]
+}

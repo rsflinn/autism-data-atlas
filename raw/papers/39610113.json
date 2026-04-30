@@ -1,0 +1,53 @@
+{
+  "pmid": "39610113",
+  "doi": "10.1111/pcn.13767",
+  "title": "Whole-genome sequencing analysis of Japanese autism spectrum disorder trios",
+  "authors": "Furukawa S, Kushima I, Kato H, Kimura H, Nawa Y, Aleksic B, et al.",
+  "journal": "Psychiatry and clinical neurosciences",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a genetically and phenotypically heterogeneous neurodevelopmental disorder with a strong genetic basis. Conducting the first comprehensive whole-genome sequencing (WGS) analysis of Japanese ASD trios, this study aimed to elucidate the clinical significance of pathogenic variants and enhance the understanding of ASD pathogenesis.\n\nWGS was performed on 57 Japanese patients with ASD and their parents, investigating variants ranging from single-nucleotide variants to structural variants (SVs), short tandem repeats (STRs), mitochondrial variants, and polygenic risk score (PRS).\n\nPotentially pathogenic variants that could explain observed phenotypes were identified in 18 patients (31.6%) overall and in 10 of 23 patients (43.5%) with comorbid intellectual developmental disorder (IDD). De novo variants in PTEN, CHD7, and HNRNPH2 were identified in patients referred for genetic counseling who exhibited previously reported phenotypes, including one patient with ASD who had profound IDD and macrocephaly with PTEN L320S. Analysis of the AlphaFold3 protein structure indicated potential inhibition of intramolecular interactions within PTEN. SV analysis identified deletions in ARHGAP11B and TMLHE. A pathogenic de novo mitochondrial variant was identified in a patient with ASD who had a history of encephalitis and cognitive decline. GO enrichment analysis of genes with nonsense variants and missense variants (Missense badness, PolyPhen-2, and Constraint >1) showed associations with regulation of growth and ATP-dependent chromatin remodeler activity. No reportable results were obtained in the analysis of STR and PRS.\n\nCharacterizing the comprehensive genetic architecture and phenotypes of ASD is a fundamental step towards unraveling its complex biology.",
+  "relevance_score": 30,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "Autism spectrum disorder (ASD) is a genetically and phenotypically heterogeneous neurodevelopmental disorder with a strong genetic basis. Conducting the first comprehensive whole-genome sequencing (WGS) analysis of Japanese ASD trios, this study aimed to elucidate the clinical significance of pathogenic variants and enhance the understanding of ASD pathogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39610113/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Autism Spectrum Disorder",
+    "DNA-Binding Proteins",
+    "Intellectual Disability",
+    "Japan",
+    "Phenotype",
+    "PTEN Phosphohydrolase",
+    "Whole Genome Sequencing",
+    "East Asian People",
+    "DNA Helicases"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "genetics",
+    "intellectual disability",
+    "phenotype",
+    "whole&#x2010;genome sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

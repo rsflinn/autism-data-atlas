@@ -1,0 +1,46 @@
+{
+  "pmid": "21882361",
+  "doi": "10.1002/aur.216",
+  "title": "The autism diagnosis in translation: shared affect in children and mouse models of ASD",
+  "authors": "Bishop SL, Lahvis GP",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2011-08",
+  "source": "pubmed",
+  "abstract": "In the absence of molecular biomarkers that can be used to diagnose ASD, current diagnostic tools depend upon clinical assessments of behavior. Research efforts with human subjects have successfully utilized standardized diagnostic instruments, which include clinician interviews with parents and direct observation of the children themselves [Risi et al., 2006]. However, because clinical instruments are semi-structured and rely heavily on dynamic social processes and clinical skill, scores from these measures do not necessarily lend themselves directly to experimental investigations into the causes of ASD. Studies of the neurobiology of autism require experimental animal models. Mice are particularly useful for elucidating genetic and toxicological contributions to impairments in social function [Halladay et al., 2009]. Behavioral tests have been developed that are relevant to autism [Crawley, 2004, 2007], including measures of repetitive behaviors [Lewis, Tanimura, Lee, & Bodfish, 2007; Moy et al., 2008], social behavior [Brodkin, 2007; Lijam et al., 1997; Moretti, Bouwknecht, Teague, Paylor, & Zoghbi, 2005], and vocal communication [D'Amato et al., 2005; Panksepp et al., 2007; Scattoni et al., 2008]. Advances also include development of high-throughput measures of mouse sociability that can be used to reliably compare inbred mouse strains [Moy et al., 2008; Nadler et al., 2004], as well as measures of social reward [Panksepp & Lahvis, 2007] and empathy [Chen, Panksepp, & Lahvis, 2009; Langford et al., 2006]. With continued generation of mouse gene-targeted mice that are directly relevant to genetic linkages in ASD, there remains an urgent need to utilize a full suite of mouse behavioral tests that allows for a comprehensive assessment of the spectrum of social difficulties relevant to ASD. Using impairments in shared affect as an example, this paper explores potential avenues for collaboration between clinical and basic scientists, within an amply considered translational framework.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "In the absence of molecular biomarkers that can be used to diagnose ASD, current diagnostic tools depend upon clinical assessments of behavior. Research efforts with human subjects have successfully utilized standardized diagnostic instruments, which include clinician interviews with parents and direct observation of the children themselves [Risi et al., 2006].",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21882361/",
+  "mesh_terms": [
+    "Affect",
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Child",
+    "Child Behavior",
+    "Child, Preschool",
+    "Disease Models, Animal",
+    "Humans",
+    "Infant",
+    "Mice",
+    "Mice, Inbred Strains",
+    "Nonverbal Communication",
+    "Social Behavior",
+    "Vocalization, Animal"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

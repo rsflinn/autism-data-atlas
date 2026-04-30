@@ -1,0 +1,43 @@
+{
+  "pmid": "36182950",
+  "doi": "10.1038/s41398-022-02189-1",
+  "title": "The phenotypic spectrum and genotype-phenotype correlations in 106 patients with variants in major autism gene CHD8",
+  "authors": "Dingemans AJM, Truijen KMG, van de Ven S, Bernier R, Bongers EMHF, Bouman A, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "CHD8, a major autism gene, functions in chromatin remodelling and has various roles involving several biological pathways. Therefore, unsurprisingly, previous studies have shown that intellectual developmental disorder with autism and macrocephaly (IDDAM), the syndrome caused by pathogenic variants in CHD8, consists of a broad range of phenotypic abnormalities. We collected and reviewed 106 individuals with IDDAM, including 36 individuals not previously published, thus enabling thorough genotype-phenotype analyses, involving the CHD8 mutation spectrum, characterization of the CHD8 DNA methylation episignature, and the systematic analysis of phenotypes collected in Human Phenotype Ontology (HPO). We identified 29 unique nonsense, 25 frameshift, 24 missense, and 12 splice site variants. Furthermore, two unique inframe deletions, one larger deletion (exons 26-28), and one translocation were observed. Methylation analysis was performed for 13 patients, 11 of which showed the previously established episignature for IDDAM (85%) associated with CHD8 haploinsufficiency, one analysis was inconclusive, and one showing a possible gain-of-function signature instead of the expected haploinsufficiency signature was observed. Consistent with previous studies, phenotypical abnormalities affected multiple organ systems. Many neurological abnormalities, like intellectual disability (68%) and hypotonia (29%) were observed, as well as a wide variety of behavioural abnormalities (88%). Most frequently observed behavioural problems included autism spectrum disorder (76%), short attention span (32%), abnormal social behaviour (31%), sleep disturbance (29%) and impaired social interactions (28%). Furthermore, abnormalities in the digestive (53%), musculoskeletal (79%) and genitourinary systems (18%) were noted. Although no significant difference in severity was observed between males and females, individuals with a missense variant were less severely affected. Our study provides an extensive review of all phenotypic abnormalities in patients with IDDAM and provides clinical recommendations, which will be of significant value to individuals with a pathogenic variant in CHD8, their families, and clinicians as it gives a more refined insight into the clinical and molecular spectrum of IDDAM, which is essential for accurate care and counselling.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "CHD8, a major autism gene, functions in chromatin remodelling and has various roles involving several biological pathways. Therefore, unsurprisingly, previous studies have shown that intellectual developmental disorder with autism and macrocephaly (IDDAM), the syndrome caused by pathogenic variants in CHD8, consists of a broad range of phenotypic abnormalities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36182950/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "DNA-Binding Proteins",
+    "Female",
+    "Genetic Association Studies",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Megalencephaly",
+    "Phenotype",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

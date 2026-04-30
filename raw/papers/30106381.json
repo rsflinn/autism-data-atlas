@@ -1,0 +1,56 @@
+{
+  "pmid": "30106381",
+  "doi": "10.1172/JCI98199",
+  "title": "Activity-dependent neuroprotective protein deficiency models synaptic and developmental phenotypes of autism-like syndrome",
+  "authors": "Hacohen-Kleiman G, Sragovich S, Karmon G, Gao AYL, Grigg I, Pasmanik-Chor M, et al.",
+  "journal": "The Journal of clinical investigation",
+  "date": "2018-09",
+  "source": "pubmed",
+  "abstract": "Previous findings showed that in mice, complete knockout of activity-dependent neuroprotective protein (ADNP) abolishes brain formation, while haploinsufficiency (Adnp+/-) causes cognitive impairments. We hypothesized that mutations in ADNP lead to a developmental/autistic syndrome in children. Indeed, recent phenotypic characterization of children harboring ADNP mutations (ADNP syndrome children) revealed global developmental delays and intellectual disabilities, including speech and motor dysfunctions. Mechanistically, ADNP includes a SIP motif embedded in the ADNP-derived snippet drug candidate NAP (NAPVSIPQ, also known as CP201), which binds to microtubule end-binding protein 3, essential for dendritic spine formation. Here, we established a unique neuronal membrane-tagged, GFP-expressing Adnp+/- mouse line allowing in vivo synaptic pathology quantification. We discovered that Adnp deficiency reduced dendritic spine density and altered synaptic gene expression, both of which were partly ameliorated by NAP treatment. Adnp+/-mice further exhibited global developmental delays, vocalization impediments, gait and motor dysfunctions, and social and object memory impairments, all of which were partially reversed by daily NAP administration (systemic/nasal). In conclusion, we have connected ADNP-related synaptic pathology to developmental and behavioral outcomes, establishing NAP in vivo target engagement and identifying potential biomarkers. Together, these studies pave a path toward the clinical development of NAP (CP201) for the treatment of ADNP syndrome.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "Previous findings showed that in mice, complete knockout of activity-dependent neuroprotective protein (ADNP) abolishes brain formation, while haploinsufficiency (Adnp+/-) causes cognitive impairments. We hypothesized that mutations in ADNP lead to a developmental/autistic syndrome in children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30106381/",
+  "mesh_terms": [
+    "Amino Acid Motifs",
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Biomarkers",
+    "Cell Membrane",
+    "Dendritic Spines",
+    "Gene Expression Regulation",
+    "Homeodomain Proteins",
+    "Humans",
+    "Mice",
+    "Mice, Knockout",
+    "Microtubules",
+    "Models, Neurological",
+    "Mutation",
+    "Naphthoquinones",
+    "Nerve Tissue Proteins",
+    "Synapses",
+    "Syndrome"
+  ],
+  "keywords": [
+    "Drug therapy",
+    "Therapeutics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Video-Audio Media"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pmid": "26739615",
+  "doi": "10.1186/s13073-015-0253-0",
+  "title": "POGZ truncating alleles cause syndromic intellectual disability",
+  "authors": "White J, Beck CR, Harel T, Posey JE, Jhangiani SN, Tang S, et al.",
+  "journal": "Genome medicine",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Large-scale cohort-based whole exome sequencing of individuals with neurodevelopmental disorders (NDDs) has identified numerous novel candidate disease genes; however, detailed phenotypic information is often lacking in such studies. De novo mutations in pogo transposable element with zinc finger domain (POGZ) have been identified in six independent and diverse cohorts of individuals with NDDs ranging from autism spectrum disorder to developmental delay.\n\nWhole exome sequencing was performed on five unrelated individuals. Sanger sequencing was used to validate variants and segregate mutations with the phenotype in available family members.\n\nWe identified heterozygous truncating mutations in POGZ in five unrelated individuals, which were confirmed to be de novo or not present in available parental samples. Careful review of the phenotypes revealed shared features that included developmental delay, intellectual disability, hypotonia, behavioral abnormalities, and similar facial characteristics. Variable features included short stature, microcephaly, strabismus and hearing loss.\n\nWhile POGZ has been associated with neurodevelopmental disorders in large cohort studies, our data suggest that loss of function variants in POGZ lead to an identifiable syndrome of NDD with specific phenotypic traits. This study exemplifies the era of human reverse clinical genomics ushered in by large disease-directed cohort studies; first defining a new syndrome molecularly and, only subsequently, phenotypically.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "POGZ"
+  ],
+  "summary": "Large-scale cohort-based whole exome sequencing of individuals with neurodevelopmental disorders (NDDs) has identified numerous novel candidate disease genes; however, detailed phenotypic information is often lacking in such studies. De novo mutations in pogo transposable element with zinc finger domain (POGZ) have been identified in six independent and diverse cohorts of individuals with NDDs ranging from autism spectrum disorder to developmental delay.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26739615/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Alleles",
+    "Child, Preschool",
+    "Exome",
+    "Female",
+    "Heterozygote",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Sequence Analysis, DNA",
+    "Transposases",
+    "DNA-Binding Proteins",
+    "Cell Cycle Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

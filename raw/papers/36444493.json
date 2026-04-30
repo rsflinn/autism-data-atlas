@@ -1,0 +1,44 @@
+{
+  "pmid": "36444493",
+  "doi": "10.1111/cge.14272",
+  "title": "Novel de novo ZNF148 truncating variant causing autism spectrum disorder, attention deficit hyperactivity disorder, and intellectual disability",
+  "authors": "Miao C, Du L, Zhang Y, Jia F, Shan L",
+  "journal": "Clinical genetics",
+  "date": "2022-12",
+  "source": "pubmed",
+  "abstract": "ZNF148 gene is a Kr&#xfc;ppel-type transcription factor that has transcriptional regulatory function. Heterozygous variant in ZNF148 gene causes an intellectual disability syndrome characterized by global developmental delay, absence, or hypoplasia of corpus callosum, wide intracerebral ventricles, and dysmorphic facial features, while its associations with ASD and ADHD have not been reported. We report a new patient with intellectual disability, autism spectrum disorder (ASD) and attention-deficit hyperactivity disorder (ADHD). The patient had a novel heterozygous truncating variant c.1818dupC (p.Lys607Glnfs*11) in the ZNF148 gene. This variation produces a ZNF148 truncated protein with a deletion of the C-terminal activation domain and may destabilize the protein by affecting the transcriptional activation function. Brain MRI shows normal brain development. Here, we identify a novel ZNF148 heterozygous truncating variant in a patient with distinct phenotypes of ASD and ADHD, which expands the genotype-phenotype spectrum of ZNF148, and indicates ZNF148 is also a potential target gene for ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "ZNF148 gene is a Kr&#xfc;ppel-type transcription factor that has transcriptional regulatory function. Heterozygous variant in ZNF148 gene causes an intellectual disability syndrome characterized by global developmental delay, absence, or hypoplasia of corpus callosum, wide intracerebral ventricles, and dysmorphic facial features, while its associations with ASD and ADHD have not been reported.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36444493/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Intellectual Disability",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Transcription Factors",
+    "DNA-Binding Proteins"
+  ],
+  "keywords": [
+    "ZNF148 gene",
+    "autism spectrum disorder",
+    "de novo variant",
+    "intellectual disability",
+    "neurodevelopmental disorder",
+    "truncating variant"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

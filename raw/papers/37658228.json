@@ -1,0 +1,40 @@
+{
+  "pmid": "37658228",
+  "doi": "10.1038/s41380-023-02223-8",
+  "title": "A novel mutation in intron 1 of Wnt1 causes developmental loss of dopaminergic neurons in midbrain and ASD-like behaviors in rats",
+  "authors": "Li Y, Zhu M, Chen WX, Luo J, Li X, Cao Y, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2023-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a group of neurodevelopmental disorders with a strong genetic liability. Despite extensive studies, however, the underlying pathogenic mechanism still remains elusive. In the present study, we identified a homozygous mutation in the intron 1 of Wnt1 via large-scale screening of ASD risk/causative genes and verified that this mutation created a new splicing donor site in the intron 1, and consequently, a decrease of WNT1 expression. Interestingly, humanized rat models harboring this mutation exhibited robust ASD-like behaviors including impaired ultrasonic vocalization (USV), decreased social interactions, and restricted and repetitive behaviors. Moreover, in the substantia nigra compacta (SNpc) and the ventral tegmental area (VTA) of mutant rats, dopaminergic (DAergic) neurons were dramatically lost, together with a comparable decrease in striatal DAergic fibers. Furthermore, using single-cell RNA sequencing, we demonstrated that the decreased DAergic neurons in these midbrain areas might attribute to a shift of the boundary of the local pool of progenitor cells from the hypothalamic floor plate to the midbrain floor plate during the early embryonic stage. Moreover, treatments of mutant rats with levodopa could attenuate the impaired USV and social interactions almost completely, but not the restricted and repetitive behaviors. Our results for the first time documented that the developmental loss of DAergic neurons in the midbrain underlies the pathogenesis of ASD, and that the abnormal progenitor cell patterning is a cellular underpinning for this developmental DAergic neuronal loss. Importantly, the effective dopamine therapy suggests a translational significance in the treatment of ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a group of neurodevelopmental disorders with a strong genetic liability. Despite extensive studies, however, the underlying pathogenic mechanism still remains elusive.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37658228/",
+  "mesh_terms": [
+    "Animals",
+    "Rats",
+    "Autism Spectrum Disorder",
+    "Dopamine",
+    "Dopaminergic Neurons",
+    "Introns",
+    "Mesencephalon",
+    "Substantia Nigra",
+    "Ventral Tegmental Area",
+    "Wnt1 Protein"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

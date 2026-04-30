@@ -1,0 +1,47 @@
+{
+  "pmid": "37385287",
+  "doi": "10.1016/S2213-8587(23)00131-6",
+  "title": "Rare variants in the MECP2 gene in girls with central precocious puberty: a translational cohort study",
+  "authors": "Canton APM, Tinano FR, Guasti L, Montenegro LR, Ryan F, Shears D, et al.",
+  "journal": "The lancet. Diabetes & endocrinology",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Identification of genetic causes of central precocious puberty have revealed epigenetic mechanisms as regulators of human pubertal timing. MECP2, an X-linked gene, encodes a chromatin-associated protein with a role in gene transcription. MECP2 loss-of-function mutations usually cause Rett syndrome, a severe neurodevelopmental disorder. Early pubertal development has been shown in several patients with Rett syndrome. The aim of this study was to explore whether MECP2 variants are associated with an idiopathic central precocious puberty phenotype.\n\nIn this translational cohort study, participants were recruited from seven tertiary centres from five countries (Brazil, Spain, France, the USA, and the UK). Patients with idiopathic central precocious puberty were investigated for rare potentially damaging variants in the MECP2 gene, to assess whether MECP2 might contribute to the cause of central precocious puberty. Inclusion criteria were the development of progressive pubertal signs (Tanner stage 2) before the age of 8 years in girls and 9 years in boys and basal or GnRH-stimulated LH pubertal concentrations. Exclusion criteria were the diagnosis of peripheral precocious puberty and the presence of any recognised cause of central precocious puberty (CNS lesions, known monogenic causes, genetic syndromes, or early exposure to sex steroids). All patients included were followed up at the outpatient clinics of participating academic centres. We used high-throughput sequencing in 133 patients and Sanger sequencing of MECP2 in an additional 271 patients. Hypothalamic expression of Mecp2 and colocalisation with GnRH neurons were determined in mice to show expression of Mecp2 in key nuclei related to pubertal timing regulation.\n\nBetween Jun 15, 2020, and Jun 15, 2022, 404 patients with idiopathic central precocious puberty (383 [95%] girls and 21 [5%] boys; 261 [65%] sporadic cases and 143 [35%] familial cases from 134 unrelated families) were enrolled and assessed. We identified three rare heterozygous likely damaging coding variants in MECP2 in five girls: a de novo missense variant (Arg97Cys) in two monozygotic twin sisters with central precocious puberty and microcephaly; a de novo missense variant (Ser176Arg) in one girl with sporadic central precocious puberty, obesity, and autism; and an insertion (Ala6_Ala8dup) in two unrelated girls with sporadic central precocious puberty. Additionally, we identified one rare heterozygous 3'UTR MECP2 insertion (36_37insT) in two unrelated girls with sporadic central precocious puberty. None of them manifested Rett syndrome. Mecp2 protein colocalised with GnRH expression in hypothalamic nuclei responsible for GnRH regulation in mice.\n\nWe identified rare MECP2 variants in girls with central precocious puberty, with or without mild neurodevelopmental abnormalities. MECP2 might have a role in the hypothalamic control of human pubertal timing, adding to the evidence of involvement of epigenetic and genetic mechanisms in this crucial biological process.\n\nFunda&#xe7;&#xe3;o de Amparo &#xe0; Pesquisa do Estado de S&#xe3;o Paulo, Conselho Nacional de Desenvolvimento Cient&#xed;fico e Tecnol&#xf3;gico, and the Wellcome Trust.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Identification of genetic causes of central precocious puberty have revealed epigenetic mechanisms as regulators of human pubertal timing. MECP2, an X-linked gene, encodes a chromatin-associated protein with a role in gene transcription.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37385287/",
+  "mesh_terms": [
+    "Animals",
+    "Child",
+    "Female",
+    "Humans",
+    "Male",
+    "Mice",
+    "Brazil",
+    "Cohort Studies",
+    "Follicle Stimulating Hormone",
+    "Gonadotropin-Releasing Hormone",
+    "Luteinizing Hormone",
+    "Puberty, Precocious",
+    "Rett Syndrome",
+    "Methyl-CpG-Binding Protein 2"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

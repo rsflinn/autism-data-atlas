@@ -1,0 +1,46 @@
+{
+  "pmid": "38258970",
+  "doi": "10.1111/jir.13121",
+  "title": "Characterising the social interaction style of autism in young adult males with fragile X syndrome",
+  "authors": "Moser C, Campanelli A, Friedman L, Thurman AJ, Roberts JE, Abbeduto L, et al.",
+  "journal": "Journal of intellectual disability research : JIDR",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "The characterisation of autism in fragile X syndrome (FXS) has been a source of controversy due to the complexity of disentangling autism traits from common features of the FXS phenotype. Autism in FXS is significantly underdiagnosed in the community, which may be partly due to insufficient clinical description of the social interaction profile of autism within the FXS phenotype. In this study, we applied a classic framework for characterising social interaction styles in autism to a sample of young adult males with FXS and co-occurring autism to enhance understanding of how the social challenges associated with autism manifest within FXS.\n\nParticipants were 41 males (M age&#xa0;= 18&#xa0;years) with FXS and co-occurring autism. Interaction samples were coded for expression of predominately 'active' (characterised by a desire to make social approaches) or 'passive' (characterised by lack of initiation of social approach towards others) interaction profiles. Differences in the expression of phenotypic features of FXS, including anxiety, attention-deficit/hyperactivity disorder, cognitive, adaptive and language impairments and autism symptom severity, were examined across those with passive and active interaction styles.\n\nApproximately half of the sample was classified as active and half as passive, demonstrating diversity in the social phenotype of autism associated with FXS. The two subtypes did not differ in autism severity, anxiety or attention-deficit/hyperactivity disorder symptoms or in cognitive, adaptive or language abilities.\n\nThis study enhances understanding of FXS-associated autism by documenting phenotypic variability in the social interaction profile in this group, with active and passive social interaction styles represented. The two social interaction styles were not associated with differential expression of common phenotypic features of FXS, suggesting similar support needs.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The characterisation of autism in fragile X syndrome (FXS) has been a source of controversy due to the complexity of disentangling autism traits from common features of the FXS phenotype. Autism in FXS is significantly underdiagnosed in the community, which may be partly due to insufficient clinical description of the social interaction profile of autism within the FXS phenotype.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38258970/",
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Young Adult",
+    "Adolescent",
+    "Fragile X Syndrome",
+    "Autistic Disorder",
+    "Social Interaction",
+    "Anxiety",
+    "Language Disorders",
+    "Autism Spectrum Disorder"
+  ],
+  "keywords": [
+    "FMR1",
+    "autism spectrum disorder",
+    "behavioural phenotypes",
+    "neurodevelopmental disorder",
+    "social profile"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

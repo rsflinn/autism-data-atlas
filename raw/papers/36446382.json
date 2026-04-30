@@ -1,0 +1,51 @@
+{
+  "pmid": "36446382",
+  "doi": "10.1016/j.neuron.2022.10.037",
+  "title": "Gabrb3 is required for the functional integration of pyramidal neuron subtypes in the somatosensory cortex",
+  "authors": "Babij R, Ferrer C, Donatelle A, Wacks S, Buch AM, Niemeyer JE, et al.",
+  "journal": "Neuron",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Dysfunction of gamma-aminobutyric acid (GABA)ergic circuits is strongly associated with neurodevelopmental disorders. However, it is unclear how genetic predispositions impact circuit assembly. Using in&#xa0;vivo two-photon and widefield calcium imaging in developing mice, we show that Gabrb3, a gene strongly associated with autism spectrum disorder (ASD) and Angelman syndrome (AS), is enriched in contralaterally projecting pyramidal neurons and is required for inhibitory function. We report that Gabrb3 ablation leads to a developmental decrease in GABAergic synapses, increased local network synchrony, and long-lasting enhancement in functional connectivity of contralateral-but not ipsilateral-pyramidal neuron subtypes. In addition, Gabrb3 deletion leads to increased cortical response to tactile stimulation at neonatal stages. Using human transcriptomics and neuroimaging datasets from ASD subjects, we show that the spatial distribution of GABRB3 expression correlates with atypical connectivity in these subjects. Our studies reveal a requirement for Gabrb3 during the emergence of interhemispheric circuits for sensory processing.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "GABRB3"
+  ],
+  "summary": "Dysfunction of gamma-aminobutyric acid (GABA)ergic circuits is strongly associated with neurodevelopmental disorders. However, it is unclear how genetic predispositions impact circuit assembly.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36446382/",
+  "mesh_terms": [
+    "Mice",
+    "Humans",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Somatosensory Cortex",
+    "Pyramidal Cells",
+    "Synapses",
+    "Touch",
+    "Receptors, GABA-A"
+  ],
+  "keywords": [
+    "Angelman",
+    "GABA",
+    "GABRB3",
+    "callosal projections",
+    "corpus callosum",
+    "interhemispheric connectivity",
+    "network synchrony",
+    "projection neurons",
+    "pyramidal neurons"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

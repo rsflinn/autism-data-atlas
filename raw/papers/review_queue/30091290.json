@@ -1,0 +1,46 @@
+{
+  "pmid": "30091290",
+  "doi": "10.1002/dvdy.24662",
+  "title": "Applications of Human Brain Organoids to Clinical Problems",
+  "authors": "Chen HI, Song H, Ming GL",
+  "journal": "Developmental dynamics : an official publication of the American Association of Anatomists",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "Brain organoids are an exciting new technology with the potential to significantly change how diseases of the brain are understood and treated. These three-dimensional neural tissues are derived from the self-organization of pluripotent stem cells, and they recapitulate the developmental process of the human brain, including progenitor zones and rudimentary cortical layers. Brain organoids have been valuable in investigating different aspects of developmental neurobiology and comparative biology. Several characteristics of organoids also make them attractive as models of brain disorders. Data generated from human organoids are more generalizable to patients because of the match in species background. Personalized organoids also can be generated from patient-derived induced pluripotent stem cells. Furthermore, the three-dimensionality of brain organoids supports cellular, mechanical, and topographical cues that are lacking in planar systems. In this review, we discuss the translational potential of brain organoids, using the examples of Zika virus, autism-spectrum disorder, and glioblastoma multiforme to consider how they could contribute to disease modeling, personalized medicine, and testing of therapeutics. We then discuss areas of improvement in organoid technology that will enhance the translational potential of brain organoids, as well as the possibility of their use as substrates for repairing cerebral circuitry after injury. Developmental Dynamics 248:53-64, 2019. &#xa9; 2018 Wiley Periodicals, Inc.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Brain organoids are an exciting new technology with the potential to significantly change how diseases of the brain are understood and treated. These three-dimensional neural tissues are derived from the self-organization of pluripotent stem cells, and they recapitulate the developmental process of the human brain, including progenitor zones and rudimentary cortical layers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30091290/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Brain Diseases",
+    "Humans",
+    "Models, Biological",
+    "Organoids",
+    "Pluripotent Stem Cells",
+    "Translational Research, Biomedical"
+  ],
+  "keywords": [
+    "brain structure",
+    "cerebral organoid",
+    "disease model",
+    "personalized medicine",
+    "pluripotent stem cells"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+  ]
+}

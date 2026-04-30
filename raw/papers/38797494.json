@@ -1,0 +1,51 @@
+{
+  "pmid": "38797494",
+  "doi": "10.1016/j.bbr.2024.115069",
+  "title": "KCNH5 deletion increases autism susceptibility by regulating neuronal growth through Akt/mTOR signaling pathway",
+  "authors": "Yu L, Liu Y, Xia J, Feng S, Chen F",
+  "journal": "Behavioural brain research",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Recent clinical studies have highlighted mutations in the voltage-gated potassium channel Kv10.2 encoded by the KCNH5 gene among individuals with autism spectrum disorder (ASD). Our preliminary study found that Kv10.2 was decreased in the hippocampus of valproic acid (VPA) - induced ASD rats. Nevertheless, it is currently unclear how KCNH5 regulates autism-like features, or becomes a new target for autism treatment. We employed KCNH5 knockout (KCNH5) rats and VPA - induced ASD rats in this study. Then, we used behavioral assessments, combined with electrophysiological recordings and hippocampal brain slice, to elucidate the impact of KCNH5 deletion and environmental factors on neural development and function in rats. We found that KCNH5rats showed early developmental delay, neuronal overdevelopment, and abnormal electroencephalogram (EEG) signals, but did not exhibit autism-like behavior. KCNH5rats exposed to VPA (KCNH5-VPA) exhibit even more severe autism-like behaviors and abnormal neuronal development. The absence of KCNH5 excessively enhances the activity of the Protein Kinase B (Akt)/Mechanistic Target of Rapamycin (mTOR) signaling pathway in the hippocampus of rats after exposure to VPA. Overall, our findings underscore the deficiency of KCNH5 increases the susceptibility to autism under environmental exposures, suggesting its potential utility as a target for screening and diagnosis in ASD.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Recent clinical studies have highlighted mutations in the voltage-gated potassium channel Kv10.2 encoded by the KCNH5 gene among individuals with autism spectrum disorder (ASD). Our preliminary study found that Kv10.2 was decreased in the hippocampus of valproic acid (VPA) - induced ASD rats.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38797494/",
+  "mesh_terms": [
+    "Animals",
+    "Male",
+    "Rats",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "ERG1 Potassium Channel",
+    "Ether-A-Go-Go Potassium Channels",
+    "Hippocampus",
+    "Neurons",
+    "Proto-Oncogene Proteins c-akt",
+    "Rats, Sprague-Dawley",
+    "Signal Transduction",
+    "TOR Serine-Threonine Kinases",
+    "Valproic Acid"
+  ],
+  "keywords": [
+    "AKT/mTOR pathway",
+    "Autism spectrum disorder",
+    "Electrophysiology",
+    "KCNH5",
+    "Synaptic density"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

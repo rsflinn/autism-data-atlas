@@ -1,0 +1,52 @@
+{
+  "pmid": "34830337",
+  "doi": "10.3390/ijms222212456",
+  "title": "Significance of GABAReceptor for Cognitive Function and Hippocampal Pathology",
+  "authors": "Sakimoto Y, Oo PM, Goshima M, Kanehisa I, Tsukada Y, Mitsushima D",
+  "journal": "International journal of molecular sciences",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "The hippocampus is a primary area for contextual memory, known to process spatiotemporal information within a specific episode. Long-term strengthening of glutamatergic transmission is a mechanism of contextual learning in the dorsal cornu ammonis 1 (CA1) area of the hippocampus. CA1-specific immobilization or blockade of &#x3b1;-amino-3-hydroxyl-5-methyl-4-isoxazole-propionate (AMPA) receptor delivery can impair learning performance, indicating a causal relationship between learning and receptor delivery into the synapse. Moreover, contextual learning also strengthens GABA(gamma-aminobutyric acid) receptor-mediated inhibitory synapses onto CA1 neurons. Recently we revealed that strengthening of GABAreceptor-mediated inhibitory synapses preceded excitatory synaptic plasticity after contextual learning, resulting in a reduced synaptic excitatory/inhibitory (E/I) input balance that returned to pretraining levels within 10 min. The faster plasticity at inhibitory synapses may allow encoding a contextual memory and prevent cognitive dysfunction in various hippocampal pathologies. In this review, we focus on the dynamic changes of GABAreceptor mediated-synaptic currents after contextual learning and the intracellular mechanism underlying rapid inhibitory synaptic plasticity. In addition, we discuss that several pathologies, such as Alzheimer's disease, autism spectrum disorders and epilepsy are characterized by alterations in GABAreceptor trafficking, synaptic E/I imbalance and neuronal excitability.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The hippocampus is a primary area for contextual memory, known to process spatiotemporal information within a specific episode. Long-term strengthening of glutamatergic transmission is a mechanism of contextual learning in the dorsal cornu ammonis 1 (CA1) area of the hippocampus.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34830337/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "CA1 Region, Hippocampal",
+    "Cognition",
+    "Epilepsy",
+    "Gene Expression Regulation",
+    "Humans",
+    "Learning",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Nootropic Agents",
+    "Protein Transport",
+    "Receptors, AMPA",
+    "Receptors, GABA-A",
+    "Synapses",
+    "Synaptic Transmission"
+  ],
+  "keywords": [
+    "AMPA receptor",
+    "GABAA receptor",
+    "contextual learning",
+    "synaptic plasticity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

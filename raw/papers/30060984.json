@@ -1,0 +1,55 @@
+{
+  "pmid": "30060984",
+  "doi": "10.1016/j.braindev.2018.07.003",
+  "title": "Everolimus for epilepsy and autism spectrum disorder in tuberous sclerosis complex: EXIST-3 substudy in Japan",
+  "authors": "Mizuguchi M, Ikeda H, Kagitani-Shimono K, Yoshinaga H, Suzuki Y, Aoki M, et al.",
+  "journal": "Brain & development",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Epilepsy and autism spectrum disorder (ASD) are the common neurological manifestations of tuberous sclerosis complex (TSC). EXIST-3 study has recently demonstrated that everolimus reduces seizures in patients with TSC and refractory epilepsy. Here we report the efficacy and safety of everolimus for treatment-refractory seizures in Japanese patients of EXIST-3, along with the exploratory analysis evaluating the everolimus effect on comorbid ASD symptoms in these patients.\n\nPrimary endpoint was change in seizure frequency from baseline defined as response rate (&#x2265;50% reduction) and median percentage reduction in the seizure frequency. Pervasive Developmental Disorders Autism Society Japan Rating Scale (PARS) scores were assessed at baseline and at week-18 for ASD symptoms.\n\nOverall, 35 Japanese patients were randomized to everolimus low-exposure (LE; n&#x202f;=&#x202f;10), everolimus high-exposure (HE; n&#x202f;=&#x202f;14), or placebo (n&#x202f;=&#x202f;11). The response rate was 30.0% and 28.6% versus 0% with the everolimus LE and HE versus placebo arm, respectively. Similarly, the median percentage reduction in seizure frequency was 6.88% and 38.06% versus -6.67%. Stomatitis was the most frequently reported adverse event (everolimus LE, 100%; HE, 78.6%; placebo, 9.1%). Four of 11 patients with ASD in the everolimus arms and 1 of 8 patients with ASD in the placebo arm showed &#x2265;5 point decrease in PARS scores.\n\nAdjunctive everolimus treatment improved seizure frequency with a tolerable safety relative to placebo among 35 Japanese patients with TSC-associated refractory seizures, consistent with the results of overall EXIST-3 study involving 366 patients. A favorable trend towards the improvement of ASD symptoms was observed.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Epilepsy and autism spectrum disorder (ASD) are the common neurological manifestations of tuberous sclerosis complex (TSC). EXIST-3 study has recently demonstrated that everolimus reduces seizures in patients with TSC and refractory epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30060984/",
+  "mesh_terms": [
+    "Adolescent",
+    "Anticonvulsants",
+    "Autism Spectrum Disorder",
+    "Chemotherapy, Adjuvant",
+    "Child",
+    "Child, Preschool",
+    "Epilepsy",
+    "Everolimus",
+    "Female",
+    "Humans",
+    "Japan",
+    "Male",
+    "Psychotropic Drugs",
+    "Seizures",
+    "Stomatitis",
+    "Treatment Outcome",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "EXIST-3",
+    "Epilepsy",
+    "Everolimus",
+    "Refractory seizures",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ]
+}

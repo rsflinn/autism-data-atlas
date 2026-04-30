@@ -1,0 +1,48 @@
+{
+  "pmid": "33189799",
+  "doi": "10.1016/j.gene.2020.145306",
+  "title": "KALRN: A central regulator of synaptic function and synaptopathies",
+  "authors": "Parnell E, Shapiro LP, Voorn RA, Forrest MP, Jalloul HA, Loizzo DD, et al.",
+  "journal": "Gene",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "The synaptic regulator, kalirin, plays a key role in synaptic plasticity and formation of dendritic arbors and spines. Dysregulation of the KALRN gene has been linked to various neurological disorders, including autism spectrum disorder, Alzheimer's disease, schizophrenia, addiction and intellectual disabilities. Both genetic and molecular studies highlight the importance of normal KALRN expression for healthy neurodevelopment and function. This review aims to give an in-depth analysis of the structure and molecular mechanisms of kalirin function, particularly within the brain. These data are correlated to genetic evidence of patient mutations within KALRN and animal models of Kalrn that together give insight into the manner in which this gene may be involved in neurodevelopment and the etiology of disease. The emerging links to human disease from post-mortem, genome wide association (GWAS) and exome sequencing studies are examined to highlight the disease relevance of kalirin, particularly in neurodevelopmental diseases. Finally, we will discuss efforts to pharmacologically regulate kalirin protein activity and the implications of such endeavors for the treatment of human disease. As multiple disease states arise from deregulated synapse formation and altered KALRN expression and function, therapeutics may be developed to provide control over KALRN activity and thus synapse dysregulation. As such, a detailed understanding of how kalirin regulates neuronal development, and the manner in which kalirin dysfunction promotes neurological disease, may support KALRN as a valuable therapeutic avenue for future pharmacological intervention.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The synaptic regulator, kalirin, plays a key role in synaptic plasticity and formation of dendritic arbors and spines. Dysregulation of the KALRN gene has been linked to various neurological disorders, including autism spectrum disorder, Alzheimer's disease, schizophrenia, addiction and intellectual disabilities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33189799/",
+  "mesh_terms": [
+    "Animals",
+    "Genome-Wide Association Study",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Neuronal Plasticity",
+    "Protein Serine-Threonine Kinases",
+    "Synapses"
+  ],
+  "keywords": [
+    "Alzheimer&#x2019;s disease",
+    "Autism spectrum disorder",
+    "Dendritic spine",
+    "Developmental delay",
+    "KALRN",
+    "Kalirin",
+    "Neurodegeneration",
+    "Neurodevelopment",
+    "Schizophrenia",
+    "Synaptic plasticity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

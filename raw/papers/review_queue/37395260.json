@@ -1,0 +1,44 @@
+{
+  "pmid": "37395260",
+  "doi": "10.1080/10253890.2023.2228925",
+  "title": "Multiple brain regions are involved in reaction to acute restraint stress in CYLD-knockout mice",
+  "authors": "Han YY, Zhou JW, Guo ZW, Wu ZQ, Zhang ZY, Liu DX, et al.",
+  "journal": "Stress (Amsterdam, Netherlands)",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "The lysine 63 deubiquitinase cylindromatosis (CYLD) is expressed at high levels in the brain and is considered to be involved in anxious and depressive behavior, cognitive inflexibility, and autism disorders. Previous research was limited in some brain regions, including the hippocampus, striatum, and amygdala. To better understand whether CYLD plays a role in adaptation to stress and which brain regions are involved, we analyzed the behavior of CYLD-knockout mice in the elevated plus maze (EPM) and light-dark box test (LDT) after acute restraint stress (ARS) and mapped their c-Fos immunoreactivity in brain sections. Here we report that CYLD deficiency leads to an unexpected reaction to ARS in mice, and is accompanied by significant neuronal activation of brain regions including the medial prefrontal cortex (mPFC), dorsal striatum (DS), nucleus accumbens (NAc), and basal lateral amygdala (BLA), but not ventral hippocampus (vHPC). Our findings show that CYLD participates in ARS-induced anxious behavior and that this involves multiple brain regions.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The lysine 63 deubiquitinase cylindromatosis (CYLD) is expressed at high levels in the brain and is considered to be involved in anxious and depressive behavior, cognitive inflexibility, and autism disorders. Previous research was limited in some brain regions, including the hippocampus, striatum, and amygdala.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37395260/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Mice, Knockout",
+    "Stress, Psychological",
+    "Brain",
+    "Proto-Oncogene Proteins c-fos",
+    "Anxiety",
+    "Prefrontal Cortex",
+    "Deubiquitinating Enzyme CYLD"
+  ],
+  "keywords": [
+    "CYLD",
+    "Stress",
+    "anxiety",
+    "c-Fos"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

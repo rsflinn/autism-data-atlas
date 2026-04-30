@@ -1,0 +1,54 @@
+{
+  "pmid": "28379373",
+  "doi": "10.1093/brain/awx054",
+  "title": "Genetic and phenotypic heterogeneity suggest therapeutic implications in SCN2A-related disorders",
+  "authors": "Wolff M, Johannesen KM, Hedrich UBS, Masnada S, Rubboli G, Gardella E, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2017-05",
+  "source": "pubmed",
+  "abstract": "Mutations in SCN2A, a gene encoding the voltage-gated sodium channel Nav1.2, have been associated with a spectrum of epilepsies and neurodevelopmental disorders. Here, we report the phenotypes of 71 patients and review 130 previously reported patients. We found that (i) encephalopathies with infantile/childhood onset epilepsies (&#x2265;3 months of age) occur almost as often as those with an early infantile onset (<3 months), and are thus more frequent than previously reported; (ii) distinct phenotypes can be seen within the late onset group, including myoclonic-atonic epilepsy (two patients), Lennox-Gastaut not emerging from West syndrome (two patients), and focal epilepsies with an electrical status epilepticus during slow sleep-like EEG pattern (six patients); and (iii) West syndrome constitutes a common phenotype with a major recurring mutation (p.Arg853Gln: two new and four previously reported children). Other known phenotypes include Ohtahara syndrome, epilepsy of infancy with migrating focal seizures, and intellectual disability or autism without epilepsy. To assess the response to antiepileptic therapy, we retrospectively reviewed the treatment regimen and the course of the epilepsy in 66 patients for which well-documented medical information was available. We find that the use of sodium channel blockers was often associated with clinically relevant seizure reduction or seizure freedom in children with early infantile epilepsies (<3 months), whereas other antiepileptic drugs were less effective. In contrast, sodium channel blockers were rarely effective in epilepsies with later onset (&#x2265;3 months) and sometimes induced seizure worsening. Regarding the genetic findings, truncating mutations were exclusively seen in patients with late onset epilepsies and lack of response to sodium channel blockers. Functional characterization of four selected missense mutations using whole cell patch-clamping in tsA201 cells-together with data from the literature-suggest that mutations associated with early infantile epilepsy result in increased sodium channel activity with gain-of-function, characterized by slowing of fast inactivation, acceleration of its recovery or increased persistent sodium current. Further, a good response to sodium channel blockers clinically was found to be associated with a relatively small gain-of-function. In contrast, mutations in patients with late-onset forms and an insufficient response to sodium channel blockers were associated with loss-of-function effects, including a depolarizing shift of voltage-dependent activation or a hyperpolarizing shift of channel availability (steady-state inactivation). Our clinical and experimental data suggest a correlation between age at disease onset, response to sodium channel blockers and the functional properties of mutations in children with SCN2A-related epilepsy.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Mutations in SCN2A, a gene encoding the voltage-gated sodium channel Nav1.2, have been associated with a spectrum of epilepsies and neurodevelopmental disorders. Here, we report the phenotypes of 71 patients and review 130 previously reported patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28379373/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age of Onset",
+    "Child",
+    "Child, Preschool",
+    "Denmark",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Infant",
+    "Male",
+    "Mutation",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Neurodevelopmental Disorders",
+    "Phenotype",
+    "Sodium Channel Blockers",
+    "Young Adult"
+  ],
+  "keywords": [
+    "SCN2A",
+    "epilepsy",
+    "epilepsy genetics",
+    "sodium channel blockers",
+    "treatment response"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

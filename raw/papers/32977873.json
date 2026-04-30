@@ -1,0 +1,40 @@
+{
+  "pmid": "32977873",
+  "doi": "10.1016/B978-0-444-64148-9.00010-7",
+  "title": "Autism spectrum disorder",
+  "authors": "Mottron L",
+  "journal": "Handbook of clinical neurology",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Autism is a frequent, precocious behavioral constellation of social and communicative atypicalities associated with apparently restricted interests and repetitive behavior and paired with an uneven ability profile. Its definition has constantly broadened in the past 75 years, introducing phenotypes increasingly distant from its initial description, heterogeneous in intelligence and speech level, and associated conditions. When it is unassociated with other conditions, its origin is mostly genetic, transmissible, and favored by frequent polymorphisms with small effects present in the general population. Identified de novo rare mutations with large deleterious effects produce phenotypes only loosely related to nonsyndromic autism. Autism is associated with brain reorganization at multiple levels, and with a variant of typical information processing, i.e., the way humans perceive, memorize, manipulate, and attribute emotional value to available information. Its phenotype evolves over the span of life, with an overall reduction of autistic signs, but it still requires some level of support. There is no treatment for this condition; however, it is compatible with high levels of integration into society.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a frequent, precocious behavioral constellation of social and communicative atypicalities associated with apparently restricted interests and repetitive behavior and paired with an uneven ability profile. Its definition has constantly broadened in the past 75 years, introducing phenotypes increasingly distant from its initial description, heterogeneous in intelligence and speech level, and associated conditions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32977873/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Cognition",
+    "Humans",
+    "Phenotype"
+  ],
+  "keywords": [
+    "Asperger syndrome",
+    "Autism",
+    "CNV",
+    "Diagnosis",
+    "Intelligence",
+    "Prevalence"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "40037627",
+  "doi": "10.1093/brain/awaf084",
+  "title": "p75NTR modulation prevents cellular, cortical activity and cognitive dysfunctions caused by perinatal hypoxia",
+  "authors": "Chattopadhyaya B, Lee KKY, Carre&#xf1;o-Mu&#xf1;oz MI, Paris-Rubianes A, Lavertu-Jolin M, Berryer MH, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2025-08",
+  "source": "pubmed",
+  "abstract": "Children who have experienced moderate perinatal hypoxia are at risk of developing long-lasting subtle cognitive and behavioural deficits, including learning disabilities and emotional problems. Understanding the underlying mechanisms is an essential step for designing targeted therapy. Fast-spiking, parvalbumin (PV)-positive GABAergic interneurons modulate the generation of gamma oscillations, which, in turn, regulate many cognitive functions, including goal-directed attentional processing and cognitive flexibility. Owing to their fast firing rate, PV cell function requires high levels of energy, which might render them highly vulnerable to conditions of metabolic and oxidative stress caused by perinatal hypoxia. Here, we show that adult mice that experienced moderate perinatal hypoxia have decreased cortical PV expression levels in addition to specific impairments in recognition memory and cognitive flexibility. We also found that the expression level of the neurotrophin receptor p75NTR, which limits PV cell maturation during the first postnatal weeks, is increased in mice that experienced moderate perinatal hypoxia. Genetic deletion of p75NTR in GABAergic neurons expressing the transcription factor Nkx2.1, which include PV cells, protects mice from PV expression loss and the long-term cognitive effects of moderate perinatal hypoxia. Finally, treatment with a p75NTR inhibitor starting after moderate perinatal hypoxia and lasting for 1 week prevented PV expression loss and the occurrence of cognitive and cortical activity deficits in adult mice. Altogether, our data reveal p75NTR-mediated signalling as a potential molecular target for treatment of the cognitive alterations caused by moderate perinatal hypoxia.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Children who have experienced moderate perinatal hypoxia are at risk of developing long-lasting subtle cognitive and behavioural deficits, including learning disabilities and emotional problems. Understanding the underlying mechanisms is an essential step for designing targeted therapy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40037627/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Parvalbumins",
+    "GABAergic Neurons",
+    "Cognitive Dysfunction",
+    "Cerebral Cortex",
+    "Female",
+    "Receptors, Nerve Growth Factor",
+    "Mice, Inbred C57BL",
+    "Male",
+    "Interneurons",
+    "Pregnancy",
+    "Hypoxia, Brain"
+  ],
+  "keywords": [
+    "GABAergic interneurons",
+    "cognition",
+    "electroencephalogram",
+    "p75NTR",
+    "parvalbumin",
+    "perinatal hypoxia"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

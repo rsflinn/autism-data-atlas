@@ -1,0 +1,51 @@
+{
+  "pmid": "40188311",
+  "doi": "10.1038/s41380-025-02962-w",
+  "title": "Translational research approach to social orienting deficits in autism: the role of superior colliculus-ventral tegmental pathway",
+  "authors": "Contestabile A, Kojovic N, Casarotto G, Delavari F, Hagmann P, Schaer M, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is characterized by impairments in social interaction and repetitive behaviors. A key characteristic of ASD is a decreased interest in social interactions, which affects individuals' ability to engage with their social environment. This study explores the neurobiological basis of these social deficits, focusing on the pathway between the Superior Colliculus (SC) and the Ventral Tegmental Area (VTA). Adopting a translational approach, our research used Shank3 knockout mice (Shank3), which parallel a clinical cohort of young children with ASD, to investigate these mechanisms. We observed consistent deficits in social orienting across species. In children with ASD, fMRI analyses revealed a significant decrease in connectivity between the SC and VTA. Additionally, using miniscopes in mice, we identified a reduction in the frequency of calcium transients in SC neurons projecting to the VTA, accompanied by changes in neuronal correlation and intrinsic cellular properties. Notably, the interneuronal correlation in Shank3mice and the functional connectivity of the SC to VTA pathway in children with ASD correlated with the severity of social deficits. Our findings underscore the potential of the SC-VTA pathway as a biomarker for ASD and open new avenues for therapeutic interventions, highlighting the importance of early detection and targeted treatment strategies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is characterized by impairments in social interaction and repetitive behaviors. A key characteristic of ASD is a decreased interest in social interactions, which affects individuals' ability to engage with their social environment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40188311/",
+  "mesh_terms": [
+    "Animals",
+    "Ventral Tegmental Area",
+    "Mice",
+    "Mice, Knockout",
+    "Autism Spectrum Disorder",
+    "Male",
+    "Humans",
+    "Female",
+    "Superior Colliculi",
+    "Magnetic Resonance Imaging",
+    "Translational Research, Biomedical",
+    "Nerve Tissue Proteins",
+    "Neural Pathways",
+    "Child",
+    "Social Behavior",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Neurons",
+    "Mice, Inbred C57BL",
+    "Microfilament Proteins",
+    "Child, Preschool",
+    "Social Interaction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

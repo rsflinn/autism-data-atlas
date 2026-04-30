@@ -1,0 +1,53 @@
+{
+  "pmid": "34297942",
+  "doi": "10.1016/j.stemcr.2021.06.011",
+  "title": "Developing human pluripotent stem cell-based cerebral organoids with a controllable microglia ratio for modeling brain development and pathology",
+  "authors": "Xu R, Boreland AJ, Li X, Erickson C, Jin M, Atkins C, et al.",
+  "journal": "Stem cell reports",
+  "date": "2021-07",
+  "source": "pubmed",
+  "abstract": "Microglia play critical roles in brain development, homeostasis, and disease. Microglia in animal models cannot accurately model human microglia due to notable transcriptomic and functional differences between human and other animal microglia. Incorporating human pluripotent stem cell (hPSC)-derived microglia into brain organoids provides unprecedented opportunities to study human microglia. However, an optimized method that integrates appropriate amounts of microglia into brain organoids at a proper time point, resembling in&#xa0;vivo brain development, is still lacking. Here, we report a new brain region-specific, microglia-containing organoid model by co-culturing hPSC-derived primitive neural progenitor cells and primitive macrophage progenitors. In the organoids, the number of human microglia can be controlled, and microglia exhibit phagocytic activity and synaptic pruning function. Furthermore, human microglia respond to Zika virus infection of the organoids. Our findings establish a new microglia-containing brain organoid model that will serve to study human microglial function in a variety of neurological disorders.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Microglia play critical roles in brain development, homeostasis, and disease. Microglia in animal models cannot accurately model human microglia due to notable transcriptomic and functional differences between human and other animal microglia.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34297942/",
+  "mesh_terms": [
+    "Brain",
+    "Cell Differentiation",
+    "Cell Line",
+    "Cells, Cultured",
+    "Coculture Techniques",
+    "Gene Expression Profiling",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Microglia",
+    "Models, Neurological",
+    "Neural Stem Cells",
+    "Organoids",
+    "Pluripotent Stem Cells",
+    "Synapses",
+    "Zika Virus",
+    "Zika Virus Infection"
+  ],
+  "keywords": [
+    "Zika virus",
+    "cerebral organoid",
+    "human iPSC",
+    "human pluripotent stem cell",
+    "microglia",
+    "synaptic pruning"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

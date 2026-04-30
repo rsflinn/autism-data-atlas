@@ -1,0 +1,47 @@
+{
+  "pmid": "37223033",
+  "doi": "10.3389/fendo.2023.1126036",
+  "title": "The genetics of autism and steroid-related traits in prenatal and postnatal life",
+  "authors": "Tsompanidis A, Warrier V, Baron-Cohen S",
+  "journal": "Frontiers in endocrinology",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Autism likelihood is a largely heritable trait. Autism prevalence has a skewed sex ratio, with males being diagnosed more often than females. Steroid hormones play a mediating role in this, as indicated by studies of both prenatal biology and postnatal medical conditions in autistic men and women. It is currently unclear if the genetics of steroid regulation or production interact with the genetic liability for autism.\n\nTo address this, two studies were conducted using publicly available datasets, which focused respectively on rare genetic variants linked to autism and neurodevelopmental conditions (study 1) and common genetic variants (study 2) for autism. In Study 1 an enrichment analysis was conducted, between autism-related genes (SFARI database) and genes that are differentially expressed (FDR<0.1) between male and female placentas, in 1trimester chorionic villi samples of viable pregnancies (n=39). In Study 2 summary statistics of genome wide association studies (GWAS) were used to investigate the genetic correlation between autism and bioactive testosterone, estradiol and postnatal PlGF levels, as well as steroid-related conditions such as polycystic ovaries syndrome (PCOS), age of menarche, and androgenic alopecia. Genetic correlation was calculated based on LD Score regression and results were corrected for multiple testing with FDR.\n\nIn Study 1, there was significant enrichment of X-linked autism genes in male-biased placental genes, independently of gene length (n=5 genes, p<0.001). In Study 2, common genetic variance associated with autism did not correlate to the genetics for the postnatal levels of testosterone, estradiol or PlGF, but was associated with the genotypes associated with early age of menarche in females (b=-0.109, FDR-q=0.004) and protection from androgenic alopecia for males (b=-0.135, FDR-q=0.007).\n\nThe rare genetic variants associated with autism appear to interact with placental sex differences, while the common genetic variants associated with autism appear to be involved in the regulation of steroid-related traits. These lines of evidence indicate that the likelihood for autism is partly linked to factors mediating physiological sex differences throughout development.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism likelihood is a largely heritable trait. Autism prevalence has a skewed sex ratio, with males being diagnosed more often than females.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37223033/",
+  "mesh_terms": [
+    "Pregnancy",
+    "Female",
+    "Humans",
+    "Male",
+    "Autistic Disorder",
+    "Genome-Wide Association Study",
+    "Placenta",
+    "Steroids",
+    "Estradiol",
+    "Alopecia"
+  ],
+  "keywords": [
+    "autism",
+    "genetic correlation",
+    "menarche age",
+    "neuroplacentology",
+    "placenta",
+    "sex difference"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

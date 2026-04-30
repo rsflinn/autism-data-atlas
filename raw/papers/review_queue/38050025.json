@@ -1,0 +1,58 @@
+{
+  "pmid": "38050025",
+  "doi": "10.1101/mcs.a006316",
+  "title": "Health supervision for children and adolescents with 16p11.2 deletion syndrome",
+  "authors": "Chung WK, Herrera FF, ",
+  "journal": "Cold Spring Harbor molecular case studies",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Rare genetic conditions are challenging for the primary care provider to manage without proper guidelines. This clinical review is designed to assist the pediatrician, family physician, or internist in the primary care setting to manage the complexities of 16p11.2 deletion syndrome. A multidisciplinary medical home with the primary care provider leading the care and armed with up-to-date guidelines will prove most helpful to the rare genetic patient population. A special focus on technology to fill gaps in deficits, review of case studies on novel medical treatments, and involvement with the educational system for advocacy with an emphasis on celebrating diversity will serve the rare genetic syndrome population well.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Rare genetic conditions are challenging for the primary care provider to manage without proper guidelines. This clinical review is designed to assist the pediatrician, family physician, or internist in the primary care setting to manage the complexities of 16p11.2 deletion syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38050025/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Adolescent",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Autistic Disorder",
+    "Intellectual Disability",
+    "Chromosomes, Human, Pair 16"
+  ],
+  "keywords": [
+    "abdominal obesity",
+    "abnormal speech discrimination",
+    "apraxia",
+    "autism",
+    "delayed fine motor development",
+    "delayed gross motor development",
+    "dysgraphia",
+    "dyslexia",
+    "extrapyramidal dyskinesia",
+    "grammar-specific speech disorder",
+    "intellectual disability, mild",
+    "intellectual disability, moderate",
+    "language impairment",
+    "moderate expressive language delay",
+    "moderate receptive language delay",
+    "narrow palate",
+    "poor fine motor coordination",
+    "poor gross motor coordination",
+    "precocious puberty in males",
+    "sleep disturbance"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

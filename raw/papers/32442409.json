@@ -1,0 +1,67 @@
+{
+  "pmid": "32442409",
+  "doi": "10.1016/j.ajhg.2020.04.014",
+  "title": "An Integrated Deep-Mutational-Scanning Approach Provides Clinical Insights on PTEN Genotype-Phenotype Relationships",
+  "authors": "Mighell TL, Thacker S, Fombonne E, Eng C, O'Roak BJ",
+  "journal": "American journal of human genetics",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Germline variation in PTEN results in variable clinical presentations, including benign and malignant neoplasia and neurodevelopmental disorders. Despite decades of research, it remains unclear how the PTEN genotype is related to clinical outcomes. In this study, we combined two recent deep mutational scanning (DMS) datasets probing the effects of single amino acid variation on enzyme activity and steady-state cellular abundance with a large, well-curated clinical cohort of PTEN-variant carriers. We sought to connect variant-specific molecular phenotypes to the clinical outcomes of individuals with PTEN variants. We found that DMS data partially explain quantitative clinical traits, including head circumference and Cleveland Clinic (CC) score, which is a semiquantitative surrogate of disease burden. We built logistic regression models that use DMS and CADD scores to separate clinical PTEN variation from gnomAD control-only variation with high accuracy. By using a survival-like analysis, we identified molecular phenotype groups with differential risk of early cancer onset as well as lifetime risk of cancer. Finally, we identified classes of DMS-defined variants with significantly different risk levels for classical hamartoma-related features (odds ratio [OR] range of 4.1-102.9). In stark contrast, the risk for developing autism or developmental delay does not significantly change across variant classes (OR range of 5.4-12.4). Together, these findings highlight the potential impact of combining DMS datasets with rich clinical data and provide new insights that might guide personalized clinical decisions for PTEN-variant carriers.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "Germline variation in PTEN results in variable clinical presentations, including benign and malignant neoplasia and neurodevelopmental disorders. Despite decades of research, it remains unclear how the PTEN genotype is related to clinical outcomes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32442409/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Datasets as Topic",
+    "Female",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Hamartoma",
+    "Humans",
+    "Incidence",
+    "Logistic Models",
+    "Male",
+    "Middle Aged",
+    "Mutation, Missense",
+    "Neoplasms",
+    "PTEN Phosphohydrolase",
+    "Phenotype",
+    "Prognosis",
+    "Young Adult"
+  ],
+  "keywords": [
+    "ASD",
+    "PHTS",
+    "PTEN",
+    "PTEN hamartoma tumor syndrome",
+    "autism",
+    "autism spectrum disorder",
+    "cancer",
+    "deep mutational scanning",
+    "genotype-phenotype",
+    "multiplex assay for variant effect"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

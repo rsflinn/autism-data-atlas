@@ -1,0 +1,45 @@
+{
+  "pmid": "34027832",
+  "doi": "10.1080/22423982.2021.1909333",
+  "title": "Neural-level associations of non-verbal pragmatic comprehension in young Finnish autistic adults",
+  "authors": "Kotila A, Tohka J, Kauppi JP, Gabbatore I, M&#xe4;kinen L, Hurtig TM, et al.",
+  "journal": "International journal of circumpolar health",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "This video-based study examines the pragmatic non-verbal comprehension skills and corresponding neural-level findings in young Finnish autistic adults, and controls. Items from the Assessment Battery of Communication (ABaCo) were chosen to evaluate the comprehension of non-verbal communication. Inter-subject correlation (ISC) analysis of the functional magnetic resonance imaging data was used to reveal the synchrony of brain activation across participants during the viewing of pragmatically complex scenes of ABaCo videos. The results showed a significant difference between the ISC maps of the autistic and control groups in tasks involving the comprehension of non-verbal communication, thereby revealing several brain regions where correlation of brain activity was greater within the control group. The results suggest a possible weaker modulation of brain states in response to the pragmatic non-verbal communicative situations in autistic participants. Although there was no difference between the groups in behavioural responses to ABaCo items, there was more variability in the accuracy of the responses in the autistic group. Furthermore, mean answering and reaction times correlated with the severity of autistic traits. The results indicate that even if young autistic adults may have learned to use compensatory resources in their communicative-pragmatic comprehension, pragmatic processing in naturalistic situations still requires additional effort.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "This video-based study examines the pragmatic non-verbal comprehension skills and corresponding neural-level findings in young Finnish autistic adults, and controls. Items from the Assessment Battery of Communication (ABaCo) were chosen to evaluate the comprehension of non-verbal communication.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34027832/",
+  "mesh_terms": [
+    "Adult",
+    "Autistic Disorder",
+    "Behavior Therapy",
+    "Comprehension",
+    "Finland",
+    "Humans",
+    "Magnetic Resonance Imaging"
+  ],
+  "keywords": [
+    "Autism spectrum",
+    "autistic adults",
+    "fMRI",
+    "non-verbal",
+    "pragmatics",
+    "video"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Video-Audio Media"
+  ]
+}

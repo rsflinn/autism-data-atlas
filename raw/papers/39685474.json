@@ -1,0 +1,36 @@
+{
+  "pmid": "39685474",
+  "doi": "10.3390/jcm13237019",
+  "title": "Association ofGene Polymorphic Variants with the Clinical Phenotype of Autism Spectrum Disorder",
+  "authors": "Iwanicki T, Iwanicka J, Balcerzyk-Mati&#x107; A, Jarosz A, Nowak T, Emich-Widera E, et al.",
+  "journal": "Journal of clinical medicine",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": ": Thegene encodes chromodomain helicase DNA-binding protein 8 (CHD8), which is a transcriptional regulator involved in neuron development, myelination, and synaptogenesis. Somegene mutations lead to neurodevelopmental syndromes with core symptoms of autism. The aim of this study was to perform an analysis of the family-based association ofgene polymorphisms with the occurrence and clinical phenotype of autism spectrum disorder (ASD).: We analyzed 210 Caucasian children with ASD and their biological parents. The genotyping of specified polymorphisms, i.e., rs7148741, rs35057134, and rs10467770, was performed using TaqMan-PCR and compared with specific symptoms of ASD.: The G allele (rs7148741) was associated with muscle hypotonia as compared with the AA homozygotes. AA homozygosity (rs35057134) predisposed an individual to the use of an incubator, heart rate fluctuations, and the necessity of hospitalization. Moreover, the alleles and genotypes of this polymorphism were characterized by different Apgar scores and distributions. Additionally, CC homozygotes of rs10467770 were more often predisposed to the use of an incubator and hospitalization relative to T allele carriers. The average Apgar score was higher in TT homozygotes.: Polymorphisms of thegene may determine specific clinical phenotypes of ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": ": Thegene encodes chromodomain helicase DNA-binding protein 8 (CHD8), which is a transcriptional regulator involved in neuron development, myelination, and synaptogenesis. Somegene mutations lead to neurodevelopmental syndromes with core symptoms of autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39685474/",
+  "mesh_terms": [],
+  "keywords": [
+    "CHD8 gene",
+    "autism spectrum disorder",
+    "low birth weight",
+    "muscle hypotonia",
+    "polymorphisms"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

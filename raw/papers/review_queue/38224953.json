@@ -1,0 +1,39 @@
+{
+  "pmid": "38224953",
+  "doi": "10.1093/nar/gkad1256",
+  "title": "Chromatin remodeler CHD8 is required for spermatogonial proliferation and early meiotic progression",
+  "authors": "Nitahara K, Kawamura A, Kitamura Y, Kato K, Namekawa SH, Nishiyama M",
+  "journal": "Nucleic acids research",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Meiosis is a key step during germ cell differentiation, accompanied by the activation of thousands of genes through germline-specific chromatin reorganization. The chromatin remodeling mechanisms underpinning early meiotic stages remain poorly understood. Here we focus on the function of one of the major autism genes, CHD8, in spermatogenesis, based on the epidemiological association between autism and low fertility rates. Specific ablation of Chd8 in germ cells results in gradual depletion of undifferentiated spermatogonia and the failure of meiotic double-strand break (DSB) formation, leading to meiotic prophase I arrest and cell death. Transcriptional analyses demonstrate that CHD8 is required for extensive activation of spermatogenic genes in spermatogonia, necessary for spermatogonial proliferation and meiosis. CHD8 directly binds and regulates genes crucial for meiosis, including H3K4me3 histone methyltransferase genes, meiotic cohesin genes, HORMA domain-containing genes, synaptonemal complex genes, and DNA damage response genes. We infer that CHD8 contributes to meiotic DSB formation and subsequent meiotic progression through combined regulation of these meiosis-related genes. Our study uncovers an essential role of CHD8 in the proliferation of undifferentiated spermatogonia and the successful progression of meiotic prophase I.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Meiosis is a key step during germ cell differentiation, accompanied by the activation of thousands of genes through germline-specific chromatin reorganization. The chromatin remodeling mechanisms underpinning early meiotic stages remain poorly understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38224953/",
+  "mesh_terms": [
+    "Male",
+    "Cell Proliferation",
+    "Chromatin",
+    "Meiosis",
+    "Spermatogenesis",
+    "Spermatogonia",
+    "Animals",
+    "Mice"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "19319913",
+  "doi": "10.1002/bies.200800220",
+  "title": "MeCP2 post-translational regulation through PEST domains: two novel hypotheses: potential relevance and implications for Rett syndrome",
+  "authors": "Thambirajah AA, Eubanks JH, Ausi&#xf3; J",
+  "journal": "BioEssays : news and reviews in molecular, cellular and developmental biology",
+  "date": "2009-05",
+  "source": "pubmed",
+  "abstract": "Mutations in the methyl-CpG-binding protein 2 (MeCP2) cause Rett syndrome, a severe neurodevelopmental disease associated with ataxia and other post-natal symptoms similar to autism. Much research interest has focussed on the implications of MeCP2 in disease and neuron physiology. However, little or no attention has been paid to how MeCP2 turnover is regulated. The post-translational control of MeCP2 is of critical importance, especially as subtle increases or decreases in MeCP2 amounts can affect neuron morphology and function. The latter point is of particular importance for gene therapeutic approaches in which exogenous wild-type MeCP2 is being introduced into diseased neurons. Further to this, we propose two hypotheses. The first hypothesis discusses the poly-ubiquitin-mediated post-translational regulation of MeCP2 through its two PEST domains. The second hypothesis explores the use of histone deacetylase inhibitors to modulate the amounts of MeCP2 expressed in conjunction with the aforementioned therapeutic approaches.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Mutations in the methyl-CpG-binding protein 2 (MeCP2) cause Rett syndrome, a severe neurodevelopmental disease associated with ataxia and other post-natal symptoms similar to autism. Much research interest has focussed on the implications of MeCP2 in disease and neuron physiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19319913/",
+  "mesh_terms": [
+    "Amino Acid Sequence",
+    "Animals",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Molecular Sequence Data",
+    "Phosphorylation",
+    "Protein Processing, Post-Translational",
+    "Protein Structure, Tertiary",
+    "Rett Syndrome",
+    "Sequence Homology, Amino Acid",
+    "Ubiquitination"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

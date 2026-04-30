@@ -1,0 +1,48 @@
+{
+  "pmid": "27123827",
+  "doi": "10.1089/cap.2015.0230",
+  "title": "Varenicline in Autism: Theory and Case Report of Clinical and Biochemical Changes",
+  "authors": "Mostafavi M, Hardy P, Arnold LE",
+  "journal": "Journal of child and adolescent psychopharmacology",
+  "date": "2016-04",
+  "source": "pubmed",
+  "abstract": "To explore the potential benefits of varenicline (CHANTIX), a highly specific partial agonist of neuronal &#x3b1;4&#x3b2;2 nicotinic acetylcholine receptors (nAChR), for autistic symptoms, and present resulting biochemical changes in light of dopamine-related genotype.\n\nThe clinical and biochemical changes exhibited by a 19-year-old severely autistic man following the use of low-dose varenicline in an ABA experiment of nature, and his genotype, were extracted from chart review. Clinical outcome was measured by the Ohio Autism Clinical Impression Scale and 12 relevant urine and saliva metabolites were measured by Neuroscience Laboratory.\n\nWith varenicline, this patient improved clinically and autonomic biochemical indicators in saliva and urine normalized, including dopamine, 3,4-dihydroxyphenylacetic acid (DOPAC), epinephrine, norepinephrine, taurine, and histamine levels. In addition, with varenicline, the dopamine D1 receptor (DRD1) antibody titer as well as the percent of baseline calmodulin-dependent protein kinase II (CaM KII) activity dropped significantly. When varenicline stopped, he deteriorated; when it was resumed, he again improved. Doses of 0.5, 1, and 2&#x2009;mg daily were tried before settling on a dose of 1.5&#x2009;mg daily. He has remained on varenicline for over a year with no noticeable side effects.\n\nThis report is, to the best of our knowledge, only the second to demonstrate positive effects of varenicline in autism, the first to show it in a severe case, and the first to show normalization of biochemical parameters related to genotype. As with the previous report, these encouraging results warrant further controlled research before clinical recommendations can be made.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "To explore the potential benefits of varenicline (CHANTIX), a highly specific partial agonist of neuronal &#x3b1;4&#x3b2;2 nicotinic acetylcholine receptors (nAChR), for autistic symptoms, and present resulting biochemical changes in light of dopamine-related genotype. The clinical and biochemical changes exhibited by a 19-year-old severely autistic man following the use of low-dose varenicline in an ABA experiment of nature, and his genotype, were extracted from chart review.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27123827/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Dopamine",
+    "Dose-Response Relationship, Drug",
+    "Genotype",
+    "Humans",
+    "Male",
+    "Nicotinic Agonists",
+    "Receptors, Nicotinic",
+    "Varenicline",
+    "Young Adult"
+  ],
+  "keywords": [
+    "autism",
+    "nicotine",
+    "nicotinic receptors",
+    "treatment",
+    "varenicline",
+    "&#x3b1;4&#x3b2;2 receptors"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

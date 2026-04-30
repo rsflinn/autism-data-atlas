@@ -1,0 +1,42 @@
+{
+  "pmid": "34615521",
+  "doi": "10.1186/s13229-021-00466-2",
+  "title": "How rare and common risk variation jointly affect liability for autism spectrum disorder",
+  "authors": "Klei L, McClain LL, Mahjani B, Panayidou K, De Rubeis S, Grahnat AS, et al.",
+  "journal": "Molecular autism",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "Genetic studies have implicated rare and common variations in liability for autism spectrum disorder (ASD). Of the discovered risk variants, those rare in the population invariably have large impact on liability, while common variants have small effects. Yet, collectively, common risk variants account for the majority of population-level variability. How these rare and common risk variants jointly affect liability for individuals requires further study.\n\nTo explore how common and rare variants jointly affect liability, we assessed two cohorts of ASD families characterized for rare and common genetic variations (Simons Simplex Collection and Population-Based Autism Genetics and Environment Study). We analyzed data from 3011 affected subjects, as well as two cohorts of unaffected individuals characterized for common genetic variation: 3011 subjects matched for ancestry to ASD subjects and 11,950 subjects for estimating allele frequencies. We used genetic scores, which assessed the relative burden of common genetic variation affecting risk of ASD (henceforth \"burden\"), and determined how this burden was distributed among three subpopulations: ASD subjects who carry a potentially damaging variant implicated in risk of ASD (\"PDV carriers\"); ASD subjects who do not (\"non-carriers\"); and unaffected subjects who are assumed to be non-carriers.\n\nBurden harbored by ASD subjects is stochastically greater than that harbored by control subjects. For PDV carriers, their average burden is intermediate between non-carrier ASD and control subjects. Both carrier and non-carrier ASD subjects have greater burden, on average, than control subjects. The effects of common and rare variants likely combine additively to determine individual-level liability.\n\nOnly 305 ASD subjects were known PDV carriers. This relatively small subpopulation limits this study to characterizing general patterns of burden, as opposed to effects of specific PDVs or genes. Also, a small fraction of subjects that are categorized as non-carriers could be PDV carriers.\n\nLiability arising from common and rare risk variations likely combines additively to determine risk of any individual diagnosed with ASD. On average, ASD subjects carry a substantial burden of common risk variation, even if they also carry a rare PDV affecting risk.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Genetic studies have implicated rare and common variations in liability for autism spectrum disorder (ASD). Of the discovered risk variants, those rare in the population invariably have large impact on liability, while common variants have small effects.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34615521/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Genetic Predisposition to Disease",
+    "Humans"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "De novo mutation",
+    "Genomic-Best Linear Unbiased Prediction (G-BLUP)",
+    "Liability",
+    "Polygenic risk score"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S."
+  ]
+}

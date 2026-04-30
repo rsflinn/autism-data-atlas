@@ -1,0 +1,55 @@
+{
+  "pmid": "39453813",
+  "doi": "10.1016/j.celrep.2024.114876",
+  "title": "Spatial, transcriptomic, and epigenomic analyses link dorsal horn neurons to chronic pain genetic predisposition",
+  "authors": "Arokiaraj CM, Leone MJ, Kleyman M, Chamessian A, Noh MC, Phan BN, et al.",
+  "journal": "Cell reports",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Key mechanisms underlying chronic pain occur within the dorsal horn. Genome-wide association studies (GWASs) have identified genetic variants predisposed to chronic pain. However, most of these variants lie within regulatory non-coding regions that have not been linked to spinal cord biology. Here, we take a multi-species approach to determine whether chronic pain variants impact the regulatory genomics of dorsal horn neurons. First, we generate a large rhesus macaque single-nucleus RNA sequencing (snRNA-seq) atlas and integrate it with available human and mouse datasets to produce a single unified, species-conserved atlas of neuron subtypes. Cellular-resolution spatial transcriptomics in mouse shows the precise laminar location of these neuron subtypes, consistent with our analysis of neuron-subtype-selective markers in macaque. Using this cross-species framework, we generate a mouse single-nucleus open chromatin atlas of regulatory elements that shows strong and selective relationships between the neuron-subtype-specific chromatin regions and variants from major chronic pain GWASs.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Key mechanisms underlying chronic pain occur within the dorsal horn. Genome-wide association studies (GWASs) have identified genetic variants predisposed to chronic pain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39453813/",
+  "mesh_terms": [
+    "Animals",
+    "Posterior Horn Cells",
+    "Chronic Pain",
+    "Mice",
+    "Transcriptome",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Epigenomics",
+    "Macaca mulatta",
+    "Genome-Wide Association Study",
+    "Chromatin"
+  ],
+  "keywords": [
+    "CP: Neuroscience",
+    "GWAS",
+    "cell types",
+    "chronic pain",
+    "human",
+    "mouse",
+    "multiplexed in situ hybridization",
+    "rhesus macaque",
+    "single-nucleus ATAC-seq",
+    "single-nucleus RNA sequencing",
+    "spatial transcriptomics",
+    "spinal cord",
+    "variants"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

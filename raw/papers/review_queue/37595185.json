@@ -1,0 +1,51 @@
+{
+  "pmid": "37595185",
+  "doi": "10.1021/acs.jproteome.3c00363",
+  "title": "Mouse Model of Fragile X Syndrome Analyzed by Quantitative Proteomics: A Comparison of Methods",
+  "authors": "Filandrova R, Douglas P, Zhan X, Verhey TB, Morrissy S, Turner RW, et al.",
+  "journal": "Journal of proteome research",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Multiple methods for quantitative proteomics are available for proteome profiling. It is unclear which methods are most useful in situations involving deep proteome profiling and the detection of subtle distortions in the proteome. Here, we compared the performance of seven different strategies in the analysis of a mouse model of Fragile X Syndrome, involving the knockout of thegene that is the leading cause of autism spectrum disorder. Focusing on the cerebellum, we show that data-independent acquisition (DIA) and the tandem mass tag (TMT)-based real-time search method (RTS) generated the most informative profiles, generating 334 and 329 significantly altered proteins, respectively, although the latter still suffered from ratio compression. Label-free methods such as BoxCar and a conventional data-dependent acquisition were too noisy to generate a reliable profile, while TMT methods that do not invoke RTS showed a suppressed dynamic range. The TMT method using the TMTpro reagents together with complementary ion quantification (ProC) overcomes ratio compression, but current limitations in ion detection reduce sensitivity. Overall, both DIA and RTS uncovered known regulators of the syndrome and detected alterations in calcium signaling pathways that are consistent with calcium deregulation recently observed in imaging studies. Data are available via ProteomeXchange with the identifier PXD039885.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Multiple methods for quantitative proteomics are available for proteome profiling. It is unclear which methods are most useful in situations involving deep proteome profiling and the detection of subtle distortions in the proteome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37595185/",
+  "mesh_terms": [
+    "Fragile X Syndrome",
+    "Animals",
+    "Proteomics",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Mice",
+    "Disease Models, Animal",
+    "Mice, Knockout",
+    "Cerebellum",
+    "Proteome",
+    "Tandem Mass Spectrometry",
+    "Calcium Signaling"
+  ],
+  "keywords": [
+    "BoxCar",
+    "DIA",
+    "TMT labeling",
+    "complementary ion quantification",
+    "fragile X syndrome",
+    "label-free",
+    "method comparison",
+    "mouse brain proteomics",
+    "quantitative proteomics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Comparative Study"
+  ]
+}

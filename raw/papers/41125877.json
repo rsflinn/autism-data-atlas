@@ -1,0 +1,42 @@
+{
+  "pmid": "41125877",
+  "doi": "10.1038/s41590-025-02299-0",
+  "title": "Transcriptional and epigenetic targets of MEF2C in human microglia contribute to cellular functions related to autism risk and age-related disease",
+  "authors": "Nguyen C, Broersma EH, Warden AS, Mora C, Han CZ, Keulen Z, et al.",
+  "journal": "Nature immunology",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "MEF2C encodes a transcription factor that is critical in nervous system development. Here, to examine disease-associated functions of MEF2C in human microglia, we profiled microglia differentiated from isogenic MEF2C-haploinsufficient and MEF2C-knockout induced pluripotent stem cell lines. Complementary transcriptomic and functional analyses revealed that loss of MEF2C led to a hyperinflammatory phenotype with broad phagocytic impairment, lipid accumulation, lysosomal dysfunction and elevated basal inflammatory cytokine secretion. Genome-wide profiling of MEF2C-bound sites coupled with the active regulatory landscape enabled inference of its transcriptional functions and potential mechanisms for MEF2C-associated cellular functions. Transcriptomic and epigenetic approaches identified substantial overlap with idiopathic autism datasets, suggesting a broader role of human microglial MEF2C dysregulation in idiopathic autism. In a mouse xenotransplantation model, loss of MEF2C led to morphological, lysosomal and lipid abnormalities in human microglia in vivo. Together, these studies reveal mechanisms by which reduced microglial MEF2C could contribute to the development of neurological diseases.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "MEF2C"
+  ],
+  "summary": "MEF2C encodes a transcription factor that is critical in nervous system development. Here, to examine disease-associated functions of MEF2C in human microglia, we profiled microglia differentiated from isogenic MEF2C-haploinsufficient and MEF2C-knockout induced pluripotent stem cell lines.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41125877/",
+  "mesh_terms": [
+    "Humans",
+    "Microglia",
+    "Animals",
+    "Mice",
+    "MEF2 Transcription Factors",
+    "Epigenesis, Genetic",
+    "Autistic Disorder",
+    "Induced Pluripotent Stem Cells",
+    "Aging",
+    "Transcription, Genetic",
+    "Transcriptome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

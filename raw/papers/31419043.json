@@ -1,0 +1,51 @@
+{
+  "pmid": "31419043",
+  "doi": "10.1002/aur.2193",
+  "title": "Early patterns of functional brain development associated with autism spectrum disorder in tuberous sclerosis complex",
+  "authors": "Dickinson A, Varcin KJ, Sahin M, Nelson CA, Jeste SS",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a rare genetic disorder that confers a high risk for autism spectrum disorders (ASD), with behavioral predictors of ASD emerging early in life. Deviations in structural and functional neural connectivity are highly implicated in both TSC and ASD. For the first time, we explore whether electroencephalographic (EEG) measures of neural network function precede or predict the emergence of ASD in TSC. We determine whether altered brain function (a) is present in infancy in TSC, (b) differentiates infants with TSC based on ASD diagnostic status, and (c) is associated with later cognitive function. We studied 35 infants with TSC (N = 35), and a group of typically developing infants (N = 20) at 12 and 24&#x2009;months of age. Infants with TSC were later subdivided into ASD and non-ASD groups based on clinical evaluation. We measured features of spontaneous alpha oscillations (6-12&#x2009;Hz) that are closely associated with neural network development: alpha power, alpha phase coherence (APC), and peak alpha frequency (PAF). Infants with TSC demonstrated reduced interhemispheric APC compared to controls at 12&#x2009;months of age, and these differences were found to be most pronounced at 24&#x2009;months in the infants who later developed ASD. Across all infants, PAF at 24&#x2009;months was associated with verbal and nonverbal cognition at 36&#x2009;months. Associations between early network function and later neurodevelopmental and cognitive outcomes highlight the potential utility of early scalable EEG markers to identify infants with TSC requiring additional targeted intervention initiated very early in life. Autism Res 2019, 12: 1758-1773. &#xa9; 2019 International Society for Autism Research, Wiley Periodicals, Inc. LAY SUMMARY: Approximately half of infants with tuberous sclerosis complex (TSC) develop autism. Here, using EEG, we find that there is a reduction in communication between brain regions during infancy in TSC, and that the infants who show the largest reductions are those who later develop autism. Being able to identify infants who show early signs of disrupted brain development may improve the timing of early prediction and interventions in TSC, and also help us to understand how early brain changes lead to autism.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is a rare genetic disorder that confers a high risk for autism spectrum disorders (ASD), with behavioral predictors of ASD emerging early in life. Deviations in structural and functional neural connectivity are highly implicated in both TSC and ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31419043/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Child Development",
+    "Child, Preschool",
+    "Electroencephalography",
+    "Female",
+    "Humans",
+    "Infant",
+    "Longitudinal Studies",
+    "Male",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "alpha oscillations",
+    "autism spectrum disorder",
+    "cognitive function",
+    "electroencephalography",
+    "functional connectivity",
+    "infancy",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

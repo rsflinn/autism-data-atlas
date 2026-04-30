@@ -1,0 +1,46 @@
+{
+  "pmid": "34405894",
+  "doi": "10.1111/jcpp.13494",
+  "title": "Ethical dimensions of translational developmental neuroscience research in autism",
+  "authors": "Manzini A, Jones EJH, Charman T, Elsabbagh M, Johnson MH, Singh I",
+  "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "Since the 1990s, increasing research has been devoted to the identification of biomarkers for autism to help attain more objective diagnosis; enable early prediction of prognosis; and guide individualized intervention options. Early studies focused on the identification of genetic variants associated with autism, but more recently, research has expanded to investigate neurodevelopmental markers. While ethicists have extensively discussed issues around advances in autism genomics, much less ethical scrutiny has focused on research on early neurodevelopment and on the interventions being developed as a result.\n\nWe summarize the current state of the science on the identification of early markers for autism and its potential clinical applications, before providing an overview of the ethical issues arising from increasing understanding of children's neurodevelopment in very early life.\n\nAdvances in the understanding of brain and behavioral trajectories preceding later autism diagnosis raise ethical concerns around three themes: (a) New models for understanding autism; (b) Risks and benefits of early identification and intervention; and (c) Communication of early concerns to families. These ethical issues should be further investigated in research conducted in partnership with autistic people and their families.\n\nThis paper highlights the need for ethical scrutiny of early neurodevelopmental research in autism. Scrutiny requires expertise and methods from the basic sciences and bioethics, as well as constructive collaborations among autistic people, their parents, and autism researchers to anticipate early interventions that serve the community's interests and accommodate the varied experiences and preferences of people on the spectrum and their families.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Since the 1990s, increasing research has been devoted to the identification of biomarkers for autism to help attain more objective diagnosis; enable early prediction of prognosis; and guide individualized intervention options. Early studies focused on the identification of genetic variants associated with autism, but more recently, research has expanded to investigate neurodevelopmental markers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34405894/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Brain",
+    "Child",
+    "Early Intervention, Educational",
+    "Humans",
+    "Neurosciences",
+    "Parents"
+  ],
+  "keywords": [
+    "Autism",
+    "biomarkers",
+    "ethics",
+    "genetics",
+    "infant siblings",
+    "neurodevelopment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "39421629",
+  "doi": "10.17691/stm2024.16.1.07",
+  "title": "Neurogenetics of Brain Connectivity: Current Approaches to the Study (Review)",
+  "authors": "Proshina EA, Deynekina TS, Martynova OV",
+  "journal": "Sovremennye tekhnologii v meditsine",
+  "date": "2024-02",
+  "source": "pubmed",
+  "abstract": "Owing to the advances of neuroimaging techniques, a number of functional brain networks associated both with specific functions and the state of relative inactivity has been distinguished. A sufficient bulk of information has been accumulated on changes in connectivity (links between brain regions) in psychopathologies, for example, depression, schizophrenia, autism. Their genetic markers are being actively investigated using a candidate-gene approach or a genome-wide association study. At the same time, there is not much data considering connectivity as an intermediate link in the genotype-pathology chain, although it seems to be a reliable endophenotype, since it demonstrates a high stability and high heritability. In the present review, we consider the results of investigations devoted to the search for biomarkers, molecular and genetic associations of functional, partially anatomical, and effective connectivity. The main approaches to the evaluation of connectivity neurogenetics have been described, as well as specific genetic variants, for which the association with brain connectivity in psychiatric pathologies has been detected.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Owing to the advances of neuroimaging techniques, a number of functional brain networks associated both with specific functions and the state of relative inactivity has been distinguished. A sufficient bulk of information has been accumulated on changes in connectivity (links between brain regions) in psychopathologies, for example, depression, schizophrenia, autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39421629/",
+  "mesh_terms": [
+    "Humans",
+    "Brain",
+    "Mental Disorders",
+    "Genome-Wide Association Study",
+    "Neuroimaging"
+  ],
+  "keywords": [
+    "EEG",
+    "connectivity",
+    "fMRI",
+    "genome-wide association study",
+    "heritability",
+    "neural network",
+    "neurogenetics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

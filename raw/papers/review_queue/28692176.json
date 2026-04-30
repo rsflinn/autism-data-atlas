@@ -1,0 +1,52 @@
+{
+  "pmid": "28692176",
+  "doi": "10.1111/cge.13096",
+  "title": "Phenotypic spectrum associated with de novo mutations in QRICH1 gene",
+  "authors": "Ververi A, Splitt M, Dean JCS, , Brady AF",
+  "journal": "Clinical genetics",
+  "date": "2017-12",
+  "source": "pubmed",
+  "abstract": "Rare de novo mutations represent a significant cause of idiopathic developmental delay (DD). The use of next-generation sequencing (NGS) has boosted the identification of de novo mutations in an increasing number of novel genes. Here we present 3 unrelated children with de novo loss-of-function (LoF) mutations in QRICH1, diagnosed through trio-based exome sequencing. QRICH1 encodes the glutamine-rich protein 1, which contains 1 caspase activation recruitment domain and is likely to be involved in apoptosis and inflammation. All 3 children had speech delay, learning difficulties, a prominent nose and a thin upper lip. In addition, 2 of them had mildly raised creatine kinase (CK) and 1 of them had autism. Despite their small number, the patients had a relatively consistent pattern of clinical features suggesting the presence of a QRICH1-associated phenotype. LoF mutations in QRICH1 are suggested as a novel cause of DD.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Rare de novo mutations represent a significant cause of idiopathic developmental delay (DD). The use of next-generation sequencing (NGS) has boosted the identification of de novo mutations in an increasing number of novel genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28692176/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Creatine Kinase",
+    "Developmental Disabilities",
+    "Exome",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Loss of Function Mutation",
+    "Male",
+    "Microtubule Proteins",
+    "Mutation",
+    "Phenotype"
+  ],
+  "keywords": [
+    "CK",
+    "QRICH1",
+    "autism",
+    "developmental delay"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

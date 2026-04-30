@@ -1,0 +1,41 @@
+{
+  "pmid": "35444258",
+  "doi": "10.1038/s41380-022-01563-1",
+  "title": "Dormant state of quiescent neural stem cells links Shank3 mutation to autism development",
+  "authors": "Kim H, Cho B, Park H, Kim J, Kim S, Shin J, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) are common neurodevelopmental disorders characterized by deficits in social interactions and communication, restricted interests, and repetitive behaviors. Despite extensive study, the molecular targets that control ASD development remain largely unclear. Here, we report that the dormancy of quiescent neural stem cells (qNSCs) is a therapeutic target for controlling the development of ASD phenotypes driven by Shank3 deficiency. Using single-cell RNA sequencing (scRNA-seq) and transposase accessible chromatin profiling (ATAC-seq), we find that abnormal epigenetic features including H3K4me3 accumulation due to up-regulation of Kmt2a levels lead to increased dormancy of qNSCs in the absence of Shank3. This result in decreased active neurogenesis in the Shank3 deficient mouse brain. Remarkably, pharmacological and molecular inhibition of qNSC dormancy restored adult neurogenesis and ameliorated the social deficits observed in Shank3-deficient mice. Moreover, we confirmed restored human qNSC activity rescues abnormal neurogenesis and autism-like phenotypes in SHANK3-targeted human NSCs. Taken together, our results offer a novel strategy to control qNSC activity as a potential therapeutic target for the development of autism.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Autism spectrum disorders (ASDs) are common neurodevelopmental disorders characterized by deficits in social interactions and communication, restricted interests, and repetitive behaviors. Despite extensive study, the molecular targets that control ASD development remain largely unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35444258/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Mice",
+    "Microfilament Proteins",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Neural Stem Cells"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

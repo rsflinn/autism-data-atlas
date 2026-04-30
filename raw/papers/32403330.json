@@ -1,0 +1,60 @@
+{
+  "pmid": "32403330",
+  "doi": "10.3390/genes11050535",
+  "title": "Spatio-Temporal Roles of ASD-Associated Variants in Human Brain Development",
+  "authors": "Kim Y, An JY",
+  "journal": "Genes",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Transcriptional regulation of the genome arguably provides the basis for the anatomical elaboration and dynamic operation of the human brain. It logically follows that genetic variations affecting gene transcription contribute to mental health disorders, including autism spectrum disorder (ASD). A number of recent studies have shown the role ofvariants (DNVs) in disrupting early neurodevelopment. However, there is limited knowledge concerning the role of inherited variants during the early brain development of ASD. In this study, we investigate the role of rare inherited variations in neurodevelopment. We conducted co-expression network analyses using an anatomically comprehensive atlas of the developing human brain and examined whether rare coding and regulatory variants, identified from our genetic screening of Australian families with ASD, work in different spatio-temporal functions.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Transcriptional regulation of the genome arguably provides the basis for the anatomical elaboration and dynamic operation of the human brain. It logically follows that genetic variations affecting gene transcription contribute to mental health disorders, including autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32403330/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Child",
+    "Child, Preschool",
+    "Datasets as Topic",
+    "Female",
+    "Gene Expression Regulation, Developmental",
+    "Gestational Age",
+    "Humans",
+    "INDEL Mutation",
+    "Infant",
+    "Infant, Newborn",
+    "Male",
+    "Middle Aged",
+    "Neurodevelopmental Disorders",
+    "Neurogenesis",
+    "Polymorphism, Single Nucleotide",
+    "Transcriptome",
+    "Exome Sequencing",
+    "Young Adult"
+  ],
+  "keywords": [
+    "autism spectrum disorder (ASD)",
+    "autism spectrum disorders",
+    "gene pathway",
+    "multi-omics analysis",
+    "neurodevelopment",
+    "systems biology",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

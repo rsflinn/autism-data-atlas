@@ -1,0 +1,45 @@
+{
+  "pmid": "21237447",
+  "doi": "10.1016/j.biopsych.2010.11.015",
+  "title": "De novo SYNGAP1 mutations in nonsyndromic intellectual disability and autism",
+  "authors": "Hamdan FF, Daoud H, Piton A, Gauthier J, Dobrzeniecka S, Krebs MO, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "Little is known about the genetics of nonsyndromic intellectual disability (NSID). Recently, we reported de novo truncating mutations in the SYNGAP1 gene of 3 of 94 NSID cases, suggesting that its disruption represents a common cause of autosomal dominant NSID.\n\nTo further explore the involvement of SYNGAP1 in NSID, we sequenced its exons and intronic boundaries in 60 additional sporadic cases of NSID, including 30 patients with autism spectrum disorders (ASD) and 9 with epilepsy, and in 380 control individuals.\n\nWe identified de novo out-of-frame deletions in two patients with NSID and mild generalized epilepsy (c.2677delC/p.Q893RfsX184 and c.321_324delGAAG/p. K108VfsX25) and a de novo splicing mutation (c.2294 + 1G>A), which results in the creation of a premature stop codon, in a patient with NSID and autism. No splicing or truncating mutations were found in control subjects.\n\nWe provide evidence that truncating mutations in SYNGAP1 are common in NSID and can be also associated with autism.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "Little is known about the genetics of nonsyndromic intellectual disability (NSID). Recently, we reported de novo truncating mutations in the SYNGAP1 gene of 3 of 94 NSID cases, suggesting that its disruption represents a common cause of autosomal dominant NSID.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21237447/",
+  "mesh_terms": [
+    "Adult",
+    "Autistic Disorder",
+    "Codon, Nonsense",
+    "Epilepsy",
+    "Exons",
+    "Female",
+    "Genetic Association Studies",
+    "Genotype",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "ras GTPase-Activating Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

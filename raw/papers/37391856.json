@@ -1,0 +1,50 @@
+{
+  "pmid": "37391856",
+  "doi": "10.1186/s13229-023-00555-4",
+  "title": "Autism-associated gene shank3 is necessary for social contagion in zebrafish",
+  "authors": "Kareklas K, Teles MC, Dreosti E, Oliveira RF",
+  "journal": "Molecular autism",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Animal models enable targeting autism-associated genes, such as the shank3 gene, to assess their impact on behavioural phenotypes. However, this is often limited to simple behaviours relevant for social interaction. Social contagion is a complex phenotype forming the basis of human empathic behaviour and involves attention to the behaviour of others for recognizing and sharing their emotional or affective state. Thus, it is a form of social communication, which constitutes the most common developmental impairment across autism spectrum disorders (ASD).\n\nHere we describe the development of a zebrafish model that identifies the neurocognitive mechanisms by which shank3 mutation drives deficits in social contagion. We used a CRISPR-Cas9 technique to generate mutations to the shank3a gene, a zebrafish paralogue found to present greater orthology and functional conservation relative to the human gene. Mutants were first compared to wild types during a two-phase protocol that involves the observation of two conflicting states, distress and neutral, and the later recall and discrimination of others when no longer presenting such differences. Then, the whole-brain expression of different neuroplasticity markers was compared between genotypes and their contribution to cluster-specific phenotypic variation was assessed.\n\nThe shank3 mutation markedly reduced social contagion via deficits in attention contributing to difficulties in recognising affective states. Also, the mutation changed the expression of neuronal plasticity genes. However, only downregulated neuroligins clustered with shank3a expression under a combined synaptogenesis component that contributed specifically to variation in attention.\n\nWhile zebrafish are extremely useful in identifying the role of shank3 mutations to composite social behaviour, they are unlikely to represent the full complexity of socio-cognitive and communication deficits presented by human ASD pathology. Moreover, zebrafish cannot represent the scaling up of these deficits to higher-order empathic and prosocial phenotypes seen in humans.\n\nWe demonstrate a causal link between the zebrafish orthologue of an ASD-associated gene and the attentional control of affect recognition and consequent social contagion. This models autistic affect-communication pathology in zebrafish and reveals a genetic attention-deficit mechanism, addressing the ongoing debate for such mechanisms accounting for emotion recognition difficulties in autistic individuals.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Animal models enable targeting autism-associated genes, such as the shank3 gene, to assess their impact on behavioural phenotypes. However, this is often limited to simple behaviours relevant for social interaction.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37391856/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Brain",
+    "Genotype",
+    "Zebrafish",
+    "Zebrafish Proteins",
+    "Nerve Tissue Proteins"
+  ],
+  "keywords": [
+    "Affect",
+    "Attention",
+    "Autism",
+    "Neuroligins",
+    "Neuroplasticity",
+    "Recognition",
+    "SHANK3",
+    "Social Contagion",
+    "Synaptogenesis",
+    "Zebrafish"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "39654001",
+  "doi": "10.1007/s12035-024-04652-0",
+  "title": "Reduced Neurite Arborization in Primary Dopaminergic Neurons in Autism-Like Shank3B-Deficient Mice",
+  "authors": "Bacova Z, Havranek T, Mihalj D, Borbelyova V, Kostrubanicova K, Kramarova M, et al.",
+  "journal": "Molecular neurobiology",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "Despite many studies on dopamine changes in autism, specific alterations in midbrain dopamine neurons projecting to the striatum and cortex remain unclear. Mouse models with diverse SH3 domain and ankyrin repeat containing protein 3 (Shank3) deficiencies are used for investigating autistic symptoms and underlying neurobiological mechanisms. SHANK3 belongs to postsynaptic proteins crucial for synapse formation during development, and disruptions in SHANK3 structure could lead to impaired neurite outgrowth and altered dendritic arborization and morphology. Therefore, we aimed to investigate whether Shank3 deficiency (Shank3B) leads to changes in the morphology of primary neuronal cell cultures from dopaminergic brain regions of neonatal mouse pups and whether it results in alterations in synaptic proteins in dopaminergic nerve pathway projection areas (striatum, frontal cortex). Significantly reduced neurite outgrowth was observed in primary dopaminergic neurons from the midbrain and striatum of Shank3-deficient compared to WT mice. A decrease in Synapsin I immunofluorescence signal in the cortical neurons isolated from Shank3-deficient mice was found, although neurite arborization changes were less severe. Importantly, the deficit in the length of the longest neurite was confirmed in primary cortical neurons isolated from Shank3-deficient mice. No changes in the gene expression of synaptic proteins were observed in the striatum and frontal cortex of Shank3-deficient mice, but an altered gene expression profile of dopaminergic receptors was found. These results show structural changes of dopaminergic neurons, which may explain autistic symptomatology in the used model and provide a basis for understanding the long-term development of autistic symptoms.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Despite many studies on dopamine changes in autism, specific alterations in midbrain dopamine neurons projecting to the striatum and cortex remain unclear. Mouse models with diverse SH3 domain and ankyrin repeat containing protein 3 (Shank3) deficiencies are used for investigating autistic symptoms and underlying neurobiological mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39654001/",
+  "mesh_terms": [
+    "Animals",
+    "Dopaminergic Neurons",
+    "Neurites",
+    "Autistic Disorder",
+    "Nerve Tissue Proteins",
+    "Mice",
+    "Mice, Knockout",
+    "Mice, Inbred C57BL",
+    "Cells, Cultured",
+    "Microfilament Proteins",
+    "Neuronal Outgrowth"
+  ],
+  "keywords": [
+    "Shank3",
+    "Autism spectrum disorder",
+    "Dopaminergic neurons",
+    "Neurite outgrowth"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "37016552",
+  "doi": "10.1111/jir.13034",
+  "title": "Error analysis of Raven's Coloured Progressive Matrices in children and adolescents with cerebral palsy",
+  "authors": "Asano D, Takeda M, Nobusako S, Morioka S",
+  "journal": "Journal of intellectual disability research : JIDR",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "Analysis of the errors in the Raven's Coloured Progressive Matrices (RCPM) has been previously performed for children with intellectual disabilities but has not been investigated for those with cerebral palsy (CP). This study aimed to investigate whether the types and positions of errors made by individuals with CP differed from those made by typically developing (TD) controls.\n\nForty-five participants with CP aged 4-18&#xa0;years and 30 TD children aged 3-9&#xa0;years underwent RCPM testing. We first compared the RCPM performance and error characteristics between the groups and then examined the association between RCPM and the severity of CP and receptive vocabulary in the CP group.\n\nThe results showed that while mean total scores in the two groups were comparable, the types and positions of errors made by individuals with CP differed from those of TD controls. The development of non-verbal intelligence in children with CP increased with age; when controlling for age, non-verbal intelligence was significantly correlated with all three functional levels of CP severity and receptive vocabulary.\n\nThis study provides valuable insights into the problem-solving strategies employed by children with CP.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Analysis of the errors in the Raven's Coloured Progressive Matrices (RCPM) has been previously performed for children with intellectual disabilities but has not been investigated for those with cerebral palsy (CP). This study aimed to investigate whether the types and positions of errors made by individuals with CP differed from those made by typically developing (TD) controls.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37016552/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Adolescent",
+    "Cerebral Palsy",
+    "Intelligence Tests",
+    "Intellectual Disability",
+    "Problem Solving",
+    "Intelligence"
+  ],
+  "keywords": [
+    "Raven's Coloured Progressive Matrices",
+    "cerebral palsy",
+    "intellectual disability",
+    "non-verbal intelligence",
+    "problem-solving strategy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

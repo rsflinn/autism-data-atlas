@@ -1,0 +1,47 @@
+{
+  "pmid": "33539344",
+  "doi": "10.1371/journal.pgen.1009309",
+  "title": "Transcriptome-wide transmission disequilibrium analysis identifies novel risk genes for autism spectrum disorder",
+  "authors": "Huang K, Wu Y, Shin J, Zheng Y, Siahpirani AF, Lin Y, et al.",
+  "journal": "PLoS genetics",
+  "date": "2021-02",
+  "source": "pubmed",
+  "abstract": "Recent advances in consortium-scale genome-wide association studies (GWAS) have highlighted the involvement of common genetic variants in autism spectrum disorder (ASD), but our understanding of their etiologic roles, especially the interplay with rare variants, is incomplete. In this work, we introduce an analytical framework to quantify the transmission disequilibrium of genetically regulated gene expression from parents to offspring. We applied this framework to conduct a transcriptome-wide association study (TWAS) on 7,805 ASD proband-parent trios, and replicated our findings using 35,740 independent samples. We identified 31 associations at the transcriptome-wide significance level. In particular, we identified POU3F2 (p = 2.1E-7), a transcription factor mainly expressed in developmental brain. Gene targets regulated by POU3F2 showed a 2.7-fold enrichment for known ASD genes (p = 2.0E-5) and a 2.7-fold enrichment for loss-of-function de novo mutations in ASD probands (p = 7.1E-5). These results provide a novel connection between rare and common variants, whereby ASD genes affected by very rare mutations are regulated by an unlinked transcription factor affected by common genetic variations.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Recent advances in consortium-scale genome-wide association studies (GWAS) have highlighted the involvement of common genetic variants in autism spectrum disorder (ASD), but our understanding of their etiologic roles, especially the interplay with rare variants, is incomplete. In this work, we introduce an analytical framework to quantify the transmission disequilibrium of genetically regulated gene expression from parents to offspring.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33539344/",
+  "mesh_terms": [
+    "Alleles",
+    "Autism Spectrum Disorder",
+    "Databases, Genetic",
+    "Gene Expression Profiling",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Hippocampus",
+    "Homeodomain Proteins",
+    "Humans",
+    "Mutation",
+    "POU Domain Factors",
+    "Polymorphism, Single Nucleotide",
+    "Quantitative Trait Loci",
+    "Risk Factors",
+    "Spatio-Temporal Analysis",
+    "Transcriptome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

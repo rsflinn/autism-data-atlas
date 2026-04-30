@@ -1,0 +1,43 @@
+{
+  "pmid": "19184136",
+  "doi": "10.1007/s10048-009-0171-7",
+  "title": "Examination of association of genes in the serotonin system to autism",
+  "authors": "Anderson BM, Schnetz-Boutaud NC, Bartlett J, Wotawa AM, Wright HH, Abramson RK, et al.",
+  "journal": "Neurogenetics",
+  "date": "2009-01",
+  "source": "pubmed",
+  "abstract": "Autism is characterized as one of the pervasive developmental disorders, a spectrum of often severe behavioral and cognitive disturbances of early development. The high heritability of autism has driven multiple efforts to identify genetic variation that increases autism susceptibility. Numerous studies have suggested that variation in peripheral and central metabolism of serotonin (5-hydroxytryptamine) may play a role in the pathophysiology of autism. We screened 403 autism families for 45 single nucleotide polymorphisms in ten serotonin pathway candidate genes. Although genome-wide linkage scans in autism have provided support for linkage to various loci located within the serotonin pathway, our study does not provide strong evidence for linkage to any specific gene within the pathway. The most significant association (p = 0.0002; p = 0.02 after correcting for multiple comparisons) was found at rs1150220 (HTR3A) located on chromosome 11 ( approximately 113 Mb). To test specifically for multilocus effects, multifactor dimensionality reduction was employed, and a significant two-way interaction (p value = 0.01) was found between rs10830962, near MTNR1B (chromosome11; 92,338,075 bp), and rs1007631, near SLC7A5 (chromosome16; 86,413,596 bp). These data suggest that variation within genes on the serotonin pathway, particularly HTR3A, may have modest effects on autism risk.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is characterized as one of the pervasive developmental disorders, a spectrum of often severe behavioral and cognitive disturbances of early development. The high heritability of autism has driven multiple efforts to identify genetic variation that increases autism susceptibility.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19184136/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Linkage Disequilibrium",
+    "Molecular Sequence Data",
+    "Molecular Structure",
+    "Polymorphism, Single Nucleotide",
+    "Serotonin",
+    "Tryptophan",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

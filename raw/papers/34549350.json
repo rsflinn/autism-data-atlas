@@ -1,0 +1,38 @@
+{
+  "pmid": "34549350",
+  "doi": "10.1007/s00439-021-02356-2",
+  "title": "Prioritizing de novo autism risk variants with calibrated gene- and variant-scoring models",
+  "authors": "Jiang Y, Urresti J, Pagel KA, Pramod AB, Iakoucheva LM, Radivojac P",
+  "journal": "Human genetics",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "Whole-exome and whole-genome sequencing studies in autism spectrum disorder (ASD) have identified hundreds of thousands of exonic variants. Only a handful of them, primarily loss-of-function variants, have been shown to increase the risk for ASD, while the contributory roles of other variants, including most missense variants, remain unknown. New approaches that combine tissue-specific molecular profiles with patients' genetic data can thus play an important role in elucidating the functional impact of exonic variation and improve understanding of ASD pathogenesis. Here, we integrate spatio-temporal gene co-expression networks from the developing human brain and protein-protein interaction networks to first reach accurate prioritization of ASD risk genes based on their connectivity patterns with previously known high-confidence ASD risk genes. We subsequently integrate these gene scores with variant pathogenicity predictions to further prioritize individual exonic variants based on the positive-unlabeled learning framework with gene- and variant-score calibration. We demonstrate that this approach discriminates among variants between cases and controls at the high end of the prediction range. Finally, we experimentally validate our top-scoring de novo mutation NP_001243143.1:p.Phe309Ser in the sodium/potassium-transporting ATPase ATP1A3 to disrupt protein binding with different partners.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Whole-exome and whole-genome sequencing studies in autism spectrum disorder (ASD) have identified hundreds of thousands of exonic variants. Only a handful of them, primarily loss-of-function variants, have been shown to increase the risk for ASD, while the contributory roles of other variants, including most missense variants, remain unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34549350/",
+  "mesh_terms": [
+    "Adenosine Triphosphatases",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Mutation",
+    "Potassium",
+    "Sodium",
+    "Sodium-Potassium-Exchanging ATPase"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

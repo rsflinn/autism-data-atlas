@@ -1,0 +1,47 @@
+{
+  "pmid": "34096129",
+  "doi": "10.1111/jir.12860",
+  "title": "Cognitive profile of young children with Williams syndrome",
+  "authors": "Miezah D, Porter M, Rossi A, Kazzi C, Batchelor J, Reeve J",
+  "journal": "Journal of intellectual disability research : JIDR",
+  "date": "2021-06",
+  "source": "pubmed",
+  "abstract": "There is very little research on the cognitive profile of young children with Williams syndrome (WS).\n\nThe present study utilised the Differential Ability Scales - Second Edition to examine the early cognitive abilities of 22 young children with WS (aged 3.98 to 7.70&#xa0;years, 10 male and 12 female participants).\n\nOverall, IQ ranged from 38 (severely impaired) to 81.00 (low average). Consistent with Mervis et al. who looked at an older sample, over half (59.08%) of our young WS sample showed a significant and abnormal weakness in spatial ability relative to verbal ability. Moreover, 81.82% showed a significant and clinically unusual weakness in spatial ability relative to nonverbal reasoning ability. At the subtest level, only 4.55% of our sample showed a significant strength in naming vocabulary compared with verbal comprehension, while 13.64% showed a significant weakness in naming vocabulary relative to verbal comprehension.\n\nThe results of the present study show cognitive heterogeneity, consistent with the literature on older children and adults with WS. There were variable levels of intellect and variable patterns of cognitive strength and weakness across both index and subtest scores. Findings highlight the need for individual assessment and management of young children with WS but also indicate that for the majority of WS individuals spatial skills are indeed an area of significant and abnormal weakness and should be a focus for early intervention.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "There is very little research on the cognitive profile of young children with Williams syndrome (WS). The present study utilised the Differential Ability Scales - Second Edition to examine the early cognitive abilities of 22 young children with WS (aged 3.98 to 7.70&#xa0;years, 10 male and 12 female participants).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34096129/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aptitude",
+    "Child",
+    "Child, Preschool",
+    "Cognition",
+    "Comprehension",
+    "Female",
+    "Humans",
+    "Male",
+    "Vocabulary",
+    "Williams Syndrome"
+  ],
+  "keywords": [
+    "Williams syndrome",
+    "cognitive abilities",
+    "cognitive heterogeneity",
+    "preschoolers"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

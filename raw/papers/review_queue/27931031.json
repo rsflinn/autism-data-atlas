@@ -1,0 +1,47 @@
+{
+  "pmid": "27931031",
+  "doi": "10.1159/000448323",
+  "title": "Round Table Discussion",
+  "authors": "Winter S, Buist NR, Longo N, Armenian SH, Lopaschuk G, Wasilewska A",
+  "journal": "Annals of nutrition & metabolism",
+  "date": "2016-12",
+  "source": "pubmed",
+  "abstract": "The 1st International Carnitine Working Group concluded with a round table discussion addressing several areas of relevance. These included the design of future studies that could increase the amount of evidence-based data about the role of carnitine in the treatment of fatty acid oxidation defects, for which substantial controversy still exists. There was general consensus that future trials on the effect of carnitine in disorders of fatty acid oxidation should be randomized, double-blinded, multicentered and minimally include the following diagnoses: medium-chain acyl coenzyme A (CoA) dehydrogenase deficiency, very long-chain acyl-CoA dehydrogenase deficiency, long-chain 3-hydroxyacyl-CoA dehydrogenase deficiency and mitochondrial trifunctional protein deficiency. Another area that generated interest was trials of carnitine in cardiomyopathy and, especially, the use of biomarkers to identify patients at greater risk of cardiotoxicity following treatment with anthracyclines. The possibility that carnitine treatment may lead to improvements in autistic behaviors was also discussed, although the evidence is still not sufficient to make any firm conclusions in this regard. Preliminary data on carnitine levels in children and adolescents with primary hypertension, low birth weight and nephrotic syndrome was also presented. Lastly, the panelists stressed that there remains an objective need to harmonize the terminology used to describe carnitine deficiencies (e.g., primary, secondary and systemic deficiency).",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The 1st International Carnitine Working Group concluded with a round table discussion addressing several areas of relevance. These included the design of future studies that could increase the amount of evidence-based data about the role of carnitine in the treatment of fatty acid oxidation defects, for which substantial controversy still exists.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27931031/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Biomedical Research",
+    "Cardiomyopathies",
+    "Carnitine",
+    "Child",
+    "Congresses as Topic",
+    "Deficiency Diseases",
+    "Dietary Supplements",
+    "Evidence-Based Medicine",
+    "Humans",
+    "Hyperammonemia",
+    "Hypertension",
+    "Internationality",
+    "Metabolism, Inborn Errors",
+    "Muscular Diseases",
+    "Nephrotic Syndrome",
+    "Societies, Medical"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "38995884",
+  "doi": "10.12659/AJCR.943641",
+  "title": "Novel de Novo Nonsense Variants in AGO3 and KHSRP: Insights into Global Developmental Delay and Autism Spectrum Disorders through Whole Genome Analysis",
+  "authors": "&#x106;uk M, Lovren&#x10d;i&#x107; L, Unal B, Walker M, Hayes CP, Krakar G, et al.",
+  "journal": "The American journal of case reports",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "BACKGROUND Neurodevelopmental disorders (NDD) are umbrella disorders that encompass global developmental delay (GDD), intellectual disability, autism spectrum disorders, motor developmental disorders, and sleep disorders. Both GDD and autism spectrum disorder are common and yet clinically and genetically heterogeneous disorders. Despite their high prevalence and the advent of sequencing detection methods, the genomic etiology of GDD and autism spectrum disorder in most patients is largely unknown. CASE REPORT In this study, we describe a 6-year-old girl with GDD, autistic features, and structural brain abnormalities, including a moderate reduction in periventricular white matter and bilateral optic nerve hypoplasia, Chiari malformation type I with normal myelinization. A comprehensive joint whole-genome analysis (WGS) of the proband and her unaffected parents was performed. The trio-WGS analysis identified novel de novo nonsense variants AGO3: c.1324C>T (p.Gln442*) and KHSRP: c.1573C>T (p.Gln525*). These variants have not been reported in gnomAD and published literature. AGO3 and KHSRP are not currently associated with a known phenotype in the Online Mendelian Inheritance in Man (OMIM); however, they may be involved in neuronal development. CONCLUSIONS This report highlights the utility of joint WGS analysis in identifying novel de novo genomic alterations in a patient with the spectrum of phenotypes of GDD and neurodevelopmental disorders. The role of these variants and genes in GDD requires further studies.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "BACKGROUND Neurodevelopmental disorders (NDD) are umbrella disorders that encompass global developmental delay (GDD), intellectual disability, autism spectrum disorders, motor developmental disorders, and sleep disorders. Both GDD and autism spectrum disorder are common and yet clinically and genetically heterogeneous disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38995884/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Child",
+    "Autism Spectrum Disorder",
+    "Developmental Disabilities",
+    "Codon, Nonsense",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

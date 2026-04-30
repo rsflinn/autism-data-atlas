@@ -1,0 +1,43 @@
+{
+  "pmid": "38428095",
+  "doi": "10.1016/j.compbiomed.2024.108194",
+  "title": "Biosignal comparison for autism assessment using machine learning models and virtual reality",
+  "authors": "Minissi ME, Altozano A, Mar&#xed;n-Morales J, Chicchi Giglioli IA, Mantovani F, Alca&#xf1;iz M",
+  "journal": "Computers in biology and medicine",
+  "date": "2024-02",
+  "source": "pubmed",
+  "abstract": "Clinical assessment procedures encounter challenges in terms of objectivity because they rely on subjective data. Computational psychiatry proposes overcoming this limitation by introducing biosignal-based assessments able to detect clinical biomarkers, while virtual reality (VR) can offer ecological settings for measurement. Autism spectrum disorder (ASD) is a neurodevelopmental disorder where many biosignals have been tested to improve assessment procedures. However, in ASD research there is a lack of studies systematically comparing biosignals for the automatic classification of ASD when recorded simultaneously in ecological settings, and comparisons among previous studies are challenging due to methodological inconsistencies. In this study, we examined a VR screening tool consisting of four virtual scenes, and we compared machine learning models based on implicit (motor skills and eye movements) and explicit (behavioral responses) biosignals. Machine learning models were developed for each biosignal within the virtual scenes and then combined into a final model per biosignal. A linear support vector classifier with recursive feature elimination was used and tested using nested cross-validation. The final model based on motor skills exhibited the highest robustness in identifying ASD, achieving an AUC of 0.89 (SD&#xa0;=&#xa0;0.08). The best behavioral model showed an AUC of 0.80, while further research is needed for the eye-movement models due to limitations with the eye-tracking glasses. These findings highlight the potential of motor skills in enhancing objectivity and reliability in the early assessment of ASD compared to other biosignals.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Clinical assessment procedures encounter challenges in terms of objectivity because they rely on subjective data. Computational psychiatry proposes overcoming this limitation by introducing biosignal-based assessments able to detect clinical biomarkers, while virtual reality (VR) can offer ecological settings for measurement.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38428095/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Reproducibility of Results",
+    "Virtual Reality",
+    "Machine Learning"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Biosignal",
+    "Eye movements",
+    "Motor skills",
+    "Statistical machine learning",
+    "Virtual reality"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

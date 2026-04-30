@@ -1,0 +1,42 @@
+{
+  "pmid": "24698714",
+  "doi": "10.1016/j.conb.2014.03.003",
+  "title": "The multifaceted roles of Slits and Robos in cortical circuits: from proliferation to axon guidance and neurological diseases",
+  "authors": "Blockus H, Ch&#xe9;dotal A",
+  "journal": "Current opinion in neurobiology",
+  "date": "2014-03",
+  "source": "pubmed",
+  "abstract": "Slit repulsion, mediated by Robo receptors, is known to play a major role in axon guidance in the nervous system. However, recent studies have revealed that in the mammalian cortex these molecules are highly versatile and that their function extends far beyond axon guidance. They act at all phases of development to control neurogenesis, neuronal migration, axon patterning, dendritic outgrowth and spinogenesis. The expression of Robo receptors in cortical and thalamocortical axons (TCAs) is tightly regulated by a combination of transcription factors (TFs), proteases and activity. These findings also suggest that Slit and Robos have influenced the evolution of cortical circuits. Last, novel genetic evidence associates various neurological disorders, such as autism, to abnormal Slit/Robo signaling.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Slit repulsion, mediated by Robo receptors, is known to play a major role in axon guidance in the nervous system. However, recent studies have revealed that in the mammalian cortex these molecules are highly versatile and that their function extends far beyond axon guidance.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24698714/",
+  "mesh_terms": [
+    "Animals",
+    "Axons",
+    "Cell Proliferation",
+    "Cerebral Cortex",
+    "Glycoproteins",
+    "Humans",
+    "Nerve Net",
+    "Nerve Tissue Proteins",
+    "Nervous System Diseases",
+    "Receptors, Immunologic",
+    "Roundabout Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

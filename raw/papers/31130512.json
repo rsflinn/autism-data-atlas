@@ -1,0 +1,60 @@
+{
+  "pmid": "31130512",
+  "doi": "10.1016/j.stem.2019.04.014",
+  "title": "OLIG2 Drives Abnormal Neurodevelopmental Phenotypes in Human iPSC-Based Organoid and Chimeric Mouse Models of Down Syndrome",
+  "authors": "Xu R, Brawner AT, Li S, Liu JJ, Kim H, Xue H, et al.",
+  "journal": "Cell stem cell",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "Down syndrome (DS) is a common neurodevelopmental disorder, and cognitive defects in DS patients may arise from imbalances in excitatory and inhibitory neurotransmission. Understanding the mechanisms underlying such imbalances may provide opportunities for therapeutic intervention. Here, we show that human induced pluripotent stem cells (hiPSCs) derived from DS patients overproduce OLIG2ventral forebrain neural progenitors. As a result, DS hiPSC-derived cerebral organoids excessively produce specific subclasses of GABAergic interneurons and cause impaired recognition memory in neuronal chimeric mice. Increased OLIG2 expression in DS cells directly upregulates interneuron lineage-determining transcription factors. shRNA-mediated knockdown of OLIG2 largely reverses abnormal gene expression in early-stage DS neural progenitors, reduces interneuron production in DS organoids and chimeric mouse brains, and improves behavioral deficits in DS chimeric mice. Thus, altered OLIG2 expression may underlie neurodevelopmental abnormalities and cognitive defects in DS patients.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 3,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Down syndrome (DS) is a common neurodevelopmental disorder, and cognitive defects in DS patients may arise from imbalances in excitatory and inhibitory neurotransmission. Understanding the mechanisms underlying such imbalances may provide opportunities for therapeutic intervention.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31130512/",
+  "mesh_terms": [
+    "Animals",
+    "Cell Differentiation",
+    "Cell Lineage",
+    "Cells, Cultured",
+    "Disease Models, Animal",
+    "Down Syndrome",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Interneurons",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Neural Stem Cells",
+    "Neurodevelopmental Disorders",
+    "Neurogenesis",
+    "Oligodendrocyte Transcription Factor 2",
+    "Organoids",
+    "Phenotype",
+    "Prosencephalon",
+    "RNA, Small Interfering",
+    "Transplantation Chimera"
+  ],
+  "keywords": [
+    "Down syndrome",
+    "OLIG1",
+    "OLIG2",
+    "brain organoid",
+    "chimeric mouse brain",
+    "human induced pluripotent stem cell",
+    "interneuron",
+    "neurodevelopmental disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

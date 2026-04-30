@@ -1,0 +1,52 @@
+{
+  "pmid": "30272146",
+  "doi": "10.1093/cercor/bhy239",
+  "title": "The Neuroanatomy of Autism Spectrum Disorder Symptomatology in 22q11.2 Deletion Syndrome",
+  "authors": "Gudbrandsen M, Daly E, Murphy CM, Wichers RH, Stoencheva V, Perry E, et al.",
+  "journal": "Cerebral cortex (New York, N.Y. : 1991)",
+  "date": "2019-07",
+  "source": "pubmed",
+  "abstract": "22q11.2 Deletion Syndrome (22q11.2DS) is a genetic condition associated with a high prevalence of neuropsychiatric conditions that include autism spectrum disorder (ASD). While evidence suggests that clinical phenotypes represent distinct neurodevelopmental outcomes, it remains unknown whether this translates to the level of neurobiology. To fractionate the 22q11.2DS phenotype on the level of neuroanatomy, we examined differences in vertex-wise estimates of cortical volume, surface area, and cortical thickness between 1) individuals with 22q11.2DS (n = 62) and neurotypical controls (n = 57) and 2) 22q11.2DS individuals with ASD symptomatology (n = 30) and those without (n = 25). We firstly observed significant differences in surface anatomy between 22q11.2DS individuals and controls for all 3 neuroanatomical features, predominantly in parietotemporal regions, cingulate and dorsolateral prefrontal cortices. We also established that 22q11.2DS individuals with ASD symptomatology were neuroanatomically distinct from 22q11.2DS individuals without ASD symptoms, particularly in brain regions that have previously been linked to ASD (e.g., dorsolateral prefrontal cortices and the entorhinal cortex). Our findings indicate that different clinical 22q11.2DS phenotypes, including those with ASD symptomatology, may represent different neurobiological subgroups. The spatially distributed patterns of neuroanatomical differences associated with ASD symptomatology in 22q11.2DS may thus provide useful information for patient stratification and the prediction of clinical outcomes.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "22q11.2 Deletion Syndrome (22q11.2DS) is a genetic condition associated with a high prevalence of neuropsychiatric conditions that include autism spectrum disorder (ASD). While evidence suggests that clinical phenotypes represent distinct neurodevelopmental outcomes, it remains unknown whether this translates to the level of neurobiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30272146/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Case-Control Studies",
+    "Child",
+    "DiGeorge Syndrome",
+    "Entorhinal Cortex",
+    "Female",
+    "Gyrus Cinguli",
+    "Humans",
+    "Male",
+    "Organ Size",
+    "Parietal Lobe",
+    "Prefrontal Cortex",
+    "Temporal Lobe",
+    "Young Adult"
+  ],
+  "keywords": [
+    "22q11.2 Deletion Syndrome",
+    "autism spectrum disorder",
+    "brain anatomy",
+    "neurodevelopment",
+    "surface based morphometry"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

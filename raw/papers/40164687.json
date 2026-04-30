@@ -1,0 +1,43 @@
+{
+  "pmid": "40164687",
+  "doi": "10.1038/s12276-025-01429-w",
+  "title": "Lactobacillus paracasei-derived extracellular vesicles reverse molecular and behavioral deficits in mouse models of autism spectrum disorder",
+  "authors": "Park JY, Lee EH, Kim JE, Paeng JW, Paeng JC, Kim TK, et al.",
+  "journal": "Experimental & molecular medicine",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a heterogeneous group of neurodevelopmental disorders characterized by social communication deficits and repetitive behaviors. Although our current understanding the mechanisms underlying ASD is growing, effective treatment options are still underdevelopment. Extracellular vesicles derived from the probiotic Lactobacillus paracasei (LpEV) have shown neuroprotective effects in both in vitro and in vivo models. Here we investigate whether LpEV can alleviate core symptoms in genetic ASD models that exhibit accumulated developmental deficits. Dopamine receptor D2 (Drd2)-knockout (KO) mice exhibit social behavior deficits and excessive grooming, core symptoms of ASD. LpEV treatment significantly improves these autistic-like behaviors in Drd2-KO mice, suggesting that LpEVs can mitigate the persistent dysregulation of signaling pathways in these mice. RNA sequencing followed by Gene Ontology enrichment analysis of LpEV-treated Drd2-KO mice identifies distinct groups of genes altered in the brain of Drd2-KO mice, which were reversed by LpEV treatment. Notably, a high proportion of these genes overlap significantly with known ASD genes in the SFARI database, strengthening the potential of LpEV to target relevant pathways in ASD. Further investigation identifies oxytocin and oxytocin receptor (Oxtr) as potential therapeutic targets. LpEV treatment significantly improves autistic-like behaviors in Oxtr-KO heterozygous mice, adenylyl cyclase-5 KO mice and Shank3-KO mice, suggesting its therapeutic potential to target ASD through broader mechanisms beyond a single gene pathway. These results highlight the therapeutic potential of LpEV in reversing the accumulated dysregulated signaling pathways leading to ASD symptoms and improving autistic-like behaviors.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a heterogeneous group of neurodevelopmental disorders characterized by social communication deficits and repetitive behaviors. Although our current understanding the mechanisms underlying ASD is growing, effective treatment options are still underdevelopment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40164687/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Mice",
+    "Disease Models, Animal",
+    "Mice, Knockout",
+    "Extracellular Vesicles",
+    "Lacticaseibacillus paracasei",
+    "Receptors, Dopamine D2",
+    "Behavior, Animal",
+    "Receptors, Oxytocin",
+    "Male",
+    "Probiotics",
+    "Social Behavior",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

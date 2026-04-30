@@ -1,0 +1,48 @@
+{
+  "pmid": "37805537",
+  "doi": "10.1186/s13073-023-01228-w",
+  "title": "Genomic architecture of autism spectrum disorder in Qatar: The BARAKA-Qatar Study",
+  "authors": "Abdi M, Aliyev E, Trost B, Kohailan M, Aamer W, Syed N, et al.",
+  "journal": "Genome medicine",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by impaired social and communication skills, restricted interests, and repetitive behaviors. The prevalence of ASD among children in Qatar was recently estimated to be 1.1%, though the genetic architecture underlying ASD both in Qatar and the greater Middle East has been largely unexplored. Here, we describe the first genomic data release from the BARAKA-Qatar Study-a nationwide program building a broadly consented biorepository of individuals with ASD and their families available for sample and data sharing and multi-omics research.\n\nIn this first release, we present a comprehensive analysis of whole-genome sequencing (WGS) data of the first 100 families (372 individuals), investigating the genetic architecture, including single-nucleotide variants (SNVs), copy number variants (CNVs), tandem repeat expansions (TREs), as well as mitochondrial DNA variants (mtDNA) segregating with ASD in local families.\n\nOverall, we identify potentially pathogenic variants in known genes or regions in 27 out of 100 families (27%), of which 11 variants (40.7%) were classified as pathogenic or likely-pathogenic based on American College of Medical Genetics (ACMG) guidelines. Dominant variants, including de novo and inherited, contributed to 15 (55.6%) of these families, consisting of SNVs/indels (66.7%), CNVs (13.3%), TREs (13.3%), and mtDNA variants (6.7%). Moreover, homozygous variants were found in 7 families (25.9%), with a sixfold increase in homozygous burden in consanguineous versus non-consanguineous families (13.6% and 1.8%, respectively). Furthermore, 28 novel ASD candidate genes were identified in 20 families, 23 of which had recurrent hits in MSSNG and SSC cohorts.\n\nThis study illustrates the value of ASD studies in under-represented populations and the importance of WGS as a comprehensive tool for establishing a molecular diagnosis for families with ASD. Moreover, it uncovers a significant role for recessive variation in ASD architecture in consanguineous settings and provides a unique resource of Middle Eastern genomes for future research to the global ASD community.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by impaired social and communication skills, restricted interests, and repetitive behaviors. The prevalence of ASD among children in Qatar was recently estimated to be 1.1%, though the genetic architecture underlying ASD both in Qatar and the greater Middle East has been largely unexplored.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37805537/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Qatar",
+    "Genome",
+    "DNA Copy Number Variations",
+    "Genomics",
+    "DNA, Mitochondrial",
+    "Genetic Predisposition to Disease"
+  ],
+  "keywords": [
+    "ASD",
+    "ASD risk genes",
+    "Autism spectrum disorder",
+    "BARAKA cohort",
+    "De novo variants",
+    "Middle Eastern population",
+    "SNVs",
+    "Whole genome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

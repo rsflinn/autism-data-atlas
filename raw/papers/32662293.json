@@ -1,0 +1,44 @@
+{
+  "pmid": "32662293",
+  "doi": "10.1177/1362361320934561",
+  "title": "Using phecode analysis to characterize co-occurring medical conditions in autism spectrum disorder",
+  "authors": "Failla MD, Schwartz KL, Chaganti S, Cutting LE, Landman BA, Cascio CJ",
+  "journal": "Autism : the international journal of research and practice",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "People with autism spectrum disorder often have a number of other medical conditions in addition to autism. These can range from constipation to epilepsy. This study uses medical record data to understand how frequently and how long people with autism have to be seen by a medical professional for these other medical conditions. This study confirmed that people with autism often have a number of other medical conditions and that they have to go see a medical professional about those conditions often. We also looked to see if children diagnosed with autism after age 5&#x2009;years might have different medical conditions compared to children diagnosed earlier. Children diagnosed later had more conditions like asthma, hearing loss, and mood disorders. This work describes how much medical care people with autism get for different medical conditions and the burden of seeking additional medical care for people with autism and their families.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "People with autism spectrum disorder often have a number of other medical conditions in addition to autism. These can range from constipation to epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32662293/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Comorbidity",
+    "Epilepsy",
+    "Humans",
+    "Mood Disorders"
+  ],
+  "keywords": [
+    "anxiety",
+    "autism spectrum disorders",
+    "diagnosis",
+    "medical comorbidity",
+    "psychiatric comorbidity",
+    "sleep"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

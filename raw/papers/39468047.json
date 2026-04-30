@@ -1,0 +1,44 @@
+{
+  "pmid": "39468047",
+  "doi": "10.1038/s41467-024-53590-x",
+  "title": "Conserved autism-associated genes tune social feeding behavior in C. elegans",
+  "authors": "Cowen MH, Haskell D, Zoga K, Reddy KC, Chalasani SH, Hart MP",
+  "journal": "Nature communications",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Animal foraging is an essential and evolutionarily conserved behavior that occurs in social and solitary contexts, but the underlying molecular pathways are not well defined. We discover that conserved autism-associated genes (NRXN1(nrx-1), NLGN3(nlg-1), GRIA1,2,3(glr-1), GRIA2(glr-2), and GLRA2,GABRA3(avr-15)) regulate aggregate feeding in C. elegans, a simple social behavior. NRX-1 functions in chemosensory neurons (ADL and ASH) independently of its postsynaptic partner NLG-1 to regulate social feeding. Glutamate from these neurons is also crucial for aggregate feeding, acting independently of NRX-1 and NLG-1. Compared to solitary counterparts, social animals show faster presynaptic release and more presynaptic release sites in ASH neurons, with only the latter requiring nrx-1. Disruption of these distinct signaling components additively converts behavior from social to solitary. Collectively, we find that aggregate feeding is tuned by conserved autism-associated genes through complementary synaptic mechanisms, revealing molecular principles driving social feeding.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "NLGN3",
+    "NRXN1"
+  ],
+  "summary": "Animal foraging is an essential and evolutionarily conserved behavior that occurs in social and solitary contexts, but the underlying molecular pathways are not well defined. We discover that conserved autism-associated genes (NRXN1(nrx-1), NLGN3(nlg-1), GRIA1,2,3(glr-1), GRIA2(glr-2), and GLRA2,GABRA3(avr-15)) regulate aggregate feeding in C.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39468047/",
+  "mesh_terms": [
+    "Animals",
+    "Caenorhabditis elegans",
+    "Caenorhabditis elegans Proteins",
+    "Feeding Behavior",
+    "Social Behavior",
+    "Autistic Disorder",
+    "Glutamic Acid",
+    "Chemoreceptor Cells",
+    "Receptors, AMPA",
+    "Neural Cell Adhesion Molecules",
+    "Cell Adhesion Molecules, Neuronal"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

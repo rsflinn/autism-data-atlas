@@ -1,0 +1,43 @@
+{
+  "pmid": "35665681",
+  "doi": "10.1016/j.ebiom.2022.104091",
+  "title": "Integrative analysis prioritised oxytocin-related biomarkers associated with the aetiology of autism spectrum disorder",
+  "authors": "Wang T, Zhao T, Liu L, Teng H, Fan T, Li Y, et al.",
+  "journal": "EBioMedicine",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with high phenotypic and genetic heterogeneity. The common variants of specific oxytocin-related genes (OTRGs), particularly OXTR, are associated with the aetiology of ASD. The contribution of rare genetic variations in OTRGs to ASD aetiology remains unclear.\n\nWe catalogued publicly available de novo mutations (DNMs) [from 6,511 patients with ASD and 3,391 controls], rare inherited variants (RIVs) [from 1,786 patients with ASD and 1,786 controls], and both de novo copy number variations (dnCNVs) and inherited CNVs (ihCNVs) [from 15,581 patients with ASD and 6,017 controls] in 963 curated OTRGs to explore their contribution to ASD pathology, respectively. Finally, a combined model was designed to prioritise the contribution of each gene to ASD aetiology by integrating DNMs and CNVs.\n\nThe rare genetic variations of OTRGs were significantly associated with ASD aetiology, in the order of dnCNVs > ihCNVs > DNMs. Furthermore, 172 OTRGs and their connected 286 ASD core genes were prioritised to positively contribute to ASD aetiology, including top-ranked MAPK3. Probands carrying rare disruptive variations in these genes were estimated to account for 10&#x223c;11% of all ASD probands.\n\nOur findings suggest that rare disruptive variations in 172 OTRGs and their connected 286 ASD core genes are associated with ASD aetiology and may be potential biomarkers predicting the effects of oxytocin treatment.\n\nGuangdong Key Project, National Natural Science Foundation of China, Key Laboratory of Clinical Laboratory Diagnosis and Translational Research of Zhejiang Province.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "OXTR"
+  ],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with high phenotypic and genetic heterogeneity. The common variants of specific oxytocin-related genes (OTRGs), particularly OXTR, are associated with the aetiology of ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35665681/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Oxytocin"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Combined model",
+    "MAPK3",
+    "Oxytocin-related biomarkers",
+    "Rare genetic variations"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

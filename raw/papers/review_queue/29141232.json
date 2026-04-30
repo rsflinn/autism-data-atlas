@@ -1,0 +1,54 @@
+{
+  "pmid": "29141232",
+  "doi": "10.1016/j.stemcr.2017.10.012",
+  "title": "FOXP1 Promotes Embryonic Neural Stem Cell Differentiation by Repressing Jagged1 Expression",
+  "authors": "Braccioli L, Vervoort SJ, Adolfs Y, Heijnen CJ, Basak O, Pasterkamp RJ, et al.",
+  "journal": "Stem cell reports",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "Mutations in FOXP1 have been linked to neurodevelopmental disorders including intellectual disability and autism; however, the underlying molecular mechanisms remain ill-defined. Here, we demonstrate with RNA and chromatin immunoprecipitation sequencing that FOXP1 directly regulates genes controlling neurogenesis. We show that FOXP1 is expressed in embryonic neural stem cells (NSCs), and modulation of FOXP1 expression affects both neuron and astrocyte differentiation. Using a murine model of cortical development, FOXP1-knockdown in utero was found to reduce NSC differentiation and migration during corticogenesis. Furthermore, transplantation of FOXP1-knockdown NSCs in neonatal mice after hypoxia-ischemia challenge demonstrated that FOXP1 is also required for neuronal differentiation and functionality in&#xa0;vivo. FOXP1 was found to repress the expression of Notch pathway genes including the Notch-ligand Jagged1, resulting in inhibition of Notch signaling. Finally, blockade of Jagged1 in FOXP1-knockdown NSCs rescued neuronal differentiation in&#xa0;vitro. Together, these data support a role for FOXP1 in regulating embryonic NSC differentiation by modulating Notch signaling.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FOXP1"
+  ],
+  "summary": "Mutations in FOXP1 have been linked to neurodevelopmental disorders including intellectual disability and autism; however, the underlying molecular mechanisms remain ill-defined. Here, we demonstrate with RNA and chromatin immunoprecipitation sequencing that FOXP1 directly regulates genes controlling neurogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29141232/",
+  "mesh_terms": [
+    "Animals",
+    "Astrocytes",
+    "Cells, Cultured",
+    "Cerebral Cortex",
+    "Forkhead Transcription Factors",
+    "Hypoxia-Ischemia, Brain",
+    "Jagged-1 Protein",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mouse Embryonic Stem Cells",
+    "Neural Stem Cells",
+    "Neurogenesis",
+    "Receptors, Notch",
+    "Repressor Proteins",
+    "Stem Cell Transplantation"
+  ],
+  "keywords": [
+    "FOXP1",
+    "NSC",
+    "Notch",
+    "differentiation",
+    "embryonic neural stem cells",
+    "transcription"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

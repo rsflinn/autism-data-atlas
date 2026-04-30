@@ -1,0 +1,47 @@
+{
+  "pmid": "28057268",
+  "doi": "10.1016/bs.ctdb.2016.08.001",
+  "title": "Control of Neuronal Development by T-Box Genes in the Brain",
+  "authors": "Mihalas AB, Hevner RF",
+  "journal": "Current topics in developmental biology",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "T-box transcription factors play key roles in the regulation of developmental processes such as cell differentiation and migration. Mammals have 17 T-box genes, of which several regulate brain development. The Tbr1 subfamily of T-box genes is particularly important in development of the cerebral cortex, olfactory bulbs (OBs), and cerebellum. This subfamily is comprised of Tbr1, Tbr2 (also known as Eomes), and Tbx21. In developing cerebral cortex, Tbr2 and Tbr1 are expressed during successive stages of differentiation in the pyramidal neuron lineage, from Tbr2+ intermediate progenitors to Tbr1+ postmitotic glutamatergic neurons. At each stage, Tbr2 and Tbr1 regulate laminar and regional identity of cortical projection neurons, cell migration, and axon guidance. In the OB, Tbr1 subfamily genes regulate neurogenesis of mitral and tufted cells, and glutamatergic juxtaglomerular interneurons. Tbr2 is also prominent in the development of retinal ganglion cells in nonimage-forming pathways. Other regions that require Tbr2 or Tbr1 in development or adulthood include the cerebellum and adult dentate gyrus. In humans, de novo mutations in TBR1 are important causes of sporadic autism and intellectual disability. Further studies of T-box transcription factors will enhance our understanding of neurodevelopmental disorders and inform approaches to new therapies.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "TBR1"
+  ],
+  "summary": "T-box transcription factors play key roles in the regulation of developmental processes such as cell differentiation and migration. Mammals have 17 T-box genes, of which several regulate brain development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28057268/",
+  "mesh_terms": [
+    "Amino Acid Sequence",
+    "Animals",
+    "Brain",
+    "Humans",
+    "Models, Biological",
+    "Mutation",
+    "Neurogenesis",
+    "Neurons",
+    "T-Box Domain Proteins"
+  ],
+  "keywords": [
+    "Brain",
+    "Glutamatergic neurogenesis",
+    "T-bet/Tbx21",
+    "Tbr1/Tbr1",
+    "Tbr2/Eomes"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

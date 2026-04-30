@@ -1,0 +1,47 @@
+{
+  "pmid": "30902873",
+  "doi": "10.1523/JNEUROSCI.2601-18.2019",
+  "title": "A Screen for Synaptic Growth Mutants Reveals Mechanisms That Stabilize Synaptic Strength",
+  "authors": "Goel P, Khan M, Howard S, Kim G, Kiragasi B, Kikuma K, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Synapses grow, prune, and remodel throughout development, experience, and disease. This structural plasticity can destabilize information transfer in the nervous system. However, neural activity remains stable throughout life, implying that adaptive countermeasures exist that maintain neurotransmission within proper physiological ranges. Aberrant synaptic structure and function have been associated with a variety of neural diseases, including Fragile X syndrome, autism, and intellectual disability. We have screened 300 mutants inlarvae of both sexes for defects in synaptic growth at the neuromuscular junction, identifying 12 mutants with severe reductions or enhancements in synaptic growth. Remarkably, electrophysiological recordings revealed that synaptic strength was unchanged in all but one of these mutants compared with WT. We used a combination of genetic, anatomical, and electrophysiological analyses to illuminate three mechanisms that stabilize synaptic strength despite major disparities in synaptic growth. These include compensatory changes in (1) postsynaptic neurotransmitter receptor abundance, (2) presynaptic morphology, and (3) active zone structure. Together, this characterization identifies new mutants with defects in synaptic growth and the adaptive strategies used by synapses to homeostatically stabilize neurotransmission in response.This study reveals compensatory mechanisms used by synapses to ensure stable functionality during severe alterations in synaptic growth using the neuromuscular junction ofas a model system. Through a forward genetic screen, we identify mutants that exhibit dramatic undergrown or overgrown synapses yet express stable levels of synaptic strength, with three specific compensatory mechanisms discovered. Thus, this study reveals novel insights into the adaptive strategies that constrain neurotransmission within narrow physiological ranges while allowing considerable flexibility in overall synapse number. More broadly, these findings provide insights into how stable synaptic function may be maintained in the nervous system during periods of intensive synaptic growth, pruning, and remodeling.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Synapses grow, prune, and remodel throughout development, experience, and disease. This structural plasticity can destabilize information transfer in the nervous system.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30902873/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Genetically Modified",
+    "Drosophila",
+    "Female",
+    "Male",
+    "Mutation",
+    "Neuromuscular Junction",
+    "Neuronal Plasticity",
+    "Synaptic Transmission"
+  ],
+  "keywords": [
+    "homeostasis",
+    "neuromuscular junction",
+    "neurotransmission",
+    "plasticity",
+    "synapse",
+    "synaptic growth"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

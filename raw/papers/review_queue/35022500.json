@@ -1,0 +1,40 @@
+{
+  "pmid": "35022500",
+  "doi": "10.1038/s41375-021-01505-w",
+  "title": "Differential roles of BAF and PBAF subunits, Arid1b and Arid2, in MLL-AF9 leukemogenesis",
+  "authors": "Bluemn T, Schmitz J, Zheng Y, Burns R, Zheng S, DeJong J, et al.",
+  "journal": "Leukemia",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "The Switch/Sugar Non-Fermenting (SWI/SNF) nucleosome remodeling complexes play important roles in normal development and in the development of various cancers. Core subunits of the SWI/SNF complexes have been shown to have oncogenic roles in acute myeloid leukemia. However, the roles of the unique targeting subunits, including that of Arid2 and Arid1b, in AML leukemogenesis are not well understood. Here, we used conditional knockout mouse models to elucidate their role in MLL-AF9 leukemogenesis. We uncovered that Arid2 has dual roles; enhancing leukemogenesis when deleted during leukemia initiation and yet is required during leukemia maintenance. Whereas, deleting Arid1b in either phase promotes leukemogenesis. Our integrated analyses of transcriptomics and genomic binding data showed that, globally, Arid2 and Arid1b regulate largely distinct sets of genes at different disease stages, respectively, and in comparison, to each other. Amongst the most highly dysregulated transcription factors upon their loss, Arid2 and Arid1b converged on the regulation of Etv4/Etv5, albeit in an opposing manner while also regulating distinct TFs including Gata2,Tcf4, Six4, Irf4 and Hmgn3. Our data demonstrate the differential roles of SWI/SNF subunits in AML leukemogenesis and emphasize that cellular context and disease stage are key in determining their functions during this process.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The Switch/Sugar Non-Fermenting (SWI/SNF) nucleosome remodeling complexes play important roles in normal development and in the development of various cancers. Core subunits of the SWI/SNF complexes have been shown to have oncogenic roles in acute myeloid leukemia.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35022500/",
+  "mesh_terms": [
+    "Animals",
+    "Carcinogenesis",
+    "DNA-Binding Proteins",
+    "Humans",
+    "Leukemia",
+    "Mice",
+    "Mice, Knockout",
+    "Myeloid-Lymphoid Leukemia Protein",
+    "Oncogene Proteins, Fusion",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

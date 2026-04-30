@@ -1,0 +1,40 @@
+{
+  "pmid": "37652704",
+  "doi": "10.1212/WNL.0000000000207799",
+  "title": "Plasma Biomarker Profile and Clinical Correlations in Adult Patients With Tuberous Sclerosis Complex",
+  "authors": "Orlando B, Morano A, Manzini V, Cerulli Irelli E, Borioni MS, Veroni C, et al.",
+  "journal": "Neurology",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Different pathophysiologic mechanisms, especially involving astrocytes, could contribute to tuberous sclerosis complex (TSC). We assessed neurodegeneration and astrocytopathy plasma biomarkers in adult patients with TSC to define TSC biomarker profile and investigate clinical-radiologic correlations.\n\nPatients with TSC aged 15 years or older followed at Policlinico \"Umberto I\" of Rome were consecutively enrolled (July 2021-June 2022). The plasma levels of the following biomarkers were compared between patients and age/sex-matched healthy controls (HCs): tTau, pTau181, Abeta, Abeta, neurofilament light chain, and glial fibrillary acid protein (GFAP).\n\nThirty-one patients (20 females/11 males; median age 30 years, interquartile range 24-47) and 38 HCs were enrolled. Only GFAP was significantly higher in the whole TSC population than in HCs (132.71 [86.14-231.06] vs 44.80 [32.87-66.76] pg/mL,< 0.001), regardless of genotype. GFAP correlated with the disease clinical (&#x3c1; = 0.498,= 0.005) and radiologic severity (&#x3c1; = 0.417,= 0.001). It was significantly higher in patients with epileptic spasms (254.50 [137.54-432.96] vs 86.92 [47.09-112.76] pg/mL,< 0.0001), moderate-severe intellectual disability (200.80 [78.40-427.6] vs 105.08 [46.80-152.58] pg/mL,= 0.040), and autism spectrum disorder (306.26 [159.07-584.47] vs 109.34 [72.56-152.08] pg/mL,= 0.021).\n\nOur exploratory study documented a significant increase of GFAP plasma concentration in adult patients with TSC, correlated with their neurologic severity, supporting the central role of astrocytopathy in TSC pathophysiology.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Different pathophysiologic mechanisms, especially involving astrocytes, could contribute to tuberous sclerosis complex (TSC). We assessed neurodegeneration and astrocytopathy plasma biomarkers in adult patients with TSC to define TSC biomarker profile and investigate clinical-radiologic correlations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37652704/",
+  "mesh_terms": [
+    "Male",
+    "Female",
+    "Humans",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Tuberous Sclerosis",
+    "Biomarkers",
+    "Astrocytes",
+    "Genotype",
+    "Glial Fibrillary Acidic Protein"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

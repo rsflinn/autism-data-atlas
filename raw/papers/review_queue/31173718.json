@@ -1,0 +1,58 @@
+{
+  "pmid": "31173718",
+  "doi": "10.1016/j.stem.2019.05.011",
+  "title": "Human iPSC-Derived Blood-Brain Barrier Chips Enable Disease Modeling and Personalized Medicine Applications",
+  "authors": "Vatine GD, Barrile R, Workman MJ, Sances S, Barriga BK, Rahnama M, et al.",
+  "journal": "Cell stem cell",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "The blood-brain barrier (BBB) tightly regulates the entry of solutes from blood into the brain and is disrupted in several neurological diseases. Using Organ-Chip technology, we created an entirely human BBB-Chip with induced pluripotent stem cell (iPSC)-derived brain microvascular endothelial-like&#xa0;cells (iBMECs), astrocytes, and neurons. The iBMECs formed a tight monolayer that expressed markers specific to brain vasculature. The BBB-Chip exhibited physiologically relevant transendothelial electrical resistance and accurately predicted blood-to-brain permeability of pharmacologics. Upon perfusing the vascular lumen with whole blood, the microengineered capillary wall protected neural cells from plasma-induced toxicity. Patient-derived iPSCs from individuals with neurological diseases predicted disease-specific lack of transporters and disruption of barrier integrity. By combining Organ-Chip technology and human iPSC-derived tissue, we have created a neurovascular unit that recapitulates complex BBB functions, provides a platform for modeling inheritable neurological disorders, and advances drug screening, as well as personalized medicine.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The blood-brain barrier (BBB) tightly regulates the entry of solutes from blood into the brain and is disrupted in several neurological diseases. Using Organ-Chip technology, we created an entirely human BBB-Chip with induced pluripotent stem cell (iPSC)-derived brain microvascular endothelial-like&#xa0;cells (iBMECs), astrocytes, and neurons.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31173718/",
+  "mesh_terms": [
+    "Astrocytes",
+    "Bioengineering",
+    "Blood-Brain Barrier",
+    "Brain",
+    "Capillary Permeability",
+    "Cell Differentiation",
+    "Cells, Cultured",
+    "Drug Evaluation, Preclinical",
+    "Endothelium, Vascular",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Microfluidics",
+    "Neurons",
+    "Organ Culture Techniques",
+    "Precision Medicine"
+  ],
+  "keywords": [
+    "BBB",
+    "MCT8",
+    "blood-brain barrier",
+    "disease model",
+    "iPSCs",
+    "neural",
+    "neurological disease",
+    "organ-on-chip",
+    "personalized medicine",
+    "thyroid"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "pmid": "29724491",
+  "doi": "10.1016/j.biopsych.2018.02.1173",
+  "title": "Clinical Presentation of a Complex Neurodevelopmental Disorder Caused by Mutations in ADNP",
+  "authors": "Van Dijck A, Vulto-van Silfhout AT, Cappuyns E, van der Werf IM, Mancini GM, Tzschach A, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "In genome-wide screening studies for de novo mutations underlying autism and intellectual disability, mutations in the ADNP gene are consistently reported among the most frequent. ADNP mutations have been identified in children with autism spectrum disorder comorbid with intellectual disability, distinctive facial features, and deficits in multiple organ systems. However, a comprehensive clinical description of the Helsmoortel-Van der Aa syndrome is lacking.\n\nWe identified a worldwide cohort of 78 individuals with likely disruptive mutations in ADNP from January 2014 to October 2016 through systematic literature search, by contacting collaborators, and through direct interaction with parents. Clinicians filled in a structured questionnaire on genetic and clinical findings to enable correlations between genotype and phenotype. Clinical photographs and specialist reports were gathered. Parents were interviewed to complement the written questionnaires.\n\nWe report on the detailed clinical characterization of a large cohort of individuals with an ADNP mutation and demonstrate a distinctive combination of clinical features, including mild to severe intellectual disability, autism, severe speech and motor delay, and common facial characteristics. Brain abnormalities, behavioral problems, sleep disturbance, epilepsy, hypotonia, visual problems, congenital heart defects, gastrointestinal problems, short stature, and hormonal deficiencies are common comorbidities. Strikingly, individuals with the recurrent p.Tyr719* mutation were more severely affected.\n\nThis overview defines the full clinical spectrum of individuals with ADNP mutations, a specific autism subtype. We show that individuals with mutations in ADNP have many overlapping clinical features that are distinctive from those of other autism and/or intellectual disability syndromes. In addition, our data show preliminary evidence of a correlation between genotype and phenotype.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "In genome-wide screening studies for de novo mutations underlying autism and intellectual disability, mutations in the ADNP gene are consistently reported among the most frequent. ADNP mutations have been identified in children with autism spectrum disorder comorbid with intellectual disability, distinctive facial features, and deficits in multiple organ systems.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29724491/",
+  "mesh_terms": [
+    "Abnormalities, Multiple",
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Female",
+    "Homeodomain Proteins",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Neurodevelopmental Disorders",
+    "Syndrome",
+    "Young Adult"
+  ],
+  "keywords": [
+    "ADNP",
+    "Autism",
+    "Genetics",
+    "Helsmoortel-Van der Aa syndrome",
+    "Intellectual disability",
+    "Neurodevelopmental disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

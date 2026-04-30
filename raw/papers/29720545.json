@@ -1,0 +1,43 @@
+{
+  "pmid": "29720545",
+  "doi": "10.1212/WNL.0000000000005566",
+  "title": "Multifocal demyelinating motor neuropathy and hamartoma syndrome associated with a de novomutation",
+  "authors": "Bansagi B, Phan V, Baker MR, O'Sullivan J, Jennings MJ, Whittaker RG, et al.",
+  "journal": "Neurology",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "To describe a patient with a multifocal demyelinating motor neuropathy with onset in childhood and a mutation in phosphatase and tensin homolog (), a tumor suppressor gene associated with inherited tumor susceptibility conditions, macrocephaly, autism, ataxia, tremor, and epilepsy. Functional implications of this protein have been investigated in Parkinson and Alzheimer diseases.\n\nWe performed whole-exome sequencing in the patient's genomic DNA validated by Sanger sequencing. Immunoblotting, in vitro enzymatic assay, and label-free shotgun proteomic profiling were performed in the patient's fibroblasts.\n\nThe predominant clinical presentation of the patient was a childhood onset, asymmetric progressive multifocal motor neuropathy. In addition, he presented with macrocephaly, autism spectrum disorder, and skin hamartomas, considered as clinical criteria for PTEN-related hamartoma tumor syndrome. Extensive tumor screening did not detect any malignancies. We detected a novel de novo heterozygous c.269T>C, p.(Phe90Ser)variant, which was absent in both parents. The pathogenicity of the variant is supported by altered expression of several PTEN-associated proteins involved in tumorigenesis. Moreover, fibroblasts showed a defect in catalytic activity of PTEN against the secondary substrate, phosphatidylinositol 3,4-trisphosphate. In support of our findings, focal hypermyelination leading to peripheral neuropathy has been reported in PTEN-deficient mice.\n\nWe describe a novel phenotype, PTEN-associated multifocal demyelinating motor neuropathy with a skin hamartoma syndrome. A similar mechanism may potentially underlie other forms of Charcot-Marie-Tooth disease with involvement of the phosphatidylinositol pathway.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "To describe a patient with a multifocal demyelinating motor neuropathy with onset in childhood and a mutation in phosphatase and tensin homolog (), a tumor suppressor gene associated with inherited tumor susceptibility conditions, macrocephaly, autism, ataxia, tremor, and epilepsy. Functional implications of this protein have been investigated in Parkinson and Alzheimer diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29720545/",
+  "mesh_terms": [
+    "Adult",
+    "Genetic Predisposition to Disease",
+    "Hamartoma",
+    "Hereditary Central Nervous System Demyelinating Diseases",
+    "Hereditary Sensory and Motor Neuropathy",
+    "Humans",
+    "Male",
+    "Mutation",
+    "PTEN Phosphohydrolase",
+    "Exome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "37407249",
+  "doi": "10.1136/bmjpo-2023-001930",
+  "title": "Behavioural deficits of autism spectrum disorder and associations with different gene clusters: a study with the whole-genome transmission disequilibrium test",
+  "authors": "Guo Q, Xia L, Guo R, Xu W, Zhang Y, Zhao C, et al.",
+  "journal": "BMJ paediatrics open",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a diverse neurodevelopmental disease primarily distinguished by limited and stereotyped activities as well as impaired social interaction. Due to the high heritability of ASD, research on the disorder has emphasised on identifying the underlying genetic and epigenetic aetiology. Many ASD loci have been identified by genome-wide association studies (GWASs). However, GWASs are more susceptible to bias due to population stratification. Moreover, GWASs barely reflect the genetic aetiology of subtypes of behavioural deficits.\n\nWe applied whole-genome transmission disequilibrium test (TDT) to reveal the gene sets that are significantly associated with the four behavioural subtypes of restricted repetitive behaviours in 334 ASD trios. We further mapped the clustered genes to pathways and enriched the SFARI genes in these pathways.\n\nFour unique gene clusters (181 genes in total) that are related to four different behavioural subtypes in ASD were identified. 23 SFARI genes were enriched in these four clusters. Through pathway analysis, nine non-SFARI genes (,,,,,,,) were found to be linked to the SFARI genes, which may contribute to the development of ASD. Furthermore, we found that the mTOR pathway enriched with the,genes is associated with neurodevelopment.\n\nWhole-genome TDT test is a unique tool in clustering genes related to ASD subtypes of behavioural deficits. Several new candidate genes for ASD are revealed by pathway analysis of the clustered genes. These findings are useful for understanding the underlying mechanism of ASD.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a diverse neurodevelopmental disease primarily distinguished by limited and stereotyped activities as well as impaired social interaction. Due to the high heritability of ASD, research on the disorder has emphasised on identifying the underlying genetic and epigenetic aetiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37407249/",
+  "mesh_terms": [
+    "Multigene Family",
+    "Humans",
+    "Cerebellar Ataxia",
+    "Genome-Wide Association Study",
+    "Intellectual Disability",
+    "Autism Spectrum Disorder"
+  ],
+  "keywords": [
+    "child psychiatry"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pmid": "35675770",
+  "doi": "10.1016/j.celrep.2022.110906",
+  "title": "Neural circuit pathology driven by Shank3 mutation disrupts social behaviors",
+  "authors": "Kim S, Kim YE, Song I, Ujihara Y, Kim N, Jiang YH, et al.",
+  "journal": "Cell reports",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "Dysfunctional sociability is a core symptom in autism spectrum disorder (ASD) that may arise from neural-network dysconnectivity between multiple brain regions. However, pathogenic neural-network mechanisms underlying social dysfunction are largely unknown. Here, we demonstrate that circuit-selective mutation (ctMUT) of ASD-risk Shank3 gene within a unidirectional projection from the prefrontal cortex to the basolateral amygdala alters spine morphology and excitatory-inhibitory balance of the circuit. Shank3 ctMUT mice show reduced sociability as well as elevated neural activity and its amplitude variability, which is consistent with the neuroimaging results from human ASD patients. Moreover, the circuit hyper-activity disrupts the temporal correlation of socially tuned neurons to the events of social interactions. Finally, optogenetic circuit activation in wild-type mice partially recapitulates the reduced sociability of Shank3 ctMUT mice, while circuit inhibition in Shank3 ctMUT mice partially rescues social behavior. Collectively, these results highlight a circuit-level pathogenic mechanism of Shank3 mutation that drives social dysfunction.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Dysfunctional sociability is a core symptom in autism spectrum disorder (ASD) that may arise from neural-network dysconnectivity between multiple brain regions. However, pathogenic neural-network mechanisms underlying social dysfunction are largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35675770/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Humans",
+    "Mice",
+    "Microfilament Proteins",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Optogenetics",
+    "Prefrontal Cortex",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "CP: Neuroscience",
+    "Shank3",
+    "amygdala",
+    "autism spectrum disorder",
+    "human fMRI",
+    "in vivo Ca(2+) imaging",
+    "neural circuit",
+    "optogenetics",
+    "prefrontal cortex",
+    "round social arena",
+    "social behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "30936767",
+  "doi": "10.31887/DCNS.2018.20.4/gmirzaa",
+  "title": "From microcephaly to megalencephaly: determinants of brain size",
+  "authors": "Pirozzi F, Nelson B, Mirzaa G",
+  "journal": "Dialogues in clinical neuroscience",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Expansion of the human brain, and specifically the neocortex, is among the most remarkable evolutionary processes that correlates with cognitive, emotional, and social abilities. Cortical expansion is determined through a tightly orchestrated process of neural stem cell proliferation, migration, and ongoing organization, synaptogenesis, and apoptosis. Perturbations of each of these intricate steps can lead to abnormalities of brain size in humans, whether small (microcephaly) or large (megalencephaly). Abnormalities of brain growth can be clinically isolated or occur as part of complex syndromes associated with other neurodevelopmental problems (eg, epilepsy, autism, intellectual disability), brain malformations, and body growth abnormalities. Thorough review of the genetic literature reveals that human microcephaly and megalencephaly are caused by mutations of a rapidly growing number of genes linked within critical cellular pathways that impact early brain development, with important pathomechanistic links to cancer, body growth, and epilepsy. Given the rapid rate of causal gene identification for microcephaly and megalencephaly understanding the roles and interplay of these important signaling pathways is crucial to further unravel the mechanisms underlying brain growth disorders and, more fundamentally, normal brain growth and development in humans. In this review, we will (a) overview the definitions of microcephaly and megalencephaly, highlighting their classifications in clinical practice; (b) overview the most common genes and pathways underlying microcephaly and megalencephaly based on the fundamental cellular processes that are perturbed during cortical development; and (c) outline general clinical molecular diagnostic workflows for children and adults presenting with microcephaly and megalencephaly.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Expansion of the human brain, and specifically the neocortex, is among the most remarkable evolutionary processes that correlates with cognitive, emotional, and social abilities. Cortical expansion is determined through a tightly orchestrated process of neural stem cell proliferation, migration, and ongoing organization, synaptogenesis, and apoptosis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30936767/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Brain",
+    "Humans",
+    "Megalencephaly",
+    "Microcephaly",
+    "Mutation",
+    "Organ Size"
+  ],
+  "keywords": [
+    "brain size",
+    "macrocephaly",
+    "megalencephaly",
+    "microcephaly"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

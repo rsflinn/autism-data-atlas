@@ -1,0 +1,44 @@
+{
+  "pmid": "37401095",
+  "doi": "10.1111/bpa.13186",
+  "title": "Kr&#xfc;ppel-like factor 7 deficiency disrupts corpus callosum development and neuronal migration in the developing mouse cerebral cortex",
+  "authors": "Hong W, Gong P, Pan X, Liu Y, Qi G, Qi C, et al.",
+  "journal": "Brain pathology (Zurich, Switzerland)",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "Kr&#xfc;ppel-like Factor 7 (KLF7) is a zinc finger transcription factor that has a critical role in cellular differentiation, tumorigenesis, and regeneration. Mutations in Klf7 are associated with autism spectrum disorder, which is characterized by neurodevelopmental delay and intellectual disability. Here we show that KLF7 regulates neurogenesis and neuronal migration during mouse cortical development. Conditional depletion of KLF7 in neural progenitor cells resulted in agenesis of the corpus callosum, defects in neurogenesis, and impaired neuronal migration in the neocortex. Transcriptomic profiling analysis indicated that KLF7 regulates a cohort of genes involved in neuronal differentiation and migration, including p21 and Rac3. These findings provide insights into our understanding of the potential mechanisms underlying neurological defects associated with Klf7 mutations.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Kr&#xfc;ppel-like Factor 7 (KLF7) is a zinc finger transcription factor that has a critical role in cellular differentiation, tumorigenesis, and regeneration. Mutations in Klf7 are associated with autism spectrum disorder, which is characterized by neurodevelopmental delay and intellectual disability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37401095/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Kruppel-Like Transcription Factors",
+    "Autism Spectrum Disorder",
+    "Corpus Callosum",
+    "Factor VII Deficiency",
+    "Neurogenesis",
+    "Cerebral Cortex"
+  ],
+  "keywords": [
+    "corpus callosum",
+    "kr&#xfc;ppel-like factor 7",
+    "neocortex",
+    "neurogenesis",
+    "neuronal migration"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}
