@@ -1,0 +1,39 @@
+{
+  "pmid": "33752146",
+  "doi": "10.1016/j.gde.2021.02.014",
+  "title": "Copy number variation and neuropsychiatric illness",
+  "authors": "Rees E, Kirov G",
+  "journal": "Current opinion in genetics & development",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) at specific loci have been identified as important risk factors for several neuropsychiatric disorders, such as schizophrenia, autism spectrum disorder, intellectual disability (ID) and depression. These CNVs are individually rare (<0.5% frequency), have high effect sizes, and show pleiotropic effects for multiple neuropsychiatric disorders, which implies a shared aetiology. Neuropsychiatric CNVs are also associated with cognitive impairment and other medical morbidities, such as heart defects and obesity. As most neuropsychiatric CNVs are multigenic, it has been challenging to map their effects onto specific biological processes, although gene-set analyses have implicated genes related to the synapse and chromatin regulation. However, future whole-genome sequencing studies have potential for identifying novel single-gene CNV associations, which could provide insights into the pathophysiology underlying neuropsychiatric disorders.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants (CNVs) at specific loci have been identified as important risk factors for several neuropsychiatric disorders, such as schizophrenia, autism spectrum disorder, intellectual disability (ID) and depression. These CNVs are individually rare (<0.5% frequency), have high effect sizes, and show pleiotropic effects for multiple neuropsychiatric disorders, which implies a shared aetiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33752146/",
+  "mesh_terms": [
+    "DNA Copy Number Variations",
+    "Gene Deletion",
+    "Gene Duplication",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Mental Disorders",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "38433353",
+  "doi": "10.1002/aur.3112",
+  "title": "Sensory experiences questionnaire unravels differences in sensory profiles between MECP2-related disorders",
+  "authors": "Suter B, Pehlivan D, Ak M, Harris HK, Lyons-Warren AM",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "The methyl CpG-binding protein-2 (MECP2) gene is located on the Xq28 region. Loss of function mutations or increased copies of MECP2 result in Rett syndrome (RTT) and MECP2 duplication syndrome (MDS), respectively. Individuals with both disorders exhibit overlapping autism symptoms, yet few studies have dissected the differences between these gene dosage sensitive disorders. Further, research examining sensory processing patterns in persons with RTT and MDS is largely absent. Thus, the goal of this study was to analyze and compare sensory processing patterns in persons with RTT and MDS. Towards this goal, caregivers of 50 female individuals with RTT and 122 male individuals with MDS, between 1 and 46&#x2009;years of age, completed a standardized measure of sensory processing, the Sensory Experiences Questionnaire. Patterns detected in both disorders were compared against each other and against normative values. We found sensory processing abnormalities for both hyper- and hypo-sensitivity in both groups. Interestingly, abnormalities in MDS were more pronounced compared with in RTT, particularly with items concerning hypersensitivity and sensory seeking, but not hyposensitivity. Individuals with MDS also exhibited greater sensory symptoms compared with RTT in the areas of tactile and vestibular sensory processing and for both social and nonsocial stimuli. This study provides a first description of sensory symptoms in individuals with RTT and individuals with MDS. Similar to other neurodevelopmental disorders, a variety of sensory processing abnormalities was found. These findings reveal a first insight into sensory processing abnormalities caused by a dosage sensitive gene and may ultimately help guide therapeutic approaches for these disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "The methyl CpG-binding protein-2 (MECP2) gene is located on the Xq28 region. Loss of function mutations or increased copies of MECP2 result in Rett syndrome (RTT) and MECP2 duplication syndrome (MDS), respectively.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38433353/",
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Rett Syndrome",
+    "Surveys and Questionnaires",
+    "Sensation Disorders"
+  ],
+  "keywords": [
+    "MECP2 duplication syndrome",
+    "Rett syndrome",
+    "sensory experiences questionnaire",
+    "sensory profile"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

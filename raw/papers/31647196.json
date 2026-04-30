@@ -1,0 +1,45 @@
+{
+  "pmid": "31647196",
+  "doi": "10.1002/aur.2229",
+  "title": "Genome-wide association analysis of autism identified multiple loci that have been reported as strong signals for neuropsychiatric disorders",
+  "authors": "Xia L, Ou J, Li K, Guo H, Hu Z, Bai T, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Autism is a common neurodevelopmental disorder with a moderate to a high degree of heritability, but only a few common genetic variants that explain the heritability have been associated. We performed a genome-wide transmission disequilibrium test analysis of a newly genotyped autism case-parent triad samples (127 trios) in Han Chinese, identified top association signals at multiple single nucleotide polymorphisms (SNPs), including rs9839376 (OR = 2.59, P = 1.27 &#xd7;&#x2009;10) at KCNMB2, rs6044680 (OR = 0.319, P = 4.82 &#xd7;&#x2009;10) and rs7274133 (OR = 0.313, P = 3.22 &#xd7;&#x2009;10) at PCSK2, and rs310619 (OR = 2.40, P = 7.44 &#xd7;&#x2009;10) at EEF1A2. Furthermore, a genome-wide combined P-value of individual SNPs in two independent case-parent triad samples (total 402 triads, n = 1,206) identified SNPs at EGFLAM, ZDHHC2, AGBL1, and SNX29 as additional association signals for autism. While none of these signals achieved a genome-wide significance in the two samples of our study, they have been reported in a previous genome-wide association study of neuropsychiatric disorders, and the majority of these SNP have a significant cis-regulatory association with mRNA in human tissues (false discovery rate (FDR)&#x2009;<&#x2009;0.05). Our study warrants further study or replication with additional sample for association with autism and other neuropsychiatric disorders. Autism Res 2020, 13: 382-396. &#xa9; 2019 International Society for Autism Research, Wiley Periodicals, Inc. LAY SUMMARY: Autism is a common neurodevelopmental disorder, heritable, but only a few common genetic variants that explain the heritability have been associated. We conducted a genome-wide association study with two cohorts of autism case-parent triad samples in Han Chinese and identified multiple single nucleotide polymorphisms that were reported as strong association signals in a previous genome-wide association study of other neuropsychiatric disorders or related traits. Our study provides evidence for shared genetic variants among autism and other neuropsychiatric disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a common neurodevelopmental disorder with a moderate to a high degree of heritability, but only a few common genetic variants that explain the heritability have been associated. We performed a genome-wide transmission disequilibrium test analysis of a newly genotyped autism case-parent triad samples (127 trios) in Han Chinese, identified top association signals at multiple single nucleotide polymorphisms (SNPs), including rs9839376 (OR = 2.59, P = 1.27 &#xd7;&#x2009;10) at KCNMB2, rs60",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31647196/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Male",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "autism",
+    "genome-wide association study",
+    "neuropsychiatric disorders",
+    "transmission disequilibrium test"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

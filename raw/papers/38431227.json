@@ -1,0 +1,43 @@
+{
+  "pmid": "38431227",
+  "doi": "10.1016/j.jneumeth.2024.110100",
+  "title": "Decoding Autism: Uncovering patterns in brain connectivity through sparsity analysis with rs-fMRI data",
+  "authors": "Bandyopadhyay S, Peddi S, Sarma M, Samanta D",
+  "journal": "Journal of neuroscience methods",
+  "date": "2024-02",
+  "source": "pubmed",
+  "abstract": "In the realm of neuro-disorders, precise diagnosis and treatment rely heavily on objective imaging-based biomarker identification. This study employs a sparsity approach on resting-state fMRI to discern relevant brain region connectivity for predicting Autism.\n\nThe proposed methodology involves four key steps: (1) Utilizing three probabilistic brain atlases to extract functionally homogeneous brain regions from fMRI data. (2) Employing a hybrid approach of Graphical Lasso and Akaike Information Criteria to optimize sparse inverse covariance matrices for representing the brain functional connectivity. (3) Employing statistical techniques to scrutinize functional brain structures in Autism and Control subjects. (4) Implementing both autoencoder-based feature extraction and entire feature-based approach coupled with AI-based learning classifiers to predict Autism.\n\nThe ensemble classifier with the extracted feature set achieves a classification accuracy of 84.7% &#xb1; 0.3% using the MSDL atlas. Meanwhile, the 1D-CNN model, employing all features, exhibits superior classification accuracy of 88.6% &#xb1; 1.7% with the Smith 2009 (rsn70) atlas.\n\nThe proposed methodology outperforms the conventional correlation-based functional connectivity approach with a notably high prediction accuracy of more than 88%, whereas considering all direct and noisy indirect region-based functional connectivity, the traditional methods bound the prediction accuracy within 70% to 79%.\n\nThis study underscores the potential of sparsity-based FC analysis using rs-fMRI data as a prognostic biomarker for detecting Autism.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "In the realm of neuro-disorders, precise diagnosis and treatment rely heavily on objective imaging-based biomarker identification. This study employs a sparsity approach on resting-state fMRI to discern relevant brain region connectivity for predicting Autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38431227/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Magnetic Resonance Imaging",
+    "Brain Mapping",
+    "Brain",
+    "Biomarkers",
+    "Autism Spectrum Disorder"
+  ],
+  "keywords": [
+    "ASD detection",
+    "Brain functional connectivity",
+    "Direct region based connectivity",
+    "Hybrid approach",
+    "Optimization of brain connectivity graph",
+    "Sparse representation"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

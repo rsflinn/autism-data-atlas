@@ -1,0 +1,38 @@
+{
+  "pmid": "35491410",
+  "doi": "10.1038/s41380-022-01566-y",
+  "title": "A common epigenetic mechanism across different cellular origins underlies systemic immune dysregulation in an idiopathic autism mouse model",
+  "authors": "Lin CW, Septyaningtrias DE, Chao HW, Konda M, Atarashi K, Takeshita K, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2022-05",
+  "source": "pubmed",
+  "abstract": "Immune dysregulation plays a key role in the pathogenesis of autism. Changes occurring at the systemic level, from brain inflammation to disturbed innate/adaptive immune in the periphery, are frequently observed in patients with autism; however, the intrinsic mechanisms behind them remain elusive. We hypothesize a common etiology may lie in progenitors of different types underlying widespread immune dysregulation. By single-cell RNA sequencing (sc-RNA seq), we trace the developmental origins of immune dysregulation in a mouse model of idiopathic autism. It is found that both in aorta-gonad-mesonephros (AGM) and yolk sac (YS) progenitors, the dysregulation of HDAC1-mediated epigenetic machinery alters definitive hematopoiesis during embryogenesis and downregulates the expression of the AP-1 complex for microglia development. Subsequently, these changes result in the dysregulation of the immune system, leading to gut dysbiosis and hyperactive microglia in the brain. We further confirm that dysregulated immune profiles are associated with specific microbiota composition, which may serve as a biomarker to identify autism of immune-dysregulated subtypes. Our findings elucidate a shared mechanism for the origin of immune dysregulation from the brain to the gut in autism and provide new insight to dissecting the heterogeneity of autism, as well as the therapeutic potential of targeting immune-dysregulated autism subtypes.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Immune dysregulation plays a key role in the pathogenesis of autism. Changes occurring at the systemic level, from brain inflammation to disturbed innate/adaptive immune in the periphery, are frequently observed in patients with autism; however, the intrinsic mechanisms behind them remain elusive.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35491410/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Autistic Disorder",
+    "Mesonephros",
+    "Yolk Sac",
+    "Gonads",
+    "Epigenesis, Genetic",
+    "Disease Models, Animal"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

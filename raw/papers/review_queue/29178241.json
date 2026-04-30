@@ -1,0 +1,56 @@
+{
+  "pmid": "29178241",
+  "doi": "10.1002/ajmg.a.38504",
+  "title": "Rare FMR1 gene mutations causing fragile X syndrome: A review",
+  "authors": "Sitzmann AF, Hagelstrom RT, Tassone F, Hagerman RJ, Butler MG",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common inherited form of intellectual disability, typically due to CGG-repeat expansions in the FMR1 gene leading to lack of expression. We identified a rare FMR1 gene mutation (c.413G>A), previously reported in a single patient and reviewed the literature for other rare FMR1 mutations. Our patient at 10 years of age presented with the classical findings of FXS including intellectual disability, autism, craniofacial findings, hyperextensibility, fleshy hands, flat feet, unsteady gait, and seizures but without the typical CGG-repeat expansion. He had more features of FXS than the previously reported patient with the same mutation. Twenty individuals reported previously with rare missense or nonsense mutations or other coding disturbances of the FMR1 gene ranged in age from infancy to 50 years; most were verbal with limited speech, had autism and hyperactivity, and all had intellectual disability. Four of the 20 individuals had a mutation within exon 15, three within exon 5, and two within exon 2. The FMR1 missense mutation (c.413G>A) is the same as in a previously reported male where it was shown that there was preservation of the post-synaptic function of the fragile X mental retardation protein (FMRP), the encoded protein of the FMR1 gene was preserved. Both patients with this missense mutation had physical, cognitive, and behavioral features similarly seen in FXS.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is the most common inherited form of intellectual disability, typically due to CGG-repeat expansions in the FMR1 gene leading to lack of expression. We identified a rare FMR1 gene mutation (c.413G>A), previously reported in a single patient and reviewed the literature for other rare FMR1 mutations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29178241/",
+  "mesh_terms": [
+    "Alleles",
+    "Child",
+    "DNA Mutational Analysis",
+    "Exons",
+    "Facies",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Genetic Association Studies",
+    "Genotype",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Male",
+    "Mutation",
+    "Mutation, Missense",
+    "Phenotype"
+  ],
+  "keywords": [
+    "FMR1 gene",
+    "FMRP",
+    "fragile X syndrome",
+    "genetics",
+    "rare mutations",
+    "review"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

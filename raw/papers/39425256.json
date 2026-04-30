@@ -1,0 +1,47 @@
+{
+  "pmid": "39425256",
+  "doi": "10.1111/pcn.13757",
+  "title": "AST-001 versus placebo for social communication in children with autism spectrum disorder: A randomized clinical trial",
+  "authors": "Kim HW, Kim JH, Chung US, Kim JI, Shim SH, Park TW, et al.",
+  "journal": "Psychiatry and clinical neurosciences",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "This study examined the efficacy of AST-001 for the core symptoms of autism spectrum disorder (ASD) in children.\n\nThis phase 2 clinical trial consisted of a 12-week placebo-controlled main study, a 12-week extension, and a 12-week follow-up in children aged 2 to 11&#x2009;years with ASD. The participants were randomized in a 1:1:1 ratio to a high-dose, low-dose, or placebo-to-high-dose control group during the main study. The placebo-to-high-dose control group received placebo during the main study and high-dose AST-001 during the extension. The a priori primary outcome was the mean change in the Adaptive Behavior Composite (ABC) score of the Korean Vineland Adaptive Behavior Scales II (K-VABS-II) from baseline to week 12.\n\nAmong 151 enrolled participants, 144 completed the main study, 140 completed the extension, and 135 completed the follow-up. The mean K-VABS-II ABC score at the 12th week compared with baseline was significantly increased in the high-dose group (P&#x2009;=&#x2009;0.042) compared with the placebo-to-high-dose control group. The mean CGI-S scores were significantly decreased at the 12th week in the high-dose (P&#x2009;=&#x2009;0.046) and low-dose (P&#x2009;=&#x2009;0.017) groups compared with the placebo-to-high-dose control group. During the extension, the K-VABS-II ABC and CGI-S scores of the placebo-to-high-dose control group changed rapidly after administration of high-dose AST-001 and caught up with those of the high-dose group at the 24th week. AST-001 was well tolerated with no safety concern. The most common adverse drug reaction was diarrhea.\n\nOur results provide preliminary evidence for the efficacy of AST-001 for the core symptoms of ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "This study examined the efficacy of AST-001 for the core symptoms of autism spectrum disorder (ASD) in children. This phase 2 clinical trial consisted of a 12-week placebo-controlled main study, a 12-week extension, and a 12-week follow-up in children aged 2 to 11&#x2009;years with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39425256/",
+  "mesh_terms": [
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Double-Blind Method",
+    "Outcome Assessment, Health Care",
+    "Communication",
+    "Serine",
+    "Placebos"
+  ],
+  "keywords": [
+    "autism",
+    "children",
+    "clinical trial",
+    "social communication"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Clinical Trial, Phase II"
+  ]
+}

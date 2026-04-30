@@ -1,0 +1,42 @@
+{
+  "pmid": "34980886",
+  "doi": "10.1038/s41380-021-01241-8",
+  "title": "Structure-function relationships of the disease-linked A218T oxytocin receptor variant",
+  "authors": "Meyer M, Jurek B, Alfonso-Prieto M, Ribeiro R, Milenkovic VM, Winter J, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Various single nucleotide polymorphisms (SNPs) in the oxytocin receptor (OXTR) gene have been associated with behavioral traits, autism spectrum disorder (ASD) and other diseases. The non-synonymous SNP rs4686302 results in the OXTR variant A218T and has been linked to core characteristics of ASD, trait empathy and preterm birth. However, the molecular and intracellular mechanisms underlying those associations are still elusive. Here, we uncovered the molecular and intracellular consequences of this mutation that may affect the psychological or behavioral outcome of&#xa0;oxytocin (OXT)-treatment regimens in clinical studies, and provide a mechanistic explanation for an altered receptor function. We created two monoclonal HEK293 cell lines, stably expressing either the wild-type or A218T OXTR. We detected an increased OXTR protein stability, accompanied by a shift in Cadynamics and reduced MAPK pathway activation in the A218T cells. Combined whole-genome and RNA sequencing analyses in OXT-treated cells revealed 7823 differentially regulated genes in A218T compared to wild-type cells, including 429 genes being associated with ASD. Furthermore, computational modeling provided a molecular basis for the observed change in OXTR stability suggesting that the OXTR mutation affects downstream events by altering receptor activation and signaling, in agreement with our in vitro results. In summary, our study provides the cellular mechanism that links the OXTR rs4686302 SNP with genetic dysregulations associated with aspects of ASD.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "OXTR"
+  ],
+  "summary": "Various single nucleotide polymorphisms (SNPs) in the oxytocin receptor (OXTR) gene have been associated with behavioral traits, autism spectrum disorder (ASD) and other diseases. The non-synonymous SNP rs4686302 results in the OXTR variant A218T and has been linked to core characteristics of ASD, trait empathy and preterm birth.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34980886/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Female",
+    "HEK293 Cells",
+    "Humans",
+    "Infant, Newborn",
+    "Oxytocin",
+    "Pregnancy",
+    "Premature Birth",
+    "Receptors, Oxytocin",
+    "Structure-Activity Relationship"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

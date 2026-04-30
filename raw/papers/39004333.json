@@ -1,0 +1,45 @@
+{
+  "pmid": "39004333",
+  "doi": "10.1016/j.pnpbp.2024.111089",
+  "title": "Effectiveness of pharmacological interventions for managing ADHD symptoms in individuals with autism spectrum disorder: A systematic review and meta-analysis",
+  "authors": "Martins PLB, Torquato GCP, Dias GAPF, Leite IB, Gaspar TM, Pinto JP, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "This systematic review sought to provide evidence for the effectiveness of common pharmacological interventions used for treating attention deficit hyperactivity disorder (ADHD) symptoms in the autism spectrum disorder (ASD) population, considering studies attempting to find safe and effective drugs.\n\nWe searched for randomized controlled trials describing the effectiveness and/or safety profile of pharmacological interventions for treating ASD and ADHD or ASD with ADHD symptoms using three bibliographic databases: PubMed, Cochrane Library, and Embase. We have chosen ADHD symptoms measured by any clinical scale as the primary outcome. As additional outcomes, we have used other symptoms of aberrant behavior measured by the aberrant behavior checklist, satisfaction with treatment, and peer satisfaction.\n\nTwenty-two publications met the inclusion criteria for the systematic review and eight for the meta-analysis. In our investigation, we found a few articles using clonidine, modafinil, and bupropion as interventions when compared to methylphenidate (MPH). Our meta-analysis showed that MPH had positive changes compared to placebo in symptoms such as hyperactivity, irritability, or inattention. However, no effect was found in stereotyped symptoms, and our data's quantitative analysis revealed a large effect of MPH-induced adverse effects on the dropout rate. On the other hand, atomoxetine initiation had positive effects when compared to placebo on symptoms of hyperactivity and inattention. We have found no effect of atomoxetine on stereotypes or irritability. Furthermore, atomoxetine did not influence side effects that caused dropouts from studies.\n\nOur results indicated that atomoxetine has a modest effect on hyperactivity and inattention symptoms, with a relatively benign profile of side effects. MPH appears to be effective in handling hyperactivity, inattention, and irritability symptoms. However, our results on atomoxetine revealed increased dropouts due to adverse effects when compared to MPH or placebo. Evidence for other substances such as guanfacine, clonidine, bupropion, or modafinil is either preliminary or nonexistent.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "This systematic review sought to provide evidence for the effectiveness of common pharmacological interventions used for treating attention deficit hyperactivity disorder (ADHD) symptoms in the autism spectrum disorder (ASD) population, considering studies attempting to find safe and effective drugs. We searched for randomized controlled trials describing the effectiveness and/or safety profile of pharmacological interventions for treating ASD and ADHD or ASD with ADHD symptoms using three bibli",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39004333/",
+  "mesh_terms": [
+    "Humans",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Central Nervous System Stimulants",
+    "Randomized Controlled Trials as Topic",
+    "Clonidine",
+    "Methylphenidate",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "Autism Spectrum disorder",
+    "Pharmacology",
+    "Psychostimulants",
+    "Treatment intervention"
+  ],
+  "article_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ]
+}

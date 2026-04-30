@@ -1,0 +1,44 @@
+{
+  "pmid": "35460749",
+  "doi": "10.1016/j.ijbiomac.2022.04.080",
+  "title": "TAT-MeCP2 protein variants rescue disease phenotypes in human and mouse models of Rett syndrome",
+  "authors": "Steinkellner H, Kempaiah P, Beribisky AV, Pferschy S, Etzler J, Huber A, et al.",
+  "journal": "International journal of biological macromolecules",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a neurodevelopmental disorder caused by pathogenic variants leading to functional impairment of the MeCP2 protein. Here, we used purified recombinant MeCP2e1 and MeCP2e2 protein variants fused to a TAT protein transduction domain (PTD) to evaluate their transduction ability into RTT patient-derived fibroblasts and the ability to carry out their cellular function. We then assessed their transduction ability and therapeutic effects in a RTT mouse model. In vitro, TAT-MeCP2e2-eGFP reversed the pathological hyperacetylation of histones H3K9 and H4K16, a hallmark of abolition of MeCP2 function. In vivo, intraperitoneal administration of TAT-MeCP2e1 and TAT-MeCP2e2 extended the lifespan of Mecp2mice by >50%. This was accompanied by rescue of hippocampal CA2 neuron size in animals treated with TAT-MeCP2e1. Taken together, these findings provide a strong indication that recombinant TAT-MeCP2 can reach mouse brains following peripheral injection and can ameliorate the phenotype of RTT mouse models. Thus, our study serves as a first step in the development of a potentially novel RTT therapy.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Rett syndrome (RTT) is a neurodevelopmental disorder caused by pathogenic variants leading to functional impairment of the MeCP2 protein. Here, we used purified recombinant MeCP2e1 and MeCP2e2 protein variants fused to a TAT protein transduction domain (PTD) to evaluate their transduction ability into RTT patient-derived fibroblasts and the ability to carry out their cellular function.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35460749/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Gene Products, tat",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mutation",
+    "Phenotype",
+    "Rett Syndrome"
+  ],
+  "keywords": [
+    "Brain function",
+    "Broader autism phenotype",
+    "MeCP2",
+    "Protein replacement therapy",
+    "Rett syndrome"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

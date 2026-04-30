@@ -1,0 +1,35 @@
+{
+  "pmid": "33178126",
+  "doi": "10.3389/fneur.2020.582891",
+  "title": "Prediction of Neurodevelopment in Infants With Tuberous Sclerosis Complex Using Early EEG Characteristics",
+  "authors": "De Ridder J, Lavanga M, Verhelle B, Vervisch J, Lemmens K, Kotulska K, et al.",
+  "journal": "Frontiers in neurology",
+  "date": "2020-10",
+  "source": "pubmed",
+  "abstract": "Tuberous Sclerosis Complex (TSC) is a multisystem genetic disorder with a high risk of early-onset epilepsy and a high prevalence of neurodevelopmental comorbidities, including intellectual disability and autism spectrum disorder (ASD). Therefore, TSC is an interesting disease model to investigate early biomarkers of neurodevelopmental comorbidities when interventions are favourable. We investigated whether early EEG characteristics can be used to predict neurodevelopment in infants with TSC. The first recorded EEG of 64 infants with TSC, enrolled in the international prospective EPISTOP trial (recorded at a median gestational age 42 4/7 weeks) was first visually assessed. EEG characteristics were correlated with ASD risk based on the ADOS-2 score, and cognitive, language, and motor developmental quotients (Bayley Scales of Infant and Toddler Development III) at the age of 24 months. Quantitative EEG analysis was used to validate the relationship between EEG background abnormalities and ASD risk. An abnormal first EEG (OR = 4.1,-value = 0.027) and more specifically a dysmature EEG background (OR = 4.6,-value = 0.017) was associated with a higher probability of ASD traits at the age of 24 months. This association between an early abnormal EEG and ASD risk remained significant in a multivariable model, adjusting for mutation and treatment (adjusted OR = 4.2,-value = 0.029). A dysmature EEG background was also associated with lower cognitive (-value = 0.029), language (-value = 0.001), and motor (-value = 0.017) developmental quotients at the age of 24 months. Our findings suggest that early EEG characteristics in newborns and infants with TSC can be used to predict neurodevelopmental comorbidities.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous Sclerosis Complex (TSC) is a multisystem genetic disorder with a high risk of early-onset epilepsy and a high prevalence of neurodevelopmental comorbidities, including intellectual disability and autism spectrum disorder (ASD). Therefore, TSC is an interesting disease model to investigate early biomarkers of neurodevelopmental comorbidities when interventions are favourable.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33178126/",
+  "mesh_terms": [],
+  "keywords": [
+    "EEG",
+    "TAND profile",
+    "autism (ASD)",
+    "biomarker",
+    "neurodeveloment",
+    "tuberous sclerosis complex (TSC)"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

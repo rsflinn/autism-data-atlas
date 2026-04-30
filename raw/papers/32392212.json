@@ -1,0 +1,50 @@
+{
+  "pmid": "32392212",
+  "doi": "10.1371/journal.pgen.1008185",
+  "title": "A cross-disorder PRS-pheWAS of 5 major psychiatric disorders in UK Biobank",
+  "authors": "Leppert B, Millard LAC, Riglin L, Davey Smith G, Thapar A, Tilling K, et al.",
+  "journal": "PLoS genetics",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Psychiatric disorders are highly heritable and associated with a wide variety of social adversity and physical health problems. Using genetic liability (rather than phenotypic measures of disease) as a proxy for psychiatric disease risk can be a useful alternative for research questions that would traditionally require large cohort studies with long-term follow up. Here we conducted a hypothesis-free phenome-wide association study in about 330,000 participants from the UK Biobank to examine associations of polygenic risk scores (PRS) for five psychiatric disorders (major depression (MDD), bipolar disorder (BP), schizophrenia (SCZ), attention-deficit/ hyperactivity disorder (ADHD) and autism spectrum disorder (ASD)) with 23,004 outcomes in UK Biobank, using the open-source PHESANT software package. There was evidence after multiple testing (p<2.55x10-06) for associations of PRSs with 294 outcomes, most of them attributed to associations of PRSMDD (n = 167) and PRSSCZ (n = 157) with mental health factors. Among others, we found strong evidence of association of higher PRSADHD with 1.1 months younger age at first sexual intercourse [95% confidence interval [CI]: -1.25,-0.92] and a history of physical maltreatment; PRSASD with 0.01% lower erythrocyte distribution width [95%CI: -0.013,-0.007]; PRSSCZ with 0.95 lower odds of playing computer games [95%CI:0.95,0.96]; PRSMDD with a 0.12 points higher neuroticism score [95%CI:0.111,0.135] and PRSBP with 1.03 higher odds of having a university degree [95%CI:1.02,1.03]. We were able to show that genetic liabilities for five major psychiatric disorders associate with long-term aspects of adult life, including socio-demographic factors, mental and physical health. This is evident even in individuals from the general population who do not necessarily present with a psychiatric disorder diagnosis.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Psychiatric disorders are highly heritable and associated with a wide variety of social adversity and physical health problems. Using genetic liability (rather than phenotypic measures of disease) as a proxy for psychiatric disease risk can be a useful alternative for research questions that would traditionally require large cohort studies with long-term follow up.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32392212/",
+  "mesh_terms": [
+    "Adult",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Biological Specimen Banks",
+    "Bipolar Disorder",
+    "Cohort Studies",
+    "Major Depressive Disorder",
+    "Female",
+    "Genetic Heterogeneity",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Mental Disorders",
+    "Multifactorial Inheritance",
+    "Phenotype",
+    "Risk Factors",
+    "Schizophrenia",
+    "Socioeconomic Factors",
+    "United Kingdom"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

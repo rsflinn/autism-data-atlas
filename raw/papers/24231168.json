@@ -1,0 +1,50 @@
+{
+  "pmid": "24231168",
+  "doi": "10.1016/j.chc.2013.07.005",
+  "title": "Psychopharmacologic management of serious behavioral disturbance in ASD",
+  "authors": "Stigler KA",
+  "journal": "Child and adolescent psychiatric clinics of North America",
+  "date": "2013-09",
+  "source": "pubmed",
+  "abstract": "Individuals diagnosed with autism spectrum disorders (ASD) often exhibit serious behavioral disturbance (irritability) including severe tantrums, aggression, and self-injury that requires pharmacologic management. Research focused on the treatment of severe irritability has primarily involved the atypical antipsychotics, including risperidone and aripiprazole. Anticonvulsants have also been investigated for targeting serious behavioral disturbance; however findings have been mixed. Advances in the pharmacotherapy of irritability in ASD continue to inform practice. Research is needed to develop safer and more effective drug treatments for serious behavioral disturbance in this population.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Individuals diagnosed with autism spectrum disorders (ASD) often exhibit serious behavioral disturbance (irritability) including severe tantrums, aggression, and self-injury that requires pharmacologic management. Research focused on the treatment of severe irritability has primarily involved the atypical antipsychotics, including risperidone and aripiprazole.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24231168/",
+  "mesh_terms": [
+    "Adrenergic alpha-2 Receptor Agonists",
+    "Aggression",
+    "Anticonvulsants",
+    "Antimanic Agents",
+    "Antipsychotic Agents",
+    "Child Development Disorders, Pervasive",
+    "Clinical Trials as Topic",
+    "Combined Modality Therapy",
+    "Humans",
+    "Irritable Mood",
+    "Self-Injurious Behavior"
+  ],
+  "keywords": [
+    "Aggression",
+    "Autism",
+    "Autism spectrum disorders",
+    "Irritability",
+    "Psychopharmacology",
+    "Self-injury"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

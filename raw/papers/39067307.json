@@ -1,0 +1,51 @@
+{
+  "pmid": "39067307",
+  "doi": "10.1016/j.yebeh.2024.109958",
+  "title": "A tool for Dravet syndrome-associated neuropsychiatric comorbidities evaluation (DANCE)",
+  "authors": "Giorgi S, Auvin S, Schoonjans AS, Tur&#xf3;n E, S&#xe1;nchez-Miranda I, Gil-Nagel A, et al.",
+  "journal": "Epilepsy & behavior : E&B",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Dravet syndrome (DS) is a rare and severe form of epilepsy that begins in infancy, which is primarily caused by pathogenic variants in the SCN1A gene. DS is characterized by prolonged and frequent drug-resistant seizures, as well as developmental delays and behavioral problems. The identification of these comorbidities is based on clinical interview and relies on healthcare professionals (HCPs) experience.\n\nWe assembled a group of expert HCPs and caregivers to create a screening checklist for assessing DS-Associated Neuropsychiatric Comorbidities (DANC). The checklist includes questions related to cognitive and psychiatric domains, motor skills, and the impact of DS on families' daily lives. We administered the checklist to 24 caregivers of DS patients from Belgium, France, and Spain. After piloting, we obtained feedback from expert HCPs and caregivers to refine the checklist.\n\nDS patients showed a wide array of neuropsychiatric symptoms related to DS. The most common cognitive domains reported were attention difficulties and multitasking problems (18/24 caregivers), and impulsivity (17/24), while the most common psychiatric symptoms were temper tantrums (14/24), mood swings (13/24) and autism spectrum disorder (12/24). Balance and coordination problem have been reported in almost all patients with a statement of only 4/23 with complete mobility. Most patients were dependent on others for self-care and eating, and presented sleeping disturbances. Caregivers reported high levels of stress in the family unit, both between siblings and parents. Results show that the main concerns of parents were the behavior and the cognition of the person with DS. The quantitative feedback results showed good-to-very good scores on usefulness, ease of completion, clarity and comprehensiveness of the checklist.\n\nThis pilot study suggests that the DANCE checklist could be a useful screening tool in daily practice for neuropsychiatric comorbidities facilitating their diagnosis and treatment, and empowering both caregivers and patients.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "SCN1A"
+  ],
+  "summary": "Dravet syndrome (DS) is a rare and severe form of epilepsy that begins in infancy, which is primarily caused by pathogenic variants in the SCN1A gene. DS is characterized by prolonged and frequent drug-resistant seizures, as well as developmental delays and behavioral problems.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39067307/",
+  "mesh_terms": [
+    "Humans",
+    "Epilepsies, Myoclonic",
+    "Male",
+    "Female",
+    "Child",
+    "Comorbidity",
+    "Child, Preschool",
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Caregivers",
+    "Young Adult",
+    "Checklist",
+    "Mental Disorders",
+    "Infant"
+  ],
+  "keywords": [
+    "Comorbidities",
+    "Dravet syndrome",
+    "Neuropsychiatric",
+    "Quality of life"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

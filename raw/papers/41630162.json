@@ -1,0 +1,34 @@
+{
+  "pmid": "41630162",
+  "doi": "10.1093/brain/awag036",
+  "title": "ARX mutation-associated interneuron defects provide insights into mechanisms underlying developmental epilepsies",
+  "authors": "Lim Y, Akula SK, Myers AK, Chen C, Rafael KA, Ibach MG, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "Cortical interneuron (cIN) dysfunction is associated with various neurodevelopmental and neurological disorders, including developmental epilepsies, autism spectrum disorders, and intellectual disabilities. Mutations in ARX (aristaless-related homeobox) are linked to these conditions, with or without accompanying structural brain anomalies. We have previously demonstrated that the loss of Arx in the mouse ganglionic eminence, the birthplace of cINs, is associated with seizures in mice, whereas the loss in cortical excitatory neuron progenitor cells results in structural anomalies but no seizures. To elucidate the pathophysiological role of ARX in cINs and their relationship to the seizure phenotype, Arx conditional mutant mouse lines were interrogated using Gad2- and Nkx2.1-Cre drivers to target distinct populations in the cIN lineage. Our data demonstrate that the abrogation of ARX results in cIN density and distribution defects as well as perinatal lethality. In these mice, we observed defects in cell cycle exit, a biased loss of the marginal zone migration stream of cINs, shifts in cell fate from caudal ganglionic eminence (CGE) to medial ganglionic eminence (MGE) identity, and a reduced number of parvalbumin&#x207a; and somatostatin&#x207a; cINs, with parvalbumin&#x207a; cINs being more severely affected. Single-cell RNA sequencing combined with chromatin immunoprecipitation (ChIP)-seq revealed ARX regulates key processes involved in cell cycle progression, cIN subtype differentiation, guidance cues and receptors, as well as other transcription factors. Interrogation of one downregulated target gene, Lmo1, uncovered a potential mechanism by which ARX regulates cIN number and distribution in the cortex. Cortical slice cultures demonstrate that LMO1 inhibits cIN migration by repressing Cxcr4 expression, which encodes a key receptor involved in cortical guidance. These data indicate ARX positively regulates cIN migration by derepressing LMO1's repressive role. Consistent with our mouse model, we observed a significant loss of parvalbumin+ and somatostatin+ cINs in the brain of a patient carrying a pathogenic variant of ARX and diagnosed with developmental epileptic encephalopathy. Together our data provide novel insights into how ARX and its target genes regulate cIN development and migration and the pathogenic mechanisms of a spectrum of neurodevelopmental disorders linked to loss of ARX.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Cortical interneuron (cIN) dysfunction is associated with various neurodevelopmental and neurological disorders, including developmental epilepsies, autism spectrum disorders, and intellectual disabilities. Mutations in ARX (aristaless-related homeobox) are linked to these conditions, with or without accompanying structural brain anomalies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41630162/",
+  "mesh_terms": [],
+  "keywords": [
+    "cortical entry",
+    "gene regulatory network",
+    "inhibitory neuron",
+    "neural differentiation",
+    "transcription factor"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

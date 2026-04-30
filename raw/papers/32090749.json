@@ -1,0 +1,48 @@
+{
+  "pmid": "32090749",
+  "doi": "10.1016/j.jad.2020.01.005",
+  "title": "Maternal vitamin D status during pregnancy and offspring risk of childhood/adolescent depression: Results from the Avon Longitudinal Study of Parents and Children (ALSPAC)",
+  "authors": "Wang MJ, Dunn EC, Okereke OI, Kraft P, Zhu Y, Smoller JW",
+  "journal": "Journal of affective disorders",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Low maternal vitamin D levels [serum 25-hydroxyvitamin D (25(OH)D)] during pregnancy have been linked to offspring neuropsychiatric outcomes such as schizophrenia and autism, but studies on depression are lacking. We examined the association between maternal vitamin D status during pregnancy and offspring depression during childhood and adolescence and investigated whether any associations were modified by offspring genetic risk for depression.\n\nMother-singleton birth offspring pairs in the Avon Longitudinal Study of Parents and Children (ALSPAC) that had maternal 25(OH)D measurements, offspring genetic data, and offspring depression measures collected in childhood (mean age=10.6 years; n&#xa0;=&#xa0;2938) and/or adolescence (mean age=13.8 years; n&#xa0;=&#xa0;2485) were included in the analyses. Using multivariable logistic regression, we assessed associations between maternal vitamin D status and offspring polygenic risk score (PRS) for depression on childhood/adolescent depression risk.\n\nThere was no evidence for an association between maternal vitamin D status during pregnancy and offspring depression in childhood (p&#xa0;=&#xa0;0.72) or adolescence (p&#xa0;=&#xa0;0.07). Offspring depression PRS were independently associated with childhood depression (p&#xa0;=&#xa0;0.003), but did not interact with maternal vitamin D status. These results were robust to adjustments for potential confounders and different cut-offs for vitamin D insufficiency/deficiency.\n\n25(OH)D measurements were only available at a single time point during pregnancy.\n\nThese findings suggest that maternal vitamin D status during pregnancy does not affect an offspring's risk for early life depression.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Low maternal vitamin D levels [serum 25-hydroxyvitamin D (25(OH)D)] during pregnancy have been linked to offspring neuropsychiatric outcomes such as schizophrenia and autism, but studies on depression are lacking. We examined the association between maternal vitamin D status during pregnancy and offspring depression during childhood and adolescence and investigated whether any associations were modified by offspring genetic risk for depression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32090749/",
+  "mesh_terms": [
+    "Adolescent",
+    "Child",
+    "Depression",
+    "Female",
+    "Humans",
+    "Longitudinal Studies",
+    "Parents",
+    "Pregnancy",
+    "Vitamin D",
+    "Vitamin D Deficiency"
+  ],
+  "keywords": [
+    "ALSPAC",
+    "Depression",
+    "Epidemiology",
+    "Gene-environment interactions",
+    "Polygenic risk",
+    "Vitamin D"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

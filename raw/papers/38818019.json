@@ -1,0 +1,37 @@
+{
+  "pmid": "38818019",
+  "doi": "10.3389/fpsyt.2024.1384134",
+  "title": "Exome functional risk score and brain connectivity can predict social adaptability outcome of children with autism spectrum disorder in 4 years' follow up",
+  "authors": "Luo T, Zhang M, Li S, Situ M, Liu P, Wang M, et al.",
+  "journal": "Frontiers in psychiatry",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is a common neurodevelopmental disorder emerging in early childhood, with heterogeneous clinical outcomes across individuals. This study aims to recognize neuroimaging genetic factors associated with outcomes of ASD after a 4-year follow-up.\n\nA total of 104 ASD children were included in this study; they underwent clinical assessments, MRI data acquisition, and the whole exome sequencing (WES). Exome functional risk score (EFRS) was calculated based on WES; and two modalities of brain connectivity were constructed based on MRI data, that is functional connectivity (FC) for functional MRI (fMRI), and individual differential structural covariance network (IDSCN) for structural MRI (sMRI), to explore the neuroimaging genetic biomarker of outcomes of ASD children.\n\nRegression analysis found EFRS predicts social adaptability at the 4-year follow-up (Y = -0.013X + 9.29,= 0.003). We identified 19 pairs of FC associated with autism symptoms severity at follow-up, 10 pairs of FC and 4 pairs of IDSCN associated with social adaptability at follow-up, and 10 pairs of FC associated with ASD EFRS by support vector regression (SVR). Related brain regions with prognostic predictive effects are mainly distributed in superior frontal gyrus, occipital cortex, temporal cortex, parietal cortex, paracentral lobule, pallidum, and amygdala for FC, and temporal cortex, thalamus, and hippocampus for IDSCN. Mediation model showed that ASD EFRS affects the social communication of ASD children through the mediation of FC between left middle occipital gyrus and left pallidum (RMSEA=0.126, CMIN=80.66, DF=42,< 0.001, CFI=0.867, AIC=152).\n\nOur findings underscore that both EFRS and brain connectivity can predict social adaptability, and that brain connectivity serving as mediator in the relationship of EFRS and behaviors of ASD, suggesting the intervention targets in the future clinical application.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is a common neurodevelopmental disorder emerging in early childhood, with heterogeneous clinical outcomes across individuals. This study aims to recognize neuroimaging genetic factors associated with outcomes of ASD after a 4-year follow-up.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38818019/",
+  "mesh_terms": [],
+  "keywords": [
+    "autism spectrum disorder (ASD)",
+    "brain connectivity",
+    "exome functional risk score (EFRS)",
+    "functional connectivity (FC)",
+    "individual differential structural covariance network (IDSCN)",
+    "outcome",
+    "prediction",
+    "social adaptability"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

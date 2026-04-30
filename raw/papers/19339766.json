@@ -1,0 +1,48 @@
+{
+  "pmid": "19339766",
+  "doi": "10.1172/JCI37934",
+  "title": "The genetic and neurobiologic compass points toward common signaling dysfunctions in autism spectrum disorders",
+  "authors": "Levitt P, Campbell DB",
+  "journal": "The Journal of clinical investigation",
+  "date": "2009-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a common neurodevelopmental disorder with high heritability. Here, we discuss data supporting the view that there are at least two distinct genetic etiologies for ASD: rare, private (de novo) single gene mutations that may have a large effect in causing ASD; and inherited, common functional variants of a combination of genes, each having a small to moderate effect in increasing ASD risk. It also is possible that a combination of the two mechanisms may occur in some individuals with ASD. We further discuss evidence from individuals with a number of different neurodevelopmental syndromes, in which there is a high prevalence of ASD, that some private mutations and common variants converge on dysfunctional ERK and PI3K signaling, which negatively impacts neurodevelopmental events regulated by some receptor tyrosine kinases.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a common neurodevelopmental disorder with high heritability. Here, we discuss data supporting the view that there are at least two distinct genetic etiologies for ASD: rare, private (de novo) single gene mutations that may have a large effect in causing ASD; and inherited, common functional variants of a combination of genes, each having a small to moderate effect in increasing ASD risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19339766/",
+  "mesh_terms": [
+    "Alleles",
+    "Autistic Disorder",
+    "Child",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "MAP Kinase Signaling System",
+    "Male",
+    "Models, Genetic",
+    "Models, Neurological",
+    "Mutation",
+    "Phosphatidylinositol 3-Kinases",
+    "Proto-Oncogene Proteins",
+    "Proto-Oncogene Proteins c-met",
+    "Receptors, Growth Factor",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

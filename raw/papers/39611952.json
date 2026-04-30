@@ -1,0 +1,47 @@
+{
+  "pmid": "39611952",
+  "doi": "10.1089/scd.2024.0152",
+  "title": "Single Cell Data Enables Dissecting Cell Types Present in Bulk Transcriptome Data",
+  "authors": "Wruck W, Adjaye J",
+  "journal": "Stem cells and development",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "The quality of organoid models can be assessed by single-cell-RNA-sequencing (scRNA-seq) but often only bulk transcriptome data is available. Here we present a pipeline for the analysis of scRNA-seq data and subsequent \"deconvolution,\" which is a method for estimating cell type fractions in bulk transcriptome data based on expression profiles and cell types found in scRNA-seq data derived from biopsies. We applied this pipeline on bulk iPSC-derived kidney and brain organoid transcriptome data to identify cell types employing two scRNA-seq kidney datasets and one brain dataset. Relevant cells present in kidney (e.g., proximal tubules, distal convoluted tubules, and podocytes) and brain (e.g., neurons, astrocytes, oligodendrocytes, and microglia) with obligatory endothelial and immune-related cells were identified. We anticipate that this pipeline will also enable estimation of cell type fractions in organoids of other tissues.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The quality of organoid models can be assessed by single-cell-RNA-sequencing (scRNA-seq) but often only bulk transcriptome data is available. Here we present a pipeline for the analysis of scRNA-seq data and subsequent \"deconvolution,\" which is a method for estimating cell type fractions in bulk transcriptome data based on expression profiles and cell types found in scRNA-seq data derived from biopsies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39611952/",
+  "mesh_terms": [
+    "Single-Cell Analysis",
+    "Humans",
+    "Transcriptome",
+    "Kidney",
+    "Brain",
+    "Organoids",
+    "Induced Pluripotent Stem Cells",
+    "Sequence Analysis, RNA",
+    "Gene Expression Profiling",
+    "Podocytes"
+  ],
+  "keywords": [
+    "RNA-seq",
+    "brain",
+    "deconvolution",
+    "kidney",
+    "organoids",
+    "single-cell sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

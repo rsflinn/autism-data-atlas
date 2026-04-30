@@ -1,0 +1,37 @@
+{
+  "pmid": "37640746",
+  "doi": "10.1038/s41598-023-40617-4",
+  "title": "LAMP1 as a novel molecular biomarker to predict the prognosis of the children with autism spectrum disorder using bioinformatics approaches",
+  "authors": "Deng S, Feng X, Yang M, Yu W, Wu Z, Zhu X, et al.",
+  "journal": "Scientific reports",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that usually manifests in childhood and is thought to be caused by a complex interaction of genetic, environmental, and immune factors. The majority of current ASD diagnostic methods rely on subjective behavioral observation and scale assessment, making early detection difficult. In this study, we confirmed that lysosomal-associated membrane protein 1 (LAMP1), a functional marker of immune cell activation and cytotoxic degranulation, was upregulated in ASD blood, brain cortex, and various genetic animal models or cells using bioinformatics approaches. The prognostic value of LAMP1 was investigated by correlating its expression with clinical ASD rating scales, and the receiver operating characteristic (ROC) curve analysis in ASD also revealed that it has a favorable diagnostic ability in distinguishing ASD from control cohort. According to gene set enrichment analysis (GSEA) results, LAMP1 correlated with genes that were enriched in natural kill and T cell immune function. Taking all of the evidence into account, we discovered that abnormal elevations of LAMP1 mRNA and protein in the blood of ASD children, may influence the development of ASD through its involvement in immune cell activity regulation. This report highlights a novel marker for ASD early detection as well as potential therapeutic targets.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that usually manifests in childhood and is thought to be caused by a complex interaction of genetic, environmental, and immune factors. The majority of current ASD diagnostic methods rely on subjective behavioral observation and scale assessment, making early detection difficult.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37640746/",
+  "mesh_terms": [
+    "Animals",
+    "Lysosomal-Associated Membrane Protein 1",
+    "Autism Spectrum Disorder",
+    "Prognosis",
+    "Biomarkers",
+    "Transcription Factors",
+    "Computational Biology"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

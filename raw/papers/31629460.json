@@ -1,0 +1,47 @@
+{
+  "pmid": "31629460",
+  "doi": "10.1016/j.biopsych.2019.06.006",
+  "title": "Polygenic Risk Scores for Developmental Disorders, Neuromotor Functioning During Infancy, and Autistic Traits in Childhood",
+  "authors": "Serdarevic F, Tiemeier H, Jansen PR, Alemany S, Xerxa Y, Neumann A, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "Impaired neuromotor development is often one of the earliest observations in children with autism spectrum disorder (ASD). We investigated whether a genetic predisposition to developmental disorders was associated with nonoptimal neuromotor development during infancy and examined the genetic correlation between nonoptimal neuromotor development and autistic traits in the general population.\n\nIn a population-based cohort in The Netherlands (2002-2006), we calculated polygenic risk scores (PRSs) for ASD and attention-deficit/hyperactivity disorder (ADHD) using genome-wide association study summary statistics. In 1921 children with genetic data, parents rated autistic traits at 6 years of age. Among them, 1174 children (61.1%) underwent neuromotor examinations (tone, responses, senses, and other observations) during infancy (9-20 weeks of age). We used linear regressions to examine associations of PRSs with neuromotor scores and autistic traits. We performed a bivariate genome-based restricted maximum likelihood analysis to explore whether genetic susceptibility underlies the association between neuromotor development and autistic traits.\n\nHigher PRSs for ASD were associated with less optimal overall infant neuromotor development, in particular low muscle tone. Higher PRSs for ADHD were associated with less optimal senses. PRSs for ASD and those for ADHD both were associated with autistic traits. The single nucleotide polymorphism-based heritability of overall motor development was 20% (SE&#xa0;= .21) and of autistic traits was 68% (SE&#xa0;= .26). The genetic correlation between overall motor development and autistic traits was .35 (SE&#xa0;= .21, p < .001).\n\nWe found that genetic liabilities for ASD and ADHD covary with neuromotor development during infancy. Shared genetic liability might partly explain the association between nonoptimal neuromotor development during infancy and autistic traits in childhood.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Impaired neuromotor development is often one of the earliest observations in children with autism spectrum disorder (ASD). We investigated whether a genetic predisposition to developmental disorders was associated with nonoptimal neuromotor development during infancy and examined the genetic correlation between nonoptimal neuromotor development and autistic traits in the general population.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31629460/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Infant",
+    "Netherlands",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "ADHD",
+    "Autism",
+    "Cohort",
+    "Infant",
+    "Neuromotor",
+    "Polygenic risk score",
+    "Population based"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

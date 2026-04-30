@@ -1,0 +1,47 @@
+{
+  "pmid": "39849619",
+  "doi": "10.1186/s13229-024-00633-1",
+  "title": "Evolutionary constrained genes associated with autism spectrum disorder across 2,054 nonhuman primate genomes",
+  "authors": "Kikuchi Y, Uddin M, Veltman JA, Wells S, Morris C, Woodbury-Smith M",
+  "journal": "Molecular autism",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Significant progress has been made in elucidating the genetic underpinnings of Autism Spectrum Disorder (ASD). However, there are still significant gaps in our understanding of the link between genomics, neurobiology and clinical phenotype in scientific discovery. New models are therefore needed to address these gaps. Rhesus macaques (Macaca mulatta) have been extensively used for preclinical neurobiological research because of remarkable similarities to humans across biology and behaviour that cannot be captured by other experimental animals.\n\nWe used the macaque Genotype and Phenotype (mGAP) resource consisting of 2,054 macaque genomes to examine patterns of evolutionary constraint in known human neurodevelopmental genes. Residual variation intolerance scores (RVIS) were calculated for all annotated autosomal genes (N&#x2009;=&#x2009;18,168) and Gene Set Enrichment Analysis (GSEA) was used to examine patterns of constraint across ASD genes and related neurodevelopmental genes.\n\nWe demonstrated that patterns of constraint across autosomal genes are correlated in humans and macaques, and that ASD-associated genes exhibit significant constraint in macaques (p&#x2009;=&#x2009;9.4&#x2009;&#xd7;&#x2009;10). Among macaques, many key ASD-implicated genes were observed to harbour predicted damaging mutations. A small number of key ASD-implicated genes that are highly intolerant to mutation in humans, however, showed no evidence of similar intolerance in macaques (CACNA1D, MBD5, AUTS2 and NRXN1). Constraint was also observed across genes associated with intellectual disability (p&#x2009;=&#x2009;1.1&#x2009;&#xd7;&#x2009;10), epilepsy (p&#x2009;=&#x2009;2.1&#x2009;&#xd7;&#x2009;10) and schizophrenia (p&#x2009;=&#x2009;4.2&#x2009;&#xd7;&#x2009;10), and for an overlapping neurodevelopmental gene set (p&#x2009;=&#x2009;4.0&#x2009;&#xd7;&#x2009;10).\n\nThe lack of behavioural phenotypes among the macaques whose genotypes were studied means that we are unable to further investigate whether genetic variants have similar phenotypic consequences among nonhuman primates.\n\nThe presence of pathological mutations in ASD genes among macaques, along with evidence of similar genetic constraints to those in humans, provides a strong rationale for further investigation of genotype-phenotype relationships in macaques. This highlights the importance of developing primate models of ASD to elucidate the neurobiological underpinnings and advance approaches for precision medicine and therapeutic interventions.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "MBD5",
+    "NRXN1"
+  ],
+  "summary": "Significant progress has been made in elucidating the genetic underpinnings of Autism Spectrum Disorder (ASD). However, there are still significant gaps in our understanding of the link between genomics, neurobiology and clinical phenotype in scientific discovery.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39849619/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Humans",
+    "Macaca mulatta",
+    "Evolution, Molecular",
+    "Genome",
+    "Phenotype",
+    "Genetic Predisposition to Disease",
+    "Primates"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "GSEA",
+    "Genetic constraint",
+    "Primate model",
+    "Whole genome sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

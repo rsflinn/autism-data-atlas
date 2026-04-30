@@ -1,0 +1,35 @@
+{
+  "pmid": "36422101",
+  "doi": "10.3390/jpm12111925",
+  "title": "The Potential Role of Dysregulated miRNAs in Adolescent Idiopathic Scoliosis and 22q11.2 Deletion Syndrome",
+  "authors": "Montemurro N, Ricciardi L, Scerrati A, Ippolito G, Lofrese G, Trungu S, et al.",
+  "journal": "Journal of personalized medicine",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Adolescent idiopathic scoliosis (AIS), affecting 2-4% of adolescents, is a multifactorial spinal disease. Interactions between genetic and environmental factors can influence disease onset through epigenetic mechanisms, including DNA methylation, histone modifications and miRNA expression. Recent evidence reported that, among all clinical features in individuals with 22q11.2 deletion syndrome (DS), scoliosis can occur with a higher incidence than in the general population.A PubMed and Ovid Medline search was performed for idiopathic scoliosis in the setting of 22q11.2DS and miRNA according to PRISMA guidelines.Four papers, accounting for 2841 individuals, reported clinical data about scoliosis in individuals with 22q11.2DS, showing that approximately 35.1% of the individuals with 22q11.2DS developed scoliosis.22q11.2DS could be used as a model for the study of AIS. Thegene seems to be essential for microRNA biogenesis, which is why we propose that a possible common pathological mechanism between scoliosis and 22q11.2DS could be the dysregulation of microRNA expression. In the current study, we identified two miRNAs that were altered in both 22q11.2DS and AIS, miR-93 and miR-1306, thus, corroborating the hypothesis that the two diseases share common molecular alterations.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Adolescent idiopathic scoliosis (AIS), affecting 2-4% of adolescents, is a multifactorial spinal disease. Interactions between genetic and environmental factors can influence disease onset through epigenetic mechanisms, including DNA methylation, histone modifications and miRNA expression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36422101/",
+  "mesh_terms": [],
+  "keywords": [
+    "22q11.2 deletion syndrome",
+    "DiGeorge syndrome",
+    "adolescent idiopathic scoliosis",
+    "microRNA",
+    "scoliosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

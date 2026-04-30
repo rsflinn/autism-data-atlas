@@ -1,0 +1,35 @@
+{
+  "pmid": "38025430",
+  "doi": "10.3389/fpsyt.2023.1251884",
+  "title": "Identification of two novel autism genes,and, in Qatar simplex families through exome sequencing",
+  "authors": "Gupta V, Ben-Mahmoud A, Ku B, Velayutham D, Jan Z, Yousef Aden A, et al.",
+  "journal": "Frontiers in psychiatry",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "This study investigated the genetic underpinnings of autism spectrum disorder (ASD) in a Middle Eastern cohort in Qatar using exome sequencing. The study identified six candidate autism genes in independent simplex families, including both four known and two novel autosomal dominant and autosomal recessive genes associated with ASD. The variants consisted primarily ofand homozygous missense and splice variants. Multiple individuals displayed more than one candidate variant, suggesting the potential involvement of digenic or oligogenic models. These variants were absent in the Genome Aggregation Database (gnomAD) and exhibited extremely low frequencies in the local control population dataset. Two novel autism genes,and, were discovered in two Qatari autism individuals. Furthermore, the D651A substitution inand the splice acceptor variant inwere identified as likely deleterious mutations. Protein modeling was utilized to evaluate the potential impact of three missense variants in,, andon their respective structures and functions, which strongly supported the pathogenic natures of these variants. The presence of multiplemutations across trios underscored the significant contribution ofmutations to the genetic etiology of ASD. Functional assays and further investigations are necessary to confirm the pathogenicity of the identified genes and determine their significance in ASD. Overall, this study sheds light on the genetic factors underlying ASD in Qatar and highlights the importance of considering diverse populations in ASD research.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "This study investigated the genetic underpinnings of autism spectrum disorder (ASD) in a Middle Eastern cohort in Qatar using exome sequencing. The study identified six candidate autism genes in independent simplex families, including both four known and two novel autosomal dominant and autosomal recessive genes associated with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38025430/",
+  "mesh_terms": [],
+  "keywords": [
+    "SCFD2",
+    "TRPC4",
+    "autism",
+    "digenic",
+    "exome sequencing",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

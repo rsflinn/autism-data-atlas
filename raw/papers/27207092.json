@@ -1,0 +1,52 @@
+{
+  "pmid": "27207092",
+  "doi": "10.1007/s10803-016-2807-4",
+  "title": "Autism Spectrum Disorder, Developmental and Psychiatric Features in 16p11.2 Duplication",
+  "authors": "Green Snyder L, D'Angelo D, Chen Q, Bernier R, Goin-Kochel RP, Wallace AS, et al.",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2016-08",
+  "source": "pubmed",
+  "abstract": "The 16p11.2 duplication (BP4-BP5) is associated with Autism Spectrum Disorder (ASD), although significant heterogeneity exists. Quantitative ASD, behavioral and neuropsychological measures and DSM-IV diagnoses in child and adult carriers were compared with familial non-carrier controls, and to published results from deletion carriers. The 16p11.2 duplication phenotype ranges widely from asymptomatic presentation to significant disability. The most common diagnoses were intellectual disability, motor delays and Attention Deficit Hyperactivity Disorder in children, and anxiety in adults. ASD occurred in nearly 20&#xa0;% of child cases, but a majority of carriers did not show the unique social features of ASD. The 16p11.2 duplication phenotype is characterized by wider variability than the reciprocal deletion, likely reflecting contributions from additional risk factors.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The 16p11.2 duplication (BP4-BP5) is associated with Autism Spectrum Disorder (ASD), although significant heterogeneity exists. Quantitative ASD, behavioral and neuropsychological measures and DSM-IV diagnoses in child and adult carriers were compared with familial non-carrier controls, and to published results from deletion carriers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27207092/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Female",
+    "Gene Duplication",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Phenotype"
+  ],
+  "keywords": [
+    "16p11.2 duplication",
+    "Autism",
+    "Cognitive",
+    "Genetics",
+    "Intellectual disability",
+    "Neuropsychological"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

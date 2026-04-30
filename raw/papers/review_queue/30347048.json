@@ -1,0 +1,35 @@
+{
+  "pmid": "30347048",
+  "doi": "10.1115/1.4040945",
+  "title": "Probing Mechanical Properties of Brain in a Tuberous Sclerosis Model of Autism",
+  "authors": "Qing B, Canovic EP, Mijailovic AS, Jagielska A, Whitfield MJ, Lowe AL, et al.",
+  "journal": "Journal of biomechanical engineering",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Causes of autism spectrum disorders (ASD) are understood poorly, making diagnosis and treatment challenging. While many studies have investigated the biochemical and genetic aspects of ASD, whether and how mechanical characteristics of the autistic brain can modulate neuronal connectivity and cognition in ASD are unknown. Previously, it has been shown that ASD brains are characterized by abnormal white matter and disorganized neuronal connectivity; we hypothesized that these significant cellular-level structural changes may translate to changes in the mechanical properties of the autistic brain or regions therein. Here, we focused on tuberous sclerosis complex (TSC), a genetic disorder with a high penetrance of ASD. We investigated mechanical differences between murine brains obtained from control and TSC cohorts at various deformation length- and time-scales. At the microscale, we conducted creep-compliance and stress relaxation experiments using atomic force microscope(AFM)-enabled indentation. At the mesoscale, we conducted impact indentation using a pendulum-based instrumented indenter to extract mechanical energy dissipation metrics. At the macroscale, we used oscillatory shear rheology to quantify the frequency-dependent shear moduli. Despite significant changes in the cellular organization of TSC brain tissue, we found no corresponding changes in the quantified mechanical properties at every length- and time-scale explored. This investigation of the mechanical characteristics of the brain has broadened our understanding of causes and markers of TSC/ASD, while raising questions about whether any mechanical differences can be detected in other animal models of ASD or other disease models that also feature abnormal brain structure.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Causes of autism spectrum disorders (ASD) are understood poorly, making diagnosis and treatment challenging. While many studies have investigated the biochemical and genetic aspects of ASD, whether and how mechanical characteristics of the autistic brain can modulate neuronal connectivity and cognition in ASD are unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30347048/",
+  "mesh_terms": [],
+  "keywords": [
+    "atomic force microscope-enabled indentation",
+    "brain",
+    "impact indentation",
+    "rheology",
+    "tissue mechanics",
+    "tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

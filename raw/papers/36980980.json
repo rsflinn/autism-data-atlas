@@ -1,0 +1,45 @@
+{
+  "pmid": "36980980",
+  "doi": "10.3390/genes14030708",
+  "title": "High Performance of a Dominant/X-Linked Gene Panel in Patients with Neurodevelopmental Disorders",
+  "authors": "Spataro N, Trujillo-Quintero JP, Manso C, Gabau E, Capdevila N, Martinez-Glez V, et al.",
+  "journal": "Genes",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) affect 2-5% of the population and approximately 50% of cases are due to genetic factors. Sincepathogenic variants account for the majority of cases, a gene panel including 460 dominant and X-linked genes was designed and applied to 398 patients affected by intellectual disability (ID)/global developmental delay (GDD) and/or autism (ASD). Pathogenic variants were identified in 83 different genes showing the high genetic heterogeneity of NDDs. A molecular diagnosis was established in 28.6% of patients after high-depth sequencing and stringent variant filtering. Compared to other available gene panel solutions for NDD molecular diagnosis, our panel has a higher diagnostic yield for both ID/GDD and ASD. As reported previously, a significantly higher diagnostic yield was observed: () in patients affected by ID/GDD compared to those affected only by ASD, and () in females despite the higher proportion of males among our patients. No differences in diagnostic rates were found between patients affected by different levels of ID severity. Interestingly, patients harboring pathogenic variants presented different phenotypic features, suggesting that deep phenotypic profiling may help in predicting the presence of a pathogenic variant. Despite the high performance of our panel, whole exome-sequencing (WES) approaches may represent a more robust solution. For this reason, we propose the list of genes included in our customized gene panel and the variant filtering procedure presented here as a first-tier approach for the molecular diagnosis of NDDs in WES studies.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders (NDDs) affect 2-5% of the population and approximately 50% of cases are due to genetic factors. Sincepathogenic variants account for the majority of cases, a gene panel including 460 dominant and X-linked genes was designed and applied to 398 patients affected by intellectual disability (ID)/global developmental delay (GDD) and/or autism (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36980980/",
+  "mesh_terms": [
+    "Male",
+    "Female",
+    "Humans",
+    "Genes, X-Linked",
+    "Neurodevelopmental Disorders",
+    "Intellectual Disability",
+    "Genetic Testing",
+    "Autistic Disorder"
+  ],
+  "keywords": [
+    "autism",
+    "gene panel",
+    "intellectual disability",
+    "neurodevelopmental disorders",
+    "next generation sequencing",
+    "re-analysis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

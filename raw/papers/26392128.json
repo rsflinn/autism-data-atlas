@@ -1,0 +1,50 @@
+{
+  "pmid": "26392128",
+  "doi": "10.1016/j.biopsych.2015.08.007",
+  "title": "Neonatal Cytokine Profiles Associated With Autism Spectrum Disorder",
+  "authors": "Krakowiak P, Goines PE, Tancredi DJ, Ashwood P, Hansen RL, Hertz-Picciotto I, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2015-08",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that can be reliably diagnosed at age 24 months. Immunological phenomena, including skewed cytokine production, have been observed among children with ASD. Little is known about whether immune dysregulation is present before diagnosis of ASD.\n\nWe examined neonatal blood spots from 214 children with ASD (141 severe, 73 mild/moderate), 62 children with typical development, and 27 children with developmental delay as control subjects who participated in the Childhood Autism Risks from Genetics and the Environment study, a population-based case-control study. Levels of 17 cytokines and chemokines were compared across groups and in relation to developmental and behavioral domains.\n\nInterleukin (IL)-1&#x3b2; and IL-4 were independently associated with ASD compared with typical development, although these relationships varied by ASD symptom intensity. Elevated IL-4 was associated with increased odds of severe ASD (odds ratio [OR] = 1.40, 95% confidence interval [CI], 1.03, 1.91), whereas IL-1&#x3b2; was associated with increased odds of mild/moderate ASD (OR = 3.02, 95% CI, 1.43, 6.38). Additionally, IL-4 was associated with a higher likelihood of severe ASD versus mild/moderate ASD (OR = 1.35, 95% CI, 1.04, 1.75). In male subjects with ASD, IL-4 was negatively associated with nonverbal cognitive ability (&#x3b2; = -3.63, SE = 1.33, p = .04).\n\nThis study is part of a growing effort to identify early biological markers for ASD. We demonstrate that peripheral cytokine profiles at birth are associated with ASD later in childhood and that cytokine profiles vary depending on ASD severity. Cytokines have complex roles in neurodevelopment, and dysregulated levels may be indicative of genetic differences and environmental exposures or their interactions that relate to ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that can be reliably diagnosed at age 24 months. Immunological phenomena, including skewed cytokine production, have been observed among children with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26392128/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Case-Control Studies",
+    "Child, Preschool",
+    "Cytokines",
+    "Female",
+    "Humans",
+    "Interleukin-1beta",
+    "Interleukin-4",
+    "Male",
+    "Severity of Illness Index"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Blood spot",
+    "Chemokines",
+    "Developmental delays",
+    "Neonatal cytokines",
+    "Neurodevelopment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

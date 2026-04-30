@@ -1,0 +1,34 @@
+{
+  "pmid": "38434094",
+  "doi": "10.1016/j.heliyon.2024.e26743",
+  "title": "Clinical characteristics and identification of novelvariants in three unrelated Chinese families with Vissers-Bodmer Syndrome",
+  "authors": "Tang X, Lan X, Song X, Xu W, Zhang Y, Wang S, et al.",
+  "journal": "Heliyon",
+  "date": "2024-02",
+  "source": "pubmed",
+  "abstract": "Vissers-Bodmer Syndrome, an autosomal dominant disease, is a neurodevelopmental disorder characterized by global developmental delay, intellectual disability, hypotonia and autistic features with a highly variable phenotype. It is caused by variants in the CCR4-NOT transcription complex, subunit 1 gene (). However, the pathophysiologic mechanism of the Vissers-Bodmer Syndrome remains unclear. Notably, this syndrome has not been previously reported in the Chinese. In this study, we utilized whole exome sequencing to identify three novel variants in thegene, encompassing one frameshift variant and two missense variants, in three Chinese patients mainly presenting with developmental delay, intellectual disability and/or autism. Interestingly, three patients exhibited novel manifestations including spina bifida occulta, horse-shoe kidney and caf&#xe9;-au-lait spot. The frameshift variant, p.Gly172Alafs*5, occurring, leading to a premature stop codon in the protein, was classified into pathogenic. Two missense variants c.3451A&#xa0;>&#xa0;G (p.Asn1151Asp) and c.557C&#xa0;>&#xa0;T (p.Ser186Phe) were predicted to be deleterious by multiple prediction algorithms with high conservation among a variety of species. Additionally, three-dimensional structure modeling and predicting indicated the substitution of the mutated amino acids would decrease the stability of CNOT1 protein. Given thatis a relatively novel disease gene, we evaluated the gene-disease validity following ClinGen Standard Operating Procedure. The existing evidence substantiates a \"Definitive\" level of gene-disease relationship. The genetic findings provide a reliable basis for the genetic counseling of the family reproduction. Moreover, our results expand the genetic and phenotypic spectrum of-related Vissers-Bodmer Syndrome.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Vissers-Bodmer Syndrome, an autosomal dominant disease, is a neurodevelopmental disorder characterized by global developmental delay, intellectual disability, hypotonia and autistic features with a highly variable phenotype. It is caused by variants in the CCR4-NOT transcription complex, subunit 1 gene ().",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38434094/",
+  "mesh_terms": [],
+  "keywords": [
+    "CNOT1",
+    "Frameshift",
+    "Missense variant",
+    "Vissers-Bodmer syndrome",
+    "Whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

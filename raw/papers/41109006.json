@@ -1,0 +1,55 @@
+{
+  "pmid": "41109006",
+  "doi": "10.1016/j.ejpn.2025.10.005",
+  "title": "\"Tuberous sclerosis in Greece: A national cohort study on clinical features and rare manifestations\"",
+  "authors": "Spanou M, Skoutelis V, Dimitriadis Z, Kokkinou E, Kosma K, Vorgia P, et al.",
+  "journal": "European journal of paediatric neurology : EJPN : official journal of the European Paediatric Neurology Society",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Tuberous Sclerosis Complex (TSC) is a rare, multisystem genetic disorder with highly variable clinical manifestations. While international registries such as TOSCA have provided large-scale data, national-level studies remain limited. This study represents the first national cohort analysis of TSC patients in Greece, providing comprehensive insights into clinical characteristics, genotype-phenotype correlations, and previously underreported rare manifestations.\n\nA descriptive analysis was conducted on 115 TSC patients diagnosed based on the latest criteria. Clinical, genetic, and treatment-related data were analysed, with a particular focus on neurological, renal, cardiac, dermatological, and pulmonary manifestations, as well as rare or atypical disease presentations.\n\nThe median age at diagnosis was 1.2 years (range: 0-43 years). Epilepsy was the most frequent initial symptom (70.4&#xa0;%), with drug-resistant epilepsy (DRE) affecting 39.5&#xa0;% of cases. Intellectual disability, autism spectrum disorder, and behavioral issues correlated significantly with early seizure onset and TSC2 variants. Common manifestations include cortical tubers (93.9&#xa0;%), subependymal nodules (92.2&#xa0;%), angiomyolipomas (48.7&#xa0;%), and cardiac rhabdomyoma (33&#xa0;%). Notably, we report several rare manifestations, including high-grade glioma in a pediatric patient, diffuse lipomatosis, pancreatic neuroendocrine tumours, rectal polyps, and erythema nodosum presented in a patient on everolimus therapy, further highlighting the systemic complexity and malignancy risks in TSC.\n\nOur study provides novel epidemiological and clinical data on TSC in Greece, reinforcing genotype-phenotype correlations and expanding the spectrum of rare manifestations. These findings emphasise the need for lifelong surveillance, multidisciplinary management, and early detection strategies to mitigate long-term complications. This study also contributes to the broader understanding of TSC by documenting atypical presentations that may inform future clinical guidelines and patient care strategies.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "TSC2"
+  ],
+  "summary": "Tuberous Sclerosis Complex (TSC) is a rare, multisystem genetic disorder with highly variable clinical manifestations. While international registries such as TOSCA have provided large-scale data, national-level studies remain limited.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41109006/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis",
+    "Greece",
+    "Male",
+    "Infant",
+    "Child",
+    "Female",
+    "Child, Preschool",
+    "Adolescent",
+    "Adult",
+    "Young Adult",
+    "Cohort Studies",
+    "Infant, Newborn",
+    "Epilepsy",
+    "Tuberous Sclerosis Complex 2 Protein"
+  ],
+  "keywords": [
+    "Diffuse lipomatosis",
+    "Drug-resistant epilepsy",
+    "Everolimus",
+    "High-grade glioma",
+    "National cohort",
+    "Pancreatic neuroendocrine tumors",
+    "Rare manifestations",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

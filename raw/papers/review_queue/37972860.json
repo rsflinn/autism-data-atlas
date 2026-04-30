@@ -1,0 +1,45 @@
+{
+  "pmid": "37972860",
+  "doi": "10.1016/j.arr.2023.102126",
+  "title": "Genomic and transcriptomic advances in amyotrophic lateral sclerosis",
+  "authors": "Rizzuti M, Sali L, Melzi V, Scarcella S, Costamagna G, Ottoboni L, et al.",
+  "journal": "Ageing research reviews",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder and the most common motor neuron disease. ALS shows substantial clinical and molecular heterogeneity. In vitro and in vivo models coupled with multiomic techniques have provided important contributions to unraveling the pathomechanisms underlying ALS. To date, despite promising results and accumulating knowledge, an effective treatment is still lacking. Here, we provide an overview of the literature on the use of genomics, epigenomics, transcriptomics and microRNAs to deeply investigate the molecular mechanisms developing and sustaining ALS. We report the most relevant genes implicated in ALS pathogenesis, discussing the use of different high-throughput sequencing techniques and the role of epigenomic modifications. Furthermore, we present transcriptomic studies discussing the most recent advances, from microarrays to bulk and single-cell RNA sequencing. Finally, we discuss the use of microRNAs as potential biomarkers and promising tools for molecular intervention. The integration of data from multiple omic approaches may provide new insights into pathogenic pathways in ALS by shedding light on diagnostic and prognostic biomarkers, helping to stratify patients into clinically relevant subgroups, revealing novel therapeutic targets and supporting the development of new effective therapies.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Amyotrophic lateral sclerosis (ALS) is a neurodegenerative disorder and the most common motor neuron disease. ALS shows substantial clinical and molecular heterogeneity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37972860/",
+  "mesh_terms": [
+    "Humans",
+    "Amyotrophic Lateral Sclerosis",
+    "Transcriptome",
+    "Gene Expression Profiling",
+    "MicroRNAs",
+    "Biomarkers",
+    "Epigenomics"
+  ],
+  "keywords": [
+    "ALS",
+    "Biomarkers",
+    "Epigenomics",
+    "Genomics",
+    "MicroRNAs",
+    "Transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

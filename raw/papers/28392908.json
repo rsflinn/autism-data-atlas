@@ -1,0 +1,53 @@
+{
+  "pmid": "28392908",
+  "doi": "10.1186/s13229-017-0131-2",
+  "title": "Shared genetic influences between dimensional ASD and ADHD symptoms during child and adolescent development",
+  "authors": "Stergiakouli E, Davey Smith G, Martin J, Skuse DH, Viechtbauer W, Ring SM, et al.",
+  "journal": "Molecular autism",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Shared genetic influences between attention-deficit/hyperactivity disorder (ADHD) symptoms and autism spectrum disorder (ASD) symptoms have been reported. Cross-trait genetic relationships are, however, subject to dynamic changes during development. We investigated the continuity of genetic overlap between ASD and ADHD symptoms in a general population sample during childhood and adolescence. We also studied uni- and cross-dimensional trait-disorder links with respect to genetic ADHD and ASD risk.\n\nSocial-communication difficulties (&#x2009;&#x2264;&#x2009;5551, Social and Communication Disorders Checklist, SCDC) and combined hyperactive-impulsive/inattentive ADHD symptoms (&#x2009;&#x2264;&#x2009;5678, Strengths and Difficulties Questionnaire, SDQ-ADHD) were repeatedly measured in a UK birth cohort (ALSPAC, age 7 to 17&#xa0;years). Genome-wide summary statistics on clinical ASD (5305 cases; 5305 pseudo-controls) and ADHD (4163 cases; 12,040 controls/pseudo-controls) were available from the Psychiatric Genomics Consortium. Genetic trait variances and genetic overlap between phenotypes were estimated using genome-wide data.\n\nIn the general population, genetic influences for SCDC and SDQ-ADHD scores were shared throughout development. Genetic correlations across traits reached a similar strength and magnitude (cross-trait&#x2009;&#x2264;&#x2009;1,&#x2009;&#x2009;3&#x2009;&#xd7;&#x2009;10) as those between repeated measures of the same trait (within-trait&#x2009;&#x2264;&#x2009;0.94,&#x2009;&#x2009;7&#x2009;&#xd7;&#x2009;10). Shared genetic influences between traits, especially during later adolescence, may implicate variants in K-RAS signalling upregulated genes (-meta&#x2009;=&#x2009;6.4&#x2009;&#xd7;&#x2009;10). Uni-dimensionally, each population-based trait mapped to the expected behavioural continuum: risk-increasing alleles for clinical ADHD were persistently associated with SDQ-ADHD scores throughout development (marginal regression&#x2009;=&#x2009;0.084%). An age-specific genetic overlap between clinical ASD and social-communication difficulties during childhood was also shown, as per previous reports. Cross-dimensionally, however, neither SCDC nor SDQ-ADHD scores were linked to genetic risk for disorder.\n\nIn the general population, genetic aetiologies between social-communication difficulties and ADHD symptoms are shared throughout child and adolescent development and may implicate similar biological pathways that co-vary during development. Within both the ASD and the ADHD dimension, population-based traits are also linked to clinical disorder, although much larger clinical discovery samples are required to reliably detect cross-dimensional trait-disorder relationships.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Shared genetic influences between attention-deficit/hyperactivity disorder (ADHD) symptoms and autism spectrum disorder (ASD) symptoms have been reported. Cross-trait genetic relationships are, however, subject to dynamic changes during development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28392908/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adolescent Development",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child Development",
+    "Female",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Phenotype",
+    "Quantitative Trait, Heritable",
+    "Risk Factors",
+    "Sociological Factors",
+    "Surveys and Questionnaires",
+    "United Kingdom"
+  ],
+  "keywords": [
+    "ADHD symptoms",
+    "ALSPAC",
+    "Clinical ADHD",
+    "Genetic overlap",
+    "Social communication"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

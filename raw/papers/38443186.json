@@ -1,0 +1,49 @@
+{
+  "pmid": "38443186",
+  "doi": "10.1523/JNEUROSCI.1977-23.2024",
+  "title": "Ndnf Interneuron Excitability Is Spared in a Mouse Model of Dravet Syndrome",
+  "authors": "Liebergall SR, Goldberg EM",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Dravet syndrome (DS) is a neurodevelopmental disorder characterized by epilepsy, developmental delay/intellectual disability, and features of autism spectrum disorder, caused by heterozygous loss-of-function variants inencoding the voltage-gated sodium channel &#x3b1; subunit Nav1.1. The dominant model of DS pathogenesis is the \"interneuron hypothesis,\" whereby GABAergic interneurons (INs) express and preferentially rely on Nav1.1-containing sodium channels for action potential (AP) generation. This has been shown for three of the major subclasses of cerebral cortex GABAergic INs: those expressing parvalbumin (PV), somatostatin, and vasoactive intestinal peptide. Here, we define the function of a fourth major subclass of INs expressing neuron-derived neurotrophic factor (Ndnf) in male and female DS (+/-) mice. Patch-clamp electrophysiological recordings of Ndnf-INs in brain slices from+/&#xe2; mice and WT controls reveal normal intrinsic membrane properties, properties of AP generation and repetitive firing, and synaptic transmission across development. Immunohistochemistry shows that Nav1.1 is strongly expressed at the axon initial segment (AIS) of PV-expressing INs but is absent at the Ndnf-IN AIS. In vivo two-photon calcium imaging demonstrates that Ndnf-INs in+/&#xe2; mice are recruited similarly to WT controls during arousal. These results suggest that Ndnf-INs are the only major IN subclass that does not prominently rely on Nav1.1 for AP generation and thus retain their excitability in DS. The discovery of a major IN subclass with preserved function in the+/&#xe2; mouse model adds further complexity to the \"interneuron hypothesis\" and highlights the importance of considering cell-type heterogeneity when investigating mechanisms underlying neurodevelopmental disorders.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Dravet syndrome (DS) is a neurodevelopmental disorder characterized by epilepsy, developmental delay/intellectual disability, and features of autism spectrum disorder, caused by heterozygous loss-of-function variants inencoding the voltage-gated sodium channel &#x3b1; subunit Nav1.1. The dominant model of DS pathogenesis is the \"interneuron hypothesis,\" whereby GABAergic interneurons (INs) express and preferentially rely on Nav1.1-containing sodium channels for action potential (AP) generation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38443186/",
+  "mesh_terms": [
+    "Animals",
+    "Interneurons",
+    "Epilepsies, Myoclonic",
+    "Mice",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Female",
+    "Male",
+    "Disease Models, Animal",
+    "Action Potentials",
+    "Mice, Inbred C57BL",
+    "Mice, Transgenic"
+  ],
+  "keywords": [
+    "Dravet syndrome",
+    "Nav1.1",
+    "Ndnf",
+    "SCN1A",
+    "interneurons",
+    "neurogliaform"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

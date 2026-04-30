@@ -1,0 +1,45 @@
+{
+  "pmid": "41065713",
+  "doi": "10.1093/sleep/zsaf317",
+  "title": "Detection of pleiotropic genetic factors and critical brain cell types linking insomnia with psychiatric disorders",
+  "authors": "Xue B, Niu M, Sun Y, Wang L, Wu C, Ding Y, et al.",
+  "journal": "Sleep",
+  "date": "2026-01",
+  "source": "pubmed",
+  "abstract": "Insomnia and psychiatric disorders are frequently comorbid and heritable, yet their shared genetic architecture and neurobiological mechanisms remain poorly understood. We investigated the genetic overlap, biological pathways, and brain cell types linking insomnia with 12 psychiatric disorders.\n\nWe analyzed genome-wide association study data from insomnia (Neff = 314,149) and 12 psychiatric disorders (Neff = 12,783-449,855). Genetic architecture was assessed using bivariate MiXeR. Shared loci were identified through conjunctional false discovery rate (conjFDR) and Association analysis based on SubSETs (ASSET). Gene-set enrichment was performed with MAGMA, and cell-type specificity was determined using SEISMIC analysis of single-cell RNA sequencing data from 36 brain cell types.\n\nSignificant genetic correlations emerged between insomnia and seven psychiatric disorders: attention-deficit/hyperactivity disorder (ADHD), anorexia nervosa (AN), anxiety disorders (ANX), autism spectrum disorder (ASD), bipolar disorder (BD), major depressive disorder (MDD), and schizophrenia (SCZ). Cross-trait analyses identified 70 shared genomic loci containing 97 candidate single nucleotide polymorphisms (SNPs), including novel associations: 7 with ADHD, 6 with AN, 3 with ANX, 3 with ASD, 5 with BD, 15 with MDD, and 19 with SCZ. Pathway enrichment analysis revealed GABAergic synapse signaling as a central mechanism. Cell-type analysis implicated eight cortical neuron subtypes-four GABAergic interneurons and four glutamatergic neurons. Of 71 genes mapped to shared loci, 33 showed significant expression in these neuronal populations.\n\nOur findings reveal extensive shared genetic architecture between insomnia and psychiatric disorders, converging on cortical GABA-glutamate circuitry dysfunction. These results identify potential therapeutic targets for comorbid conditions and demonstrate how integrating genetic epidemiology with cellular neuroscience can elucidate transdiagnostic mechanisms underlying neuropsychiatric comorbidity, informing precision medicine approaches.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Insomnia and psychiatric disorders are frequently comorbid and heritable, yet their shared genetic architecture and neurobiological mechanisms remain poorly understood. We investigated the genetic overlap, biological pathways, and brain cell types linking insomnia with 12 psychiatric disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41065713/",
+  "mesh_terms": [
+    "Humans",
+    "Sleep Initiation and Maintenance Disorders",
+    "Genome-Wide Association Study",
+    "Mental Disorders",
+    "Polymorphism, Single Nucleotide",
+    "Brain",
+    "Genetic Pleiotropy",
+    "Female",
+    "Male",
+    "Major Depressive Disorder"
+  ],
+  "keywords": [
+    "insomnia",
+    "insomnia-comorbid",
+    "neuroscience",
+    "psychiatric disorders",
+    "sleep and the brain"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

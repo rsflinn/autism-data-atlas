@@ -1,0 +1,51 @@
+{
+  "pmid": "38830758",
+  "doi": "10.1523/JNEUROSCI.0619-24.2024",
+  "title": "Trans-synaptic Association of Vesicular Zinc Transporter 3 and Shank3 Supports Synapse-Specific Dendritic Spine Structure and Function in the Mouse Auditory Cortex",
+  "authors": "Manning A, Bender PTR, Boyd-Pratt H, Mendelson BZ, Hruska M, Anderson CT",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Shank3 is a synaptic scaffolding protein that assists in tethering and organizing structural proteins and glutamatergic receptors in the postsynaptic density of excitatory synapses. The localization of Shank3 at excitatory synapses and the formation of stable Shank3 complexes is regulated by the binding of zinc to the C-terminal sterile-alpha-motif (SAM) domain of Shank3. Mutations in the SAM domain of Shank3 result in altered synaptic function and morphology, and disruption of zinc in synapses that express Shank3 leads to a reduction of postsynaptic proteins important for synaptic structure and function. This suggests that zinc supports the localization of postsynaptic proteins via Shank3. Many regions of the brain are highly enriched with free zinc inside glutamatergic vesicles at presynaptic terminals. At these synapses, zinc transporter 3 (ZnT3) moves zinc into vesicles where it is co-released with glutamate. Alterations in ZnT3 are implicated in multiple neurodevelopmental disorders, and ZnT3 knock-out (KO) mice-which lack synaptic zinc-show behavioral deficits associated with autism spectrum disorder and schizophrenia. Here we show that male and female ZnT3 KO mice have smaller dendritic spines and miniature excitatory postsynaptic current amplitudes than wildtype (WT) mice in the auditory cortex. Additionally, spine size deficits in ZnT3 KO mice are restricted to synapses that express Shank3. In WT mice, synapses that express both Shank3 and ZnT3 have larger spines compared to synapses that express Shank3 but not ZnT3. Together these findings suggest a mechanism whereby presynaptic ZnT3-dependent zinc supports postsynaptic structure and function via Shank3 in a synapse-specific manner.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Shank3 is a synaptic scaffolding protein that assists in tethering and organizing structural proteins and glutamatergic receptors in the postsynaptic density of excitatory synapses. The localization of Shank3 at excitatory synapses and the formation of stable Shank3 complexes is regulated by the binding of zinc to the C-terminal sterile-alpha-motif (SAM) domain of Shank3.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38830758/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Nerve Tissue Proteins",
+    "Synapses",
+    "Dendritic Spines",
+    "Cation Transport Proteins",
+    "Auditory Cortex",
+    "Female",
+    "Male",
+    "Mice, Knockout",
+    "Carrier Proteins",
+    "Mice, Inbred C57BL",
+    "Microfilament Proteins",
+    "Excitatory Postsynaptic Potentials"
+  ],
+  "keywords": [
+    "Shank3",
+    "Slc30a3",
+    "auditory cortex",
+    "corticocollicular",
+    "dendritic spines",
+    "zinc"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

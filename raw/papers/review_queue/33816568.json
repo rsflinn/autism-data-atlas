@@ -1,0 +1,37 @@
+{
+  "pmid": "33816568",
+  "doi": "10.3389/frobt.2021.618866",
+  "title": "Robotic Telemedicine for Mental Health: A Multimodal Approach to Improve Human-Robot Engagement",
+  "authors": "Lima MR, Wairagkar M, Natarajan N, Vaitheswaran S, Vaidyanathan R",
+  "journal": "Frontiers in robotics and AI",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "COVID-19 has severely impacted mental health in vulnerable demographics, in particular older adults, who face unprecedented isolation. Consequences, while globally severe, are acutely pronounced in low- and middle-income countries (LMICs) confronting pronounced gaps in resources and clinician accessibility. Social robots are well-recognized for their potential to support mental health, yet user compliance (i.e., trust) demands seamless affective human-robot interactions; natural 'human-like' conversations are required in simple, inexpensive, deployable platforms. We present the design, development, and pilot testing of a multimodal robotic framework fusing verbal (contextual speech) and nonverbal (facial expressions) social cues, aimed to improve engagement in human-robot interaction and ultimately facilitate mental health telemedicine during and beyond the COVID-19 pandemic. We report the design optimization of a hybrid face robot, which combines digital facial expressions based on mathematical affect space mapping with static 3D facial features. We further introduce a contextual virtual assistant with integrated cloud-based AI coupled to the robot's facial representation of emotions, such that the robot adapts its emotional response to users' speech in real-time. Experiments with healthy participants demonstrate emotion recognition exceeding 90% for happy, tired, sad, angry, surprised and stern/disgusted robotic emotions. When separated, stern and disgusted are occasionally transposed (70%+ accuracy overall) but are easily distinguishable from other emotions. A qualitative user experience analysis indicates overall enthusiastic and engaging reception to human-robot multimodal interaction with the new framework. The robot has been modified to enable clinical telemedicine for cognitive engagement with older adults and people with dementia (PwD) in LMICs. The mechanically simple and low-cost social robot has been deployed in pilot tests to support older individuals and PwD at the Schizophrenia Research Foundation (SCARF) in Chennai, India. A procedure for deployment addressing challenges in cultural acceptance, end-user acclimatization and resource allocation is further introduced. Results indicate strong promise to stimulate human-robot psychosocial interaction through the hybrid-face robotic system. Future work is targeting deployment for telemedicine to mitigate the mental health impact of COVID-19 on older adults and PwD in both LMICs and higher income regions.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "COVID-19 has severely impacted mental health in vulnerable demographics, in particular older adults, who face unprecedented isolation. Consequences, while globally severe, are acutely pronounced in low- and middle-income countries (LMICs) confronting pronounced gaps in resources and clinician accessibility.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33816568/",
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "dementia",
+    "human-robot interaction",
+    "intelligent virtual assistant",
+    "low- and middle-income countries",
+    "multimodal interaction",
+    "social robots",
+    "telemedicine"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "pmid": "31209962",
+  "doi": "10.1002/humu.23822",
+  "title": "Characterization of intellectual disability and autism comorbidity through gene panel sequencing",
+  "authors": "Aspromonte MC, Bellini M, Gasparini A, Carraro M, Bettella E, Polli R, et al.",
+  "journal": "Human mutation",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "Intellectual disability (ID) and autism spectrum disorder (ASD) are clinically and genetically heterogeneous diseases. Recent whole exome sequencing studies indicated that genes associated with different neurological diseases are shared across disorders and converge on common functional pathways. Using the Ion Torrent platform, we developed a low-cost next-generation sequencing gene panel that has been transferred into clinical practice, replacing single disease-gene analyses for the early diagnosis of individuals with ID/ASD. The gene panel was designed using an innovative in silico approach based on disease networks and mining data from public resources to score disease-gene associations. We analyzed 150 unrelated individuals with ID and/or ASD and a confident diagnosis has been reached in 26 cases (17%). Likely pathogenic mutations have been identified in another 15 patients, reaching a total diagnostic yield of 27%. Our data also support the pathogenic role of genes recently proposed to be involved in ASD. Although many of the identified variants need further investigation to be considered disease-causing, our results indicate the efficiency of the targeted gene panel on the identification of novel and rare variants in patients with ID and ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Intellectual disability (ID) and autism spectrum disorder (ASD) are clinically and genetically heterogeneous diseases. Recent whole exome sequencing studies indicated that genes associated with different neurological diseases are shared across disorders and converge on common functional pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31209962/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Comorbidity",
+    "Computational Biology",
+    "Computer Simulation",
+    "Data Mining",
+    "Databases, Genetic",
+    "Early Diagnosis",
+    "Female",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Exome Sequencing",
+    "Young Adult"
+  ],
+  "keywords": [
+    "ASD",
+    "ID",
+    "NGS",
+    "comorbidity",
+    "gene panel",
+    "variant interpretation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

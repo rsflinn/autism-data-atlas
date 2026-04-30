@@ -1,0 +1,39 @@
+{
+  "pmid": "38261284",
+  "doi": "10.17116/jnevro202412401155",
+  "title": "[Biochemical markers of autism]",
+  "authors": "Samoilova IG, Matveeva MV, Galyukova DE",
+  "journal": "Zhurnal nevrologii i psikhiatrii imeni S.S. Korsakova",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is becoming an increasingly common disorder of the development of the nervous system in the modern world. The diagnosis is made based on observation of the patient's behavior, which significantly complicates the diagnosis and treatment of the disorder. The subjectivity of behavioral diagnostics dictates the need for the study of biomarkers of ASD. Over the past two decades, researchers have focused on identifying specific biological abnormalities in ASD that will help in the diagnosis of the disease. This review discusses the state of research on various biomarkers currently being developed for ASD.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is becoming an increasingly common disorder of the development of the nervous system in the modern world. The diagnosis is made based on observation of the patient's behavior, which significantly complicates the diagnosis and treatment of the disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38261284/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Research Personnel"
+  ],
+  "keywords": [
+    "autism",
+    "biomarkers"
+  ],
+  "article_types": [
+    "Review",
+    "English Abstract",
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "30862493",
+  "doi": "10.1016/j.neuint.2019.03.007",
+  "title": "Autism genes and the leukocyte transcriptome in autistic toddlers relate to pathogen interactomes, infection and the immune system. A role for excess neurotrophic sAPP&#x3b1; and reduced antimicrobial A&#x3b2;",
+  "authors": "Carter CJ",
+  "journal": "Neurochemistry international",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Prenatal and early childhood infections have been implicated in autism. Many autism susceptibility genes (206 Autworks genes) are localised in the immune system and are related to immune/infection pathways. They are enriched in the host/pathogen interactomes of 18 separate microbes (bacteria/viruses and fungi) and to the genes regulated by bacterial toxins, mycotoxins and Toll-like receptor ligands. This enrichment was also observed for misregulated genes from a microarray study of leukocytes from autistic toddlers. The upregulated genes from this leukocyte study also matched the expression profiles in response to numerous infectious agents from the Broad Institute molecular signatures database. They also matched genes related to sudden infant death syndrome and autism comorbid conditions (autoimmune disease, systemic lupus erythematosus, diabetes, epilepsy and cardiomyopathy) as well as to estrogen and thyrotropin responses and to those upregulated by different types of stressors including oxidative stress, hypoxia, endoplasmic reticulum stress, ultraviolet radiation or 2,4-dinitrofluorobenzene, a hapten used to develop allergic skin reactions in animal models. The oxidative/integrated stress response is also upregulated in the autism brain and may contribute to myelination problems. There was also a marked similarity between the expression signatures of autism and Alzheimer's disease, and 44 shared autism/Alzheimer's disease genes are almost exclusively expressed in the blood-brain barrier. However, in contrast to Alzheimer's disease, levels of the antimicrobial peptide beta-amyloid are decreased and the levels of the neurotrophic/myelinotrophic soluble APP alpha are increased in autism, together with an increased activity of &#x3b1;-secretase. sAPP&#x3b1; induces an increase in glutamatergic and a decrease in GABA-ergic synapses creating and excitatory/inhibitory imbalance that has also been observed in autism. A literature survey showed that multiple autism genes converge on APP processing and that many are able to increase sAPPalpha at the expense of beta-amyloid production. A genetically programmed tilt of this axis towards an overproduction of neurotrophic/gliotrophic sAPPalpha and underproduction of antimicrobial beta-amyloid may explain the brain overgrowth and myelination dysfunction, as well as the involvement of pathogens in autism.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Prenatal and early childhood infections have been implicated in autism. Many autism susceptibility genes (206 Autworks genes) are localised in the immune system and are related to immune/infection pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30862493/",
+  "mesh_terms": [
+    "Amyloid beta-Peptides",
+    "Amyloid beta-Protein Precursor",
+    "Autistic Disorder",
+    "Communicable Diseases",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Leukocytes",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "APP processing",
+    "Autism",
+    "Beta-amyloid",
+    "Immune",
+    "Infection",
+    "Sappalpha"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

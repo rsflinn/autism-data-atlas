@@ -1,0 +1,69 @@
+{
+  "pmid": "32398021",
+  "doi": "10.1186/s13041-020-00612-6",
+  "title": "Endoplasmic reticulum retention and degradation of a mutation in SLC6A1 associated with epilepsy and autism",
+  "authors": "Wang J, Poliquin S, Mermer F, Eissman J, Delpire E, Wang J, et al.",
+  "journal": "Molecular brain",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Mutations in SLC6A1, encoding &#x3b3;-aminobutyric acid (GABA) transporter 1 (GAT-1), have been recently associated with a spectrum of epilepsy syndromes, intellectual disability and autism in clinic. However, the pathophysiology of the gene mutations is far from clear. Here we report a novel SLC6A1 missense mutation in a patient with epilepsy and autism spectrum disorder and characterized the molecular defects of the mutant GAT-1, from transporter protein trafficking to GABA uptake function in heterologous cells and neurons. The heterozygous missense mutation (c1081C to A (P361T)) in SLC6A1 was identified by exome sequencing. We have thoroughly characterized the molecular pathophysiology underlying the clinical phenotypes. We performed EEG recordings and autism diagnostic interview. The patient had neurodevelopmental delay, absence epilepsy, generalized epilepsy, and 2.5-3&#x2009;Hz generalized spike and slow waves on EEG recordings. The impact of the mutation on GAT-1 function and trafficking was evaluated byH GABA uptake, structural simulation with machine learning tools, live cell confocal microscopy and protein expression in mouse neurons and nonneuronal cells. We demonstrated that the GAT-1(P361T) mutation destabilizes the global protein conformation and reduces total protein expression. The mutant transporter protein was localized intracellularly inside the endoplasmic reticulum (ER) with a pattern of expression very similar to the cells treated with tunicamycin, an ER stress inducer. RadioactiveH-labeled GABA uptake assay indicated the mutation reduced the function of the mutant GAT-1(P361T), to a level that is similar to the cells treated with GAT-1 inhibitors. In summary, this mutation destabilizes the mutant transporter protein, which results in retention of the mutant protein inside cells and reduction of total transporter expression, likely via excessive endoplasmic reticulum associated degradation. This thus likely causes reduced functional transporter number on the cell surface, which then could cause the observed reduced GABA uptake function. Consequently, malfunctioning GABA signaling may cause altered neurodevelopment and neurotransmission, such as enhanced tonic inhibition and altered cell proliferation in vivo. The pathophysiology due to severely impaired GAT-1 function may give rise to a wide spectrum of neurodevelopmental phenotypes including autism and epilepsy.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "SLC6A1"
+  ],
+  "summary": "Mutations in SLC6A1, encoding &#x3b3;-aminobutyric acid (GABA) transporter 1 (GAT-1), have been recently associated with a spectrum of epilepsy syndromes, intellectual disability and autism in clinic. However, the pathophysiology of the gene mutations is far from clear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32398021/",
+  "mesh_terms": [
+    "Amino Acid Sequence",
+    "Animals",
+    "Autistic Disorder",
+    "Cell Line",
+    "Child",
+    "Electroencephalography",
+    "Endoplasmic Reticulum",
+    "Epilepsy",
+    "Epilepsy, Absence",
+    "Epilepsy, Generalized",
+    "Female",
+    "GABA Plasma Membrane Transport Proteins",
+    "Humans",
+    "Machine Learning",
+    "Mice",
+    "Mutation, Missense",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "Pedigree",
+    "Phylogeny",
+    "Protein Conformation",
+    "Protein Stability",
+    "Protein Transport",
+    "Tunicamycin",
+    "Exome Sequencing",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [
+    "3H GABA uptake",
+    "Autism",
+    "Degradation",
+    "Endoplasmic reticulum",
+    "Epilepsy",
+    "GABA transporter 1",
+    "Mutation",
+    "Protein stability"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

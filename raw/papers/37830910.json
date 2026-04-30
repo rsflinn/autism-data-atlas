@@ -1,0 +1,46 @@
+{
+  "pmid": "37830910",
+  "doi": "10.7554/eLife.88459",
+  "title": "Deciphering neuronal deficit and protein profile changes in human brain organoids from patients with creatine transporter deficiency",
+  "authors": "Broca-Brisson L, Harati R, Disdier C, Mozner O, Gaston-Breton R, Ma&#xef;za A, et al.",
+  "journal": "eLife",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Creatine transporter deficiency (CTD) is an X-linked disease caused by mutations in the SLC6A8 gene. The impaired creatine uptake in the brain results in intellectual disability, behavioral disorders, language delay, and seizures. In this work, we generated human brain organoids from induced pluripotent stem cells of healthy subjects and CTD patients. Brain organoids from CTD donors had reduced creatine uptake compared with those from healthy donors. The expression of neural progenitor cell markers SOX2 and PAX6 was reduced in CTD-derived organoids, while GSK3&#x3b2;, a key regulator of neurogenesis, was up-regulated. Shotgun proteomics combined with integrative bioinformatic and statistical analysis identified changes in the abundance of proteins associated with intellectual disability, epilepsy, and autism. Re-establishment of the expression of a functional SLC6A8 in CTD-derived organoids restored creatine uptake and normalized the expression of SOX2, GSK3&#x3b2;, and other key proteins associated with clinical features of CTD patients. Our brain organoid model opens new avenues for further characterizing the CTD pathophysiology and supports the concept that reinstating creatine levels in patients with CTD could result in therapeutic efficacy.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Creatine transporter deficiency (CTD) is an X-linked disease caused by mutations in the SLC6A8 gene. The impaired creatine uptake in the brain results in intellectual disability, behavioral disorders, language delay, and seizures.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37830910/",
+  "mesh_terms": [
+    "Brain",
+    "Organoids",
+    "Glycogen Synthase Kinase 3 beta",
+    "Humans",
+    "X-Linked Intellectual Disability",
+    "Brain Diseases, Metabolic, Inborn",
+    "Intellectual Disability",
+    "Plasma Membrane Neurotransmitter Transport Proteins",
+    "Creatine"
+  ],
+  "keywords": [
+    "brain",
+    "cell biology",
+    "cortex",
+    "human",
+    "neurogenesis",
+    "neuroscience"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

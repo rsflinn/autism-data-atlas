@@ -1,0 +1,36 @@
+{
+  "pmid": "24712425",
+  "doi": "10.2217/bmm.14.15",
+  "title": "&#x3b3;-band abnormalities as markers of autism spectrum disorders",
+  "authors": "Rojas DC, Wilson LB",
+  "journal": "Biomarkers in medicine",
+  "date": "2014-01",
+  "source": "pubmed",
+  "abstract": "Autism is a behaviorally diagnosed neurodevelopmental disorder with no current biomarkers with high specificity and sensitivity. &#x3b3;-band abnormalities have been reported in many studies of autism spectrum disorders. &#x3b3;-band activity is associated with perceptual and cognitive functions that are compromised in autism. Some &#x3b3;-band deficits have also been seen in unaffected first-degree relatives, suggesting heritability of these findings. This review covers the published literature on &#x3b3; abnormalities in autism, the proposed mechanisms underlying the deficits and the potential for translation into new treatments. Although the utility of &#x3b3;-band metrics as diagnostic biomarkers is currently limited, such changes in autism are also useful as endophenotypes, for evaluating potential neural mechanisms, and for use as surrogate markers of treatment response to interventions.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a behaviorally diagnosed neurodevelopmental disorder with no current biomarkers with high specificity and sensitivity. &#x3b3;-band abnormalities have been reported in many studies of autism spectrum disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24712425/",
+  "mesh_terms": [
+    "Biomarkers",
+    "Child Development Disorders, Pervasive",
+    "Electroencephalography",
+    "Humans",
+    "Magnetoencephalography"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

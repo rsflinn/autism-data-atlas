@@ -1,0 +1,57 @@
+{
+  "pmid": "38660979",
+  "doi": "10.1002/aur.3132",
+  "title": "Motor difficulties in 16p11.2 copy number variation",
+  "authors": "Jutla A, Harvey L, Veenstra-VanderWeele J, Chung WK",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "The rare genetic variants 16p11.2 duplication and 16p11.2 deletion have opposing effects on brain structure and function, yet are associated with broadly similar clinical phenotypes that include autism, intellectual impairment, psychiatric illness, and motor difficulties. In recent years, studies have identified subtle distinctions between the phenotypic effects of 16p11.2 duplication and 16p11.2 deletion with respect to patterns of autism, intellectual impairment, and psychiatric illness. However, although divergent phenotypic findings in some motor domains have been reported, no study has yet made a comprehensive comparison of motor difficulties between 16p11.2 deletion and 16p11.2 duplication carriers to elucidate points of convergence and divergence. We sought to make such a comparison in a group of 133 16p11.2 deletion carriers, 122 duplication carriers, and 388 familial controls, hypothesizing that motor impairment would overall be greater in deletion than duplication carriers. In a series of regression models, we found that 16p11.2 deletion status tended to predict greater impairment along indices of gross motor function, but less impairment along indices of fine motor function. These findings point to a potential pattern of performance difficulties that could be investigated in future studies. Elucidating motor differences between 16p11.2 duplication and 16p11.2 deletion carriers may help in understanding the complex effect of 16p11.2 copy number variation and other rare genetic causes of autism.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The rare genetic variants 16p11.2 duplication and 16p11.2 deletion have opposing effects on brain structure and function, yet are associated with broadly similar clinical phenotypes that include autism, intellectual impairment, psychiatric illness, and motor difficulties. In recent years, studies have identified subtle distinctions between the phenotypic effects of 16p11.2 duplication and 16p11.2 deletion with respect to patterns of autism, intellectual impairment, and psychiatric illness.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38660979/",
+  "mesh_terms": [
+    "Humans",
+    "Chromosomes, Human, Pair 16",
+    "DNA Copy Number Variations",
+    "Female",
+    "Male",
+    "Chromosome Deletion",
+    "Adolescent",
+    "Intellectual Disability",
+    "Adult",
+    "Child",
+    "Young Adult",
+    "Chromosome Disorders",
+    "Chromosome Duplication",
+    "Autistic Disorder",
+    "Phenotype",
+    "Middle Aged",
+    "Autism Spectrum Disorder",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "16p11.2 deletion syndrome",
+    "DNA copy number variations",
+    "autism Spectrum disorder",
+    "human genetics",
+    "motor skills",
+    "movement",
+    "phenotype"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

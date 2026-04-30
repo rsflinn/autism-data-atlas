@@ -1,0 +1,59 @@
+{
+  "pmid": "32469098",
+  "doi": "10.1111/epi.16508",
+  "title": "Phenotypic and genetic spectrum of epilepsy with myoclonic atonic seizures",
+  "authors": "Tang S, Addis L, Smith A, Topp SD, Pendziwiat M, Mei D, et al.",
+  "journal": "Epilepsia",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "We aimed to describe the extent of neurodevelopmental impairments and identify the genetic etiologies in a large cohort of patients with epilepsy with myoclonic atonic seizures (MAE).\n\nWe deeply phenotyped MAE patients for epilepsy features, intellectual disability, autism spectrum disorder, and attention-deficit/hyperactivity disorder using standardized neuropsychological instruments. We performed exome analysis (whole exome sequencing) filtered on epilepsy and neuropsychiatric gene sets to identify genetic etiologies.\n\nWe analyzed 101 patients with MAE (70% male). The median age of seizure onset was 34&#xa0;months (range = 6-72&#xa0;months). The main seizure types were myoclonic atonic or atonic in 100%, generalized tonic-clonic in 72%, myoclonic in 69%, absence in 60%, and tonic seizures in 19% of patients. We observed intellectual disability in 62% of patients, with extremely low adaptive behavioral scores in 69%. In addition, 24% exhibited symptoms of autism and 37% exhibited attention-deficit/hyperactivity symptoms. We discovered pathogenic variants in 12 (14%) of 85 patients, including five previously published patients. These were pathogenic genetic variants in SYNGAP1 (n&#xa0;=&#xa0;3), KIAA2022 (n&#xa0;=&#xa0;2), and SLC6A1 (n&#xa0;=&#xa0;2), as well as KCNA2, SCN2A, STX1B, KCNB1, and MECP2 (n = 1 each). We also identified three new candidate genes, ASH1L, CHD4, and SMARCA2 in one patient each.\n\nMAE is associated with significant neurodevelopmental impairment. MAE is genetically heterogeneous, and we identified a pathogenic genetic etiology in 14% of this cohort by exome analysis. These findings suggest that MAE is a manifestation of several etiologies rather than a discrete syndromic entity.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "KCNA2",
+    "KCNB1",
+    "MECP2",
+    "SCN2A",
+    "SLC6A1",
+    "SYNGAP1"
+  ],
+  "summary": "We aimed to describe the extent of neurodevelopmental impairments and identify the genetic etiologies in a large cohort of patients with epilepsy with myoclonic atonic seizures (MAE). We deeply phenotyped MAE patients for epilepsy features, intellectual disability, autism spectrum disorder, and attention-deficit/hyperactivity disorder using standardized neuropsychological instruments.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32469098/",
+  "mesh_terms": [
+    "Age of Onset",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Electroencephalography",
+    "Epilepsies, Myoclonic",
+    "Epilepsy, Generalized",
+    "Female",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Neuroimaging",
+    "Phenotype",
+    "Seizures",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "Doose syndrome",
+    "epilepsy/seizures",
+    "genetics",
+    "myoclonic astatic epilepsy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

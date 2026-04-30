@@ -1,0 +1,46 @@
+{
+  "pmid": "35052391",
+  "doi": "10.3390/genes13010051",
+  "title": "HeterozygousTruncating Mutation of Nucleolin in an ASD Individual Disrupts Its Nucleolar Localization",
+  "authors": "Sheikh TI, Harripaul R, Vasli N, Ghadami M, Santangelo SL, Ayub M, et al.",
+  "journal": "Genes",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "Nucleolin (NCL/C23; OMIM: 164035) is a major nucleolar protein that plays a critical role in multiple processes, including ribosome assembly and maturation, chromatin decondensation, and pre-rRNA transcription. Due to its diverse functions, nucleolin has frequently been implicated in pathological processes, including cancer and viral infection. We recently identified aframeshifting indel mutation of, p.Gly664Glufs*70, through whole-exome sequencing of autism spectrum disorder trios. Through the transfection of constructs encoding either a wild-type human nucleolin or a mutant nucleolin with the same C-terminal sequence predicted for the autism proband, and by using co-localization with the nucleophosmin (NPM; B23) protein, we have shown that the nucleolin mutation leads to mislocalization of the NCL protein from the nucleolus to the nucleoplasm. Moreover, a construct with a nonsense mutation at the same residue, p.Gly664*, shows a very similar effect on the location of the NCL protein, thus confirming the presence of a predicted nucleolar location signal in this region of the NCL protein. Real-time fluorescence recovery experiments show significant changes in the kinetics and mobility of mutant NCL protein in the nucleoplasm of HEK293Tcells. Several other studies also reportmutations in ASD or neurodevelopmental disorders. The altered mislocalization and dynamics of mutant NCL (p.G664Glufs*70/p.G664*) may have relevance to the etiopathlogy of-related ASD and other neurodevelopmental phenotypes.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Nucleolin (NCL/C23; OMIM: 164035) is a major nucleolar protein that plays a critical role in multiple processes, including ribosome assembly and maturation, chromatin decondensation, and pre-rRNA transcription. Due to its diverse functions, nucleolin has frequently been implicated in pathological processes, including cancer and viral infection.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35052391/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Cell Nucleolus",
+    "HEK293 Cells",
+    "Heterozygote",
+    "Humans",
+    "Male",
+    "Mutation",
+    "Phosphoproteins",
+    "RNA-Binding Proteins",
+    "Nucleolin"
+  ],
+  "keywords": [
+    "C23",
+    "GAR domain",
+    "autism spectrum disorder (ASD)",
+    "nucleolar localization signal",
+    "nucleolin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

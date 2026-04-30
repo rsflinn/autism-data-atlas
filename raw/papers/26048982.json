@@ -1,0 +1,56 @@
+{
+  "pmid": "26048982",
+  "doi": "10.1136/jmedgenet-2015-103083",
+  "title": "Recessive DEAF1 mutation associates with autism, intellectual disability, basal ganglia dysfunction and epilepsy",
+  "authors": "Rajab A, Schuelke M, Gill E, Zwirner A, Seifert F, Morales Gonzalez S, et al.",
+  "journal": "Journal of medical genetics",
+  "date": "2015-06",
+  "source": "pubmed",
+  "abstract": "Various genetic defects cause autism associated with intellectual disability and epilepsy. Here, we set out to identify the genetic defect in a consanguineous Omani family with three affected children in whom mutations in known candidate genes had been excluded beforehand.\n\nFor mutation screening, we combined autozygosity mapping and whole exome sequencing. Segregation of potential disease variants with the phenotype was verified by Sanger sequencing. A splice-site mutation was confirmed and quantified by qPCR.\n\nWe found an autosomal recessive splice acceptor mutation in DEAF1 (c.997+4A>C, p.G292Pfs*) in all affected individuals, which led to exon skipping, and reduced the normal full-length mRNA copy number in the patients to 5% of the wild-type level. Besides intellectual disability and autism, two of three affected siblings suffered from severe epilepsy. All patients exhibited dyskinesia of the limbs coinciding with symmetric T2 hyperintensities of the basal ganglia on cranial MRI.\n\nA recent report has shown dominant DEAF1 mutations to occur de novo in patients with intellectual disability. Here, we demonstrate that a DEAF1-associated disorder can also be inherited as an autosomal recessive trait with heterozygous individuals being entirely healthy. Our findings expand the clinical and genetic spectrum of DEAF1 mutations to comprise epilepsy and extrapyramidal symptoms.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Various genetic defects cause autism associated with intellectual disability and epilepsy. Here, we set out to identify the genetic defect in a consanguineous Omani family with three affected children in whom mutations in known candidate genes had been excluded beforehand.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26048982/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Basal Ganglia Diseases",
+    "Chromosome Mapping",
+    "Consanguinity",
+    "DNA-Binding Proteins",
+    "Dyskinesias",
+    "Epilepsy",
+    "Genes, Recessive",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Nuclear Proteins",
+    "Oman",
+    "Pedigree",
+    "RNA Splice Sites",
+    "Sequence Analysis, DNA",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Clinical genetics",
+    "Genetics",
+    "Molecular genetics",
+    "Neurology",
+    "Psychiatry"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

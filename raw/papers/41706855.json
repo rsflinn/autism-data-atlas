@@ -1,0 +1,40 @@
+{
+  "pmid": "41706855",
+  "doi": "10.1126/sciadv.ady2977",
+  "title": "Human microglia in brain assembloids display region-specific diversity and respond to hyperexcitable neurons carryingmutation",
+  "authors": "Wu J, Chen X, Zhang J, Wettschurack K, Robinson M, Li W, et al.",
+  "journal": "Science advances",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "Microglia critically shape neuronal circuit development and function, yet their region-specific properties and roles in distinct circuits of the human brain remain poorly understood. In this study, we generated region-specific brain organoids (cortical, striatal, and midbrain), each integrated with human microglia, to fill this critical gap. Single-cell RNA sequencing uncovered six distinct microglial subtypes exhibiting unique regional signatures, including a subtype highly enriched for the GABAreceptor gene within striatal organoids. To investigate the contributions of microglia to neural circuitry, we created microglia-incorporated midbrain-striatal assembloids, modeling a core circuit node for many neuropsychiatric disorders, including autism. Using chemogenetics to activate this midbrain-striatal circuit, we observed increased calcium signaling in microglia involving GABAreceptors. Leveraging this model, we examined microglial responses within neural circuits harboring annonsense (C959X) mutation associated with profound autism. Microglia displayed heightened calcium responses tomutation-mediated neuronal hyperactivity and engaged in excessive synaptic pruning. These pathological effects were reversed not only by pharmacological inhibition of microglial GABAreceptors but also by knockout of thegene in microglia. Collectively, our findings establish an advanced platform that can be used to dissect human neuroimmune interactions in subcortical regions and to evaluate previously undiscovered therapies, highlighting the important role of microglia in shaping critical circuitry related to neuropsychiatric disorders.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Microglia critically shape neuronal circuit development and function, yet their region-specific properties and roles in distinct circuits of the human brain remain poorly understood. In this study, we generated region-specific brain organoids (cortical, striatal, and midbrain), each integrated with human microglia, to fill this critical gap.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41706855/",
+  "mesh_terms": [
+    "Microglia",
+    "Humans",
+    "Neurons",
+    "Mutation",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Brain",
+    "Organoids",
+    "Receptors, GABA-B",
+    "Single-Cell Analysis",
+    "Calcium Signaling",
+    "Autistic Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

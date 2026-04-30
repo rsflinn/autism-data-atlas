@@ -1,0 +1,38 @@
+{
+  "pmid": "38224281",
+  "doi": "10.55782/ane-2023-2472",
+  "title": "Early development of the Tsc1 Purkinje cell specific mouse knockouts",
+  "authors": "S&#x142;ugocka A, Przyby&#x142;a MA, Barski JJ",
+  "journal": "Acta neurobiologiae experimentalis",
+  "date": "2023-12",
+  "source": "pubmed",
+  "abstract": "Tsc1 is a gene which expression results in hamartin, a protein involved in regulation of the mTOR1 pathway. Inactivation of Tsc1 gives rise to hyperactivation of the mTOR1 machinery, increased proliferation and growth of cells with subsequent cell degeneration and cell death. In humans, mutations of Tsc1 result in an inherited disorder &#x2011; tuberous sclerosis complex (TSC) with the concomitant multiorgan non&#x2011;malignant tumors (tubers), epileptic seizures and autistic&#x2011;like manifestations. General mouse knock&#x2011;outs, homozygous for the inactivated Tsc1 alleles do not survive and die at early embryonal stages. To circumvent this problem, we utilized the Cre/loxP system and removed Tsc1 specifically in Purkinje cells using the pcp2/L7Cre mouse strain and the Tsc1tmDjk/J strains. Because of the published results showing the autistic&#x2011;like symptoms after the same crossbred, we have decided to look closer at the early postnatal period of these mutants. Surprisingly no evidence of any behavioral alterations were found, including the ultrasonic vocalizations of newborns. We decided to focus more attention on the interpretation of data, including a more detailed statistical evaluation of our results.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Tsc1 is a gene which expression results in hamartin, a protein involved in regulation of the mTOR1 pathway. Inactivation of Tsc1 gives rise to hyperactivation of the mTOR1 machinery, increased proliferation and growth of cells with subsequent cell degeneration and cell death.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38224281/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Alleles",
+    "Autistic Disorder",
+    "Mutation",
+    "Purkinje Cells",
+    "Seizures",
+    "Mice, Knockout",
+    "Tuberous Sclerosis Complex 1 Protein"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

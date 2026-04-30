@@ -1,0 +1,49 @@
+{
+  "pmid": "29486296",
+  "doi": "10.1016/j.nbd.2018.02.011",
+  "title": "Abnormal hippocampal theta and gamma hypersynchrony produces network and spike timing disturbances in the Fmr1-KO mouse model of Fragile X syndrome",
+  "authors": "Arbab T, Battaglia FP, Pennartz CMA, Bosman CA",
+  "journal": "Neurobiology of disease",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "Neuronal networks can synchronize their activity through excitatory and inhibitory connections, which is conducive to synaptic plasticity. This synchronization is reflected in rhythmic fluctuations of the extracellular field. In the hippocampus, theta and gamma band LFP oscillations are a hallmark of the processing of spatial information and memory. Fragile X syndrome (FXS) is an intellectual disability and the most common genetic cause of autism spectrum disorder (Belmonte and Bourgeron, 2006). Here, we investigated how neuronal network synchronization in the mouse hippocampus is compromised by the Fmr1 mutation that causes FXS (Santos et al., 2014), relating recently observed single-cell level impairments (Arbab et al., 2017) to neuronal network aberrations. We implanted tetrodes in hippocampus of freely moving Fmr1-KO and littermate wildtype (WT) mice (Mientjes et al., 2006), to record spike trains from multiple, isolated neurons as well as LFPs in a spatial exploration paradigm. Compared to wild type mice, Fmr1-KO mice displayed greater power of hippocampal theta oscillations, and higher coherence in the slow gamma band. Additionally, spike trains of Fmr1-KO interneurons show decreased spike-count correlations and they are hypersynchronized with theta and slow gamma oscillations. The hypersynchronization of Fmr1-KO oscillations and spike timing reflects functional deficits in local networks. This network hypersynchronization pathologically decreases the heterogeneity of spike-LFP phase coupling, compromising information processing within the hippocampal circuit. These findings may reflect a pathophysiological mechanism explaining cognitive impairments in FXS and autism, in which there is anomalous processing of social and environmental cues and associated deficits in memory and cognition.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neuronal networks can synchronize their activity through excitatory and inhibitory connections, which is conducive to synaptic plasticity. This synchronization is reflected in rhythmic fluctuations of the extracellular field.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29486296/",
+  "mesh_terms": [
+    "Action Potentials",
+    "Animals",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Gamma Rhythm",
+    "Hippocampus",
+    "Male",
+    "Mice",
+    "Mice, Knockout",
+    "Nerve Net",
+    "Theta Rhythm"
+  ],
+  "keywords": [
+    "Fragile X syndrome",
+    "Gamma oscillations",
+    "Hippocampus",
+    "Neuronal network activity",
+    "Spike-field coherence",
+    "Theta oscillations"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

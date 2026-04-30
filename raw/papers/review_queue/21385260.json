@@ -1,0 +1,50 @@
+{
+  "pmid": "21385260",
+  "doi": "10.1111/j.1365-2788.2011.01404.x",
+  "title": "Social impairments in Rett syndrome: characteristics and relationship with clinical severity",
+  "authors": "Kaufmann WE, Tierney E, Rohde CA, Suarez-Pedraza MC, Clarke MA, Salorio CF, et al.",
+  "journal": "Journal of intellectual disability research : JIDR",
+  "date": "2011-03",
+  "source": "pubmed",
+  "abstract": "While behavioural abnormalities are fundamental features of Rett syndrome (RTT), few studies have examined the RTT behavioural phenotype. Most of these reports have focused on autistic features, linked to the early regressive phase of the disorder, and few studies have applied standardised behavioural measures. We used a battery of standardised measures of behaviour and functioning to test the following hypotheses: (1) autistic behaviour is prominent throughout childhood in RTT; (2) autistic features are more salient in individuals with milder presentation; (3) severity of autistic behaviour is associated with a wider range of behavioural problems; and (4) specific MECP2 mutations are linked to more severe autistic behaviour.\n\nEighty MECP2 mutation-positive girls with RTT (aged 1.6-14.9 years) were administered: (1) the Screen for Social Interaction (SSI), a measure of autistic behaviour suited for individuals with severe communication and motor impairment; (2) the Rett Syndrome Behaviour Questionnaire (RSBQ), covering a wide range of abnormal behaviours in RTT; (3) the Vineland Adaptive Behavior Scales (VABS); and (4) a modified version of the Rett Syndrome Severity Scale (RSSS). Regression analyses examined the predictive value of age and RSSS on autistic behaviour and other behavioural abnormalities. T-tests further characterised the behavioural phenotype of individual MECP2 mutations.\n\nWhile age had no significant effect on SSI or RSBQ total scores in RTT, VABS Socialization and Composite scores decreased over time. Clinical severity (i.e. RSSS) also increased with age. Surprisingly, SSI performance was not related to either RSSS or VABS Composite scores. Autistic behaviour was weakly linked with the RSBQ Hand behaviour factor scores, but not with the RSBQ Fear/Anxiety factor. Clinical (neurological) severity did not predict RSBQ scores, as evidenced by the analysis of individual MECP2 mutations (e.g. p.R106W, p.R270X and p.R294X).\n\nOur data suggest that in RTT, autistic behaviour persists after the period of regression. It also demonstrated that neurological and behavioural impairments, including autistic features, are relatively independent of one another. Consistent with previous reports of the RTT phenotype, individual MECP2 mutations demonstrate complex associations with autistic features. Evidence of persistent autistic behaviour throughout childhood, and of a link between hand function and social skills, has important implications not only for research on the RTT behavioural phenotype, but also for the clinical management of the disorder.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "While behavioural abnormalities are fundamental features of Rett syndrome (RTT), few studies have examined the RTT behavioural phenotype. Most of these reports have focused on autistic features, linked to the early regressive phase of the disorder, and few studies have applied standardised behavioural measures.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21385260/",
+  "mesh_terms": [
+    "Adolescent",
+    "Age Factors",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Infant",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Phenotype",
+    "Psychiatric Status Rating Scales",
+    "Regression, Psychology",
+    "Rett Syndrome",
+    "Severity of Illness Index",
+    "Social Behavior",
+    "Surveys and Questionnaires"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

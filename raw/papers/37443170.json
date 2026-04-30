@@ -1,0 +1,41 @@
+{
+  "pmid": "37443170",
+  "doi": "10.1038/s41398-023-02552-w",
+  "title": "Sex differences in placenta-derived markers and later autistic traits in children",
+  "authors": "Tsompanidis A, Blanken L, Broere-Brown ZA, van Rijn BB, Baron-Cohen S, Tiemeier H",
+  "journal": "Translational psychiatry",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "Autism is more prevalent in males and males on average score higher on measures of autistic traits. Placental function is affected significantly by the sex of the fetus. It is unclear if sex differences in placental function are associated with sex differences in the occurrence of autistic traits postnatally. To assess this, concentrations of angiogenesis-related markers, placental growth factor (PlGF) and soluble fms-like tyrosine kinase (sFlt-1) were assessed in maternal plasma of expectant women in the late 1(mean= 13.5 [SD&#x2009;=&#x2009;2.0] weeks gestation) and 2trimesters (mean=20.6 [SD&#x2009;=&#x2009;1.2] weeks gestation), as part of the Generation R Study, Rotterdam, the Netherlands. Subsequent assessment of autistic traits in the offspring at age 6 was performed with the 18-item version of the Social Responsiveness Scale (SRS). Associations of placental protein concentrations with autistic traits were tested in sex-stratified and cohort-wide regression models. Cases with pregnancy complications or a later autism diagnosis (n&#x2009;=&#x2009;64) were also assessed for differences in placenta-derived markers. sFlt-1 levels were significantly lower in males in both trimesters but showed no association with autistic traits. PlGF was significantly lower in male pregnancies in the 1trimester, and significantly higher in the 2trimester, compared to female pregnancies. Higher PlGF levels in the 2trimester and the rate of PlGF increase were both associated with the occurrence of higher autistic traits (PlGF-2: n&#x2009;=&#x2009;3469,b&#x2009;=&#x2009;0.24 [SE&#x2009;=&#x2009;0.11], p&#x2009;=&#x2009;0.03) in both unadjusted and adjusted linear regression models that controlled for age, sex, placental weight and maternal characteristics. Mediation analyses showed that higher autistic traits in males compared to females were partly explained by higher PlGF or a faster rate of PlGF increase in the second trimester (PlGF-2: n&#x2009;=&#x2009;3469, ACME: b&#x2009;=&#x2009;0.005, [SE&#x2009;=&#x2009;0.002], p&#x2009;=&#x2009;0.004). In conclusion, higher PlGF levels in the 2trimester and a higher rate of PlGF increase are associated with both being male, and with a higher number of autistic traits in the general population.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is more prevalent in males and males on average score higher on measures of autistic traits. Placental function is affected significantly by the sex of the fetus.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37443170/",
+  "mesh_terms": [
+    "Humans",
+    "Pregnancy",
+    "Female",
+    "Male",
+    "Child",
+    "Placenta Growth Factor",
+    "Autistic Disorder",
+    "Sex Characteristics",
+    "Prospective Studies",
+    "Placenta",
+    "Biomarkers"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

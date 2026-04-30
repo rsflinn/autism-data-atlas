@@ -1,0 +1,50 @@
+{
+  "pmid": "35471151",
+  "doi": "10.7554/eLife.74277",
+  "title": "A bidirectional switch in the Shank3 phosphorylation state biases synapses toward up- or downscaling",
+  "authors": "Wu CH, Tatavarty V, Jean Beltran PM, Guerrero AA, Keshishian H, Krug K, et al.",
+  "journal": "eLife",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Homeostatic synaptic plasticity requires widespread remodeling of synaptic signaling and scaffolding networks, but the role of post-translational modifications in this process has not been systematically studied. Using deep-scale quantitative analysis of the phosphoproteome in mouse neocortical neurons, we found widespread and temporally complex changes during synaptic scaling up and down. We observed 424 bidirectionally modulated phosphosites that were strongly enriched for synapse-associated proteins, including S1539 in the autism spectrum disorder-associated synaptic scaffold protein Shank3. Using a parallel proteomic analysis performed on Shank3 isolated from rat neocortical neurons by immunoaffinity, we identified two sites that were persistently hypophosphorylated during scaling up and transiently hyperphosphorylated during scaling down: one (rat S1615) that corresponded to S1539 in mouse, and a second highly conserved site, rat S1586. The phosphorylation status of these sites modified the synaptic localization of Shank3 during scaling protocols, and dephosphorylation of these sites via PP2A activity was essential for the maintenance of synaptic scaling up. Finally, phosphomimetic mutations at these sites prevented scaling up but not down, while phosphodeficient mutations prevented scaling down but not up. These mutations did not impact baseline synaptic strength, indicating that they gate, rather than drive, the induction of synaptic scaling. Thus, an activity-dependent switch between hypo- and hyperphosphorylation at S1586 and S1615 of Shank3 enables scaling up or down, respectively. Collectively, our data show that activity-dependent phosphoproteome dynamics are important for the functional reconfiguration of synaptic scaffolds and can bias synapses toward upward or downward homeostatic plasticity.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Homeostatic synaptic plasticity requires widespread remodeling of synaptic signaling and scaffolding networks, but the role of post-translational modifications in this process has not been systematically studied. Using deep-scale quantitative analysis of the phosphoproteome in mouse neocortical neurons, we found widespread and temporally complex changes during synaptic scaling up and down.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35471151/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Bias",
+    "Mice",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins",
+    "Neuronal Plasticity",
+    "Phosphorylation",
+    "Proteomics",
+    "Rats",
+    "Synapses"
+  ],
+  "keywords": [
+    "cell biology",
+    "homeostatic plasticity",
+    "mouse",
+    "neuroscience",
+    "phosphorylation",
+    "rat",
+    "synaptic scaling"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "39796070",
+  "doi": "10.3390/ijms26010214",
+  "title": "Beyond the Synapse:and FMRP Molecular Mechanisms in the Nucleus",
+  "authors": "Hansen N, Dischler A, Dias C",
+  "journal": "International journal of molecular sciences",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "(Fragile X messenger ribonucleoprotein 1), located on the X-chromosome, encodes the multi-functional FMR1 protein (FMRP), critical to brain development and function. Trinucleotide CGG repeat expansions at this locus cause a range of neurological disorders, collectively referred to as Fragile X-related conditions. The most well-known of these is Fragile X syndrome, a neurodevelopmental disorder associated with syndromic facial features, autism, intellectual disabilities, and seizures. However, CGG expansions of different sizes also confer a risk of neuropsychiatric and neurodegenerative disorders throughout the lifespan, through distinct molecular mechanisms. Although Fragile X syndrome is associated with downstream synaptic deficits and neuronal hyperexcitability, work in the past decade has demonstrated that both the causativetrinucleotide repeat expansion and FMRP itself play important roles in nuclear function and regulation, including non-canonical nucleic acid structure formation and chromatin dynamics. These effects are critical to cellular pathophysiology, although the full extent of their contribution to clinical phenotypes is only just emerging. Here, we present a focused review on some of the nuclear consequences of/FMRP dysregulation, including parallels in other repeat expansion disorders, ranging from studies in model systems to human cells and tissues.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "(Fragile X messenger ribonucleoprotein 1), located on the X-chromosome, encodes the multi-functional FMR1 protein (FMRP), critical to brain development and function. Trinucleotide CGG repeat expansions at this locus cause a range of neurological disorders, collectively referred to as Fragile X-related conditions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39796070/",
+  "mesh_terms": [
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Humans",
+    "Fragile X Syndrome",
+    "Animals",
+    "Synapses",
+    "Trinucleotide Repeat Expansion",
+    "Cell Nucleus"
+  ],
+  "keywords": [
+    "FMR1",
+    "FMRP",
+    "Fragile X",
+    "R-loops",
+    "chromatin",
+    "nucleus"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

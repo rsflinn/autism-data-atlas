@@ -1,0 +1,45 @@
+{
+  "pmid": "36672829",
+  "doi": "10.3390/genes14010087",
+  "title": "as a Model to Study Fragile X-Associated Disorders",
+  "authors": "Trajkovi&#x107; J, Makevic V, Pesic M, Pavkovi&#x107;-Lu&#x10d;i&#x107; S, Milojevic S, Cvjetkovic S, et al.",
+  "journal": "Genes",
+  "date": "2022-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a global neurodevelopmental disorder caused by the expansion of CGG trinucleotide repeats (&#x2265;200) in the Fragile X Messenger Ribonucleoprotein 1 () gene. FXS is the hallmark of Fragile X-associated disorders (FXD) and the most common monogenic cause of inherited intellectual disability and autism spectrum disorder. There are several animal models used to study FXS. In the FXS model of, the only ortholog of,, is mutated so that its protein is missing. This model has several relevant phenotypes, including defects in the circadian output pathway, sleep problems, memory deficits in the conditioned courtship and olfactory conditioning paradigms, deficits in social interaction, and deficits in neuronal development. In addition to FXS, a model of another FXD, Fragile X-associated tremor/ataxia syndrome (FXTAS), has also been established inThis review summarizes many years of research on FXD inmodels.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is a global neurodevelopmental disorder caused by the expansion of CGG trinucleotide repeats (&#x2265;200) in the Fragile X Messenger Ribonucleoprotein 1 () gene. FXS is the hallmark of Fragile X-associated disorders (FXD) and the most common monogenic cause of inherited intellectual disability and autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36672829/",
+  "mesh_terms": [
+    "Drosophila Proteins",
+    "Autism Spectrum Disorder",
+    "Ataxia",
+    "Fragile X Syndrome",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Drosophila melanogaster",
+    "Animals",
+    "Tremor"
+  ],
+  "keywords": [
+    "Drosophila melanogaster",
+    "FMR1 gene",
+    "FMRP",
+    "FXTAS",
+    "Fragile X syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

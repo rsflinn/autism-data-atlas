@@ -1,0 +1,56 @@
+{
+  "pmid": "34836113",
+  "doi": "10.3390/nu13113857",
+  "title": "Early-Life Iron Deficiency Anemia Programs the Hippocampal Epigenomic Landscape",
+  "authors": "Barks AK, Liu SX, Georgieff MK, Hallstrom TC, Tran PV",
+  "journal": "Nutrients",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "Iron deficiency (ID) anemia is the foremost micronutrient deficiency worldwide, affecting around 40% of pregnant women and young children. ID during the prenatal and early postnatal periods has a pronounced effect on neurodevelopment, resulting in long-term effects such as cognitive impairment and increased risk for neuropsychiatric disorders. Treatment of ID has been complicated as it does not always resolve the long-lasting neurodevelopmental deficits. In animal models, developmental ID results in abnormal hippocampal structure and function associated with dysregulation of genes involved in neurotransmission and synaptic plasticity. Dysregulation of these genes is a likely proximate cause of the life-long deficits that follow developmental ID. However, a direct functional link between iron and gene dysregulation has yet to be elucidated. Iron-dependent epigenetic modifications are one mechanism by which ID could alter gene expression across the lifespan. The jumonji and AT-rich interaction domain-containing (JARID) protein and the Ten-Eleven Translocation (TET) proteins are two families of iron-dependent epigenetic modifiers that play critical roles during neural development by establishing proper gene regulation during critical periods of brain development. Therefore, JARIDs and TETs can contribute to the iron-mediated epigenetic mechanisms by which early-life ID directly causes stable changes in gene regulation across the life span.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Iron deficiency (ID) anemia is the foremost micronutrient deficiency worldwide, affecting around 40% of pregnant women and young children. ID during the prenatal and early postnatal periods has a pronounced effect on neurodevelopment, resulting in long-term effects such as cognitive impairment and increased risk for neuropsychiatric disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34836113/",
+  "mesh_terms": [
+    "Anemia, Iron-Deficiency",
+    "Animals",
+    "Animals, Newborn",
+    "Child Development",
+    "Epigenesis, Genetic",
+    "Epigenomics",
+    "Female",
+    "Hippocampus",
+    "Humans",
+    "Infant",
+    "Infant Nutritional Physiological Phenomena",
+    "Infant, Newborn",
+    "Maternal Nutritional Physiological Phenomena",
+    "Neurodevelopmental Disorders",
+    "Neurogenesis",
+    "Neuronal Plasticity",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects",
+    "Synaptic Transmission"
+  ],
+  "keywords": [
+    "JARIDs",
+    "TETs",
+    "cognition",
+    "epigenetics",
+    "neurodevelopment",
+    "perinatal iron deficiency"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

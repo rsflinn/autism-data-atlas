@@ -1,0 +1,42 @@
+{
+  "pmid": "35216055",
+  "doi": "10.3390/ijms23041935",
+  "title": "Fragile X Syndrome: From Molecular Aspect to Clinical Treatment",
+  "authors": "Protic DD, Aishworiya R, Salcedo-Arellano MJ, Tang SJ, Milisavljevic J, Mitrovic F, et al.",
+  "journal": "International journal of molecular sciences",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a neurodevelopmental disorder caused by the full mutation as well as highly localized methylation of the fragile X mental retardation 1 () gene on the long arm of the X chromosome. Children with FXS are commonly co-diagnosed with Autism Spectrum Disorder, attention and learning problems, anxiety, aggressive behavior and sleep disorder, and early interventions have improved many behavior symptoms associated with FXS. In this review, we performed a literature search of original and review articles data of clinical trials and book chapters using MEDLINE (1990-2021) and ClinicalTrials.gov. While we have reviewed the biological importance of the fragile X mental retardation protein (FMRP), the FXS phenotype, and current diagnosis techniques, the emphasis of this review is on clinical interventions. Early non-pharmacological interventions in combination with pharmacotherapy and targeted treatments aiming to reverse dysregulated brain pathways are the mainstream of treatment in FXS. Overall, early diagnosis and interventions are fundamental to achieve optimal clinical outcomes in FXS.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is a neurodevelopmental disorder caused by the full mutation as well as highly localized methylation of the fragile X mental retardation 1 () gene on the long arm of the X chromosome. Children with FXS are commonly co-diagnosed with Autism Spectrum Disorder, attention and learning problems, anxiety, aggressive behavior and sleep disorder, and early interventions have improved many behavior symptoms associated with FXS.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35216055/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Phenotype"
+  ],
+  "keywords": [
+    "FMR1 gene",
+    "FMRP",
+    "autism spectrum disorder",
+    "behavior problems",
+    "fragile X syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

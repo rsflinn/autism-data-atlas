@@ -1,0 +1,50 @@
+{
+  "pmid": "34599305",
+  "doi": "10.1038/s41586-021-03953-x",
+  "title": "Regulation of prefrontal patterning and connectivity by retinoic acid",
+  "authors": "Shibata M, Pattabiraman K, Lorente-Galdos B, Andrijevic D, Kim SK, Kaur N, et al.",
+  "journal": "Nature",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "The prefrontal cortex (PFC) and its connections with the mediodorsal thalamus are crucial for cognitive flexibility and working memoryand are thought to be altered in disorders such as autismand schizophrenia. Although developmental mechanisms that govern the regional patterning of the cerebral cortex have been characterized in rodents, the mechanisms that underlie the development of PFC-mediodorsal thalamus connectivity and the lateral expansion of the PFC with a distinct granular layer 4 in primatesremain unknown. Here we report an anterior (frontal) to posterior (temporal), PFC-enriched gradient of retinoic acid, a signalling molecule that regulates neural development and function, and we identify genes that are regulated by retinoic acid in the neocortex of humans and macaques at the early and middle stages of fetal development. We observed several potential sources of retinoic acid, including the expression and cortical expansion of retinoic-acid-synthesizing enzymes specifically in primates as compared to mice. Furthermore, retinoic acid signalling is largely confined to the prospective PFC by CYP26B1, a retinoic-acid-catabolizing enzyme, which is upregulated in the prospective motor cortex. Genetic deletions in mice revealed that retinoic acid signalling through the retinoic acid receptors RXRG and RARB, as well as CYP26B1-dependent catabolism, are involved in proper molecular patterning of prefrontal and motor areas, development of PFC-mediodorsal thalamus connectivity, intra-PFC dendritic spinogenesis and expression of the layer 4 marker RORB. Together, these findings show that retinoic acid signalling has a critical role in the development of the PFC and, potentially, in its evolutionary expansion.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The prefrontal cortex (PFC) and its connections with the mediodorsal thalamus are crucial for cognitive flexibility and working memoryand are thought to be altered in disorders such as autismand schizophrenia. Although developmental mechanisms that govern the regional patterning of the cerebral cortex have been characterized in rodents, the mechanisms that underlie the development of PFC-mediodorsal thalamus connectivity and the lateral expansion of the PFC with a distinct granular layer 4 in pr",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34599305/",
+  "mesh_terms": [
+    "Animals",
+    "Axons",
+    "Cerebral Cortex",
+    "Down-Regulation",
+    "Female",
+    "Humans",
+    "Macaca mulatta",
+    "Male",
+    "Mice",
+    "Organogenesis",
+    "Pan troglodytes",
+    "Prefrontal Cortex",
+    "Receptors, Retinoic Acid",
+    "Retinoid X Receptor gamma",
+    "Signal Transduction",
+    "Synapses",
+    "Thalamus",
+    "Tretinoin"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

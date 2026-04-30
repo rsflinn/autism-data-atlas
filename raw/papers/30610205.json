@@ -1,0 +1,48 @@
+{
+  "pmid": "30610205",
+  "doi": "10.1038/s41380-018-0324-x",
+  "title": "An autism-linked missense mutation in SHANK3 reveals the modularity of Shank3 function",
+  "authors": "Wang L, Pang K, Han K, Adamski CJ, Wang W, He L, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2019-01",
+  "source": "pubmed",
+  "abstract": "Genome sequencing has revealed an increasing number of genetic variations that are associated with neuropsychiatric disorders. Frequently, studies limit their focus to likely gene-disrupting mutations because they are relatively easy to interpret. Missense variants, instead, have often been undervalued. However, some missense variants can be informative for developing a more profound understanding of disease pathogenesis and ultimately targeted therapies. Here we present an example of this by studying a missense variant in a well-known autism spectrum disorder (ASD) causing gene SHANK3. We analyzed Shank3's in vivo phosphorylation profile and identified S685 as one phosphorylation site where one ASD-linked variant has been reported. Detailed analysis of this variant revealed a novel function of Shank3 in recruiting Abelson interactor 1 (ABI1) and the WAVE complex to the post-synaptic density (PSD), which is critical for synapse and dendritic spine development. This function was found to be independent of Shank3's other functions such as binding to GKAP and Homer. Introduction of this human ASD mutation into mice resulted in a small subset of phenotypes seen previously in constitutive Shank3 knockout mice, including increased allogrooming, increased social dominance, and reduced pup USV. Together, these findings demonstrate the modularity of Shank3 function in vivo. This modularity further indicates that there is more than one independent pathogenic pathway downstream of Shank3 and correcting a single downstream pathway is unlikely to be sufficient for clear clinical improvement. In addition, this study illustrates the value of deep biological analysis of select missense mutations in elucidating the pathogenesis of neuropsychiatric phenotypes.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Genome sequencing has revealed an increasing number of genetic variations that are associated with neuropsychiatric disorders. Frequently, studies limit their focus to likely gene-disrupting mutations because they are relatively easy to interpret.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30610205/",
+  "mesh_terms": [
+    "Adaptor Proteins, Signal Transducing",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Cytoskeletal Proteins",
+    "Female",
+    "Humans",
+    "Male",
+    "Mice",
+    "Microfilament Proteins",
+    "Mutation, Missense",
+    "Nerve Tissue Proteins",
+    "Post-Synaptic Density",
+    "Rats"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

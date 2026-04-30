@@ -1,0 +1,44 @@
+{
+  "pmid": "26508570",
+  "doi": "10.1038/ejhg.2015.218",
+  "title": "De novo variants in sporadic cases of childhood onset schizophrenia",
+  "authors": "Ambalavanan A, Girard SL, Ahn K, Zhou S, Dionne-Laporte A, Spiegelman D, et al.",
+  "journal": "European journal of human genetics : EJHG",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Childhood-onset schizophrenia (COS), defined by the onset of illness before age 13 years, is a rare severe neurodevelopmental disorder of unknown etiology. Recently, sequencing studies have identified rare, potentially causative de novo variants in sporadic cases of adult-onset schizophrenia and autism. In this study, we performed exome sequencing of 17 COS trios in order to test whether de novo variants could contribute to this disease. We identified 20 de novo variants in 17 COS probands, which is consistent with the de novo mutation rate reported in the adult form of the disease. Interestingly, the missense de novo variants in COS have a high likelihood for pathogenicity and were enriched for genes that are less tolerant to variants. Among the genes found disrupted in our study, SEZ6, RYR2, GPR153, GTF2IRD1, TTBK1 and ITGA6 have been previously linked to neuronal function or to psychiatric disorders, and thus may be considered as COS candidate genes.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Childhood-onset schizophrenia (COS), defined by the onset of illness before age 13 years, is a rare severe neurodevelopmental disorder of unknown etiology. Recently, sequencing studies have identified rare, potentially causative de novo variants in sporadic cases of adult-onset schizophrenia and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26508570/",
+  "mesh_terms": [
+    "Child",
+    "Exome",
+    "Female",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Integrin alpha6",
+    "Male",
+    "Muscle Proteins",
+    "Mutation, Missense",
+    "Nuclear Proteins",
+    "Protein Serine-Threonine Kinases",
+    "Receptors, G-Protein-Coupled",
+    "Ryanodine Receptor Calcium Release Channel",
+    "Schizophrenia, Childhood",
+    "Trans-Activators"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

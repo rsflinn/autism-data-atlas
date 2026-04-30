@@ -1,0 +1,57 @@
+{
+  "pmid": "35011571",
+  "doi": "10.3390/cells11010010",
+  "title": "A Next Generation Sequencing-Based Protocol for Screening of Variants of Concern in Autism Spectrum Disorder",
+  "authors": "Huang J, Liu J, Tian R, Liu K, Zhuang P, Sherman HT, et al.",
+  "journal": "Cells",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with strong genetic influences. There is an increasing demand for ASD genetic testing beyond the traditionally recommended microarray and syndromic autism testing; however, the current whole genome sequencing (WGS) and whole exome sequencing (WES) methods are lacking an academic standard for WGS variant annotation, reporting, and interpretation, tailored towards patients with ASD and offer very limited interpretation for clinical significance. Using WGS data from six family trios, we demonstrate the clinical feasibility and technical implementation of an evidence-based, fully transparent bioinformatics pipeline and report framework for an ASD-focused WGS genetic report. We confirmed a portion of the key variants with Sanger sequencing and provided interpretation with consideration of patients' clinical symptoms and detailed literature review. Furthermore, we showed that identification of the genetic contributions of ASD core symptoms and comorbidities may promote a better understanding of the ASD pathophysiology, lead to early detection of associated comorbidities, and facilitate pharmacologic intervention based on pathological pathways inferred from the genetic information. We will make the bioinformatics pipeline and interpretation framework publicly available, in an easily accessible format, after validation with a larger cohort. We hope that the present proposed protocol can serve as a starting point to invite discourse and debate to further improve approaches in WGS-based genetic consultation for patients with ASD.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with strong genetic influences. There is an increasing demand for ASD genetic testing beyond the traditionally recommended microarray and syndromic autism testing; however, the current whole genome sequencing (WGS) and whole exome sequencing (WES) methods are lacking an academic standard for WGS variant annotation, reporting, and interpretation, tailored towards patients with ASD and offer very limited interpretation for clinical si",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35011571/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Comorbidity",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genetic Testing",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Male",
+    "Mutation",
+    "Reproducibility of Results",
+    "Exome Sequencing",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autism Spectrum Disorder (ASD)",
+    "bioinformatics pipeline",
+    "genetic report",
+    "molecular diagnostics",
+    "pathogenic variants",
+    "precision medicine",
+    "sanger sequencing",
+    "trios",
+    "whole exome sequencing",
+    "whole genome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

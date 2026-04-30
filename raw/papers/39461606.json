@@ -1,0 +1,52 @@
+{
+  "pmid": "39461606",
+  "doi": "10.1016/j.neuroimage.2024.120899",
+  "title": "Investigating brain-gut microbiota dynamics and inflammatory processes in an autistic-like rat model using MRI biomarkers during childhood and adolescence",
+  "authors": "Palanivelu L, Chen YY, Chang CJ, Liang YW, Tseng HY, Li SJ, et al.",
+  "journal": "NeuroImage",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is characterized by social interaction deficits and repetitive behaviors. Recent research has linked that gut dysbiosis may contribute to ASD-like behaviors. However, the exact developmental time point at which gut microbiota alterations affect brain function and behavior in patients with ASD remains unclear. We hypothesized that ASD-related brain microstructural changes and gut dysbiosis induce metabolic dysregulation and proinflammatory responses, which collectively contribute to the social behavioral deficits observed in early childhood. We used an autistic-like rat model that was generated via prenatal valproic acid exposure. We analyzed brain microstructural changes using diffusion tensor imaging (DTI) and examined microbiota, blood, and fecal samples for inflammation biomarkers. The ASD model rats exhibited significant brain microstructural changes in the anterior cingulate cortex, hippocampus, striatum, and thalamus; reduced microbiota diversity (Prevotellaceae and Peptostreptococcaceae); and altered metabolic signatures. The shift in microbiota diversity and density observed at postnatal day (PND) 35, which is a critical developmental period, underscored the importance of early ASD interventions. We identified a unique metabolic signature in the ASD model, with elevated formate and reduced acetate and butyrate levels, indicating a dysregulation in short-chain fatty acid (SCFA) metabolism. Furthermore, increased astrocytic and microglial activation and elevated proinflammatory cytokines-interleukin-1 beta (IL-1&#x3b2;), interleukin-6 (IL-6), interferon-gamma (IFN-&#x3b3;), and tumor necrosis factor-alpha (TNF-&#x3b1;)-were observed, indicating immune dysregulation. This study provided insights into the complex interplay between the brain and the gut, and indicated DTI metrics as potential imaging-based biomarkers in ASD, thus emphasizing the need for early childhood interventions.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is characterized by social interaction deficits and repetitive behaviors. Recent research has linked that gut dysbiosis may contribute to ASD-like behaviors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39461606/",
+  "mesh_terms": [
+    "Animals",
+    "Gastrointestinal Microbiome",
+    "Rats",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Female",
+    "Male",
+    "Biomarkers",
+    "Brain-Gut Axis",
+    "Brain",
+    "Diffusion Tensor Imaging",
+    "Rats, Sprague-Dawley",
+    "Pregnancy",
+    "Inflammation",
+    "Magnetic Resonance Imaging",
+    "Valproic Acid"
+  ],
+  "keywords": [
+    "Adolescence",
+    "Autism spectrum disorder",
+    "Childhood",
+    "Diffusion tensor imaging",
+    "Microbiome dysbiosis",
+    "Neuroinflammation"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

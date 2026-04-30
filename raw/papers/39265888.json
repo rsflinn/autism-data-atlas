@@ -1,0 +1,49 @@
+{
+  "pmid": "39265888",
+  "doi": "10.1016/j.jare.2024.08.041",
+  "title": "Haploinsufficiency of intraflagellar transport protein 172 causes autism-like behavioral phenotypes in mice through BDNF",
+  "authors": "Zheng N, Luo S, Zhang X, Hu L, Huang M, Li M, et al.",
+  "journal": "Journal of advanced research",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Primary cilia are hair-like solitary organelles growing on most mammalian cells that play fundamental roles in embryonic patterning and organogenesis. Defective cilia often cause a suite of inherited diseases called ciliopathies with multifaceted manifestations. Intraflagellar transport (IFT), a bidirectional protein trafficking along the cilium, actively facilitates the formation and absorption of primary cilia. IFT172 is the largest component of the IFT-B complex, and its roles in Bardet-Biedl Syndrome (BBS) have been appreciated with unclear mechanisms.\n\nWe performed a battery of behavioral tests with Ift172 haploinsufficiency (Ift172) and WT littermates. We use RNA sequencing to identify the genes and signaling pathways that are differentially expressed and enriched in the hippocampus of Ift172mice. Using AAV-mediated sparse labeling, electron microscopic examination, patch clamp and local field potential recording, western blot, luciferase reporter assay, chromatin immunoprecipitation, and neuropharmacological approach, we investigated the underlying mechanisms for the aberrant phenotypes presented by Ift172mice.\n\nIft172mice displayed excessive self-grooming, elevated anxiety, and impaired cognition. RNA sequencing revealed enrichment of differentially expressed genes in pathways relevant to axonogenesis and synaptic plasticity, which were further confirmed by less spine density and synaptic number. Ift172mice demonstrated fewer parvalbumin-expressing neurons, decreased inhibitory synaptic transmission, augmented theta oscillation, and sharp-wave ripples in the CA1 region. Moreover, Ift172 haploinsufficiency caused less BDNF production and less activated BDNF-TrkB signaling pathway through transcription factor Gli3. Application of 7,8-Dihydroxyflavone, a potent small molecular TrkB agonist, fully restored BDNF-TrkB signaling activity and abnormal behavioral phenotypes presented by Ift172mice. With luciferase and chip assays, we provided further evidence that Gli3 may physically interact with BDNF promoter I and regulate BDNF expression.\n\nOur data suggest that Ift172 per se drives neurotrophic effects and, when defective, could cause neurodevelopmental disorders reminiscent of autism-like disorders.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Primary cilia are hair-like solitary organelles growing on most mammalian cells that play fundamental roles in embryonic patterning and organogenesis. Defective cilia often cause a suite of inherited diseases called ciliopathies with multifaceted manifestations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39265888/",
+  "mesh_terms": [
+    "Animals",
+    "Haploinsufficiency",
+    "Brain-Derived Neurotrophic Factor",
+    "Mice",
+    "Autistic Disorder",
+    "Hippocampus",
+    "Phenotype",
+    "Behavior, Animal",
+    "Cilia",
+    "Signal Transduction",
+    "Male",
+    "Disease Models, Animal",
+    "Mice, Inbred C57BL"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "BDNF",
+    "Bardet Biedl Syndrome",
+    "Intraflagellar transport protein 172",
+    "Primary cilia",
+    "Sonic Hedgehog"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

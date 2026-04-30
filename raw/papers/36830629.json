@@ -1,0 +1,41 @@
+{
+  "pmid": "36830629",
+  "doi": "10.3390/biom13020260",
+  "title": "Modeling Autism Spectrum Disorders with Induced Pluripotent Stem Cell-Derived Brain Organoids",
+  "authors": "Santos JLS, Ara&#xfa;jo CA, Rocha CAG, Costa-Ferro ZSM, Souza BSF",
+  "journal": "Biomolecules",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are a group of complex neurodevelopmental disorders that affect communication and social interactions and present with restricted interests and repetitive behavior patterns. The susceptibility to ASD is strongly influenced by genetic/heritable factors; however, there is still a large gap in understanding the cellular and molecular mechanisms underlying the neurobiology of ASD. Significant progress has been made in identifying ASD risk genes and the possible convergent pathways regulated by these gene networks during development. The breakthrough of cellular reprogramming technology has allowed the generation of induced pluripotent stem cells (iPSCs) from individuals with syndromic and idiopathic ASD, providing patient-specific cell models for mechanistic studies. In the past decade, protocols for developing brain organoids from these cells have been established, leading to significant advances in the in vitro reproducibility of the early steps of human brain development. Here, we reviewed the most relevant literature regarding the application of brain organoids to the study of ASD, providing the current state of the art, and discussing the impact of such models on the field, limitations, and opportunities for future development.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) are a group of complex neurodevelopmental disorders that affect communication and social interactions and present with restricted interests and repetitive behavior patterns. The susceptibility to ASD is strongly influenced by genetic/heritable factors; however, there is still a large gap in understanding the cellular and molecular mechanisms underlying the neurobiology of ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36830629/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Induced Pluripotent Stem Cells",
+    "Reproducibility of Results",
+    "Brain",
+    "Organoids"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "brain organoids",
+    "pluripotent stem cell"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

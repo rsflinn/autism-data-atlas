@@ -1,0 +1,48 @@
+{
+  "pmid": "33203459",
+  "doi": "10.1186/s13229-020-00393-8",
+  "title": "Altered synaptic ultrastructure in the prefrontal cortex of Shank3-deficient rats",
+  "authors": "Jacot-Descombes S, Keshav NU, Dickstein DL, Wicinski B, Janssen WGM, Hiester LL, et al.",
+  "journal": "Molecular autism",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Deletion or mutations of SHANK3 lead to Phelan-McDermid syndrome and monogenic forms of autism spectrum disorder (ASD). SHANK3 encodes its eponymous scaffolding protein at excitatory glutamatergic synapses. Altered morphology of dendrites and spines in the hippocampus, cerebellum, and striatum have been associated with behavioral impairments in Shank3-deficient animal models. Given the attentional deficit in these animals, our study explored whether deficiency of Shank3 in a rat model alters neuron morphology and synaptic ultrastructure in the medial prefrontal cortex (mPFC).\n\nWe assessed dendrite and spine morphology and spine density in mPFC layer III neurons in Shank3-homozygous knockout (Shank3-KO), heterozygous (Shank3-Het), and wild-type (WT) rats. We used electron microscopy to determine the density of asymmetric synapses in mPFC layer III excitatory neurons in these rats. We measured postsynaptic density (PSD) length, PSD area, and head diameter (HD) of spines at these synapses.\n\nBasal dendritic morphology was similar among the three genotypes. Spine density and morphology were comparable, but more thin and mushroom spines had larger head volumes in Shank3-Het compared to WT and Shank3-KO. All three groups had comparable synapse density and PSD length. Spine HD of total and non-perforated synapses in Shank3-Het rats, but not Shank3-KO rats, was significantly larger than in WT rats. The total and non-perforated PSD area was significantly larger in Shank3-Het rats compared to Shank3-KO rats. These findings represent preliminary evidence for synaptic ultrastructural alterations in the mPFC of rats that lack one copy of Shank3 and mimic the heterozygous loss of SHANK3 in Phelan-McDermid syndrome.\n\nThe Shank3 deletion in the rat model we used does not affect all isoforms of the protein and would only model the effect of mutations resulting in loss of the N-terminus of the protein. Given the higher prevalence of ASD in males, the ultrastructural study focused only on synaptic structure in male Shank3-deficient rats.\n\nWe observed increased HD and PSD area in Shank3-Het rats. These observations suggest the occurrence of altered synaptic ultrastructure in this animal model, further pointing to a key role of defective expression of the Shank3 protein in ASD and Phelan-McDermid syndrome.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Deletion or mutations of SHANK3 lead to Phelan-McDermid syndrome and monogenic forms of autism spectrum disorder (ASD). SHANK3 encodes its eponymous scaffolding protein at excitatory glutamatergic synapses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33203459/",
+  "mesh_terms": [
+    "Animals",
+    "Dendritic Spines",
+    "Female",
+    "Heterozygote",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Post-Synaptic Density",
+    "Prefrontal Cortex",
+    "Rats",
+    "Synapses"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Electron microscopy",
+    "Phelan&#x2013;McDermid syndrome",
+    "Synapse morphology"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

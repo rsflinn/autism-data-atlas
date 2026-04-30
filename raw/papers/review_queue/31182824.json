@@ -1,0 +1,48 @@
+{
+  "pmid": "31182824",
+  "doi": "10.1038/s41436-019-0554-6",
+  "title": "Meta-analysis and multidisciplinary consensus statement: exome sequencing is a first-tier clinical diagnostic test for individuals with neurodevelopmental disorders",
+  "authors": "Srivastava S, Love-Nichols JA, Dies KA, Ledbetter DH, Martin CL, Chung WK, et al.",
+  "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "For neurodevelopmental disorders (NDDs), etiological evaluation can be a diagnostic odyssey involving numerous genetic tests, underscoring the need to develop a streamlined algorithm maximizing molecular diagnostic yield for this clinical indication. Our objective was to compare the yield of exome sequencing (ES) with that of chromosomal microarray (CMA), the current first-tier test for NDDs.\n\nWe performed a PubMed scoping review and meta-analysis investigating the diagnostic yield of ES for NDDs as the basis of a consensus development conference. We defined NDD as global developmental delay, intellectual disability, and/or autism spectrum disorder. The consensus development conference included input from genetics professionals, pediatric neurologists, and developmental behavioral pediatricians.\n\nAfter applying strict inclusion/exclusion criteria, we identified 30 articles with data on molecular diagnostic yield in individuals with isolated NDD, or NDD plus associated conditions (such as Rett-like features). Yield of ES was 36% overall, 31% for isolated NDD, and 53% for the NDD plus associated conditions. ES yield for NDDs is markedly greater than previous studies of CMA (15-20%).\n\nOur review demonstrates that ES consistently outperforms CMA for evaluation of unexplained NDDs. We propose a diagnostic algorithm placing ES at the beginning of the evaluation of unexplained NDDs.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "For neurodevelopmental disorders (NDDs), etiological evaluation can be a diagnostic odyssey involving numerous genetic tests, underscoring the need to develop a streamlined algorithm maximizing molecular diagnostic yield for this clinical indication. Our objective was to compare the yield of exome sequencing (ES) with that of chromosomal microarray (CMA), the current first-tier test for NDDs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31182824/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Developmental Disabilities",
+    "Diagnostic Tests, Routine",
+    "Exome",
+    "Exome Sequencing",
+    "Genetic Testing",
+    "Intellectual Disability",
+    "Neurodevelopmental Disorders",
+    "Consensus Statements as Topic"
+  ],
+  "keywords": [
+    "autism",
+    "consensus development conference",
+    "diagnostic yield",
+    "genetic testing",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ]
+}

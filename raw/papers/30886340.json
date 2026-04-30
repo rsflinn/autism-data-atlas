@@ -1,0 +1,48 @@
+{
+  "pmid": "30886340",
+  "doi": "10.1038/s41431-019-0376-7",
+  "title": "De novo single-nucleotide and copy number variation in discordant monozygotic twins reveals disease-related genes",
+  "authors": "Vadgama N, Pittman A, Simpson M, Nirmalananthan N, Murray R, Yoshikawa T, et al.",
+  "journal": "European journal of human genetics : EJHG",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "Recent studies have demonstrated genetic differences between monozygotic (MZ) twins. To test the hypothesis that early post-twinning mutational events associate with phenotypic discordance, we investigated a cohort of 13 twin pairs (n&#x2009;=&#x2009;26) discordant for various clinical phenotypes using whole-exome sequencing and screened for copy number variation (CNV). We identified a de novo variant in PLCB1, a gene involved in the hydrolysis of lipid phosphorus in milk from dairy cows, associated with lactase non-persistence, and a variant in the mitochondrial complex I gene MT-ND5 associated with amyotrophic lateral sclerosis (ALS). We also found somatic variants in multiple genes (TMEM225B, KBTBD3, TUBGCP4, TFIP11) in another MZ twin pair discordant for ALS. Based on the assumption that discordance between twins could be explained by a common variant with variable penetrance or expressivity, we screened the twin samples for known pathogenic variants that are shared and identified a rare deletion overlapping ARHGAP11B, in the twin pair manifesting with either schizotypal personality disorder or schizophrenia. Parent-offspring trio analysis was implemented for two twin pairs to assess potential association of variants of parental origin with susceptibility to disease. We identified a de novo variant in RASD2 shared by 8-year-old male twins with a suspected diagnosis of autism spectrum disorder (ASD) manifesting as different traits. A de novo CNV duplication was also identified in these twins overlapping CD38, a gene previously implicated in ASD. In twins discordant for Tourette's syndrome, a paternally inherited stop loss variant was detected in AADAC, a known candidate gene for the disorder.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Recent studies have demonstrated genetic differences between monozygotic (MZ) twins. To test the hypothesis that early post-twinning mutational events associate with phenotypic discordance, we investigated a cohort of 13 twin pairs (n&#x2009;=&#x2009;26) discordant for various clinical phenotypes using whole-exome sequencing and screened for copy number variation (CNV).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30886340/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Amyotrophic Lateral Sclerosis",
+    "Autism Spectrum Disorder",
+    "Base Sequence",
+    "Child",
+    "DNA Copy Number Variations",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Sequence Deletion",
+    "Tourette Syndrome",
+    "Twins, Monozygotic",
+    "Exome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Clinical Trial",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Twin Study"
+  ]
+}

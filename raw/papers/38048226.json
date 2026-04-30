@@ -1,0 +1,51 @@
+{
+  "pmid": "38048226",
+  "doi": "10.1016/j.celrep.2023.113533",
+  "title": "Cerebellar contribution to autism-relevant behaviors in fragile X syndrome models",
+  "authors": "Gibson JM, Vazquez AH, Yamashiro K, Jakkamsetti V, Ren C, Lei K, et al.",
+  "journal": "Cell reports",
+  "date": "2023-12",
+  "source": "pubmed",
+  "abstract": "Cerebellar dysfunction has been linked to autism spectrum disorders (ASDs). Although cerebellar pathology has been observed in individuals with fragile X syndrome (FXS) and in mouse models of the disorder, a cerebellar functional contribution to ASD-relevant behaviors in FXS has yet to be fully characterized. In this study, we demonstrate a critical cerebellar role for Fmr1 (fragile X messenger ribonucleoprotein 1) in ASD-relevant behaviors. First, we identify reduced social behaviors, sensory hypersensitivity, and cerebellar dysfunction, with loss of cerebellar Fmr1. We then demonstrate that cerebellar-specific expression of Fmr1 is sufficient to impact social, sensory, cerebellar dysfunction, and cerebro-cortical hyperexcitability phenotypes observed in global Fmr1 mutants. Moreover, we demonstrate that targeting the ASD-implicated cerebellar region Crus1 ameliorates behaviors in both cerebellar-specific and global Fmr1 mutants. Together, these results demonstrate a critical role for the cerebellar contribution to FXS-related behaviors, with implications for future therapeutic strategies.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Cerebellar dysfunction has been linked to autism spectrum disorders (ASDs). Although cerebellar pathology has been observed in individuals with fragile X syndrome (FXS) and in mouse models of the disorder, a cerebellar functional contribution to ASD-relevant behaviors in FXS has yet to be fully characterized.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38048226/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Fragile X Syndrome",
+    "Autistic Disorder",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Cerebellar Diseases",
+    "Mice, Knockout"
+  ],
+  "keywords": [
+    "CP: Neuroscience",
+    "Purkinje cells",
+    "autism",
+    "cerebellum",
+    "fragile X",
+    "hyperexcitability",
+    "neurodevelopmental conditions",
+    "parietal cortex",
+    "sensory hypersensitivity",
+    "social behaviors"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

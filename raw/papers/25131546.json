@@ -1,0 +1,52 @@
+{
+  "pmid": "25131546",
+  "doi": "10.1016/B978-0-12-801311-3.00006-8",
+  "title": "Epigenetic mechanisms in autism spectrum disorder",
+  "authors": "Zhubi A, Cook EH, Guidotti A, Grayson DR",
+  "journal": "International review of neurobiology",
+  "date": "2014-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by impaired social interactions, language deficits, as well as restrictive or repetitive behaviors. ASD is clinically heterogeneous with a complex etiopathogenesis which may be conceptualized as a dynamic interplay between heterogeneous environmental cues and predisposing genetic factors involving complex epigenetic mechanisms. Inherited and de novo copy number variants provide novel information regarding genes contributing to ASD. Epigenetic marks are stable, yet potentially reversible, chromatin modifications that alter gene expression profiles by locally changing the degree of nucleosomal compaction, thereby opening or closing promoter access to the transcriptional machinery. Here, we review progress on studies designed to provide a better understanding of how epigenetic mechanisms impact transcriptional programs operative in the brain that contribute to ASD.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental condition characterized by impaired social interactions, language deficits, as well as restrictive or repetitive behaviors. ASD is clinically heterogeneous with a complex etiopathogenesis which may be conceptualized as a dynamic interplay between heterogeneous environmental cues and predisposing genetic factors involving complex epigenetic mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25131546/",
+  "mesh_terms": [
+    "Animals",
+    "Child Development Disorders, Pervasive",
+    "Epigenesis, Genetic",
+    "Humans"
+  ],
+  "keywords": [
+    "Autism",
+    "Chromodomain helicase",
+    "Copy number variations",
+    "DNA methyltransferase",
+    "DNMT",
+    "Environment",
+    "Hydroxymethylation",
+    "MECP2",
+    "Methyl-binding domain protein 2",
+    "Methylation",
+    "Rett syndrome",
+    "TET",
+    "Tet methylcytosine dioxygenase",
+    "Topoisomerase",
+    "Valproic acid"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

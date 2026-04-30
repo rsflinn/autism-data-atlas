@@ -1,0 +1,45 @@
+{
+  "pmid": "37607070",
+  "doi": "10.1017/S1355617723000462",
+  "title": "Recovery trajectories of IQ after pediatric TBI: A latent class growth modeling analysis",
+  "authors": "Narad ME, Smith-Paine J, Cassedy A, LeBlond E, Taylor HG, Yeates KO, et al.",
+  "journal": "Journal of the International Neuropsychological Society : JINS",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "To identify latent trajectories of IQ over time after pediatric traumatic brain injury (TBI) and examine the predictive value of risk factors within and across recovery trajectories.\n\n206 children ages 3-7 years at injury were included: 87 TBI (23 severe, 21 moderate, 43 complicated mild) and 119 orthopedic injury (OI). We administered intelligence tests shortly after injury (1&#xbd; months), 12 months, and 6.8 years postinjury. Latent class growth modeling was used to identify latent subgroups. Separate models examined verbal and nonverbal IQ recovery trajectories following TBI versus OI. Variables included: age at injury, sex, race, socioeconomic status, injury severity, quality of the home environment, family functioning, and parenting style.\n\nBoth the TBI and OI analyses yielded different growth models for nonverbal (= 3) and verbal IQ (= 3). Although all models resulted in 3 latent classes (below average, average, and aboveaverage performance); trajectory shapes, contributors to class membership, and performance within each class varied by injury group and IQ domain. TBI severity was associated with class membership for nonverbal IQ, with less severe injuries associated with higher IQ scores; however, TBI severity did not influence verbal IQ class membership. Parenting style had a more prominent effect on verbal and nonverbal IQ within the TBI than OI trajectories.\n\nFindings suggest TBI severity is related to recovery trajectories for nonverbal but not verbal IQ and parenting style has stronger effects on recovery in TBI than OI. Results highlight the importance of parental factors on long-term recovery after TBI.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "To identify latent trajectories of IQ over time after pediatric traumatic brain injury (TBI) and examine the predictive value of risk factors within and across recovery trajectories. 206 children ages 3-7 years at injury were included: 87 TBI (23 severe, 21 moderate, 43 complicated mild) and 119 orthopedic injury (OI).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37607070/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Brain Injuries",
+    "Brain Injuries, Traumatic",
+    "Parents",
+    "Parenting"
+  ],
+  "keywords": [
+    "brain injuries",
+    "child",
+    "intelligence tests",
+    "parenting",
+    "parents",
+    "risk factors",
+    "traumatic"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

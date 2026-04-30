@@ -1,0 +1,42 @@
+{
+  "pmid": "30593420",
+  "doi": "10.1016/j.mehy.2018.10.015",
+  "title": "IGF - Autism prevention/amelioration",
+  "authors": "Steinman G",
+  "journal": "Medical hypotheses",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "Autism continues to be a significant cause of psychosocial pathology in affected children and adults. Until recently, the predominant research thrust to uncover the cause of this condition has been the search for a major nuclear mutation. Although a small percentage of cases do demonstrate such a DNA fault, recent effort has come to emphasize problems in the biochemistry of its sufferers. In particular, insulin-like growth factor-1 (IGF) has become the center of concern in many laboratories. A deficiency in this growth factor, leading to insufficient neuron myelination and defective synapse function, appears to result in brain dysconnectivity during the first year of postpartum life, and cause social malfunction in childhood years and beyond. At least three approaches have been reported by which this deficiency can be corrected in neonates before irreversible damage has been caused. The overall purpose of this report is to bring together related observations and to evolve a coherent, plausible explanation of the cause and prevention of autism.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism continues to be a significant cause of psychosocial pathology in affected children and adults. Until recently, the predominant research thrust to uncover the cause of this condition has been the search for a major nuclear mutation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30593420/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child, Preschool",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Insulin-Like Growth Factor I",
+    "Intercellular Signaling Peptides and Proteins",
+    "Magnetic Resonance Imaging",
+    "Massage",
+    "Models, Theoretical",
+    "Myelin Sheath",
+    "Neurons",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

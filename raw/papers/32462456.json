@@ -1,0 +1,50 @@
+{
+  "pmid": "32462456",
+  "doi": "10.1007/s10803-020-04552-x",
+  "title": "Copy Number Variants and Polygenic Risk Scores Predict Need of Care in Autism and/or ADHD Families",
+  "authors": "LaBianca S, LaBianca J, Pagsberg AK, Jakobsen KD, Appadurai V, Buil A, et al.",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) are highly heritable neurodevelopmental disorders that frequently co-occur. Both rare and common genetic variants are important for ASD and ADHD risk but their combined contribution to clinical heterogeneity is unclear.&#xa0;In a sample of 39 ASD and/or ADHD families we estimated the overall variance explained by known rare copy number variants (CNVs) and polygenic risk score (PRS) from common variants to be&#xa0;10% in comorbid ASD/ADHD, 4% in ASD and 2% in ADHD. We show that burden of large, rare CNVs and PRS is significantly higher in adult ASD and/or ADHD patients with sustained need for specialist care compared to their unaffected relatives, while affected relatives fall in-between the two.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) and attention deficit hyperactivity disorder (ADHD) are highly heritable neurodevelopmental disorders that frequently co-occur. Both rare and common genetic variants are important for ASD and ADHD risk but their combined contribution to clinical heterogeneity is unclear.&#xa0;In a sample of 39 ASD and/or ADHD families we estimated the overall variance explained by known rare copy number variants (CNVs) and polygenic risk score (PRS) from common variants to be&#xa0;",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32462456/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "Comorbidity",
+    "DNA Copy Number Variations",
+    "Denmark",
+    "Female",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Predictive Value of Tests",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "Attention deficit/hyperactivity disorder",
+    "Autism spectrum disorder",
+    "Comorbidity",
+    "Copy number variants",
+    "Families",
+    "Polygenic risk score"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

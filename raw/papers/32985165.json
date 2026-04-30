@@ -1,0 +1,43 @@
+{
+  "pmid": "32985165",
+  "doi": "10.3785/j.issn.1008-9292.2020.08.10",
+  "title": "[Advances on GABAergic interneurons in autism spectrum disorders]",
+  "authors": "Li J, Xu J, Luo J",
+  "journal": "Zhejiang da xue xue bao. Yi xue ban = Journal of Zhejiang University. Medical sciences",
+  "date": "2020-08",
+  "source": "pubmed",
+  "abstract": "More and more evidences support that the abnormality of GABAergic interneurons is associated with autism spectrum disorders (ASD), epilepsy, schizophrenia and other neurodevelopmental disorders. In recent years, numerous drugs have been developed to regulate ion channels and receptors in GABAergic interneurons, including sodium channels and N-methyl-D-aspartate (NMDA) receptors. The activators of Nachannel can enhance the action potential of GABAergic interneurons by reducing the inactivation of Nachannel. NMDA receptor, as a potential therapeutic target of ASD, can restore the NMDA function of GABAergic interneurons, which would be used to treat behavioral defects. In addition, there are many ion channels and receptors on GABAergic interneurons related to ASD. This article reviews GABAergic interneurons in the pathogenesis of ASD and the related interventions.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "More and more evidences support that the abnormality of GABAergic interneurons is associated with autism spectrum disorders (ASD), epilepsy, schizophrenia and other neurodevelopmental disorders. In recent years, numerous drugs have been developed to regulate ion channels and receptors in GABAergic interneurons, including sodium channels and N-methyl-D-aspartate (NMDA) receptors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32985165/",
+  "mesh_terms": [
+    "Action Potentials",
+    "Autism Spectrum Disorder",
+    "GABAergic Neurons",
+    "Humans",
+    "Interneurons",
+    "Neurology",
+    "Receptors, N-Methyl-D-Aspartate"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Cortex",
+    "GABAergic neurons",
+    "Ion channels",
+    "Receptors"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

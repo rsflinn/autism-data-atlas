@@ -1,0 +1,32 @@
+{
+  "pmid": "40160280",
+  "doi": "10.1177/23969415251322751",
+  "title": "Facing phonological complexity as an autistic adult: An exploratory study",
+  "authors": "Manenti M, Pr&#xe9;vost P, Houy-Durand E, Bonnet-Brilhault F, Ferr&#xe9; S",
+  "journal": "Autism & developmental language impairments",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "While it has been suggested that phonology is relatively spared in autism, some studies have shown that many autistic children and adolescents exhibit severe phonological impairment, of which syllabic complexity is a reliable index. However, although autism is a lifelong disorder, no such evidence exists for adults. The aim of the present study is to bridge this knowledge gap by investigating how autistic adults deal with phonological complexity.\n\nPhonological abilities were assessed in 48 autistic adults aged 18 to 56 years and 50 controls matched on age and sex/gender. A linguistically motivated Nonword Repetition (NWR) task manipulating syllabic complexity, LITMUS-QU(Quasi Universal)-FR(ench)-NWR-Adults, was used to distinguish participants with and without a phonological impairment. In addition to the NWR task, additional tests were conducted to examine potential factors influencing phonological performance. These measures included morphosyntax, vocabulary, nonverbal IQ (NVIQ), short-term memory, working memory, and autism severity, providing a comprehensive understanding of variables affecting phonological abilities in autistic adults.\n\nGlobal performance on NWR was significantly lower and spanned a wider range in the autism group than that in the control group. By looking at individual results across the structures and substructures included in NWR, which presented varying degrees of syllabic complexity, it was possible to uncover great variability among autistic individuals with a phonologicalimpairment. Phonological proficiency appeared to be related to morphosyntax rather than to lexical knowledge and nonverbal cognition, including memory. Moreover, phonological skills did not correlate with autism severity.\n\nThis study represents a first step towards understanding how to characterize phonological skills in autistic adults. Our findings indicate that syllabic complexity prompts diverse behaviors among autistic individuals with impaired phonology. Further research is required to gain insight into the cause(s) underlying the detected difficulties.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "While it has been suggested that phonology is relatively spared in autism, some studies have shown that many autistic children and adolescents exhibit severe phonological impairment, of which syllabic complexity is a reliable index. However, although autism is a lifelong disorder, no such evidence exists for adults.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40160280/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism",
+    "adulthood",
+    "phonology"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

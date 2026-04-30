@@ -1,0 +1,48 @@
+{
+  "pmid": "30023428",
+  "doi": "10.1523/ENEURO.0398-17.2018",
+  "title": "Defective Synapse Maturation and Enhanced Synaptic Plasticity in Shank2 &#x394;ex7Mice",
+  "authors": "Wegener S, Buschler A, Stempel AV, Kang SJ, Lim CS, Kaang BK, et al.",
+  "journal": "eNeuro",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) are neurodevelopmental disorders with a strong genetic etiology. Since mutations in humangenes have been found in patients with autism, genetic mouse models are used for a mechanistic understanding of ASDs and the development of therapeutic strategies. SHANKs are scaffold proteins in the postsynaptic density of mammalian excitatory synapses with proposed functions in synaptogenesis, regulation of dendritic spine morphology, and instruction of structural synaptic plasticity. In contrast to all studies so far on the function of SHANK proteins, we have previously observed enhanced synaptic plasticity in Shank2 &#x394;ex7mice. In a series of experiments, we now reproduce these results, further explore the synaptic phenotype, and directly compare our model to the independently generated Shank2 &#x394;ex6-7mice. Minimal stimulation experiments reveal that Shank2 &#x394;ex7mice possess an excessive fraction of silent (i.e., &#x3b1;-amino-3-hydroxy-5-methyl-4-isoxazolepropionic acid, short, AMPA receptor lacking) synapses. The synaptic maturation deficit emerges during the third postnatal week and constitutes a plausible mechanistic explanation for the mutants' increased capacity for long-term potentiation, bothand. A direct comparison with Shank2 &#x394;ex6-7mice adds weight to the hypothesis that both mouse models show a different set of synaptic phenotypes, possibly due to differences in their genetic background. These findings add to the diversity of synaptic phenotypes in neurodevelopmental disorders and further support the supposed existence of \"modifier genes\" in the expression and inheritance of ASDs.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASDs) are neurodevelopmental disorders with a strong genetic etiology. Since mutations in humangenes have been found in patients with autism, genetic mouse models are used for a mechanistic understanding of ASDs and the development of therapeutic strategies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30023428/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Hippocampus",
+    "Long-Term Potentiation",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Nerve Tissue Proteins",
+    "Receptors, AMPA",
+    "Synapses"
+  ],
+  "keywords": [
+    "LTP",
+    "PSD",
+    "autism",
+    "maturation",
+    "shank",
+    "synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

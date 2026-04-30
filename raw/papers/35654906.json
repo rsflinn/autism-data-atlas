@@ -1,0 +1,41 @@
+{
+  "pmid": "35654906",
+  "doi": "10.1038/s41591-022-01845-9",
+  "title": "Parental inflammatory bowel disease and autism in children",
+  "authors": "Sadik A, Dardani C, Pagoni P, Havdahl A, Stergiakouli E, , et al.",
+  "journal": "Nature medicine",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "Evidence linking parental inflammatory bowel disease (IBD) with autism in children is inconclusive. We conducted four complementary studies to investigate associations between parental IBD and autism in children, and elucidated their underlying etiology. Conducting a nationwide population-based cohort study using Swedish registers, we found evidence of associations between parental diagnoses of IBD and autism in children. Polygenic risk score analyses of the Avon Longitudinal Study of Parents and Children suggested associations between maternal genetic liability to IBD and autistic traits in children. Two-sample Mendelian randomization analyses provided evidence of a potential causal effect of genetic liability to IBD, especially ulcerative colitis, on autism. Linkage disequilibrium score regression did not indicate a genetic correlation between IBD and autism. Triangulating evidence from these four complementary approaches, we found evidence of a potential causal link between parental, particularly maternal, IBD and autism in children. Perinatal immune dysregulation, micronutrient malabsorption and anemia may be implicated.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Evidence linking parental inflammatory bowel disease (IBD) with autism in children is inconclusive. We conducted four complementary studies to investigate associations between parental IBD and autism in children, and elucidated their underlying etiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35654906/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Cohort Studies",
+    "Colitis, Ulcerative",
+    "Female",
+    "Humans",
+    "Inflammatory Bowel Diseases",
+    "Longitudinal Studies",
+    "Pregnancy"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

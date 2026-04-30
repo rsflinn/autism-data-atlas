@@ -1,0 +1,58 @@
+{
+  "pmid": "30970224",
+  "doi": "10.1096/fj.201802646R",
+  "title": "Epigenetic-genetic chromatin footprinting identifies novel and subject-specific genes active in prefrontal cortex neurons",
+  "authors": "Gusev FE, Reshetov DA, Mitchell AC, Andreeva TV, Dincer A, Grigorenko AP, et al.",
+  "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+  "date": "2019-04",
+  "source": "pubmed",
+  "abstract": "Human prefrontal cortex (PFC) is associated with broad individual variabilities in functions linked to personality, social behaviors, and cognitive functions. The phenotype variabilities associated with brain functions can be caused by genetic or epigenetic factors. The interactions between these factors in human subjects is, as of yet, poorly understood. The heterogeneity of cerebral tissue, consisting of neuronal and nonneuronal cells, complicates the comparative analysis of gene activities in brain specimens. To approach the underlying neurogenomic determinants, we performed a deep analysis of open chromatin-associated histone methylation in PFC neurons sorted from multiple human individuals in conjunction with whole-genome and transcriptome sequencing. Integrative analyses produced novel unannotated neuronal genes and revealed individual-specific chromatin \"blueprints\" of neurons that, in part, relate to genetic background. Surprisingly, we observed gender-dependent epigenetic signals, implying that gender may contribute to the chromatin variabilities in neurons. Finally, we found epigenetic, allele-specific activation of the testis-specific gene nucleoporin 210 like () in brain in some individuals, which we link to a genetic variant occurring in <3% of the human population. Recently, thelocus has been associated with intelligence and mathematics ability. Our findings highlight the significance of epigenetic-genetic footprinting for exploring neurologic function in a subject-specific manner.-Gusev, F. E., Reshetov, D. A., Mitchell, A. C., Andreeva, T. V., Dincer, A., Grigorenko, A. P., Fedonin, G., Halene, T., Aliseychik, M., Goltsov, A. Y., Solovyev, V., Brizgalov, L., Filippova, E., Weng, Z., Akbarian, S., Rogaev, E. I. Epigenetic-genetic chromatin footprinting identifies novel and subject-specific genes active in prefrontal cortex neurons.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Human prefrontal cortex (PFC) is associated with broad individual variabilities in functions linked to personality, social behaviors, and cognitive functions. The phenotype variabilities associated with brain functions can be caused by genetic or epigenetic factors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30970224/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Child",
+    "Child, Preschool",
+    "Chromatin",
+    "Cognition",
+    "Epigenesis, Genetic",
+    "Female",
+    "Genetic Loci",
+    "Histones",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Male",
+    "Methylation",
+    "Middle Aged",
+    "Neurons",
+    "Nuclear Pore Complex Proteins",
+    "Prefrontal Cortex",
+    "Pregnancy"
+  ],
+  "keywords": [
+    "ChIP-seq",
+    "H3K4me3",
+    "brain",
+    "histone"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

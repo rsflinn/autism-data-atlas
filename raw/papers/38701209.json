@@ -1,0 +1,43 @@
+{
+  "pmid": "38701209",
+  "doi": "10.1126/sciadv.adm7039",
+  "title": "FOXP1 regulates the development of excitatory synaptic inputs onto striatal neurons and induces phenotypic reversal with reinstatement",
+  "authors": "Khandelwal N, Kulkarni A, Ahmed NI, Harper M, Konopka G, Gibson JR",
+  "journal": "Science advances",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Long-range glutamatergic inputs originating from the cortex and thalamus are indispensable for striatal development, providing the foundation for motor and cognitive functions. Despite their significance, transcriptional regulation governing these inputs remains largely unknown. We investigated the role of a transcription factor encoded by a high-risk autism-associated gene,, in sculpting glutamatergic inputs onto spiny projection neurons (SPNs) within the striatum. We find a neuron subtype-specific role of FOXP1 in strengthening and maturing glutamatergic inputs onto dopamine receptor 2-expressing SPNs (D2 SPNs). We also find that FOXP1 promotes synaptically driven excitability in these neurons. Using single-nuclei RNA sequencing, we identify candidate genes that mediate these cell-autonomous processes through postnatal FOXP1 function at the post-synapse. Last, we demonstrate that postnatal FOXP1 reinstatement rescues electrophysiological deficits, cell type-specific gene expression changes, and behavioral phenotypes. Together, this study enhances our understanding of striatal circuit development and provides proof of concept for a therapeutic approach for FOXP1 syndrome and other neurodevelopmental disorders.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FOXP1"
+  ],
+  "summary": "Long-range glutamatergic inputs originating from the cortex and thalamus are indispensable for striatal development, providing the foundation for motor and cognitive functions. Despite their significance, transcriptional regulation governing these inputs remains largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38701209/",
+  "mesh_terms": [
+    "Animals",
+    "Forkhead Transcription Factors",
+    "Corpus Striatum",
+    "Mice",
+    "Neurons",
+    "Repressor Proteins",
+    "Phenotype",
+    "Synapses",
+    "Male",
+    "Receptors, Dopamine D2"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

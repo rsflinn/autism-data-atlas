@@ -1,0 +1,46 @@
+{
+  "pmid": "37419212",
+  "doi": "10.1016/j.neuint.2023.105569",
+  "title": "Deletions of Cacna2d3 in parvalbumin-expressing neurons leads to autistic-like phenotypes in mice",
+  "authors": "Shao W, Zheng H, Zhu J, Li W, Li Y, Hu W, et al.",
+  "journal": "Neurochemistry international",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a series of highly inherited neurodevelopmental disorders. Loss-of-function (LOF) mutations in the CACNA2D3 gene are associated with ASD. However, the underlying mechanism is unknown. Dysfunction of cortical interneurons (INs) is strongly implicated in ASD. Parvalbumin-expressing (PV) INs and somatostatin-expressing (SOM) INs are the two most subtypes. Here, we characterized a mouse knockout of the Cacna2d3 gene in PV-expressing neurons (PV;Cacna2d3mice) or in SOM-expressing neurons (SOM;Cacna2d3mice), respectively. PV;Cacna2d3mice showed deficits in the core ASD behavioral domains (including impaired sociability and increased repetitive behavior), as well as anxiety-like behavior and improved spatial memory. Furthermore, loss of Cacna2d3 from a subset of PV neurons results in a reduction of GAD67 and PV expression in the medial prefrontal cortex (mPFC). These may underlie the increased neuronal excitability in the mPFC, which contribute to the abnormal social behavior in PV;Cacna2d3mice. Whereas, SOM;Cacna2d3mice showed no obvious deficits in social, cognitive, or emotional phenotypes. Our findings provide the first evidence suggesting the causal role of Cacna2d3 insufficiency in PV neurons in autism.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a series of highly inherited neurodevelopmental disorders. Loss-of-function (LOF) mutations in the CACNA2D3 gene are associated with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37419212/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Interneurons",
+    "Mice, Knockout",
+    "Neurons",
+    "Parvalbumins",
+    "Phenotype",
+    "Calcium Channels"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Cacna2d3",
+    "Disinhibition",
+    "Parvalbumin interneurons",
+    "Somatostatin interneurons"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

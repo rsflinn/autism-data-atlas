@@ -1,0 +1,37 @@
+{
+  "pmid": "36469137",
+  "doi": "10.1007/s00439-022-02497-y",
+  "title": "Integrated exome and transcriptome analysis prioritizes MAP4K4 de novo frameshift variants in autism spectrum disorder as a novel disease-gene association",
+  "authors": "Cesana M, Vaccaro L, Larsen MJ, Kib&#xe6;k M, Micale L, Riccardo S, et al.",
+  "journal": "Human genetics",
+  "date": "2022-12",
+  "source": "pubmed",
+  "abstract": "The application of next-generation sequencing (NGS) to clinical practice is still hampered by the ability to interpret the clinical relevance of novel variants and the difficulty of evaluating their effect in specific tissues. Here, we applied integrated genomic approaches for interrogating blood samples of two unrelated individuals with neurodevelopmental disorders and identified a novel neuro-pathogenic role for the Mitogen-Activated Protein Kinase 4 gene (MAP4K4). In particular, we identified two novel frameshift variants in coding exons expressed in the blood and neuronal isoforms. Both variants were predicted to generate non-sense-mediated decay. By transcriptome analysis, we simultaneously demonstrated the deleterious effect of the identified variants on the splicing activity and stability of MAP4K4 mRNA. Therefore, we propose MAP4K4 as a novel causative gene for non-syndromic and syndromic neurodevelopmental disorders. Altogether, we prove the efficacy of an integrated approach of exome and transcriptome sequencing in the resolution of undiagnosed cases by leveraging the analysis of variants in genes expressed in peripheral blood.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The application of next-generation sequencing (NGS) to clinical practice is still hampered by the ability to interpret the clinical relevance of novel variants and the difficulty of evaluating their effect in specific tissues. Here, we applied integrated genomic approaches for interrogating blood samples of two unrelated individuals with neurodevelopmental disorders and identified a novel neuro-pathogenic role for the Mitogen-Activated Protein Kinase 4 gene (MAP4K4).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36469137/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Exome",
+    "Frameshift Mutation",
+    "Gene Expression Profiling",
+    "Intracellular Signaling Peptides and Proteins",
+    "Neurodevelopmental Disorders",
+    "Protein Serine-Threonine Kinases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

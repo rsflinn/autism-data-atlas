@@ -1,0 +1,48 @@
+{
+  "pmid": "32414783",
+  "doi": "10.1523/JNEUROSCI.1707-19.2020",
+  "title": "Auxiliary &#x3b1;2&#x3b4;1 and &#x3b1;2&#x3b4;3 Subunits of Calcium Channels Drive Excitatory and Inhibitory Neuronal Network Development",
+  "authors": "Bikbaev A, Ciuraszkiewicz-Wojciech A, Heck J, Klatt O, Freund R, Mitl&#xf6;hner J, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "VGCCs are multisubunit complexes that play a crucial role in neuronal signaling. Auxiliary &#x3b1;2&#x3b4; subunits of VGCCs modulate trafficking and biophysical properties of the pore-forming &#x3b1;1 subunit and trigger excitatory synaptogenesis. Alterations in the expression level of &#x3b1;2&#x3b4; subunits were implicated in several syndromes and diseases, including chronic neuropathic pain, autism, and epilepsy. However, the contribution of distinct &#x3b1;2&#x3b4; subunits to excitatory/inhibitory imbalance and aberrant network connectivity characteristic for these pathologic conditions remains unclear. Here, we show that &#x3b1;2&#x3b4;1 overexpression enhances spontaneous neuronal network activity in developing and mature cultures of hippocampal neurons. In contrast, overexpression, but not downregulation, of &#x3b1;2&#x3b4;3 enhances neuronal firing in immature cultures, whereas later in development it suppresses neuronal activity. We found that &#x3b1;2&#x3b4;1 overexpression increases excitatory synaptic density and selectively enhances presynaptic glutamate release, which is impaired on &#x3b1;2&#x3b4;1 knockdown. Overexpression of &#x3b1;2&#x3b4;3 increases the excitatory synaptic density as well but also facilitates spontaneous GABA release and triggers an increase in the density of inhibitory synapses, which is accompanied by enhanced axonaloutgrowth in immature interneurons. Together, our findings demonstrate that &#x3b1;2&#x3b4;1 and &#x3b1;2&#x3b4;3 subunits play distinct but complementary roles in driving formation of structural and functional network connectivity during early development. An alteration in &#x3b1;2&#x3b4; surface expression during critical developmental windows can therefore play a causal role and have a profound impact on the excitatory-to-inhibitory balance and network connectivity.The computational capacity of neuronal networks is determined by their connectivity. Chemical synapses are the main interface for transfer of information between individual neurons. The initial formation of network connectivity requires spontaneous electrical activity and the calcium channel-mediated signaling. We found that, in early development, auxiliary &#x3b1;2&#x3b4;3 subunits of calcium channels foster presynaptic release of GABA, trigger formation of inhibitory synapses, and promote axonal outgrowth in inhibitory interneurons. In contrast, later in development, &#x3b1;2&#x3b4;1 subunits promote the glutamatergic neurotransmission and synaptogenesis, as well as strongly enhance neuronal network activity. We propose that formation of connectivity in neuronal networks is associated with a concerted interplay of &#x3b1;2&#x3b4;1 and &#x3b1;2&#x3b4;3 subunits of calcium channels.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "VGCCs are multisubunit complexes that play a crucial role in neuronal signaling. Auxiliary &#x3b1;2&#x3b4; subunits of VGCCs modulate trafficking and biophysical properties of the pore-forming &#x3b1;1 subunit and trigger excitatory synaptogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32414783/",
+  "mesh_terms": [
+    "Animals",
+    "Calcium Channels",
+    "Calcium Signaling",
+    "HEK293 Cells",
+    "Hippocampus",
+    "Humans",
+    "Mice",
+    "Nerve Net",
+    "Neurogenesis",
+    "Neurons",
+    "Rats",
+    "Synaptic Transmission"
+  ],
+  "keywords": [
+    "VGCCs",
+    "alpha2delta subunits",
+    "excitation to inhibition balance",
+    "network connectivity",
+    "synaptogenesis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

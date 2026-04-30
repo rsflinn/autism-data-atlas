@@ -1,0 +1,44 @@
+{
+  "pmid": "37210067",
+  "doi": "10.1016/j.neulet.2023.137305",
+  "title": "GluA1-Shank3 interaction decreases in response to chronic neuronal depolarization",
+  "authors": "Ross MM, Aizenman E",
+  "journal": "Neuroscience letters",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Interactions between AMPA receptors and synaptic scaffolding proteins are key regulators of synaptic receptor density and, thereby, synapse strength. Shank3 is one such scaffolding protein with high clinical relevance, as genetic variants and deletions of this protein have been linked to autism spectrum disorder. Shank3 acts as a master regulator of the postsynaptic density of glutamatergic synapses, interacting with ionotropic and metabotropic glutamate receptors and cytoskeletal elements to modulate synaptic structure. Notably, Shank3 has been shown to interact directly with the AMPAR subunit GluA1, and Shank3 knockout animals show deficits in AMPAR-mediated synaptic transmission. In this study, we sought to characterize the stability of GluA1-Shank3 interaction in response to chronic stimuli using a highly sensitive and specific proximity ligation assay. We found that GluA1-Shank3 interactions decrease in response to prolonged neuronal depolarization induced by elevated extracellular potassium, and that this reduced interaction is blocked by NMDA receptor antagonism. These results firmly establish the close interaction of GluA1 and Shank3 in cortical neurons in vitro, and that this select interaction is subject to modulation by depolarization.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Interactions between AMPA receptors and synaptic scaffolding proteins are key regulators of synaptic receptor density and, thereby, synapse strength. Shank3 is one such scaffolding protein with high clinical relevance, as genetic variants and deletions of this protein have been linked to autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37210067/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "Synaptic Transmission",
+    "Synapses",
+    "Hippocampus"
+  ],
+  "keywords": [
+    "Chronic depolarization",
+    "GluA1",
+    "Postsynaptic density",
+    "Proximity ligation assay",
+    "Shank3"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

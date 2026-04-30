@@ -1,0 +1,45 @@
+{
+  "pmid": "35047232",
+  "doi": "10.7717/peerj.12630",
+  "title": "CTRP3 as a novel biomarker in the plasma of Saudi children with autism",
+  "authors": "Alhakbany M, Al-Ayadhi L, El-Ansary A",
+  "journal": "PeerJ",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "C1q/tumor necrosis factor-related protein-3 (CTRP3) has diverse functions: anti-inflammation, metabolic regulation, and protection against endothelial dysfunction.\n\nThe plasma level of CTRP3 in autistic patients (= 32) was compared to that in controls (= 37) using ELISA.\n\nCTRP3 was higher (24.7% with< 0.05) in autistic patients than in controls. No association was observed between CTRP3 and the severity of the disorder using the Childhood Autism Rating Scale (CARS). A positive correlation between CARs and the age of patients was reported. Receiver operating characteristic (ROC) analysis demonstrated a low area under the curve (AUC) for all patients (0.636). Low AUCs were also found in the case of severe patients (0.659) compared to controls, but both values were statistically significant (&#x2264; 0.05). Despite the small sample size, we are the first to find an association between CTRP3 and autism spectrum disorder (ASD).",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "C1q/tumor necrosis factor-related protein-3 (CTRP3) has diverse functions: anti-inflammation, metabolic regulation, and protection against endothelial dysfunction. The plasma level of CTRP3 in autistic patients (= 32) was compared to that in controls (= 37) using ELISA.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35047232/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Case-Control Studies",
+    "Saudi Arabia",
+    "Tumor Necrosis Factors"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Biomarker",
+    "C1q/tumor necrosis factor (TNF)-related protein (CTRP3)",
+    "Childhood autism rating scale",
+    "Receiver operating characteristic (ROC).",
+    "Receiver operating characteristics (ROC)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pmid": "36865328",
+  "doi": "10.1101/2023.02.14.23285913",
+  "title": "Subcortical brain alterations in carriers of genomic copy number variants",
+  "authors": "Kumar K, Modenato C, Moreau C, Ching CRK, Harvey A, Martin-Brevet S, et al.",
+  "journal": "medRxiv : the preprint server for health sciences",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) are well-known genetic pleiotropic risk factors for multiple neurodevelopmental and psychiatric disorders (NPDs) including autism (ASD) and schizophrenia (SZ). Overall, little is known about how different CNVs conferring risk for the same condition may affect subcortical brain structures and how these alterations relate to the level of disease risk conferred by CNVs. To fill this gap, we investigated gross volume, and vertex level thickness and surface maps of subcortical structures in 11 different CNVs and 6 different NPDs.\n\nSubcortical structures were characterized using harmonized ENIGMA protocols in 675 CNV carriers (at the following loci: 1q21.1, TAR, 13q12.12, 15q11.2, 16p11.2, 16p13.11, and 22q11.2) and 782 controls (Male/Female: 727/730; age-range: 6-80 years) as well as ENIGMA summary-statistics for ASD, SZ, ADHD, Obsessive-Compulsive-Disorder, Bipolar-Disorder, and Major-Depression.\n\nNine of the 11 CNVs affected volume of at least one subcortical structure. The hippocampus and amygdala were affected by five CNVs. Effect sizes of CNVs on subcortical volume, thickness and local surface area were correlated with their previously reported effect sizes on cognition and risk for ASD and SZ. Shape analyses were able to identify subregional alterations that were averaged out in volume analyses. We identified a common latent dimension - characterized by opposing effects on basal ganglia and limbic structures - across CNVs and across NPDs.\n\nOur findings demonstrate that subcortical alterations associated with CNVs show varying levels of similarities with those associated with neuropsychiatric conditions. We also observed distinct effects with some CNVs clustering with adult conditions while others clustered with ASD. This large cross-CNV and NPDs analysis provide insight into the long-standing questions of why CNVs at different genomic loci increase the risk for the same NPD, as well as why a single CNV increases the risk for a diverse set of NPDs.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants (CNVs) are well-known genetic pleiotropic risk factors for multiple neurodevelopmental and psychiatric disorders (NPDs) including autism (ASD) and schizophrenia (SZ). Overall, little is known about how different CNVs conferring risk for the same condition may affect subcortical brain structures and how these alterations relate to the level of disease risk conferred by CNVs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36865328/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Preprint",
+    "Journal Article"
+  ]
+}

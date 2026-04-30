@@ -1,0 +1,46 @@
+{
+  "pmid": "35052376",
+  "doi": "10.3390/genes13010036",
+  "title": "Diagnostic Yield and Economic Implications of Whole-Exome Sequencing for ASD Diagnosis in Israel",
+  "authors": "Tal-Ben Ishay R, Shil A, Solomon S, Sadigurschi N, Abu-Kaf H, Meiri G, et al.",
+  "journal": "Genes",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "Whole-exome sequencing (WES) is an effective approach to identify the susceptibility of genetic variants of autism spectrum disorder (ASD). The Israel Ministry of Health supports WES as an adjunct tool for ASD diagnosis, despite its unclear diagnostic yield and cost effectiveness. To address this knowledge gap, we applied WES to a population-based sample of 182 Bedouin and Jewish children with ASD from southern Israel, and assessed its yield in a gene panel of 205 genes robustly associated with ASD. We then compared the incremental cost-effectiveness ratios (ICERs) for an ASD diagnosis by WES, chromosomal microarray analysis (CMA), and CMA + WES. Overall, 32 ASD candidate variants were detected in 28 children, corresponding to an overall WES diagnostic yield of 15.4%. Interestingly, the diagnostic yield was significantly higher for the Bedouin children than for the Jewish children, i.e., 27.6% vs. 11.1% (= 0.036). The most cost-effective means for genetic testing was the CMA alone, followed closely by the CMA + WES strategy (ICER = USD 117 and USD 124.8 per child). Yet, WES alone could become more cost effective than the other two approaches if there was to be a 25% increase in its yield or a 50% decrease in its cost. These findings suggest that WES should be recommended to facilitate ASD diagnosis in Israel, especially for highly consanguineous populations, such as the Bedouin.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Whole-exome sequencing (WES) is an effective approach to identify the susceptibility of genetic variants of autism spectrum disorder (ASD). The Israel Ministry of Health supports WES as an adjunct tool for ASD diagnosis, despite its unclear diagnostic yield and cost effectiveness.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35052376/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Cost-Benefit Analysis",
+    "Female",
+    "Genetic Testing",
+    "Humans",
+    "Israel",
+    "Male",
+    "Microarray Analysis",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "cost-effectiveness analysis",
+    "diagnostic yield",
+    "genetics",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

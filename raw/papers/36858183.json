@@ -1,0 +1,45 @@
+{
+  "pmid": "36858183",
+  "doi": "10.1016/j.bbi.2023.02.019",
+  "title": "Dietary fish oil improves autistic behaviors and gut homeostasis by altering the gut microbial composition in a mouse model of fragile&#xa0;X&#xa0;syndrome",
+  "authors": "Guo P, Yang X, Guo X, Yang H, Pan J, Li Y",
+  "journal": "Brain, behavior, and immunity",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Fragile&#xa0;X&#xa0;syndrome (FXS) is the most common inherited intellectual disability, caused by a lack of the fragile&#xa0;X&#xa0;mental retardation protein (FMRP). Individuals with neurodevelopmental disorders frequently experience gastrointestinal problems that are primarily linked to gut microbial dysbiosis, inflammation, and increased intestinal permeability. Omega-3 polyunsaturated fatty acids (omega-3 PUFAs) are non-pharmacological agents that exert potential therapeutic effects against neurological disorders. However, it is unclear whether omega-3 PUFAs improve autistic behaviors in fragile&#xa0;X&#xa0;syndrome (FXS) by altering the gut microbial composition. Here, we describe gastrointestinal problems in Fmr1 knockout (KO) mice. FMRP deficiency causes intestinal homeostasis dysfunction in mice. Fish oil (FO) as a source of omega-3 PUFAs reduces intestinal inflammation but increases the mRNA and protein levels of TJP3 in the colon of juvenile Fmr1 KO mice. Fecal microbiota transplantation from FO-fed Fmr1 KO mice increased the gut abundance of Akkermansia and Gordonibacter in recipient Fmr1 KO mice and improved gut homeostasis and autistic behaviors. Our findings demonstrate that omega-3 PUFAs improve autistic behaviors and gut homeostasis in FMRP-deficient mice by suppressing gut microbiota dysbiosis, thereby presenting a novel therapeutic approach for juvenile FXS treatment.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile&#xa0;X&#xa0;syndrome (FXS) is the most common inherited intellectual disability, caused by a lack of the fragile&#xa0;X&#xa0;mental retardation protein (FMRP). Individuals with neurodevelopmental disorders frequently experience gastrointestinal problems that are primarily linked to gut microbial dysbiosis, inflammation, and increased intestinal permeability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36858183/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Fragile X Syndrome",
+    "Autistic Disorder",
+    "Gastrointestinal Microbiome",
+    "Dysbiosis",
+    "Disease Models, Animal",
+    "Mice, Knockout",
+    "Fish Oils",
+    "Fragile X Messenger Ribonucleoprotein 1"
+  ],
+  "keywords": [
+    "Fragile X syndrome",
+    "Gastrointestinal problems",
+    "Gut microbes",
+    "Omega-3 polyunsaturated fatty acids"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "21895634",
+  "doi": "10.1111/j.1399-0004.2011.01773.x",
+  "title": "Recent genomic advances in schizophrenia",
+  "authors": "Doherty JL, O'Donovan MC, Owen MJ",
+  "journal": "Clinical genetics",
+  "date": "2011-10",
+  "source": "pubmed",
+  "abstract": "Recent studies have supported the hypothesis based upon expectations from population genetics that the high heritability of schizophrenia reflects a combination of relatively common alleles of small effect and rare alleles some with relatively large effects. Genome-wide association studies have identified a number of risk loci at genome-wide levels of significance as well as evidence for a substantial burden of common risk loci. Moreover these recent findings suggest genetic overlap with bipolar disorder which has traditionally been assumed to be genetically distinct from schizophrenia. Genome-wide studies of at least one class of relatively uncommon variant, submicroscopic chromosomal abnormalities often referred to as copy number variations (CNVs), suggest that these confer high risk of schizophrenia. There is evidence both for an increased burden of large, rare CNVs in schizophrenia and that risk is conferred by a number of specific large CNVs as well as by deletions of NRXN1 which encodes the synaptic scaffolding protein neurexin 1. Many of these CNVs have been implicated in autism, mental retardation, epilepsy and other neurodevelopment disorders. These findings have implications for pathogenesis and nosology of schizophrenia and related disorders, and for future genetic studies.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "NRXN1"
+  ],
+  "summary": "Recent studies have supported the hypothesis based upon expectations from population genetics that the high heritability of schizophrenia reflects a combination of relatively common alleles of small effect and rare alleles some with relatively large effects. Genome-wide association studies have identified a number of risk loci at genome-wide levels of significance as well as evidence for a substantial burden of common risk loci.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21895634/",
+  "mesh_terms": [
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Genomics",
+    "Humans",
+    "Polymorphism, Single Nucleotide",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

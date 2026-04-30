@@ -1,0 +1,53 @@
+{
+  "pmid": "29467497",
+  "doi": "10.1038/s41380-018-0025-5",
+  "title": "Altered TAOK2 activity causes autism-related neurodevelopmental and cognitive abnormalities through RhoA signaling",
+  "authors": "Richter M, Murtaza N, Scharrenberg R, White SH, Johanns O, Walker S, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "Atypical brain connectivity is a major contributor to the pathophysiology of neurodevelopmental disorders (NDDs) including autism spectrum disorders (ASDs). TAOK2 is one of several genes in the 16p11.2 microdeletion region, but whether it contributes to NDDs is unknown. We performed behavioral analysis on Taok2 heterozygous (Het) and knockout (KO) mice and found gene dosage-dependent impairments in cognition, anxiety, and social interaction. Taok2 Het and KO mice also have dosage-dependent abnormalities in brain size and neural connectivity in multiple regions, deficits in cortical layering, dendrite and synapse formation, and reduced excitatory neurotransmission. Whole-genome and -exome sequencing of ASD families identified three de novo mutations in TAOK2 and functional analysis in mice and human cells revealed that all the mutations impair protein stability, but they differentially impact kinase activity, dendrite growth, and spine/synapse development. Mechanistically, loss of Taok2 activity causes a reduction in RhoA activation, and pharmacological enhancement of RhoA activity rescues synaptic phenotypes. Together, these data provide evidence that TAOK2 is a neurodevelopmental disorder risk gene and identify RhoA signaling as a mediator of TAOK2-dependent synaptic development.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Atypical brain connectivity is a major contributor to the pathophysiology of neurodevelopmental disorders (NDDs) including autism spectrum disorders (ASDs). TAOK2 is one of several genes in the 16p11.2 microdeletion region, but whether it contributes to NDDs is unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29467497/",
+  "mesh_terms": [
+    "Adult",
+    "Animals",
+    "Anxiety",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Cognitive Dysfunction",
+    "Dendrites",
+    "Female",
+    "Humans",
+    "Interpersonal Relations",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Neurodevelopmental Disorders",
+    "Neurogenesis",
+    "Phenotype",
+    "Phosphorylation",
+    "Protein Serine-Threonine Kinases",
+    "Signal Transduction",
+    "Synaptic Transmission",
+    "Exome Sequencing",
+    "rhoA GTP-Binding Protein"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

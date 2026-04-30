@@ -1,0 +1,42 @@
+{
+  "pmid": "30615093",
+  "doi": "10.1093/brain/awy326",
+  "title": "Neuronal mechanisms of mutations in SCN8A causing epilepsy or intellectual disability",
+  "authors": "Liu Y, Schubert J, Sonnenberg L, Helbig KL, Hoei-Hansen CE, Koko M, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2019-02",
+  "source": "pubmed",
+  "abstract": "Ion channel mutations can cause distinct neuropsychiatric diseases. We first studied the biophysical and neurophysiological consequences of four mutations in the human Na+ channel gene SCN8A causing either mild (E1483K) or severe epilepsy (R1872W), or intellectual disability and autism without epilepsy (R1620L, A1622D). Only combined electrophysiological recordings of transfected wild-type or mutant channels in both neuroblastoma cells and primary cultured neurons revealed clear genotype-phenotype correlations. The E1483K mutation causing mild epilepsy showed no significant biophysical changes, whereas the R1872W mutation causing severe epilepsy induced clear gain-of-function biophysical changes in neuroblastoma cells. However, both mutations increased neuronal firing in primary neuronal cultures. In contrast, the R1620L mutation associated with intellectual disability and autism-but not epilepsy-reduced Na+ current density in neuroblastoma cells and expectedly decreased neuronal firing. Interestingly, for the fourth mutation, A1622D, causing severe intellectual disability and autism without epilepsy, we observed a dramatic slowing of fast inactivation in neuroblastoma cells, which induced a depolarization block in neurons with a reduction of neuronal firing. This latter finding was corroborated by computational modelling. In a second series of experiments, we recorded three more mutations (G1475R, M1760I, G964R, causing intermediate or severe epilepsy, or intellectual disability without epilepsy, respectively) that revealed similar results confirming clear genotype-phenotype relationships. We found intermediate or severe gain-of-function biophysical changes and increases in neuronal firing for the two epilepsy-causing mutations and decreased firing for the loss-of-function mutation causing intellectual disability. We conclude that studies in neurons are crucial to understand disease mechanisms, which here indicate that increased or decreased neuronal firing is responsible for distinct clinical phenotypes.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Ion channel mutations can cause distinct neuropsychiatric diseases. We first studied the biophysical and neurophysiological consequences of four mutations in the human Na+ channel gene SCN8A causing either mild (E1483K) or severe epilepsy (R1872W), or intellectual disability and autism without epilepsy (R1620L, A1622D).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30615093/",
+  "mesh_terms": [
+    "Animals",
+    "Cells, Cultured",
+    "Epilepsy",
+    "Humans",
+    "Intellectual Disability",
+    "Membrane Potentials",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mutation, Missense",
+    "NAV1.6 Voltage-Gated Sodium Channel",
+    "Neurons",
+    "Rats"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

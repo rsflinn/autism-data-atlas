@@ -1,0 +1,52 @@
+{
+  "pmid": "38658687",
+  "doi": "10.1038/s41586-024-07310-6",
+  "title": "Antisense oligonucleotide therapeutic approach for Timothy syndrome",
+  "authors": "Chen X, Birey F, Li MY, Revah O, Levy R, Thete MV, et al.",
+  "journal": "Nature",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Timothy syndrome (TS) is a severe, multisystem disorder characterized by autism, epilepsy, long-QT syndrome and other neuropsychiatric conditions. TS type&#x2009;1 (TS1) is caused by a gain-of-function variant in the alternatively spliced and developmentally enriched CACNA1C exon&#x2009;8A, as opposed to its counterpart exon&#x2009;8. We previously uncovered several phenotypes in neurons derived from patients with TS1, including delayed channel inactivation, prolonged depolarization-induced calcium rise, impaired interneuron migration, activity-dependent dendrite retraction and an unanticipated persistent expression of exon&#x2009;8A. We reasoned that switching CACNA1C exon utilization from 8A to 8 would represent a potential therapeutic strategy. Here we developed antisense oligonucleotides (ASOs) to effectively decrease the inclusion of exon&#x2009;8A in human cells both in vitro and, following transplantation, in vivo. We discovered that the ASO-mediated switch from exon&#x2009;8A to 8 robustly rescued defects in patient-derived cortical organoids and migration in forebrain assembloids. Leveraging a transplantation platform previously developed, we found that a single intrathecal ASO administration rescued calcium changes and in vivo dendrite retraction of patient neurons, suggesting that suppression of CACNA1C exon&#x2009;8A expression is a potential treatment for TS1. Broadly, these experiments illustrate how a multilevel, in vivo and in vitro stem cell model-based approach can identify strategies to reverse disease-relevant neural pathophysiology.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "CACNA1C"
+  ],
+  "summary": "Timothy syndrome (TS) is a severe, multisystem disorder characterized by autism, epilepsy, long-QT syndrome and other neuropsychiatric conditions. TS type&#x2009;1 (TS1) is caused by a gain-of-function variant in the alternatively spliced and developmentally enriched CACNA1C exon&#x2009;8A, as opposed to its counterpart exon&#x2009;8.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38658687/",
+  "mesh_terms": [
+    "Animals",
+    "Female",
+    "Humans",
+    "Male",
+    "Mice",
+    "Alternative Splicing",
+    "Autistic Disorder",
+    "Calcium",
+    "Calcium Channels, L-Type",
+    "Cell Movement",
+    "Dendrites",
+    "Exons",
+    "Long QT Syndrome",
+    "Neurons",
+    "Oligonucleotides, Antisense",
+    "Organoids",
+    "Prosencephalon",
+    "Syndactyly",
+    "Interneurons"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

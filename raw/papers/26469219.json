@@ -1,0 +1,47 @@
+{
+  "pmid": "26469219",
+  "doi": "10.3109/15622975.2015.1085597",
+  "title": "Excitatory/inhibitory imbalance in autism spectrum disorders: Implications for interventions and therapeutics",
+  "authors": "Uzunova G, Pallanti S, Hollander E",
+  "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Imbalance between excitation and inhibition and increased excitatory-inhibitory (E-I) ratio is a common mechanism in autism spectrum disorders (ASD) that is responsible for the learning and memory, cognitive, sensory, motor deficits, and seizures occurring in these disorders. ASD are very heterogeneous and better understanding of E-I imbalance in brain will lead to better diagnosis and treatments.\n\nWe perform a critical literature review of the causes and presentations of E-I imbalance in ASD.\n\nE-I imbalance in ASD is due primarily to abnormal glutamatergic and GABAergic neurotransmission in key brain regions such as neocortex, hippocampus, amygdala, and cerebellum. Other causes are due to dysfunction of neuropeptides (oxytocin), synaptic proteins (neuroligins), and immune system molecules (cytokines). At the neuropathological level E-I imbalance in ASD is presented as a \"minicolumnopathy\". E-I imbalance alters the manner by which the brain processes information and regulates behaviour. New developments for investigating E-I imbalance such as optogenetics and transcranial magnetic stimulation (TMS) are presented. Non-invasive brain stimulation methods such as TMS for treatment of the core symptoms of ASD are discussed.\n\nUnderstanding E-I imbalance has important implications for developing better pharmacological and behavioural treatments for ASD, including TMS, new drugs, biomarkers and patient stratification.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Imbalance between excitation and inhibition and increased excitatory-inhibitory (E-I) ratio is a common mechanism in autism spectrum disorders (ASD) that is responsible for the learning and memory, cognitive, sensory, motor deficits, and seizures occurring in these disorders. ASD are very heterogeneous and better understanding of E-I imbalance in brain will lead to better diagnosis and treatments.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26469219/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Brain",
+    "Electroencephalography",
+    "Excitatory Postsynaptic Potentials",
+    "Humans",
+    "Mental Processes",
+    "Neural Inhibition",
+    "Synaptic Transmission",
+    "Transcranial Magnetic Stimulation",
+    "Translational Research, Biomedical"
+  ],
+  "keywords": [
+    "Autistic disorder",
+    "biomarkers",
+    "electroencephalography",
+    "transcranial magnetic stimulation",
+    "translational medical research"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

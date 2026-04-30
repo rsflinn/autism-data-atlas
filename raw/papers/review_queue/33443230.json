@@ -1,0 +1,39 @@
+{
+  "pmid": "33443230",
+  "doi": "10.1126/scisignal.abd8379",
+  "title": "Neuroligin-2 as a central organizer of inhibitory synapses in health and disease",
+  "authors": "Ali H, Marth L, Krueger-Burg D",
+  "journal": "Science signaling",
+  "date": "2020-12",
+  "source": "pubmed",
+  "abstract": "Postsynaptic organizational protein complexes play central roles both in orchestrating synapse formation and in defining the functional properties of synaptic transmission that together shape the flow of information through neuronal networks. A key component of these organizational protein complexes is the family of synaptic adhesion proteins called neuroligins. Neuroligins form transsynaptic bridges with presynaptic neurexins to regulate various aspects of excitatory and inhibitory synaptic transmission. Neuroligin-2 (NLGN2) is the only member that acts exclusively at GABAergic inhibitory synapses. Altered expression and mutations in NLGN2 and several of its interacting partners are linked to cognitive and psychiatric disorders, including schizophrenia, autism, and anxiety. Research on NLGN2 has fundamentally shaped our understanding of the molecular architecture of inhibitory synapses. Here, we discuss the current knowledge on the molecular and cellular functions of mammalian NLGN2 and its role in the neuronal circuitry that regulates behavior in rodents and humans.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Postsynaptic organizational protein complexes play central roles both in orchestrating synapse formation and in defining the functional properties of synaptic transmission that together shape the flow of information through neuronal networks. A key component of these organizational protein complexes is the family of synaptic adhesion proteins called neuroligins.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33443230/",
+  "mesh_terms": [
+    "Anxiety",
+    "Autistic Disorder",
+    "Cell Adhesion Molecules, Neuronal",
+    "Humans",
+    "Nerve Tissue Proteins",
+    "Schizophrenia",
+    "Synapses",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pmid": "31668704",
+  "doi": "10.1016/j.ajhg.2019.09.023",
+  "title": "The Human-Specific BOLA2 Duplication Modifies Iron Homeostasis and Anemia Predisposition in Chromosome 16p11.2 Autism Individuals",
+  "authors": "Giannuzzi G, Schmidt PJ, Porcu E, Willemin G, Munson KM, Nuttle X, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Human-specific duplications at chromosome 16p11.2 mediate recurrent pathogenic 600 kbp BP4-BP5 copy-number variations, which are among the most common genetic causes of autism. These copy-number polymorphic duplications are under positive selection and include three to eight copies of BOLA2, a gene involved in the maturation of cytosolic iron-sulfur proteins. To investigate the potential advantage provided by the rapid expansion of BOLA2, we assessed hematological traits and anemia prevalence in 379,385 controls and individuals who have lost or gained copies of BOLA2: 89 chromosome 16p11.2 BP4-BP5 deletion carriers and 56 reciprocal duplication carriers in the UK Biobank. We found that the 16p11.2 deletion is associated with anemia (18/89 carriers, 20%, p = 4e-7, OR = 5), particularly iron-deficiency anemia. We observed similar enrichments in two clinical 16p11.2 deletion cohorts, which included 6/63 (10%) and 7/20 (35%) unrelated individuals with anemia, microcytosis, low serum iron, or low blood hemoglobin. Upon stratification by BOLA2 copy number, our data showed an association between low BOLA2 dosage and the above phenotypes (8/15 individuals with three copies, 53%, p = 1e-4). In parallel, we analyzed hematological traits in mice carrying the 16p11.2 orthologous deletion or duplication, as well as Bola2and Bola2animals. The Bola2-deficient mice and the mice carrying the deletion showed early evidence of iron deficiency, including a mild decrease in hemoglobin, lower plasma iron, microcytosis, and an increased red blood cell zinc-protoporphyrin-to-heme ratio. Our results indicate that BOLA2 participates in iron homeostasis in&#xa0;vivo, and its expansion has a potential adaptive role in protecting against iron deficiency.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Human-specific duplications at chromosome 16p11.2 mediate recurrent pathogenic 600 kbp BP4-BP5 copy-number variations, which are among the most common genetic causes of autism. These copy-number polymorphic duplications are under positive selection and include three to eight copies of BOLA2, a gene involved in the maturation of cytosolic iron-sulfur proteins.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31668704/",
+  "mesh_terms": [
+    "Anemia",
+    "Animals",
+    "Autistic Disorder",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "DNA Copy Number Variations",
+    "Female",
+    "Genotype",
+    "Heterozygote",
+    "Homeostasis",
+    "Humans",
+    "Iron",
+    "Male",
+    "Phenotype",
+    "Proteins"
+  ],
+  "keywords": [
+    "16p11.2 copy number variants",
+    "BOLA2",
+    "gene duplication",
+    "human evolution",
+    "human-specific segmental duplications",
+    "iron deficiency anemia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

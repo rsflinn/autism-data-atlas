@@ -1,0 +1,52 @@
+{
+  "pmid": "25171808",
+  "doi": "10.1016/j.mcp.2014.08.003",
+  "title": "Point mutation frequency in the FMR1 gene as revealed by fragile X syndrome screening",
+  "authors": "Handt M, Epplen A, Hoffjan S, Mese K, Epplen JT, Dekomien G",
+  "journal": "Molecular and cellular probes",
+  "date": "2014-08",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a common cause of intellectual disability, developmental delay and autism spectrum disorders. This syndrome is due to a functional loss of the FMR1 gene product FMRP, and, in most cases, it is caused by CGG repeat expansion in the FMR1 promoter. Yet, also other FMR1 mutations may cause a FXS-like phenotype. Since standard molecular testing does not include the analysis of the FMR1 coding region, the prevalence of point mutations causing FXS is not well known. Here, high resolution melting (HRM) was used to screen for FMR1 gene mutations in 508 males with clinical signs of mental retardation and developmental delay, but without CGG and GCC repeat expansions in the FMR1 gene and AFF2 genes, respectively. Sequence variations were identified by HRM analysis and verified by direct DNA sequencing. Two novel missense mutations (p.Gly482Ser in one patient and p.Arg534His in two unrelated patients), one intronic and two 3'-untranslated region (UTR) variations were identified in the FMR1 gene. Missense mutations in the FMR1 gene might account for a considerable proportion of cases in male patients with FXS-related symptoms, such as those linked to mental retardation and developmental delay.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is a common cause of intellectual disability, developmental delay and autism spectrum disorders. This syndrome is due to a functional loss of the FMR1 gene product FMRP, and, in most cases, it is caused by CGG repeat expansion in the FMR1 promoter.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25171808/",
+  "mesh_terms": [
+    "DNA",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Gene Frequency",
+    "Genetic Testing",
+    "Genotype",
+    "Humans",
+    "Male",
+    "Mutation, Missense",
+    "Nucleic Acid Denaturation",
+    "Phenotype",
+    "Point Mutation",
+    "Polymerase Chain Reaction",
+    "Polymorphism, Single Nucleotide",
+    "Sequence Analysis, DNA"
+  ],
+  "keywords": [
+    "FMR1",
+    "Fragile X syndrome",
+    "High resolution melting (HRM) analysis",
+    "Mental retardation",
+    "Missense mutation"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

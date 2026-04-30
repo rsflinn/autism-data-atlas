@@ -1,0 +1,46 @@
+{
+  "pmid": "30610940",
+  "doi": "10.1016/j.pnpbp.2018.12.016",
+  "title": "Replication of previous GWAS hits suggests the association between rs4307059 near MSNP1AS and autism in a Chinese Han population",
+  "authors": "Wang Z, Zhang J, Lu T, Zhang T, Jia M, Ruan Y, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2019-01",
+  "source": "pubmed",
+  "abstract": "Autism is a complex neurodevelopmental disorder with high heritability. Previous genome-wide association studies (GWAS) demonstrated that some single-nucleotide polymorphisms (SNPs) were significantly associated with autism, while other studies focusing on these GWAS hits showed inconsistent results. Besides, the association between these variants and autism in the Chinese Han population remains unclear. Therefore, this family-based association study was performed in 640 Chinese Han autism trios to investigate the association between autism and 7 SNPs with genome-wide significance in previous GWAS (rs4307059 near MSNP1AS, rs4141463 in MACROD2, rs2535629 in ITIH3, rs11191454 in AS3MT, rs1625579 in MIR137HG, rs11191580 in NT5C2, and rs1409313 in CUEDC2). The results showed a nominal association between the T allele of rs4307059 and autism under both additive model (T>C, Z&#x202f;=&#x202f;2.250, P&#x202f;=&#x202f;.024) and recessive model (T>C, Z&#x202f;=&#x202f;2.109, P&#x202f;=&#x202f;.035). The findings provided evidence that rs4307059 near MSNP1AS might be a susceptibility variant for autism in the Chinese Han population.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a complex neurodevelopmental disorder with high heritability. Previous genome-wide association studies (GWAS) demonstrated that some single-nucleotide polymorphisms (SNPs) were significantly associated with autism, while other studies focusing on these GWAS hits showed inconsistent results.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30610940/",
+  "mesh_terms": [
+    "Asian People",
+    "Autistic Disorder",
+    "China",
+    "Family",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "Autism",
+    "Family-based association study",
+    "Genome-wide association study",
+    "Replication",
+    "Single-nucleotide polymorphism"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

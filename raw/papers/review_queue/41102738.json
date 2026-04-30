@@ -1,0 +1,51 @@
+{
+  "pmid": "41102738",
+  "doi": "10.1186/s13195-025-01873-w",
+  "title": "Multidimensional cognitive deficits in the typical and atypical variants of Alzheimer's disease",
+  "authors": "Henderson SK, Murley AG, Cope TE, Bowns L, Malpetti M, Patterson KE, et al.",
+  "journal": "Alzheimer's research & therapy",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "In this two-part investigation, we examined whether Alzheimer's disease (AD) phenotypes are distinct clinical entities or represent positions within a graded multidimensional space.\n\nFirst, using a large retrospective dataset of past research participants (n&#x2009;=&#x2009;413) from memory clinics, we examined the comparative distributions of cognitive performance in people diagnosed with typical amnestic AD (tAD), logopenic variant of primary progressive aphasia (lvPPA), and posterior cortical atrophy (PCA), across a broad range of disease severities. Secondly, a prospective deep phenotyping study of lvPPA (n&#x2009;=&#x2009;18) compared to typical AD (n&#x2009;=&#x2009;9) addressed the following questions: (1) Does the multidimensional cognitive pattern of impairment only emerge in advanced lvPPA, and how does it compare to tAD? (2) Do memory deficits in lvPPA appear in a simple clinic-level cognitive assessment or require in-depth neuropsychological investigation? (3) To what extent is performance on verbal episodic memory attributable to language impairment? (4) Do the patterns of decline in lvPPA and tAD stay categorical or multidimensional over time? We explored the associations between scores derived from a principal component analysis of cognitive measures, and grey matter volumes in key memory- and language-related brain regions, at baseline and longitudinally.\n\nThe clinic-level assessment revealed similar results in both the prospective and retrospective data: (i) patients showed graded distinctions (e.g., predominant visual versus language impairment in people with PCA versus lvPPA) and overlap (e.g., shared weakness in domains such as memory); and (ii) people with lvPPA and tAD were equally impaired on both verbal and non-verbal memory tests. Longitudinal assessment showed phenotypic dispersion: (i) people with tAD showed varied patterns of phenotypic differentiation; and (ii) people with lvPPA and lvPPA&#x2009;+&#x2009;exhibited a multidimensional pattern of decline with decreasing principal component scores and worsening multi-domain cognitive performance. The results of Bayesian linear regressions showed evidence for the association of grey matter volumes in language and memory networks with principal component analysis derived scores.\n\nThe graded distinctions amongst typical amnestic and atypical (language and visual) phenotypes of AD support the proposal for a transdiagnostic, multidimensional phenotype geometry that spans all AD subtypes.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "In this two-part investigation, we examined whether Alzheimer's disease (AD) phenotypes are distinct clinical entities or represent positions within a graded multidimensional space. First, using a large retrospective dataset of past research participants (n&#x2009;=&#x2009;413) from memory clinics, we examined the comparative distributions of cognitive performance in people diagnosed with typical amnestic AD (tAD), logopenic variant of primary progressive aphasia (lvPPA), and posterior cortical ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41102738/",
+  "mesh_terms": [
+    "Humans",
+    "Alzheimer Disease",
+    "Male",
+    "Female",
+    "Aged",
+    "Neuropsychological Tests",
+    "Retrospective Studies",
+    "Aged, 80 and over",
+    "Magnetic Resonance Imaging",
+    "Brain",
+    "Middle Aged",
+    "Aphasia, Primary Progressive",
+    "Atrophy",
+    "Phenotype",
+    "Prospective Studies",
+    "Cognition Disorders",
+    "Cognitive Dysfunction"
+  ],
+  "keywords": [
+    "Episodic memory",
+    "Logopenic variant of primary progressive aphasia",
+    "Posterior cortical atrophy",
+    "Typical amnestic Alzheimer&#x2019;s disease"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

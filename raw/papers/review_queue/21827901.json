@@ -1,0 +1,38 @@
+{
+  "pmid": "21827901",
+  "doi": "10.1016/B978-0-444-51892-7.00023-1",
+  "title": "Fragile X-associated tremor/ataxia syndrome",
+  "authors": "Leehey MA, Hagerman PJ",
+  "journal": "Handbook of clinical neurology",
+  "date": "2012-01",
+  "source": "pubmed",
+  "abstract": "Fragile X-associated tremor/ataxia syndrome (FXTAS) is an under-recognized disorder that is a significant cause of late-adult-onset ataxia. The etiology is expansion of a trinucleotide repeat to the premutation range (55-200 CGG repeats) in the fragile X mental retardation 1 (FMR1) gene. Expansion to >200 CGGs causes fragile X syndrome, the most common heritable cause of cognitive impairment and autism. Core features of FXTAS include progressive action tremor and gait ataxia; with frequent, more variable features of cognitive decline, especially executive dysfunction, parkinsonism, neuropathy, and autonomic dysfunction. MR imaging shows generalized atrophy and frequently abnormal signal in the middle cerebellar peduncles. Autopsy reveals intranuclear inclusions in neurons and astrocytes and dystrophic white matter. FXTAS is likely due to an RNA toxic gain-of-function of the expanded-repeat mRNA. The disorder typically affects male premutation carriers over age 50, and, less often, females. Females also are at increased risk for primary ovarian insufficiency, chronic muscle pain, and thyroid disease. Treatment targets specific symptoms, but progression of disability is relentless. Although the contribution of FXTAS to the morbidity and mortality of the aging population requires further study, the disorder is likely the most common single-gene form of tremor and ataxia in the older adult population.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X-associated tremor/ataxia syndrome (FXTAS) is an under-recognized disorder that is a significant cause of late-adult-onset ataxia. The etiology is expansion of a trinucleotide repeat to the premutation range (55-200 CGG repeats) in the fragile X mental retardation 1 (FMR1) gene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21827901/",
+  "mesh_terms": [
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Neuroimaging",
+    "Tremor"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

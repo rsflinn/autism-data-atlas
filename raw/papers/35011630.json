@@ -1,0 +1,48 @@
+{
+  "pmid": "35011630",
+  "doi": "10.3390/cells11010069",
+  "title": "High Throughput Small Molecule Screen for Reactivation ofin Fragile X Syndrome Human Neural Cells",
+  "authors": "Hunt JFV, Li M, Risgaard R, Ananiev GE, Wildman S, Zhang F, et al.",
+  "journal": "Cells",
+  "date": "2021-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most common inherited cause of autism and intellectual disability. The majority of FXS cases are caused by transcriptional repression of thegene due to epigenetic changes that are not recapitulated in current animal disease models. FXS patient induced pluripotent stem cell (iPSC)-derived gene edited reporter cell lines enable novel strategies to discover reactivators ofexpression in human cells on a much larger scale than previously possible. Here, we describe the workflow using FXS iPSC-derived neural cell lines to conduct a massive, unbiased screen for small molecule activators of thegene. The proof-of-principle methodology demonstrates the utility of human stem-cell-based methodology for the untargeted discovery of reactivators of the humangene that can be applied to other diseases.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the most common inherited cause of autism and intellectual disability. The majority of FXS cases are caused by transcriptional repression of thegene due to epigenetic changes that are not recapitulated in current animal disease models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35011630/",
+  "mesh_terms": [
+    "Drug Evaluation, Preclinical",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Genetic Loci",
+    "High-Throughput Screening Assays",
+    "Humans",
+    "Neural Stem Cells",
+    "Neurons",
+    "Reproducibility of Results",
+    "Small Molecule Libraries"
+  ],
+  "keywords": [
+    "FMR1",
+    "drug screen",
+    "fragile X syndrome",
+    "gene reactivation",
+    "human pluripotent stem cells",
+    "small molecule"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

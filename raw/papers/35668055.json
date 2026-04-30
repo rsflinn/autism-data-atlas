@@ -1,0 +1,37 @@
+{
+  "pmid": "35668055",
+  "doi": "10.1038/s41398-022-01997-9",
+  "title": "Rare CACNA1H and RELN variants interact through mTORC1 pathway in oligogenic autism spectrum disorder",
+  "authors": "Teles E Silva AL, Glaser T, Griesi-Oliveira K, Corr&#xea;a-Velloso J, Wang JYT, da Silva Campos G, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "Oligogenic inheritance of autism spectrum disorder (ASD) has been supported by several studies. However, little is known about how the risk variants interact and converge on causative neurobiological pathways. We identified in an ASD proband deleterious compound heterozygous missense variants in the Reelin (RELN) gene, and a de novo splicing variant in the Cav3.2 calcium channel (CACNA1H) gene. Here, by using iPSC-derived neural progenitor cells (NPCs) and a heterologous expression system, we show that the variant in Cav3.2 leads to increased calcium influx into cells, which overactivates mTORC1 pathway and, consequently, further exacerbates the impairment of Reelin signaling. Also, we show that Cav3.2/mTORC1 overactivation induces proliferation of NPCs and that both mutant Cav3.2 and Reelin cause abnormal migration of these cells. Finally, analysis of the sequencing data from two ASD cohorts-a Brazilian cohort of 861 samples, 291 with ASD; the MSSNG cohort of 11,181 samples, 5,102 with ASD-revealed that the co-occurrence of risk variants in both alleles of Reelin pathway genes and in one allele of calcium channel genes confer significant liability for ASD. Our results support the notion that genes with co-occurring deleterious variants tend to have interconnected pathways underlying oligogenic forms of ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Oligogenic inheritance of autism spectrum disorder (ASD) has been supported by several studies. However, little is known about how the risk variants interact and converge on causative neurobiological pathways.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35668055/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Calcium Channels",
+    "Calcium Channels, T-Type",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Mechanistic Target of Rapamycin Complex 1",
+    "Multifactorial Inheritance"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

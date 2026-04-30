@@ -1,0 +1,40 @@
+{
+  "pmid": "39259788",
+  "doi": "10.1126/sciadv.adk3700",
+  "title": "Modeling Lewy body disease withtriplication iPSC-derived cortical organoids and identifying therapeutic drugs",
+  "authors": "Jin Y, Li F, Li Z, Ikezu TC, O'Leary J, Selvaraj M, et al.",
+  "journal": "Science advances",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Aggregated &#x3b1;-synuclein (&#x3b1;-SYN) proteins, encoded by thegene, are hallmarks of Lewy body disease (LBD), affecting multiple brain regions. However, the specific mechanisms underlying &#x3b1;-SYN pathology in cortical neurons, crucial for LBD-associated dementia, remain unclear. Here, we recapitulated &#x3b1;-SYN pathologies in human induced pluripotent stem cells (iPSCs)-derived cortical organoids generated from patients with LBD withgene triplication. Single-cell RNA sequencing, combined with functional and molecular validation, identified synaptic and mitochondrial dysfunction in excitatory neurons exhibiting high expression of thegene, aligning with observations in the cortex of autopsy-confirmed LBD human brains. Furthermore, we screened 1280 Food and Drug Administration-approved drugs and identified four candidates (entacapone, tolcapone, phenazopyridine hydrochloride, and zalcitabine) that inhibited &#x3b1;-SYN seeding activity in real-time quaking-induced conversion assays with human brains, reduced &#x3b1;-SYN aggregation, and alleviated mitochondrial dysfunction intriplication organoids and excitatory neurons. Our findings establish human cortical LBD models and suggest potential therapeutic drugs targeting &#x3b1;-SYN aggregation for LBD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Aggregated &#x3b1;-synuclein (&#x3b1;-SYN) proteins, encoded by thegene, are hallmarks of Lewy body disease (LBD), affecting multiple brain regions. However, the specific mechanisms underlying &#x3b1;-SYN pathology in cortical neurons, crucial for LBD-associated dementia, remain unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39259788/",
+  "mesh_terms": [
+    "Humans",
+    "alpha-Synuclein",
+    "Organoids",
+    "Induced Pluripotent Stem Cells",
+    "Lewy Body Disease",
+    "Mitochondria",
+    "Neurons",
+    "Cerebral Cortex",
+    "Drug Evaluation, Preclinical"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "pmid": "30819258",
+  "doi": "10.1186/s13073-019-0623-0",
+  "title": "De novo and inherited TCF20 pathogenic variants are associated with intellectual disability, dysmorphic features, hypotonia, and neurological impairments with similarities to Smith-Magenis syndrome",
+  "authors": "Vetrini F, McKee S, Rosenfeld JA, Suri M, Lewis AM, Nugent KM, et al.",
+  "journal": "Genome medicine",
+  "date": "2019-02",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders are genetically and phenotypically heterogeneous encompassing developmental delay (DD), intellectual disability (ID), autism spectrum disorders (ASDs), structural brain abnormalities, and neurological manifestations with variants in a large number of genes (hundreds) associated. To date, a few de novo mutations potentially disrupting TCF20 function in patients with ID, ASD, and hypotonia have been reported. TCF20 encodes a transcriptional co-regulator structurally related to RAI1, the dosage-sensitive gene responsible for Smith-Magenis syndrome (deletion/haploinsufficiency) and Potocki-Lupski syndrome (duplication/triplosensitivity).\n\nGenome-wide analyses by exome sequencing (ES) and chromosomal microarray analysis (CMA) identified individuals with heterozygous, likely damaging, loss-of-function alleles in TCF20. We implemented further molecular and clinical analyses to determine the inheritance of the pathogenic variant alleles and studied the spectrum of phenotypes.\n\nWe report 25 unique inactivating single nucleotide variants/indels (1 missense, 1 canonical splice-site variant, 18 frameshift, and 5 nonsense) and 4 deletions of TCF20. The pathogenic variants were detected in 32 patients and 4 affected parents from 31 unrelated families. Among cases with available parental samples, the variants were de novo in 20 instances and inherited from 4 symptomatic parents in 5, including in one set of monozygotic twins. Two pathogenic loss-of-function variants were recurrent in unrelated families. Patients presented with a phenotype characterized by developmental delay, intellectual disability, hypotonia, variable dysmorphic features, movement disorders, and sleep disturbances.\n\nTCF20 pathogenic variants are associated with a novel syndrome manifesting clinical characteristics similar to those observed in Smith-Magenis syndrome. Together with previously described cases, the clinical entity of TCF20-associated neurodevelopmental disorders (TAND) emerges from a genotype-driven perspective.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TCF20"
+  ],
+  "summary": "Neurodevelopmental disorders are genetically and phenotypically heterogeneous encompassing developmental delay (DD), intellectual disability (ID), autism spectrum disorders (ASDs), structural brain abnormalities, and neurological manifestations with variants in a large number of genes (hundreds) associated. To date, a few de novo mutations potentially disrupting TCF20 function in patients with ID, ASD, and hypotonia have been reported.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30819258/",
+  "mesh_terms": [
+    "Adolescent",
+    "Child",
+    "Child, Preschool",
+    "Craniofacial Abnormalities",
+    "Developmental Disabilities",
+    "Female",
+    "Humans",
+    "INDEL Mutation",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Muscle Hypotonia",
+    "Smith-Magenis Syndrome",
+    "Transcription Factors",
+    "Young Adult"
+  ],
+  "keywords": [
+    "22q13",
+    "Deletions",
+    "Haploinsufficiency",
+    "Loss-of-function variants",
+    "Neurodevelopmental disorders",
+    "Smith&#x2013;Magenis syndrome",
+    "TCF20"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

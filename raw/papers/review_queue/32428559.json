@@ -1,0 +1,52 @@
+{
+  "pmid": "32428559",
+  "doi": "10.1016/j.bbadis.2020.165840",
+  "title": "Sexes on the brain: Sex as multiple biological variables in the neuronal control of feeding",
+  "authors": "Massa MG, Correa SM",
+  "journal": "Biochimica et biophysica acta. Molecular basis of disease",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Neuronal interactions at the level of vagal, homeostatic, and hedonic circuitry work to regulate the neuronal control of feeding. This integrative system appears to vary across sex and gender in the animal and human worlds. Most feeding research investigating these variations across sex and gender focus on how the organizational and activational mechanisms of hormones contribute to these differences. However, in limited studies spanning both the central and peripheral nervous systems, sex differences in feeding have been shown to manifest not just at the level of the hormonal, but also at the chromosomal, epigenetic, cellular, and even circuitry levels to alter food intake. In this review, we provide a brief orientation to the current understanding of how these neuronal systems interact before dissecting selected studies from the recent literature to exemplify how feeding physiology at all levels can be affected by the various components of sex.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neuronal interactions at the level of vagal, homeostatic, and hedonic circuitry work to regulate the neuronal control of feeding. This integrative system appears to vary across sex and gender in the animal and human worlds.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32428559/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Eating",
+    "Epigenomics",
+    "Feeding Behavior",
+    "Female",
+    "Homeostasis",
+    "Humans",
+    "Male",
+    "Neurons",
+    "Sex Characteristics",
+    "Sex Chromosomes"
+  ],
+  "keywords": [
+    "Chromosome",
+    "Epigenetic",
+    "Feeding",
+    "Hormone",
+    "Neuronal",
+    "Sex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "35256815",
+  "doi": "10.1038/s41587-022-01231-3",
+  "title": "Single-nuclei isoform RNA sequencing unlocks barcoded exon connectivity in frozen brain tissue",
+  "authors": "Hardwick SA, Hu W, Joglekar A, Fan L, Collier PG, Foord C, et al.",
+  "journal": "Nature biotechnology",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "Single-nuclei RNA sequencing characterizes cell types at the gene level. However, compared to single-cell approaches, many single-nuclei cDNAs are purely intronic, lack barcodes and hinder the study of isoforms. Here we present single-nuclei isoform RNA sequencing (SnISOr-Seq). Using microfluidics, PCR-based artifact removal, target enrichment and long-read sequencing, SnISOr-Seq increased barcoded, exon-spanning long reads 7.5-fold compared to naive long-read single-nuclei sequencing. We applied SnISOr-Seq to adult human frontal cortex and found that exons associated with autism exhibit coordinated and highly cell-type-specific inclusion. We found two distinct combination patterns: those distinguishing neural cell types, enriched in TSS-exon, exon-polyadenylation-site and non-adjacent exon pairs, and those with multiple configurations within one cell type, enriched in adjacent exon pairs. Finally, we observed that human-specific exons are almost as tightly coordinated as conserved exons, implying that coordination can be rapidly established during evolution. SnISOr-Seq enables cell-type-specific long-read isoform analysis in human brain and in any frozen or hard-to-dissociate sample.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Single-nuclei RNA sequencing characterizes cell types at the gene level. However, compared to single-cell approaches, many single-nuclei cDNAs are purely intronic, lack barcodes and hinder the study of isoforms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35256815/",
+  "mesh_terms": [
+    "Alternative Splicing",
+    "Brain",
+    "Exons",
+    "Humans",
+    "Protein Isoforms",
+    "RNA",
+    "Sequence Analysis, RNA"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

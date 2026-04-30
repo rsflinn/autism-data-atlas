@@ -1,0 +1,40 @@
+{
+  "pmid": "28721467",
+  "doi": "10.1007/s40272-017-0248-y",
+  "title": "A Review of the Safety, Efficacy and Mechanisms of Delivery of Nasal Oxytocin in Children: Therapeutic Potential for Autism and Prader-Willi Syndrome, and Recommendations for Future Research",
+  "authors": "DeMayo MM, Song YJC, Hickie IB, Guastella AJ",
+  "journal": "Paediatric drugs",
+  "date": "2017-10",
+  "source": "pubmed",
+  "abstract": "In this article, we conduct a comprehensive review of&#xa0;existing evidence for the&#xa0;safety and therapeutic potential of intranasal oxytocin in pediatric populations. Unique considerations for dosing and delivery of oxytocin to the nasal passageway in pediatric populations and methods to promote adherence are reviewed. Intranasal oxytocin has been administered to 261 children in three open-label studies and eight randomized controlled trials. To date, the only published results in pediatric populations have focused on autism spectrum disorder (ASD) and Prader-Willi syndrome (PWS). Results regarding efficacy for improving social impairment in ASD are equivocal, partially due to mixed methodological designs, dosing regimens, and outcome measures. At present, there is no randomized controlled evidence that oxytocin provides benefit to individuals with PWS. There is no clear evidence of a link between oxytocin administration and any specific adverse event. Adverse events have been assessed using medical interviews, open reports, checklists, and physiological assessments. Adverse events reports have been largely classified as mild (n&#xa0;=&#xa0;93), with few moderate (n&#xa0;=&#xa0;9) or severe (n&#xa0;=&#xa0;3) events reported. There were 35 additional adverse events reported, without severity ratings. Severe events, hyperactivity and irritability, occurred at first administration in both placebo and oxytocin groups, and subsided subsequent to discontinuation. We note that adverse event monitoring is inconsistent and often lacking, and reporting of its relationship to the study drug is poor. Only one study reported adherence data to suggest high adherence. Recommendations are then&#xa0;provided for the delivery of nasal sprays to the nasal passageway, monitoring, and reporting of efficacy, safety, and adherence for oxytocin nasal spray trials in pediatric populations.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "In this article, we conduct a comprehensive review of&#xa0;existing evidence for the&#xa0;safety and therapeutic potential of intranasal oxytocin in pediatric populations. Unique considerations for dosing and delivery of oxytocin to the nasal passageway in pediatric populations and methods to promote adherence are reviewed.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28721467/",
+  "mesh_terms": [
+    "Administration, Intranasal",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Humans",
+    "Medication Adherence",
+    "Nasal Sprays",
+    "Oxytocin",
+    "Prader-Willi Syndrome",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

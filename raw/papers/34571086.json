@@ -1,0 +1,44 @@
+{
+  "pmid": "34571086",
+  "doi": "10.1016/j.neuroscience.2021.09.013",
+  "title": "The Potential Role of AMPA Receptor Trafficking in Autism and Other Neurodevelopmental Conditions",
+  "authors": "Niescier RF, Lin YC",
+  "journal": "Neuroscience",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is a multifaceted condition associated with difficulties in social interaction and communication. It also shares several comorbidities with other neurodevelopmental conditions. Intensive research examining the molecular basis and characteristics of ASD has revealed an association with a large number and variety of low-penetrance genes. Many of the variants associated with ASD are in genes underlying pathways involved in long-term potentiation (LTP) or depression (LTD). These mechanisms then control the tuning of neuronal connections in response to experience by modifying and trafficking ionotropic glutamate receptors at the post-synaptic areas. Despite the high genetic heterogeneity in ASD, surface trafficking of the &#x3b1;-amino-3-hydroxy-5-Methyl-4-isoxazolepropionate (AMPA) receptor is a vulnerable pathway in ASD. In this review, we discuss autism-related alterations in the trafficking of AMPA receptors, whose surface density and composition at the post-synapse determine the strength of the excitatory connection between neurons. We highlight genes associated with neurodevelopmental conditions that share the autism comorbidity, including Fragile X syndrome, Rett Syndrome, and Tuberous Sclerosis, as well as the autism-risk genes NLGNs, IQSEC2, DOCK4, and STXBP5, all of which are involved in regulating AMPAR trafficking to the post-synaptic surface.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is a multifaceted condition associated with difficulties in social interaction and communication. It also shares several comorbidities with other neurodevelopmental conditions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34571086/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Long-Term Potentiation",
+    "Receptors, AMPA",
+    "Synapses"
+  ],
+  "keywords": [
+    "AMPA receptor",
+    "autism",
+    "receptor trafficking",
+    "small RhoGTPase",
+    "synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

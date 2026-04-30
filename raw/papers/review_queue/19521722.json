@@ -1,0 +1,38 @@
+{
+  "pmid": "19521722",
+  "doi": "10.1007/s00439-009-0703-0",
+  "title": "Genetics of psychosis; insights from views across the genome",
+  "authors": "O'Donovan MC, Craddock NJ, Owen MJ",
+  "journal": "Human genetics",
+  "date": "2009-06",
+  "source": "pubmed",
+  "abstract": "The major psychotic illnesses, schizophrenia and bipolar disorder (BD), are among the most heritable common disorders, but finding specific susceptibility genes for them has not been straightforward. The reasons are widely assumed to include lack of valid phenotypic definition, absence of good theories of pathophysiology for candidate gene studies, and the involvement of many genes, each making small contributions to population risk. Within the last year or so, a number of genome wide association (GWAS) of schizophrenia and BD have been published. These have produced stronger evidence for association to specific risk loci than have earlier studies, specifically for the zinc finger binding protein 804A (ZNF804A) locus in schizophrenia and for the calcium channel, voltage-dependent, L type, alpha 1C subunit (CACNA1C) and ankyrin 3, node of Ranvier (ANK3) loci in bipolar disorder. The ZNF804A and CACNA1C loci appear to influence risk for both disorders, a finding that supports the hypothesis that schizophrenia and BD are not aetiologically distinct. In the case of schizophrenia, a number of rare copy number variants have also been detected that have fairly large effect sizes on disease risk, and that additionally influence risk of autism, mental retardation, and other neurodevelopmental disorders. The existing findings point to some likely pathophysiological mechanisms but also challenge current concepts of disease classification. They also provide grounds for optimism that larger studies will reveal more about the origins of these disorders, although currently, very little of the genetic risk of either disorder is explained.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CACNA1C"
+  ],
+  "summary": "The major psychotic illnesses, schizophrenia and bipolar disorder (BD), are among the most heritable common disorders, but finding specific susceptibility genes for them has not been straightforward. The reasons are widely assumed to include lack of valid phenotypic definition, absence of good theories of pathophysiology for candidate gene studies, and the involvement of many genes, each making small contributions to population risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19521722/",
+  "mesh_terms": [
+    "Bipolar Disorder",
+    "Genome, Human",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Psychotic Disorders",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "39395123",
+  "doi": "10.1007/s10803-024-06557-2",
+  "title": "Autism Spectrum Disorder Symptom Profiles in Fragile X Syndrome, Angelman Syndrome, Tuberous Sclerosis Complex and Neurofibromatosis Type 1",
+  "authors": "Lubbers K, Hiralal KR, Dieleman GC, Hagenaar DA, Dierckx B, Legerstee JS, et al.",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Studying Autism Spectrum Disorder (ASD) heterogeneity in biologically homogeneous samples may increase our knowledge of ASD etiology. Fragile X syndrome (FXS), Angelman syndrome (AS), Tuberous Sclerosis Complex (TSC), and Neurofibromatosis type 1 (NF1) are monogenic disorders with high a prevalence of ASD symptomatology. This study aimed to identify ASD symptom profiles in a large group of children and adolescents (0;9-28 years) with FXS, AS, TSC, and NF1. Data on ASD symptomatology (Autism Diagnostic Observation Scale (ADOS-2) & Social Responsiveness Scale (SRS-2)) were collected from children and adolescents with FXS (n&#x2009;=&#x2009;54), AS (n&#x2009;=&#x2009;93), TSC (n&#x2009;=&#x2009;112), and NF1 (n&#x2009;=&#x2009;278). To identify groups of individuals with similar ASD profiles, we performed two latent profile analyses. We identified a four-profile model based on the ADOS-2, with a (1) 'Non-spectrum symptom profile', (2) 'Social Affect symptom profile', (3)'Restricted/Repetitive Behaviors symptom profile', and (4)'ASD symptom profile'. We also identified a four-profile model based on the SRS, with a (1)'Non-clinical symptom profile', (2)'Mild symptom profile', (3)'Moderate symptom profile', and (4)'Severe symptom profile'. Although each syndrome group exhibited varying degrees of severity, they also displayed heterogeneity in the profiles in which they were classified. We found distinct ASD symptom profiles in a population consisting of children and adolescents with FXS, AS, TSC, and NF1. Our study highlights the importance of a personalized approach to the identification and management of ASD symptoms in rare genetic syndromes. Future studies should aim to include more domains of functioning and investigate the stability of latent profiles over time.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Studying Autism Spectrum Disorder (ASD) heterogeneity in biologically homogeneous samples may increase our knowledge of ASD etiology. Fragile X syndrome (FXS), Angelman syndrome (AS), Tuberous Sclerosis Complex (TSC), and Neurofibromatosis type 1 (NF1) are monogenic disorders with high a prevalence of ASD symptomatology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39395123/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis",
+    "Autism Spectrum Disorder",
+    "Adolescent",
+    "Child",
+    "Fragile X Syndrome",
+    "Angelman Syndrome",
+    "Neurofibromatosis 1",
+    "Male",
+    "Female",
+    "Child, Preschool",
+    "Young Adult",
+    "Adult",
+    "Infant"
+  ],
+  "keywords": [
+    "Angelman syndrome",
+    "Autism spectrum disorder",
+    "Fragile X syndrome",
+    "Latent profile analysis",
+    "Neurofibromatosis type 1",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

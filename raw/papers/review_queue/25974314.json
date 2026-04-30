@@ -1,0 +1,52 @@
+{
+  "pmid": "25974314",
+  "doi": "10.1517/14712598.2015.1045871",
+  "title": "Neurogenetics and gene therapy for reward deficiency syndrome: are we going to the Promised Land?",
+  "authors": "Blum K, Thanos PK, Badgaiyan RD, Febo M, Oscar-Berman M, Fratantonio J, et al.",
+  "journal": "Expert opinion on biological therapy",
+  "date": "2015-05",
+  "source": "pubmed",
+  "abstract": "Addiction is a substantial health issue with limited treatment options approved by the FDA and as such currently available. The advent of neuroimaging techniques that link neurochemical and neurogenetic mechanisms to the reward circuitry brain function provides a framework for potential genomic-based therapies.\n\nThrough candidate and genome-wide association studies approaches, many gene polymorphisms and clusters have been implicated in drug, food and behavioral dependence linked by the common rubric reward deficiency syndrome (RDS). The results of selective studies that include the role of epigenetics, noncoding micro RNAs in RDS behaviors especially drug abuse involving alcohol, opioids, cocaine, nicotine, pain and feeding are reviewed in this article. New targets for addiction treatment and relapse prevention, treatment alternatives such as gene therapy in animal models, and pharmacogenomics and nutrigenomics methods to manipulate transcription and gene expression are explored.\n\nThe recognition of the clinical benefit of early genetic testing to determine addiction risk stratification and dopaminergic agonistic, rather than antagonistic therapies are potentially the genomic-based wave of the future. In addition, further development, especially in gene transfer work and viral vector identification, could make gene therapy for RDS a possibility in the future.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Addiction is a substantial health issue with limited treatment options approved by the FDA and as such currently available. The advent of neuroimaging techniques that link neurochemical and neurogenetic mechanisms to the reward circuitry brain function provides a framework for potential genomic-based therapies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25974314/",
+  "mesh_terms": [
+    "Animals",
+    "Behavior, Addictive",
+    "Disease Models, Animal",
+    "Epigenomics",
+    "Genetic Therapy",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Neuroimaging",
+    "Neuronal Plasticity",
+    "Polymorphism, Genetic",
+    "RNA, Untranslated",
+    "Substance-Related Disorders"
+  ],
+  "keywords": [
+    "antisense",
+    "gene therapy",
+    "gene transfer",
+    "hypodopaminergic",
+    "neurogenetics",
+    "neuroimaging",
+    "reward deficiency syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

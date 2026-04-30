@@ -1,0 +1,53 @@
+{
+  "pmid": "29722793",
+  "doi": "10.1093/brain/awy111",
+  "title": "Autism-associated 16p11.2 microdeletion impairs prefrontal functional connectivity in mouse and human",
+  "authors": "Bertero A, Liska A, Pagani M, Parolisi R, Masferrer ME, Gritti M, et al.",
+  "journal": "Brain : a journal of neurology",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Human genetic studies are rapidly identifying variants that increase risk for neurodevelopmental disorders. However, it remains unclear how specific mutations impact brain function and contribute to neuropsychiatric risk. Chromosome 16p11.2 deletion is one of the most common copy number variations in autism and related neurodevelopmental disorders. Using resting state functional MRI data from the Simons Variation in Individuals Project (VIP) database, we show that 16p11.2 deletion carriers exhibit impaired prefrontal connectivity, resulting in weaker long-range functional coupling with temporal-parietal regions. These functional changes are associated with socio-cognitive impairments. We also document that a mouse with the same genetic deficiency exhibits similarly diminished prefrontal connectivity, together with thalamo-prefrontal miswiring and reduced long-range functional synchronization. These results reveal a mechanistic link between specific genetic risk for neurodevelopmental disorders and long-range functional coupling, and suggest that deletion in 16p11.2 may lead to impaired socio-cognitive function via dysregulation of prefrontal connectivity.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Human genetic studies are rapidly identifying variants that increase risk for neurodevelopmental disorders. However, it remains unclear how specific mutations impact brain function and contribute to neuropsychiatric risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29722793/",
+  "mesh_terms": [
+    "Adolescent",
+    "Animals",
+    "Autistic Disorder",
+    "Child",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Cognition",
+    "Cognitive Dysfunction",
+    "DNA Copy Number Variations",
+    "Disease Models, Animal",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Membrane Potentials",
+    "Mice",
+    "Mice, Knockout",
+    "Nerve Net",
+    "Neurodevelopmental Disorders",
+    "Prefrontal Cortex",
+    "Temporal Lobe"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

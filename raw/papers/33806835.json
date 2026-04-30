@@ -1,0 +1,52 @@
+{
+  "pmid": "33806835",
+  "doi": "10.3390/ijms22063261",
+  "title": "Single-Cell Transcriptomics Supports a Role ofin Autism",
+  "authors": "Hoffmann A, Spengler D",
+  "journal": "International journal of molecular sciences",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Chromodomain helicase domain 8 () is one of the most frequently mutated and most penetrant genes in the autism spectrum disorder (ASD). Individuals withmutations show leading symptoms of autism, macrocephaly, and facial dysmorphisms. The molecular and cellular mechanisms underpinning the early onset and development of these symptoms are still poorly understood and prevent timely and more efficient therapies of patients. Progress in this area will require an understanding of \"when, why and how cells deviate from their normal trajectories\". High-throughput single-cell RNA sequencing (sc-RNAseq) directly quantifies information-bearing RNA molecules that enact each cell's biological identity. Here, we discuss recent insights from sc-RNAseq of CRISPR/Cas9-editing ofduring mouse neocorticogenesis and human cerebral organoids. Given that the deregulation of the balance between excitation and inhibition (E/I balance) in cortical and subcortical circuits is thought to represent a major etiopathogenetic mechanism in ASD, we focus on the question of whether, and to what degree, results from current sc-RNAseq studies support this hypothesis. Beyond that, we discuss the pros and cons of these approaches and further steps to be taken to harvest the full potential of these transformative techniques.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Chromodomain helicase domain 8 () is one of the most frequently mutated and most penetrant genes in the autism spectrum disorder (ASD). Individuals withmutations show leading symptoms of autism, macrocephaly, and facial dysmorphisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33806835/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "DNA-Binding Proteins",
+    "Disease Susceptibility",
+    "Gene Expression Profiling",
+    "Gene Expression Regulation",
+    "Gene Regulatory Networks",
+    "Humans",
+    "Mutation",
+    "Neurogenesis",
+    "Single-Cell Analysis",
+    "Transcription Factors",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "ASD",
+    "CHD8",
+    "CRISPR/Cas9 editing",
+    "cerebral organoids",
+    "excitatory/inhibitory imbalance",
+    "neocorticogenesis",
+    "single-cell sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

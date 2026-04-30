@@ -1,0 +1,41 @@
+{
+  "pmid": "29704597",
+  "doi": "10.1016/j.bbr.2018.04.042",
+  "title": "Modelling fragile X syndrome in the laboratory setting: A behavioral perspective",
+  "authors": "Melancia F, Trezza V",
+  "journal": "Behavioural brain research",
+  "date": "2018-04",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome is the most common form of inherited mental retardation and the most frequent monogenic cause of syndromic autism spectrum disorders. The syndrome is caused by the loss of the Fragile X Mental Retardation Protein (FMRP), a key RNA-binding protein involved in synaptic plasticity and neuronal morphology. Patients show intellectual disability, social deficits, repetitive behaviors and impairments in social communication. The aim of this review is to outline the importance of behavioral phenotyping of animal models of FXS from a developmental perspective, by showing how the behavioral characteristics of FXS at the clinical level can be translated into effective, developmentally-specific and clinically meaningful behavioral readouts in the laboratory setting. After introducing the behavioral features, diagnostic criteria and off-label pharmacotherapy of FXS, we outline how FXS-relevant behavioral features can be modelled in laboratory animals in the course of development: we review the progress to date, discuss how behavioral phenotyping in animal models of FXS is essential to identify potential treatments, and discuss caveats and future directions in this research field.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome is the most common form of inherited mental retardation and the most frequent monogenic cause of syndromic autism spectrum disorders. The syndrome is caused by the loss of the Fragile X Mental Retardation Protein (FMRP), a key RNA-binding protein involved in synaptic plasticity and neuronal morphology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29704597/",
+  "mesh_terms": [
+    "Animals",
+    "Behavior, Animal",
+    "Disease Models, Animal",
+    "Fragile X Syndrome"
+  ],
+  "keywords": [
+    "Animal models",
+    "Behavior",
+    "Behavioral phenotyping",
+    "Fmr1-KO",
+    "Fragile X syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

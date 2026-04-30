@@ -1,0 +1,28 @@
+{
+  "pmid": "27651971",
+  "doi": "10.1155/2016/2053804",
+  "title": "Severe Primary Raynaud's Disease Treated with Rituximab",
+  "authors": "Shabrawishi M, Albeity A, Almoallim H",
+  "journal": "Case reports in rheumatology",
+  "date": "2016-08",
+  "source": "pubmed",
+  "abstract": "Raynaud's phenomenon refers to reversible spasms of the peripheral arterioles that can be primary Raynaud's phenomenon (PRP) or secondary Raynaud's phenomenon (SRP) to underlying connective tissue disease, both of which are characterized by a triphasic color response triggered by cold exposure or stress. PRP is typically a benign disease, whereas SRP may progress into digital ulcers and/or gangrene. Here, we report a case of a 55-year-old female diagnosed with PRP 7 years ago. Treatment with first-line agents, including calcium channel blocker, aspirin, and phosphodiesterase inhibitor, did not control her symptoms, which progressed to digital ulceration and gangrene. There were no symptoms of underlying autoimmune disease or malignancy, and autoimmune, serology, and immunology test results were normal; a biopsy of her left little finger was negative for vasculitis. Development to critical digital ischemia necessitated treatment with intravenous iloprost and heparin infusion followed by angioplasty, which led to a partial improvement. Due to persistent symptoms, rituximab therapy was initiated and two cycles induced a complete resolution of symptoms.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Raynaud's phenomenon refers to reversible spasms of the peripheral arterioles that can be primary Raynaud's phenomenon (PRP) or secondary Raynaud's phenomenon (SRP) to underlying connective tissue disease, both of which are characterized by a triphasic color response triggered by cold exposure or stress. PRP is typically a benign disease, whereas SRP may progress into digital ulcers and/or gangrene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27651971/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

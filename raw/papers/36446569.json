@@ -1,0 +1,43 @@
+{
+  "pmid": "36446569",
+  "doi": "10.1523/ENEURO.0230-22.2022",
+  "title": "Juvenile Shank3 KO Mice Adopt Distinct Hunting Strategies during Prey Capture Learning",
+  "authors": "Groves Kuhnle C, Grimes M, Su&#xe1;rez Casanova VM, Turrigiano GG, Van Hooser SD",
+  "journal": "eNeuro",
+  "date": "2022-12",
+  "source": "pubmed",
+  "abstract": "Mice are opportunistic omnivores that readily learn to hunt and eat insects such as crickets. The details of how mice learn these behaviors and how these behaviors may differ in strains with altered neuroplasticity are unclear. We quantified the behavior of juvenile wild-type (WT) and Shank3 knock-out (KO) mice as they learned to hunt crickets during the critical period for ocular dominance plasticity. This stage involves heightened cortical plasticity including homeostatic synaptic scaling, which requires Shank3, a glutamatergic synaptic protein that, when mutated, produces Phelan-McDermid syndrome and is often comorbid with autism spectrum disorder (ASD). Both strains showed interest in examining live and dead crickets and learned to hunt. Shank3 knock-out mice took longer to become proficient, and, after 5&#x2009;d, did not achieve the efficiency of wild-type mice in either time-to-capture or distance-to-capture. Shank3 knock-out mice also exhibited different characteristics when pursuing crickets that could not be explained by a simple motor deficit. Although both genotypes moved at the same average speed when approaching a cricket, Shank3 KO mice paused more often, did not begin final accelerations toward crickets as early, and did not close the distance gap to the cricket as quickly as wild-type mice. These differences in Shank3 KO mice are reminiscent of some behavioral characteristics of individuals with ASD as they perform complex tasks, such as slower action initiation and completion. This paradigm will be useful for exploring the neural circuit mechanisms that underlie these learning and performance differences in monogenic ASD rodent models.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Mice are opportunistic omnivores that readily learn to hunt and eat insects such as crickets. The details of how mice learn these behaviors and how these behaviors may differ in strains with altered neuroplasticity are unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36446569/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Learning",
+    "Mice, Knockout",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins",
+    "Predatory Behavior"
+  ],
+  "keywords": [
+    "autism",
+    "behavior",
+    "learning",
+    "synaptic scaling"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "32151694",
+  "doi": "10.1016/j.pnpbp.2020.109912",
+  "title": "Vitamin D polygenic score is associated with neuroticism and the general psychopathology factor",
+  "authors": "Avinun R, Romer AL, Israel S",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Vitamin D, used here to refer to both 25-hydroxyvitamin D, the main circulating form of the vitamin, and 1,25-hydroxyvitamin D, the biologically active form, has been shown to influence brain development and function. Consistent with these findings, low levels of vitamin D have been implicated in various mental disorders, including depression, schizophrenia, and autism. Recently, a shared variance across multiple categories of mental health disorders has been identified and shown to be genetically influenced. This shared variance, thought to represent a general risk for psychopathology, has been termed the p factor. Individuals with high p factor scores are characterized by high neuroticism and low agreeableness and conscientiousness. Here, we investigated the links between vitamin D polygenic scores - derived from the latest genome-wide association study of circulating vitamin D (25-hydroxyvitamin D) levels - the Big Five personality traits (neuroticism, agreeableness, conscientiousness, openness-to-experience, and extraversion), and the p factor, in a sample of 522 (278 women, mean age 20&#xa0;&#xb1;&#xa0;1&#xa0;years) non-Hispanic Caucasians. Vitamin D polygenic scores were significantly and negatively associated with neuroticism and the p factor, even after correcting for multiple comparisons, and controlling for sex, age, ancestry, socioeconomic status, and body mass index. Based on previous research implicating neuroticism as a risk factor for psychopathology, mediation was tested. Results showed a significant indirect effect from the vitamin D polygenic score to the p factor via neuroticism. Our findings support a genetic link between vitamin D levels, neuroticism, and the p factor, but due to the cross-sectional nature of our data, future studies are needed to clarify the causal associations between these phenotypes.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Vitamin D, used here to refer to both 25-hydroxyvitamin D, the main circulating form of the vitamin, and 1,25-hydroxyvitamin D, the biologically active form, has been shown to influence brain development and function. Consistent with these findings, low levels of vitamin D have been implicated in various mental disorders, including depression, schizophrenia, and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32151694/",
+  "mesh_terms": [
+    "Adolescent",
+    "Biomarkers",
+    "Cross-Sectional Studies",
+    "Female",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Neuroticism",
+    "Self Report",
+    "Vitamin D",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Cross-disorder",
+    "General psychopathology factor",
+    "Neuroticism",
+    "Personality",
+    "The p factor",
+    "Vitamin D"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

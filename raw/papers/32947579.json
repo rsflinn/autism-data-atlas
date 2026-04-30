@@ -1,0 +1,41 @@
+{
+  "pmid": "32947579",
+  "doi": "10.1097/DBP.0000000000000850",
+  "title": "Double Genetic Hit: Fragile X Syndrome and Partial Deletion of Protein Patched Homolog 1 Antisense as Cause of Severe Autism Spectrum Disorder",
+  "authors": "Saldarriaga W, Pay&#xe1;n-G&#xf3;mez C, Gonz&#xe1;lez-Teshima LY, Rosa L, Tassone F, Hagerman RJ",
+  "journal": "Journal of developmental and behavioral pediatrics : JDBP",
+  "date": "2020-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is an X-linked genetic disorder caused by the absence of the fragile X mental retardation 1 protein. FXS is the most common inherited cause of intellectual disability and autism spectrum disorder (ASD). Approximately 60% of subjects with FXS present with ASD, and 2% to 4% of individuals diagnosed with ASD have FXS. Most individuals with ASD have a genetic disorder, so detailed molecular testing of individuals with ASD is medically indicated. Deletions of the protein patched homolog 1 antisense (PTCHD1-AS) gene have been associated with ASD. Here, we describe, for the first time, a boy with FXS because of a point mutation in the FMR1 gene and autism, and the latter comorbidity of ASD is likely because of a deletion of PTCHD1-AS. Thus, the observed phenotype of FXS with severe autism symptoms is likely caused by a double hit of genetic mutations.\n\nThe case is a 5-year-old boy with phenotypic characteristics of FXS. The psychological assessment based on parent report and the Autism Diagnostic Observation Schedule, Second Edition identified severe difficulties on every item of the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition diagnostic criteria for ASD, with language impairment, anxiety, attention, and affective problems. Exome sequencing identified a de novo pathogenic variant in the FMR1 gene c.229delT (p.Cys77Alafs*5) and, coupled with comparative genomic hybridization, also diagnosed a maternally inherited partial deletion of the PTCHD1-AS gene.\n\nFragile X syndrome presents with clinical features in virtually all affected men, predominantly intellectual disability. However, there are other comorbidities present in a subset of patients, including ASD. We propose that the variable expressivity in FXS could be partially explained by the additive effect of a second genetic mutation that increases the individual susceptibility to the unique phenotypic findings, as is the case of the patient described here.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is an X-linked genetic disorder caused by the absence of the fragile X mental retardation 1 protein. FXS is the most common inherited cause of intellectual disability and autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32947579/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Comparative Genomic Hybridization",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Patched-1 Receptor"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

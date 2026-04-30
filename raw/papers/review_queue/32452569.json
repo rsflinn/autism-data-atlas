@@ -1,0 +1,50 @@
+{
+  "pmid": "32452569",
+  "doi": "10.1111/jne.12860",
+  "title": "Epigenomic control of gonadotrophin-releasing hormone neurone development and hypogonadotrophic hypogonadism",
+  "authors": "Linscott ML, Chung WCJ",
+  "journal": "Journal of neuroendocrinology",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Mammalian reproductive success depends on gonadotrophin-releasing hormone (GnRH) neurones to stimulate gonadotrophin secretion from the anterior pituitary and activate gonadal steroidogenesis and gametogenesis. Genetic screening studies in patients diagnosed with Kallmann syndrome (KS), a congenital form of hypogonadotrophic hypogonadism (CHH), identified several causal mutations, including those in the fibroblast growth factor (FGF) system. This signalling pathway regulates neuroendocrine progenitor cell proliferation, fate specification and cell survival. Indeed, the GnRH neurone system was absent or abrogated in transgenic mice with reduced (ie, hypomorphic) Fgf8 and/or Fgf receptor (Fgfr) 1 expression, respectively. Moreover, we found that GnRH neurones were absent in the embryonic olfactory placode of Fgf8 hypomorphic mice, the putative birthplace of GnRH neurones. These observations, together with those made in human KS/CHH patients, indicate that the FGF8/FGFR1 signalling system is a requirement for the ontogenesis of the GnRH neuronal system and function. In this review, we discuss how epigenetic factors control the expression of genes such as Fgf8 that are known to be critical for GnRH neurone ontogenesis, fate specification, and the pathogenesis of KS/CHH.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Mammalian reproductive success depends on gonadotrophin-releasing hormone (GnRH) neurones to stimulate gonadotrophin secretion from the anterior pituitary and activate gonadal steroidogenesis and gametogenesis. Genetic screening studies in patients diagnosed with Kallmann syndrome (KS), a congenital form of hypogonadotrophic hypogonadism (CHH), identified several causal mutations, including those in the fibroblast growth factor (FGF) system.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32452569/",
+  "mesh_terms": [
+    "Animals",
+    "Epigenesis, Genetic",
+    "Epigenomics",
+    "Fibroblast Growth Factors",
+    "Gonadotropin-Releasing Hormone",
+    "Humans",
+    "Hypogonadism",
+    "Mice",
+    "Mice, Transgenic",
+    "Neurogenesis",
+    "Neurons",
+    "Receptor, Fibroblast Growth Factor, Type 1",
+    "Signal Transduction"
+  ],
+  "keywords": [
+    "congenital hypogonadotrophic hypogonadism",
+    "development",
+    "epigenetics",
+    "fibroblast growth factors",
+    "infertility"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

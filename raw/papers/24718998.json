@@ -1,0 +1,55 @@
+{
+  "pmid": "24718998",
+  "doi": "10.1002/ajmg.a.36573",
+  "title": "Autism traits in children and adolescents with Cornelia de Lange syndrome",
+  "authors": "Srivastava S, Landy-Schmitt C, Clark B, Kline AD, Specht M, Grados MA",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2014-04",
+  "source": "pubmed",
+  "abstract": "Cornelia de Lange syndrome (CdLS) is a cohesinopathy causing delayed growth and limb deficits. Individuals with CdLS have mild to profound intellectual disability and autistic features. This study characterizes the behavioral phenotype of children with CdLS, focusing on autistic features, maladaptive behaviors, and impact of age. Children with CdLS (5-18 years) were administered normed instruments to characterize autism features (Childhood Autism Rating Scale, CARS), maladaptive behaviors (Aberrant Behavior Checklist), and adaptive skills (Vineland Adaptive Behaviors Scales). CdLS features and severity were rated with Diagnostic Criteria for CdLS. Forty-one children with CdLS (23 females, 18 males) were classified as having \"no autism\" (n = 7; 17.1%), \"mild autism\" (n = 17; 41.4%), and \"severe autism\" (n = 17; 41.4%), using CARS scores. Characteristic items were abnormal emotional response, stereotypies, odd object use, rigidity, lack of verbal communication, and low intellectual functioning. Verbal communication deficits and repetitive behaviors were higher compared to sensory, social cognition, and behavior abnormalities (P &#x2264; 0.0001). Maladaptive behaviors associated with autism traits were stereotypies (P = 0.003), hyperactivity (P = 0.01), and lethargy (P = 0.03). Activities of daily living were significantly affected; socialization adaptive skills were a relative strength. However, with advancing age, both socialization (P < 0.0001) and communication (P = 0.001) domains declined significantly. CdLS is characterized by autistic features, notably excessive repetitive behaviors and expressive language deficits. While other adaptive skills are impacted, socialization adaptive skills are less affected. Advancing age can worsen communication and socialization deficits relative to neurotypical peers.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Cornelia de Lange syndrome (CdLS) is a cohesinopathy causing delayed growth and limb deficits. Individuals with CdLS have mild to profound intellectual disability and autistic features.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24718998/",
+  "mesh_terms": [
+    "Activities of Daily Living",
+    "Adolescent",
+    "Autistic Disorder",
+    "Cell Cycle Proteins",
+    "Child",
+    "Child Behavior Disorders",
+    "Child, Preschool",
+    "Chromosomal Proteins, Non-Histone",
+    "Communication Disorders",
+    "De Lange Syndrome",
+    "Female",
+    "Humans",
+    "Lethargy",
+    "Male",
+    "Psychomotor Agitation",
+    "Social Behavior",
+    "Socialization",
+    "Cohesins"
+  ],
+  "keywords": [
+    "Cornelia de Lange syndrome",
+    "autism",
+    "behavioral phenotype",
+    "communication",
+    "repetitive behaviors",
+    "social cognition"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

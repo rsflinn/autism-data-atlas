@@ -1,0 +1,62 @@
+{
+  "pmid": "31649809",
+  "doi": "10.1186/s13229-019-0286-0",
+  "title": "Disruption of PHF21A causes syndromic intellectual disability with craniofacial anomalies, epilepsy, hypotonia, and neurobehavioral problems including autism",
+  "authors": "Kim HG, Rosenfeld JA, Scott DA, B&#xe9;n&#xe9;dicte G, Labonne JD, Brown J, et al.",
+  "journal": "Molecular autism",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "has been associated with intellectual disability and craniofacial anomalies based on its deletion in the Potocki-Shaffer syndrome region at 11p11.2 and its disruption in three patients with balanced translocations. In addition, three patients with de novo truncating mutations inwere reported recently. Here, we analyze genomic data from seven unrelated individuals with mutations inand provide detailed clinical descriptions, further expanding the phenotype associated with PHF21A haploinsufficiency.\n\nDiagnostic trio whole exome sequencing, Sanger sequencing, use of GeneMatcher, targeted gene panel sequencing, and MiSeq sequencing techniques were used to identify and confirm variants. RT-qPCR was used to measure the normal expression pattern ofin multiple human tissues including 13 different brain tissues. Protein-DNA modeling was performed to substantiate the pathogenicity of the missense mutation.\n\nWe have identified seven heterozygous coding mutations, among which six are de novo (not maternal in one). Mutations include four frameshifts, one nonsense mutation in two patients, and one heterozygous missense mutation in the AT Hook domain, predicted to be deleterious and likely to cause loss of PHF21A function. We also found a new C-terminal domain composed of an intrinsically disordered region. This domain is truncated in six patients and thus likely to play an important role in the function of PHF21A, suggesting that haploinsufficiency is the likely underlying mechanism in the phenotype of seven patients. Our results extend the phenotypic spectrum ofmutations by adding autism spectrum disorder, epilepsy, hypotonia, and neurobehavioral problems. Furthermore,is highly expressed in the human fetal brain, which is consistent with the neurodevelopmental phenotype.\n\nDeleterious nonsense, frameshift, and missense mutations disrupting the AT Hook domain and/or an intrinsically disordered region in PHF21A were found to be associated with autism spectrum disorder, epilepsy, hypotonia, neurobehavioral problems, tapering fingers, clinodactyly, and syndactyly, in addition to intellectual disability and craniofacial anomalies. This suggests thatis involved in autism spectrum disorder and intellectual disability, and its haploinsufficiency causes a diverse neurological phenotype.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "has been associated with intellectual disability and craniofacial anomalies based on its deletion in the Potocki-Shaffer syndrome region at 11p11.2 and its disruption in three patients with balanced translocations. In addition, three patients with de novo truncating mutations inwere reported recently.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31649809/",
+  "mesh_terms": [
+    "Adolescent",
+    "Amino Acid Sequence",
+    "Autistic Disorder",
+    "Behavior",
+    "Brain",
+    "Child",
+    "Child, Preschool",
+    "Craniofacial Abnormalities",
+    "Epilepsy",
+    "Female",
+    "Histone Deacetylases",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Intellectual Disability",
+    "Male",
+    "Muscle Hypotonia",
+    "Mutation",
+    "Protein Domains",
+    "RNA, Messenger",
+    "Syndrome"
+  ],
+  "keywords": [
+    "AT Hook domain",
+    "Autism spectrum disorder (ASD)",
+    "BHC80",
+    "Intellectual disability (ID)",
+    "Intrinsically disordered region (IDR)",
+    "KDM1A",
+    "Neurodevelopmental disorders",
+    "PHF21A",
+    "Potocki-Shaffer syndrome (PSS)"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

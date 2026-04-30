@@ -1,0 +1,46 @@
+{
+  "pmid": "34023747",
+  "doi": "10.1016/j.jad.2021.04.085",
+  "title": "Judgmental perception of co-speech gestures in MDD",
+  "authors": "Van den Bossche C, Wolf D, Rekittke LM, Mittelberg I, Mathiak K",
+  "journal": "Journal of affective disorders",
+  "date": "2021-05",
+  "source": "pubmed",
+  "abstract": "Cognitive bias in depression may increase sensitivity to judgmental appraisal of communicative cues. Nonverbal communication encompassing co-speech gestures is crucial for social functioning and is perceived differentially by men and women, however, little is known about the effect of depression on the perception of appraisal. We investigate if a cognitive bias influences the perception of appraisal and judgement of nonverbal communication in major depressive disorder (MDD). During watching videos of speakers retelling a story and gesticulating, 22 patients with MDD and 22 matched healthy controls pressed a button when they perceived the speaker as appraising in a positive or negative way. The speakers were presented in four different conditions (with and without speech and with natural speaker or as stick-figures) to evaluate context effects. Inter-subject covariance (ISC) of the button-press time series measured consistency across the groups of the response pattern depending on the factors diagnosis and gender. Significant effects emerged for the factors diagnosis (p&#xa0;=&#xa0;.002), gender (p&#xa0;=&#xa0;.007), and their interaction (p < .001). The female healthy controls perceived the gestures more consistently appraising than male controls, the female patients, and male patients whereas the latter three groups did not differ. Further, the ISC measure for consistency correlated negatively with depression severity. The natural speaker video without audio speech yielded the highest responses consistency. Indeed co-speech gestures may drive these ISC effects because number of gestures but not facial shrugs correlated with ISC amplitude. During co-speech gestures, a cognitive bias led to disturbed perception of appraisal in MDD for females. Social communication is critical for functional outcomes in mental disorders; thus perception of gestural communication is important in rehabilitation.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Cognitive bias in depression may increase sensitivity to judgmental appraisal of communicative cues. Nonverbal communication encompassing co-speech gestures is crucial for social functioning and is perceived differentially by men and women, however, little is known about the effect of depression on the perception of appraisal.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34023747/",
+  "mesh_terms": [
+    "Major Depressive Disorder",
+    "Female",
+    "Gestures",
+    "Humans",
+    "Male",
+    "Nonverbal Communication",
+    "Perception",
+    "Speech",
+    "Speech Perception"
+  ],
+  "keywords": [
+    "Affective disorder",
+    "Co-speech gesture perception",
+    "Cognitive bias in depression",
+    "Major depressive disorder",
+    "Non-verbal communication",
+    "Positive and negative appraisal"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

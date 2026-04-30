@@ -1,0 +1,52 @@
+{
+  "pmid": "28675557",
+  "doi": "10.1111/epi.13786",
+  "title": "Neurobehavioral comorbidities of epilepsy: Role of inflammation",
+  "authors": "Mazarati AM, Lewis ML, Pittman QJ",
+  "journal": "Epilepsia",
+  "date": "2017-07",
+  "source": "pubmed",
+  "abstract": "Epilepsy is associated with a high incidence of comorbid neurologic and psychiatric disorders. This review focuses on the association of epilepsy with autism spectrum disorder (ASD) and depression. There is high concordance of these behavioral pathologies with epilepsy. We review data that unambiguously reveal that epilepsy, ASD, and depression are associated with elevated brain inflammatory markers and that these may interact with serotoninergic pathways. Interference with inflammatory pathways or actions can reduce the severity of seizures, depression, and ASD-like behavior. Inflammation in the brain can be induced by seizure activity as well as by behavioral, environmental, and physiologic stressors. Furthermore, induction of inflammation at an early time point during gestation and in early neonatal life can precipitate both an ASD-like phenotype as well as a more excitable brain. It appears likely that priming of the brain due to early inflammation could provide a means by which subsequent inflammatory processes associated with epilepsy, ASD, and depression may lead to comorbidity.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Epilepsy is associated with a high incidence of comorbid neurologic and psychiatric disorders. This review focuses on the association of epilepsy with autism spectrum disorder (ASD) and depression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28675557/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Brain",
+    "Comorbidity",
+    "Depressive Disorder",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Infant, Newborn",
+    "Neurogenic Inflammation",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "Autism",
+    "Autism spectrum disorder",
+    "Cytokines",
+    "Depression",
+    "Inflammation",
+    "Maternal immune activation",
+    "Seizures"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

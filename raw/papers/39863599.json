@@ -1,0 +1,42 @@
+{
+  "pmid": "39863599",
+  "doi": "10.1038/s41398-024-03201-6",
+  "title": "Developmental deficits, synapse and dendritic abnormalities in a Clcn4 KO autism mice model: endophenotypic target for ASD",
+  "authors": "Lee SM, Choi Y, Kim D, Jeong HJ, Do YH, Jung S, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is linked to ion channel dysfunction, including chloride voltage-gated channel-4 (CLCN4). We generated Clcn4 knockout (KO) mice by deleting exon 5 of chromosome 7 in the C57BL/6 mice. Clcn4 KO exhibited reduced social interaction and increased repetitive behaviors assessed using three-chamber and marble burying tests. Surprisingly, these symptoms were improved by Risperidone treatment, a drug commonly used to treat ASD. RNA sequencing data from mouse neural progenitor cells (mNPCs) showed that the genes regulating trans-synaptic signaling, transmembrane transport, and neuronal projection development were significantly decreased in Clcn4 knockdown (KD) cells compared to wild type (WT). Moreover, Risperidone treatment increased the genes related to the ion transmembrane transport, membrane potential, and neuron projection development in Clcn4 KD. Abnormalities in synaptic plasticity and dendritic spine formation were also observed in Clcn4 KO compared to WT. We observed that phosphorylation of SYNAPSIN, PSD95, ERK and CREB, as well as the expression of CDK5, were reduced in the brains of Clcn4 KO mice. In Clcn4 KO cortical neurons, the phosphorylation of SYNAPSIN and PSD95 expressions also decreased compared to WT, indicating disrupted synaptic function. Additionally, Sholl analysis revealed a reduction in dendritic branching and neuronal projection length in both mouse and human CLCN4 KD neurons. Finally, the decreased phosphorylation of SYNAPSIN and expression of PSD95 along with dendrite abnormalities were restored after Risperidone treatment. These data suggest that dendritic outgrowth and synapse remodeling may serve as endophenotypic targets for drug efficacy in ASD.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is linked to ion channel dysfunction, including chloride voltage-gated channel-4 (CLCN4). We generated Clcn4 knockout (KO) mice by deleting exon 5 of chromosome 7 in the C57BL/6 mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39863599/",
+  "mesh_terms": [
+    "Animals",
+    "Mice, Knockout",
+    "Autism Spectrum Disorder",
+    "Mice",
+    "Disease Models, Animal",
+    "Chloride Channels",
+    "Synapses",
+    "Risperidone",
+    "Mice, Inbred C57BL",
+    "Male",
+    "Neuronal Plasticity",
+    "Behavior, Animal",
+    "Dendrites"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

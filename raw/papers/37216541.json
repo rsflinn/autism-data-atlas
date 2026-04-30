@@ -1,0 +1,46 @@
+{
+  "pmid": "37216541",
+  "doi": "10.1073/pnas.2219686120",
+  "title": "Primary cilia TRP channel regulates hippocampal excitability",
+  "authors": "Vien TN, Ta MC, Kimura LF, Onay T, DeCaen PG",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Polycystins (PKD2, PKD2L1, and PKD2L2) are members of the transient receptor potential family, which form ciliary ion channels. Most notably, PKD2 dysregulation in the kidney nephron cilia is associated with polycystic kidney disease, but the function of PKD2L1 in neurons is undefined. In this report, we develop animal models to track the expression and subcellular localization of PKD2L1 in the brain. We discover that PKD2L1 localizes and functions as a Cachannel in the primary cilia of hippocampal neurons that apically radiate from the soma. Loss of PKD2L1 expression ablates primary ciliary maturation and attenuates neuronal high-frequency excitability, which precipitates seizure susceptibility and autism spectrum disorder-like behavior in mice. The disproportionate impairment of interneuron excitability suggests that circuit disinhibition underlies the neurophenotypic features of these mice. Our results identify PKD2L1 channels as regulators of hippocampal excitability and the neuronal primary cilia as organelle mediators of brain electrical signaling.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Polycystins (PKD2, PKD2L1, and PKD2L2) are members of the transient receptor potential family, which form ciliary ion channels. Most notably, PKD2 dysregulation in the kidney nephron cilia is associated with polycystic kidney disease, but the function of PKD2L1 in neurons is undefined.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37216541/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Cilia",
+    "Autism Spectrum Disorder",
+    "TRPP Cation Channels",
+    "Neurons",
+    "Hippocampus",
+    "Receptors, Cell Surface",
+    "Calcium Channels"
+  ],
+  "keywords": [
+    "TRP channels",
+    "channelopathy",
+    "ciliopathy",
+    "polycystins",
+    "primary cilia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

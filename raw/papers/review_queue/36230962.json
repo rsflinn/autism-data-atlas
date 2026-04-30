@@ -1,0 +1,46 @@
+{
+  "pmid": "36230962",
+  "doi": "10.3390/cells11192994",
+  "title": "Distinct Impairments Characterizing Different ADNP Mutants Reveal Aberrant Cytoplasmic-Nuclear Crosstalk",
+  "authors": "Ganaiem M, Karmon G, Ivashko-Pachima Y, Gozes I",
+  "journal": "Cells",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "(1) Background: Activity-dependent neuroprotective protein (ADNP) is essential for neuronal structure and function. Multiple de novo pathological mutations in ADNP cause the autistic ADNP syndrome, and they have been further suggested to affect Alzheimer's disease progression in a somatic form. Here, we asked if different ADNP mutations produce specific neuronal-like phenotypes toward better understanding and personalized medicine. (2) Methods: We employed CRISPR/Cas9 genome editing in N1E-115 neuroblastoma cells to form neuron-like cell lines expressing ADNP mutant proteins conjugated to GFP. These new cell lines were characterized by quantitative morphology, immunocytochemistry and live cell imaging. (3) Results: Our novel cell lines, constitutively expressing GFP-ADNP p.Pro403 (p.Ser404* human orthologue) and GFP-ADNP p.Tyr718* (p.Tyr719* human orthologue), revealed new and distinct phenotypes. Increased neurite numbers (day 1, in culture) and increased neurite lengths upon differentiation (day 7, in culture) were linked with p.Pro403*. In contrast, p.Tyr718* decreased cell numbers (day 1). These discrete phenotypes were associated with an increased expression of both mutant proteins in the cytoplasm. Reduced nuclear/cytoplasmic boundaries were observed in the p.Tyr718* ADNP-mutant line, with this malformation being corrected by the ADNP-derived fragment drug candidate NAP. (4) Conclusions: Distinct impairments characterize different ADNP mutants and reveal aberrant cytoplasmic-nuclear crosstalk.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "(1) Background: Activity-dependent neuroprotective protein (ADNP) is essential for neuronal structure and function. Multiple de novo pathological mutations in ADNP cause the autistic ADNP syndrome, and they have been further suggested to affect Alzheimer's disease progression in a somatic form.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36230962/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Cytoplasm",
+    "Homeodomain Proteins",
+    "Humans",
+    "Mutant Proteins",
+    "Nerve Tissue Proteins"
+  ],
+  "keywords": [
+    "ADNP syndrome",
+    "CRISPR/Cas9",
+    "NAP (davunetide)",
+    "activity-dependent neuroprotective protein (ADNP)",
+    "green fluorescent protein (GFP)",
+    "immunocytochemistry",
+    "live cell imaging"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

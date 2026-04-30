@@ -1,0 +1,50 @@
+{
+  "pmid": "34021018",
+  "doi": "10.1101/mcs.a006092",
+  "title": "Neurodevelopmental phenotypes in individuals with pathogenic variants in",
+  "authors": "Garrity M, Kavus H, Rojas-Vasquez M, Valenzuela I, Larson A, Reed S, et al.",
+  "journal": "Cold Spring Harbor molecular case studies",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "De novo pathogenic variants in(chromosome alignment maintaining phosphoprotein 1), which encodes kinetochore-microtubule associated protein on 13q34, cause a rare neurodevelopmental disorder. We enrolled 14 individuals with pathogenic variants inthat were documented by exome sequencing or gene panel sequencing. Medical history interviews, seizure surveys, Vineland Adapted Behavior Scales Second Edition, and other behavioral surveys were completed by primary caregivers of available participants in Simons Searchlight. Clinicians extracted clinical data from the medical record for two participants. We report on clinical features of 14 individuals (ages 2-26) with de novo predicted loss-of-function variants inand compare them with previously reported cases (total= 32). At least two individuals have the same de novo variant: p.(Ser181Cysfs*5), p.(Trp348*), p.(Arg398*), p.(Arg497*), or p.(Tyr709*). Common phenotypes include intellectual disability/developmental delay, language impairment, congenital and acquired microcephaly, behavioral problems including autism spectrum disorder, seizures, hypotonia, gastrointestinal issues of reflux and constipation, and ophthalmologic issues. Other rarely observed phenotypes include leukemia, failure to thrive, and high pain tolerance. Pathogenic variants inare associated with a variable clinical phenotype of developmental delay/intellectual disability and seizures.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "De novo pathogenic variants in(chromosome alignment maintaining phosphoprotein 1), which encodes kinetochore-microtubule associated protein on 13q34, cause a rare neurodevelopmental disorder. We enrolled 14 individuals with pathogenic variants inthat were documented by exome sequencing or gene panel sequencing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34021018/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Child, Preschool",
+    "Chromosomal Proteins, Non-Histone",
+    "DNA Mutational Analysis",
+    "Female",
+    "Humans",
+    "Leukemia",
+    "Loss of Function Mutation",
+    "Male",
+    "Neurodevelopmental Disorders",
+    "Neuropsychological Tests",
+    "Phenotype",
+    "Phosphoproteins",
+    "Young Adult"
+  ],
+  "keywords": [
+    "intellectual disability",
+    "severe global developmental delay",
+    "severe microcephaly"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

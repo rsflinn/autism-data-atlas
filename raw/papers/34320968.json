@@ -1,0 +1,46 @@
+{
+  "pmid": "34320968",
+  "doi": "10.1186/s12915-021-01080-7",
+  "title": "Altered neuronal physiology, development, and function associated with a common chromosome 15 duplication involving CHRNA7",
+  "authors": "Meganathan K, Prakasam R, Baldridge D, Gontarz P, Zhang B, Urano F, et al.",
+  "journal": "BMC biology",
+  "date": "2021-07",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) linked to genes involved in nervous system development or function are often associated with neuropsychiatric disease. While CNVs involving deletions generally cause severe and highly penetrant patient phenotypes, CNVs leading to duplications tend instead to exhibit widely variable and less penetrant phenotypic expressivity among affected individuals. CNVs located on chromosome 15q13.3 affecting the alpha-7 nicotinic acetylcholine receptor subunit (CHRNA7) gene contribute to multiple neuropsychiatric disorders with highly variable penetrance. However, the basis of such differential penetrance remains uncharacterized. Here, we generated induced pluripotent stem cell (iPSC) models from first-degree relatives with a 15q13.3 duplication and analyzed their cellular phenotypes to uncover a basis for the dissimilar phenotypic expressivity.\n\nThe first-degree relatives studied included a boy with autism and emotional dysregulation (the affected proband-AP) and his clinically unaffected mother (UM), with comparison to unrelated control models lacking this duplication. Potential contributors to neuropsychiatric impairment were modeled in iPSC-derived cortical excitatory and inhibitory neurons. The AP-derived model uniquely exhibited disruptions of cellular physiology and neurodevelopment not observed in either the UM or unrelated controls. These included enhanced neural progenitor proliferation but impaired neuronal differentiation, maturation, and migration, and increased endoplasmic reticulum (ER) stress. Both the neuronal migration deficit and elevated ER stress could be selectively rescued by different pharmacologic agents. Neuronal gene expression was also dysregulated in the AP, including reduced expression of genes related to behavior, psychological disorders, neuritogenesis, neuronal migration, and Wnt, axonal guidance, and GABA receptor signaling. The UM model instead exhibited upregulated expression of genes in many of these same pathways, suggesting that molecular compensation could have contributed to the lack of neurodevelopmental phenotypes in this model. However, both AP- and UM-derived neurons exhibited shared alterations of neuronal function, including increased action potential firing and elevated cholinergic activity, consistent with increased homomeric CHRNA7 channel activity.\n\nThese data define both diagnosis-associated cellular phenotypes and shared functional anomalies related to CHRNA7 duplication that may contribute to variable phenotypic penetrance in individuals with 15q13.3 duplication. The capacity for pharmacological agents to rescue some neurodevelopmental anomalies associated with diagnosis suggests avenues for intervention for carriers of this duplication and other CNVs that cause related disorders.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants (CNVs) linked to genes involved in nervous system development or function are often associated with neuropsychiatric disease. While CNVs involving deletions generally cause severe and highly penetrant patient phenotypes, CNVs leading to duplications tend instead to exhibit widely variable and less penetrant phenotypic expressivity among affected individuals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34320968/",
+  "mesh_terms": [
+    "Chromosomes, Human, Pair 15",
+    "DNA Copy Number Variations",
+    "Humans",
+    "Male",
+    "Neurons",
+    "Phenotype",
+    "alpha7 Nicotinic Acetylcholine Receptor"
+  ],
+  "keywords": [
+    "CHRNA7",
+    "Chromosome 15q13.3 duplication",
+    "Copy number variants",
+    "Cortical neurons",
+    "Induced pluripotent stem cells",
+    "Neurodevelopmental disorders",
+    "Psychiatric disease"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

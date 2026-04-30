@@ -1,0 +1,45 @@
+{
+  "pmid": "39009701",
+  "doi": "10.1038/s41380-024-02649-8",
+  "title": "Genetic neurodevelopmental clustering and dyslexia",
+  "authors": "Ciulkinyte A, Mountford HS, Fontanillas P, , Bates TC, Martin NG, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Dyslexia is a learning difficulty with neurodevelopmental origins, manifesting as reduced accuracy and speed in reading and spelling. It is substantially heritable and frequently co-occurs with other neurodevelopmental conditions, particularly attention deficit-hyperactivity disorder (ADHD). Here, we investigate the genetic structure underlying dyslexia and a range of psychiatric traits using results from genome-wide association studies of dyslexia, ADHD, autism, anorexia nervosa, anxiety, bipolar disorder, major depressive disorder, obsessive compulsive disorder, schizophrenia, and Tourette syndrome. Genomic Structural Equation Modelling (GenomicSEM) showed heightened support for a model consisting of five correlated latent genomic factors described as: F1) compulsive disorders (including obsessive-compulsive disorder, anorexia nervosa, Tourette syndrome), F2) psychotic disorders (including bipolar disorder, schizophrenia), F3) internalising disorders (including anxiety disorder, major depressive disorder), F4) neurodevelopmental traits (including autism, ADHD), and F5) attention and learning difficulties (including ADHD, dyslexia). ADHD loaded more strongly on the attention and learning difficulties latent factor (F5) than on the neurodevelopmental traits latent factor (F4). The attention and learning difficulties latent factor (F5) was positively correlated with internalising disorders (.40), neurodevelopmental traits (.25) and psychotic disorders (.17) latent factors, and negatively correlated with the compulsive disorders (-.16) latent factor. These factor correlations are mirrored in genetic correlations observed between the attention and learning difficulties latent factor and other cognitive, psychological and wellbeing traits. We further investigated genetic variants underlying both dyslexia and ADHD, which implicated 49 loci (40 not previously found in GWAS of the individual traits) mapping to 174 genes (121 not found in GWAS of individual traits) as potential pleiotropic variants. Our study confirms the increased genetic relation between dyslexia and ADHD versus other psychiatric traits and uncovers novel pleiotropic variants affecting both traits. In future, analyses including additional co-occurring traits such as dyscalculia and dyspraxia will allow a clearer definition of the attention and learning difficulties latent factor, yielding further insights into factor structure and pleiotropic effects.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Dyslexia is a learning difficulty with neurodevelopmental origins, manifesting as reduced accuracy and speed in reading and spelling. It is substantially heritable and frequently co-occurs with other neurodevelopmental conditions, particularly attention deficit-hyperactivity disorder (ADHD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39009701/",
+  "mesh_terms": [
+    "Humans",
+    "Dyslexia",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Genome-Wide Association Study",
+    "Neurodevelopmental Disorders",
+    "Genetic Predisposition to Disease",
+    "Female",
+    "Tourette Syndrome",
+    "Male",
+    "Major Depressive Disorder",
+    "Polymorphism, Single Nucleotide",
+    "Schizophrenia",
+    "Bipolar Disorder",
+    "Phenotype",
+    "Autistic Disorder",
+    "Obsessive-Compulsive Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

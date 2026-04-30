@@ -1,0 +1,47 @@
+{
+  "pmid": "27064487",
+  "doi": "10.1371/journal.pone.0153262",
+  "title": "Rett Syndrome Mutant Neural Cells Lacks MeCP2 Immunoreactive Bands",
+  "authors": "Bueno C, Tabares-Seisdedos R, Moraleda JM, Martinez S",
+  "journal": "PloS one",
+  "date": "2016-04",
+  "source": "pubmed",
+  "abstract": "Dysfunctions of MeCP2 protein lead to various neurological disorders such as Rett syndrome and Autism. The exact functions of MeCP2 protein is still far from clear. At a molecular level, there exist contradictory data. MeCP2 protein is considered a single immunoreactive band around 75 kDa by western-blot analysis but several reports have revealed the existence of multiple MeCP2 immunoreactive bands above and below the level where MeCP2 is expected. MeCP2 immunoreactive bands have been interpreted in different ways. Some researchers suggest that multiple MeCP2 immunoreactive bands are unidentified proteins that cross-react with the MeCP2 antibody or degradation product of MeCP2, while others suggest that MeCP2 post-transcriptional processing generates multiple molecular forms linked to cell signaling, but so far they have not been properly analyzed in relation to Rett syndrome experimental models. The purpose of this study is to advance understanding of multiple MeCP2 immunoreactive bands in control neural cells and p.T158M MeCP2e1 mutant cells. We have generated stable wild-type and p.T158M MeCP2e1-RFP mutant expressing cells. Application of N- and C- terminal MeCP2 antibodies, and also, RFP antibody minimized concerns about nonspecific cross-reactivity, since they react with the same antigen at different epitopes. We report the existence of multiple MeCP2 immunoreactive bands in control cells, stable wild-type and p.T158M MeCP2e1-RFP mutant expressing cells. Also, MeCP2 immunoreactive bands differences were found between wild-type and p.T158M MeCP2e1-RFP mutant expressing cells. Slower migration phosphorylated band around 70kDa disappeared in p.T158M MeCP2e1-RFP mutant expressing cells. These data suggest that threonine 158 could represent an important phosphorylation site potentially involved in protein function. Our results clearly indicate that MeCP2 antibodies have no cross-reactivity with similar epitopes on others proteins, supporting the idea that MeCP2 may exist in multiple different molecular forms and that molecular pattern variations derived from altered post-transcriptional processing may underlay Rett syndrome physiophatology.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Dysfunctions of MeCP2 protein lead to various neurological disorders such as Rett syndrome and Autism. The exact functions of MeCP2 protein is still far from clear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27064487/",
+  "mesh_terms": [
+    "Animals",
+    "Blotting, Western",
+    "Cells, Cultured",
+    "Fluorescent Antibody Technique",
+    "HEK293 Cells",
+    "Humans",
+    "Immunoenzyme Techniques",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Neuroblastoma",
+    "Neurons",
+    "PC12 Cells",
+    "RNA, Messenger",
+    "Rats",
+    "Real-Time Polymerase Chain Reaction",
+    "Rett Syndrome",
+    "Reverse Transcriptase Polymerase Chain Reaction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

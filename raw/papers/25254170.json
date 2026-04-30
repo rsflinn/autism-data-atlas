@@ -1,0 +1,35 @@
+{
+  "pmid": "25254170",
+  "doi": "10.5409/wjcp.v2.i3.16",
+  "title": "Potential for treatment of severe autism in tuberous sclerosis complex",
+  "authors": "Gipson TT, Gerner G, Wilson MA, Blue ME, Johnston MV",
+  "journal": "World journal of clinical pediatrics",
+  "date": "2013-08",
+  "source": "pubmed",
+  "abstract": "The Food and Drug Administration (FDA) has approved two mechanism-based treatments for tuberous sclerosis complex (TSC)-everolimus and vigabatrin. However, these treatments have not been systematically studied in individuals with TSC and severe autism. The aim of this review is to identify the clinical features of severe autism in TSC, applicable preclinical models, and potential barriers that may warrant strategic planning in the design phase of clinical trial development. A comprehensive search strategy was formed and searched across PubMed, Embase and SCOPUS from their inception to 2/21/12, 3/16/12, and 3/12/12 respectively. After the final search date, relevant, updated articles were selected from PubMed abstracts generated electronically and emailed daily from PubMed. The references of selected articles were searched, and relevant articles were selected. A search of clinicaltrials.gov was completed using the search term \"TSC\" and \"tuberous sclerosis complex\". Autism has been reported in as many as 60% of individuals with TSC; however, review of the literature revealed few data to support clear classification of the severity of autism in TSC. Variability was identified in the diagnostic approach, assessment of cognition, and functional outcome among the reviewed studies and case reports. Objective outcome measures were not used in many early studies; however, diffusion tensor imaging of white matter, neurophysiologic variability in infantile spasms, and cortical tuber subcategories were examined in recent studies and may be useful for objective classification of TSC in future studies. Mechanism-based treatments for TSC are currently available. However, this literature review revealed two potential barriers to successful design and implementation of clinical trials in individuals with severe autism-an unclear definition of the population and lack of validated outcome measures. Recent studies of objective outcome measures in TSC and further study of applicable preclinical models present an opportunity to overcome these barriers.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The Food and Drug Administration (FDA) has approved two mechanism-based treatments for tuberous sclerosis complex (TSC)-everolimus and vigabatrin. However, these treatments have not been systematically studied in individuals with TSC and severe autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25254170/",
+  "mesh_terms": [],
+  "keywords": [
+    "Aggression",
+    "Autism",
+    "Intellectual disability",
+    "Self-injury",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

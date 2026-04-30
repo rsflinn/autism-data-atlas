@@ -1,0 +1,53 @@
+{
+  "pmid": "36152629",
+  "doi": "10.1016/j.ajhg.2022.08.012",
+  "title": "Tissue- and cell-type-specific molecular and functional signatures of 16p11.2 reciprocal genomic disorder across mouse brain and human neuronal models",
+  "authors": "Tai DJC, Razaz P, Erdin S, Gao D, Wang J, Nuttle X, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "Chromosome 16p11.2 reciprocal genomic disorder, resulting from recurrent copy-number variants (CNVs), involves intellectual disability, autism spectrum disorder (ASD), and schizophrenia, but the responsible mechanisms are not known. To systemically dissect molecular effects, we performed transcriptome profiling of 350 libraries from six tissues (cortex, cerebellum, striatum, liver, brown fat, and white fat) in mouse models harboring CNVs of the syntenic 7qF3 region, as well as cellular, transcriptional, and single-cell analyses in 54 isogenic neural stem cell, induced neuron, and cerebral organoid models of CRISPR-engineered 16p11.2 CNVs. Transcriptome-wide differentially expressed genes were largely tissue-, cell-type-, and dosage-specific, although more effects were shared between deletion and duplication and across tissue than expected by chance. The broadest effects were observed in the cerebellum (2,163 differentially expressed genes), and the greatest enrichments were associated with synaptic pathways in mouse cerebellum and human induced neurons. Pathway and co-expression analyses identified energy and RNA metabolism as shared processes and enrichment for ASD-associated, loss-of-function constraint, and fragile X messenger ribonucleoprotein target gene sets. Intriguingly, reciprocal 16p11.2 dosage changes resulted in consistent decrements in neurite and electrophysiological features, and single-cell profiling of organoids showed reciprocal alterations to the proportions of excitatory and inhibitory GABAergic neurons. Changes both in neuronal ratios and in gene expression in our organoid analyses point most directly to calretinin GABAergic inhibitory neurons and the excitatory/inhibitory balance as targets of disruption that might contribute to changes in neurodevelopmental and cognitive function in 16p11.2 carriers. Collectively, our data indicate the genomic disorder involves disruption of multiple contributing biological processes and that this disruption has relative impacts that are context specific.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Chromosome 16p11.2 reciprocal genomic disorder, resulting from recurrent copy-number variants (CNVs), involves intellectual disability, autism spectrum disorder (ASD), and schizophrenia, but the responsible mechanisms are not known. To systemically dissect molecular effects, we performed transcriptome profiling of 350 libraries from six tissues (cortex, cerebellum, striatum, liver, brown fat, and white fat) in mouse models harboring CNVs of the syntenic 7qF3 region, as well as cellular, transcri",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36152629/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Calbindin 2",
+    "Cerebral Cortex",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "DNA Copy Number Variations",
+    "Genomics",
+    "Humans",
+    "Intellectual Disability",
+    "Mice",
+    "Neurons",
+    "RNA"
+  ],
+  "keywords": [
+    "16p11.2",
+    "CRISPR",
+    "RNAseq",
+    "cerebral organoid",
+    "copy-number variation",
+    "genomic disorder",
+    "transcriptome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

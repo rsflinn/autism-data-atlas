@@ -1,0 +1,37 @@
+{
+  "pmid": "24204377",
+  "doi": "10.3389/fgene.2013.00222",
+  "title": "Channelopathy pathogenesis in autism spectrum disorders",
+  "authors": "Schmunk G, Gargus JJ",
+  "journal": "Frontiers in genetics",
+  "date": "2013-11",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a syndrome that affects normal brain development and is characterized by impaired social interaction as well as verbal and non-verbal communication and by repetitive, stereotypic behavior. ASD is a complex disorder arising from a combination of multiple genetic and environmental factors that are independent from racial, ethnic and socioeconomical status. The high heritability of ASD suggests a strong genetic basis for the disorder. Furthermore, a mounting body of evidence implies a role of various ion channel gene defects (channelopathies) in the pathogenesis of autism. Indeed, recent genome-wide association, and whole exome- and whole-genome resequencing studies linked polymorphisms and rare variants in calcium, sodium and potassium channels and their subunits with susceptibility to ASD, much as they do with bipolar disorder, schizophrenia and other neuropsychiatric disorders. Moreover, animal models with these genetic variations recapitulate endophenotypes considered to be correlates of autistic behavior seen in patients. An ion flux across the membrane regulates a variety of cell functions, from generation of action potentials to gene expression and cell morphology, thus it is not surprising that channelopathies have profound effects on brain functions. In the present work, we summarize existing evidence for the role of ion channel gene defects in the pathogenesis of autism with a focus on calcium signaling and its downstream effects.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a syndrome that affects normal brain development and is characterized by impaired social interaction as well as verbal and non-verbal communication and by repetitive, stereotypic behavior. ASD is a complex disorder arising from a combination of multiple genetic and environmental factors that are independent from racial, ethnic and socioeconomical status.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24204377/",
+  "mesh_terms": [],
+  "keywords": [
+    "Angelman syndrome",
+    "Fragile X syndrome",
+    "Prader-Willi syndrome",
+    "Rett syndrome",
+    "calcium",
+    "mTOR",
+    "tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "29756080",
+  "doi": "10.1016/j.cophys.2017.12.013",
+  "title": "Mutations and Rare Variants Occurring in NMDA Receptors",
+  "authors": "XiangWei W, Jiang Y, Yuan H",
+  "journal": "Current opinion in physiology",
+  "date": "2017-12",
+  "source": "pubmed",
+  "abstract": "A significant number of variants/mutations in the-methyl--aspartate glutamatergic receptor (NMDAR) gene family () have been identified along with stunning advances in the technologies of next generation of whole-exome sequencing. Mutations in humangenes are distributed throughout the entire gene, from amino terminal domain to C-terminal domain, in patients with various neuropsychiatric disorders, including autism spectrum disorders, epilepsy, intellectual disability, attention deficit hyperactivity disorder, and schizophrenia. Analyzing the currently available human genetic variations illustrates the genetic variation intolerance to missense mutations differs significantly among domains within thegenes. Functional analyses of these mutations and their pharmacological profiles provide the first opportunity to understand the molecular mechanism and targeted therapeutic strategies for these neurological and psychiatric disorders, as well as unfold novel clues to channel function.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "A significant number of variants/mutations in the-methyl--aspartate glutamatergic receptor (NMDAR) gene family () have been identified along with stunning advances in the technologies of next generation of whole-exome sequencing. Mutations in humangenes are distributed throughout the entire gene, from amino terminal domain to C-terminal domain, in patients with various neuropsychiatric disorders, including autism spectrum disorders, epilepsy, intellectual disability, attention deficit hyperactiv",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29756080/",
+  "mesh_terms": [],
+  "keywords": [
+    "GRIN",
+    "GluN",
+    "NMDA receptor",
+    "channelopathy",
+    "functional genomics",
+    "glutamate receptor"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

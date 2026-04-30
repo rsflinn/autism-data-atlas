@@ -1,0 +1,29 @@
+{
+  "pmid": "37790331",
+  "doi": "10.1101/2023.09.22.559056",
+  "title": "Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism",
+  "authors": "Perez Y, Velmeshev D, Wang L, White M, Siebert C, Baltazar J, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2023-09",
+  "source": "pubmed",
+  "abstract": "Duplication 15q (dup15q) syndrome is the most common genetic cause of autism spectrum disorder (ASD). Due to a higher genetic and phenotypic homogeneity compared to idiopathic autism, dup15q syndrome provides a well-defined setting to investigate ASD mechanisms. Previous bulk gene expression studies identified shared molecular changes in ASD. However, how cell type specific changes compare across different autism subtypes and how they change during development is largely unknown. In this study, we used single cell and single nucleus mRNA sequencing of dup15q cortical organoids from patient iPSCs, as well as post-mortem patient brain samples. We find cell-type specific dysregulated programs that underlie dup15q pathogenesis, which we validate by spatial resolved transcriptomics using brain tissue samples. We find degraded identity and vulnerability of deep-layer neurons in fetal stage organoids and highlight increased molecular burden of postmortem upper-layer neurons implicated in synaptic signaling, a finding shared between idiopathic ASD and dup15q syndrome. Gene co-expression network analysis of organoid and postmortem excitatory neurons uncovers modules enriched with autism risk genes. Organoid developmental modules were involved in transcription regulation via chromatin remodeling, while postmortem modules were associated with synaptic transmission and plasticity. The findings reveal a shifting landscape of ASD cellular vulnerability during brain development.",
+  "relevance_score": 33,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Duplication 15q (dup15q) syndrome is the most common genetic cause of autism spectrum disorder (ASD). Due to a higher genetic and phenotypic homogeneity compared to idiopathic autism, dup15q syndrome provides a well-defined setting to investigate ASD mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37790331/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

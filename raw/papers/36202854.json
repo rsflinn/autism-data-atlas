@@ -1,0 +1,39 @@
+{
+  "pmid": "36202854",
+  "doi": "10.1038/s41467-022-33364-z",
+  "title": "Modeling human telencephalic development and autism-associated SHANK3 deficiency using organoids generated from single neural rosettes",
+  "authors": "Wang Y, Chiola S, Yang G, Russell C, Armstrong CJ, Wu Y, et al.",
+  "journal": "Nature communications",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "Human telencephalon is an evolutionarily advanced brain structure associated with many uniquely human behaviors and disorders. However, cell lineages and molecular pathways implicated in human telencephalic development remain largely unknown. We produce human telencephalic organoids from stem cell-derived single neural rosettes and investigate telencephalic development under normal and pathological conditions. We show that single neural rosette-derived organoids contain pallial and subpallial neural progenitors, excitatory and inhibitory neurons, as well as macroglial and periendothelial cells, and exhibit predictable organization and cytoarchitecture. We comprehensively characterize the properties of neurons in SNR-derived organoids and identify transcriptional programs associated with the specification of excitatory and inhibitory neural lineages from a common pool of NPs early in telencephalic development. We also demonstrate that neurons in organoids with a hemizygous deletion of an autism- and intellectual disability-associated gene SHANK3 exhibit intrinsic and excitatory synaptic deficits and impaired expression of several clustered protocadherins. Collectively, this study validates SNR-derived organoids as a reliable model for studying human telencephalic cortico-striatal development and identifies intrinsic, synaptic, and clustered protocadherin expression deficits in human telencephalic tissue with SHANK3 hemizygosity.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Human telencephalon is an evolutionarily advanced brain structure associated with many uniquely human behaviors and disorders. However, cell lineages and molecular pathways implicated in human telencephalic development remain largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36202854/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Humans",
+    "Nerve Tissue Proteins",
+    "Organoids",
+    "Protocadherins",
+    "Telencephalon"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

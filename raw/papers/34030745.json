@@ -1,0 +1,43 @@
+{
+  "pmid": "34030745",
+  "doi": "10.1017/S0033291721001744",
+  "title": "Genetics of obsessive-compulsive disorder",
+  "authors": "Mahjani B, Bey K, Boberg J, Burton C",
+  "journal": "Psychological medicine",
+  "date": "2021-05",
+  "source": "pubmed",
+  "abstract": "Obsessive-compulsive disorder (OCD) is a psychiatric disorder with multiple symptom dimensions (e.g. contamination, symmetry). OCD clusters in families and decades of twin studies clearly demonstrate an important role for genetics in the etiology of the disorder.\n\nIn this review, we summarize the genetic epidemiology and molecular genetic studies of OCD and obsessive-compulsive symptoms.\n\nOCD is a heritable, polygenic disorder with contributions from both common and rare variants, including de novo deleterious variations. Multiple studies have provided reliable support for a large additive genetic contribution to liability to OCD, with discrete OCD symptom dimensions having both shared and unique genetic risks. Genome-wide association studies have not produced significant results yet, likely because of small sample sizes, but larger meta-analyses are forthcoming. Both twin and genome-wide studies show that OCD shares genetic risk with its comorbid conditions (e.g. Tourette syndrome and anorexia nervosa).\n\nDespite significant efforts to uncover the genetic basis of OCD, the mechanistic understanding of how genetic and environmental risk factors interact and converge at the molecular level to result in OCD's heterogeneous phenotype is still mostly unknown. Future investigations should increase ancestral genetic diversity, explore age and/or sex differences in genetic risk for OCD and expand the study of pharmacogenetics, gene expression, gene &#xd7; environment interactions and epigenetic mechanisms for OCD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Obsessive-compulsive disorder (OCD) is a psychiatric disorder with multiple symptom dimensions (e.g. contamination, symmetry).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34030745/",
+  "mesh_terms": [
+    "Anorexia Nervosa",
+    "Humans",
+    "Multifactorial Inheritance",
+    "Obsessive-Compulsive Disorder",
+    "Phenotype",
+    "Tourette Syndrome",
+    "Twin Studies as Topic"
+  ],
+  "keywords": [
+    "Obsessive-compulsive disorder",
+    "genetic epidemiology",
+    "molecular genetics",
+    "obsessive-compulsive symptoms"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

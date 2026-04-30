@@ -1,0 +1,53 @@
+{
+  "pmid": "27663942",
+  "doi": "10.1016/j.jaac.2016.06.015",
+  "title": "Atomoxetine and Parent Training for Children With Autism and Attention-Deficit/Hyperactivity Disorder: A 24-Week Extension Study",
+  "authors": "Smith T, Aman MG, Arnold LE, Silverman LB, Lecavalier L, Hollway J, et al.",
+  "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+  "date": "2016-08",
+  "source": "pubmed",
+  "abstract": "The authors previously reported on a 2-by-2 randomized clinical trial of individual and combined treatment with atomoxetine (ATX) and parent training (PT) for attention-deficit/hyperactivity disorder (ADHD) symptoms and behavioral noncompliance in 128 5- to 14-year-old children with autism spectrum disorder. In the present report, they describe a 24-week extension of treatment responders and nonresponders.\n\nOne-hundred seventeen participants from the acute trial (91%) entered the extension; 84 of these were in 2 subgroups: \"treatment responders\" (n&#xa0;= 43) from all 4&#xa0;groups in the acute trial, seen monthly for 24 weeks, and \"placebo nonresponders\" (n&#xa0;= 41), treated with open-label ATX for 10 weeks. Participants originally assigned to PT continued PT during the extension; the remainder served as controls. Primary outcome measurements were the parent-rated Swanson, Nolan and Pelham ADHD scale and the Home Situations Questionnaire.\n\nSixty percent (26 of 43) of treatment responders in the acute trial, including 68% of responders originally assigned to ATX, still met the response criteria at the end of the extension. The response rate of placebo nonresponders treated with 10-week open-label ATX was 37% (15 of 41), similar to the acute trial. Children receiving open-label ATX&#xa0;+ PT were significantly more likely to be ADHD responders (53% versus 23%) and noncompliance responders (58% versus 14%) than those receiving open-label ATX alone.\n\nMost ATX responders maintained their responses during the extension. PT combined with ATX in the open-label trial appeared to improve ADHD and noncompliance outcomes more than ATX alone. Clinical trial registration information-Atomoxetine, Placebo and Parent Management Training in Autism (Strattera); http://clinicaltrials.gov; NCT00844753.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The authors previously reported on a 2-by-2 randomized clinical trial of individual and combined treatment with atomoxetine (ATX) and parent training (PT) for attention-deficit/hyperactivity disorder (ADHD) symptoms and behavioral noncompliance in 128 5- to 14-year-old children with autism spectrum disorder. In the present report, they describe a 24-week extension of treatment responders and nonresponders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27663942/",
+  "mesh_terms": [
+    "Adolescent",
+    "Atomoxetine Hydrochloride",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Combined Modality Therapy",
+    "Double-Blind Method",
+    "Female",
+    "Humans",
+    "Male",
+    "Parents",
+    "Psychiatric Status Rating Scales",
+    "Surveys and Questionnaires",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "atomoxetine",
+    "attention-deficit/hyperactivity disorder",
+    "autism",
+    "combined modality therapy",
+    "outcome assessment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

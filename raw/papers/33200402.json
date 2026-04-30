@@ -1,0 +1,45 @@
+{
+  "pmid": "33200402",
+  "doi": "10.1111/epi.16755",
+  "title": "Clinical sequencing yield in epilepsy, autism spectrum disorder, and intellectual disability: A systematic review and meta-analysis",
+  "authors": "Stefanski A, Calle-L&#xf3;pez Y, Leu C, P&#xe9;rez-Palma E, Pestana-Knight E, Lal D",
+  "journal": "Epilepsia",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Clinical genetic sequencing is frequently utilized to diagnose individuals with neurodevelopmental disorders (NDDs). Here we perform a meta-analysis and systematic review of the success rate (diagnostic yield) of clinical sequencing through next-generation sequencing (NGS) across NDDs. We compare the genetic testing yield across NDD subtypes and sequencing technology.\n\nWe performed a systematic review of the PubMed literature until May 2020. We included clinical sequencing studies that utilized NGS in individuals with epilepsy, autism spectrum disorder (ASD), or intellectual disability (ID). Data were extracted, reviewed, and categorized according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. Two investigators performed clinical evaluation and grouping following the International League Against Epilepsy (ILAE) guidelines. Pooled rates of the diagnostic yield and 95% confidence intervals were estimated with a random-effects model.\n\nWe identified 103 studies (epilepsy, N&#xa0;=&#xa0;72; ASD, N&#xa0;=&#xa0;14; ID, N&#xa0;=&#xa0;21) across 32,331 individuals. Targeted gene panel sequencing was used in 73, and exome sequencing in 36 cohorts. Given highly selected patient cohorts, the diagnostic yield was 17.1% for ASD, 24% for epilepsy, and 28.2% for ID (23.7% overall). The highest diagnostic yield for epilepsy subtypes was observed in individuals with ID (27.9%) and early onset seizures (36.8%). The diagnostic yield for exome sequencing was higher than for panel sequencing, even though not statistically significant (27.2% vs 22.6%, P&#xa0;=&#xa0;.071). We observed that clinical sequencing studies are performed predominantly in countries with a high Inequality-adjusted Human Development Index (IHDI) (countries with sequencing studies: IHDI median&#xa0;=&#xa0;0.84, interquartile range [IQR]&#xa0;=&#xa0;0.09 vs countries without sequencing studies: IHDI median&#xa0;=&#xa0;0.56, IQR&#xa0;=&#xa0;0.3). No studies from Africa, India, or Latin America were identified, indicating potential barriers to genetic testing.\n\nThis meta-analysis and systematic review provides a comprehensive overview of clinical sequencing studies of NDDs and will help guide policymaking and steer decision-making in patient management.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Clinical genetic sequencing is frequently utilized to diagnose individuals with neurodevelopmental disorders (NDDs). Here we perform a meta-analysis and systematic review of the success rate (diagnostic yield) of clinical sequencing through next-generation sequencing (NGS) across NDDs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33200402/",
+  "mesh_terms": [
+    "Age of Onset",
+    "Autism Spectrum Disorder",
+    "Epilepsy",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Intellectual Disability",
+    "Sequence Analysis, DNA",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "autism",
+    "epilepsy",
+    "genetics",
+    "neurodevelopmental disorders",
+    "sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ]
+}

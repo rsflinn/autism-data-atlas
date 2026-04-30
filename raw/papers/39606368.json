@@ -1,0 +1,36 @@
+{
+  "pmid": "39606368",
+  "doi": "10.1101/2024.11.20.24317613",
+  "title": "Prematurity and Genetic Liability for Autism Spectrum Disorder",
+  "authors": "Zhang Y, Yahia A, Sandin S, &#xc5;den U, Tammimies K",
+  "journal": "medRxiv : the preprint server for health sciences",
+  "date": "2025-07",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by diverse presentations and a strong genetic component. Environmental factors, such as prematurity, have also been linked to increased liability for ASD, though the interaction between genetic predisposition and prematurity remains unclear. This study aims to investigate the impact of genetic liability and preterm birth on ASD conditions.\n\nWe analyzed phenotype and genetic data from two large ASD cohorts, the Simons Foundation Powering Autism Research for Knowledge (SPARK) and Simons Simplex Collection (SSC), encompassing 78,559 individuals for phenotype analysis, 12,519 individuals with genome sequencing data, and 8,104 individuals with exome sequencing data. Statistical significance of differences in clinical measures was evaluated between individuals with different ASD and preterm status. We assessed the rare variants burden using generalized estimating equations (GEE) models and polygenic load using ASD-associated polygenic risk score (PRS). Furthermore, we developed a machine learning model to predict ASD in preterm children using phenotype and genetic features available at birth.\n\nIndividuals with both preterm birth and ASD exhibit more severe phenotypic outcomes despite similar levels of genetic liability for ASD across the term and preterm groups. Notably, preterm ASD individuals showed an elevated rate of de novo variants identified in exome sequencing (GEE model,=0.005) in comparison to the non-ASD preterm group. Additionally, a GEE model showed that a higher ASD PRS, preterm birth, and male sex were positively associated with a higher predicted probability for ASD, reaching a probability close to 90% in SPARK. Lastly, we developed a machine learning model using phenotype and genetic features available at birth with limited predictive power (AUROC = 0.65).\n\nPreterm birth may exacerbate the multimorbidity present in ASD, which was not due to the ASD genetic factors. However, increased genetic factors may elevate the likelihood of a preterm child being diagnosed with ASD. Additionally, a polygenic load of ASD-associated variants had an additive role with preterm birth in the predicted probability for ASD, especially for boys. We propose that incorporating genetic assessment into neonatal care could benefit early ASD identification and intervention for preterm infants.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is a neurodevelopmental condition characterized by diverse presentations and a strong genetic component. Environmental factors, such as prematurity, have also been linked to increased liability for ASD, though the interaction between genetic predisposition and prematurity remains unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39606368/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism Spectrum Disorder",
+    "Generalized estimating equations model",
+    "Genetics",
+    "Machine learning",
+    "Polygenic risk score",
+    "Prematurity"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

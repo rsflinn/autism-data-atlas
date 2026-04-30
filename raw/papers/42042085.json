@@ -1,0 +1,42 @@
+{
+  "pmid": "42042085",
+  "doi": "10.3390/cimb48040425",
+  "title": "Epigenetic and Transcriptomic Pathways Underlying Animal Models of Cognitive and Psychiatric Disorders: A Scoping Review",
+  "authors": "Rathored J, Pal A, Sai Painkra D",
+  "journal": "Current issues in molecular biology",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "Cognitive and psychiatric disorders are caused by a complex interplay between genetic predisposition, environmental exposures, and dynamic molecular regulation in the brain. Animal models provide a controlled environment for examining these mechanisms, and advances in transcriptome and epigenomic technologies have greatly expanded our knowledge of disease-relevant pathways.This scoping review systematically maps and synthesizes the epigenetic and transcriptomic findings from the established animal models of four neuropsychiatric conditions-autism spectrum disorder (ASD), schizophrenia, depression, and Rett syndrome-drawing on a PRISMA-ScR-guided literature search. The review characterizes the breadth of evidence, identifies convergent and divergent molecular pathways, and highlights the translational gaps and therapeutic implications.Research employing chromatin accessibility testing, genome-wide DNA methylation mapping, single-cell and bulk RNA sequencing, histone modification profiling, and multi-omics integration in mouse and other validated animal models was thoroughly reviewed. A quality appraisal of the primary experimental studies (n = 63) was performed using a modified CAMARADES checklist.Beyond generalized cellular stress responses, multi-omics analysis emphasizes the cell-type- and context-dependent nature of epigenetic changes in animal models, including isoform-specific histone modifications and model-dependent binding of HDAC/MeCP2 complexes to genes involved in synaptic plasticity. Single-cell RNA sequencing analyses have uniformly shown transcriptional changes in parvalbumin-positive (PV+) interneurons.The specific convergence of epigenetic disruptions in neural circuits involved in synaptic structure and inhibitory function could play a role in the generation of neuropsychiatric phenotypes in animal models, highlighting the importance of circuit- and cell-type-specific epigenetics while pointing to potential therapeutic avenues.",
+  "relevance_score": 30,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Cognitive and psychiatric disorders are caused by a complex interplay between genetic predisposition, environmental exposures, and dynamic molecular regulation in the brain. Animal models provide a controlled environment for examining these mechanisms, and advances in transcriptome and epigenomic technologies have greatly expanded our knowledge of disease-relevant pathways.This scoping review systematically maps and synthesizes the epigenetic and transcriptomic findings from the established anim",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42042085/",
+  "mesh_terms": [],
+  "keywords": [
+    "DNA methylation",
+    "PV+ interneurons",
+    "Rett syndrome",
+    "autism spectrum disorder",
+    "depression",
+    "epigenetics",
+    "excitatory&#x2013;inhibitory balance",
+    "histone modification",
+    "inhibitory interneurons",
+    "schizophrenia",
+    "scoping review",
+    "transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

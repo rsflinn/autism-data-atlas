@@ -1,0 +1,45 @@
+{
+  "pmid": "35476595",
+  "doi": "10.1126/scitranslmed.abm5527",
+  "title": "TAU ablation in excitatory neurons and postnatal TAU knockdown reduce epilepsy, SUDEP, and autism behaviors in a Dravet syndrome model",
+  "authors": "Shao E, Chang CW, Li Z, Yu X, Ho K, Zhang M, et al.",
+  "journal": "Science translational medicine",
+  "date": "2022-04",
+  "source": "pubmed",
+  "abstract": "Intracellular accumulation of TAU aggregates is a hallmark of several neurodegenerative diseases. However, global genetic reduction of TAU is beneficial also in models of other brain disorders that lack such TAU pathology, suggesting a pathogenic role of nonaggregated TAU. Here, conditional ablation of TAU in excitatory, but not inhibitory, neurons reduced epilepsy, sudden unexpected death in epilepsy, overactivation of the phosphoinositide 3-kinase-AKT-mammalian target of rapamycin pathway, brain overgrowth (megalencephaly), and autism-like behaviors in a mouse model of Dravet syndrome, a severe epileptic encephalopathy of early childhood. Furthermore, treatment with a TAU-lowering antisense oligonucleotide, initiated on postnatal day 10, had similar therapeutic effects in this mouse model. Our findings suggest that excitatory neurons are the critical cell type in which TAU has to be reduced to counteract brain dysfunctions associated with Dravet syndrome and that overall cerebral TAU reduction could have similar benefits, even when initiated postnatally.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Intracellular accumulation of TAU aggregates is a hallmark of several neurodegenerative diseases. However, global genetic reduction of TAU is beneficial also in models of other brain disorders that lack such TAU pathology, suggesting a pathogenic role of nonaggregated TAU.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35476595/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Epilepsies, Myoclonic",
+    "Epilepsy",
+    "Epileptic Syndromes",
+    "Humans",
+    "Infant",
+    "Mice",
+    "Neurons",
+    "Phosphatidylinositol 3-Kinases",
+    "Spasms, Infantile",
+    "Sudden Unexpected Death in Epilepsy",
+    "tau Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

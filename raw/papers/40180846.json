@@ -1,0 +1,53 @@
+{
+  "pmid": "40180846",
+  "doi": "10.1016/j.acra.2025.03.022",
+  "title": "Development of a Nomogram for Predicting Tuberous Sclerosis Complex Genotypes in Children Using Advanced Diffusion MRI and Clinical Data",
+  "authors": "Sun H, Yan Z, Gao J, Zheng Y, Zheng Y, Song Y, et al.",
+  "journal": "Academic radiology",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a multisystem genetic disorder. Focusing on central nervous system manifestations, this study developed an imaging-clinical model combining advanced diffusion MRI parameters with neurological clinical features to distinguish TSC1 vs. TSC2 genotypes.\n\nEighty-eight patients newly diagnosed with TSC were enrolled. All underwent a stratified genetic testing strategy comprising whole-exome sequencing, whole-genome sequencing, and tissue-specific deep sequencing. Diffusion spectrum imaging provided parameters from diffusion tensor imaging (DTI), diffusion kurtosis imaging (DKI), neurite orientation dispersion and density imaging (NODDI), and mean apparent propagator MRI (MAP-MRI). A combined prediction model was constructed using logistic regression and validated via bootstrap resampling.\n\nA younger age of onset, autism, neuropsychiatric disorders, intracellular volume fraction, and q-space inverse variance were independently associated with TSC2 mutations. The combined model achieved an AUC of 0.879 (95% CI: 0.841-0.917) in the training set and 0.864 (95% CI: 0.803-0.926) in the validation set. By DeLong's test, it significantly outperformed the clinical model (AUC: 0.637, 95% CI: 0.552-0.723; p < 0.001), while the difference from the imaging model (AUC: 0.833, 95% CI: 0.763-0.903) was not statistically significant (p = 0.068). However, net reclassification (NRI = 0.702, p < 0.001) and integrated discrimination improvement (IDI = 0.097, p < 0.001) both supported the combined model's superior classification ability.\n\nIntegrating advanced diffusion MRI parameters with clinical data significantly improves prediction of TSC1 vs. TSC2 genotypes. This combined approach offers valuable support for early diagnosis and personalized treatment in TSC.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is a multisystem genetic disorder. Focusing on central nervous system manifestations, this study developed an imaging-clinical model combining advanced diffusion MRI parameters with neurological clinical features to distinguish TSC1 vs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40180846/",
+  "mesh_terms": [
+    "Humans",
+    "Tuberous Sclerosis",
+    "Female",
+    "Male",
+    "Child",
+    "Child, Preschool",
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Genotype",
+    "Diffusion Magnetic Resonance Imaging",
+    "Nomograms",
+    "Adolescent",
+    "Infant",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Diffusion Tensor Imaging",
+    "Mutation"
+  ],
+  "keywords": [
+    "Autistic disorder",
+    "Child",
+    "Diffusion magnetic resonance imaging",
+    "Genetic testing",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "32717317",
+  "doi": "10.1016/j.mcn.2020.103533",
+  "title": "Models of the blood-brain barrier using iPSC-derived cells",
+  "authors": "Delsing L, Herland A, Falk A, Hicks R, Synnergren J, Zetterberg H",
+  "journal": "Molecular and cellular neurosciences",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "The blood-brain barrier (BBB) constitutes the interface between the blood and the brain tissue. Its primary function is to maintain the tightly controlled microenvironment of the brain. Models of the BBB are useful for studying the development and maintenance of the BBB as well as diseases affecting it. Furthermore, BBB models are important tools in drug development and support the evaluation of the brain-penetrating properties of novel drug molecules. Currently used in vitro models of the BBB include immortalized brain endothelial cell lines and primary brain endothelial cells of human and animal origin. Unfortunately, many cell lines and primary cells do not recreate physiological restriction of transport in vitro. Human-induced pluripotent stem cell (iPSC)-derived brain endothelial cells have proven a promising alternative source of brain endothelial-like cells that replicate tight cell layers with low paracellular permeability. Given the possibility to generate large amounts of human iPSC-derived brain endothelial cells they are a feasible alternative when modelling the BBB in vitro. iPSC-derived brain endothelial cells form tight cell layers in vitro and their barrier properties can be enhanced through coculture with other cell types of the BBB. Currently, many different models of the BBB using iPSC-derived cells are under evaluation to study BBB formation, maintenance, disruption, drug transport and diseases affecting the BBB. This review summarizes important functions of the BBB and current efforts to create iPSC-derived BBB models in both static and dynamic conditions. In addition, it highlights key model requirements and remaining challenges for human iPSC-derived BBB models in vitro.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The blood-brain barrier (BBB) constitutes the interface between the blood and the brain tissue. Its primary function is to maintain the tightly controlled microenvironment of the brain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32717317/",
+  "mesh_terms": [
+    "Animals",
+    "Biological Transport",
+    "Blood-Brain Barrier",
+    "Brain",
+    "Coculture Techniques",
+    "Endothelial Cells",
+    "Humans",
+    "Induced Pluripotent Stem Cells"
+  ],
+  "keywords": [
+    "Blood-brain barrier",
+    "Brain endothelial cells",
+    "iPSC",
+    "in vitro model"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

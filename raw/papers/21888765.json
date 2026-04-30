@@ -1,0 +1,48 @@
+{
+  "pmid": "21888765",
+  "doi": "10.1179/1351000211Y.0000000004",
+  "title": "Oxidative stress in Rett syndrome: natural history, genotype, and variants",
+  "authors": "Leoncini S, De Felice C, Signorini C, Pecorelli A, Durand T, Valacchi G, et al.",
+  "journal": "Redox report : communications in free radical research",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is an X-linked autism spectrum disorder caused by mutations in the MeCP2 gene in the great majority of cases. Evidence suggests a potential role of oxidative stress (OS) in its pathogenesis. Here, we investigated the potential value of OS markers (non-protein-bound iron (NPBI) and F2-isoprostanes (F2-IsoPs)) in explaining natural history, genotype-phenotype correlation, and clinical heterogeneity of RTT, and gauging the response to omega-3 polyunsaturated fatty acids (&#x3c9;-3 PUFAs).\n\nRTT patients (n=113) and healthy controls were assayed for plasma NPBI and F2-IsoPs, and intraerythrocyte NPBI. Forty-two patients with typical RTT were randomly assigned to &#x3c9;-3 PUFAs supplementation for 12 months. NPBI was measured by HPLC and F2-IsoPs using a gas chromatography/negative ion chemical ionization tandem mass spectrometry (GC/NICI-MS/MS) technique.\n\nF2-IsoPs were significantly higher in the early stages as compared with the late natural progression of classic RTT. MeCP2 mutations related to more severe phenotypes exhibited higher OS marker levels than those of milder phenotypes. Higher OS markers were observed in typical RTT and early seizure variant as compared with the preserved speech and congenital variants. Significant reduction in OS markers levels and improvement of severity scores were observed after &#x3c9;-3 PUFAs supplementation.\n\nOS is a key modulator of disease expression in RTT.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Rett syndrome (RTT) is an X-linked autism spectrum disorder caused by mutations in the MeCP2 gene in the great majority of cases. Evidence suggests a potential role of oxidative stress (OS) in its pathogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21888765/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Child, Preschool",
+    "Disease Progression",
+    "F2-Isoprostanes",
+    "Fatty Acids, Omega-3",
+    "Female",
+    "Genetic Association Studies",
+    "Genotype",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Oxidative Stress",
+    "Phenotype",
+    "Rett Syndrome",
+    "Tandem Mass Spectrometry"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "pmid": "31398340",
+  "doi": "10.1016/j.cell.2019.07.015",
+  "title": "Inherited and De Novo Genetic Risk for Autism Impacts Shared Networks",
+  "authors": "Ruzzo EK, P&#xe9;rez-Cano L, Jung JY, Wang LK, Kashef-Haghighi D, Hartl C, et al.",
+  "journal": "Cell",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "We performed a comprehensive assessment of rare&#xa0;inherited variation in autism spectrum disorder (ASD) by analyzing whole-genome sequences of 2,308 individuals from families with multiple affected children. We implicate 69 genes in ASD risk, including 24 passing genome-wide Bonferroni correction and 16 new ASD risk genes, most supported by rare inherited variants, a substantial extension&#xa0;of previous&#xa0;findings. Biological pathways enriched for genes harboring inherited variants represent cytoskeletal organization and ion transport, which are distinct from pathways implicated in previous studies. Nevertheless, the de novo and inherited genes contribute to a common protein-protein interaction network. We also identified structural variants (SVs) affecting non-coding regions, implicating recurrent deletions in the promoters of DLG2 and NR3C2. Loss of nr3c2 function in zebrafish disrupts sleep and social function, overlapping with human ASD-related phenotypes. These data support the utility of studying multiplex families in ASD and are available through the Hartwell Autism Research and Technology portal.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "We performed a comprehensive assessment of rare&#xa0;inherited variation in autism spectrum disorder (ASD) by analyzing whole-genome sequences of 2,308 individuals from families with multiple affected children. We implicate 69 genes in ASD risk, including 24 passing genome-wide Bonferroni correction and 16 new ASD risk genes, most supported by rare inherited variants, a substantial extension&#xa0;of previous&#xa0;findings.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31398340/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Databases, Genetic",
+    "Disease Models, Animal",
+    "Female",
+    "Gene Deletion",
+    "Genetic Predisposition to Disease",
+    "Guanylate Kinases",
+    "Humans",
+    "Inheritance Patterns",
+    "Machine Learning",
+    "Male",
+    "Nuclear Family",
+    "Pedigree",
+    "Promoter Regions, Genetic",
+    "Protein Interaction Maps",
+    "Receptors, Mineralocorticoid",
+    "Risk Factors",
+    "Tumor Suppressor Proteins",
+    "Whole Genome Sequencing",
+    "Zebrafish"
+  ],
+  "keywords": [
+    "ASD",
+    "autism",
+    "de novo",
+    "genetics",
+    "inherited",
+    "machine learning",
+    "multiplex families"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

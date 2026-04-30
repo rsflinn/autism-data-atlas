@@ -1,0 +1,54 @@
+{
+  "pmid": "34342000",
+  "doi": "10.1111/nyas.14658",
+  "title": "Harnessing rare variants in neuropsychiatric and neurodevelopment disorders-a Keystone Symposia report",
+  "authors": "Cable J, Purcell RH, Robinson E, Vorstman JAS, Chung WK, Constantino JN, et al.",
+  "journal": "Annals of the New York Academy of Sciences",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental neuropsychiatric disorders, such as autism spectrum disorder and schizophrenia, have strong genetic risk components, but the underlying mechanisms have proven difficult to decipher. Rare, high-risk variants may offer an opportunity to delineate the biological mechanisms responsible more clearly for more common idiopathic diseases. Indeed, different rare variants can cause the same behavioral phenotype, demonstrating genetic heterogeneity, while the same rare variant can cause different behavioral phenotypes, demonstrating variable expressivity. These observations suggest convergent underlying biological and neurological mechanisms; identification of these mechanisms may ultimately reveal new therapeutic targets. At the 2021 Keystone eSymposium \"Neuropsychiatric and Neurodevelopmental Disorders: Harnessing Rare Variants\" a panel of experts in the field described significant progress in genomic discovery and human phenotyping and raised several consistent issues, including the need for detailed natural history studies of rare disorders, the challenges in cohort recruitment, and the importance of viewing phenotypes as quantitative traits that are impacted by rare variants.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental neuropsychiatric disorders, such as autism spectrum disorder and schizophrenia, have strong genetic risk components, but the underlying mechanisms have proven difficult to decipher. Rare, high-risk variants may offer an opportunity to delineate the biological mechanisms responsible more clearly for more common idiopathic diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34342000/",
+  "mesh_terms": [
+    "Congresses as Topic",
+    "Genetic Variation",
+    "Humans",
+    "Mental Disorders",
+    "Neurodevelopmental Disorders",
+    "Penetrance",
+    "Research Report"
+  ],
+  "keywords": [
+    "16p11.2 deletion",
+    "22q11.2 deletion",
+    "3q29 deletion",
+    "TSC",
+    "autism",
+    "autism heterogeneity",
+    "autism spectrum disorder",
+    "copy number variant",
+    "intellectual disability",
+    "neurodevelopmental disorders",
+    "neuropsychiatric disorders",
+    "polygenic risk score",
+    "rare variants",
+    "schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

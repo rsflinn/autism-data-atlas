@@ -1,0 +1,55 @@
+{
+  "pmid": "31668607",
+  "doi": "10.1016/j.jss.2019.09.032",
+  "title": "Quantifying Pain Associated With Rib Fractures",
+  "authors": "Farley P, Griffin RL, Jansen JO, Bosarge PL",
+  "journal": "The Journal of surgical research",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Rib fractures are a major problem in trauma patients, and the associated pain is not well understood. Measuring total pain experience, duration, and intensity could facilitate comparisons of treatments. This study was intended to evaluate the feasibility of quantifying pain over the course of an admission and identify factors associated with increased pain experience in adults with rib fractures.\n\nPatients admitted to a level I trauma center with rib fractures between 2015 and 2017 were included. Maximum pain score (verbal or nonverbal) was captured for each hospital day. Total pain was defined as the sum of the area under the curve (AUC) of the max pain scores plotted against time. A general linear model was used to determine demographic, injury, and clinical predictors of the pain AUC.\n\nWe identified 3713 patients. Increased pain experienced (greater AUC) was associated with age group 40-59&#xa0;y compared with 18-39&#xa0;y (B&#xa0;=&#xa0;6.1, P&#xa0;=&#xa0;0.002); Injury Severity Score 9-14 (B&#xa0;=&#xa0;11.5, P&#xa0;<&#xa0;0.001) and &#x2265;16 (B&#xa0;=&#xa0;36.9, P&#xa0;<&#xa0;0.0001); patients with flail chest versus multiple rib fractures (B&#xa0;=&#xa0;17.1, P&#xa0;<&#xa0;0.001); and patients who underwent rib fixation (B&#xa0;=&#xa0;20.7, P&#xa0;=&#xa0;0.004). Decreased pain experience was observed for male gender (B&#xa0;=&#xa0;-3.7, P&#xa0;=&#xa0;0.032) and blunt mechanism of injury (B&#xa0;=&#xa0;-13.7, P&#xa0;<&#xa0;0.0001).\n\nThis study demonstrates the feasibility of measuring patients' total pain experience over the duration of their admission. Pain is a subjective but relevant measure of patients' experience. Our study identifies a number of predictive factors, some expected and some unexpected. Increased overall experience pain following fixation may be the result of severe pain before intervention.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Rib fractures are a major problem in trauma patients, and the associated pain is not well understood. Measuring total pain experience, duration, and intensity could facilitate comparisons of treatments.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31668607/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age Factors",
+    "Feasibility Studies",
+    "Female",
+    "Flail Chest",
+    "Fracture Fixation, Internal",
+    "Humans",
+    "Injury Severity Score",
+    "Length of Stay",
+    "Male",
+    "Middle Aged",
+    "Musculoskeletal Pain",
+    "Pain Measurement",
+    "Retrospective Studies",
+    "Rib Fractures",
+    "Severity of Illness Index",
+    "Sex Factors",
+    "Time Factors",
+    "Trauma Centers",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Pain",
+    "Pain measurement",
+    "Rib fractures",
+    "Trauma"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

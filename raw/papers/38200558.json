@@ -1,0 +1,50 @@
+{
+  "pmid": "38200558",
+  "doi": "10.1186/s12974-024-03012-y",
+  "title": "Chorioamnionitis accelerates granule cell and oligodendrocyte maturation in the cerebellum of preterm nonhuman primates",
+  "authors": "Newman J, Tong X, Tan A, Yeasky T, De Paiva VN, Presicce P, et al.",
+  "journal": "Journal of neuroinflammation",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Preterm birth is often associated with chorioamnionitis and leads to increased risk of neurodevelopmental disorders, such as autism. Preterm birth can lead to cerebellar underdevelopment, but the mechanisms of disrupted cerebellar development in preterm infants are not well understood. The cerebellum is consistently affected in people with autism spectrum disorders, showing reduction of&#xa0;Purkinje cells, decreased cerebellar grey matter, and altered connectivity.\n\nPreterm rhesus macaque fetuses were exposed to intra-amniotic LPS (1&#xa0;mg, E. coli O55:B5) at 127&#xa0;days (80%) gestation and delivered by c-section 5&#xa0;days after injections. Maternal and fetal plasma were sampled for cytokine measurements. Chorio-decidua was analyzed for immune cell populations by flow cytometry. Fetal cerebellum was sampled for histology and molecular analysis by single-nuclei RNA-sequencing (snRNA-seq) on a 10&#xd7; chromium platform. snRNA-seq data were analyzed for differences in cell populations, cell-type specific gene expression, and inferred cellular communications.\n\nWe&#xa0;leveraged snRNA-seq of the cerebellum in a clinically relevant rhesus macaque model of chorioamnionitis and preterm birth, to show that chorioamnionitis leads to Purkinje cell loss and disrupted maturation of granule cells and oligodendrocytes in the fetal cerebellum at late gestation. Purkinje cell loss is accompanied by decreased sonic hedgehog signaling from Purkinje cells to granule cells, which show an accelerated maturation, and to oligodendrocytes, which show accelerated maturation from pre-oligodendrocytes into myelinating oligodendrocytes.\n\nThese findings suggest a role of chorioamnionitis on disrupted cerebellar maturation associated with preterm birth and on the pathogenesis of neurodevelopmental disorders among preterm infants.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Preterm birth is often associated with chorioamnionitis and leads to increased risk of neurodevelopmental disorders, such as autism. Preterm birth can lead to cerebellar underdevelopment, but the mechanisms of disrupted cerebellar development in preterm infants are not well understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38200558/",
+  "mesh_terms": [
+    "Infant, Newborn",
+    "Female",
+    "Infant",
+    "Animals",
+    "Humans",
+    "Pregnancy",
+    "Hedgehog Proteins",
+    "Macaca mulatta",
+    "Chorioamnionitis",
+    "Premature Birth",
+    "Escherichia coli",
+    "Infant, Premature",
+    "Cerebellum",
+    "RNA, Small Nuclear"
+  ],
+  "keywords": [
+    "Cerebellum",
+    "Chorioamnionitis",
+    "Granule cell",
+    "Maturation",
+    "Oligodendrocyte",
+    "Purkinje cell"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

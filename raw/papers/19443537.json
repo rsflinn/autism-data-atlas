@@ -1,0 +1,37 @@
+{
+  "pmid": "19443537",
+  "doi": "10.1093/bmb/ldp017",
+  "title": "Schizophrenia genetics: new insights from new approaches",
+  "authors": "Williams HJ, Owen MJ, O'Donovan MC",
+  "journal": "British medical bulletin",
+  "date": "2009-05",
+  "source": "pubmed",
+  "abstract": "Schizophrenia is a debilitating psychiatric disorder that imposes a considerable burden on sufferers, their families and society. The prominent involvement of genes, combined with the complexity and relative inaccessibility of the brain has led many to suggest that the identification of specific risk loci offers the best chance of understanding pathogenesis.\n\nRecent genome-wide association studies (GWAS) and copy number variation (CNV) publications have been included in this review along with key papers from the fields of schizophrenia, functional psychoses and complex disease mapping.\n\nRecent GWAS have now shown that both common alleles of small effect and rare alleles of moderate to large effect contribute to the high heritability of schizophrenia.\n\nIt is well known that many schizophrenic patients suffer symptoms seen in patients with bipolar disease and vice versa. There is now considerable interest in using aetiologically relevant risk factors, including genes, to explore the validity of the contemporary system of classification.\n\nRare CNVs have been shown to play a role in at least some cases of schizophrenia and it is highly predictable that this figure will rise with the use of technologies with higher resolution or that are better designed to assay common CNVs reliably.\n\nThe findings with common alleles thus far point to overlap in the genetic risk for schizophrenia and bipolar disorder, while the specific CNVs implicated in schizophrenia also increase susceptibility to a range of developmental disorders, including autism, mental retardation, attention deficit-hyperactivity disorder (ADHD) and epilepsy.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Schizophrenia is a debilitating psychiatric disorder that imposes a considerable burden on sufferers, their families and society. The prominent involvement of genes, combined with the complexity and relative inaccessibility of the brain has led many to suggest that the identification of specific risk loci offers the best chance of understanding pathogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19443537/",
+  "mesh_terms": [
+    "DNA Copy Number Variations",
+    "DNA, Neoplasm",
+    "Genetic Linkage",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

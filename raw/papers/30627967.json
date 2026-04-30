@@ -1,0 +1,44 @@
+{
+  "pmid": "30627967",
+  "doi": "10.1007/s13353-018-00480-w",
+  "title": "Genetics and epigenetics of autism spectrum disorder-current evidence in the field",
+  "authors": "Wi&#x15b;niowiecka-Kowalnik B, Nowakowska BA",
+  "journal": "Journal of applied genetics",
+  "date": "2019-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) is a heterogenous group of neurodevelopmental disorders characterized by problems in social interaction and communication as well as the presence of repetitive and stereotyped behavior. It is estimated that the prevalence of ASD is 1-2% in the general population with the average male to female ratio 4-5:1. Although the causes of ASD remain largely unknown, the studies have shown that both genetic and environmental factors play an important role in the etiology of these disorders. Array comparative genomic hybridization and whole exome/genome sequencing studies identified common and rare copy number or single nucleotide variants in genes encoding proteins involved in brain development, which play an important role in neuron and synapse formation and function. The genetic etiology is recognized in ~&#x2009;25-35% of patients with ASD. In this article, we review the current state of knowledge about the genetic etiology of ASD and also propose a diagnostic algorithm for patients.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) is a heterogenous group of neurodevelopmental disorders characterized by problems in social interaction and communication as well as the presence of repetitive and stereotyped behavior. It is estimated that the prevalence of ASD is 1-2% in the general population with the average male to female ratio 4-5:1.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30627967/",
+  "mesh_terms": [
+    "Algorithms",
+    "Autism Spectrum Disorder",
+    "Comparative Genomic Hybridization",
+    "DNA Copy Number Variations",
+    "Epigenesis, Genetic",
+    "Exome",
+    "Humans",
+    "Models, Genetic"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Copy number variants",
+    "Heritability",
+    "Single nucleotide variants",
+    "Synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

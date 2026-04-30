@@ -1,0 +1,50 @@
+{
+  "pmid": "39657846",
+  "doi": "10.1016/j.nbd.2024.106763",
+  "title": "Unraveling pathogenesis and potential biomarkers for autism spectrum disorder associated with HIF1A pathway based on machine learning and experiment validation",
+  "authors": "Cui J, Li H, Hu C, Zhang F, Li Y, Weng Y, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with a high social burden and limited treatments. Hypoxic condition of the brain is considered an important pathological mechanism of ASD. HIF1A is a key participant in brain hypoxia, but its contribution to the pathophysiological landscape of ASD remains unclear.\n\nASD-related datasets were obtained from GEO database, and HIF1A-related genes from GeneCards. Co-expression module analysis identified module genes, which were intersected with HIF1A-related genes to identify common genes. Machine learning identified hub genes from intersection genes and PPI networks were constructed to explore relationships among hub and HIF1A. Single-cell RNA sequencing analyzed hub gene distribution across cell clusters. ASD mouse model was created by inducing maternal immune activation (MIA) with poly(I:C) injections, verified through behavioral tests. Validation of HIF1A pathway and hub genes was confirmed through Western Blot, qPCR, and immunofluorescence in ASD mice and microglia BV-2 cells.\n\nUsing CEMiTool and GeneCards, 45 genes associated with ASD and HIF1A pathway were identified. Machine learning identified CDKN1A, ETS2, LYN, and SLC16A3 as potential ASD diagnostic markers. Single-cell sequencing pinpointed activated microglia as key immune cells. Behavioral tests showed MIA offspring mice exhibited typical ASD-like behaviors. Immunofluorescence confirmed the activation of microglia and HIF1A pathway in frontal cortex of ASD mice. Additionally, IL-6 contributed to ASD by activating JUN/HIF1A pathway, affecting CDKN1A, LYN, and SLC16A3 expression in microglia.\n\nHIF1A-related genes CDKN1A, ETS2, LYN, and SLC16A3 are strong diagnostic markers for ASD and the activation of IL-6/JUN/HIF1A pathway in microglia contributes to the pathogenesis of ASD.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder with a high social burden and limited treatments. Hypoxic condition of the brain is considered an important pathological mechanism of ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39657846/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Machine Learning",
+    "Mice",
+    "Hypoxia-Inducible Factor 1, alpha Subunit",
+    "Biomarkers",
+    "Female",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Microglia",
+    "Humans",
+    "Disease Models, Animal",
+    "Signal Transduction"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Frontal cortex",
+    "HIF1A",
+    "IL-6",
+    "Machine learning",
+    "Microglia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

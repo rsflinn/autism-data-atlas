@@ -1,0 +1,52 @@
+{
+  "pmid": "22522469",
+  "doi": "10.1016/j.neuroscience.2012.03.048",
+  "title": "Dendritic spine pathology in epilepsy: cause or consequence?",
+  "authors": "Wong M, Guo D",
+  "journal": "Neuroscience",
+  "date": "2012-04",
+  "source": "pubmed",
+  "abstract": "Abnormalities in dendritic spines have commonly been observed in brain specimens from epilepsy patients and animal models of epilepsy. However, the functional implications and clinical consequences of this dendritic pathology for epilepsy are uncertain. Dendritic spine abnormalities may promote hyperexcitable circuits and seizures in some types of epilepsy, especially in specific genetic syndromes with documented dendritic pathology, but in these cases it is difficult to differentiate their effects on seizures versus other comorbidities, such as cognitive deficits and autism. In other situations, seizures themselves may cause damage to dendrites and dendritic spines and this seizure-induced brain injury may then contribute to progressive epileptogenesis, memory problems and other neurological deficits in epilepsy patients. The mechanistic basis of dendritic spine abnormalities in epilepsy has begun to be elucidated and suggests novel therapeutic strategies for treating epilepsy and its complications.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Abnormalities in dendritic spines have commonly been observed in brain specimens from epilepsy patients and animal models of epilepsy. However, the functional implications and clinical consequences of this dendritic pathology for epilepsy are uncertain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22522469/",
+  "mesh_terms": [
+    "Animals",
+    "Dendritic Spines",
+    "Epilepsy",
+    "Humans"
+  ],
+  "keywords": [
+    "LTD",
+    "LTP",
+    "MECP2",
+    "N-methyl-d-aspartate",
+    "NMDA",
+    "TSC",
+    "actin",
+    "dendrite",
+    "epilepsy",
+    "epileptogenesis",
+    "long-term depression",
+    "long-term potentiation",
+    "mTOR",
+    "mammalian target of rapamycin",
+    "methyl-CpG-binding protein-2",
+    "seizure",
+    "tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

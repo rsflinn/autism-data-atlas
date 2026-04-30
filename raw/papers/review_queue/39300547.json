@@ -1,0 +1,51 @@
+{
+  "pmid": "39300547",
+  "doi": "10.1186/s13229-024-00617-1",
+  "title": "Pharmacological inhibition of the CB1 cannabinoid receptor restores abnormal brain mitochondrial CB1 receptor expression and rescues bioenergetic and cognitive defects in a female mouse model of Rett syndrome",
+  "authors": "Cosentino L, Urbinati C, Lanzillotta C, De Rasmo D, Valenti D, Pellas M, et al.",
+  "journal": "Molecular autism",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Defective mitochondria and aberrant brain mitochondrial bioenergetics are consistent features in syndromic intellectual disability disorders, such as Rett syndrome (RTT), a rare neurologic disorder that severely affects mainly females carrying mutations in the X-linked MECP2 gene. A pool of CB1&#xa0;cannabinoid receptors (CB1R), the primary receptor subtype of the endocannabinoid system in the brain, is located on brain mitochondrial membranes (mtCB1R), where it can locally regulate energy production, synaptic transmission and memory abilities through the inhibition of the intra-mitochondrial protein kinase A (mtPKA). In the present study, we asked whether an overactive mtCB1R-mtPKA signaling might underlie the brain mitochondrial alterations in RTT and whether its modulation by systemic administration of the CB1R inverse agonist rimonabant might improve bioenergetics and cognitive defects in mice modeling RTT.\n\nRimonabant (0.3&#xa0;mg/kg/day, intraperitoneal injections) was administered daily to symptomatic female mice carrying a truncating mutation of the Mecp2 gene and its effects on brain mitochondria functionality, systemic oxidative status, and memory function were assessed.\n\nmtCB1R is overexpressed in the RTT mouse brain. Subchronic treatment with rimonabant normalizes mtCB1R expression in RTT mouse brains, boosts mtPKA signaling, and restores the defective brain mitochondrial bioenergetics, abnormal peripheral redox homeostasis, and impaired cognitive abilities in RTT mice.\n\nThe lack of selectivity of the rimonabant treatment towards mtCB1R does not allow us to exclude that the beneficial effects exerted by the treatment in the RTT mouse model may be ascribed more broadly to the modulation of CB1R activity and distribution among intracellular compartments, rather than to a selective effect on mtCB1R-mediated signaling. The low sample size of few experiments is a further limitation that has been addressed replicating the main findings under different experimental conditions.\n\nThe present data identify mtCB1R overexpression as a novel molecular alteration in the RTT mouse brain that may underlie defective brain mitochondrial bioenergetics and cognitive dysfunction.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Defective mitochondria and aberrant brain mitochondrial bioenergetics are consistent features in syndromic intellectual disability disorders, such as Rett syndrome (RTT), a rare neurologic disorder that severely affects mainly females carrying mutations in the X-linked MECP2 gene. A pool of CB1&#xa0;cannabinoid receptors (CB1R), the primary receptor subtype of the endocannabinoid system in the brain, is located on brain mitochondrial membranes (mtCB1R), where it can locally regulate energy produ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39300547/",
+  "mesh_terms": [
+    "Animals",
+    "Female",
+    "Mice",
+    "Brain",
+    "Disease Models, Animal",
+    "Energy Metabolism",
+    "Methyl-CpG-Binding Protein 2",
+    "Mitochondria",
+    "Receptor, Cannabinoid, CB1",
+    "Rett Syndrome",
+    "Rimonabant"
+  ],
+  "keywords": [
+    "Brain mitochondria",
+    "CB1 cannabinoid receptor",
+    "Energy metabolism",
+    "Intellectual disability",
+    "Mouse model",
+    "PKA",
+    "Rett syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

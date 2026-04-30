@@ -1,0 +1,45 @@
+{
+  "pmid": "38475925",
+  "doi": "10.1186/s40359-024-01609-9",
+  "title": "Experiences and concerns of parents of children with a 16p11.2 deletion or duplication diagnosis: a reflexive thematic analysis",
+  "authors": "Butter CE, Goldie CL, Hall JH, Leadbitter K, Burkitt EMM, van den Bree MBM, et al.",
+  "journal": "BMC psychology",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "16p11.2 proximal deletion and duplication syndromes (Break points 4-5) (593KB, Chr16; 29.6-30.2mb - HG38) are observed to have highly varied phenotypes, with a known propensity for lifelong psychiatric problems. This study aimed to contribute to a research gap by qualitatively exploring the challenges families with 16p11.2 deletion and duplication face by answering three research questions: (1) What are parents' perceptions of the ongoing support needs of families with children who have 16p11.2 living in the UK?; (2) What are their experiences in trying to access support?; (3) In these regards, do the experiences of parents of children with duplication converge or vary from those of parents of children with 16p11.2 deletion?\n\n33 parents with children (aged 7-17 years) with 16p11.2 deletion or duplication participated in structured interviews, including the Autism Diagnostic Interview- Revised (ADI-R). Their answers to the ADI-R question 'what are your current concerns' were transcribed and subsequently analysed using Braun and Clarke's six step reflexive thematic analysis framework.\n\nThree themes were identified: (1) Child is Behind Peers (subthemes: developmentally; academically; socially; emotionally); (2) Metabolism and Eating Patterns and; (3) Support (subthemes: insufficient support available; parent has to fight to access support; COVID-19 was a barrier to accessing support; 16p11.2 diagnosis can be a barrier to support, child is well-supported).\n\nParents of children with either 16p11.2 deletion or duplication shared similar experiences. However, metabolism concerns were specific to parents of children with 16p11.2 deletion. The theme Child is Behind Peers echoed concerns raised in previous Neurodevelopmental Copy Number Variant research. However, there were some key subthemes relating to research question (2) which were specific to this study. This included parents' descriptions of diagnostic overshadowing and the impact of a lack of eponymous name and scant awareness of 16p11.2.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "16p11.2 proximal deletion and duplication syndromes (Break points 4-5) (593KB, Chr16; 29.6-30.2mb - HG38) are observed to have highly varied phenotypes, with a known propensity for lifelong psychiatric problems. This study aimed to contribute to a research gap by qualitatively exploring the challenges families with 16p11.2 deletion and duplication face by answering three research questions: (1) What are parents' perceptions of the ongoing support needs of families with children who have 16p11.2 ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38475925/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Chromosome Deletion",
+    "Autistic Disorder",
+    "Parents"
+  ],
+  "keywords": [
+    "16p11.2 deletion",
+    "16p11.2 duplication",
+    "Autism",
+    "Children",
+    "Experiences",
+    "Families",
+    "Neurodevelopmental",
+    "Overshadowing",
+    "Qualitative",
+    "Support"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

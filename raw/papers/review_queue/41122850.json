@@ -1,0 +1,41 @@
+{
+  "pmid": "41122850",
+  "doi": "10.1161/STROKEAHA.125.052606",
+  "title": "Predictive Role of White Matter Hyperintensities in Poststroke Aphasia: A Systematic Review of Clinical Evidence",
+  "authors": "Pisano F, Rizzo G, D'Angelo L, Bilotta F",
+  "journal": "Stroke",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "White matter hyperintensities (WMHs), the neuroimaging markers of cerebral small vessel disease, have been associated with adverse neurological recovery after stroke. However, their role in poststroke aphasia, an acquired language disorder affecting approximately one-third of stroke survivors, remains unclear. This review synthesizes evidence on the relationship between WMHs and poststroke aphasia, focusing on severity and recovery across stroke phases, associations with cognitive outcomes, and the influence of hemispheric lateralization.\n\nThis systematic review followed the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines. Literature search was performed across PubMed, Scopus, and Web of Science. Thirteen studies met eligibility criteria, examining the impact of WMH severity on language and cognitive deficits in patients with poststroke aphasia. Correlation and regression analyses were the predominant statistical approaches to evaluate associations and control for confounders.\n\nGreater WMH burden was significantly associated with more severe language impairments in the chronic (6 studies, n=443), subacute (3 studies, n=117), and mixed subacute-chronic phases (1 study, n=42), particularly in object naming, word fluency, and spoken comprehension. Preliminary evidence suggests periventricular WMHs may be more linked to aphasia severity than deep WMHs, whereas treatment-related findings remain inconclusive. In the acute phase, 2 studies (n=288) found no association between WMH burden and either aphasia severity or treatment response. In chronic aphasia (4 studies, n=392), WMHs were also linked to poorer cognitive performance, especially in nonverbal reasoning and executive functions. Hemispheric assessment varied, with some studies focusing on the contralesional side to reduce lesion-related confounding, while others used bilateral measures, limiting comparability.\n\nWMHs may represent neuroimaging biomarkers of language and cognitive dysfunction in chronic and subacute poststroke aphasia. Future studies with standardized imaging protocols and larger samples are needed to clarify their prognostic value and personalize rehabilitation strategies.\n\nURL: https://www.crd.york.ac.uk/PROSPERO/; Unique identifier: CRD42024582826.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "White matter hyperintensities (WMHs), the neuroimaging markers of cerebral small vessel disease, have been associated with adverse neurological recovery after stroke. However, their role in poststroke aphasia, an acquired language disorder affecting approximately one-third of stroke survivors, remains unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41122850/",
+  "mesh_terms": [
+    "Humans",
+    "Aphasia",
+    "White Matter",
+    "Stroke"
+  ],
+  "keywords": [
+    "aphasia",
+    "cerebral small vessel disease",
+    "cognition",
+    "language",
+    "stroke",
+    "white matter"
+  ],
+  "article_types": [
+    "Systematic Review",
+    "Journal Article"
+  ]
+}

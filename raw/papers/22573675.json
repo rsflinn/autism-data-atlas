@@ -1,0 +1,53 @@
+{
+  "pmid": "22573675",
+  "doi": "10.1523/JNEUROSCI.6107-11.2012",
+  "title": "Reduced excitatory neurotransmission and mild autism-relevant phenotypes in adolescent Shank3 null mutant mice",
+  "authors": "Yang M, Bozdagi O, Scattoni ML, W&#xf6;hr M, Roullet FI, Katz AM, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2012-05",
+  "source": "pubmed",
+  "abstract": "Mutations in the synaptic scaffolding protein gene SHANK3 are strongly implicated in autism and Phelan-McDermid 22q13 deletion syndrome. The precise location of the mutation within the Shank3 gene is key to its phenotypic outcomes. Here, we report the physiological and behavioral consequences of null and heterozygous mutations in the ankyrin repeat domain in Shank3 mice. Both homozygous and heterozygous mice showed reduced glutamatergic transmission and long-term potentiation in the hippocampus with more severe deficits detected in the homozygous mice. Three independent cohorts were evaluated for magnitude and replicability of behavioral endophenotypes relevant to autism and Phelan-McDermid syndrome. Mild social impairments were detected, primarily in juveniles during reciprocal interactions, while all genotypes displayed normal adult sociability on the three-chambered task. Impaired novel object recognition and rotarod performance were consistent across cohorts of null mutants. Repetitive self-grooming, reduced ultrasonic vocalizations, and deficits in reversal of water maze learning were detected only in some cohorts, emphasizing the importance of replication analyses. These results demonstrate the exquisite specificity of deletions in discrete domains within the Shank3 gene in determining severity of symptoms.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Mutations in the synaptic scaffolding protein gene SHANK3 are strongly implicated in autism and Phelan-McDermid 22q13 deletion syndrome. The precise location of the mutation within the Shank3 gene is key to its phenotypic outcomes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22573675/",
+  "mesh_terms": [
+    "Age Factors",
+    "Animals",
+    "Autistic Disorder",
+    "Carrier Proteins",
+    "Excitatory Postsynaptic Potentials",
+    "Female",
+    "Genetic Carrier Screening",
+    "Glutamic Acid",
+    "Homozygote",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Microfilament Proteins",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Neural Inhibition",
+    "Phenotype",
+    "Synaptic Transmission"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

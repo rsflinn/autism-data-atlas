@@ -1,0 +1,45 @@
+{
+  "pmid": "35878480",
+  "doi": "10.1016/j.psychres.2022.114735",
+  "title": "Association of low 25-OH-vitamin D levels and peripheral inflammatory markers in patients with autism spectrum disorder: Vitamin D and inflammation in Autism",
+  "authors": "Esnafoglu E, Suba&#x15f;&#x131; B",
+  "journal": "Psychiatry research",
+  "date": "2022-07",
+  "source": "pubmed",
+  "abstract": "Inflammatory mechanisms and Vitamin D are reported to play important roles in the pathophysiology of Autism Spectrum Disorders (ASD). There are ample evidences that vitamin D has an anti-inflammatory effect. In this study, we aimed, for the first time, to investigate the 25-OH-vitamin D with inflammation markers in ASD patients. The study included 154 patients with ASD and 98 healthy subjects. 25-OH-Vitamin D levels and simple peripheral inflammatory markers such as Neutrophil-Lymphocyte ratio (NLR), C-reactive protein (CRP) and, sedimentation were measured in all subjects. K-SADS-PL-DSM 5 were administered to all subjects to evaluate the psychiatric diagnosis. Childhood Autism Rating Scale was used to asses severity of autism. In the patient group, high CRP rate, leukocyte, neutrophil and NLR were significantly high compared to the healthy control group. 25-OH-Vitamin D levels were found to be statistically significantly lower in the ASD group. While a significant negative correlation was found between 25-OH-Vitamin D and CRP, NLR, neutrophil counts in ASD patients, a positive correlation was found between lymphocyte counts. Especially in male ASD patients, the relationship between 25-OH-Vitamin D and inflammation markers was more pronounced. Our findings support the association of vitamin D and inflammation in ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Inflammatory mechanisms and Vitamin D are reported to play important roles in the pathophysiology of Autism Spectrum Disorders (ASD). There are ample evidences that vitamin D has an anti-inflammatory effect.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35878480/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Biomarkers",
+    "C-Reactive Protein",
+    "Child",
+    "Humans",
+    "Inflammation",
+    "Male",
+    "Vitamin D",
+    "Vitamins"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "C-reactive protein",
+    "Inflammation",
+    "Neutrophil-lymphocyte ratio",
+    "Vitamin D"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

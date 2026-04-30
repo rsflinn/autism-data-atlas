@@ -1,0 +1,38 @@
+{
+  "pmid": "25946996",
+  "doi": "10.1007/s11910-015-0553-1",
+  "title": "Recent advances in the genetics of autism spectrum disorder",
+  "authors": "De Rubeis S, Buxbaum JD",
+  "journal": "Current neurology and neuroscience reports",
+  "date": "2015-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a devastating neurodevelopmental disorder with high prevalence in the population and a pronounced male preponderance. ASD has a strong genetic basis, but until recently, a large fraction of the genetic factors contributing to liability was still unknown. Over the past 3 years, high-throughput next-generation sequencing on large cohorts has exposed a heterogeneous and complex genetic landscape and has revealed novel risk genes. Here, we provide an overview of the recent advances on the ASD genetic architecture, with an emphasis on the estimates of heritability, the contribution of common variants, and the role of inherited and de novo rare variation. We also examine the genetic components of the reported gender bias. Finally, we discuss the emerging findings from sequencing studies and how they illuminate crucial aspects of ASD pathophysiology.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a devastating neurodevelopmental disorder with high prevalence in the population and a pronounced male preponderance. ASD has a strong genetic basis, but until recently, a large fraction of the genetic factors contributing to liability was still unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25946996/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "DNA Copy Number Variations",
+    "Exome",
+    "Genetic Predisposition to Disease",
+    "Genome, Human",
+    "Humans",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

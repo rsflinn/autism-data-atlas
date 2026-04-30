@@ -1,0 +1,47 @@
+{
+  "pmid": "38990389",
+  "doi": "10.1007/s00281-024-01017-6",
+  "title": "The role of microglia in early neurodevelopment and the effects of maternal immune activation",
+  "authors": "Mastenbroek LJM, Kooistra SM, Eggen BJL, Prins JR",
+  "journal": "Seminars in immunopathology",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Activation of the maternal immune system during gestation has been associated with an increased risk for neurodevelopmental disorders in the offspring, particularly schizophrenia and autism spectrum disorder. Microglia, the tissue-resident macrophages of the central nervous system, are implicated as potential mediators of this increased risk. Early in development, microglia start populating the embryonic central nervous system and in addition to their traditional role as immune responders under homeostatic conditions, microglia are also intricately involved in various early neurodevelopmental processes. The timing of immune activation may interfere with microglia functioning during early neurodevelopment, potentially leading to long-term consequences in postnatal life. In this review we will discuss the involvement of microglia in brain development during the prenatal and early postnatal stages of life, while also examining the effects of maternal immune activation on microglia and neurodevelopmental processes. Additionally, we discuss recent single cell RNA-sequencing studies focusing on microglia during prenatal development, and hypothesize how early life microglial priming, potentially through epigenetic reprogramming, may be related to neurodevelopmental disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Activation of the maternal immune system during gestation has been associated with an increased risk for neurodevelopmental disorders in the offspring, particularly schizophrenia and autism spectrum disorder. Microglia, the tissue-resident macrophages of the central nervous system, are implicated as potential mediators of this increased risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38990389/",
+  "mesh_terms": [
+    "Microglia",
+    "Humans",
+    "Pregnancy",
+    "Animals",
+    "Neurodevelopmental Disorders",
+    "Prenatal Exposure Delayed Effects",
+    "Female",
+    "Brain",
+    "Epigenesis, Genetic",
+    "Disease Susceptibility"
+  ],
+  "keywords": [
+    "Immune system",
+    "Maternal immune activation",
+    "Microglia",
+    "Neurodevelopment",
+    "Prenatal development"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

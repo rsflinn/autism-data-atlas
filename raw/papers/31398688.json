@@ -1,0 +1,48 @@
+{
+  "pmid": "31398688",
+  "doi": "10.1016/j.yebeh.2019.07.037",
+  "title": "The co-occurrence of epilepsy and autism: A systematic review",
+  "authors": "Lukmanji S, Manji SA, Kadhim S, Sauro KM, Wirrell EC, Kwon CS, et al.",
+  "journal": "Epilepsy & behavior : E&B",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "We aimed to review the literature to determine the incidence and prevalence of autism in epilepsy and epilepsy in autism, conditions that are often comorbid.\n\nWe adhered to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) standards, and the protocol was registered with PROSPERO. MEDLINE, Embase, PsycINFO, and the Cochrane Database of Systematic Reviews were searched from inception until July 4, 2016. Studies were included if they reported an incidence or prevalence of autism in epilepsy or epilepsy in autism. These estimates were described using mean, standard deviation, median, and interquartile range.\n\nSeventy-four studies reporting on 283,549 patients were included. The median overall period prevalence of epilepsy in people with autism was 12.1% while the median overall period prevalence of autism in people with epilepsy was 9.0% when including all population types. When excluding studies that investigated patients with syndromic epilepsy or developmental delay, the median overall period prevalence of epilepsy in people with autism was 11.2% while the median overall period prevalence of autism in people with epilepsy was 8.1%. We observed trends for sex as the prevalence of autism in epilepsy was higher in males while the prevalence of epilepsy in autism was higher in females. It is important to interpret these estimates with caution, as there was significant heterogeneity between studies. Meta-regression found no association between study quality and prevalence or incidence estimates (all p-values&#x202f;>&#x202f;0.05).\n\nThe period prevalence of epilepsy in people with autism, and vice versa, was consistently higher than previously reported estimates of the occurrence of these disorders in the general population. These findings highlight the importance of screening for autism in people who have epilepsy and epilepsy in people who have autism and may help shed light on shared pathogenesis between these conditions.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "We aimed to review the literature to determine the incidence and prevalence of autism in epilepsy and epilepsy in autism, conditions that are often comorbid. We adhered to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) standards, and the protocol was registered with PROSPERO.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31398688/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Comorbidity",
+    "Databases, Factual",
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Incidence",
+    "Male",
+    "Prevalence"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Comorbidity",
+    "Incidence",
+    "Prevalence",
+    "Seizure"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ]
+}

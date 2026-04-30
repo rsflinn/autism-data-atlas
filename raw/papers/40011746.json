@@ -1,0 +1,38 @@
+{
+  "pmid": "40011746",
+  "doi": "10.1038/s41594-024-01476-3",
+  "title": "Structure of the human K13.1 channel reveals a hydrophilic pore restriction and lipid cofactor site",
+  "authors": "Roy-Chowdhury S, Jang S, Abderemane-Ali F, Naughton F, Grabe M, Minor DL",
+  "journal": "Nature structural & molecular biology",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Polyunsaturated fatty acid (PUFA) lipids modulate the neuronal and microglial leak potassium channel K13.1 (THIK1) and other voltage-gated ion channel (VGIC) superfamily members through poorly understood mechanisms. Here we present cryo-electron microscopy structures of human THIK1 and mutants, revealing a unique two-chamber aqueous inner cavity obstructed by a hydrophilic barrier important for gating, the flow restrictor, and a P1-M4 intersubunit interface lipid at a site, the PUFA site, corresponding to the Ksmall-molecule modulator pocket. This overlap, together with functional studies, indicates that PUFA site lipids are THIK1 cofactors. Comparison with a PUFA-responsive VGIC, K7.1, reveals a shared modulatory role for the pore domain intersubunit interface, providing a framework for understanding PUFA action on the VGIC superfamily. Our findings reveal the distinct THIK1 architecture, highlight the importance of the P1-M4 interface for Kcontrol by natural and synthetic ligands and should aid in the development of THIK subfamily modulators for neuroinflammation and autism.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Polyunsaturated fatty acid (PUFA) lipids modulate the neuronal and microglial leak potassium channel K13.1 (THIK1) and other voltage-gated ion channel (VGIC) superfamily members through poorly understood mechanisms. Here we present cryo-electron microscopy structures of human THIK1 and mutants, revealing a unique two-chamber aqueous inner cavity obstructed by a hydrophilic barrier important for gating, the flow restrictor, and a P1-M4 intersubunit interface lipid at a site, the PUFA site, corres",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40011746/",
+  "mesh_terms": [
+    "Humans",
+    "Cryoelectron Microscopy",
+    "Models, Molecular",
+    "Hydrophobic and Hydrophilic Interactions",
+    "Fatty Acids, Unsaturated",
+    "Ion Channel Gating",
+    "Potassium Channels",
+    "Binding Sites",
+    "Protein Conformation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

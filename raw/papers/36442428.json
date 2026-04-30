@@ -1,0 +1,40 @@
+{
+  "pmid": "36442428",
+  "doi": "10.1016/j.seizure.2022.11.004",
+  "title": "Identification of autism in cognitively able adults with epilepsy: A narrative review and discussion of available screening and diagnostic tools",
+  "authors": "Perinelli MG, Cloherty M",
+  "journal": "Seizure",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "The recent NICE epilepsy Guideline (NG217; 2022) recommends that epilepsy professionals need to be alert to autism when considering mental health presentations, behavioural difficulties and as a marker for referral for whole genome sequencing for those patients with epilepsy of unknown cause. However, this relies upon the existence of valid autism screens for people with epilepsy (PWE). We found few studies of autism in cognitively able PWE. This represents an important gap in the literature. We describe different autism screening and diagnostic tools; two screening tools have been used specifically for adult PWE who are cognitively able (AQ, SRS-AS). The AQ is more psychometrically robust, but there may be an overlap between these screening questions and questions relevant to some psychiatric disorders. Formal gold-standard diagnostic tools (module 4 of ADOS-2, ADI-R or 3Di or 3Di-Adult) would benefit from studies of their application to cognitively able PWE. More research is needed to understand the characteristics of autism in cognitively able PWE and to ascertain the appropriate screening and diagnostic tools for this cohort.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The recent NICE epilepsy Guideline (NG217; 2022) recommends that epilepsy professionals need to be alert to autism when considering mental health presentations, behavioural difficulties and as a marker for referral for whole genome sequencing for those patients with epilepsy of unknown cause. However, this relies upon the existence of valid autism screens for people with epilepsy (PWE).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36442428/",
+  "mesh_terms": [
+    "Humans",
+    "Adult",
+    "Autistic Disorder",
+    "Epilepsy"
+  ],
+  "keywords": [
+    "Adult patients",
+    "Autism diagnostic tools",
+    "Autism screening tools",
+    "Autism spectrum disorder",
+    "Epilepsy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

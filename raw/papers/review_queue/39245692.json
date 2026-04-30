@@ -1,0 +1,38 @@
+{
+  "pmid": "39245692",
+  "doi": "10.1038/s41380-024-02728-w",
+  "title": "Peering into the mind: unraveling schizophrenia's secrets using models",
+  "authors": "Nani JV, Muotri AR, Hayashi MAF",
+  "journal": "Molecular psychiatry",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Schizophrenia (SCZ) is a complex mental disorder characterized by a range of symptoms, including positive and negative symptoms, as well as cognitive impairments. Despite the&#xa0;extensive research, the underlying neurobiology of SCZ remain elusive. To overcome this challenge, the use of diverse laboratory modeling techniques, encompassing cellular and animal models, and innovative approaches like induced pluripotent stem cell (iPSC)-derived neuronal cultures or brain organoids and genetically engineered animal models, has been crucial. Immortalized cellular models provide controlled environments for investigating the molecular and neurochemical pathways involved in neuronal function, while iPSCs and brain organoids, derived from patient-specific sources, offer significant advantage in translational research by facilitating direct comparisons of cellular phenotypes between patient-derived neurons and healthy-control neurons. Animal models can recapitulate the different psychopathological aspects that should be modeled, offering valuable insights into the neurobiology of SCZ. In addition, invertebrates' models are genetically tractable and offer a powerful approach to dissect the core genetic underpinnings of SCZ, while vertebrate models, especially mammals, with their more complex nervous systems and behavioral repertoire, provide a closer approximation of the human condition to study SCZ-related traits. This narrative review provides a comprehensive overview of the diverse modeling approaches, critically evaluating their strengths and limitations. By synthesizing knowledge from these models, this review offers a valuable source for researchers, clinicians, and stakeholders alike. Integrating findings across these different models&#xa0;may allow us to build a more holistic picture of SCZ pathophysiology, facilitating the exploration of new research avenues and informed decision-making for interventions.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Schizophrenia (SCZ) is a complex mental disorder characterized by a range of symptoms, including positive and negative symptoms, as well as cognitive impairments. Despite the&#xa0;extensive research, the underlying neurobiology of SCZ remain elusive.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39245692/",
+  "mesh_terms": [
+    "Schizophrenia",
+    "Humans",
+    "Animals",
+    "Disease Models, Animal",
+    "Induced Pluripotent Stem Cells",
+    "Brain",
+    "Neurons",
+    "Organoids"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

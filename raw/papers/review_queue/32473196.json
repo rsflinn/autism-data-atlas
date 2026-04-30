@@ -1,0 +1,48 @@
+{
+  "pmid": "32473196",
+  "doi": "10.1016/j.neulet.2020.135100",
+  "title": "Resveratrol ameliorates the effect of maternal immune activation associated with schizophrenia in adulthood offspring",
+  "authors": "Ferreira FR, de Moura NSB, Hassib L, Pombo TR",
+  "journal": "Neuroscience letters",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Maternal exposure to infectious agents such as arboviruses, bacteria, or other protozoans has been associated with an elevated risk of schizophrenia (SZ). Evidence suggests that immunological processes occurring during infection may disturb the neural progenitor, impacting the central nervous system (CNS) functions. Moreover, growing evidence suggests that resveratrol (RSV) has neuroprotective activity through anti-oxidant and anti-inflammatory mechanisms. Therefore, we investigated if the treatment with RSV during pregnancy would prevent the abnormalities associated with a SZ-like phenotype induced by maternal immune activation (MIA). Pregnant dams stimulated with a subcutaneous (s.c.) injection of polyriboinosinic-polyribocytidylic acid (poly I:C; 50 mg/kg), a viral nucleic acid mimetic or vehicle, on gestational day (GD) 12.5, were treated with RSV (40 mg/kg, s.c.) or saline, from GD 9.5 to GD 14.5. On day 45 after birth, the offspring was evaluated using a three-compartment social interaction test, elevated plus maze, and hyperlocomotion test induced by amphetamine. After the behavioral tests, the relative expression of mRNA to synapsin 1 (Syn1), oligodendrocyte transcription factor 1 (Olig1), and SRY (sex-determining region Y)-box 2 (Sox2) was determined in the hippocampus and cortex. Treatment with RSV restored the social behavior and attenuated the hyperlocomotion of the offspring bred by dams submitted to MIA. RSV prevented the effects of MIA on Syn1 and Olig1 expression in the hippocampus and Syn1 in the cortex. The present study showed that maternal treatment with RSV attenuates some of the negative behavioral impacts caused by MIA, with modulation of synaptic and oligodendrogenesis processes.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Maternal exposure to infectious agents such as arboviruses, bacteria, or other protozoans has been associated with an elevated risk of schizophrenia (SZ). Evidence suggests that immunological processes occurring during infection may disturb the neural progenitor, impacting the central nervous system (CNS) functions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32473196/",
+  "mesh_terms": [
+    "Animals",
+    "Behavior, Animal",
+    "Brain",
+    "Female",
+    "Inflammation",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Poly I-C",
+    "Pregnancy",
+    "Pregnancy Complications, Infectious",
+    "Prenatal Exposure Delayed Effects",
+    "Resveratrol",
+    "Schizophrenia"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Maternal immune activation",
+    "Resveratrol",
+    "Schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

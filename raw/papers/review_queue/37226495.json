@@ -1,0 +1,44 @@
+{
+  "pmid": "37226495",
+  "doi": "10.1080/13543776.2023.2218546",
+  "title": "Vasopressin receptor antagonists: a patent summary (2018-2022)",
+  "authors": "Baska F, Boz&#xf3; &#xc9;, Pat&#xf3;cs T",
+  "journal": "Expert opinion on therapeutic patents",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Arginine-vasopressin hormone (AVP) is a key regulator in many essential physiological processes. The effect of AVP is mediated through three receptors within the body, these are the G protein-coupled vasopressin receptors, namely V1a, V1b (also called V3), and V2. Numerous studies investigated the role of these receptors in certain pathological conditions; therefore, stimulation or inhibition of these receptors may be a treatment option in these diseases.\n\nIn this manuscript, the authors summarize recent patent activity (2018-2022) associated with vasopressin receptor antagonists (selective V1a or V2, and dual-acting V1a/V2), focusing mostly on chemical structures, their modifications, and potential clinical applications. Patent search was carried out using SciFinder, Espacenet, Patentscope, Cortellis Competitive Intelligence, and Derwent Innovation databases.\n\nIn recent years, vasopressin receptor antagonists have been in the spotlight of drug discovery, especially V1a selective molecules. Publishing balovaptan as a possible treatment for autism spectrum disorder (ASD), greatly increased the interest in CNS-acting vasopressin antagonists. In addition, peripherally active selective V2 and dual-acting V1a/V2 antagonists have also been developed. Although clinical trials were unsuccessful in many cases, there is still potential in the research of vasopressin receptor antagonists as shown by several currently ongoing clinical trials.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Arginine-vasopressin hormone (AVP) is a key regulator in many essential physiological processes. The effect of AVP is mediated through three receptors within the body, these are the G protein-coupled vasopressin receptors, namely V1a, V1b (also called V3), and V2.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37226495/",
+  "mesh_terms": [
+    "Antidiuretic Hormone Receptor Antagonists",
+    "Patents as Topic",
+    "Drug Development",
+    "Research",
+    "Clinical Trials as Topic",
+    "Humans",
+    "Receptors, Vasopressin"
+  ],
+  "keywords": [
+    "V1a",
+    "V1b",
+    "V2",
+    "antagonist",
+    "receptor",
+    "vasopressin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

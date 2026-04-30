@@ -1,0 +1,52 @@
+{
+  "pmid": "16114042",
+  "doi": "10.1002/humu.20227",
+  "title": "Analysis of 65 tuberous sclerosis complex (TSC) patients by TSC2 DGGE, TSC1/TSC2 MLPA, and TSC1 long-range PCR sequencing, and report of 28 novel mutations",
+  "authors": "Rendtorff ND, Bjerregaard B, Fr&#xf6;din M, Kjaergaard S, Hove H, Skovby F, et al.",
+  "journal": "Human mutation",
+  "date": "2005-10",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a severe autosomal-dominant disorder characterized by the development of benign tumors (hamartomas) in many organs. It can lead to intellectual handicap, epilepsy, autism, and renal or heart failure. An inactivating mutation in either of two tumor-suppressor genes-TSC1 and TSC2-is the cause of this syndrome, with TSC2 mutations accounting for 80-90% of all mutations. Molecular diagnosis of TSC is challenging, since TSC1 and TSC2 consist of 21 and 41 coding exons, respectively, and the mutation spectrum is very heterogeneous. Here we report a new approach for detecting mutations in TSC: a denaturing gradient gel electrophoresis (DGGE) analysis for small TSC2 mutations, a multiplex ligation-dependent probe amplification (MLPA) analysis for large deletions and duplications in TSC1 or TSC2, and a long-range PCR/sequencing-based analysis for small TSC1 mutations. When applied in this order, the three methods provide a new sensitive and time- and cost-efficient strategy for the molecular diagnosis of TSC. We analyzed 65 Danish patients who had been clinically diagnosed with TSC, and identified pathogenic mutations in 51 patients (78%). These included 36 small TSC2 mutations, four large deletions involving TSC2, and 11 small TSC1 mutations. Twenty-eight of the small mutations are novel. For the missense mutations, we established a functional assay to demonstrate that the mutations impair TSC2 protein function. In conclusion, the strategy presented may greatly help small- and medium-sized laboratories in the pre- and postnatal molecular diagnosis of TSC.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is a severe autosomal-dominant disorder characterized by the development of benign tumors (hamartomas) in many organs. It can lead to intellectual handicap, epilepsy, autism, and renal or heart failure.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16114042/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Child, Preschool",
+    "DNA Mutational Analysis",
+    "Electrophoresis",
+    "Female",
+    "Humans",
+    "Infant",
+    "Male",
+    "Middle Aged",
+    "Molecular Diagnostic Techniques",
+    "Mutation",
+    "Mutation, Missense",
+    "Polymerase Chain Reaction",
+    "Sensitivity and Specificity",
+    "Tuberous Sclerosis",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Tumor Suppressor Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

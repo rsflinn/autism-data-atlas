@@ -1,0 +1,45 @@
+{
+  "pmid": "32152699",
+  "doi": "10.1007/s00439-020-02140-8",
+  "title": "A large population-based investigation into the genetics of susceptibility to gastrointestinal infections and the link between gastrointestinal infections and mental illness",
+  "authors": "Nudel R, Appadurai V, Schork AJ, Buil A, Bybjerg-Grauholm J, B&#xf8;rglum AD, et al.",
+  "journal": "Human genetics",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Gastrointestinal infections can be life threatening, but not much is known about the host's genetic contribution to susceptibility to gastrointestinal infections or the latter's&#xa0;association with psychiatric disorders. We utilized iPSYCH, a genotyped population-based sample&#xa0;of individuals born between 1981 and 2005 comprising 65,534 unrelated Danish individuals (45,889 diagnosed with mental disorders and 19,645 controls from a random population sample) in which all individuals were linked utilizing nationwide population-based registers to estimate the genetic contribution to susceptibility to gastrointestinal infections, identify genetic variants associated with gastrointestinal infections, and examine the link between gastrointestinal infections and psychiatric and neurodevelopmental disorders. The SNP heritability of susceptibility to gastrointestinal infections ranged from 3.7% to 6.4% on the liability scale. Significant correlations were found between gastrointestinal infections and the combined group of mental disorders (OR&#x2009;=&#x2009;2.09; 95% CI: 1.82-2.4, P&#x2009;=&#x2009;1.87&#x2009;&#xd7;&#x2009;10). Correlations with autism spectrum disorder, attention deficit hyperactivity disorder, and depression were also significant. We identified a genome-wide significant locus associated with susceptibility to gastrointestinal infections (OR&#x2009;=&#x2009;1.13; 95% CI: 1.08-1.18, P&#x2009;=&#x2009;2.9&#x2009;&#xd7;&#x2009;10), where the top SNP was an eQTL for the ABO gene. The risk allele was&#xa0;associated with reduced ABO expression, providing, for the first time, genetic evidence to support previous studies&#xa0;linking the O blood group to gastrointestinal infections. This study also highlights the importance of integrative work in genetics, psychiatry, infection, and epidemiology on the road to translational medicine.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Gastrointestinal infections can be life threatening, but not much is known about the host's genetic contribution to susceptibility to gastrointestinal infections or the latter's&#xa0;association with psychiatric disorders. We utilized iPSYCH, a genotyped population-based sample&#xa0;of individuals born between 1981 and 2005 comprising 65,534 unrelated Danish individuals (45,889 diagnosed with mental disorders and 19,645 controls from a random population sample) in which all individuals were link",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32152699/",
+  "mesh_terms": [
+    "Case-Control Studies",
+    "Cohort Studies",
+    "Denmark",
+    "Female",
+    "Gastrointestinal Diseases",
+    "Genetic Markers",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Incidence",
+    "Male",
+    "Mental Disorders",
+    "Neurodevelopmental Disorders",
+    "Polymorphism, Single Nucleotide",
+    "Quantitative Trait Loci"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

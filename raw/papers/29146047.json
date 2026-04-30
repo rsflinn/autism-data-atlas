@@ -1,0 +1,54 @@
+{
+  "pmid": "29146047",
+  "doi": "10.1016/j.biopsych.2017.09.030",
+  "title": "Maternal Immune Activation Delays Excitatory-to-Inhibitory Gamma-Aminobutyric Acid Switch in Offspring",
+  "authors": "Corradini I, Focchi E, Rasile M, Morini R, Desiato G, Tomasoni R, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "The association between maternal infection and neurodevelopmental defects in progeny is well established, although the biological mechanisms and the pathogenic trajectories involved have not been defined.\n\nPregnant dams were injected intraperitoneally at gestational day 9 with polyinosinic:polycytidylic acid. Neuronal development was assessed by means of electrophysiological, optical, and biochemical analyses.\n\nPrenatal exposure to polyinosinic:polycytidylic acid causes an imbalanced expression of the Na-K-2Clcotransporter 1 and the K-Clcotransporter 2 (KCC2). This results in delayed gamma-aminobutyric acid switch and higher susceptibility to seizures, which endures up to adulthood. Chromatin immunoprecipitation experiments reveal increased binding of the repressor factor RE1-silencing transcription (also known as neuron-restrictive silencer factor) to position 509 of the KCC2 promoter that leads to downregulation of KCC2 transcription in prenatally exposed offspring. Interleukin-1 receptor type I knockout mice, which display braked immune response and no brain cytokine elevation upon maternal immune activation, do not display KCC2/Na-K-2Clcotransporter 1 imbalance when implanted in a wild-type dam and prenatally exposed. Notably, pretreatment of pregnant dams with magnesium sulfate is sufficient to prevent the early inflammatory state and the delay in excitatory-to-inhibitory switch associated to maternal immune activation.\n\nWe provide evidence that maternal immune activation hits a key neurodevelopmental process, the excitatory-to-inhibitory gamma-aminobutyric acid switch; defects in this switch have been unequivocally linked to diseases such as autism spectrum disorder or epilepsy. These data open the avenue for a safe pharmacological treatment that may prevent the neurodevelopmental defects caused by prenatal immune activation in a specific pregnancy time window.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The association between maternal infection and neurodevelopmental defects in progeny is well established, although the biological mechanisms and the pathogenic trajectories involved have not been defined. Pregnant dams were injected intraperitoneally at gestational day 9 with polyinosinic:polycytidylic acid.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29146047/",
+  "mesh_terms": [
+    "Animals",
+    "Cell Culture Techniques",
+    "Cerebral Cortex",
+    "Disease Models, Animal",
+    "Embryo, Mammalian",
+    "Epilepsy",
+    "Excitatory Postsynaptic Potentials",
+    "Female",
+    "Inhibitory Postsynaptic Potentials",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Patch-Clamp Techniques",
+    "Pregnancy",
+    "Pregnancy Complications",
+    "Prenatal Exposure Delayed Effects",
+    "Receptors, Interleukin-1 Type I",
+    "Symporters",
+    "gamma-Aminobutyric Acid",
+    "K Cl- Cotransporters"
+  ],
+  "keywords": [
+    "Epilepsy",
+    "GABA switch",
+    "KCC2",
+    "Maternal immune activation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "30559955",
+  "doi": "10.1186/s13229-018-0252-2",
+  "title": "Modeling the quantitative nature of neurodevelopmental disorders using Collaborative Cross mice",
+  "authors": "Molenhuis RT, Bruining H, Brandt MJV, van Soldt PE, Abu-Toamih Atamni HJ, Burbach JPH, et al.",
+  "journal": "Molecular autism",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Animal models for neurodevelopmental disorders (NDD) generally rely on a single genetic mutation on a fixed genetic background. Recent human genetic studies however indicate that a clinical diagnosis with ASDAutism Spectrum Disorder (ASD) is almost always associated with multiple genetic fore- and background changes. The translational value of animal model studies would be greatly enhanced if genetic insults could be studied in a more quantitative framework across genetic backgrounds.\n\nWe used the Collaborative Cross (CC), a novel mouse genetic reference population, to investigate the quantitative genetic architecture of mouse behavioral phenotypes commonly used in animal models for NDD.\n\nClassical tests of social recognition and grooming phenotypes appeared insufficient for quantitative studies due to genetic dilution and limited heritability. In contrast, digging, locomotor activity, and stereotyped exploratory patterns were characterized by continuous distribution across our CC sample and also mapped to quantitative trait loci containing genes associated with corresponding phenotypes in human populations.\n\nThese findings show that the CC can move animal model studies beyond comparative single gene-single background designs, and point out which type of behavioral phenotypes are most suitable to quantify the effect of developmental etiologies across multiple genetic backgrounds.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Animal models for neurodevelopmental disorders (NDD) generally rely on a single genetic mutation on a fixed genetic background. Recent human genetic studies however indicate that a clinical diagnosis with ASDAutism Spectrum Disorder (ASD) is almost always associated with multiple genetic fore- and background changes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30559955/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Genetics, Behavioral",
+    "Genome-Wide Association Study",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Multifactorial Inheritance",
+    "Quantitative Trait Loci",
+    "Reference Standards"
+  ],
+  "keywords": [
+    "Animal models",
+    "Autism",
+    "Behavioral neuroscience",
+    "Genetic reference population",
+    "Histamine 3 receptor",
+    "Neurodevelopmental disorders",
+    "Quantitative genetics",
+    "Repetitive behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

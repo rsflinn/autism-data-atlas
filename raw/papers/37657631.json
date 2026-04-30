@@ -1,0 +1,44 @@
+{
+  "pmid": "37657631",
+  "doi": "10.1016/j.ejmg.2023.104826",
+  "title": "MTSS2-related neurodevelopmental disorder: Further delineation of the phenotype",
+  "authors": "Corona-Rivera JR, Zenteno JC, Ordo&#xf1;ez-Labastida V, Cruz-Cruz JP, Cort&#xe9;s-Pastrana RC, Pe&#xf1;a-Padilla C, et al.",
+  "journal": "European journal of medical genetics",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "MTSS2-related neurodevelopmental disorder (MTSS2-related NDD) (MIM 620086) is characterized by intellectual developmental disorder with ocular anomalies and distinctive facial features (IDDOF). The only existing report to date described five individuals who exhibited an identical de novo c.2011C>T (p.Arg671Trp) variant in the MTSS2 gene. Herein, we report a new case of MTSS2-related NND in a male dizygotic twin who presented with IDDOF and severe intellectual disability. This patient also displayed additional clinical features, including low functioning autism, hypothyroidism, duodenal obstruction secondary to Ladd's bands, inguinal hernias, cryptorchidism, transient subperiosteal new bone formation, and short stature with delayed bone age, which had not been previously reported in association with the MTSS2-related NDD. Exome sequencing identified the recurrent c.2011C>T (p.Arg671Trp) variant in the MTSS2 gene. The mother and the other twin tested negative for the pathogenic variant, while the father's participation in the study was unavailable. This case confirms that the MTSS2-related NDD is caused by the recurrent MTSS2 missense variant p.Arg671Trp. The novel findings identified in our patient expand the phenotypic spectrum associated with this new autosomal dominant entity, but further studies on its genetic and clinical manifestations are still needed.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "MTSS2-related neurodevelopmental disorder (MTSS2-related NDD) (MIM 620086) is characterized by intellectual developmental disorder with ocular anomalies and distinctive facial features (IDDOF). The only existing report to date described five individuals who exhibited an identical de novo c.2011C>T (p.Arg671Trp) variant in the MTSS2 gene.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37657631/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Autistic Disorder",
+    "Intellectual Disability",
+    "Mutation, Missense",
+    "Neurodevelopmental Disorders",
+    "Phenotype"
+  ],
+  "keywords": [
+    "ABA1",
+    "Intellectual developmental disorder",
+    "MTSS1L",
+    "MTSS2",
+    "Ptosis"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Twin Study"
+  ]
+}

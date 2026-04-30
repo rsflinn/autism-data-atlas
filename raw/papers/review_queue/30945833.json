@@ -1,0 +1,41 @@
+{
+  "pmid": "30945833",
+  "doi": null,
+  "title": "[A girl with 16p11.2 deletion syndrome]",
+  "authors": "Kleinendorst L, Sno M, van Haelst MM",
+  "journal": "Nederlands tijdschrift voor geneeskunde",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "16p11.2 deletion syndrome is one of the most prevalent microdeletion syndromes in the world. Nevertheless, many doctors are not (yet) familiar with this syndrome. Prevalence has been estimated at approximately 3 in 10,000. The deletion can be identified in around 1 out of 100 people with autism. The syndrome is characterized by a wide range of phenotypic features including developmental delay, autism, obesity, increased head circumference, and epilepsy. Here we describe an 8-year-old female patient with developmental delay, autistic features and hyperphagia. After diagnosis of 16p11.2 deletion syndrome, her parents struggled due to limited information and support provision by healthcare staff. Since then, multidisciplinary healthcare has been introduced for this condition. In parallel, the patient's parents started an online support group for Dutch patients and parents. Given the diverse phenotype of 16p11.2 deletion syndrome, multidisciplinary collaboration is important. Establishing the diagnosis contributes to better treatment and understanding for parents and healthcare providers.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "16p11.2 deletion syndrome is one of the most prevalent microdeletion syndromes in the world. Nevertheless, many doctors are not (yet) familiar with this syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30945833/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Female",
+    "Genetic Testing",
+    "Humans",
+    "Intellectual Disability",
+    "Parents",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

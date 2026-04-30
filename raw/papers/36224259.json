@@ -1,0 +1,42 @@
+{
+  "pmid": "36224259",
+  "doi": "10.1038/s41380-022-01811-4",
+  "title": "Evaluation of Na1.8 as a therapeutic target for Pitt Hopkins Syndrome",
+  "authors": "Martinowich K, Das D, Sripathy SR, Mai Y, Kenney RF, Maher BJ",
+  "journal": "Molecular psychiatry",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "Pitt Hopkins Syndrome (PTHS) is a rare syndromic form of autism spectrum disorder (ASD) caused by autosomal dominant mutations in the Transcription Factor 4 (TCF4) gene. TCF4 is a basic helix-loop-helix transcription factor that is critical for neurodevelopment and brain function through its binding to cis-regulatory elements of target genes. One potential therapeutic strategy for PTHS is to identify dysregulated target genes and normalize their dysfunction. Here, we propose that SCN10A is an important target gene of TCF4 that is an applicable therapeutic approach for PTHS. Scn10a encodes the voltage-gated sodium channel Na1.8 and is consistently shown to be upregulated in PTHS mouse models. In this perspective, we review prior literature and present novel data that suggests inhibiting Na1.8 in PTHS mouse models is effective at normalizing neuron function, brain circuit activity and behavioral abnormalities and posit this therapeutic approach as a treatment for PTHS.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "TCF4"
+  ],
+  "summary": "Pitt Hopkins Syndrome (PTHS) is a rare syndromic form of autism spectrum disorder (ASD) caused by autosomal dominant mutations in the Transcription Factor 4 (TCF4) gene. TCF4 is a basic helix-loop-helix transcription factor that is critical for neurodevelopment and brain function through its binding to cis-regulatory elements of target genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36224259/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Facies",
+    "Hyperventilation",
+    "Intellectual Disability",
+    "Transcription Factor 4",
+    "NAV1.8 Voltage-Gated Sodium Channel"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

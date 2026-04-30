@@ -1,0 +1,46 @@
+{
+  "pmid": "26087164",
+  "doi": "10.1016/j.neuron.2015.05.018",
+  "title": "Epigenomic Signatures of Neuronal Diversity in the Mammalian Brain",
+  "authors": "Mo A, Mukamel EA, Davis FP, Luo C, Henry GL, Picard S, et al.",
+  "journal": "Neuron",
+  "date": "2015-06",
+  "source": "pubmed",
+  "abstract": "Neuronal diversity is essential for mammalian brain function but poses a challenge to molecular profiling. To address the need for tools that facilitate cell-type-specific epigenomic studies, we developed the first affinity purification approach to isolate nuclei from genetically defined cell types in a mammal. We combine this technique with next-generation sequencing to show that three subtypes of neocortical neurons have highly distinctive epigenomic landscapes. Over 200,000 regions differ in chromatin accessibility and DNA methylation signatures characteristic of gene regulatory regions. By footprinting and motif analyses, these regions are predicted to bind distinct cohorts of neuron subtype-specific transcription factors. Neuronal epigenomes reflect both past and present gene expression, with DNA hyper-methylation at developmentally critical genes appearing as a novel epigenomic signature in mature neurons. Taken together, our findings link the functional and transcriptional complexity of neurons to their underlying epigenomic diversity.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neuronal diversity is essential for mammalian brain function but poses a challenge to molecular profiling. To address the need for tools that facilitate cell-type-specific epigenomic studies, we developed the first affinity purification approach to isolate nuclei from genetically defined cell types in a mammal.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26087164/",
+  "mesh_terms": [
+    "Animals",
+    "Cell Nucleolus",
+    "Chromatin Immunoprecipitation",
+    "DNA Methylation",
+    "Epigenomics",
+    "Gene Expression Profiling",
+    "Gene Expression Regulation, Developmental",
+    "Green Fluorescent Proteins",
+    "Mice",
+    "Mice, Transgenic",
+    "Microtubule-Associated Proteins",
+    "Neocortex",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "Proto-Oncogene Proteins c-myc"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

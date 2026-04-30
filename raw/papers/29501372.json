@@ -1,0 +1,51 @@
+{
+  "pmid": "29501372",
+  "doi": "10.1016/j.ridd.2018.02.017",
+  "title": "Low maternal melatonin level increases autism spectrum disorder risk in children",
+  "authors": "Braam W, Ehrhart F, Maas APHM, Smits MG, Curfs L",
+  "journal": "Research in developmental disabilities",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "It is assumed that autism spectrum disorder (ASD) is caused by a combination of de novo inherited variation and common variation as well as environmental factors. It often co-occurs with intellectual disability (ID). Almost eight hundred potential causative genetic variations have been found in ASD patients. However, not one of them is responsible for more than 1% of ASD cases. Low melatonin levels are a frequent finding in ASD patients. Melatonin levels are negatively correlated with severity of autistic impairments, it is important for normal neurodevelopment and is highly effective in protecting DNA from oxidative damage. Melatonin deficiency could be a major factor, and well a common heritable variation, that increases the susceptibility to environmental risk factors for ASD. ASD is already present at birth. As the fetus does not produce melatonin, low maternal melatonin levels may be involved.\n\nWe measured 6-sulfatoxymelatonin in urine of 60 mothers of a child with ASD and controls.\n\n6-sulfatoxymelatonin levels were significantly lower in mothers with an ASD child than in controls (p&#x202f;=&#x202f;0.012).\n\nLow parental melatonin levels could be one of the contributors to ASD and possibly ID etiology. Our findings need to be duplicated on a larger scale. If our hypothesis is correct, this could lead to policies to detect future parents who are at risk and to treatment strategies to ASD and intellectual disability risk.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "It is assumed that autism spectrum disorder (ASD) is caused by a combination of de novo inherited variation and common variation as well as environmental factors. It often co-occurs with intellectual disability (ID).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29501372/",
+  "mesh_terms": [
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Child",
+    "Female",
+    "Gene-Environment Interaction",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Melatonin",
+    "Middle Aged",
+    "Mothers",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects",
+    "Psychiatric Status Rating Scales",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "6-sulfatoxymelatonin",
+    "Autism spectrum disorder",
+    "Genetics",
+    "Intellectual disability",
+    "Melatonin"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

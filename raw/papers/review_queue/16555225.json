@@ -1,0 +1,37 @@
+{
+  "pmid": "16555225",
+  "doi": null,
+  "title": "[Autism in fragile X syndrome]",
+  "authors": "Garc&#xed;a-Nonell C, Rigau-Ratera E, Artigas-Pallar&#xe9;s J",
+  "journal": "Revista de neurologia",
+  "date": "2006-02",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the most frequent cause of hereditary mental retardation, as well as being a common cause of learning disorders and psychiatric problems. It is characterised by very specific physical and behavioural phenotypes. For this reason FXS is an excellent model of the relation between behaviour and genes. FXS is also the commonest cause of autism identified to date. Between 2 and 6% of children with autism have FXS, and approximately 3% of children with FXS have autism.\n\nThe paper takes these findings as the basis on which to deal with the complex relations between FXS and autism. The relations between autism and gene FMR1, which causes FXS, are not limited to the complete mutation -some extremely interesting correlations between autism and the premutation of this gene are also being found.\n\nThe discovery of an increase in mRNA in gene FMR1 in the premutation has facilitated our understanding of the complex pathology associated to the premutation. These findings open up a line of research that will not only enable us to further our understanding of the genetics of FXS, but can also help us to comprehend the complex genetic interactions that give rise to autism.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is the most frequent cause of hereditary mental retardation, as well as being a common cause of learning disorders and psychiatric problems. It is characterised by very specific physical and behavioural phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16555225/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Fragile X Syndrome",
+    "Humans"
+  ],
+  "keywords": [],
+  "article_types": [
+    "English Abstract",
+    "Journal Article",
+    "Review"
+  ]
+}

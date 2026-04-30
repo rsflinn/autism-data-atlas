@@ -1,0 +1,41 @@
+{
+  "pmid": "33230678",
+  "doi": "10.1007/s40272-020-00428-w",
+  "title": "Drug Treatment of Epilepsy Neuropsychiatric Comorbidities in Children",
+  "authors": "Holmes GL",
+  "journal": "Paediatric drugs",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "There is increasing recognition that epilepsy can be associated with a broad spectrum of comorbidities. While epileptic seizures are an essential element of epilepsy in children, there is a spectrum of neurological, mental health and cognitive disorders that add to the disease burden of childhood epilepsy resulting in a decreased quality of life. The most common comorbid conditions in childhood epilepsy include depression, anxiety, autism spectrum disorders, sleep disorders, attention deficits, cognitive impairment, and migraine. While epilepsy can result in comorbidities, many of the comorbidities of childhood have a bi-directional association, with the comorbid condition increasing risk for epilepsy and epilepsy increasing the risk for the comorbid condition. The bidirectional feature of epilepsy and the comorbidities suggest a common underlying pathological basis for both the seizures and comorbid condition. While recognition of the comorbid conditions of pediatric epilepsies is increasing, there has been a lag in the development of effective therapies partly out of concern that drugs used to treat the comorbid conditions could increase seizure susceptibility. There is now some evidence that most drugs used for comorbid conditions are safe and do not lower seizure threshold. Unfortunately, the evidence showing drugs are effective in treating many of the childhood comorbidities of epilepsy is quite limited. There is a great need for randomized, placebo-controlled drug trials for efficacy and safety in the treatment of comorbidities of childhood epilepsy.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "There is increasing recognition that epilepsy can be associated with a broad spectrum of comorbidities. While epileptic seizures are an essential element of epilepsy in children, there is a spectrum of neurological, mental health and cognitive disorders that add to the disease burden of childhood epilepsy resulting in a decreased quality of life.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33230678/",
+  "mesh_terms": [
+    "Adolescent",
+    "Anticonvulsants",
+    "Child",
+    "Child, Preschool",
+    "Comorbidity",
+    "Epilepsy",
+    "Humans",
+    "Mental Disorders",
+    "Neuropsychiatry",
+    "Quality of Life",
+    "Seizures"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

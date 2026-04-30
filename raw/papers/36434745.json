@@ -1,0 +1,47 @@
+{
+  "pmid": "36434745",
+  "doi": "10.1093/schbul/sbac167",
+  "title": "Childhood Trauma As a Mediator of the Association Between Autistic Traits and Psychotic Experiences: Evidence From the Avon Longitudinal Study of Parents and Children Cohort",
+  "authors": "Dardani C, Schalbroeck R, Madley-Dowd P, Jones HJ, Strelchuk D, Hammerton G, et al.",
+  "journal": "Schizophrenia bulletin",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "Little is known on whether associations between childhood autistic traits and psychotic experiences persist into adulthood and whether genetic confounding and childhood trauma influence them. Here we investigate the associations between childhood autistic traits and psychotic experiences until young adulthood and assess the influence of schizophrenia polygenic risk and childhood traumatic experiences, using the Avon Longitudinal Study of Parents and Children (ALSPAC) population-based birth cohort.\n\nWe used a measure of broad autistic traits (autism factor mean score), and four dichotomised measures of autistic traits capturing social communication difficulties (age 7), repetitive behaviours (age 5), sociability (age 3), and pragmatic language (age 9). Psychotic experiences were assessed at ages 18 and 24 using the semi-structured Psychosis-Like Symptoms interview (PLIKSi). Traumatic experiences between ages 5 and 11 were assessed with questionnaires and interviews administered to children and parents at multiple ages.\n\nBroad autistic traits, as well as social communication difficulties, were associated with psychotic experiences that were distressing and/or frequent until age 24 (autism factor mean score, n = 3707: OR 1.19, 95%CI 1.01-1.39; social communication difficulties, n = 3384: OR 1.54, 95%CI 0.97-2.45). Childhood trauma mediated a substantial proportion of the identified associations (~28% and 36% respectively, maximum n = 3577). Schizophrenia polygenic risk did not appear to confound the associations. Multiple imputation analyses (maximum n = 13 105) yielded comparable results.\n\nChildhood trauma may be an important, potentially modifiable pathway between autistic features and later onset of psychotic psychopathology.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Little is known on whether associations between childhood autistic traits and psychotic experiences persist into adulthood and whether genetic confounding and childhood trauma influence them. Here we investigate the associations between childhood autistic traits and psychotic experiences until young adulthood and assess the influence of schizophrenia polygenic risk and childhood traumatic experiences, using the Avon Longitudinal Study of Parents and Children (ALSPAC) population-based birth cohor",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36434745/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Young Adult",
+    "Adult",
+    "Adolescent",
+    "Child, Preschool",
+    "Longitudinal Studies",
+    "Autistic Disorder",
+    "Adverse Childhood Experiences",
+    "Mental Disorders",
+    "Psychotic Disorders",
+    "Parents"
+  ],
+  "keywords": [
+    "autism",
+    "childhood trauma",
+    "polygenic risk",
+    "psychosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

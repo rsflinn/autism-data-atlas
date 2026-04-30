@@ -1,0 +1,42 @@
+{
+  "pmid": "39023738",
+  "doi": "10.1007/s12015-024-10763-x",
+  "title": "Advances in the Differentiation of hiPSCs into Cerebellar Neuronal Cells",
+  "authors": "Wang Y, Liu W, Jiao Y, Yang Y, Shan D, Ji X, et al.",
+  "journal": "Stem cell reviews and reports",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "The cerebellum has historically been primarily associated with the regulation of precise motor functions. However, recent findings suggest that it also plays a pivotal role in the development of advanced cognitive functions, including learning, memory, and emotion regulation. Pathological changes in the cerebellum, whether congenital hereditary or acquired degenerative, can result in a diverse spectrum of disorders, ranging from genetic spinocerebellar ataxias to psychiatric conditions such as autism, and schizophrenia. While studies in animal models have significantly contributed to our understanding of the genetic networks governing cerebellar development, it is important to note that the human cerebellum follows a protracted developmental timeline compared to the neocortex. Consequently, employing animal models to uncover human-specific molecular events in cerebellar development presents significant challenges. The emergence of human induced pluripotent stem cells (hiPSCs) has provided an invaluable tool for creating human-based culture systems, enabling the modeling and analysis of cerebellar physiology and pathology. hiPSCs and their differentiated progenies can be derived from patients with specific disorders or carrying distinct genetic variants. Importantly, they preserve the unique genetic signatures of the individuals from whom they originate, allowing for the elucidation of human-specific molecular and cellular processes involved in cerebellar development and related disorders. This review focuses on the technical advancements in the utilization of hiPSCs for the generation of both 2D cerebellar neuronal cells and 3D cerebellar organoids.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The cerebellum has historically been primarily associated with the regulation of precise motor functions. However, recent findings suggest that it also plays a pivotal role in the development of advanced cognitive functions, including learning, memory, and emotion regulation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39023738/",
+  "mesh_terms": [
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Cell Differentiation",
+    "Neurons",
+    "Cerebellum",
+    "Animals"
+  ],
+  "keywords": [
+    "Cerebellar organoid",
+    "Cerebellum",
+    "Purkinje cell",
+    "iPSC"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

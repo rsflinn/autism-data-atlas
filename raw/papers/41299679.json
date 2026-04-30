@@ -1,0 +1,45 @@
+{
+  "pmid": "41299679",
+  "doi": "10.1186/s12920-025-02250-0",
+  "title": "Deciphering copy number variations and gene implications in an Egyptian cohort with autism spectrum disorders",
+  "authors": "Mohamed AM, Eid OM, Amr KS, Mahrous R, Hemimi M, Elsaeid A, et al.",
+  "journal": "BMC medical genomics",
+  "date": "2025-11",
+  "source": "pubmed",
+  "abstract": "Genetic factors are major contributors to autism spectrum disorders (ASD), with copy number variations (CNVs) playing a significant role. Our objective was to identify and assess CNVs and their associated gene-level impacts in Egyptian ASD patients.\n\nOur cohort comprised 40 non-syndromic ASD children, ranging in age from one year and nine months to 12 years. We conducted karyotyping, multiple ligation-dependent probe amplification (MLPA), Methylation-Specific MLPA (MS-MLPA), and chromosomal microarray (CMA) analyses for all patients. Additionally, quantitative real-time PCR (qPCR) analyses were performed on selected patients and their parents.\n\nWe identified pathogenic or likely pathogenic CNVs in seven patients (17.5%), variants of uncertain significance (VUS) in 10 patients (25%), and classified other variants as benign. Pathogenic or likely pathogenic CNVs affected chromosomes 16p11.2 (two patients), 15q11q13 (three patients), 22q11.2 (one patient), and 7q11.23 (one patient). Many of the affected genes are associated with neuronal functions. Patients with CNVs exhibited increases in three parameters on the Children's Autism Rating Scale (CARS): restrictive and repetitive behavior, adaptation to changes, and responses to taste, smell, and touch. According to the Autism Diagnostic Interview-Revised (ADI-R), patients with pathogenic or likely pathogenic CNVs had an increased third parameter for restricted, repetitive, and stereotyped patterns of behavior. Patients with pathogenic or likely pathogenic CNVs demonstrated some clinical manifestations involving microcephaly (two patients), macrocephaly (one patient), and abnormal electroencephalogram (EEG) with generalized epileptic focus (two patients). qRT-PCR was performed for some parents, and the CNVs were found to be de novo.\n\nCNV detection via CMA proved invaluable and is considered a primary tool in ASD diagnosis. Distinguishing between inherited and de novo CNVs is crucial for accurate genetic counseling. Most genes involved in the detection of pathological or likely pathogenic CNVs are linked to neuronal functions, and these CNVs impact specific parameters in CARS and ADI-R assessments. Future efforts should prioritize a more comprehensive understanding of the genetic underpinnings of ASD, enabling the adoption of personalized treatment strategies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Genetic factors are major contributors to autism spectrum disorders (ASD), with copy number variations (CNVs) playing a significant role. Our objective was to identify and assess CNVs and their associated gene-level impacts in Egyptian ASD patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41299679/",
+  "mesh_terms": [
+    "Humans",
+    "DNA Copy Number Variations",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Male",
+    "Female",
+    "Egypt",
+    "Cohort Studies",
+    "Infant"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Chromosomal microarray",
+    "Chromosome 15q11q13.",
+    "Chromosome 16p11.2",
+    "Copy number variance"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

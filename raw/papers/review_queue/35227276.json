@@ -1,0 +1,47 @@
+{
+  "pmid": "35227276",
+  "doi": "10.1186/s12987-022-00316-0",
+  "title": "The neurovascular unit in leukodystrophies: towards solving the puzzle",
+  "authors": "Zarekiani P, Nogueira Pinto H, Hol EM, Bugiani M, de Vries HE",
+  "journal": "Fluids and barriers of the CNS",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "The neurovascular unit (NVU) is a highly organized multicellular system localized in the brain, formed by neuronal, glial (astrocytes, oligodendrocytes, and microglia) and vascular (endothelial cells and pericytes) cells. The blood-brain barrier, a complex and dynamic endothelial cell barrier in the brain microvasculature that separates the blood from the brain parenchyma, is a component of the NVU. In a variety of neurological disorders, including Alzheimer's disease, multiple sclerosis, and stroke, dysfunctions of the NVU occurs. There is, however, a lack of knowledge regarding the NVU function in leukodystrophies, which are rare monogenic disorders that primarily affect the white matter. Since leukodystrophies are rare diseases, human brain tissue availability is scarce and representative animal models that significantly recapitulate the disease are difficult to develop. The introduction of human induced pluripotent stem cells (hiPSC) now makes it possible to surpass these limitations while maintaining the ability to work in a biologically relevant human context and safeguarding the genetic background of the patient. This review aims to provide further insights into the NVU functioning in leukodystrophies, with a special focus on iPSC-derived models that can be used to dissect neurovascular pathophysiology in these diseases.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The neurovascular unit (NVU) is a highly organized multicellular system localized in the brain, formed by neuronal, glial (astrocytes, oligodendrocytes, and microglia) and vascular (endothelial cells and pericytes) cells. The blood-brain barrier, a complex and dynamic endothelial cell barrier in the brain microvasculature that separates the blood from the brain parenchyma, is a component of the NVU.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35227276/",
+  "mesh_terms": [
+    "Animals",
+    "Astrocytes",
+    "Blood-Brain Barrier",
+    "Endothelial Cells",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurodegenerative Diseases"
+  ],
+  "keywords": [
+    "Astrocyte",
+    "Blood&#x2013;brain barrier",
+    "Endothelium",
+    "In vitro models",
+    "Induced pluripotent stem cells",
+    "Leukodystrophies",
+    "Microglia",
+    "Neurovascular unit",
+    "Pericyte"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

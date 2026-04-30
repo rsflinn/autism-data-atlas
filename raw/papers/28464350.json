@@ -1,0 +1,44 @@
+{
+  "pmid": "28464350",
+  "doi": "10.1111/jcpp.12731",
+  "title": "Development and validation of an item response theory-based Social Responsiveness Scale short form",
+  "authors": "Sturm A, Kuhfeld M, Kasari C, McCracken JT",
+  "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+  "date": "2017-05",
+  "source": "pubmed",
+  "abstract": "Research and practice in autism spectrum disorder (ASD) rely on quantitative measures, such as the Social Responsiveness Scale (SRS), for characterization and diagnosis. Like many ASD diagnostic measures, SRS scores are influenced by factors unrelated to ASD core features. This study further interrogates the psychometric properties of the SRS using item response theory (IRT), and demonstrates a strategy to create a psychometrically sound short form by applying IRT results.\n\nSocial Responsiveness Scale analyses were conducted on a large sample (N&#xa0;=&#xa0;21,426) of youth from four ASD databases. Items were subjected to item factor analyses and evaluation of item bias by gender, age, expressive language level, behavior problems, and nonverbal IQ.\n\nItem selection based on item psychometric properties, DIF analyses, and substantive validity produced a reduced item SRS short form that was unidimensional in structure, highly reliable (&#x3b1;&#xa0;=&#xa0;.96), and free of gender, age, expressive language, behavior problems, and nonverbal IQ influence. The short form also showed strong relationships with established measures of autism symptom severity (ADOS, ADI-R, Vineland). Degree of association between all measures varied as a function of expressive language.\n\nResults identified specific SRS items that are more vulnerable to non-ASD-related traits. The resultant 16-item SRS short form may possess superior psychometric properties compared to the original scale and emerge as a more precise measure of ASD core symptom severity, facilitating research and practice. Future research using IRT is needed to further refine existing measures of autism symptomatology.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Research and practice in autism spectrum disorder (ASD) rely on quantitative measures, such as the Social Responsiveness Scale (SRS), for characterization and diagnosis. Like many ASD diagnostic measures, SRS scores are influenced by factors unrelated to ASD core features.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28464350/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Psychiatric Status Rating Scales",
+    "Psychometrics",
+    "Reproducibility of Results",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "behavioral measures"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Validation Study"
+  ]
+}

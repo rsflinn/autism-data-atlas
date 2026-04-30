@@ -1,0 +1,37 @@
+{
+  "pmid": "27067625",
+  "doi": "10.1016/S2215-0366(15)00576-3",
+  "title": "Novel psychopharmacological therapies for psychiatric disorders: psilocybin and MDMA",
+  "authors": "Mithoefer MC, Grob CS, Brewerton TD",
+  "journal": "The lancet. Psychiatry",
+  "date": "2016-04",
+  "source": "pubmed",
+  "abstract": "4-phosphorloxy-N,N-dimethyltryptamine (psilocybin) and methylenedioxymethamfetamine (MDMA), best known for their illegal use as psychedelic drugs, are showing promise as therapeutics in a resurgence of clinical research during the past 10 years. Psilocybin is being tested for alcoholism, smoking cessation, and in patients with advanced cancer with anxiety. MDMA is showing encouraging results as a treatment for refractory post-traumatic stress disorder, social anxiety in autistic adults, and anxiety associated with a life-threatening illness. Both drugs are studied as adjuncts or catalysts to psychotherapy, rather than as stand-alone drug treatments. This model of drug-assisted psychotherapy is a possible alternative to existing pharmacological and psychological treatments in psychiatry. Further research is needed to fully assess the potential of these compounds in the management of these common disorders that are difficult to treat with existing methods.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "4-phosphorloxy-N,N-dimethyltryptamine (psilocybin) and methylenedioxymethamfetamine (MDMA), best known for their illegal use as psychedelic drugs, are showing promise as therapeutics in a resurgence of clinical research during the past 10 years. Psilocybin is being tested for alcoholism, smoking cessation, and in patients with advanced cancer with anxiety.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27067625/",
+  "mesh_terms": [
+    "Humans",
+    "Mental Disorders",
+    "N-Methyl-3,4-methylenedioxyamphetamine",
+    "Psilocybin",
+    "Psychopharmacology",
+    "Psychotropic Drugs",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "25188300",
+  "doi": "10.1371/journal.pgen.1004580",
+  "title": "Meta-analysis of SHANK Mutations in Autism Spectrum Disorders: a gradient of severity in cognitive impairments",
+  "authors": "Leblond CS, Nava C, Polge A, Gauthier J, Huguet G, Lumbroso S, et al.",
+  "journal": "PLoS genetics",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "SHANK genes code for scaffold proteins located at the post-synaptic density of glutamatergic synapses. In neurons, SHANK2 and SHANK3 have a positive effect on the induction and maturation of dendritic spines, whereas SHANK1 induces the enlargement of spine heads. Mutations in SHANK genes have been associated with autism spectrum disorders (ASD), but their prevalence and clinical relevance remain to be determined. Here, we performed a new screen and a meta-analysis of SHANK copy-number and coding-sequence variants in ASD. Copy-number variants were analyzed in 5,657 patients and 19,163 controls, coding-sequence variants were ascertained in 760 to 2,147 patients and 492 to 1,090 controls (depending on the gene), and, individuals carrying de novo or truncating SHANK mutations underwent an extensive clinical investigation. Copy-number variants and truncating mutations in SHANK genes were present in &#x223c;1% of patients with ASD: mutations in SHANK1 were rare (0.04%) and present in males with normal IQ and autism; mutations in SHANK2 were present in 0.17% of patients with ASD and mild intellectual disability; mutations in SHANK3 were present in 0.69% of patients with ASD and up to 2.12% of the cases with moderate to profound intellectual disability. In summary, mutations of the SHANK genes were detected in the whole spectrum of autism with a gradient of severity in cognitive impairment. Given the rare frequency of SHANK1 and SHANK2 deleterious mutations, the clinical relevance of these genes remains to be ascertained. In contrast, the frequency and the penetrance of SHANK3 mutations in individuals with ASD and intellectual disability-more than 1 in 50-warrant its consideration for mutation screening in clinical practice.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "SHANK1",
+    "SHANK2",
+    "SHANK3"
+  ],
+  "summary": "SHANK genes code for scaffold proteins located at the post-synaptic density of glutamatergic synapses. In neurons, SHANK2 and SHANK3 have a positive effect on the induction and maturation of dendritic spines, whereas SHANK1 induces the enlargement of spine heads.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25188300/",
+  "mesh_terms": [
+    "Case-Control Studies",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Cognition",
+    "Cognition Disorders",
+    "DNA Copy Number Variations",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

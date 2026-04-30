@@ -1,0 +1,45 @@
+{
+  "pmid": "23205844",
+  "doi": "10.1111/dmcn.12044",
+  "title": "Understanding relationships between autism, intelligence, and epilepsy: a cross-disorder approach",
+  "authors": "van Eeghen AM, Pulsifer MB, Merker VL, Neumeyer AM, van Eeghen EE, Thibert RL, et al.",
+  "journal": "Developmental medicine and child neurology",
+  "date": "2012-12",
+  "source": "pubmed",
+  "abstract": "As relationships between autistic traits, epilepsy, and cognitive functioning remain poorly understood, these associations were explored in the biologically related disorders tuberous sclerosis complex (TSC), neurofibromatosis type 1 (NF1), and epilepsy.\n\nThe Social Responsiveness Scale (SRS), a quantitative measure of autistic traits, was distributed to caregivers or companions of patients with TSC, NF1, and childhood-onset epilepsy of unknown cause (EUC), and these results were compared with SRS data from individuals with idiopathic autism spectrum disorders (ASDs) and their unaffected siblings. Scores and trait profiles of autistic features were compared with cognitive outcomes, epilepsy variables, and genotype.\n\nA total of 180 SRS questionnaires were completed in the TSC, NF1, and EUC outpatient clinics at the Massachusetts General Hospital (90 females, 90 males; mean age 21 y, range 4-63 y), and SRS data from 210 patients with ASD recruited from an autism research collaboration (167 males, 43 females; mean age 9 y, range 4-22 y) and 130 unaffected siblings were available. Regression models showed a significant association between SRS scores and intelligence outcomes (p<0.001) and various seizure variables (p<0.02), but not with a specific underlying disorder or genotype. The level of autistic features was strongly associated with intelligence outcomes in patients with TSC and epilepsy (p<0.01); in patients with NF1 these relationships were weaker (p=0.25). For all study groups, autistic trait subdomains covaried with neurocognitive comorbidity, with endophenotypes similar to that of idiopathic autism.\n\nOur data show that in TSC and childhood-onset epilepsy, the severity and phenotype of autistic features are inextricably linked with intelligence and epilepsy outcomes. Such relationships were weaker for individuals with NF1. Findings suggest that ASDs are not specific in these conditions.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "As relationships between autistic traits, epilepsy, and cognitive functioning remain poorly understood, these associations were explored in the biologically related disorders tuberous sclerosis complex (TSC), neurofibromatosis type 1 (NF1), and epilepsy. The Social Responsiveness Scale (SRS), a quantitative measure of autistic traits, was distributed to caregivers or companions of patients with TSC, NF1, and childhood-onset epilepsy of unknown cause (EUC), and these results were compared with SR",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23205844/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Intelligence",
+    "Male",
+    "Phenotype",
+    "Psychiatric Status Rating Scales",
+    "Social Adjustment",
+    "Surveys and Questionnaires",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "16685180",
+  "doi": "10.1097/00004703-200604002-00012",
+  "title": "Autism spectrum disorders and attention-deficit/hyperactivity disorder in boys with the fragile X premutation",
+  "authors": "Farzin F, Perry H, Hessl D, Loesch D, Cohen J, Bacalman S, et al.",
+  "journal": "Journal of developmental and behavioral pediatrics : JDBP",
+  "date": "2006-04",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is caused by a full mutation expansion (>200 CGG repeats) in the FMR1 gene that results in a deficiency of the fragile X mental retardation protein. Although most individuals with the premutation (55-200 CGG repeats) are considered unaffected by FXS, recent case studies have documented children with the premutation who have cognitive deficits, behavioral problems, and/or autism spectrum disorders. The objective of this study was to compare the prevalence of autism spectrum disorders (ASD) and attention-deficit hyperactivity disorder (ADHD) symptoms in boys with the premutation who presented as probands, in brothers with the premutation who did not present as probands, and in normal brothers of premutation and/or full mutation carriers. Participants included 43 male children: 14 probands who presented to clinic, 13 nonprobands who were identified through cascade testing (routine genetic testing of family members after identification of a proband) and confirmed to have the premutation, and a control group of 16 male siblings of individuals with the fragile X premutation or full mutation who were negative for the FMR1 mutation. Participants came from 1 of 2 collaborative sites: University of California, Davis and La Trobe University in Australia. Parents completed the Conners' Global Index-Parent Version for assessing symptoms of ADHD and the Social Communication Questionnaire (SCQ) for identifying symptoms of ASD. Children who were in the ASD range on the SCQ (n = 13) underwent further evaluation with either the Autism Diagnostic Observation Schedule-Generic (n = 10) or the Autism Diagnostic Interview-Revised (n = 3). A final diagnosis of ASD included clinical assessment utilizing DSM-IV-TR criteria in addition to the standardized assessments. There was a higher rate of ASD in boys with the premutation presenting as probands (p < 0.001) or nonprobands (p < .04) compared with sibling controls without the premutation. In addition, probands had a significant increase in ADHD symptoms compared with controls (p < .0001). Of the probands, 93% had symptoms of ADHD and 79% had ASD. In the nonproband premutation group, 38% had symptoms of ADHD and 8% had ASD. Thirteen percent of sibling controls had symptoms of ADHD and none had ASD. IQ scores were similar in all 3 groups (p = .13), but the use of psychotropic medications was significantly higher in probands with the premutation compared with that in controls (p < .0001). Developmental problems have been observed in premutation carriers, particularly those who present clinically with behavioral difficulties. Although this study is based on a small sample size, it suggests that premutation carriers, even those who do not present clinically, may be at increased risk for an ASD and/or symptoms of ADHD. If the premutation is identified through cascade testing, then further assessment should be carried out for symptoms of ADHD, social deficits, or learning disabilities.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is caused by a full mutation expansion (>200 CGG repeats) in the FMR1 gene that results in a deficiency of the fragile X mental retardation protein. Although most individuals with the premutation (55-200 CGG repeats) are considered unaffected by FXS, recent case studies have documented children with the premutation who have cognitive deficits, behavioral problems, and/or autism spectrum disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16685180/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "DNA",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Trinucleotide Repeats"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

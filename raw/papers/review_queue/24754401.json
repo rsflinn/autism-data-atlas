@@ -1,0 +1,48 @@
+{
+  "pmid": "24754401",
+  "doi": "10.1111/epi.12627",
+  "title": "Genotype/phenotype in tuberous sclerosis complex: associations with clinical and radiologic manifestations",
+  "authors": "Kothare SV, Singh K, Hochman T, Chalifoux JR, Staley BA, Weiner HL, et al.",
+  "journal": "Epilepsia",
+  "date": "2014-04",
+  "source": "pubmed",
+  "abstract": "Patients with tuberous sclerosis complex (TSC) frequently have autism spectrum disorders and neuropsychiatric disorders. Subependymal giant cell astrocytomas (SEGAs) have been reported to occur in 5-20% of patients with TSC; however, the relationship between SEGAs and neuropsychiatric disorders in TSC remains unknown. We utilized a large multicenter database to study associations between SEGAs and neuropsychiatric disorders in patients with TSC.\n\nAssociations between the presence of SEGAs and neuropsychiatric disorders were examined in a retrospective review of 916 patients enrolled in the TSC Natural History Database Project (Tuberous Sclerosis Alliance).\n\nAmong the 916 TSC patients, 226 had SEGAs (25%) and 155 had autism spectrum disorder (ASD) (17%). Compared to patients without SEGAs, patients with SEGAs were 1.83 (95% confidence interval [CI] 1.26-2.66) times more likely to have ASD. No significant relationship was found between SEGAs and intellectual disability, attention-deficit/hyperactive disorder, or major depressive disorder.\n\nThe clinical presentation of TSC is highly variable and not well understood. These data show that SEGAs are associated with ASD in patients with TSC, suggesting that the pathologic changes leading to SEGA formation may also predispose patients to ASD.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Patients with tuberous sclerosis complex (TSC) frequently have autism spectrum disorders and neuropsychiatric disorders. Subependymal giant cell astrocytomas (SEGAs) have been reported to occur in 5-20% of patients with TSC; however, the relationship between SEGAs and neuropsychiatric disorders in TSC remains unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24754401/",
+  "mesh_terms": [
+    "Belgium",
+    "Child",
+    "Child, Preschool",
+    "Databases, Factual",
+    "Female",
+    "Genotype",
+    "Humans",
+    "Infant",
+    "Male",
+    "Phenotype",
+    "Radiography",
+    "Retrospective Studies",
+    "Tuberous Sclerosis",
+    "United States"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Epilepsy",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ]
+}

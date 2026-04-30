@@ -1,0 +1,46 @@
+{
+  "pmid": "37455590",
+  "doi": "10.1002/ajmg.b.32952",
+  "title": "Genetic liability for gastrointestinal inflammation disorders and association with gastrointestinal symptoms in children with and without autism",
+  "authors": "Morrill V, Benke K, Brinton J, Soke GN, Schieve LA, Fields V, et al.",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "Children with autism spectrum disorder (ASD) have a greater prevalence of gastrointestinal (GI) symptoms than children without ASD. We tested whether polygenic scores for each of three GI disorders (ulcerative colitis, inflammatory bowel disease, and Crohn's disease) were related to GI symptoms in children with and without ASD. Using genotyping data (564 ASD cases and 715 controls) and external genome-wide association study summary statistics, we computed GI polygenic scores for ulcerative colitis (UC-PGS), inflammatory bowel disease (IDB-PGS), and Crohn's disease (CD-PGS). Multivariable logistic regression models, adjusted for genetic ancestry, were used to estimate associations between each GI-PGS and (1) ASD case-control status, and (2) specific GI symptoms in neurotypical children and separately in ASD children. In children without ASD, polygenic scores for ulcerative colitis were significantly associated with experiencing any GI symptom (adjusted odds ratio (aOR)&#x2009;=&#x2009;1.36, 95% confidence interval (CI)&#x2009;=&#x2009;1.03-1.81, p&#x2009;=&#x2009;0.03) and diarrhea specifically (aOR&#x2009;=&#x2009;5.35, 95% CI&#x2009;=&#x2009;1.77-26.20, p&#x2009;=&#x2009;0.01). Among children without ASD, IBD-PGS, and Crohn's PGS were significantly associated with diarrhea (aOR&#x2009;=&#x2009;3.55, 95% CI&#x2009;=&#x2009;1.25-12.34, p&#x2009;=&#x2009;0.02) and loose stools alternating with constipation (aOR&#x2009;=&#x2009;2.57, 95% CI&#x2009;=&#x2009;1.13-6.55, p&#x2009;=&#x2009;0.03), respectively. However, the three PGS were not associated with GI symptoms in the ASD case group. Furthermore, polygenic scores for ulcerative colitis significantly interacted with ASD status on presentation of any GI symptom within a European ancestry subset (aOR&#x2009;=&#x2009;0.42, 95% CI&#x2009;=&#x2009;0.19-0.88, p&#x2009;=&#x2009;0.02). Genetic risk factors for some GI symptoms differ between children with and without ASD. Furthermore, our finding that increased genetic risks for GI inflammatory disorders are associated with GI symptoms in children without ASD informs future work on the early detection of GI disorders.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Children with autism spectrum disorder (ASD) have a greater prevalence of gastrointestinal (GI) symptoms than children without ASD. We tested whether polygenic scores for each of three GI disorders (ulcerative colitis, inflammatory bowel disease, and Crohn's disease) were related to GI symptoms in children with and without ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37455590/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Crohn Disease",
+    "Autism Spectrum Disorder",
+    "Colitis, Ulcerative",
+    "Autistic Disorder",
+    "Genome-Wide Association Study",
+    "Gastrointestinal Diseases",
+    "Diarrhea",
+    "Inflammatory Bowel Diseases",
+    "Inflammation"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "co-occurring condition",
+    "gastrointestinal",
+    "genetic",
+    "polygenic score"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

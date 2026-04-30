@@ -1,0 +1,48 @@
+{
+  "pmid": "38503299",
+  "doi": "10.1016/j.ajhg.2024.02.014",
+  "title": "Mono-allelic KCNB2 variants lead to a neurodevelopmental syndrome caused by altered channel inactivation",
+  "authors": "Bhat S, Rousseau J, Michaud C, Louren&#xe7;o CM, Stoler JM, Louie RJ, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Ion channels mediate voltage fluxes or action potentials that are central to the functioning of excitable cells such as neurons. The KCNB family of voltage-gated potassium channels (Kv) consists of two members (KCNB1 and KCNB2) encoded by KCNB1 and KCNB2, respectively. These channels are major contributors to delayed rectifier potassium currents arising from the neuronal soma which modulate overall excitability of neurons. In this study, we identified several mono-allelic pathogenic missense variants in KCNB2, in individuals with a neurodevelopmental syndrome with epilepsy and autism in some individuals. Recurrent dysmorphisms included a broad forehead, synophrys, and digital anomalies. Additionally, we selected three variants where genetic transmission has not been assessed, from two epilepsy studies, for inclusion in our experiments. We characterized channel properties of these variants by expressing them in oocytes of Xenopus laevis and conducting cut-open oocyte voltage clamp electrophysiology. Our datasets indicate no significant change in absolute conductance and conductance-voltage relationships of most disease variants as compared to wild type (WT), when expressed either alone or co-expressed with WT-KCNB2. However, variants c.1141A>G (p.Thr381Ala) and c.641C>T (p.Thr214Met) show complete abrogation of currents when expressed alone with the former exhibiting a left shift in activation midpoint when expressed alone or with WT-KCNB2. The variants we studied, nevertheless, show collective features of increased inactivation shifted to hyperpolarized potentials. We suggest that the effects of the variants on channel inactivation result in hyper-excitability of neurons, which contributes to disease manifestations.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "KCNB1"
+  ],
+  "summary": "Ion channels mediate voltage fluxes or action potentials that are central to the functioning of excitable cells such as neurons. The KCNB family of voltage-gated potassium channels (Kv) consists of two members (KCNB1 and KCNB2) encoded by KCNB1 and KCNB2, respectively.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38503299/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Action Potentials",
+    "Epilepsy",
+    "Mutation, Missense",
+    "Neurons",
+    "Oocytes",
+    "Xenopus laevis",
+    "Shab Potassium Channels",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "KCNB2",
+    "channel inactivation, neurodevelopmental disorders, voltage-gated potassium channels",
+    "dysmorphism",
+    "epilepsy",
+    "global developmental delay"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

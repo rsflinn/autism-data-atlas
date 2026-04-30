@@ -1,0 +1,46 @@
+{
+  "pmid": "22495306",
+  "doi": "10.1038/nature10945",
+  "title": "De novo mutations revealed by whole-exome sequencing are strongly associated with autism",
+  "authors": "Sanders SJ, Murtha MT, Gupta AR, Murdoch JD, Raubeson MJ, Willsey AJ, et al.",
+  "journal": "Nature",
+  "date": "2012-04",
+  "source": "pubmed",
+  "abstract": "Multiple studies have confirmed the contribution of rare de novo copy number variations to the risk for autism spectrum disorders. But whereas de novo single nucleotide variants have been identified in affected individuals, their contribution to risk has yet to be clarified. Specifically, the frequency and distribution of these mutations have not been well characterized in matched unaffected controls, and such data are vital to the interpretation of de novo coding mutations observed in probands. Here we show, using whole-exome sequencing of 928 individuals, including 200 phenotypically discordant sibling pairs, that highly disruptive (nonsense and splice-site) de novo mutations in brain-expressed genes are associated with autism spectrum disorders and carry large effects. On the basis of mutation rates in unaffected individuals, we demonstrate that multiple independent de novo single nucleotide variants in the same gene among unrelated probands reliably identifies risk alleles, providing a clear path forward for gene discovery. Among a total of 279 identified de novo coding mutations, there is a single instance in probands, and none in siblings, in which two independent nonsense variants disrupt the same gene, SCN2A (sodium channel, voltage-gated, type II, &#x3b1; subunit), a result that is highly unlikely by chance.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Multiple studies have confirmed the contribution of rare de novo copy number variations to the risk for autism spectrum disorders. But whereas de novo single nucleotide variants have been identified in affected individuals, their contribution to risk has yet to be clarified.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22495306/",
+  "mesh_terms": [
+    "Alleles",
+    "Autistic Disorder",
+    "Codon, Nonsense",
+    "Exome",
+    "Exons",
+    "Genetic Heterogeneity",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Mutation",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Nerve Tissue Proteins",
+    "RNA Splice Sites",
+    "Siblings",
+    "Sodium Channels"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

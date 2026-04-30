@@ -1,0 +1,35 @@
+{
+  "pmid": "39449399",
+  "doi": "10.3390/pediatric16040072",
+  "title": "Acute Onset of Peripheral Facial Nerve Palsy in Children: An Overview",
+  "authors": "Fancello V, Ciorba A, Monzani D, Genovese E, Bussu F, Palma S",
+  "journal": "Pediatric reports",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "The facial nerve (FN) plays a pivotal role in human life; apart from its sensory and parasympathetic functions, it innervates the facial muscles, and it is therefore involved in non-verbal communication, allowing us to express emotions and reactions. Especially in the case of childhood onset, FN dysfunction can severely affect the quality of life.The aim of this review is to analyze the most recent literature, focusing on the acute onset of peripheral FN palsy among pediatric patients, discussing the different etiologies, prognoses, and management strategies. A total of 882 papers were initially identified, but only 7 met the selection criteria. Therefore, data on 974 children in total were pooled and analyzed.According to the findings of this review, FN palsy is idiopathic in most cases, while an infective etiology was identified as the second most common. The main pathogen agents identified were Borrelia Burgdorferi, especially in endemic areas, and Herpesviridae. Respiratory tract infections and/or ear infections were also described. Head trauma or direct injury of the FN accounted for 2% of all cases.The overall FN recovery rate is high, even though the etiology remains unknown for most patients. Therapeutic indications are still lacking, especially in the case of non-recovering FN palsy. In our opinion, large, prospective studies are necessary for improving our knowledge of this disorder and establishing evidence-based approaches.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The facial nerve (FN) plays a pivotal role in human life; apart from its sensory and parasympathetic functions, it innervates the facial muscles, and it is therefore involved in non-verbal communication, allowing us to express emotions and reactions. Especially in the case of childhood onset, FN dysfunction can severely affect the quality of life.The aim of this review is to analyze the most recent literature, focusing on the acute onset of peripheral FN palsy among pediatric patients, discussin",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39449399/",
+  "mesh_terms": [],
+  "keywords": [
+    "Bell&#x2019;s palsy",
+    "acute onset",
+    "children",
+    "emergency department",
+    "peripheral facial nerve palsy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

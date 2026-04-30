@@ -1,0 +1,50 @@
+{
+  "pmid": "35013239",
+  "doi": "10.1038/s41467-021-27722-6",
+  "title": "Proximity labeling identifies a repertoire of site-specific R-loop modulators",
+  "authors": "Yan Q, Wulfridge P, Doherty J, Fernandez-Luna JL, Real PJ, Tang HY, et al.",
+  "journal": "Nature communications",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "R-loops are three-stranded nucleic acid structures that accumulate on chromatin in neurological diseases and cancers and contribute to genome instability. Using a proximity-dependent labeling system, we identified distinct classes of proteins that regulate R-loops in vivo through different mechanisms. We show that ATRX suppresses R-loops by interacting with RNAs and preventing R-loop formation. Our proteomics screen also discovered an unexpected enrichment for proteins containing zinc fingers and homeodomains. One of the most consistently enriched proteins was activity-dependent neuroprotective protein (ADNP), which is frequently mutated in ASD and causal in ADNP syndrome. We find that ADNP resolves R-loops in vitro and that it is necessary to suppress R-loops in vivo at its genomic targets. Furthermore, deletion of the ADNP homeodomain severely diminishes R-loop resolution activity in vitro, results in R-loop accumulation at ADNP targets, and compromises neuronal differentiation. Notably, patient-derived human induced pluripotent stem cells that contain an ADNP syndrome-causing mutation exhibit R-loop and CTCF accumulation at ADNP targets. Our findings point to a specific role for ADNP-mediated R-loop resolution in physiological and pathological neuronal function and, more broadly, to a role for zinc finger and homeodomain proteins in R-loop regulation, with important implications for developmental disorders and cancers.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "R-loops are three-stranded nucleic acid structures that accumulate on chromatin in neurological diseases and cancers and contribute to genome instability. Using a proximity-dependent labeling system, we identified distinct classes of proteins that regulate R-loops in vivo through different mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35013239/",
+  "mesh_terms": [
+    "Animals",
+    "Cell Differentiation",
+    "Chromatin",
+    "Embryonic Stem Cells",
+    "Genomic Instability",
+    "HEK293 Cells",
+    "Homeodomain Proteins",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Mice",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "Proteomics",
+    "R-Loop Structures",
+    "RNA",
+    "Zinc Fingers"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

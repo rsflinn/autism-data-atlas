@@ -1,0 +1,40 @@
+{
+  "pmid": "27894357",
+  "doi": "10.1186/s13059-016-1110-1",
+  "title": "New insights into the generation and role of de novo mutations in health and disease",
+  "authors": "Acuna-Hidalgo R, Veltman JA, Hoischen A",
+  "journal": "Genome biology",
+  "date": "2016-11",
+  "source": "pubmed",
+  "abstract": "Aside from inheriting half of the genome of each of our parents, we are born with a small number of novel mutations that occurred during gametogenesis and postzygotically. Recent genome and exome sequencing studies of parent-offspring trios have provided the first insights into the number and distribution of these de novo mutations in health and disease, pointing to risk factors that increase their number in the offspring. De novo mutations have been shown to be a major cause of severe early-onset genetic disorders such as intellectual disability, autism spectrum disorder, and other developmental diseases. In fact, the occurrence of novel mutations in each generation explains why these reproductively lethal disorders continue to occur in our population. Recent studies have also shown that de novo mutations are predominantly of paternal origin and that their number increases with advanced paternal age. Here, we review the recent literature on de novo mutations, covering their detection, biological characterization, and medical impact.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Aside from inheriting half of the genome of each of our parents, we are born with a small number of novel mutations that occurred during gametogenesis and postzygotically. Recent genome and exome sequencing studies of parent-offspring trios have provided the first insights into the number and distribution of these de novo mutations in health and disease, pointing to risk factors that increase their number in the offspring.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27894357/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Exome",
+    "Gametogenesis",
+    "Genome, Human",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "Sequence Analysis, DNA"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

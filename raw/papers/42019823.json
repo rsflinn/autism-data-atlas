@@ -1,0 +1,34 @@
+{
+  "pmid": "42019823",
+  "doi": "10.1016/j.nbd.2026.107402",
+  "title": "Integrative multi-omics implicates a CTSB/ITIH-ECM axis in autism spectrum disorder",
+  "authors": "Wang G, Zhu G, Liu H, Wu L, Zhang Z, Pang P, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a highly heritable neurodevelopmental condition characterized by marked clinical and biological heterogeneity. Despite substantial progress in genetic discovery, the downstream biological mechanisms linking genetic risk to neurodevelopmental pathology remain incompletely understood.\n\nWe conducted an integrative Mendelian randomization (MR) analysis combining large-scale proteomic, transcriptomic, metabolomic, and single-nucleus RNA sequencing (snRNA-seq) data. Proteome-wide MR analyses across plasma, brain tissue, and cerebrospinal fluid were performed to implicate proteins with putative causal associations with ASD. Candidate proteins were prioritized using transcriptome-wide MR and Bayesian colocalization analyses. Cell-type-specific expression patterns were examined in post-mortem human ASD cortex using snRNA-seq. Functional enrichment, metabolite mediation, and protein-protein interaction analyses were used to contextualize the biological pathways implicated, and drug predictions and docking are utilized for drugability assessment.\n\nProteome-wide MR identified 42 proteins with putative causal effects on ASD risk. Integrated transcriptomic and colocalization analyses prioritized eight high-confidence targets, including ITIH3, ITIH4, CTSB, MDH1, MANBA, LRRC37A2, ESAM, and NMB. snRNA-seq analysis demonstrated cell-type-specific dysregulation of these genes in neuronal and glial populations in the ASD cortex. Convergent analyses implicated disruption of extracellular matrix (ECM) homeostasis, mediated in part through sphingolipid metabolism and imbalance between proteolytic activity and protease inhibition. CTSB showed a risk-promoting association with ASD, whereas ITIH3 and ITIH4 exhibited protective effects. Drugability assessment, including molecular docking, identified seocalcitol as a high-affinity ligand for CTSB.\n\nThese findings prioritize a genetically supported ECM-related biological axis underlying ASD risk and suggest that dysregulation of proteolytic balance may contribute to neurodevelopmental vulnerability in ASD. This study provides a human genetics-informed framework for understanding ECM involvement in ASD pathophysiology.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a highly heritable neurodevelopmental condition characterized by marked clinical and biological heterogeneity. Despite substantial progress in genetic discovery, the downstream biological mechanisms linking genetic risk to neurodevelopmental pathology remain incompletely understood.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42019823/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Mendelian randomization",
+    "Molecular docking",
+    "Single-nucleus RNA sequencing",
+    "Therapeutic target"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

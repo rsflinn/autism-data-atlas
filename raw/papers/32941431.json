@@ -1,0 +1,49 @@
+{
+  "pmid": "32941431",
+  "doi": "10.1371/journal.pgen.1009036",
+  "title": "Polygenic risk for autism spectrum disorder associates with anger recognition in a neurodevelopment-focused phenome-wide scan of unaffected youths from a population-based cohort",
+  "authors": "Wendt FR, Carvalho CM, Pathak GA, Gelernter J, Polimanti R",
+  "journal": "PLoS genetics",
+  "date": "2020-09",
+  "source": "pubmed",
+  "abstract": "The polygenic nature and the contribution of common genetic variation to autism spectrum disorder (ASD) allude to a high degree of pleiotropy between ASD and other psychiatric and behavioral traits. In a pleiotropic system, a single genetic variant contributes small effects to several phenotypes or disorders. While analyzed broadly, there is a paucity of research studies investigating the shared genetic information between specific neurodevelopmental domains and ASD. We performed a phenome-wide association study of ASD polygenetic risk score (PRS) against 491 neurodevelopmental subdomains ascertained in 4,309 probands from the Philadelphia Neurodevelopmental Cohort (PNC) who lack an ASD diagnosis. Our main analysis calculated ASD PRS in 4,309 PNC probands using the per-SNP effects reported in a recent genome-wide association study of ASD in a case-control design. In a high-resolution manner, our main analysis regressed ASD PRS against 491 neurodevelopmental phenotypes with age, sex, and ten principal components of ancestry as covariates. Follow-up analyses included in the regression model PRS derived from brain-related traits genetically correlated with ASD. Our main finding demonstrated that 11-17-year old probands with the highest ASD genetic risk were able to identify angry faces (R2 = 1.06%, p = 1.38 &#xd7; 10-7, pBonferroni-corrected = 1.9 &#xd7; 10-3). This ability replicated in older probands (>18 years; R2 = 0.55%, p = 0.036) and persisted after covarying with other psychiatric disorders, brain imaging traits, and educational attainment (R2 = 0.2%, p = 0.019). We also detected several suggestive associations between ASD PRS and emotionality and connectedness with others. These data (i) indicate how genetic liability to ASD may influence neurodevelopment in the general population, (ii) reinforce epidemiological findings of heightened ability of ASD cases to predict certain social psychological events based on increased systemizing skills, and (iii) recapitulate theories of imbalance between empathizing and systemizing in ASD etiology.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The polygenic nature and the contribution of common genetic variation to autism spectrum disorder (ASD) allude to a high degree of pleiotropy between ASD and other psychiatric and behavioral traits. In a pleiotropic system, a single genetic variant contributes small effects to several phenotypes or disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32941431/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Anger",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Child",
+    "Cohort Studies",
+    "Facial Recognition",
+    "Female",
+    "Genetic Pleiotropy",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Phenotype",
+    "Recognition, Psychology",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

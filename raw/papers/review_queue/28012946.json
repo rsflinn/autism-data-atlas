@@ -1,0 +1,53 @@
+{
+  "pmid": "28012946",
+  "doi": "10.1016/j.neuropharm.2016.12.010",
+  "title": "Impaired GABAergic inhibition in the hippocampus of Fmr1 knockout mice",
+  "authors": "Sabanov V, Braat S, D'Andrea L, Willemsen R, Zeidler S, Rooms L, et al.",
+  "journal": "Neuropharmacology",
+  "date": "2016-12",
+  "source": "pubmed",
+  "abstract": "Many clinical and molecular features of the fragile X syndrome, a common form of intellectual disability and autism, can be modeled by deletion of the Fmr1 protein (Fmrp) in mice. Previous studies showed a decreased expression of several components of the GABAergic system in Fmr1 knockout mice. Here, we used this mouse model to investigate the functional consequences of Fmrp deletion on hippocampal GABAergic inhibition in the CA1-region of the hippocampus. Whole-cell patch-clamp recordings demonstrated a significantly reduced amplitude of evoked inhibitory postsynaptic currents (eIPSCs) and a decrease in the amplitude and frequency of spontaneous IPSCs. In addition, miniature IPSCs were reduced in amplitude and frequency and decayed significantly slower than mIPSCs in controls. Quantitative real-time PCR revealed a significantly lower expression of &#x3b1;2, &#x3b2;1 and &#x3b4; GABAreceptor subunits in the hippocampus of the juvenile mice (P22) compared to wild-type littermates. Correspondingly, we found also at the protein level reduced amounts of &#x3b1;2, &#x3b2;1 and &#x3b4; subunits in Fmr1 knockout mice. Overall, these results demonstrate that the reduction in several components of the GABAergic system is already present at young age and that this reduction results in measurable abnormalities on GABAreceptor-mediated phasic inhibition. These abnormalities might contribute to the behavioral and cognitive deficits of this fragile X mouse model.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Many clinical and molecular features of the fragile X syndrome, a common form of intellectual disability and autism, can be modeled by deletion of the Fmr1 protein (Fmrp) in mice. Previous studies showed a decreased expression of several components of the GABAergic system in Fmr1 knockout mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28012946/",
+  "mesh_terms": [
+    "Animals",
+    "CA1 Region, Hippocampal",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "GABA-A Receptor Antagonists",
+    "Inhibitory Postsynaptic Potentials",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Miniature Postsynaptic Potentials",
+    "Patch-Clamp Techniques",
+    "Pyramidal Cells",
+    "RNA, Messenger",
+    "Receptors, GABA-A",
+    "Tissue Culture Techniques",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [
+    "Fmr1 knockout mice",
+    "Fragile X syndrome",
+    "GABA(A) receptor subunit",
+    "Hippocampus",
+    "Inhibitory postsynaptic current"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

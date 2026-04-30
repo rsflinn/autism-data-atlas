@@ -1,0 +1,41 @@
+{
+  "pmid": "22499558",
+  "doi": "10.1002/ajmg.c.31330",
+  "title": "Network- and attribute-based classifiers can prioritize genes and pathways for autism spectrum disorders and intellectual disability",
+  "authors": "Kou Y, Betancur C, Xu H, Buxbaum JD, Ma'ayan A",
+  "journal": "American journal of medical genetics. Part C, Seminars in medical genetics",
+  "date": "2012-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are a group of related neurodevelopmental disorders with significant combined prevalence (&#x223c;1%) and high heritability. Dozens of individually rare genes and loci associated with high-risk for ASD have been identified, which overlap extensively with genes for intellectual disability (ID). However, studies indicate that there may be hundreds of genes that remain to be identified. The advent of inexpensive massively parallel nucleotide sequencing can reveal the genetic underpinnings of heritable complex diseases, including ASD and ID. However, whole exome sequencing (WES) and whole genome sequencing (WGS) provides an embarrassment of riches, where many candidate variants emerge. It has been argued that genetic variation for ASD and ID will cluster in genes involved in distinct pathways and protein complexes. For this reason, computational methods that prioritize candidate genes based on additional functional information such as protein-protein interactions or association with specific canonical or empirical pathways, or other attributes, can be useful. In this study we applied several supervised learning approaches to prioritize ASD or ID disease gene candidates based on curated lists of known ASD and ID disease genes. We implemented two network-based classifiers and one attribute-based classifier to show that we can rank and classify known, and predict new, genes for these neurodevelopmental disorders. We also show that ID and ASD share common pathways that perturb an overlapping synaptic regulatory subnetwork. We also show that features relating to neuronal phenotypes in mouse knockouts can help in classifying neurodevelopmental genes. Our methods can be applied broadly to other diseases helping in prioritizing newly identified genetic variation that emerge from disease gene discovery based on WES and WGS.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) are a group of related neurodevelopmental disorders with significant combined prevalence (&#x223c;1%) and high heritability. Dozens of individually rare genes and loci associated with high-risk for ASD have been identified, which overlap extensively with genes for intellectual disability (ID).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22499558/",
+  "mesh_terms": [
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Gene Regulatory Networks",
+    "Genetic Markers",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Intellectual Disability",
+    "Phenotype",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

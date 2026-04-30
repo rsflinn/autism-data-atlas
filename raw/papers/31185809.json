@@ -1,0 +1,50 @@
+{
+  "pmid": "31185809",
+  "doi": "10.1098/rsob.180265",
+  "title": "Understanding intellectual disability and autism spectrum disorders from common mouse models: synapses to behaviour",
+  "authors": "Verma V, Paul A, Amrapali Vishwanath A, Vaidya B, Clement JP",
+  "journal": "Open biology",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "Normal brain development is highly dependent on the timely coordinated actions of genetic and environmental processes, and an aberration can lead to neurodevelopmental disorders (NDDs). Intellectual disability (ID) and autism spectrum disorders (ASDs) are a group of co-occurring NDDs that affect between 3% and 5% of the world population, thus presenting a great challenge to society. This problem calls for the need to understand the pathobiology of these disorders and to design new therapeutic strategies. One approach towards this has been the development of multiple analogous mouse models. This review discusses studies conducted in the mouse models of five major monogenic causes of ID and ASDs: Fmr1, Syngap1, Mecp2, Shank2/3 and Neuroligins/Neurnexins. These studies reveal that, despite having a diverse molecular origin, the effects of these mutations converge onto similar or related aetiological pathways, consequently giving rise to the typical phenotype of cognitive, social and emotional deficits that are characteristic of ID and ASDs. This convergence, therefore, highlights common pathological nodes that can be targeted for therapy. Other than conventional therapeutic strategies such as non-pharmacological corrective methods and symptomatic alleviation, multiple studies in mouse models have successfully proved the possibility of pharmacological and genetic therapy enabling functional recovery.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Normal brain development is highly dependent on the timely coordinated actions of genetic and environmental processes, and an aberration can lead to neurodevelopmental disorders (NDDs). Intellectual disability (ID) and autism spectrum disorders (ASDs) are a group of co-occurring NDDs that affect between 3% and 5% of the world population, thus presenting a great challenge to society.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31185809/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Intellectual Disability",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "ras GTPase-Activating Proteins"
+  ],
+  "keywords": [
+    "MECP2",
+    "NEUROLIGIN",
+    "SYNGAP1",
+    "autism spectrum disorders",
+    "fragile X mental retardation protein",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

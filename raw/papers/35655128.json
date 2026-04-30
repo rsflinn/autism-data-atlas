@@ -1,0 +1,44 @@
+{
+  "pmid": "35655128",
+  "doi": "10.1186/s11689-022-09437-x",
+  "title": "Clinical and behavioural features of SYNGAP1-related intellectual disability: a parent and caregiver description",
+  "authors": "Wright D, Kenny A, Eley S, McKechanie AG, Stanfield AC",
+  "journal": "Journal of neurodevelopmental disorders",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "SYNGAP1-related intellectual disability (ID) is a recently described neurodevelopmental disorder that is caused by pathogenic variation in the SYNGAP1 gene. To date, the behavioural characteristics of this disorder have mainly been highlighted via the prevalence of existing diagnoses in case series. We set out to detail the behavioural features of this disorder by undertaking interviews with those who have a child with SYNGAP1-related ID to allow them to describe their child's behaviour.\n\nWe conducted 27 semi-structured interviews with parents and caregivers which covered basic information (e.g., age, gender), family history, perinatal history, past medical history, developmental history, epilepsy, behavioural history, and a general description of their child's behaviour.\n\nUsing a mixed quantitative and qualitative approach, the responses from the parents indicated that those with SYNGAP1-related ID showed high rates of autism spectrum disorder (52%), difficulties with fine and gross motor skills, delays in language development, and a high prevalence of epilepsy (70%). A qualitative analysis highlighted their general behaviour affected the themes of daily living skills, distress-related behaviours, emotional regulation, difficulties with change, a lack of danger awareness, and sensory differences. Sensory features described involved auditory, visual, tactile,&#xa0;gustatory, and proprioceptive themes.\n\nOur findings and behavioural descriptions provide important insights as well as implications for the diagnosis and care of those with SYNGAP1-related ID.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "SYNGAP1-related intellectual disability (ID) is a recently described neurodevelopmental disorder that is caused by pathogenic variation in the SYNGAP1 gene. To date, the behavioural characteristics of this disorder have mainly been highlighted via the prevalence of existing diagnoses in case series.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35655128/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Caregivers",
+    "Child",
+    "Epilepsy",
+    "Humans",
+    "Intellectual Disability",
+    "Parents",
+    "ras GTPase-Activating Proteins"
+  ],
+  "keywords": [
+    "Behavioural phenotype",
+    "Intellectual disability, Autism",
+    "SYNGAP1-related ID"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

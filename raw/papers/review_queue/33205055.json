@@ -1,0 +1,54 @@
+{
+  "pmid": "33205055",
+  "doi": "10.1016/j.xcrm.2020.100002",
+  "title": "Modeling Human Cytomegalovirus-Induced Microcephaly in Human iPSC-Derived Brain Organoids",
+  "authors": "Sun G, Chiuppesi F, Chen X, Wang C, Tian E, Nguyen J, et al.",
+  "journal": "Cell reports. Medicine",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Although congenital infection by human cytomegalovirus (HCMV) is well recognized as a leading cause of neurodevelopmental defects, HCMV neuropathogenesis remains poorly understood. A major challenge for investigating HCMV-induced abnormal brain development is the strict CMV species specificity, which prevents the use of animal models to directly study brain defects caused by HCMV. We show that infection of human-induced pluripotent-stem-cell-derived brain organoids by a \"clinical-like\" HCMV strain results in reduced brain organoid growth, impaired formation of cortical layers, and abnormal calcium signaling and neural network activity. Moreover, we show that the impeded brain organoid development caused by HCMV can be prevented by neutralizing antibodies (NAbs) that recognize the HCMV pentamer complex. These results demonstrate in a three-dimensional cellular biosystem that HCMV can impair the development and function of the human brain and provide insights into the potential capacity of NAbs to mitigate brain defects resulted from HCMV infection.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Although congenital infection by human cytomegalovirus (HCMV) is well recognized as a leading cause of neurodevelopmental defects, HCMV neuropathogenesis remains poorly understood. A major challenge for investigating HCMV-induced abnormal brain development is the strict CMV species specificity, which prevents the use of animal models to directly study brain defects caused by HCMV.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33205055/",
+  "mesh_terms": [
+    "Brain",
+    "Cell Differentiation",
+    "Cells, Cultured",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Male",
+    "Microcephaly",
+    "Models, Biological",
+    "Organoids",
+    "Tissue Culture Techniques"
+  ],
+  "keywords": [
+    "Induced pluripotent stem cells",
+    "brain organoids",
+    "calcium signaling",
+    "human cytomegalovirus",
+    "iPSCs",
+    "microcephaly",
+    "neural network",
+    "neural progenitor cells",
+    "neutralizing antibody",
+    "pentamer complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

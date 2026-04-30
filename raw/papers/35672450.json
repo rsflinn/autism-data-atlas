@@ -1,0 +1,42 @@
+{
+  "pmid": "35672450",
+  "doi": "10.1038/s12276-022-00769-1",
+  "title": "ARID1B, a molecular suppressor of erythropoiesis, is essential for the prevention of Monge's disease",
+  "authors": "Azad P, Caldwell AB, Ramachandran S, Spann NJ, Akbari A, Villafuerte FC, et al.",
+  "journal": "Experimental & molecular medicine",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "At high altitude Andean region, hypoxia-induced excessive erythrocytosis (EE) is the defining feature of Monge's disease or chronic mountain sickness (CMS). At the same altitude, resides a population that has developed adaptive mechanism(s) to constrain this hypoxic response (non-CMS). In this study, we utilized an in vitro induced pluripotent stem cell model system to study both populations using genomic and molecular approaches. Our whole genome analysis of the two groups identified differential SNPs between the CMS and non-CMS subjects in the ARID1B region. Under hypoxia, the expression levels of ARID1B significantly increased in the non-CMS cells but decreased in the CMS cells. At the molecular level, ARID1B knockdown (KD) in non-CMS cells increased the levels of the transcriptional regulator GATA1 by 3-fold and RBC levels by 100-fold under hypoxia. ARID1B KD in non-CMS cells led to increased proliferation and EPO sensitivity by lowering p53 levels and decreasing apoptosis through GATA1 mediation. Interestingly, under hypoxia ARID1B showed an epigenetic role, altering the chromatin states of erythroid genes. Indeed, combined Real-time PCR and ATAC-Seq results showed that ARID1B modulates the expression of GATA1 and p53 and chromatin accessibility at GATA1/p53 target genes. We conclude that ARID1B is a novel erythroid regulator under hypoxia that controls various aspects of erythropoiesis in high-altitude dwellers.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "At high altitude Andean region, hypoxia-induced excessive erythrocytosis (EE) is the defining feature of Monge's disease or chronic mountain sickness (CMS). At the same altitude, resides a population that has developed adaptive mechanism(s) to constrain this hypoxic response (non-CMS).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35672450/",
+  "mesh_terms": [
+    "Altitude Sickness",
+    "Chromatin",
+    "Chronic Disease",
+    "DNA-Binding Proteins",
+    "Erythropoiesis",
+    "Humans",
+    "Hypoxia",
+    "Transcription Factors",
+    "Tumor Suppressor Protein p53"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

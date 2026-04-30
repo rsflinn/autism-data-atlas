@@ -1,0 +1,50 @@
+{
+  "pmid": "31679960",
+  "doi": "10.1016/j.bpsc.2019.08.011",
+  "title": "The Unfulfilled Promise of the N170 as a Social Biomarker",
+  "authors": "Key AP, Corbett BA",
+  "journal": "Biological psychiatry. Cognitive neuroscience and neuroimaging",
+  "date": "2019-09",
+  "source": "pubmed",
+  "abstract": "Greater affordability and accessibility of noninvasive brain imaging techniques have led to an increased interest in identifying biomarkers of various cognitive processes, particularly in the field of neurodevelopmental disabilities. Autism spectrum disorder (ASD) is one area of research in which strong claims in support of brain-based biomarkers, such as the face-sensitive N170 event-related potential response, are currently emerging. This study systematically examined the possibility of the N170 amplitude and latency measures serving as a biomarker of social information processing in ASD.\n\nThe N170 response to faces and houses was recorded during passive picture viewing in 77 children with ASD, 7 to 16 years of age, at 2 time points (before and after a social skills intervention) 3 months apart. Social functioning was assessed using standardized behavioral tests, caregiver reports, and observational measures of naturalistic social interactions.\n\nThe results replicated prior findings of larger N170 amplitudes in response to faces than to houses, but the associations with the behavioral measures of social functioning were modest and not consistently present across the&#xa0;2 assessment time points. Neither the amplitude nor the latency of the N170 response to faces was sensitive to the effects of a social skills intervention that produced behavioral improvements.\n\nThe N170 is a reliable event-related potential response reflecting the sensory-perceptual stage of face processing, but it does not fit the definition of a biomarker of social deficits in ASD because it is not sufficiently informative about heterogeneity of social functioning and is not sensitive to treatment effects.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Greater affordability and accessibility of noninvasive brain imaging techniques have led to an increased interest in identifying biomarkers of various cognitive processes, particularly in the field of neurodevelopmental disabilities. Autism spectrum disorder (ASD) is one area of research in which strong claims in support of brain-based biomarkers, such as the face-sensitive N170 event-related potential response, are currently emerging.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31679960/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Child",
+    "Electroencephalography",
+    "Electronic Data Processing",
+    "Evoked Potentials",
+    "Facial Recognition",
+    "Female",
+    "Humans",
+    "Male",
+    "Social Behavior"
+  ],
+  "keywords": [
+    "Autism",
+    "Biomarker",
+    "Face",
+    "N170",
+    "Social",
+    "Treatment"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

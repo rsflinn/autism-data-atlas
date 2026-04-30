@@ -1,0 +1,38 @@
+{
+  "pmid": "36394118",
+  "doi": "10.1002/ana.26551",
+  "title": "Tubers Affecting the Fusiform Face Area Are Associated with Autism Diagnosis",
+  "authors": "Cohen AL, Kroeck MR, Wall J, McManus P, Ovchinnikova A, Sahin M, et al.",
+  "journal": "Annals of neurology",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is associated with focal brain \"tubers\" and a high incidence of autism spectrum disorder (ASD). The location of brain tubers associated with autism may provide insight into the neuroanatomical substrate of ASD symptoms.\n\nWe delineated tuber locations for 115 TSC participants with ASD (n&#xa0;=&#xa0;31) and without ASD (n&#xa0;=&#xa0;84) from the Tuberous Sclerosis Complex Autism Center of Excellence Research Network. We tested for associations between ASD diagnosis and tuber burden within the whole brain, specific lobes, and at 8 regions of interest derived from the ASD neuroimaging literature, including the anterior cingulate, orbitofrontal and posterior parietal cortices, inferior frontal and fusiform gyri, superior temporal sulcus, amygdala, and supplemental motor area. Next, we performed an unbiased data-driven voxelwise lesion symptom mapping (VLSM) analysis. Finally, we calculated the risk of ASD associated with positive findings from the above analyses.\n\nThere were no significant ASD-related differences in tuber burden across the whole brain, within specific lobes, or within a priori regions derived from the ASD literature. However, using VLSM analysis, we found that tubers involving the right fusiform face area (FFA) were associated with a 3.7-fold increased risk of developing ASD.\n\nAlthough TSC is a rare cause of ASD, there is a strong association between tuber involvement of the right FFA and ASD diagnosis. This highlights a potentially causative mechanism for developing autism in TSC that may guide research into ASD symptoms more generally. ANN NEUROL 2023;93:577-590.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is associated with focal brain \"tubers\" and a high incidence of autism spectrum disorder (ASD). The location of brain tubers associated with autism may provide insight into the neuroanatomical substrate of ASD symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36394118/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Tuberous Sclerosis",
+    "Brain",
+    "Neuroimaging",
+    "Magnetic Resonance Imaging"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pmid": "32093054",
+  "doi": "10.3390/cells9020477",
+  "title": "Succinic Semialdehyde Dehydrogenase Deficiency: An Update",
+  "authors": "Didi&#xe1;&#x161;ov&#xe1; M, Banning A, Brennenstuhl H, Jung-Klawitter S, Cinquemani C, Opladen T, et al.",
+  "journal": "Cells",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "Succinic semialdehyde dehydrogenase deficiency (SSADH-D) is a genetic disorder that results from the aberrant metabolism of the neurotransmitter &#x3b3;-amino butyric acid (GABA). The disease is caused by impaired activity of the mitochondrial enzyme succinic semialdehyde dehydrogenase. SSADH-D manifests as varying degrees of mental retardation, autism, ataxia, and epileptic seizures, but the clinical picture is highly heterogeneous. So far, there is no approved curative therapy for this disease. In this review, we briefly summarize the molecular genetics of SSADH-D, the past and ongoing clinical trials, and the emerging features of the molecular pathogenesis, including redox imbalance and mitochondrial dysfunction. The main aim of this review is to discuss the potential of further therapy approaches that have so far not been tested in SSADH-D, such as pharmacological chaperones, read-through drugs, and gene therapy. Special attention will also be paid to elucidating the role of patient advocacy organizations in facilitating research and in the communication between researchers and patients.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Succinic semialdehyde dehydrogenase deficiency (SSADH-D) is a genetic disorder that results from the aberrant metabolism of the neurotransmitter &#x3b3;-amino butyric acid (GABA). The disease is caused by impaired activity of the mitochondrial enzyme succinic semialdehyde dehydrogenase.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32093054/",
+  "mesh_terms": [
+    "Adult",
+    "Amino Acid Metabolism, Inborn Errors",
+    "Animals",
+    "Child",
+    "Clinical Trials as Topic",
+    "Developmental Disabilities",
+    "Disease Models, Animal",
+    "Enzyme Replacement Therapy",
+    "Genetic Therapy",
+    "Humans",
+    "Mice",
+    "Molecular Targeted Therapy",
+    "Mutation",
+    "Succinate-Semialdehyde Dehydrogenase",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [
+    "autophagy",
+    "clinical trials",
+    "enzyme replacement therapy",
+    "gamma-amino butyric acid",
+    "organic acidurias",
+    "pharmacological chaperones",
+    "succinic semialdehyde dehydrogenase deficiency"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

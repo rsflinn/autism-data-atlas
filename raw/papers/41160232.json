@@ -1,0 +1,33 @@
+{
+  "pmid": "41160232",
+  "doi": "10.1186/s13568-025-01969-4",
+  "title": "Multi-omics reveals cross-tissue regulatory mechanisms of autism risk loci via gut microbiota-immunity-brain axis",
+  "authors": "Liao X, Long J, Wang X, Han K, Tang Z, Chen J, et al.",
+  "journal": "AMB Express",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) involves a multi-system interaction mechanism among genetics, immunity, and gut microbiota, yet its regulatory network remains undefined. This study conducted a meta-analysis on Genome-Wide Association Study data from four independent ASD cohorts to identify potential genetic loci. By integrating Polygenic Priority Score, brain region, and brain cell eQTL enrichment analyses, and combining summary-data-based Mendelian Randomisation (SMR) analyses of brain cis-eQTL and mQTL, bidirectional Mendelian Randomisation analyses of 473 gut microbiota, and SMR analysis of blood eQTL, SNPs such as rs2735307 and rs989134 with significant multi-dimensional associations were identified. These loci exert cross-tissue regulatory effects by participating in gut microbiota regulation, involving immune pathways such as T cell receptor signal activation and neutrophil extracellular trap formation, as well as cis-regulating neurodevelopmental genes (HMGN1 and H3C9P), or synergistically influencing epigenetic methylation modifications to regulate the expression of BRWD1 and ABT1. The cross-scale evidence chain constructed in this study provides a theoretical foundation for precision medicine research in ASD, holding promise to advance the development of innovative therapeutic strategies.",
+  "relevance_score": 30,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) involves a multi-system interaction mechanism among genetics, immunity, and gut microbiota, yet its regulatory network remains undefined. This study conducted a meta-analysis on Genome-Wide Association Study data from four independent ASD cohorts to identify potential genetic loci.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41160232/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism spectrum disorder",
+    "GWAS",
+    "Gut Microbiota-Immunity-Brain axis",
+    "Multi-omics integration"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

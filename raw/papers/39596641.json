@@ -1,0 +1,54 @@
+{
+  "pmid": "39596641",
+  "doi": "10.3390/genes15111441",
+  "title": "Looks Can Be Deceiving: Diagnostic Power of Exome Sequencing in Debunking 15q11.2 Copy Number Variations",
+  "authors": "Meossi C, Carrer A, Ciaccio C, Pezzoli L, Pezzani L, Silipigni RM, et al.",
+  "journal": "Genes",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": ": The pathogenetic role of 15q11.2 Copy Number Variations (CNVs) remains contentious in the scientific community, as microdeletions and microduplications in this region are linked to neurodevelopmental disorders with variable expressivity. This study aims to explore the diagnostic utility of Exome Sequencing (ES) in a cohort of pediatric patients with 15q11.2 CNVs.: We enrolled 35 probands with 15q11.2 microdeletions or microduplications from two genetic centers between January 2021 and January 2023. Chromosomal Microarray Analysis (CMA) and ES were performed with written consent obtained from all parents. Pathogenic variants were classified according to ACMG guidelines.: CMA identified additional pathogenic CNVs in 3 of 35 children (9%). Subsequent ES revealed likely pathogenic or pathogenic variants in 11 of 32 children (34%). Notably, a higher percentage of isolated autism spectrum disorder (ASD) diagnoses was observed in patients without other CNVs or point mutations (= 0.019).: The ES analysis provided a diagnostic yield of 34% in this pediatric cohort with 15q11.2 CNVs. While the study does not dismiss the contribution of the CNV to the clinical phenotype, the findings suggest that ES may uncover the underlying causes of neurodevelopmental disorders. Continuous monitoring and further genetic testing are recommended for all 15q11.2 CNV carriers to optimize clinical management and familial counseling.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": ": The pathogenetic role of 15q11.2 Copy Number Variations (CNVs) remains contentious in the scientific community, as microdeletions and microduplications in this region are linked to neurodevelopmental disorders with variable expressivity. This study aims to explore the diagnostic utility of Exome Sequencing (ES) in a cohort of pediatric patients with 15q11.2 CNVs.: We enrolled 35 probands with 15q11.2 microdeletions or microduplications from two genetic centers between January 2021 and January ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39596641/",
+  "mesh_terms": [
+    "Humans",
+    "Exome Sequencing",
+    "Male",
+    "Female",
+    "DNA Copy Number Variations",
+    "Chromosomes, Human, Pair 15",
+    "Child",
+    "Child, Preschool",
+    "Autism Spectrum Disorder",
+    "Adolescent",
+    "Intellectual Disability",
+    "Chromosome Deletion",
+    "Neurodevelopmental Disorders",
+    "Chromosome Duplication",
+    "Infant",
+    "Genetic Testing",
+    "Exome"
+  ],
+  "keywords": [
+    "15q11.2 microdeletion",
+    "15q11.2 microduplication",
+    "BP1-BP2 CNVs",
+    "alternative diagnosis",
+    "double diagnosis",
+    "exome sequencing",
+    "rare diseases"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

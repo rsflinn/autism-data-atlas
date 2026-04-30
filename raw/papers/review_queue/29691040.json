@@ -1,0 +1,47 @@
+{
+  "pmid": "29691040",
+  "doi": "10.1016/j.tins.2018.03.011",
+  "title": "Progress in Understanding and Treating SCN2A-Mediated Disorders",
+  "authors": "Sanders SJ, Campbell AJ, Cottrell JR, Moller RS, Wagner FF, Auldridge AL, et al.",
+  "journal": "Trends in neurosciences",
+  "date": "2018-04",
+  "source": "pubmed",
+  "abstract": "Advances in gene discovery for neurodevelopmental disorders have identified SCN2A dysfunction as a leading cause of infantile seizures, autism spectrum disorder, and intellectual disability. SCN2A encodes the neuronal sodium channel Na1.2. Functional assays demonstrate strong correlation between genotype and phenotype. This insight can help guide therapeutic decisions and raises the possibility that ligands that selectively enhance or diminish channel function may improve symptoms. The well-defined function of sodium channels makes SCN2A an important test case for investigating the neurobiology of neurodevelopmental disorders more generally. Here, we discuss the progress made, through the concerted efforts of a diverse group of academic and industry scientists as well as policy advocates, in understanding and treating SCN2A-related disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Advances in gene discovery for neurodevelopmental disorders have identified SCN2A dysfunction as a leading cause of infantile seizures, autism spectrum disorder, and intellectual disability. SCN2A encodes the neuronal sodium channel Na1.2.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29691040/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "Na(V)1.2",
+    "autism spectrum disorder",
+    "developmental delay",
+    "epilepsy",
+    "intellectual disability",
+    "neurodevelopment",
+    "neurodevelopmental disorder",
+    "sodium channel"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

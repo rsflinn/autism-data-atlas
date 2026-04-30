@@ -1,0 +1,50 @@
+{
+  "pmid": "39604505",
+  "doi": "10.1038/s41380-024-02805-0",
+  "title": "Dysregulation of the mTOR-FMRP pathway and synaptic&#xa0;plasticity in an environmental model of ASD",
+  "authors": "Hilal ML, Rosina E, Pedini G, Restivo L, Bagni C",
+  "journal": "Molecular psychiatry",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is caused by genetic, epigenetic, and environmental factors. Mutations in the human FMR1 gene, encoding the Fragile X Messenger Ribonucleoprotein 1 (FMRP), cause the most common monogenic form of ASD, the Fragile X Syndrome (FXS). This study explored the interaction between the FMR1 gene and a viral-like infection as an environmental insult, focusing on the impact on core autistic-like behaviors and the mGluR1/5-mTOR pathway. Pregnant heterozygous Fmr1 mouse females were exposed to maternal immune activation (MIA), by injecting the immunostimulant Poly (I:C) at the embryonic stage 12.5, simulating viral infections. Subsequently, ASD-like behaviors were analyzed in the adult offspring, at 8-10 weeks of age. MIA exposure in wild-type mice led to ASD-like behaviors in the adult offspring. These effects were specifically confined to&#xa0;the intrauterine infection, as immune activation at later stages, namely puberty (Pubertal Immune Activation, PIA) at post-natal day 35 or adulthood (Adult Immune Activation, AIA) at post-natal day 56, did not alter adult behavior. Importantly, combining the Fmr1 mutation with MIA exposure did not intensify core autistic-like behaviors, suggesting an occlusion effect. Mechanistically, MIA provided a strong activation of the mGluR1/5-mTOR pathway, leading to increased LTP and downregulation of FMRP specifically in the hippocampus. Finally, FMRP modulates mTOR activity via TSC2. These findings further strengthen the key role of the mGluR1/5-mTOR pathway in causing ASD-like core symptoms.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1",
+    "TSC2"
+  ],
+  "summary": "Autism Spectrum Disorder (ASD) is caused by genetic, epigenetic, and environmental factors. Mutations in the human FMR1 gene, encoding the Fragile X Messenger Ribonucleoprotein 1 (FMRP), cause the most common monogenic form of ASD, the Fragile X Syndrome (FXS).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39604505/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "TOR Serine-Threonine Kinases",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Female",
+    "Mice",
+    "Disease Models, Animal",
+    "Neuronal Plasticity",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects",
+    "Signal Transduction",
+    "Male",
+    "Receptor, Metabotropic Glutamate 5",
+    "Hippocampus",
+    "Mice, Inbred C57BL",
+    "Fragile X Syndrome",
+    "Poly I-C",
+    "Receptors, Metabotropic Glutamate"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

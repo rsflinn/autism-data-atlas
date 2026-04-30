@@ -1,0 +1,42 @@
+{
+  "pmid": "41061044",
+  "doi": "10.1126/scitranslmed.adq3551",
+  "title": "CRISPR activation of the ribosome-associated quality control factor ASCC3 ameliorates fragile X syndrome phenotypes in mice",
+  "authors": "Geng J, Wang X, Pan J, Khan D, Pimcharoen S, Zhang Y, et al.",
+  "journal": "Science translational medicine",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Loss of fragile X messenger ribonucleoprotein (FMRP) causes fragile X syndrome (FXS), an inherited neurodevelopmental disorder resulting in intellectual disability and autism spectrum disorder; however, the molecular function of FMRP remains uncertain. Here, using cell lines and fibroblasts and induced pluripotent stem cell-derived neurons from healthy individuals and patients with FXS, we showed that FMRP regulates collided ribosomes by recruiting activating signal cointegrator 1 complex subunit 3 (ASCC3), an early-acting ribosome-associated quality control (RQC) factor to collided ribosomes, and either positively or negatively regulating translation, depending on transcript context. Disease-associatedvariants that perturbed ASCC3-FMRP interaction were also found to be defective in ribosome association and handling of collided ribosomes. In cells of a patient with FXS and theKO mouse model, ASCC3 abundance was reduced, and overexpression of ASCC3 in the brains of fetalKO mice promoted neuronal migration. In addition, CRISPR-mediated activation of ASCC3 by lateral ventricular injection of adeno-associated virus (AAV) ameliorated synaptic defects and improved locomotor activity, cognitive deficits, obsessive-compulsive-like behavior, and social interaction deficits after 1 month in 2-month-oldKO mice compared with untreatedKO controls. In conclusion, these data implicated FMRP in the handling of collided ribosomes to maintain protein homeostasis during neurodevelopment and synaptogenesis and demonstrated proof of concept that targeting RQC may offer alternative treatment strategies for FXS.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Loss of fragile X messenger ribonucleoprotein (FMRP) causes fragile X syndrome (FXS), an inherited neurodevelopmental disorder resulting in intellectual disability and autism spectrum disorder; however, the molecular function of FMRP remains uncertain. Here, using cell lines and fibroblasts and induced pluripotent stem cell-derived neurons from healthy individuals and patients with FXS, we showed that FMRP regulates collided ribosomes by recruiting activating signal cointegrator 1 complex subuni",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41061044/",
+  "mesh_terms": [
+    "Animals",
+    "Fragile X Syndrome",
+    "Humans",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Phenotype",
+    "Ribosomes",
+    "Mice",
+    "Mice, Knockout",
+    "Clustered Regularly Interspaced Short Palindromic Repeats",
+    "Neurons",
+    "Disease Models, Animal",
+    "Induced Pluripotent Stem Cells",
+    "Male"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "37450557",
+  "doi": "10.1210/clinem/dgad420",
+  "title": "Epigenetic Causes of Overgrowth Syndromes",
+  "authors": "Lui JC, Baron J",
+  "journal": "The Journal of clinical endocrinology and metabolism",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Human overgrowth disorders are characterized by excessive prenatal and/or postnatal growth of various tissues. These disorders often present with tall stature, macrocephaly, and/or abdominal organomegaly and are sometimes associated with additional phenotypic abnormalities such as intellectual disability and increased cancer risk. As the genetic etiology of these disorders have been elucidated, a surprising pattern has emerged. Multiple monogenic overgrowth syndromes result from variants in epigenetic regulators: variants in histone methyltransferases NSD1 and EZH2 cause Sotos syndrome and Weaver syndrome, respectively, variants in DNA methyltransferase DNMT3A cause Tatton-Brown-Rahman syndrome, and variants in chromatin remodeler CHD8 cause an autism spectrum disorder with overgrowth. In addition, very recently, a variant in histone reader protein SPIN4 was identified in a new X-linked overgrowth disorder. In this review, we discuss the genetics of these overgrowth disorders and explore possible common underlying mechanisms by which epigenetic pathways regulate human body size.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Human overgrowth disorders are characterized by excessive prenatal and/or postnatal growth of various tissues. These disorders often present with tall stature, macrocephaly, and/or abdominal organomegaly and are sometimes associated with additional phenotypic abnormalities such as intellectual disability and increased cancer risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37450557/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Abnormalities, Multiple",
+    "Syndrome",
+    "Histone Methyltransferases",
+    "Intellectual Disability",
+    "Epigenesis, Genetic"
+  ],
+  "keywords": [
+    "WNT signaling",
+    "epigenetic modifications",
+    "histone",
+    "methylation",
+    "tall stature"
+  ],
+  "article_types": [
+    "Review",
+    "Journal Article"
+  ]
+}

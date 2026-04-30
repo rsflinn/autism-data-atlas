@@ -1,0 +1,36 @@
+{
+  "pmid": "41967622",
+  "doi": "10.1016/j.cellsig.2026.112510",
+  "title": "ARID1B regulates sphingolipid metabolism and myelin development via STAG2: Mechanistic insights into ARID1B-related coffin-siris syndrome",
+  "authors": "Yang X, Gan Z, Zhou Y, Zhang M, Wu S, He F, et al.",
+  "journal": "Cellular signalling",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "Coffin-Siris syndrome (CSS) is predominantly attributed to variants in ARID1B gene, however, the molecular pathways connecting ARID1B to myelination and neural development are not well elucidated.\n\nWe employed ARID1B knockdown in SK-N-SH cells coupled with transcriptomic analysis to identify downstream targets. We conducted quantitative Real-Time PCR, Western blotting, chromatin immunoprecipitation (ChIP) and co-immunoprecipitation (Co-IP) assays to investigate the regulatory mechanisms of ARID1B. The clinical phenotypes of three CSS patients with pathogenic ARID1B variants were examined to evaluate myelination defects.\n\nARID1B knockdown resulted in a significantly reduction in expression of STAG2 and key genes involved in sphingolipid metabolism (SPTLC1, ACER3, CERS5), which was rescued by exogenous STAG2 overexpression. ChIP assays demonstrated direct binding of ARID1B to the STAG2 promoter, confirming its role in transcriptional regulation. ARID1B deficiency also led to the downregulation of the myelin gene PLP1 and the upregulation of the synaptic gene ARC, both of which were rescued upon STAG2 restoration. Clinically, all three CSS patients exhibited characteristics indicative of hypomyelination, including motor delay and delayed myelination.\n\nOur study reveals a novel ARID1B-STAG2-sphingolipid metabolic axis that is essential for myelin formation and neural function. These findings enhance the understanding of CSS pathogenesis and suggest potential molecular targets for therapeutic intervention in ARID1B-related neurodevelopmental disorders.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "Coffin-Siris syndrome (CSS) is predominantly attributed to variants in ARID1B gene, however, the molecular pathways connecting ARID1B to myelination and neural development are not well elucidated. We employed ARID1B knockdown in SK-N-SH cells coupled with transcriptomic analysis to identify downstream targets.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41967622/",
+  "mesh_terms": [],
+  "keywords": [
+    "ARID1B",
+    "Coffin&#x2013;siris syndrome",
+    "Myelination",
+    "STAG2",
+    "Sphingolipid metabolism"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

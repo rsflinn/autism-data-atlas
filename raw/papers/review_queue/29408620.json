@@ -1,0 +1,47 @@
+{
+  "pmid": "29408620",
+  "doi": "10.1016/j.gene.2018.01.078",
+  "title": "Association between SHANK3 polymorphisms and susceptibility to autism spectrum disorder",
+  "authors": "Qiu S, Li Y, Li Y, Zhong W, Shi M, Zhao Q, et al.",
+  "journal": "Gene",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD), as one of neurodevelopmental disorders, affects about 1/160 of people worldwide. The etiology and pathogenesis of ASD remain elusive. Synapses are essential components of neurons and basic information transmission unit in the nervous system, adjusting behavior to environmental stimuli and controlling body functions, memories, and emotions. SHANK3 is one of the synapse genes which play important roles in maintaining synaptic structure and function. SHANK3 has been researched as a probably susceptibility gene for ASD. We investigated the association between polymorphisms in SHANK3 and ASD in the Northeast Han Chinese population. A total of 470 subjects (229 cases and 241 controls) were enrolled in our case-control study. Five single nucleotide polymorphisms (SNPs) (rs756638, rs4824116, rs76268556, rs9616915, and rs75767639) in SHANK3 were selected and genotyped. Our study did not identify a significant association of SHANK3 SNPs with ASD in the Northeast Han Chinese population. Future studies need to test more SHANK3 SNPs in large sample to demonstrate the association between SNPs in SHANK3 and ASD.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Autism spectrum disorder (ASD), as one of neurodevelopmental disorders, affects about 1/160 of people worldwide. The etiology and pathogenesis of ASD remain elusive.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29408620/",
+  "mesh_terms": [
+    "Asian People",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Child, Preschool",
+    "Female",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Neurodevelopmental disorders",
+    "SHANK3",
+    "Single nucleotide polymorphisms"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

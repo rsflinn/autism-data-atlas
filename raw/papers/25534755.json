@@ -1,0 +1,49 @@
+{
+  "pmid": "25534755",
+  "doi": "10.1016/j.biopsych.2014.09.017",
+  "title": "A genome-wide association study of autism using the Simons Simplex Collection: Does reducing phenotypic heterogeneity in autism increase genetic homogeneity?",
+  "authors": "Chaste P, Klei L, Sanders SJ, Hus V, Murtha MT, Lowe JK, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "Phenotypic heterogeneity in autism has long been conjectured to be a major hindrance to the discovery of genetic risk factors, leading to numerous attempts to stratify children based on phenotype to increase power of discovery studies. This approach, however, is based on the hypothesis that phenotypic heterogeneity closely maps to genetic variation, which has not been tested. Our study examines the impact of subphenotyping of a well-characterized autism spectrum disorder (ASD) sample on genetic homogeneity and the ability to discover common genetic variants conferring liability to ASD.\n\nGenome-wide genotypic data of 2576 families from the Simons Simplex Collection were analyzed in the overall sample and phenotypic subgroups defined on the basis of diagnosis, IQ, and symptom profiles. We conducted a family-based association study, as well as estimating heritability and evaluating allele scores for each phenotypic subgroup.\n\nAssociation analyses revealed no genome-wide significant association signal. Subphenotyping did not increase power substantially. Moreover, allele scores built from the most associated single nucleotide polymorphisms, based on the odds ratio in the full sample, predicted case status in subsets of the sample equally well and heritability estimates were very similar for all subgroups.\n\nIn genome-wide association analysis of the Simons Simplex Collection sample, reducing phenotypic heterogeneity had at most a modest impact on genetic homogeneity. Our results are based on a relatively small sample, one with greater homogeneity than the entire population; if they apply more broadly, they imply that analysis of subphenotypes is not a productive path forward for discovering genetic risk variants in ASD.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Phenotypic heterogeneity in autism has long been conjectured to be a major hindrance to the discovery of genetic risk factors, leading to numerous attempts to stratify children based on phenotype to increase power of discovery studies. This approach, however, is based on the hypothesis that phenotypic heterogeneity closely maps to genetic variation, which has not been tested.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25534755/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Family",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "Autism",
+    "GWAS",
+    "Genetics",
+    "Heterogeneity",
+    "Phenotype",
+    "Power"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

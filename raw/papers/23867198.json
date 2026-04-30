@@ -1,0 +1,43 @@
+{
+  "pmid": "23867198",
+  "doi": "10.1016/S1474-4422(13)70125-X",
+  "title": "Advances in clinical and molecular understanding of the FMR1 premutation and fragile X-associated tremor/ataxia syndrome",
+  "authors": "Hagerman R, Hagerman P",
+  "journal": "The Lancet. Neurology",
+  "date": "2013-08",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome, the most common heritable form of cognitive impairment, is caused by epigenetic silencing of the fragile X (FMR1) gene owing to large expansions (>200 repeats) of a non-coding CGG-repeat element. Smaller, so-called premutation expansions (55-200 repeats) can cause a family of neurodevelopmental phenotypes (attention deficit hyperactivity disorder, autism spectrum disorder, seizure disorder) and neurodegenerative (fragile X-associated tremor/ataxia syndrome [FXTAS]) phenotypes through an entirely distinct molecular mechanism involving increased FMR1 mRNA production and toxicity. Results of basic cellular, animal, and human studies have helped to elucidate the underlying RNA toxicity mechanism, while clinical research is providing a more nuanced picture of the range of clinical manifestations. Advances of knowledge on both mechanistic and clinical fronts are driving new approaches to targeted treatment, but two important necessities are emerging: to define the extent to which the mechanisms contributing to FXTAS also contribute to other neurodegenerative and medical disorders, and to redefine FXTAS in view of its differing presentations and associated features.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome, the most common heritable form of cognitive impairment, is caused by epigenetic silencing of the fragile X (FMR1) gene owing to large expansions (>200 repeats) of a non-coding CGG-repeat element. Smaller, so-called premutation expansions (55-200 repeats) can cause a family of neurodevelopmental phenotypes (attention deficit hyperactivity disorder, autism spectrum disorder, seizure disorder) and neurodegenerative (fragile X-associated tremor/ataxia syndrome [FXTAS]) phenotypes",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23867198/",
+  "mesh_terms": [
+    "Ataxia",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Nervous System Diseases",
+    "RNA, Messenger",
+    "Tremor",
+    "Trinucleotide Repeat Expansion"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

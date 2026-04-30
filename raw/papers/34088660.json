@@ -1,0 +1,44 @@
+{
+  "pmid": "34088660",
+  "doi": "10.1126/sciadv.abe2626",
+  "title": "The CHD8/CHD7/Kismet family links blood-brain barrier glia and serotonin to ASD-associated sleep defects",
+  "authors": "Coll-Tan&#xe9; M, Gong NN, Belfer SJ, van Renssen LV, Kurtz-Nelson EC, Szuperak M, et al.",
+  "journal": "Science advances",
+  "date": "2021-06",
+  "source": "pubmed",
+  "abstract": "Sleep disturbances in autism and neurodevelopmental disorders are common and adversely affect patient's quality of life, yet the underlying mechanisms are understudied. We found that individuals with mutations in, among the highest-confidence autism risk genes, orsuffer from disturbed sleep maintenance. These defects are recapitulated inmutants affecting, the soleortholog. We show that Kismet is required in glia for early developmental and adult sleep architecture. This role localizes to subperineurial glia constituting the blood-brain barrier. We demonstrate that Kismet-related sleep disturbances are caused by high serotonin during development, paralleling a well-established but genetically unsolved autism endophenotype. Despite their developmental origin, Kismet's sleep architecture defects can be reversed in adulthood by a behavioral regime resembling human sleep restriction therapy. Our findings provide fundamental insights into glial regulation of sleep and propose a causal mechanistic link between the CHD8/CHD7/Kismet family, developmental hyperserotonemia, and autism-associated sleep disturbances.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Sleep disturbances in autism and neurodevelopmental disorders are common and adversely affect patient's quality of life, yet the underlying mechanisms are understudied. We found that individuals with mutations in, among the highest-confidence autism risk genes, orsuffer from disturbed sleep maintenance.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34088660/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Blood-Brain Barrier",
+    "DNA Helicases",
+    "DNA-Binding Proteins",
+    "Drosophila",
+    "Neuroglia",
+    "Quality of Life",
+    "Serotonin",
+    "Sleep",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

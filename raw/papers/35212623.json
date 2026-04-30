@@ -1,0 +1,51 @@
+{
+  "pmid": "35212623",
+  "doi": "10.7554/eLife.69293",
+  "title": "Corticohippocampal circuit dysfunction in a mouse model of Dravet syndrome",
+  "authors": "Mattis J, Somarowthu A, Goff KM, Jiang E, Yom J, Sotuyo N, et al.",
+  "journal": "eLife",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "Dravet syndrome (DS) is a neurodevelopmental disorder due to pathogenic variants inencoding the Nav1.1 sodium channel subunit, characterized by treatment-resistant epilepsy, temperature-sensitive seizures, developmental delay/intellectual disability with features of autism spectrum disorder, and increased risk of sudden death. Convergent data suggest hippocampal dentate gyrus (DG) pathology in DS () mice. We performed two-photon calcium imaging in brain slice to uncover a profound dysfunction of filtering of perforant path input by DG in young adultmice. This was not due to dysfunction of DG parvalbumin inhibitory interneurons (PV-INs), which were only mildly impaired at this timepoint; however, we identified enhanced excitatory input to granule cells, suggesting that circuit dysfunction is due to excessive excitation rather than impaired inhibition. We confirmed that both optogenetic stimulation of entorhinal cortex and selective chemogenetic inhibition of DG PV-INs lowered seizure threshold in vivo in young adultmice. Optogenetic activation of PV-INs, on the other hand, normalized evoked responses in granule cells in vitro. These results establish the corticohippocampal circuit as a key locus of pathology inmice and suggest that PV-INs retain powerful inhibitory function and may be harnessed as a potential therapeutic approach toward seizure modulation.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Dravet syndrome (DS) is a neurodevelopmental disorder due to pathogenic variants inencoding the Nav1.1 sodium channel subunit, characterized by treatment-resistant epilepsy, temperature-sensitive seizures, developmental delay/intellectual disability with features of autism spectrum disorder, and increased risk of sudden death. Convergent data suggest hippocampal dentate gyrus (DG) pathology in DS () mice.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35212623/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Epilepsies, Myoclonic",
+    "Epileptic Syndromes",
+    "Interneurons",
+    "Mice",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Seizures",
+    "Spasms, Infantile"
+  ],
+  "keywords": [
+    "Dravet syndrome",
+    "Nav1.1",
+    "SCN1A",
+    "dentate gyrus",
+    "gabaergic interneurons",
+    "genetics",
+    "genomics",
+    "mouse",
+    "neuroscience"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "38020809",
+  "doi": "10.1016/j.crneur.2023.100114",
+  "title": "From X-inactivation to neurodevelopment: CHD8-transcription factors (TFs) competitive binding at regulatory regions of CHD8 target genes can contribute to correct neuronal differentiation",
+  "authors": "Cerase A, Avner P",
+  "journal": "Current research in neurobiology",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "The chromodomain helicase DNA-binding protein 8 (CHD8) is a chromatin remodeler whose mutation is associated, with high penetrance, with autism. Individuals withmutations share common symptoms such as autistic behaviour, cognitive impairment, schizophrenia comorbidity, and phenotypic features such as macrocephaly and facial defects.-deficient mouse models recapitulate most of the phenotypes seen in the brain and other organs of humans. It is known that CHD8 regulates - directly and indirectly - neuronal, autism spectrum disorder (ASDs)-associated genes and long non-coding RNAs (lncRNAs) genes, which, in turn, regulate fundamental aspects of neuronal differentiation and brain development and function. A major characteristic of CHD8 regulation of gene expression is its non-linear and dosage-sensitive nature.mutations appear to affect males predominantly, although the reasons for this observed sex bias remain- unknown. We have recently reported that CHD8 directly regulates X chromosome inactivation (XCI) through the transcriptional control of the Xist long non-coding RNA (lncRNA), the master regulator of mammalian XCI. We identified a role for CHD8 in regulating accessibility at the Xist promoter through competitive binding with transcription factors (TFs) at Xist regulatory regions. We speculate here that CHD8 might also regulate accessibility at neuronal/ASD targets through a similar competitive binding mechanism during neurogenesis and brain development. However, whilst such a model can reconcile the phenotypic differences observed inknock-down (KD) vs knock-out (KO) mouse models, explaining the observed CHD8 non-linear dosage-dependent activity, it cannot on its own explain the observed disease sex bias.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "The chromodomain helicase DNA-binding protein 8 (CHD8) is a chromatin remodeler whose mutation is associated, with high penetrance, with autism. Individuals withmutations share common symptoms such as autistic behaviour, cognitive impairment, schizophrenia comorbidity, and phenotypic features such as macrocephaly and facial defects.-deficient mouse models recapitulate most of the phenotypes seen in the brain and other organs of humans.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38020809/",
+  "mesh_terms": [],
+  "keywords": [
+    "Chromatin remodeler",
+    "Chromodomain helicase DNA-Binding protein 8 (CHD8)",
+    "Competitive binding",
+    "Dosage sensitive gene regulation",
+    "Long non-coding RNA",
+    "Non-linear gene regulation",
+    "Sex bias",
+    "Transcription factors (TFs)",
+    "X-inactive specific transcript (Xist)",
+    "Yin Yang 1 (YY1)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

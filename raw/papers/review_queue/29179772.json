@@ -1,0 +1,47 @@
+{
+  "pmid": "29179772",
+  "doi": "10.1186/s13073-017-0498-x",
+  "title": "Recurrent de novo mutations in neurodevelopmental disorders: properties and clinical implications",
+  "authors": "Wilfert AB, Sulovari A, Turner TN, Coe BP, Eichler EE",
+  "journal": "Genome medicine",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "Next-generation sequencing (NGS) is now more accessible to clinicians and researchers. As a result, our understanding of the genetics of neurodevelopmental disorders (NDDs) has rapidly advanced over the past few years. NGS has led to the discovery of new NDD genes with an excess of recurrent de novo mutations (DNMs) when compared to controls. Development of large-scale databases of normal and disease variation has given rise to metrics exploring the relative tolerance of individual genes to human mutation. Genetic etiology and diagnosis rates have improved, which have led to the discovery of new pathways and tissue types relevant to NDDs. In this review, we highlight several key findings based on the discovery of recurrent DNMs ranging from copy number variants to point mutations. We explore biases and patterns of DNM enrichment and the role of mosaicism and secondary mutations in variable expressivity. We discuss the benefit of whole-genome sequencing (WGS) over whole-exome sequencing (WES) to understand more complex, multifactorial cases of NDD and explain how this improved understanding aids diagnosis and management of these disorders. Comprehensive assessment of the DNM landscape across the genome using WGS and other technologies will lead to the development of novel functional and bioinformatics approaches to interpret DNMs and drive new insights into NDD biology.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Next-generation sequencing (NGS) is now more accessible to clinicians and researchers. As a result, our understanding of the genetics of neurodevelopmental disorders (NDDs) has rapidly advanced over the past few years.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29179772/",
+  "mesh_terms": [
+    "DNA Copy Number Variations",
+    "Humans",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "De novo mutations",
+    "Developmental disorders",
+    "Epilepsy",
+    "Intellectual disability",
+    "Neurodevelopmental disorders",
+    "Noncoding SNVs",
+    "Whole-exome sequencing",
+    "Whole-genome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

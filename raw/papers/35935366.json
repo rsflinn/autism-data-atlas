@@ -1,0 +1,35 @@
+{
+  "pmid": "35935366",
+  "doi": "10.3389/fped.2022.960450",
+  "title": "The extended clinical and genetic spectrum of-related neurodevelopmental disorder",
+  "authors": "Lee S, Jang SS, Park S, Yoon JG, Kim SY, Lim BC, et al.",
+  "journal": "Frontiers in pediatrics",
+  "date": "2022-07",
+  "source": "pubmed",
+  "abstract": "Loss-of-function mutations ofhave been established as the cause of neurodevelopmental disorder with spastic diplegia and visual defects. Although most patients share key phenotypes such as global developmental delay and intellectual disability, patients with-related neurodevelopmental disorder show a broad spectrum of clinical features.\n\nWe enrolled 13 Korean patients with-related neurodevelopmental disorder who visited Seoul National University Children's Hospital (5 female and 8 male patients with ages ranging from 4 to 22 years). They were all genetically confirmed as having pathogenic loss-of-function variants inusing trio or singleton whole exome sequencing. Variants called from singleton analyses were confirmed to bethrough parental Sanger sequencing.\n\nWe identified 11truncating variants inin 13 patients, and two pathogenic variants, c.1867C > T (p.Gln623Ter) and c.1420C > T (p.Arg474Ter), found in two unrelated patients, respectively. Five of them were novel pathogenic variants not listed in the ClinVar database. While all patients showed varying degrees of intellectual disability, impaired motor performance, and ophthalmologic problems, none of them had structural brain abnormalities or seizure. In addition, there were three female patients who showed autistic features, such as hand stereotypy, bruxism, and abnormal breathing. A literature review revealed a female predominance of autistic features in-related neurodevelopmental disorder.\n\nThis is one of the largest single-center cohorts of-related neurodevelopmental disorder. This study investigated variable clinical features of patients and has expanded the clinical and genetic spectrum of the disease.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Loss-of-function mutations ofhave been established as the cause of neurodevelopmental disorder with spastic diplegia and visual defects. Although most patients share key phenotypes such as global developmental delay and intellectual disability, patients with-related neurodevelopmental disorder show a broad spectrum of clinical features.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35935366/",
+  "mesh_terms": [],
+  "keywords": [
+    "CTNNB1",
+    "Rett-like phenotype",
+    "autism spectrum disorder",
+    "exudative vitreoretinopathy 7",
+    "neurodevelopmental disorder with spastic diplegia and visual defects",
+    "&#x3b2;-catenin"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

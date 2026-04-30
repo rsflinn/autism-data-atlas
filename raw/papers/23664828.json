@@ -1,0 +1,40 @@
+{
+  "pmid": "23664828",
+  "doi": "10.1016/j.gde.2013.03.004",
+  "title": "Microdeletion syndromes",
+  "authors": "Carvill GL, Mefford HC",
+  "journal": "Current opinion in genetics & development",
+  "date": "2013-05",
+  "source": "pubmed",
+  "abstract": "The recent explosion in the implementation of genome-wide microarray technology to discover rare, pathogenic genomic rearrangements in a variety of diseases has led to the discovery of numerous microdeletion syndromes. It is now clear that these microdeletions are associated with extensive phenotypic heterogeneity and incomplete penetrance. A subset of recurrent microdeletions underpin diverse phenotypes, including intellectual disability, autism, epilepsy and neuropsychiatric disorders. Recent studies highlight a role for additional low frequency variants, or 'second hits' to account for this variability. The implementation of massively parallel sequencing and epigenetic models may provide a powerful prospective approach to the delineation of microdeletion syndrome phenotypes.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The recent explosion in the implementation of genome-wide microarray technology to discover rare, pathogenic genomic rearrangements in a variety of diseases has led to the discovery of numerous microdeletion syndromes. It is now clear that these microdeletions are associated with extensive phenotypic heterogeneity and incomplete penetrance.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23664828/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Epilepsy",
+    "Gene Deletion",
+    "Gene Duplication",
+    "Genetic Diseases, Inborn",
+    "Genetic Heterogeneity",
+    "Humans",
+    "Intellectual Disability",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

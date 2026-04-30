@@ -1,0 +1,39 @@
+{
+  "pmid": "37641183",
+  "doi": "10.1002/jdn.10297",
+  "title": "Efficacy and safety of Vreceptor antagonists in autism spectrum disorder: A meta-analysis",
+  "authors": "Kimi S, Maiti R, Srinivasan A, Mishra BR, Hota D",
+  "journal": "International journal of developmental neuroscience : the official journal of the International Society for Developmental Neuroscience",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "This meta-analysis has evaluated the efficacy and safety of Vreceptor antagonists in ASD compared to placebo. The reviewers extracted data from four relevant clinical trials after a literature search on databases and clinical trial registries. Quality assessment was done using the risk of bias assessment tool, and the random-effects model was used to estimate effect size. Subgroup analysis, meta-regression and sensitivity analysis were done. PRISMA guidelines were followed in the selection, analysis and reporting of findings. Vreceptor antagonists did not reduce Vineland II Adaptive behaviour composite score significantly (SMD: 0.14; 95% CI: -0.06-0.35; p&#xa0;=&#x2009;0.16; PI: -0.44-0.73), communication domain subscale score and socialization domain subscale score. The change in daily living skills domain subscale score was significant and favourable for Vreceptor antagonists (SMD: 0.15; 95% CI: 0.03-0.26; p&#xa0;=&#x2009;0.01). The subgroup analysis revealed a significant improvement in Vineland II Adaptive behaviour composite score with doses <10&#xa0;mg (SMD: 0.45; 95% CI: 0.11-0.78; p&#xa0;=&#x2009;0.009). Meta-regression does not show a significant association between SMD of ASD symptom score reduction with the duration and dose of Vreceptor antagonist therapy. Treatment-emergent adverse effects were not serious and dose dependent. Low doses (<10&#xa0;mg) of Vreceptor antagonist may be effective in reducing the core symptoms of ASD compared to placebo; however, future active-controlled clinical trials are necessary to generate conclusive evidence.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "This meta-analysis has evaluated the efficacy and safety of Vreceptor antagonists in ASD compared to placebo. The reviewers extracted data from four relevant clinical trials after a literature search on databases and clinical trial registries.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37641183/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Clinical Trials as Topic"
+  ],
+  "keywords": [
+    "RG7713",
+    "autism spectrum disorder",
+    "balovaptan",
+    "vasopressin receptor antagonist"
+  ],
+  "article_types": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Review"
+  ]
+}

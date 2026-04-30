@@ -1,0 +1,46 @@
+{
+  "pmid": "28687526",
+  "doi": "10.1016/j.ejmg.2017.07.001",
+  "title": "First de novo ANK3 nonsense mutation in a boy with intellectual disability, speech impairment and autistic features",
+  "authors": "Kloth K, Denecke J, Hempel M, Johannsen J, Strom TM, Kubisch C, et al.",
+  "journal": "European journal of medical genetics",
+  "date": "2017-07",
+  "source": "pubmed",
+  "abstract": "Ankyrin-G, encoded by ANK3, plays an important role in neurodevelopment and neuronal function. There are multiple isoforms of Ankyrin-G resulting in differential tissue expression and function. Heterozygous missense mutations in ANK3 have been associated with autism spectrum disorder. Further, in three siblings a homozygous frameshift mutation affecting only the longest isoform and a patient with a balanced translocation disrupting all isoforms were documented. The latter four patients were affected by a variable degree of intellectual disability, attention deficit hyperactivity disorder and autism. Here, we report on a boy with speech impairment, intellectual disability, autistic features, macrocephaly, macrosomia, chronic hunger and an altered sleeping pattern. By trio-whole-exome sequencing, we identified the first de novo nonsense mutation affecting all ANK3 transcripts. Thus, our data expand the phenotype of ANK3-associated diseases and suggest an isoform-based, phenotypic continuum between dominant and recessive ANK3-associated pathologies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Ankyrin-G, encoded by ANK3, plays an important role in neurodevelopment and neuronal function. There are multiple isoforms of Ankyrin-G resulting in differential tissue expression and function.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28687526/",
+  "mesh_terms": [
+    "Ankyrins",
+    "Autistic Disorder",
+    "Child",
+    "Codon, Nonsense",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Phenotype",
+    "Speech Disorders",
+    "Syndrome"
+  ],
+  "keywords": [
+    "ANK3",
+    "Attention deficit hyperactivity disorder",
+    "Autism spectrum disorder",
+    "Intellectual disability",
+    "Speech impairment"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "36180228",
+  "doi": "10.1523/JNEUROSCI.0253-22.2022",
+  "title": "Peripheral Auditory Nerve Impairment in a Mouse Model of Syndromic Autism",
+  "authors": "McChesney N, Barth JL, Rumschlag JA, Tan J, Harrington AJ, Noble KV, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2022-09",
+  "source": "pubmed",
+  "abstract": "Dysfunction of the peripheral auditory nerve (AN) contributes to dynamic changes throughout the central auditory system, resulting in abnormal auditory processing, including hypersensitivity. Altered sound sensitivity is frequently observed in autism spectrum disorder (ASD), suggesting that AN deficits and changes in auditory information processing may contribute to ASD-associated symptoms, including social communication deficits and hyperacusis. The MEF2C transcription factor is associated with risk for several neurodevelopmental disorders, and mutations or deletions ofproduce a haploinsufficiency syndrome characterized by ASD, language, and cognitive deficits. A mouse model of this syndromic ASD (-Het) recapitulates many of thehaploinsufficiency syndrome-linked behaviors, including communication deficits. We show here that-Het mice of both sexes exhibit functional impairment of the peripheral AN and a modest reduction in hearing sensitivity. We find that MEF2C is expressed during development in multiple AN and cochlear cell types; and in-Het mice, we observe multiple cellular and molecular alterations associated with the AN, including abnormal myelination, neuronal degeneration, neuronal mitochondria dysfunction, and increased macrophage activation and cochlear inflammation. These results reveal the importance of MEF2C function in inner ear development and function and the engagement of immune cells and other non-neuronal cells, which suggests that microglia/macrophages and other non-neuronal cells might contribute, directly or indirectly, to AN dysfunction and ASD-related phenotypes. Finally, our study establishes a comprehensive approach for characterizing AN function at the physiological, cellular, and molecular levels in mice, which can be applied to animal models with a wide range of human auditory processing impairments.This is the first report of peripheral auditory nerve (AN) impairment in a mouse model of humanhaploinsufficiency syndrome that has well-characterized ASD-related behaviors, including communication deficits, hyperactivity, repetitive behavior, and social deficits. We identify multiple underlying cellular, subcellular, and molecular abnormalities that may contribute to peripheral AN impairment. Our findings also highlight the important roles of immune cells (e.g., cochlear macrophages) and other non-neuronal elements (e.g., glial cells and cells in the stria vascularis) in auditory impairment in ASD. The methodological significance of the study is the establishment of a comprehensive approach for evaluating peripheral AN function and impact of peripheral AN deficits with minimal hearing loss.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MEF2C"
+  ],
+  "summary": "Dysfunction of the peripheral auditory nerve (AN) contributes to dynamic changes throughout the central auditory system, resulting in abnormal auditory processing, including hypersensitivity. Altered sound sensitivity is frequently observed in autism spectrum disorder (ASD), suggesting that AN deficits and changes in auditory information processing may contribute to ASD-associated symptoms, including social communication deficits and hyperacusis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36180228/",
+  "mesh_terms": [
+    "Male",
+    "Female",
+    "Mice",
+    "Animals",
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "MEF2 Transcription Factors",
+    "Cochlear Nerve",
+    "Disease Models, Animal"
+  ],
+  "keywords": [
+    "MEF2C",
+    "auditory nerve",
+    "autism spectrum disorder",
+    "glial cell",
+    "hearing",
+    "macrophages"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

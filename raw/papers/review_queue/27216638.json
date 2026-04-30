@@ -1,0 +1,49 @@
+{
+  "pmid": "27216638",
+  "doi": "10.1016/j.pneurobio.2016.05.003",
+  "title": "Challenges in developing drugs for pediatric CNS disorders: A focus on psychopharmacology",
+  "authors": "Grabb MC, Gobburu JVS",
+  "journal": "Progress in neurobiology",
+  "date": "2016-05",
+  "source": "pubmed",
+  "abstract": "Many psychiatric and behavioral disorders manifest in childhood (attention deficit hyperactivity disorder, obsessive compulsive disorder, anxiety, depression, schizophrenia, autism spectrum disorder, etc.) and the opportunity for intervening early may attenuate full development of the disorder and lessen long term disability. Yet, pediatric drug approvals for CNS indications are limited, and pediatric testing generally occurs only after establishing adult efficacy, more as an afterthought rather than with the initial goal of developing the medication for a pediatric CNS indication. With pharmaceutical companies decreasing funding of their neuroscience research divisions overall, the prospects for moving promising investigational drugs forward into pediatrics will only decline. The goal of this review is to highlight important challenges around pediatric drug development for psychiatric disorders, specifically during clinical development, and to present opportunities for filling these gaps, using new strategies for de-risking investigational drugs in new clinical trial designs/models. We will first present the current trends in pediatric drug efficacy testing in academic research and in industry trials, we will then discuss the regulatory landscape of pediatric drug testing, including policies intended to support and encourage more testing. Obstacles that remain will then be presented, followed by new designs, funding opportunities and considerations for testing investigational drugs safely.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Many psychiatric and behavioral disorders manifest in childhood (attention deficit hyperactivity disorder, obsessive compulsive disorder, anxiety, depression, schizophrenia, autism spectrum disorder, etc.) and the opportunity for intervening early may attenuate full development of the disorder and lessen long term disability. Yet, pediatric drug approvals for CNS indications are limited, and pediatric testing generally occurs only after establishing adult efficacy, more as an afterthought rather",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27216638/",
+  "mesh_terms": [
+    "Brain Diseases",
+    "Child",
+    "Clinical Trials as Topic",
+    "Drug Discovery",
+    "Evidence-Based Medicine",
+    "Humans",
+    "Mental Disorders",
+    "Pediatrics",
+    "Psychotropic Drugs",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "Academic drug trials",
+    "Biomarkers in pediatric trials",
+    "Experimental medicine",
+    "Failed drug trials",
+    "Industry sponsored trials",
+    "Pediatric psychopharmacology trials",
+    "Psychopharmacology",
+    "US FDA regulations in pediatric drug development"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

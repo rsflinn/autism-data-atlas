@@ -1,0 +1,41 @@
+{
+  "pmid": "29738009",
+  "doi": "10.15537/smj.2018.5.21751",
+  "title": "Serotonin and serotonin transporter levels in autistic children",
+  "authors": "Abdulamir HA, Abdul-Rasheed OF, Abdulghani EA",
+  "journal": "Saudi medical journal",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "To assess the possible correlation between serotonin and serotonin transporter (SERT) with the autism severity and investigate the association between these parameters in autistic children to assess their possible role for diagnosis of autism severity.\n\nA comparative cross-sectional study was carried out in the Chemistry and Biochemistry Department, College of Medicine, Al-Nahrain University, Baghdad, Iraq while the samples were taken from 60 male autistic children recruited to the Department of Pediatrics at Al-Sader Hospital, Baghdad, Iraq between November 2014 amd April 2015. Levels of serotonin and serotonin transporters (SERT) were determined in 60 male autistic Iraqi patients classified into mild, moderate and severe (20 for each). These levels were compared with those of 26 healthy control children.&#xa0;Results: Levels of serotonin and SERT were significantly increased in autistic children than that of gender and age-matched controls. Serotonin levels were 80.63&#xb1; 21.83 ng/ml in mild, 100.39&#xb1;23.07 ng/ml moderate, and 188.7&#xb1;31.72 ng/ml severe autistic patients. Serotonin transporter levels were 10.13&#xb1;4.51 ng/ml in mild, 13.15&#xb1;4.71 ng/ml moderate, and 16.32&#xb1;6.7 ng/ml in&#xa0; severe autistic patients. The increase of both serotonin and SERT levels were associated with severity of autism. Receiver operating characteristic (ROC) analysis&#xa0; can be used for diagnostic and prognostic purposes.\n\nHigh serotonin and SERT levels may indicate that these biomarkers have a role in the autism pathogenesis and support the possibility of using serotonin and SERT to diagnose autism severity.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "To assess the possible correlation between serotonin and serotonin transporter (SERT) with the autism severity and investigate the association between these parameters in autistic children to assess their possible role for diagnosis of autism severity. A comparative cross-sectional study was carried out in the Chemistry and Biochemistry Department, College of Medicine, Al-Nahrain University, Baghdad, Iraq while the samples were taken from 60 male autistic children recruited to the Department of ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29738009/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Case-Control Studies",
+    "Child",
+    "Cross-Sectional Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Serotonin",
+    "Serotonin Plasma Membrane Transport Proteins",
+    "Severity of Illness Index"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

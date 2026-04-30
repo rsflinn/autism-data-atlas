@@ -1,0 +1,50 @@
+{
+  "pmid": "34573345",
+  "doi": "10.3390/genes12091363",
+  "title": "Meta-Analysis of Brain Gene Expression Data from Mouse Model Studies of Maternal Immune Activation Using Poly(I:C)",
+  "authors": "Laighneach A, Desbonnet L, Kelly JP, Donohoe G, Morris DW",
+  "journal": "Genes",
+  "date": "2021-08",
+  "source": "pubmed",
+  "abstract": "Maternal immune activation (MIA) is a known risk factor for schizophrenia (SCZ) and autism spectrum disorder (ASD) and is often modelled in animal studies in order to study the effect of prenatal infection on brain function including behaviour and gene expression. Although the effect of MIA on gene expression are highly heterogeneous, combining data from multiple gene expression studies in a robust method may shed light on the true underlying biological effects caused by MIA and this could inform studies of SCZ and ASD. This study combined four RNA-seq and microarray datasets in an overlap analysis and ranked meta-analysis in order to investigate genes, pathways and cell types dysregulated in the MIA mouse models. Genes linked to SCZ and ASD and crucial in neurodevelopmental processes including neural tube folding, regulation of cellular stress and neuronal/glial cell differentiation were among the most consistently dysregulated in these ranked analyses. Gene ontologies including K+ ion channel function, neuron and glial cell differentiation, synaptic structure, axonal outgrowth, cilia function and lipid metabolism were also strongly implicated. Single-cell analysis identified excitatory and inhibitory cell types in the cortex, hippocampus and striatum that may be affected by MIA and are also enriched for genes associated with SCZ, ASD and cognitive phenotypes. This points to the cellular location of molecular mechanisms that may be consistent between the MIA model and neurodevelopmental disease, improving our understanding of its utility to study prenatal infection as an environmental stressor.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Maternal immune activation (MIA) is a known risk factor for schizophrenia (SCZ) and autism spectrum disorder (ASD) and is often modelled in animal studies in order to study the effect of prenatal infection on brain function including behaviour and gene expression. Although the effect of MIA on gene expression are highly heterogeneous, combining data from multiple gene expression studies in a robust method may shed light on the true underlying biological effects caused by MIA and this could infor",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34573345/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Disease Models, Animal",
+    "Female",
+    "Gene Expression",
+    "Gene Ontology",
+    "Humans",
+    "Mice",
+    "Neurodevelopmental Disorders",
+    "Poly I-C",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "cognition",
+    "gene expression",
+    "maternal immune activation",
+    "mouse model",
+    "schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

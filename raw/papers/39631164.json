@@ -1,0 +1,37 @@
+{
+  "pmid": "39631164",
+  "doi": "10.1016/j.conb.2024.102938",
+  "title": "Roles of ANK2/ankyrin-B in neurodevelopmental disorders: Isoform functions and implications for autism spectrum disorder and epilepsy",
+  "authors": "Yoon S, Penzes P",
+  "journal": "Current opinion in neurobiology",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "The ANK2 gene, encoding ankyrin-B, is a high-confidence risk factor for neurodevelopmental disorders (NDDs). Evidence from exome sequencing studies have repeatedly implicated rare variants in ANK2 in autism spectrum disorder. Recently, the functions of ankyrin-B isoforms on neuronal phenotypes have been investigated using a number of techniques including electrophysiology, proteomic screens and behavioral analysis using animal models with loss of distinct Ank2 isoforms or with targeted loss of Ank2 in different cell types and time points during brain development. ANK2 variants and their pathophysiology could provide valuable insights into the molecular mechanisms underlying NDDs. In this review, we focus on recently reported studies to help understand the pathological mechanisms of ANK2 loss and how it may facilitate the development of treatments for NDDs in the future.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The ANK2 gene, encoding ankyrin-B, is a high-confidence risk factor for neurodevelopmental disorders (NDDs). Evidence from exome sequencing studies have repeatedly implicated rare variants in ANK2 in autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39631164/",
+  "mesh_terms": [
+    "Humans",
+    "Ankyrins",
+    "Autism Spectrum Disorder",
+    "Animals",
+    "Epilepsy",
+    "Neurodevelopmental Disorders",
+    "Protein Isoforms"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

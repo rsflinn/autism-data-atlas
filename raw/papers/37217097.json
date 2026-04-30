@@ -1,0 +1,49 @@
+{
+  "pmid": "37217097",
+  "doi": "10.1016/j.ajcnut.2023.05.023",
+  "title": "Does maternal genetic liability to folate deficiency influence the risk of antiseizure medication-associated language impairment and autistic traits in children of women with epilepsy?",
+  "authors": "Nilsen Husebye ES, Romanowska J, Bj&#xf8;rke-Monsen AL, Gilhus NE, Selmer K, Gervin K, et al.",
+  "journal": "The American journal of clinical nutrition",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Prenatal exposure to antiseizure medication (ASM) may lead to low plasma folate concentrations and is associated with impaired neurodevelopment.\n\nTo examine whether maternal genetic liability to folate deficiency interacts with ASM-associated risk of language impairment and autistic traits in children of women with epilepsy.\n\nWe included children of women with and without epilepsy and with available genetic data enrolled in the Norwegian Mother, Father, and Child Cohort Study. Information on ASM use, folic acid supplement use and dose, dietary folate intake, child autistic traits, and child language impairment was obtained from parent-reported questionnaires. Using logistic regression, we examined the interaction between prenatal ASM exposure and maternal genetic liability to folate deficiency expressed as polygenic risk score of low folate concentrations or maternal rs1801133 genotype (CC or CT/TT) on risk of language impairment or autistic traits.\n\nWe included 96 children of women with ASM-treated epilepsy, 131 children of women with ASM-untreated epilepsy, and 37,249 children of women without epilepsy. The polygenic risk score of low folate concentrations did not interact with the ASM-associated risk of language impairment or autistic traits in ASM-exposed children of women with epilepsy compared with ASM-unexposed children aged 1.5-8 y. ASM-exposed children had increased risk of adverse neurodevelopment regardless of maternal rs1801133 genotype {adjusted odds ratio [aOR] for language impairment aged 8 y was 2.88 [95% confidence interval (CI): 1.00, 8.26] if CC and aOR 2.88 [95% CI: 1.10, 7.53] if CT/TT genotypes}. In children of women without epilepsy aged 3 y, those with maternal rs1801133 CT/TT compared with CC genotype had increased risk of language impairment (aOR: 1.18; 95% CI: 1.05, 1.34).\n\nIn this cohort of pregnant women reporting widespread use of folic acid supplements, maternal genetic liability to folate deficiency did not significantly influence the ASM-associated risk of impaired neurodevelopment.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Prenatal exposure to antiseizure medication (ASM) may lead to low plasma folate concentrations and is associated with impaired neurodevelopment. To examine whether maternal genetic liability to folate deficiency interacts with ASM-associated risk of language impairment and autistic traits in children of women with epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37217097/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Female",
+    "Pregnancy",
+    "Cohort Studies",
+    "Autistic Disorder",
+    "Prenatal Exposure Delayed Effects",
+    "Folic Acid",
+    "Epilepsy",
+    "Folic Acid Deficiency",
+    "Language Development Disorders"
+  ],
+  "keywords": [
+    "MBRN",
+    "MTHFR",
+    "MoBa",
+    "autism spectrum disorder",
+    "folic acid",
+    "language delay",
+    "polygenic risk score"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "pmid": "26843422",
+  "doi": "10.1038/srep20392",
+  "title": "Reciprocal regulation of autism-related genes MeCP2 and PTEN via microRNAs",
+  "authors": "Lyu JW, Yuan B, Cheng TL, Qiu ZL, Zhou WH",
+  "journal": "Scientific reports",
+  "date": "2016-02",
+  "source": "pubmed",
+  "abstract": "MeCP2 encodes a methyl-CpG-binding protein that plays a critical role in repressing gene expression, mutations of which lead to Rett syndrome and autism. PTEN is a critical tumor suppressor gene that is frequently mutated in human cancers and autism spectrum disorders. Various studies have shown that both MeCP2 and PTEN proteins play important roles in brain development. Here we find that MeCP2 and PTEN reciprocally regulate expression of each other via microRNAs. Knockdown of MeCP2 leads to upregulation of microRNA-137, which in turn represses expression of PTEN, thus PTEN would be down-regulated when MeCP2 is knockdown. Furthermore, we find that deletion of PTEN leads to phosphorylation of Serine 133 of CREB, then increases the expression of microRNA-132. miR-132 inhibits the expression of MeCP2 by targeting on the 3'UTR of MeCP2 mRNA. Our work shows that two critical disorders-related gene MeCP2 and PTEN reciprocally regulate expression of each other by distinct mechanisms, suggesting that rare mutations in various disorders may lead to dysregulation of other critical genes and yield unexpected consequences.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "MeCP2 encodes a methyl-CpG-binding protein that plays a critical role in repressing gene expression, mutations of which lead to Rett syndrome and autism. PTEN is a critical tumor suppressor gene that is frequently mutated in human cancers and autism spectrum disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26843422/",
+  "mesh_terms": [
+    "3' Untranslated Regions",
+    "Animals",
+    "Autistic Disorder",
+    "Blotting, Western",
+    "Cells, Cultured",
+    "Cyclic AMP Response Element-Binding Protein",
+    "Down-Regulation",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Knockout",
+    "MicroRNAs",
+    "Neurons",
+    "PTEN Phosphohydrolase",
+    "Phosphorylation",
+    "RNA Interference",
+    "RNA, Messenger",
+    "RNA, Small Interfering",
+    "Sequence Analysis, RNA",
+    "Up-Regulation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

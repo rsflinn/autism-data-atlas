@@ -1,0 +1,41 @@
+{
+  "pmid": "36650278",
+  "doi": "10.1038/s41380-022-01917-9",
+  "title": "Epigenomic signatures reveal mechanistic clues and predictive markers for autism spectrum disorder",
+  "authors": "LaSalle JM",
+  "journal": "Molecular psychiatry",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) comprises a heterogeneous group of neurodevelopmental outcomes in children with a commonality in deficits in social communication and language combined with repetitive behaviors and interests. The etiology of ASD is heterogeneous, as several hundred genes have been implicated as well as multiple in utero environmental exposures. Over the past two decades, epigenetic investigations, including DNA methylation, have emerged as a novel way to capture the complex interface of multivariate ASD etiologies. More recently, epigenome-wide association studies using human brain and surrogate accessible tissues have revealed some convergent genes that are epigenetically altered in ASD, many of which overlap with known genetic risk factors. Unlike transcriptomes, epigenomic signatures defined by DNA methylation from surrogate tissues such as placenta and cord blood can reflect past differences in fetal brain gene transcription, transcription factor binding, and chromatin. For example, the discovery of NHIP (neuronal hypoxia inducible, placenta associated) through an epigenome-wide association in placenta, identified a common genetic risk for ASD that was modified by prenatal vitamin use. While epigenomic signatures are distinct between different genetic syndromic causes of ASD, bivalent chromatin and some convergent gene pathways are consistently epigenetically altered in both syndromic and idiopathic ASD, as well as some environmental exposures. Together, these epigenomic signatures hold promising clues towards improved early prediction and prevention of ASD as well genes and gene pathways to target for pharmacological interventions. Future advancements in single cell and multi-omic technologies, machine learning, as well as non-invasive screening of epigenomic signatures during pregnancy or newborn periods are expected to continue to impact the translatability of the recent discoveries in epigenomics to precision public health.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) comprises a heterogeneous group of neurodevelopmental outcomes in children with a commonality in deficits in social communication and language combined with repetitive behaviors and interests. The etiology of ASD is heterogeneous, as several hundred genes have been implicated as well as multiple in utero environmental exposures.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36650278/",
+  "mesh_terms": [
+    "Child",
+    "Pregnancy",
+    "Infant, Newborn",
+    "Female",
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Epigenomics",
+    "Epigenesis, Genetic",
+    "DNA Methylation",
+    "Chromatin"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

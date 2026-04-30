@@ -1,0 +1,52 @@
+{
+  "pmid": "27562213",
+  "doi": "10.1186/s13073-016-0341-9",
+  "title": "VARPRISM: incorporating variant prioritization in tests of de novo mutation association",
+  "authors": "Hu H, Coon H, Li M, Yandell M, Huff CD",
+  "journal": "Genome medicine",
+  "date": "2016-08",
+  "source": "pubmed",
+  "abstract": "Patients with certain genetic diseases, such as autism spectrum disorder, have increased rates of de novo mutations within some protein-coding genes.\n\nWe introduce the VARiant PRIoritization SuM (VARPRISM), a software package which incorporates functional variant prioritization information to improve the power to detect de novo mutations influencing disease risk. VARPRISM evaluates the consequence of any given exonic mutation on the protein sequence to estimate the likelihood that the mutation is benign or damaging and conducts a likelihood ratio test on the gene level. We analyzed the Simons Simplex Collection of 2508 parent-offspring autism trios using VARPRISM, replicating 44 genes previously implicated in autism susceptibility and identifying 20 additional candidate genes, including MYO1E, KCND3, PDCD1, DLX3, and TSPAN4 (false discovery rate&#x2009;<&#x2009;0.3).\n\nBy incorporating functional predictions, VARPRISM improved the statistical power to identify de novo mutations increasing disease risks. VARPRISM is available at http://www.hufflab.org/software/VARPRISM .",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Patients with certain genetic diseases, such as autism spectrum disorder, have increased rates of de novo mutations within some protein-coding genes. We introduce the VARiant PRIoritization SuM (VARPRISM), a software package which incorporates functional variant prioritization information to improve the power to detect de novo mutations influencing disease risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27562213/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Exome",
+    "Gene Expression",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Homeodomain Proteins",
+    "Humans",
+    "Likelihood Functions",
+    "Mutation",
+    "Myosin Type I",
+    "Programmed Cell Death 1 Receptor",
+    "Shal Potassium Channels",
+    "Software",
+    "Tetraspanins",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "De novo mutations",
+    "Likelihood ratio test",
+    "Simons Simplex Collection",
+    "Variant prioritization"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

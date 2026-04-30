@@ -1,0 +1,47 @@
+{
+  "pmid": "35205326",
+  "doi": "10.3390/genes13020280",
+  "title": "Behavior Problems and Social Competence in Fragile X Syndrome: A Systematic Review",
+  "authors": "Cregenz&#xe1;n-Royo O, Brun-Gasca C, Fornieles-Deu A",
+  "journal": "Genes",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) causes intellectual disability and is the known leading cause of autism. Common problems in FXS include behavior and social problems. Along with syndromic characteristics and autism comorbidity, environmental factors might influence these difficulties. This systematic review focuses on the last 20 years of studies concerning behavior and social problems in FXS, considering environmental and personal variables that might influence both problems. Three databases were reviewed, leading to fifty-one studies meeting the inclusion criteria. Attention deficit hyperactivity disorder (ADHD) problems remain the greatest behavior problems, with behavioral problems and social competence being stable during the 20 years. Some developmental trajectories might have changed due to higher methodological control, such as aggressive behavior and attention problems. The socialization trajectory from childhood to adolescence remains unclear. Comorbidity with autism in individuals with FXS increased behavior problems and worsened social competence profiles. At the same time, comparisons between individuals with comorbid FXS and autism and individuals with autism might help define the comorbid phenotype. Environmental factors and parental characteristics influenced behavior problems and social competence. Higher methodological control is needed in studies including autism symptomatology and parental characteristics. More studies comparing autism in FXS with idiopathic autism are needed to discern differences between conditions.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) causes intellectual disability and is the known leading cause of autism. Common problems in FXS include behavior and social problems.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35205326/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Problem Behavior",
+    "Social Skills"
+  ],
+  "keywords": [
+    "aggressive",
+    "anxiety",
+    "attention",
+    "autism",
+    "behavior problems",
+    "fragile X syndrome",
+    "social competence",
+    "socialization",
+    "withdrawn"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review"
+  ]
+}

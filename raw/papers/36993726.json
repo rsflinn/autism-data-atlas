@@ -1,0 +1,29 @@
+{
+  "pmid": "36993726",
+  "doi": "10.1101/2023.03.25.534016",
+  "title": "Developmental isoform diversity in the human neocortex informs neuropsychiatric risk mechanisms",
+  "authors": "Patowary A, Zhang P, Jops C, Vuong CK, Ge X, Hou K, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "RNA splicing is highly prevalent in the brain and has strong links to neuropsychiatric disorders, yet the role of cell-type-specific splicing or transcript-isoform diversity during human brain development has not been systematically investigated. Here, we leveraged single-molecule long-read sequencing to deeply profile the full-length transcriptome of the germinal zone (GZ) and cortical plate (CP) regions of the developing human neocortex at tissue and single-cell resolution. We identified 214,516 unique isoforms, of which 72.6% are novel (unannotated in Gencode-v33), and uncovered a substantial contribution of transcript-isoform diversity, regulated by RNA binding proteins, in defining cellular identity in the developing neocortex. We leveraged this comprehensive isoform-centric gene annotation to re-prioritize thousands of rare de novo risk variants and elucidate genetic risk mechanisms for neuropsychiatric disorders.\n\nA cell-specific atlas of gene isoform expression helps shape our understanding of brain development and disease.\n\nThe development of the human brain is regulated by precise molecular and genetic mechanisms driving spatio-temporal and cell-type-specific transcript expression programs. Alternative splicing, a major mechanism increasing transcript diversity, is highly prevalent in the human brain, influences many aspects of brain development, and has strong links to neuropsychiatric disorders. Despite this, the cell-type-specific transcript-isoform diversity of the developing human brain has not been systematically investigated.Understanding splicing patterns and isoform diversity across the developing neocortex has translational relevance and can elucidate genetic risk mechanisms in neurodevelopmental disorders. However, short-read sequencing, the prevalent technology for transcriptome profiling, is not well suited to capturing alternative splicing and isoform diversity. To address this, we employed third-generation long-read sequencing, which enables capture and sequencing of complete individual RNA molecules, to deeply profile the full-length transcriptome of the germinal zone (GZ) and cortical plate (CP) regions of the developing human neocortex at tissue and single-cell resolution.We profiled microdissected GZ and CP regions of post-conception week (PCW) 15-17 human neocortex in bulk and at single-cell resolution across six subjects using high-fidelity long-read sequencing (PacBio IsoSeq). We identified 214,516 unique isoforms, of which 72.6% were novel (unannotated in Gencode), and >7,000 novel exons, expanding the proteome by 92,422 putative proteoforms. We uncovered thousands of isoform switches during cortical neurogenesis predicted to impact RNA regulatory domains or protein structure and implicating previously uncharacterized RNA-binding proteins in cellular identity and neuropsychiatric disease. At the single-cell level, early-stage excitatory neurons exhibited the greatest isoform diversity, and isoform-centric single-cell clustering led to the identification of previously uncharacterized cell states. We systematically assessed the contribution of transcriptomic features, and localized cell and spatio-temporal transcript expression signatures across neuropsychiatric disorders, revealing predominant enrichments in dynamic isoform expression and utilization patterns and that the number and complexity of isoforms per gene is strongly predictive of disease. Leveraging this resource, we re-prioritized thousands of rare de novo risk variants associated with autism spectrum disorders (ASD), intellectual disability (ID), and neurodevelopmental disorders (NDDs), more broadly, to potentially more severe consequences and revealed a larger proportion of cryptic splice variants with the expanded transcriptome annotation provided in this study.Our study offers a comprehensive landscape of isoform diversity in the human neocortex during development. This extensive cataloging of novel isoforms and splicing events sheds light on the underlying mechanisms of neurodevelopmental disorders and presents an opportunity to explore rare genetic variants linked to these conditions. The implications of our findings extend beyond fundamental neuroscience, as they provide crucial insights into the molecular basis of developmental brain disorders and pave the way for targeted therapeutic interventions. To facilitate exploration of this dataset we developed an online portal ( https://sciso.gandallab.org/ ).",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "RNA splicing is highly prevalent in the brain and has strong links to neuropsychiatric disorders, yet the role of cell-type-specific splicing or transcript-isoform diversity during human brain development has not been systematically investigated. Here, we leveraged single-molecule long-read sequencing to deeply profile the full-length transcriptome of the germinal zone (GZ) and cortical plate (CP) regions of the developing human neocortex at tissue and single-cell resolution.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36993726/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Preprint",
+    "Journal Article"
+  ]
+}

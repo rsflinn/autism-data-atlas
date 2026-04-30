@@ -1,0 +1,55 @@
+{
+  "pmid": "25636686",
+  "doi": "10.1007/s12035-014-9089-7",
+  "title": "Adult Deletion of SRF Increases Epileptogenesis and Decreases Activity-Induced Gene Expression",
+  "authors": "Kuzniewska B, Nader K, Dabrowski M, Kaczmarek L, Kalita K",
+  "journal": "Molecular neurobiology",
+  "date": "2015-01",
+  "source": "pubmed",
+  "abstract": "Although the transcription factor serum response factor (SRF) has been suggested to play a role in activity-dependent gene expression and mediate plasticity-associated structural changes in the hippocampus, no unequivocal evidence has been provided for its role in brain pathology, such as epilepsy. A genome-wide program of activity-induced genes that are regulated by SRF also remains unknown. In the present study, we show that the inducible and conditional deletion of SRF in the adult mouse hippocampus increases the epileptic phenotype in the kainic acid model of epilepsy, reflected by more severe and frequent seizures. Moreover, we observe a robust decrease in activity-induced gene transcription in SRF knockout mice. We characterize the genetic program controlled by SRF in neurons and using functional annotation, we find that SRF target genes are associated with synaptic plasticity and epilepsy. Several of these SRF targets function as regulators of inhibitory or excitatory balance and the structural plasticity of neurons. Interestingly, mutations in those SRF targets have found to be associated with such human neuropsychiatric disorders, as autism and intellectual disability. We also identify novel direct SRF targets in hippocampus: Npas4, Gadd45g, and Zfp36. Altogether, our data indicate that proteins that are highly upregulated by neuronal stimulation, identified in the present study as SRF targets, may function as endogenous protectors against overactivation. Thus, the lack of these effector proteins in SRF knockout animals may lead to uncontrolled excitation and eventually epilepsy.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Although the transcription factor serum response factor (SRF) has been suggested to play a role in activity-dependent gene expression and mediate plasticity-associated structural changes in the hippocampus, no unequivocal evidence has been provided for its role in brain pathology, such as epilepsy. A genome-wide program of activity-induced genes that are regulated by SRF also remains unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25636686/",
+  "mesh_terms": [
+    "Animals",
+    "Basic Helix-Loop-Helix Proteins",
+    "Epilepsy",
+    "Gene Deletion",
+    "Gene Expression Profiling",
+    "Gene Expression Regulation",
+    "Gene Ontology",
+    "Hippocampus",
+    "Intracellular Signaling Peptides and Proteins",
+    "Kainic Acid",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Nerve Tissue Proteins",
+    "Neuronal Plasticity",
+    "Neurons",
+    "Serum Response Factor",
+    "Tristetraprolin",
+    "GADD45 Proteins"
+  ],
+  "keywords": [
+    "Epilepsy",
+    "Gene expression",
+    "Hippocampus",
+    "Plasticity",
+    "SRF"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

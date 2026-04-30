@@ -1,0 +1,42 @@
+{
+  "pmid": "33548354",
+  "doi": "10.1016/j.pnpbp.2021.110259",
+  "title": "Microbial community changes in a female rat model of Rett syndrome",
+  "authors": "Gallucci A, Patterson KC, Weit AR, Van Der Pol WJ, Dubois LG, Percy AK, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2021-02",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is an X-linked neurodevelopmental disorder that is predominantly caused by alterations of the methyl-CpG-binding protein 2 (MECP2) gene. Disease severity and the presence of comorbidities such as gastrointestinal distress vary widely across affected individuals. The gut microbiome has been implicated in neurodevelopmental disorders such as Autism Spectrum Disorder (ASD) as a regulator of disease severity and gastrointestinal comorbidities. Although the gut microbiome has been previously characterized in humans with RTT compared to healthy controls, the impact of MECP2 mutation on the composition of the gut microbiome in animal models where the host and diet can be experimentally controlled remains to be elucidated. By evaluating the microbial community across postnatal development as behavioral symptoms appear and progress, we have identified microbial taxa that are differentially abundant across developmental timepoints in a zinc-finger nuclease rat model of RTT compared to WT. We have additionally identified p105 as a key translational timepoint. Lastly, we have demonstrated that fecal SCFA levels are not altered in RTT rats compared to WT rats across development. Overall, these results represent an important step in translational RTT research.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is an X-linked neurodevelopmental disorder that is predominantly caused by alterations of the methyl-CpG-binding protein 2 (MECP2) gene. Disease severity and the presence of comorbidities such as gastrointestinal distress vary widely across affected individuals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33548354/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Fatty Acids, Volatile",
+    "Female",
+    "Gastrointestinal Microbiome",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Rats",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

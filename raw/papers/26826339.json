@@ -1,0 +1,63 @@
+{
+  "pmid": "26826339",
+  "doi": "10.1016/j.envint.2015.12.021",
+  "title": "Environmental factors in the development of autism spectrum disorders",
+  "authors": "Sealey LA, Hughes BW, Sriskanda AN, Guest JR, Gibson AD, Johnson-Williams L, et al.",
+  "journal": "Environment international",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are highly heterogeneous developmental conditions characterized by deficits in social interaction, verbal and nonverbal communication, and obsessive/stereotyped patterns of behavior and repetitive movements. Social interaction impairments are the most characteristic deficits in ASD. There is also evidence of impoverished language and empathy, a profound inability to use standard nonverbal behaviors (eye contact, affective expression) to regulate social interactions with others, difficulties in showing empathy, failure to share enjoyment, interests and achievements with others, and a lack of social and emotional reciprocity. In developed countries, it is now reported that 1%-1.5% of children have ASD, and in the US 2015 CDC reports that approximately one in 45 children suffer from ASD. Despite the intense research focus on ASD in the last decade, the underlying etiology remains unknown. Genetic research involving twins and family studies strongly supports a significant contribution of environmental factors in addition to genetic factors in ASD etiology. A comprehensive literature search has implicated several environmental factors associated with the development of ASD. These include pesticides, phthalates, polychlorinated biphenyls, solvents, air pollutants, fragrances, glyphosate and heavy metals, especially aluminum used in vaccines as adjuvant. Importantly, the majority of these toxicants are some of the most common ingredients in cosmetics and herbicides to which almost all of us are regularly exposed to in the form of fragrances, face makeup, cologne, air fresheners, food flavors, detergents, insecticides and herbicides. In this review we describe various scientific data to show the role of environmental factors in ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorders (ASD) are highly heterogeneous developmental conditions characterized by deficits in social interaction, verbal and nonverbal communication, and obsessive/stereotyped patterns of behavior and repetitive movements. Social interaction impairments are the most characteristic deficits in ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26826339/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Environmental Exposure",
+    "Environmental Pollutants",
+    "Female",
+    "Fetus",
+    "Hazardous Substances",
+    "Humans",
+    "Infant",
+    "Infant, Newborn",
+    "Male",
+    "Middle Aged"
+  ],
+  "keywords": [
+    "Aluminum",
+    "Autistic disorder/pathology",
+    "Fragrances",
+    "Glyphosate",
+    "Hormone disturbing chemicals",
+    "Humans",
+    "Immunotoxicity",
+    "Infant",
+    "Maternal antibodies",
+    "Monozygotic twins",
+    "Neuroimmunotoxicity",
+    "Neurotoxins",
+    "Postnatal",
+    "Prenatal",
+    "Thimerosal",
+    "United States",
+    "Vaccines"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

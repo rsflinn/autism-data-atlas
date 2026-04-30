@@ -1,0 +1,48 @@
+{
+  "pmid": "39684429",
+  "doi": "10.3390/ijms252312718",
+  "title": "Ascorbic Acid Ameliorates Molecular and Developmental Defects in Human-Induced Pluripotent Stem Cell and Cerebral Organoid Models of Fragile X Syndrome",
+  "authors": "Gunapala KM, Gadban A, Noreen F, Sch&#xe4;r P, Benvenisty N, Taylor V",
+  "journal": "International journal of molecular sciences",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Fragile X Syndrome (FX) is the most common form of inherited cognitive impairment and falls under the broader category of Autism Spectrum Disorders (ASD). FX is caused by a CGG trinucleotide repeat expansion in the non-coding region of the X-linked() gene, leading to its hypermethylation and epigenetic silencing. Animal models of FX rely on the deletion of thegene, which fails to replicate the epigenetic silencing mechanism of thegene observed in human patients. Human stem cells carrying FX repeat expansions have provided a better understanding of the basis of epigenetic silencing of. Previous studies have found that 5-Azacytidine (5Azac) can reverse this methylation; however, 5Azac can be toxic, which may limit its therapeutic potential. Here, we show that the dietary factor Ascorbic Acid (AsA) can reduce DNA methylation in thelocus and lead to an increase ingene expression in FX iPSCs and cerebral organoids. In addition, AsA treatment rescued neuronal gene expression and morphological defects observed in FX iPSC-derived cerebral organoids. Hence, we demonstrate that the dietary co-factor AsA can partially revert the molecular and morphological defects seen in human FX models in vitro. Our findings have implications for the development of novel therapies for FX in the future.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X Syndrome (FX) is the most common form of inherited cognitive impairment and falls under the broader category of Autism Spectrum Disorders (ASD). FX is caused by a CGG trinucleotide repeat expansion in the non-coding region of the X-linked() gene, leading to its hypermethylation and epigenetic silencing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39684429/",
+  "mesh_terms": [
+    "Humans",
+    "Fragile X Syndrome",
+    "Induced Pluripotent Stem Cells",
+    "Organoids",
+    "Ascorbic Acid",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Brain"
+  ],
+  "keywords": [
+    "Ascorbic Acid",
+    "Autism Spectrum Disorders (ASD)",
+    "FMR1",
+    "Fragile X Syndrome",
+    "cerebral organoids",
+    "gene silencing",
+    "induced pluripotent stem cells",
+    "methylation",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

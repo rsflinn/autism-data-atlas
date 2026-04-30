@@ -1,0 +1,44 @@
+{
+  "pmid": "31953910",
+  "doi": "10.1002/mgg3.1145",
+  "title": "A de novo TOP2B variant associated with global developmental delay and autism spectrum disorder",
+  "authors": "Hiraide T, Watanabe S, Matsubayashi T, Yanagi K, Nakashima M, Ogata T, et al.",
+  "journal": "Molecular genetics & genomic medicine",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "TOP2B encodes type II topoisomerase beta, which controls topological changes during DNA transcription. TOP2B is expressed in the developing nervous system and is involved in brain development and neural differentiation. Recently, a de novo missense TOP2B variant (c.187C>T) has been identified in an individual with neurodevelopmental disorder (NDD). However, the association between TOP2B variants and NDDs remains uncertain.\n\nTrio-based whole-exome sequencing was performed on a 7-year-old girl, presenting muscle hypotonia, stereotypic hand movements, epilepsy, global developmental delay, and autism spectrum disorder. Brain magnetic resonance images were normal. She was unable to walk independently and spoke no meaningful words.\n\nWe found a de novo variant in TOP2B (NM_001330700.1:c.187C>T, p.(His63Tyr)), which is identical to the previous case. The clinical features of the two individuals with the c.187C>T variant overlapped.\n\nOur study supports the finding that TOP2B variants may cause NDDs.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "TOP2B encodes type II topoisomerase beta, which controls topological changes during DNA transcription. TOP2B is expressed in the developing nervous system and is involved in brain development and neural differentiation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31953910/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child",
+    "DNA Topoisomerases, Type II",
+    "Developmental Disabilities",
+    "Female",
+    "Humans",
+    "Mutation",
+    "Poly-ADP-Ribose Binding Proteins"
+  ],
+  "keywords": [
+    "TOP2B",
+    "autism spectrum disorder",
+    "global developmental delay",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

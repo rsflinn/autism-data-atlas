@@ -1,0 +1,50 @@
+{
+  "pmid": "23728914",
+  "doi": "10.1007/s00787-013-0430-x",
+  "title": "Infant's engagement and emotion as predictors of autism or intellectual disability in West syndrome",
+  "authors": "Ouss L, Saint-Georges C, Robel L, Bodeau N, Laznik MC, Crespin GC, et al.",
+  "journal": "European child & adolescent psychiatry",
+  "date": "2013-06",
+  "source": "pubmed",
+  "abstract": "West syndrome (WS) is a rare epileptic encephalopathy with early onset and a high risk of autistic outcome. The Pr&#xe9;Aut grid assesses this risk following WS onset by taking into account synchrony and emotion in interactions and by evaluating the baby's active desire to engage in pleasant interactions (especially the infant's early active behaviors that encourage being gazed at or kissed by the mother or to share joy with her). We followed a sample of 25 WS patients prospectively from disease onset and assessed whether the Pr&#xe9;Aut grid before 9 months, and the checklist for autism in toddlers (CHAT) at 18 and 24 months predicted autism or intellectual disability (ID) outcomes at 4 years. We found that the Pr&#xe9;Aut grid at 9 months (sensitivity = 0.83; specificity = 1) had similar prediction parameters as the CHAT at 18 months (sensitivity = 0.90; specificity = 0.83) and 24 months (sensitivity = 0.92; specificity = 1). WS patients with a positive Pr&#xe9;Aut screening at 9 months had a risk of having autism or ID at 4 years, which is 38 times that of children with a negative Pr&#xe9;Aut grid [OR = 38.6 (95 % CI 2.2-2961); p = 0.006]. We conclude that the Pr&#xe9;Aut grid could be a useful tool for the early detection of autism or ID risk in the context of WS. Further research is needed to assess the Pr&#xe9;Aut grid in other contexts (e.g. infants at high-risk for non-syndromic autism).",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "West syndrome (WS) is a rare epileptic encephalopathy with early onset and a high risk of autistic outcome. The Pr&#xe9;Aut grid assesses this risk following WS onset by taking into account synchrony and emotion in interactions and by evaluating the baby's active desire to engage in pleasant interactions (especially the infant's early active behaviors that encourage being gazed at or kissed by the mother or to share joy with her).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23728914/",
+  "mesh_terms": [
+    "Age of Onset",
+    "Autistic Disorder",
+    "Child, Preschool",
+    "Early Diagnosis",
+    "Emotions",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Infant",
+    "Infant Behavior",
+    "Intellectual Disability",
+    "Logistic Models",
+    "Male",
+    "Mothers",
+    "Outcome and Process Assessment, Health Care",
+    "Prospective Studies",
+    "Reproducibility of Results",
+    "Risk Factors",
+    "Sensitivity and Specificity",
+    "Spasms, Infantile"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

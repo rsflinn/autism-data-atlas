@@ -1,0 +1,39 @@
+{
+  "pmid": "38019139",
+  "doi": "10.1097/YPG.0000000000000358",
+  "title": "Discriminative features in White-Sutton syndrome: literature review and first report in Iran",
+  "authors": "Esmaeilzadeh E, Jafari Harandi A, Astaraki F, Khorram Khorshid HR",
+  "journal": "Psychiatric genetics",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "White-Sutton Syndrome is one of the rare neurodevelopmental disorder inherited in an autosomal dominant manner, mainly caused by de novo mutations in the POGZ gene and shows many phenotypic signs such as intellectual disability, Autism Spectrum Disorder and other spectra. About 70 patients with this syndrome have been reported worldwide. In this paper, we have described different phenotypic features of the White-Sutton Syndrome with a brief review of recent literatures. Finally, we have reported an Iranian male with intellectual disability and visual impairment. We have explained the clinical symptoms of the patient and have compared the patient's phenotype with existing data from individuals with White-Sutton Syndrome. The results of Whole Exome Sequencing test, performed for the patient, declared the presence of a de novo mutation in POGZ gene and confirmed the White-Sutton Syndrome diagnosis.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "POGZ"
+  ],
+  "summary": "White-Sutton Syndrome is one of the rare neurodevelopmental disorder inherited in an autosomal dominant manner, mainly caused by de novo mutations in the POGZ gene and shows many phenotypic signs such as intellectual disability, Autism Spectrum Disorder and other spectra. About 70 patients with this syndrome have been reported worldwide.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38019139/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Intellectual Disability",
+    "Iran",
+    "Autism Spectrum Disorder",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

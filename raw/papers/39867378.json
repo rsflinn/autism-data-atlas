@@ -1,0 +1,33 @@
+{
+  "pmid": "39867378",
+  "doi": "10.1101/2025.01.14.25320294",
+  "title": "Rare Variant Analyses in Ancestrally Diverse Cohorts Reveal Novel ADHD Risk Genes",
+  "authors": "Jung S, Caballero M, Olfson E, Newcorn JH, Fernandez TV, Mahjani B",
+  "journal": "medRxiv : the preprint server for health sciences",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is a highly heritable neurodevelopmental disorder, but its genetic architecture remains incompletely characterized. Rare coding variants, which can profoundly impact gene function, represent an underexplored dimension of ADHD risk. In this study, we analyzed large-scale DNA sequencing datasets from ancestrally diverse cohorts and observed significant enrichment of rare protein-truncating and deleterious missense variants in highly evolutionarily constrained genes. This analysis identified 15 high-confidence ADHD risk genes, including the previously implicated. Integrating these findings with genome-wide association study (GWAS) data revealed nine enriched pathways, with strong involvement in synapse organization, neuronal development, and chromatin regulation. Protein-protein interaction analyses identified chromatin regulators as central network hubs, and single-cell transcriptomic profiling confirmed their expression in neurons and glial cells, with distinct patterns in oligodendrocyte subtypes. These findings advance our understanding of the genetic architecture of ADHD, uncover core molecular mechanisms, and provide promising directions for future therapeutic development.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Attention-deficit/hyperactivity disorder (ADHD) is a highly heritable neurodevelopmental disorder, but its genetic architecture remains incompletely characterized. Rare coding variants, which can profoundly impact gene function, represent an underexplored dimension of ADHD risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39867378/",
+  "mesh_terms": [],
+  "keywords": [
+    "ADHD",
+    "DNA sequencing",
+    "Rare genetic variants"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Preprint"
+  ]
+}

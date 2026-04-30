@@ -1,0 +1,42 @@
+{
+  "pmid": "39266988",
+  "doi": "10.1186/s11689-024-09571-8",
+  "title": "Commonly used genomic arrays may lose information due to imperfect coverage of discovered variants for autism spectrum disorder",
+  "authors": "Yao M, Daniels J, Grosvenor L, Morrill V, Feinberg JI, Bakulski KM, et al.",
+  "journal": "Journal of neurodevelopmental disorders",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Common genetic variation has been shown to account for a large proportion of ASD heritability. Polygenic scores generated for autism spectrum disorder (ASD-PGS) using the most recent discovery data, however, explain less variance than expected, despite reporting significant associations with ASD and other ASD-related traits. Here, we investigate the extent to which information loss on the target study genome-wide microarray weakens the predictive power of the ASD-PGS.\n\nWe studied genotype data from three cohorts of individuals with high familial liability for ASD: The Early Autism Risk Longitudinal Investigation (EARLI), Markers of Autism Risk in Babies-Learning Early Signs (MARBLES), and the Infant Brain Imaging Study (IBIS), and one population-based sample, Study to Explore Early Development Phase I (SEED I). Individuals were genotyped on different microarrays ranging from 1 to 5 million sites. Coverage of the top 88 genome-wide suggestive variants implicated in the discovery was evaluated in all four studies before quality control (QC), after QC, and after imputation. We then created a novel method to assess coverage on the resulting ASD-PGS by correlating a PGS informed by a comprehensive list of variants to a PGS informed with only the available variants.\n\nPrior to imputations, None of the four cohorts directly or indirectly covered all 88 variants among the measured genotype data. After imputation, the two cohorts genotyped on 5-million arrays reached full coverage. Analysis of our novel metric showed generally high genome-wide coverage across all four studies, but a greater number of SNPs informing the ASD-PGS did not result in improved coverage according to our metric.\n\nThe studies we analyzed contained modest sample sizes. Our analyses included microarrays with more than 1-million sites, so smaller arrays such as Global Diversity and the PsychArray were not included.&#xa0;Our PGS metric for ASD is only generalizable to samples of European ancestries, though the coverage metric can be computed for traits that have sufficiently large-sized discovery findings in other ancestries.\n\nWe show that commonly used genotyping microarrays have incomplete coverage for common ASD variants, and imputation cannot always recover lost information. Our novel metric provides an intuitive approach to reporting information loss in PGS and an alternative to reporting the total number of SNPs included in the PGS. While applied only to ASD here, this metric can easily be used with other traits.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Common genetic variation has been shown to account for a large proportion of ASD heritability. Polygenic scores generated for autism spectrum disorder (ASD-PGS) using the most recent discovery data, however, explain less variance than expected, despite reporting significant associations with ASD and other ASD-related traits.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39266988/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Genome-Wide Association Study",
+    "Multifactorial Inheritance",
+    "Genetic Predisposition to Disease",
+    "Male",
+    "Female",
+    "Genotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "Autism spectrum disorder (ASD)",
+    "Information Loss",
+    "Polygenic scores (PGS)"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

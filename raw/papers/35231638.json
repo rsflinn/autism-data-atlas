@@ -1,0 +1,48 @@
+{
+  "pmid": "35231638",
+  "doi": "10.1016/j.jgg.2022.02.011",
+  "title": "Deletion of CHD8 in cerebellar granule neuron progenitors leads to severe cerebellar hypoplasia, ataxia, and psychiatric behavior in mice",
+  "authors": "Chen X, Chen T, Dong C, Chen H, Dong X, Yang L, et al.",
+  "journal": "Journal of genetics and genomics = Yi chuan xue bao",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "CHD8 is a candidate gene for autism spectrum disorders and neurological development delay. It has been reported to be essential for neurogenesis in the cerebral cortex, but the function of CHD8 in cerebellum has not been comprehensively investigated. The potential relationship of cerebellum dysplasia with psychiatric disorders in patients with CHD8 mutations is still not clear. In this study, we establish different conditional knockout mouse models to investigate the roles of CHD8 in cerebellar development. Mice with neural stem cell-specific Chd8 deletion exhibit significant reduction of cerebellum volume and no layering structure is detected. Genetic deletion of Chd8 in cerebellar granule neuron progenitors (GNPs) leads to cerebellar hypoplasia, absent of proliferation layer and ectopic of Purkinje neuron. However, no substantial cerebellar dysplasia is detected in mice with Purkinje neuron- or oligodendrocyte-specific Chd8 ablation. Single-cell RNA sequencing indicates that ribosome-related genes and pathways are most significantly disrupted in GNPs, indicating the potential mechanism. Importantly, in addition to the ataxia phenotype, mice with GNP-specific Chd8 ablation present a neuropsychiatric phenotype in three-chamber and light/dark tests. Taken together, our results provide insights not only into the function of CHD8 in cerebellar development, but also the pathogenesis of neuropsychiatric disorders in patients with CHD8 mutations.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "CHD8 is a candidate gene for autism spectrum disorders and neurological development delay. It has been reported to be essential for neurogenesis in the cerebral cortex, but the function of CHD8 in cerebellum has not been comprehensively investigated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35231638/",
+  "mesh_terms": [
+    "Animals",
+    "Ataxia",
+    "Cerebellum",
+    "DNA-Binding Proteins",
+    "Developmental Disabilities",
+    "Humans",
+    "Mice",
+    "Mice, Knockout",
+    "Nervous System Malformations",
+    "Neurons",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "CHD8",
+    "Cerebellum",
+    "Granule neuron"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

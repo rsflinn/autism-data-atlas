@@ -1,0 +1,46 @@
+{
+  "pmid": "21910631",
+  "doi": "10.1146/annurev-genet-110410-132512",
+  "title": "Genetic and epigenetic networks in intellectual disabilities",
+  "authors": "van Bokhoven H",
+  "journal": "Annual review of genetics",
+  "date": "2011-09",
+  "source": "pubmed",
+  "abstract": "Mutations in more than 450 different genes have been associated with intellectual disability (ID) and related cognitive disorders (CDs), such as autism. It is to be expected that this number will increase three to fourfold in the next years due to the rapid implementation of innovative high-throughput sequencing technology in genetics labs. Numerous functional relationships have been identified between the products of individual ID genes, and common molecular and cellular pathways onto which these networks converge are beginning to emerge. Prominent examples are genes involved in synaptic plasticity, Ras and Rho GTPase signaling, and epigenetic genes that encode modifiers of the chromatin structure. It thus seems that there might be common pathological patterns in ID, despite its bewildering genetic heterogeneity. These common pathways provide attractive opportunities for knowledge-based therapeutic interventions.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Mutations in more than 450 different genes have been associated with intellectual disability (ID) and related cognitive disorders (CDs), such as autism. It is to be expected that this number will increase three to fourfold in the next years due to the rapid implementation of innovative high-throughput sequencing technology in genetics labs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21910631/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Chromosome Aberrations",
+    "Chromosomes, Human",
+    "Cognition Disorders",
+    "Cytoskeletal Proteins",
+    "Epigenesis, Genetic",
+    "Gene Regulatory Networks",
+    "Genetic Diseases, Inborn",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "Signal Transduction",
+    "Spine",
+    "Synapses",
+    "Transcription, Genetic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

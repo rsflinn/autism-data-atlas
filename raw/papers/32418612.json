@@ -1,0 +1,49 @@
+{
+  "pmid": "32418612",
+  "doi": "10.1016/j.biopsych.2020.03.011",
+  "title": "MEF2C Hypofunction in Neuronal and Neuroimmune Populations Produces MEF2C Haploinsufficiency Syndrome-like Behaviors in Mice",
+  "authors": "Harrington AJ, Bridges CM, Berto S, Blankenship K, Cho JY, Assali A, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Microdeletions of the MEF2C gene are linked to a syndromic form of autism termed MEF2C haploinsufficiency syndrome (MCHS). MEF2C hypofunction in neurons is presumed to underlie most of the symptoms of MCHS. However, it is unclear in which cell populations MEF2C functions to regulate neurotypical development.\n\nMultiple biochemical, molecular, electrophysiological, behavioral, and transgenic mouse approaches were used to characterize MCHS-relevant synaptic, behavioral, and gene expression changes in mouse models of MCHS.\n\nWe showed that MCHS-associated missense mutations cluster in the conserved DNA binding domain and disrupt MEF2C DNA binding. DNA binding-deficient global Mef2c heterozygous mice (Mef2c-Het) displayed numerous MCHS-related behaviors, including autism-related behaviors, changes in cortical gene expression, and deficits in cortical excitatory synaptic transmission. We detected hundreds of dysregulated genes in Mef2c-Het cortex, including significant enrichments of autism risk and excitatory neuron genes. In addition, we observed an enrichment of upregulated microglial genes, but this was not due to neuroinflammation in the Mef2c-Het cortex. Importantly, conditional Mef2c heterozygosity in forebrain excitatory neurons reproduced a subset of the Mef2c-Het phenotypes, while conditional Mef2c heterozygosity in microglia reproduced social deficits and repetitive behavior.\n\nTaken together, our findings show that mutations found in individuals with MCHS disrupt the DNA-binding function of MEF2C, and DNA binding-deficient Mef2c global heterozygous mice display numerous MCHS-related phenotypes, including excitatory neuron and microglia gene expression changes. Our findings suggest that MEF2C regulates typical brain development and function through multiple cell types, including excitatory neuronal and neuroimmune populations.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MEF2C"
+  ],
+  "summary": "Microdeletions of the MEF2C gene are linked to a syndromic form of autism termed MEF2C haploinsufficiency syndrome (MCHS). MEF2C hypofunction in neurons is presumed to underlie most of the symptoms of MCHS.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32418612/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Haploinsufficiency",
+    "MEF2 Transcription Factors",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Transgenic",
+    "Neurons",
+    "Synaptic Transmission"
+  ],
+  "keywords": [
+    "Autism",
+    "Mef2c",
+    "Microglia",
+    "Mouse",
+    "Neurodevelopmental disorder",
+    "Neuron"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

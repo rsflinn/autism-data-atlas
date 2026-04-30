@@ -1,0 +1,40 @@
+{
+  "pmid": "37027790",
+  "doi": "10.4088/PCC.22m03339",
+  "title": "A Community-Based Study of Antenatal and Neonatal Risk Factors in Autism Spectrum Disorder",
+  "authors": "Arun P, Azad C, Kaur G, Sharma P",
+  "journal": "The primary care companion for CNS disorders",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "To assess children in the community for autism spectrum disorder (ASD) and associated risk factors.In this 2-stage, cross-sectional study, children between 1.5 and 10 years of age were screened using the Chandigarh Autism Screening Instrument. Those with a score above the cutoff of 10 were assessed in detail using the Childhood Autism Rating Scale and the Autism Diagnostic Interview-Revised, and a detailed pediatric assessment was conducted. Risk factors were evaluated, and karyotype and fragile X genetic testing was done for those diagnosed with ASD. The study was conducted from July 2014 to December 2017.Compared to the control group, mothers of ASD children had more pregnancy-induced hypertension (PIH) and bleeding per vaginum (BPV) during the antenatal period. In the multivariate analysis, there was 6.3 times higher odds of having history of PIH (&#x2009;=&#x2009;.02) and 7.7 times higher odds of BPV (&#x2009;=&#x2009;.011) among children with ASD. There were much higher odds of having birth asphyxia (OR&#x2009;=&#x2009;12.6), cardiorespiratory problems (OR&#x2009;=&#x2009;10), metabolic abnormalities (hypoglycemia/ hypocalcemia) (OR&#x2009;=&#x2009;12), and neonatal sepsis (OR&#x2009;=&#x2009;16) in the ASD group compared to controls.ASD patients experienced more antenatal and neonatal problems compared to controls.Clinical Trials Registry-India (CTRI/2017/02/007935).",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "To assess children in the community for autism spectrum disorder (ASD) and associated risk factors.In this 2-stage, cross-sectional study, children between 1.5 and 10 years of age were screened using the Chandigarh Autism Screening Instrument. Those with a score above the cutoff of 10 were assessed in detail using the Childhood Autism Rating Scale and the Autism Diagnostic Interview-Revised, and a detailed pediatric assessment was conducted.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37027790/",
+  "mesh_terms": [
+    "Child",
+    "Female",
+    "Humans",
+    "Infant, Newborn",
+    "Pregnancy",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Cross-Sectional Studies",
+    "Mothers",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Clinical Trial",
+    "Journal Article"
+  ]
+}

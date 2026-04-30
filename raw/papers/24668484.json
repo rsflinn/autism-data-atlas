@@ -1,0 +1,43 @@
+{
+  "pmid": "24668484",
+  "doi": "10.1007/978-3-642-45106-5_18",
+  "title": "Brain-derived neurotrophic factor and Rett syndrome",
+  "authors": "Katz DM",
+  "journal": "Handbook of experimental pharmacology",
+  "date": "2014-01",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a devastating neurodevelopmental disorder with autistic features caused by loss-of-function mutations in the gene encoding methyl-CpG-binding protein 2 (MECP2), a transcriptional regulatory protein. RTT has attracted widespread attention not only because of the urgent need for treatments, but also because it has become a window into basic mechanisms underlying epigenetic regulation of neuronal genes, including BDNF. In addition, work in mouse models of the disease has demonstrated the possibility of symptom reversal upon restoration of normal gene function. This latter finding has resulted in a paradigm shift in RTT research and, indeed, in the field of neurodevelopmental disorders as a whole, and spurred the search for potential therapies for RTT and related syndromes. In this context, the discovery that expression of BDNF is dysregulated in RTT and mouse models of the disease has taken on particular importance. This chapter reviews the still evolving story of how MeCP2 might regulate expression of BDNF, the functional consequences of BDNF deficits in Mecp2 mutant mice, and progress in developing BDNF-targeted therapies for the treatment of RTT.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is a devastating neurodevelopmental disorder with autistic features caused by loss-of-function mutations in the gene encoding methyl-CpG-binding protein 2 (MECP2), a transcriptional regulatory protein. RTT has attracted widespread attention not only because of the urgent need for treatments, but also because it has become a window into basic mechanisms underlying epigenetic regulation of neuronal genes, including BDNF.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24668484/",
+  "mesh_terms": [
+    "Animals",
+    "Brain-Derived Neurotrophic Factor",
+    "Gene Expression Regulation",
+    "Humans",
+    "Hypothalamus",
+    "Methyl-CpG-Binding Protein 2",
+    "Receptor, trkB",
+    "Rett Syndrome",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "41708000",
+  "doi": "10.1016/j.jbc.2026.111288",
+  "title": "Sialylation in the nervous system: Functions and mechanisms",
+  "authors": "Koles K, Repnikova E, Novikov B, Panin V",
+  "journal": "The Journal of biological chemistry",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "Glycoprotein sialylation represents a critical posttranslational modification with diverse biological roles in animals. This review explores its multifaceted functions in the nervous system, with particular emphasis on neurophysiology, homeostasis, and associated neurological disorders. The sialylation pathway modulates key neural processes through effects on glycoprotein stability, localization, activity, and molecular interactions. Examples include its crucial role in the regulation of neuronal excitability by modulating the functions of voltage-gated ion channels. Recent studies have uncovered remarkably rapid, activity-dependent changes in synaptic sialylation, suggesting dynamic sialylation-mediated regulation of neural transmission and highlighting the importance of neuraminidases in these processes. Beyond synaptic function, sialylation mediates neuron-glia interactions through multiple mechanisms. It modulates immune functions regulated by siglecs and complement pathways while controlling microglial activation and neuroinflammation. The critical importance of proper sialylation is underscored by severe neurological manifestations associated with genetic defects in the sialylation pathway, including cognitive impairment, ataxia, and epilepsy. Furthermore, aberrant sialylation of glycoproteins and gangliosides has been implicated in neurodegenerative diseases (Alzheimer's and Parkinson's), brain cancers, and psychiatric disorders including schizophrenia and autism. Preclinical research has identified promising therapeutic strategies targeting sialylation. Studies demonstrate that polysialic acid administration reduces neurodegeneration, while siglec modulation alleviates age-related cognitive decline. Recent discoveries, including sialylated glycoRNA and insights from Drosophila models revealing unique sialylation-mediated glia-neuron crosstalk, have significantly expanded our understanding of this important regulatory system. These advances position sialylation as a promising therapeutic target for neurological disorders.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Glycoprotein sialylation represents a critical posttranslational modification with diverse biological roles in animals. This review explores its multifaceted functions in the nervous system, with particular emphasis on neurophysiology, homeostasis, and associated neurological disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41708000/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Neurons",
+    "Protein Processing, Post-Translational",
+    "Glycoproteins",
+    "Nervous System",
+    "N-Acetylneuraminic Acid",
+    "Neurodegenerative Diseases"
+  ],
+  "keywords": [
+    "glycosylation",
+    "nervous system",
+    "neurodegeneration",
+    "neurological disorders",
+    "neurotransmission",
+    "sialic acid",
+    "sialylation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

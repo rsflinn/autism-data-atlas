@@ -1,0 +1,50 @@
+{
+  "pmid": "36681308",
+  "doi": "10.1016/j.jnutbio.2023.109274",
+  "title": "ARID1B blocks methionine-stimulated mTOR activation to inhibit milk fat and protein synthesis in and proliferation of mouse mammary epithelial cells",
+  "authors": "Lin G, Qi H, Guo X, Wang W, Zhang M, Gao X",
+  "journal": "The Journal of nutritional biochemistry",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Met can function through the mTOR signaling pathway, but the molecular mechanism is not fully understood. Here we investigated the role of ARID1B in this regulatory process. ARID1B knockdown promoted milk fat and protein synthesis in and cell proliferation of HC11 cells and increased mTOR mRNA expression and protein phosphorylation, whereas ARID1B gene activation had the opposite effects. ARID1B gene activation totally blocked Met's stimulation on mTOR mRNA expression. ARID1B bound to one region of the mTOR promoter, and Met reduced the binding of ARID1B on this promoter. LY294002 blocked Met-induced reduction of ARID1B mRNA and protein level. Cycloheximide treatment did not affect the decrease of ARID1B by Met. MG132 but not chloroquine restored ARID1B degradation induced by Met. Our data reveal that ARID1B is a key negative regulator of milk fat and protein synthesis in and proliferation of HC11 cells, and blocks Met-stimulated mTOR gene transcription.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "Met can function through the mTOR signaling pathway, but the molecular mechanism is not fully understood. Here we investigated the role of ARID1B in this regulatory process.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36681308/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Cell Proliferation",
+    "Epithelial Cells",
+    "Mammary Glands, Animal",
+    "Methionine",
+    "Milk",
+    "Milk Proteins",
+    "Racemethionine",
+    "RNA, Messenger",
+    "TOR Serine-Threonine Kinases",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "ARID1B",
+    "Methionine",
+    "Milk synthesis",
+    "Ubiquitination",
+    "mTOR"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

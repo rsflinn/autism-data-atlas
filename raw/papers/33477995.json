@@ -1,0 +1,40 @@
+{
+  "pmid": "33477995",
+  "doi": "10.3390/jcm10020366",
+  "title": "Chromatin Remodeler CHD8 in Autism and Brain Development",
+  "authors": "Hoffmann A, Spengler D",
+  "journal": "Journal of clinical medicine",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Chromodomain Helicase DNA-binding 8 () is a high confidence risk factor for autism spectrum disorders (ASDs) and the genetic cause of a distinct neurodevelopmental syndrome with the core symptoms of autism, macrocephaly, and facial dysmorphism. The role ofis well-characterized at the structural, biochemical, and transcriptional level. By contrast, much less is understood regarding how mutations inunderpin altered brain function and mental disease. Studies on various model organisms have been proven critical to tackle this challenge. Here, we scrutinize recent advances in this field with a focus on phenotypes in transgenic animal models and highlight key findings on neurodevelopment, neuronal connectivity, neurotransmission, synaptic and homeostatic plasticity, and habituation. Against this backdrop, we further discuss how to improve future animal studies, both in terms of technical issues and with respect to the sex-specific effects ofmutations for neuronal and higher-systems level function. We also consider outstanding questions in the field including 'humanized' mice models, therapeutic interventions, and how the use of pluripotent stem cell-derived cerebral organoids might help to address differences in neurodevelopment trajectories between model organisms and humans.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Chromodomain Helicase DNA-binding 8 () is a high confidence risk factor for autism spectrum disorders (ASDs) and the genetic cause of a distinct neurodevelopmental syndrome with the core symptoms of autism, macrocephaly, and facial dysmorphism. The role ofis well-characterized at the structural, biochemical, and transcriptional level.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33477995/",
+  "mesh_terms": [],
+  "keywords": [
+    "autism",
+    "chromatin regulation",
+    "neurodevelopment",
+    "neurodevelopmental disorders",
+    "neuronal connectivity",
+    "neuronal plasticity",
+    "neurotransmission",
+    "pluripotent stem cells"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

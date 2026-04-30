@@ -1,0 +1,44 @@
+{
+  "pmid": "37189354",
+  "doi": "10.3390/biom13040606",
+  "title": "Blood-Brain Barrier Integrity Is Perturbed in a-Null Mouse Model of Rett Syndrome",
+  "authors": "Pepe G, Fioriniello S, Marracino F, Capocci L, Maglione V, D'Esposito M, et al.",
+  "journal": "Biomolecules",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT, online MIM 312750) is a devastating neurodevelopmental disorder characterized by motor and cognitive disabilities. It is mainly caused by pathogenetic variants in the X-linkedgene, encoding an epigenetic factor crucial for brain functioning. Despite intensive studies, the RTT pathogenetic mechanism remains to be fully elucidated. Impaired vascular function has been previously reported in RTT mouse models; however, whether an altered brain vascular homeostasis and the subsequent blood-brain barrier (BBB) breakdown occur in RTT and contribute to the disease-related cognitive impairment is still unknown. Interestingly, in symptomatic-null () mice, we found enhanced BBB permeability associated with an aberrant expression of the tight junction proteinsand-5 in different brain areas, in terms of both transcript and protein levels. Additionally,-null mice showed an altered expression of different genes encoding factors with a role in the BBB structure and function, such as,,,, and. With this study, we provide the first evidence of impaired BBB integrity in RTT and highlight a potential new molecular hallmark of the disease that might open new perspectives for the setting-up of novel therapeutic strategies.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Rett syndrome (RTT, online MIM 312750) is a devastating neurodevelopmental disorder characterized by motor and cognitive disabilities. It is mainly caused by pathogenetic variants in the X-linkedgene, encoding an epigenetic factor crucial for brain functioning.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37189354/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Rett Syndrome",
+    "Blood-Brain Barrier",
+    "Brain",
+    "Mice, Knockout",
+    "Mice, Inbred C57BL",
+    "Methyl-CpG-Binding Protein 2"
+  ],
+  "keywords": [
+    "MeCP2",
+    "Rett syndrome",
+    "autism spectrum disorder",
+    "blood&#x2013;brain barrier",
+    "neurodevelopmental disorder"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

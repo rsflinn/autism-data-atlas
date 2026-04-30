@@ -1,0 +1,51 @@
+{
+  "pmid": "37646480",
+  "doi": "10.1002/aur.3020",
+  "title": "Comparing vagus nerve stimulation and resective surgery outcomes in patients with co-occurring autism and epilepsy to patients with epilepsy alone: A population-based study",
+  "authors": "Subramaniam VR, Mu L, Kwon CS",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2023-08",
+  "source": "pubmed",
+  "abstract": "Autism and epilepsy commonly co-occur. Understanding trends in healthcare utilization and in-hospital outcomes amongst patients with autism and epilepsy can help optimize care and reduce costs. We compared hospital outcomes amongst patients with autism and epilepsy to those with epilepsy alone undergoing vagus nerve stimulation (VNS) and resective/disconnective surgery. Differences in discharge status, in-hospital mortality, mean length of stay (LOS), cost and surgical/medical complications were examined. Elective surgical admissions amongst patients with epilepsy alone and co-occurring autism and epilepsy were identified in the 2003-14 National Inpatient Sample (NIS) using previously validated ICD-9-CM case definitions. One patient with co-occurring epilepsy and autism was matched to three epilepsy patients for age, sex and (1) VNS and (2) resective/disconnective surgery. Multinomial logistic regressions were performed to examine the outcomes of interest. Data were collected on: (1) VNS-52 (mean age: 12.79&#x2009;&#xb1;&#x2009;1.03; 19.27% female) hospital admissions in persons with comorbid autism and epilepsy, 156 (mean age: 12.84&#x2009;&#xb1;&#x2009;0.71; 19.31% female) matched controls with epilepsy alone; (2) resective/disconnective surgery-113 (mean age: 12.99&#x2009;&#xb1;&#x2009;0.84; 24.55% female) with comorbid autism and epilepsy, 339 (mean age: 13.37&#x2009;&#xb1;&#x2009;0.68; 23.86% female) matched controls with epilepsy alone. Compared to patients with epilepsy alone, patients with autism and epilepsy who underwent either surgery showed no differences for in-hospital mortality, discharge status, mean LOS, hospitalization cost, and surgical/medical complications. Our study shows the feasibility and safety of epilepsy VNS and resective surgery in those with ASD do not differ with those with epilepsy alone, contrary to the prevalent safety concerns of epilepsy surgery in patients with ASD.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism and epilepsy commonly co-occur. Understanding trends in healthcare utilization and in-hospital outcomes amongst patients with autism and epilepsy can help optimize care and reduce costs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37646480/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Vagus Nerve Stimulation",
+    "Epilepsy",
+    "Autistic Disorder",
+    "Adolescent",
+    "Child",
+    "Treatment Outcome",
+    "Length of Stay",
+    "Comorbidity",
+    "Hospital Mortality",
+    "Adult",
+    "Young Adult",
+    "Hospitalization"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "epilepsy",
+    "epilepsy surgery",
+    "resective surgery",
+    "vagus nerve stimulation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Comparative Study"
+  ]
+}

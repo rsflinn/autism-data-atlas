@@ -1,0 +1,41 @@
+{
+  "pmid": "38674375",
+  "doi": "10.3390/genes15040440",
+  "title": "Neuroanatomical Correlates of Cognitive Dysfunction in 22q11.2 Deletion Syndrome",
+  "authors": "Smerconish S, Schmitt JE",
+  "journal": "Genes",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "22q11.2 Deletion Syndrome (22q11.2DS), the most common chromosomal microdeletion, presents as a heterogeneous phenotype characterized by an array of anatomical, behavioral, and cognitive abnormalities. Individuals with 22q11.2DS exhibit extensive cognitive deficits, both in overall intellectual capacity and focal challenges in executive functioning, attentional control, perceptual abilities, motor skills, verbal processing, as well as socioemotional operations. Heterogeneity is an intrinsic factor of the deletion's clinical manifestation in these cognitive domains. Structural imaging has identified significant changes in volume, thickness, and surface area. These alterations are closely linked and display region-specific variations with an overall increase in abnormalities following a rostral-caudal gradient. Despite the extensive literature developing around the neurocognitive and neuroanatomical profiles associated with 22q11.2DS, comparatively little research has addressed specific structure-function relationships between aberrant morphological features and deficient cognitive processes. The current review attempts to categorize these limited findings alongside comparisons to populations with phenotypic and structural similarities in order to answer to what degree structural findings can explain the characteristic neurocognitive deficits seen in individuals with 22q11.2DS. In integrating findings from structural neuroimaging and cognitive assessments, this review seeks to characterize structural changes associated with the broad neurocognitive challenges faced by individuals with 22q11.2DS.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "22q11.2 Deletion Syndrome (22q11.2DS), the most common chromosomal microdeletion, presents as a heterogeneous phenotype characterized by an array of anatomical, behavioral, and cognitive abnormalities. Individuals with 22q11.2DS exhibit extensive cognitive deficits, both in overall intellectual capacity and focal challenges in executive functioning, attentional control, perceptual abilities, motor skills, verbal processing, as well as socioemotional operations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38674375/",
+  "mesh_terms": [
+    "Humans",
+    "Brain",
+    "Cognitive Dysfunction",
+    "DiGeorge Syndrome",
+    "Neuroimaging"
+  ],
+  "keywords": [
+    "22q11.2 deletion syndrome",
+    "MRI",
+    "cognitive phenotype",
+    "neuroimaging"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

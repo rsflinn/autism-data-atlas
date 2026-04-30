@@ -1,0 +1,48 @@
+{
+  "pmid": "32954437",
+  "doi": "10.1093/jnen/nlaa090",
+  "title": "Myelin Pathology Beyond White Matter in Tuberous Sclerosis Complex (TSC) Cortical Tubers",
+  "authors": "M&#xfc;hlebner A, van Scheppingen J, de Neef A, Bongaarts A, Zimmer TS, Mills JD, et al.",
+  "journal": "Journal of neuropathology and experimental neurology",
+  "date": "2020-10",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a monogenetic disease that arises due to mutations in either the TSC1 or TSC2 gene and affects multiple organ systems. One of the hallmark manifestations of TSC are cortical malformations referred to as cortical tubers. These tubers are frequently associated with treatment-resistant epilepsy. Some of these patients are candidates for epilepsy surgery. White matter abnormalities, such as loss of myelin and oligodendroglia, have been described in a small subset of resected tubers but mechanisms underlying this phenomenon are unclear. Herein, we analyzed a variety of neuropathologic and immunohistochemical features in gray and white matter areas of resected cortical tubers from 46 TSC patients using semi-automated quantitative image analysis. We observed divergent amounts of myelin basic protein as well as numbers of oligodendroglia in both gray and white matter when compared with matched controls. Analyses of clinical data indicated that reduced numbers of oligodendroglia were associated with lower numbers on the intelligence quotient scale and that lower amounts of myelin-associated oligodendrocyte basic protein were associated with the presence of autism-spectrum disorder. In conclusion, myelin pathology in cortical tubers extends beyond the white matter and may be linked to cognitive dysfunction in TSC patients.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is a monogenetic disease that arises due to mutations in either the TSC1 or TSC2 gene and affects multiple organ systems. One of the hallmark manifestations of TSC are cortical malformations referred to as cortical tubers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32954437/",
+  "mesh_terms": [
+    "Cerebral Cortex",
+    "Female",
+    "Gray Matter",
+    "Humans",
+    "Male",
+    "Myelin Sheath",
+    "Oligodendroglia",
+    "Tuberous Sclerosis",
+    "White Matter"
+  ],
+  "keywords": [
+    "Cognitive dysfunction",
+    "Epilepsy",
+    "Myelin",
+    "Tuberous sclerosis complex",
+    "White matter"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

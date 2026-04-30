@@ -1,0 +1,45 @@
+{
+  "pmid": "39038432",
+  "doi": "10.1016/j.pediatrneurol.2024.06.003",
+  "title": "Rare Pathogenic Variants Identified in Whole Exome Sequencing of Monozygotic Twins With Autism Spectrum Disorder",
+  "authors": "Anitha A, Banerjee M, Thanseem I, Prakash A, Melempatt N, Sumitha PS, et al.",
+  "journal": "Pediatric neurology",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a childhood-onset complex neurodevelopmental disorder characterized by problems with communication and social interaction and restricted, repetitive, stereotyped behavior. The prevalence of ASD is one in 36 children. The genetic architecture of ASD is complex in spite of its high heritability. To identify the potential candidate genes of ASD, we carried out a comprehensive genetic study of monozygotic (MZ) twins concordant or discordant for ASD.\n\nFive MZ twins and their parents were recruited for the study. Four of the twins were concordant, whereas one was discordant for ASD. Whole exome sequencing was conducted for the twins and their parents. The exome DNA was enriched using Twist Human Customized Core Exome Kit, and paired-end sequencing was performed on HiSeq system.\n\nWe identified several rare and pathogenic variants (homozygous recessive, compound heterozygous, de novo) in ASD-affected individuals.\n\nWe report novel variants in individuals diagnosed with ASD. Several of these genes are involved in brain-related functions and not previously reported in ASD. Intriguingly, some of the variants were observed in the genes involved in sensory perception (auditory [MYO15A, PLEC, CDH23, UBR3, GPSM2], olfactory [OR9K2], gustatory [TAS2R31], and visual [CDH23, UBR3]). This is the first comprehensive genetic study of MZ twins in an Indian population. Further validation is required to determine whether these variants are associated with ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a childhood-onset complex neurodevelopmental disorder characterized by problems with communication and social interaction and restricted, repetitive, stereotyped behavior. The prevalence of ASD is one in 36 children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39038432/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Twins, Monozygotic",
+    "Male",
+    "Exome Sequencing",
+    "Female",
+    "Child",
+    "Diseases in Twins",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Monozygotic twins",
+    "Rare variants",
+    "Sensory",
+    "Whole exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Twin Study"
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "22586411",
+  "doi": "10.3389/fpsyt.2012.00034",
+  "title": "Rett syndrome: genes, synapses, circuits, and therapeutics",
+  "authors": "Banerjee A, Castro J, Sur M",
+  "journal": "Frontiers in psychiatry",
+  "date": "2012-05",
+  "source": "pubmed",
+  "abstract": "Development of the nervous system proceeds through a set of complex checkpoints which arise from a combination of sequential gene expression and early neural activity sculpted by the environment. Genetic and environmental insults lead to neurodevelopmental disorders which encompass a large group of diseases that result from anatomical and physiological abnormalities during maturation and development of brain circuits. Rett syndrome (RTT) is a neurological disorder of genetic origin, caused by mutations in the X-linked gene methyl-CpG binding protein 2 (MeCP2). It features a range of neuropsychiatric abnormalities including motor dysfunctions and mild to severe cognitive impairment. Here, we discuss key questions and recent studies describing animal models, cell-type specific functions of methyl-CpG binding protein 2 (MeCP2), defects in neural circuit plasticity, and attempts to evaluate possible therapeutic strategies for RTT. We also discuss how genes, proteins, and overlapping signaling pathways affect the molecular etiology of apparently unrelated neuropsychiatric disorders, an understanding of which can offer novel therapeutic strategies for a range of autism spectrum disorders (ASDs).",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Development of the nervous system proceeds through a set of complex checkpoints which arise from a combination of sequential gene expression and early neural activity sculpted by the environment. Genetic and environmental insults lead to neurodevelopmental disorders which encompass a large group of diseases that result from anatomical and physiological abnormalities during maturation and development of brain circuits.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22586411/",
+  "mesh_terms": [],
+  "keywords": [
+    "RTT",
+    "development",
+    "plasticity",
+    "synapse",
+    "visual cortex"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "38485094",
+  "doi": "10.1016/j.nbd.2024.106470",
+  "title": "Altered neurological and neurobehavioral phenotypes in a mouse model of the recurrent KCNB1-p.R306C voltage-sensor variant",
+  "authors": "Kang SK, Hawkins NA, Thompson CH, Baker EM, Echevarria-Cooper DM, Barse L, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Pathogenic variants in KCNB1 are associated with a neurodevelopmental disorder spectrum that includes global developmental delays, cognitive impairment, abnormal electroencephalogram (EEG) patterns, and epilepsy with variable age of onset and severity. Additionally, there are prominent behavioral disturbances, including hyperactivity, aggression, and features of autism spectrum disorder. The most frequently identified recurrent variant is KCNB1-p.R306C, a missense variant located within the S4 voltage-sensing transmembrane domain. Individuals with the R306C variant exhibit mild to severe developmental delays, behavioral disorders, and a diverse spectrum of seizures. Previous in vitro characterization of R306C described altered sensitivity and cooperativity of the voltage sensor and impaired capacity for repetitive firing of neurons. Existing Kcnb1 mouse models include dominant negative missense variants, as well as knockout and frameshifts alleles. While all models recapitulate key features of KCNB1 encephalopathy, mice with dominant negative alleles were more severely affected. In contrast to existing loss-of-function and dominant-negative variants, KCNB1-p.R306C does not affect channel expression, but rather affects voltage-sensing. Thus, modeling R306C in mice provides a novel opportunity to explore impacts of a voltage-sensing mutation in Kcnb1. Using CRISPR/Cas9 genome editing, we generated the Kcnb1mouse model and characterized the molecular and phenotypic effects. Consistent with the in vitro studies, neurons from Kcnb1mice showed altered excitability. Heterozygous and homozygous R306C mice exhibited hyperactivity, altered susceptibility to chemoconvulsant-induced seizures, and frequent, long runs of slow spike wave discharges on EEG, reminiscent of the slow spike and wave activity characteristic of Lennox Gastaut syndrome. This novel model of channel dysfunction in Kcnb1 provides an additional, valuable tool to study KCNB1 encephalopathies. Furthermore, this allelic series of Kcnb1 mouse models will provide a unique platform to evaluate targeted therapies.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "KCNB1"
+  ],
+  "summary": "Pathogenic variants in KCNB1 are associated with a neurodevelopmental disorder spectrum that includes global developmental delays, cognitive impairment, abnormal electroencephalogram (EEG) patterns, and epilepsy with variable age of onset and severity. Additionally, there are prominent behavioral disturbances, including hyperactivity, aggression, and features of autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38485094/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Brain Diseases",
+    "Epilepsy",
+    "Mutation",
+    "Phenotype",
+    "Seizures",
+    "Shab Potassium Channels"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Developmental disorder",
+    "Encephalopathy",
+    "Epilepsy",
+    "K(V)2.1",
+    "Voltage-gated ion channels",
+    "Voltage-gated potassium channels"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

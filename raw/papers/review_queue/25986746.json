@@ -1,0 +1,49 @@
+{
+  "pmid": "25986746",
+  "doi": "10.1007/s13311-015-0355-9",
+  "title": "Therapeutic Strategies in Fragile X Syndrome: From Bench to Bedside and Back",
+  "authors": "Gross C, Hoffmann A, Bassell GJ, Berry-Kravis EM",
+  "journal": "Neurotherapeutics : the journal of the American Society for Experimental NeuroTherapeutics",
+  "date": "2015-07",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS), an inherited intellectual disability often associated with autism, is caused by the loss of expression of the fragile X mental retardation protein. Tremendous progress in basic, preclinical, and translational clinical research has elucidated a variety of molecular-, cellular-, and system-level defects in FXS. This has led to the development of several promising therapeutic strategies, some of which have been tested in larger-scale controlled clinical trials. Here, we will summarize recent advances in understanding molecular functions of fragile X mental retardation protein beyond the well-known role as an mRNA-binding protein, and will describe current developments and emerging limitations in the use of the FXS mouse model as a preclinical tool to identify therapeutic targets. We will review the results of recent clinical trials conducted in FXS that were based on some of the preclinical findings, and discuss how the observed outcomes and obstacles will inform future therapy development in FXS and other autism spectrum disorders.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS), an inherited intellectual disability often associated with autism, is caused by the loss of expression of the fragile X mental retardation protein. Tremendous progress in basic, preclinical, and translational clinical research has elucidated a variety of molecular-, cellular-, and system-level defects in FXS.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25986746/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Brain",
+    "Clinical Trials as Topic",
+    "Disease Models, Animal",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Mice",
+    "Mice, Knockout",
+    "Mutation",
+    "Neurons",
+    "Phenotype",
+    "Translational Research, Biomedical"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

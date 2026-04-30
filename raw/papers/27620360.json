@@ -1,0 +1,47 @@
+{
+  "pmid": "27620360",
+  "doi": "10.1111/joa.12542",
+  "title": "The neuroanatomy of autism - a developmental perspective",
+  "authors": "Donovan AP, Basson MA",
+  "journal": "Journal of anatomy",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorders (ASDs) are a heterogeneous group of neurodevelopmental disorders that are diagnosed solely on the basis of behaviour. A large body of work has reported neuroanatomical differences between individuals with ASD and neurotypical controls. Despite the huge clinical and genetic heterogeneity that typifies autism, some of these anatomical features appear to be either present in most cases or so dramatically altered in some that their presence is now reasonably well replicated in a number of studies. One such finding is the tendency towards overgrowth of the frontal cortex during the early postnatal period. Although these reports have been focused primarily on the presumed pathological anatomy, they are providing us with important insights into normal brain anatomy and are stimulating new ideas and hypotheses about the normal trajectory of brain development and the function of specific anatomical brain structures. The use of model systems that include genetic model organisms such as the mouse and, more recently, human induced pluripotent stem cell-derived brain organoids to model normal and pathological human cortical development, is proving particularly informative. Here we review some of the neuroanatomical alterations reported in autism, with a particular focus on well-validated findings and recent advances in the field, and ask what these observations can tell us about normal and abnormal brain development.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorders (ASDs) are a heterogeneous group of neurodevelopmental disorders that are diagnosed solely on the basis of behaviour. A large body of work has reported neuroanatomical differences between individuals with ASD and neurotypical controls.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27620360/",
+  "mesh_terms": [
+    "Amygdala",
+    "Autistic Disorder",
+    "Brain",
+    "Cerebellum",
+    "Cerebral Cortex",
+    "Humans"
+  ],
+  "keywords": [
+    "autism",
+    "cerebellum",
+    "development",
+    "dysplasia",
+    "frontal cortex",
+    "minicolumns",
+    "neuroanatomy",
+    "overgrowth",
+    "regionalisation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

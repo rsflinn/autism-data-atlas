@@ -1,0 +1,51 @@
+{
+  "pmid": "24290386",
+  "doi": "10.1016/B978-0-12-418700-9.00006-X",
+  "title": "Transcriptional dysregulation of neocortical circuit assembly in ASD",
+  "authors": "Kwan KY",
+  "journal": "International review of neurobiology",
+  "date": "2013-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) impair social cognition and communication, key higher-order functions centered in the human neocortex. The assembly of neocortical circuitry is a precisely regulated developmental process susceptible to genetic alterations that can ultimately affect cognitive abilities. Because ASD is an early onset neurodevelopmental disorder that disrupts functions executed by the neocortex, miswiring of neocortical circuits has been hypothesized to be an underlying mechanism of ASD. This possibility is supported by emerging genetic findings and data from imaging studies. Recent research on neocortical development has identified transcription factors as key determinants of neocortical circuit assembly, mediating diverse processes including neuronal specification, migration, and wiring. Many of these TFs (TBR1, SOX5, FEZF2, and SATB2) have been implicated in ASD. Here, I will discuss the functional roles of these transcriptional programs in neocortical circuit development and their neurobiological implications for the emerging etiology of ASD.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "TBR1"
+  ],
+  "summary": "Autism spectrum disorders (ASDs) impair social cognition and communication, key higher-order functions centered in the human neocortex. The assembly of neocortical circuitry is a precisely regulated developmental process susceptible to genetic alterations that can ultimately affect cognitive abilities.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24290386/",
+  "mesh_terms": [
+    "Animals",
+    "Child Development Disorders, Pervasive",
+    "Developmental Disabilities",
+    "Humans",
+    "Neocortex",
+    "Nerve Net",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Axon projections",
+    "Cerebral cortex",
+    "Corpus callosum",
+    "Corticospinal tract",
+    "Corticothalamic tract",
+    "Neural circuit wiring",
+    "Neurodevelopmental disorders",
+    "Neurogenesis",
+    "Neuronal migration",
+    "Transcriptional mechanisms"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

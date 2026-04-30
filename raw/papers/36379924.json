@@ -1,0 +1,38 @@
+{
+  "pmid": "36379924",
+  "doi": "10.1038/s41398-022-02248-7",
+  "title": "Meta-analysis of genome-wide association studies of hoarding symptoms in 27,537 individuals",
+  "authors": "Strom NI, Smit DJA, Silzer T, Iyegbe C, Burton CL, Pool R, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Hoarding Disorder (HD) is a mental disorder characterized by persistent difficulties discarding or parting with possessions, often resulting in cluttered living spaces, distress, and impairment. Its etiology is largely unknown, but twin studies suggest that it is moderately heritable. In this study, we pooled phenotypic and genomic data from seven international cohorts (N&#x2009;=&#x2009;27,537 individuals) and conducted a genome wide association study (GWAS) meta-analysis of parent- or self-reported hoarding symptoms (HS). We followed up the results with gene-based and gene-set analyses, as well as leave-one-out HS polygenic risk score (PRS) analyses. To examine a possible genetic association between hoarding symptoms and other phenotypes we conducted cross-trait PRS analyses. Though we did not report any genome-wide significant SNPs, we report heritability estimates for the twin-cohorts between 26-48%, and a SNP-heritability of 11% for an unrelated sub-cohort. Cross-trait PRS analyses showed that the genetic risk for schizophrenia and autism spectrum disorder were significantly associated with hoarding symptoms. We also found suggestive evidence for an association with educational attainment. There were no significant associations with other phenotypes previously linked to HD, such as obsessive-compulsive disorder, depression, anxiety, or attention-deficit hyperactivity disorder. To conclude, we found that HS are heritable, confirming and extending previous twin studies but we had limited power to detect any genome-wide significant loci. Much larger samples will be needed to further extend these findings and reach a \"gene discovery zone\". To move the field forward, future research should not only include genetic analyses of quantitative hoarding traits in larger samples, but also in samples of individuals meeting strict diagnostic criteria for HD, and more ethnically diverse samples.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Hoarding Disorder (HD) is a mental disorder characterized by persistent difficulties discarding or parting with possessions, often resulting in cluttered living spaces, distress, and impairment. Its etiology is largely unknown, but twin studies suggest that it is moderately heritable.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36379924/",
+  "mesh_terms": [
+    "Humans",
+    "Hoarding",
+    "Genome-Wide Association Study",
+    "Autism Spectrum Disorder",
+    "Hoarding Disorder",
+    "Obsessive-Compulsive Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

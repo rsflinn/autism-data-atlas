@@ -1,0 +1,45 @@
+{
+  "pmid": "34802461",
+  "doi": "10.1186/s40246-021-00368-7",
+  "title": "Single-cell transcriptome identifies molecular subtype of autism spectrum disorder impacted by de novo loss-of-function variants regulating glial cells",
+  "authors": "Nassir N, Bankapur A, Samara B, Ali A, Ahmed A, Inuwa IM, et al.",
+  "journal": "Human genomics",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "In recent years, several hundred autism spectrum disorder (ASD) implicated genes have been discovered impacting a wide range of molecular pathways. However, the molecular underpinning of ASD, particularly from the point of view of 'brain to behaviour' pathogenic mechanisms, remains largely unknown.\n\nWe undertook a study to investigate patterns of spatiotemporal and cell type expression of ASD-implicated genes by integrating large-scale brain single-cell transcriptomes (>&#x2009;million cells) and de novo loss-of-function (LOF) ASD variants (impacting 852 genes from 40,122 cases).\n\nWe identified multiple single-cell clusters from three distinct developmental human brain regions (anterior cingulate cortex, middle temporal gyrus and primary visual cortex) that evidenced high evolutionary constraint through enrichment for brain critical exons and high pLI genes. These clusters also showed significant enrichment with ASD loss-of-function variant genes (p&#x2009;<&#x2009;5.23&#x2009;&#xd7;&#x2009;10) that are transcriptionally highly active in prenatal brain regions (visual cortex and dorsolateral prefrontal cortex). Mapping ASD de novo LOF variant genes into large-scale human and mouse brain single-cell transcriptome analysis demonstrate enrichment of such genes into neuronal subtypes and are also enriched for subtype of non-neuronal glial cell types (astrocyte, p&#x2009;<&#x2009;6.40&#x2009;&#xd7;&#x2009;10, oligodendrocyte, p&#x2009;<&#x2009;1.31&#x2009;&#xd7;&#x2009;10).\n\nAmong the ASD genes enriched with pathogenic de novo LOF variants (i.e. KANK1, PLXNB1), a subgroup has restricted transcriptional regulation in non-neuronal cell types that are evolutionarily conserved. This association strongly suggests the involvement of subtype of non-neuronal glial cells in the pathogenesis of ASD and the need to explore other biological pathways for this disorder.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "In recent years, several hundred autism spectrum disorder (ASD) implicated genes have been discovered impacting a wide range of molecular pathways. However, the molecular underpinning of ASD, particularly from the point of view of 'brain to behaviour' pathogenic mechanisms, remains largely unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34802461/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Exons",
+    "Gene Expression Regulation",
+    "Mice",
+    "Nerve Tissue Proteins",
+    "Neuroglia",
+    "Receptors, Cell Surface",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Brain tissue",
+    "De novo LOF variant",
+    "Glial cell type",
+    "Single-cell transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

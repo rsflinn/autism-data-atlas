@@ -1,0 +1,36 @@
+{
+  "pmid": "37788609",
+  "doi": "10.1097/ADM.0000000000001177",
+  "title": "Effects of Abstinence From Opioid on Neuropsychological Performance in Men With Opioid Use Disorder: A Longitudinal Study",
+  "authors": "Kaur G, Sidana A, Singh S, Gupta A",
+  "journal": "Journal of addiction medicine",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Impairments in neuropsychological functioning (mainly memory, learning, attention, and executive functioning) among persons with long-term opioid use disorder (OUD) have been widely reported, with few studies suggesting that these are not permanent and can improve with abstinence. Thus, present study aimed to evaluate the neuropsychological functioning in persons with OUD and examine the effects of abstinence on the same over a period 8 weeks.\n\nA total of 50 patients with diagnosis of OUD as per the Diagnostic and Statistical Manual of Mental Disorders , Fifth Edition ( DSM-5 ) criteria underwent serial longitudinal neuropsychological assessments for executive functioning, attention and concentration, and verbal and nonverbal memory at baseline, 2 weeks, and 8 weeks of abstinence.\n\nThe mean performance scores representative of attention, concentration, verbal memory, and nonverbal memory showed significant improvement in the initial 2 weeks, and executive functioning showed significant improvement by 8 weeks of abstinence (all P 's < 0.01). A significant negative correlation was found between the duration of opioid use and performance on verbal memory tests (0.014), the frequency of intake per day and performance on nonverbal memory and executive functioning tests, and the severity of opioid dependence and performance on nonverbal memory test (0.019).\n\nNeuropsychological functioning in certain domains was associated with the duration of opioid use, the frequency of daily opioid intake, and the severity of opioid dependence among persons with OUD at baseline. It showed significant improvement in domains of attention, concentration, verbal and nonverbal memory, and executive functions over a period of 8 weeks of abstinence.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Impairments in neuropsychological functioning (mainly memory, learning, attention, and executive functioning) among persons with long-term opioid use disorder (OUD) have been widely reported, with few studies suggesting that these are not permanent and can improve with abstinence. Thus, present study aimed to evaluate the neuropsychological functioning in persons with OUD and examine the effects of abstinence on the same over a period 8 weeks.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37788609/",
+  "mesh_terms": [
+    "Male",
+    "Humans",
+    "Analgesics, Opioid",
+    "Longitudinal Studies",
+    "Attention",
+    "Opioid-Related Disorders",
+    "Neuropsychological Tests"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

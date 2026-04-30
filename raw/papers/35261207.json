@@ -1,0 +1,46 @@
+{
+  "pmid": "35261207",
+  "doi": "10.1002/aur.2703",
+  "title": "Region-specific associations between gamma-aminobutyric acid A receptor binding and cortical thickness in high-functioning autistic adults",
+  "authors": "James D, Lam VT, Jo B, Fung LK",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "The neurobiology of autism has been shown to involve alterations in cortical morphology and gamma-aminobutyric acid A (GABA) receptor density. We hypothesized that GABAreceptor binding potential (GABAR BP) would correlate with cortical thickness, but their correlations would differ between autistic adults and typically developing (TD) controls. We studied 50 adults (23 autism, 27 TD, mean age of 27&#x2009;years) using magnetic resonance imaging to measure cortical thickness, and [F]flumazenil positron emission tomography imaging to measure GABAR BP. We determined the correlations between cortical thickness and GABAR BPby cortical lobe, region-of-interest, and diagnosis of autism spectrum disorder (ASD). We also explored potential sex differences in the relationship between cortical thickness and autism characteristics, as measured by autism spectrum quotient (AQ) scores. Comparing autism and TD groups, no significant differences were found in cortical thickness or GABAR BP. In both autism and TD groups, a negative relationship between cortical thickness and GABAR BPwas observed in the frontal and occipital cortices, but no relationship was found in the temporal or limbic cortices. A positive correlation was seen in the parietal cortex that was only significant for the autism group. Interestingly, in an exploratory analysis, we found sex differences in the relationships between cortical thickness and GABAR BP, and cortical thickness and AQ scores in the left postcentral gyrus. LAY SUMMARY: The thickness of the brain cortex and the density of the receptors associated with inhibitory neurotransmitter GABA have been hypothesized to underlie the neurobiology of autism. In this study, we found that these biomarkers correlate positively in the parietal cortex, but negatively in the frontal and occipital cortical regions of the brain. Furthermore, we collected preliminary evidence that the correlations between cortical thickness and GABA receptor density are sexdependent in a brain region where sensory inputs are registered.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The neurobiology of autism has been shown to involve alterations in cortical morphology and gamma-aminobutyric acid A (GABA) receptor density. We hypothesized that GABAreceptor binding potential (GABAR BP) would correlate with cortical thickness, but their correlations would differ between autistic adults and typically developing (TD) controls.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35261207/",
+  "mesh_terms": [
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Brain",
+    "Brain Mapping",
+    "Female",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [
+    "GABAA receptor density",
+    "autism",
+    "cortical thickness",
+    "postcentral gyrus"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

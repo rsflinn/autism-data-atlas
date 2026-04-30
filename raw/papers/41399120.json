@@ -1,0 +1,54 @@
+{
+  "pmid": "41399120",
+  "doi": "10.1002/aur.70152",
+  "title": "Altered Auditory Maturation in Fragile X Syndrome and Its Involvement in Audiogenic Seizure Susceptibility",
+  "authors": "M&#xf6;hrle D, Ma D, Xue W, Yan J, Cheng N",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2025-12",
+  "source": "pubmed",
+  "abstract": "Auditory hypersensitivity is a prominent symptom in Fragile X syndrome (FXS), the most prevalent monogenic cause of autism and intellectual disability. FXS arises through the loss of the protein encoded by the FMR1 (Fragile X Messenger Ribonucleoprotein 1) gene, FMRP, required for normal neural circuit excitability. In the brainstem, FMRP is necessary for normal development of acoustic reactivity, and its loss has been implicated in audiogenic seizures (AGS) in Fmr1 knockout (KO) mice, modeling auditory hypersensitivity and seizures in FXS patients. The present study investigated the correlation between auditory brainstem function and behavioral expression of AGS at the early (postnatal day P20, infancy) and late (P32, juvenile) stages of auditory development in Fmr1 KO mice compared with wildtype (WT) mice, and in both females and males. We tested responsiveness to pure tones of select auditory pathway elements through auditory brainstem responses, and neural synchronization to amplitude envelopes of modulated acoustic stimuli through auditory steady-state responses. AGS behavior was categorized for severity during 5-min exposure to loud sound. Expression of the immediate early gene cFos was quantified as a marker for neuronal activity in the inferior colliculus. During infancy, more severe AGS expression in Fmr1 KO mice compared with WT mice was accompanied by increased responsiveness to acoustic stimuli at the level of the superior olivary complex and inferior colliculus, and stronger neural synchronicity in subcortical auditory neurons. Fmr1 KO mice also had higher cFos positive cell counts in the inferior colliculus after exposure to loud sound. With age, both AGS susceptibility and exaggerated acoustic stimulus-evoked activity in the Fmr1 KO mice subsided. Intriguingly, Fmr1 KO mice displayed an altered developmental profile in both the threshold and amplitude of auditory brainstem response. Our findings support evidence that AGS activity relies upon hyperexcitability in the auditory system, including in the lower brainstem, possibly due to disturbed auditory maturation. Hyper-synchronization to modulated sounds in subcortical auditory neurons seemed to predict AGS severity. The developmental trajectory of the auditory hyperresponsiveness and hypersynchrony suggests a transient processing alteration underlying heightened AGS susceptibility in Fmr1 KO mice. A better understanding of FXS-related circuit and behavioral symptoms of auditory processing across development provides the potential to identify therapeutic strategies to achieve auditory function recovery in FXS.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Auditory hypersensitivity is a prominent symptom in Fragile X syndrome (FXS), the most prevalent monogenic cause of autism and intellectual disability. FXS arises through the loss of the protein encoded by the FMR1 (Fragile X Messenger Ribonucleoprotein 1) gene, FMRP, required for normal neural circuit excitability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41399120/",
+  "mesh_terms": [
+    "Animals",
+    "Fragile X Syndrome",
+    "Mice, Knockout",
+    "Mice",
+    "Epilepsy, Reflex",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Male",
+    "Female",
+    "Evoked Potentials, Auditory, Brain Stem",
+    "Disease Models, Animal",
+    "Acoustic Stimulation",
+    "Auditory Pathways",
+    "Brain Stem",
+    "Mice, Inbred C57BL",
+    "Disease Susceptibility"
+  ],
+  "keywords": [
+    "Fmr1 knockout",
+    "audiogenic seizures",
+    "auditory pathways",
+    "fragile X syndrome",
+    "mice",
+    "neurodevelopmental disorders",
+    "sensory overload"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

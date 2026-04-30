@@ -1,0 +1,40 @@
+{
+  "pmid": "23042585",
+  "doi": "10.1002/ajmg.c.31342",
+  "title": "Cognitive and behavioral aspects of Smith-Lemli-Opitz syndrome",
+  "authors": "Diaz-Stransky A, Tierney E",
+  "journal": "American journal of medical genetics. Part C, Seminars in medical genetics",
+  "date": "2012-10",
+  "source": "pubmed",
+  "abstract": "The brain's high concentrations of cholesterol make it especially vulnerable to the cholesterol biosynthetic defect that characterizes Smith-Lemli-Opitz syndrome (SLOS). An attempt to characterize the cognitive and behavioral phenotype of SLOS has identified increased rates of intellectual disability, language and motor developmental delay, repeated self-injury behaviors, sensory hyperreactivity, hyperactivity, affect dysregulation, and sleep disturbances. Some research has suggested that carriers of the gene mutation that results in SLOS display increased risk of suicidal behavior. Cholesterol dysregulation impairs neuroplasticity, which may be a mechanism underlying some of the mentioned abnormalities. Discrete positive effects have been reported with the use of cholesterol supplementation in the treatment of SLOS. Research has been limited by the small number of subjects available, and a limited understanding of lipid metabolism in the brain. Hopefully future research will help clarify the role that cholesterol plays in cognitive and behavioral abnormalities like the ones associated with SLOS. This would accelerate the development of treatments for SLOS, and perhaps also further understanding of non-syndromic psychiatric disorders such as autism and attention deficit hyperactivity disorder.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The brain's high concentrations of cholesterol make it especially vulnerable to the cholesterol biosynthetic defect that characterizes Smith-Lemli-Opitz syndrome (SLOS). An attempt to characterize the cognitive and behavioral phenotype of SLOS has identified increased rates of intellectual disability, language and motor developmental delay, repeated self-injury behaviors, sensory hyperreactivity, hyperactivity, affect dysregulation, and sleep disturbances.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23042585/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cognition Disorders",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mental Disorders",
+    "Smith-Lemli-Opitz Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

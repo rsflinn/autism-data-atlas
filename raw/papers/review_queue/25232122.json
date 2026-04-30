@@ -1,0 +1,51 @@
+{
+  "pmid": "25232122",
+  "doi": "10.1523/JNEUROSCI.2674-14.2014",
+  "title": "Cell-type-specific repression by methyl-CpG-binding protein 2 is biased toward long genes",
+  "authors": "Sugino K, Hempel CM, Okaty BW, Arnson HA, Kato S, Dani VS, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2014-09",
+  "source": "pubmed",
+  "abstract": "Mutations in methyl-CpG-binding protein 2 (MeCP2) cause Rett syndrome and related autism spectrum disorders (Amir et al., 1999). MeCP2 is believed to be required for proper regulation of brain gene expression, but prior microarray studies in Mecp2 knock-out mice using brain tissue homogenates have revealed only subtle changes in gene expression (Tudor et al., 2002; Nuber et al., 2005; Jordan et al., 2007; Chahrour et al., 2008). Here, by profiling discrete subtypes of neurons we uncovered more dramatic effects of MeCP2 on gene expression, overcoming the \"dilution problem\" associated with assaying homogenates of complex tissues. The results reveal misregulation of genes involved in neuronal connectivity and communication. Importantly, genes upregulated following loss of MeCP2 are biased toward longer genes but this is not true for downregulated genes, suggesting MeCP2 may selectively repress long genes. Because genes involved in neuronal connectivity and communication, such as cell adhesion and cell-cell signaling genes, are enriched among longer genes, their misregulation following loss of MeCP2 suggests a possible etiology for altered circuit function in Rett syndrome.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Mutations in methyl-CpG-binding protein 2 (MeCP2) cause Rett syndrome and related autism spectrum disorders (Amir et al., 1999). MeCP2 is believed to be required for proper regulation of brain gene expression, but prior microarray studies in Mecp2 knock-out mice using brain tissue homogenates have revealed only subtle changes in gene expression (Tudor et al., 2002; Nuber et al., 2005; Jordan et al., 2007; Chahrour et al., 2008).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25232122/",
+  "mesh_terms": [
+    "Animals",
+    "Cell Adhesion",
+    "Cell Communication",
+    "Disease Models, Animal",
+    "Down-Regulation",
+    "Gene Expression Profiling",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Knockout",
+    "Mice, Transgenic",
+    "Neurons",
+    "Oligonucleotide Array Sequence Analysis",
+    "Organ Specificity",
+    "Rett Syndrome"
+  ],
+  "keywords": [
+    "MeCP2",
+    "Rett syndrome",
+    "cell adhesion",
+    "microarray"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

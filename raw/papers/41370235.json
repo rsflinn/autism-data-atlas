@@ -1,0 +1,47 @@
+{
+  "pmid": "41370235",
+  "doi": "10.1093/hmg/ddaf185",
+  "title": "PTEN variant and genetic backgrounds combine to modify cerebellar neuronal differentiation in autism spectrum disorder",
+  "authors": "Chen Y, Fu S, Sit TPH, Wynshaw-Boris A",
+  "journal": "Human molecular genetics",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "Mutations in the PTEN gene have been implicated in autism spectrum disorders (ASD), particularly among individuals with comorbid macrocephaly. In our previous study, we demonstrated that the PTEN p.Ile135Leu variant, in an ASD-related genetic background dependent fashion, disrupts both cortical neurogenesis and gliogenesis. While abnormal cerebellar development is a recognized feature of ASD, the specific cellular targets and timing of disruptions during cerebellar differentiation and development remain poorly understood. To investigate these aspects, we applied our previously established cerebellar organoid protocol and used isogenic human iPSC lines harboring this PTEN-variant. We examined the expression of Purkinje cells, granule cells, interneurons, and glial cells prior to 22&#xa0;weeks of differentiation, assessed genes expression at 8&#xa0;weeks, and evaluated spontaneous spikes activity in Purkinje cells after 11&#xa0;weeks. We observed that cell-type-specific expression patterns differed between the PTEN p.Ile135Leu variant in control versus ASD-genetic backgrounds. However, these background differences were diminished in PTEN knockout lines across both backgrounds. Our single-cell RNA sequencing (scRNA-seq) dataset revealed that the PTEN p.Ile135Leu variant increased the number of interneuron progenitor cells, whereas PTEN knockout led to an expansion of meningeal-like cells in both genetic contexts. Moreover, both the PTEN p.Ile135Leu variant and PTEN knockout abolished spontaneous simple spikes activity in Purkinje cells across both backgrounds, including PTEN-corrected patient-derived lines. Together, these findings provide direct evidence linking PTEN dysfunction and genetic background to altered cerebellar differentiation and neuronal network activity in human cerebellar organoids.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "PTEN"
+  ],
+  "summary": "Mutations in the PTEN gene have been implicated in autism spectrum disorders (ASD), particularly among individuals with comorbid macrocephaly. In our previous study, we demonstrated that the PTEN p.Ile135Leu variant, in an ASD-related genetic background dependent fashion, disrupts both cortical neurogenesis and gliogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41370235/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "PTEN Phosphohydrolase",
+    "Cerebellum",
+    "Cell Differentiation",
+    "Induced Pluripotent Stem Cells",
+    "Neurons",
+    "Purkinje Cells",
+    "Neurogenesis",
+    "Mutation",
+    "Organoids"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Cerebellar organoids",
+    "PTEN variant",
+    "Single cell RNA sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

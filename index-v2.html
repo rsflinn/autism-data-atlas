@@ -294,28 +294,347 @@
     50%      { transform: translateY(-8px); }
   }
 
-  /* ─── Search ─── */
-  .search-section {
-    padding: 32px 0 56px;
-    border-top: 1px solid var(--rule-2);
+  /* ─── Section banding ─── */
+  /* Cream paper sections that break the gradient for visual rhythm */
+  .band-cream {
+    background: #F4EBE0;
+    position: relative;
+    padding: 88px 0;
+    margin-top: 64px;
   }
+  .band-cream::before {
+    /* Soft top transition into the cream band */
+    content: "";
+    position: absolute;
+    top: -48px; left: 0; right: 0;
+    height: 48px;
+    background: linear-gradient(180deg, transparent 0%, #F4EBE0 100%);
+    pointer-events: none;
+  }
+  .band-cream + .band-cream { margin-top: 0; }
+
+  /* Section heading — ombre gradient flowing violet → red → orange across the words */
+  .section-title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(56px, 7vw, 104px);
+    line-height: 0.94;
+    letter-spacing: -0.03em;
+    margin: 0 0 18px;
+    background: linear-gradient(to right,
+      var(--violet) 0%,
+      var(--red) 50%,
+      var(--orange) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    display: inline-block;
+  }
+  .section-title .a,
+  .section-title .b,
+  .section-title .c { color: inherit; }
+  .section-deck {
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: clamp(22px, 1.9vw, 30px);
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 56ch;
+    margin: 0 0 64px;
+  }
+  .band-cream .section-deck { color: var(--ink); }
+  .stats-section .section-title {
+    background: linear-gradient(to right,
+      var(--violet) 0%,
+      var(--red) 50%,
+      var(--orange) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .stats-section .section-deck { color: rgba(255, 255, 255, 0.75); }
+
+  .section-head-row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 48px;
+    flex-wrap: wrap;
+  }
+
+  /* ─── Search section — much bigger, more confident ─── */
+  .search-section {
+    padding: 88px 0 96px;
+    background: #F4EBE0;
+    margin-top: 0;
+  }
+  .search-upper {
+    display: block;
+    margin-bottom: 48px;
+  }
+  .search-upper .search-text { max-width: 56ch; }
+  .search-upper .section-deck { margin-bottom: 36px; }
+
+  /* ─── Knowledge graph — full-width, interactive (d3 force simulation) ─── */
+  .atlas-graph {
+    width: 100%;
+    height: 640px;
+    position: relative;
+    background: linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0.0) 100%);
+    border-radius: 18px;
+    overflow: hidden;
+    cursor: grab;
+  }
+  .atlas-graph:active { cursor: grabbing; }
+  @media (max-width: 760px) { .atlas-graph { height: 480px; } }
+
+  .atlas-graph .graph-controls {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 5;
+    display: flex;
+    gap: 6px;
+  }
+  .atlas-graph .graph-btn {
+    background: rgba(255,255,255,0.85);
+    border: 1px solid rgba(31, 42, 54, 0.12);
+    border-radius: 999px;
+    padding: 8px 14px;
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+    cursor: pointer;
+    transition: background .2s, color .2s;
+  }
+  .atlas-graph .graph-btn:hover { background: #FFFFFF; color: var(--ink); }
+  .atlas-graph .graph-hint {
+    position: absolute;
+    bottom: 14px;
+    left: 18px;
+    z-index: 5;
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+    pointer-events: none;
+  }
+  .atlas-graph svg {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    cursor: default;
+  }
+  .atlas-graph .edge {
+    stroke: rgba(31, 42, 54, 0.42);
+    fill: none;
+    stroke-width: 1.1;
+    transition: stroke .2s ease, stroke-opacity .2s ease, stroke-width .2s ease;
+  }
+  .atlas-graph .edge.highlight {
+    stroke: var(--ink);
+    stroke-opacity: 0.9;
+    stroke-width: 1.8;
+  }
+  .atlas-graph .node-paper {
+    cursor: pointer;
+    transform-origin: center;
+    transform-box: fill-box;
+    transition: transform .2s ease, filter .2s ease;
+  }
+  .atlas-graph .node-paper:hover {
+    transform: scale(1.8);
+    filter: drop-shadow(0 4px 10px rgba(31, 42, 54, 0.3));
+  }
+  .atlas-graph .node-paper { cursor: pointer; }
+
+  /* Gene anchor nodes — colored per cluster, white-bordered */
+  .atlas-graph .node-gene {
+    stroke: #F4EBE0;
+    stroke-width: 2.5;
+    cursor: pointer;
+    transition: stroke .2s ease, transform .2s ease;
+    transform-origin: center;
+    transform-box: fill-box;
+  }
+  .atlas-graph .node-gene:hover {
+    stroke: #FFFFFF;
+    stroke-width: 3.5;
+    transform: scale(1.12);
+  }
+  .atlas-graph .gene-text {
+    font-family: var(--sans);
+    font-weight: 800;
+    fill: #FFFFFF;
+    text-anchor: middle;
+    pointer-events: none;
+    paint-order: stroke;
+    stroke: rgba(31, 42, 54, 0.85);
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  /* Track-cluster labels — large, in the track's own color */
+  .atlas-graph .track-label {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    pointer-events: none;
+  }
+  .atlas-graph .track-label-count {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.7;
+  }
+  /* Gene labels — small, sit between paper dots */
+  .atlas-graph .gene-label {
+    font-family: var(--sans);
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    fill: var(--ink);
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  /* Tooltip floating above hovered node */
+  .graph-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--ink);
+    color: #FFFFFF;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-family: var(--sans);
+    font-size: 13px;
+    line-height: 1.4;
+    max-width: 260px;
+    box-shadow: 0 8px 24px rgba(31, 42, 54, 0.25);
+    opacity: 0;
+    transform: translate(-50%, -100%);
+    transition: opacity .15s ease;
+    z-index: 10;
+  }
+  .graph-tooltip.show { opacity: 1; }
+  .graph-tooltip .tt-meta {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.55);
+    margin-bottom: 4px;
+    display: block;
+  }
+  .graph-tooltip .tt-title { font-weight: 500; }
+  .graph-tooltip .tt-genes {
+    margin-top: 6px;
+    font-size: 11px;
+    color: var(--orange);
+    letter-spacing: 0.06em;
+  }
+
+  /* Graph legend / caption */
+  .atlas-graph-caption {
+    margin-top: 24px;
+    font-family: var(--sans);
+    font-size: 17px;
+    font-weight: 500;
+    color: var(--ink);
+    display: flex;
+    align-items: center;
+    gap: 28px;
+    flex-wrap: wrap;
+  }
+  .atlas-graph-caption .legend-dot {
+    display: inline-block;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    margin-right: 10px;
+    vertical-align: -1px;
+  }
+  .atlas-graph-caption .key-1 { background: #9B5BA0; } /* Genetics */
+  .atlas-graph-caption .key-2 { background: #C2516B; } /* Mechanism */
+  .atlas-graph-caption .key-3 { background: #E94835; } /* Phenotype */
+  .atlas-graph-caption .key-4 { background: #E76540; } /* Diagnosis */
+  .atlas-graph-caption .key-5 { background: #E5824A; } /* Treatment */
+  .atlas-graph-caption em {
+    font-style: italic;
+    font-family: var(--serif);
+    color: var(--ink-2);
+    font-size: clamp(18px, 1.5vw, 22px);
+    line-height: 1.45;
+    display: block;
+    flex-basis: 100%;
+    margin-top: 12px;
+    max-width: 64ch;
+  }
+
+  /* Stage axis along the bottom of the graph */
+  .stage-axis {
+    position: absolute;
+    bottom: 38px;
+    left: 0; right: 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    pointer-events: none;
+    padding: 0 24px;
+    z-index: 4;
+  }
+  .stage-axis .stage-tick {
+    text-align: center;
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .stage-axis .stage-tick .arrow {
+    display: block;
+    font-size: 9px;
+    margin-top: 4px;
+    color: var(--ink-3);
+    opacity: 0.5;
+    letter-spacing: 0.06em;
+  }
+  .stage-axis .stage-tick:first-child .arrow::before { content: "← less verified"; }
+  .stage-axis .stage-tick:last-child  .arrow::before { content: "more verified →"; }
+  .stage-axis .stage-tick:not(:first-child):not(:last-child) .arrow { visibility: hidden; }
   .search-bar {
     display: grid;
     grid-template-columns: 1fr auto;
     align-items: stretch;
-    background: rgba(255, 255, 255, 0.45);
-    border: 1px solid var(--rule);
+    background: #FFFFFF;
+    border: 1.5px solid rgba(31, 42, 54, 0.18);
     border-radius: 999px;
     overflow: hidden;
-    backdrop-filter: blur(4px);
+    box-shadow: 0 6px 24px rgba(31, 42, 54, 0.06);
+    transition: border-color .2s ease, box-shadow .2s ease;
+  }
+  .search-bar:focus-within {
+    border-color: var(--ink);
+    box-shadow: 0 8px 32px rgba(31, 42, 54, 0.10);
   }
   .search-bar input {
     background: transparent;
     border: 0;
     outline: 0;
-    padding: 18px 28px;
+    padding: 28px 40px;
     font-family: var(--sans);
-    font-size: 16px;
+    font-weight: 400;
+    font-size: clamp(18px, 1.6vw, 22px);
     color: var(--ink);
   }
   .search-bar input::placeholder {
@@ -324,14 +643,14 @@
   .search-bar button.go {
     border: 0;
     background: var(--ink);
-    color: var(--paper);
+    color: #FFFFFF;
     font-family: var(--sans);
-    font-weight: 500;
+    font-weight: 600;
     font-size: 14px;
-    letter-spacing: 0.04em;
-    padding: 0 32px;
+    letter-spacing: 0.06em;
+    padding: 0 40px;
     border-radius: 999px;
-    margin: 4px;
+    margin: 6px;
     transition: background .2s ease;
   }
   .search-bar button.go:hover { background: #2a3641; }
@@ -340,208 +659,377 @@
     display: flex;
     align-items: center;
     gap: 18px;
-    margin-top: 14px;
+    margin-top: 24px;
     flex-wrap: wrap;
   }
   .filter-chips {
     display: flex;
     flex-wrap: wrap;
-    gap: 6px;
+    gap: 8px;
   }
   .chip {
     font-family: var(--sans);
-    font-size: 12px;
-    font-weight: 500;
+    font-size: 13px;
+    font-weight: 600;
     letter-spacing: 0.04em;
     color: var(--ink-2);
     background: transparent;
-    border: 1px solid var(--rule);
-    padding: 6px 12px;
+    border: 1.5px solid rgba(31, 42, 54, 0.18);
+    padding: 8px 16px;
     border-radius: 999px;
     transition: all .2s ease;
   }
   .chip:hover { border-color: var(--ink); color: var(--ink); }
   .chip.active {
     background: var(--ink);
-    color: var(--paper);
+    color: #FFFFFF;
     border-color: var(--ink);
   }
 
   .examples {
     display: flex;
     align-items: baseline;
-    gap: 10px;
+    gap: 14px 16px;
     flex-wrap: wrap;
-    margin-top: 14px;
+    margin-top: 24px;
   }
   .examples-label {
     font-family: var(--sans);
-    font-size: 11px;
-    font-weight: 600;
+    font-size: 12px;
+    font-weight: 700;
     letter-spacing: 0.18em;
     text-transform: uppercase;
     color: var(--ink-3);
   }
   .ex {
     font-family: var(--sans);
-    font-size: 13px;
-    color: var(--ink-2);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--ink);
     background: transparent;
     border: 0;
-    padding: 2px 0;
-    border-bottom: 1px dashed var(--rule);
+    padding: 4px 0;
+    border-bottom: 1.5px solid rgba(155, 91, 160, 0.4);
     transition: color .2s ease, border-color .2s ease;
   }
   .ex:hover { color: var(--red); border-bottom-color: var(--red); }
 
-  /* ─── Latest additions ─── */
-  .latest {
-    padding: 24px 0 56px;
+  /* ─── Knowledge graph section ─── */
+  .graph-section {
+    background: #F4EBE0;
+    padding: 96px 0 112px;
   }
-  .section-head {
+
+  /* ─── Browse by topic — colored cards in violet→orange ombre ─── */
+  .topics-section {
+    padding: 96px 0 112px;
+    background: linear-gradient(180deg, #F4EBE0 0%, #EBDFD0 100%);
+  }
+  .topics-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 1280px) {
+    .topics-grid { grid-template-columns: repeat(3, 1fr); }
+    .topics-grid > :nth-child(4) { grid-column: 1 / 3; }
+    .topics-grid > :nth-child(5) { grid-column: 3 / 4; }
+  }
+  @media (max-width: 760px) {
+    .topics-grid { grid-template-columns: repeat(2, 1fr); }
+    .topics-grid > :nth-child(4),
+    .topics-grid > :nth-child(5) { grid-column: auto; }
+  }
+  @media (max-width: 520px) { .topics-grid { grid-template-columns: 1fr; } }
+
+  .topic-card {
+    border: 0;
+    padding: 36px 28px 28px;
+    border-radius: 22px;
     display: flex;
-    align-items: baseline;
-    justify-content: space-between;
-    margin-bottom: 22px;
-    border-bottom: 1px solid var(--rule);
-    padding-bottom: 12px;
+    flex-direction: column;
+    gap: 16px;
+    min-height: 320px;
+    text-decoration: none;
+    color: #FFFFFF;
+    transition: transform .25s ease, box-shadow .25s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 6px 20px rgba(31, 42, 54, 0.08);
   }
-  .section-head h2 {
+  .topic-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 22px 40px rgba(31, 42, 54, 0.18);
+  }
+  /* 5-step ombre: violet → violet/red blend → red → red/orange blend → orange */
+  .topic-card:nth-child(1) { background: linear-gradient(135deg, #9B5BA0 0%, #7B4682 100%); }
+  .topic-card:nth-child(2) { background: linear-gradient(135deg, #C2516B 0%, #9F4055 100%); }
+  .topic-card:nth-child(3) { background: linear-gradient(135deg, #E94835 0%, #BC3729 100%); }
+  .topic-card:nth-child(4) { background: linear-gradient(135deg, #E76540 0%, #C45034 100%); }
+  .topic-card:nth-child(5) { background: linear-gradient(135deg, #E5824A 0%, #C26C3C 100%); }
+
+  /* Decorative gradient blob in the corner of each card for visual richness */
+  .topic-card::after {
+    content: "";
+    position: absolute;
+    top: -40%; right: -30%;
+    width: 70%; height: 100%;
+    background: radial-gradient(circle, rgba(255, 255, 255, 0.18) 0%, rgba(255, 255, 255, 0) 60%);
+    pointer-events: none;
+    transition: transform .4s ease;
+  }
+  .topic-card:hover::after {
+    transform: translate(-12px, 12px) scale(1.05);
+  }
+
+  .topic-card .icon {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 8px;
+    position: relative;
+    z-index: 1;
+  }
+  .topic-card .icon svg {
+    width: 100%;
+    height: 100%;
+    stroke: #FFFFFF;
+  }
+  .topic-card h3 {
     font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(28px, 2.4vw, 36px);
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    color: #FFFFFF;
+    position: relative;
+    z-index: 1;
+  }
+  .topic-card p {
+    font-family: var(--sans);
+    font-size: clamp(16px, 1.2vw, 18px);
+    font-weight: 400;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.92);
+    margin-top: 0;
+    position: relative;
+    z-index: 1;
+  }
+  .topic-card .read-more {
+    margin-top: auto;
+    font-family: var(--sans);
+    font-size: 13px;
     font-weight: 700;
-    font-size: 22px;
-    letter-spacing: -0.005em;
-    color: var(--ink);
-    display: flex;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.85);
+    transition: color .2s ease, transform .2s ease;
+    padding-top: 12px;
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
     align-items: center;
-    gap: 10px;
+    gap: 6px;
+  }
+  .topic-card:hover .read-more {
+    color: #FFFFFF;
+    transform: translateX(4px);
+  }
+
+  /* ─── Latest additions — magazine layout (1 featured + 3 stack) ─── */
+  .latest {
+    padding: 96px 0 64px;
+    background: linear-gradient(180deg, #EBDFD0 0%, #DFD4C5 100%);
   }
   .pulse {
     display: inline-block;
-    width: 7px; height: 7px;
+    width: 12px; height: 12px;
     border-radius: 50%;
     background: var(--red);
-    box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.6);
+    box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.5);
     animation: pulse 2.4s ease-in-out infinite;
+    vertical-align: 0.05em;
+    margin-right: 14px;
   }
   @keyframes pulse {
-    0%, 100% { box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.4); }
-    50%      { box-shadow: 0 0 0 8px rgba(233, 72, 53, 0); }
+    0%, 100% { box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.5); }
+    50%      { box-shadow: 0 0 0 14px rgba(233, 72, 53, 0); }
   }
-  .section-head a.more {
+  .more-link {
     font-family: var(--sans);
-    font-size: 12px;
-    font-weight: 500;
-    letter-spacing: 0.06em;
-    color: var(--ink-2);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
     text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 4px;
+    transition: color .2s ease, border-color .2s ease;
   }
-  .section-head a.more:hover { color: var(--red); }
+  .more-link:hover { color: var(--red); border-bottom-color: var(--red); }
 
-  .feed-cards {
+  .feed-magazine {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 16px;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 24px;
   }
-  @media (max-width: 1024px) {
-    .feed-cards { grid-template-columns: repeat(2, 1fr); }
-  }
-  @media (max-width: 600px) {
-    .feed-cards { grid-template-columns: 1fr; }
+  @media (max-width: 980px) { .feed-magazine { grid-template-columns: 1fr; } }
+
+  .feed-secondary {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
   }
 
   .card {
-    background: rgba(255, 255, 255, 0.45);
-    border: 1px solid var(--rule-2);
-    padding: 18px 18px 16px;
-    border-radius: 14px;
+    background: #FFFFFF;
+    border: 1.5px solid rgba(31, 42, 54, 0.08);
+    padding: 24px;
+    border-radius: 16px;
     display: flex;
     flex-direction: column;
-    gap: 10px;
-    min-height: 160px;
-    transition: background .2s ease, border-color .2s ease, transform .2s ease;
+    gap: 14px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
     cursor: pointer;
   }
   .card:hover {
-    background: rgba(255, 255, 255, 0.7);
-    border-color: var(--rule);
     transform: translateY(-2px);
+    border-color: rgba(31, 42, 54, 0.20);
+    box-shadow: 0 14px 32px rgba(31, 42, 54, 0.06);
+  }
+  .card.featured {
+    padding: 36px 36px 32px;
+    border-radius: 22px;
+    grid-row: span 3;
+    min-height: 360px;
+    background: linear-gradient(135deg, #FFFFFF 0%, #FAF1E5 100%);
+    border-color: rgba(229, 130, 74, 0.25);
   }
   .card-meta {
     display: flex;
     justify-content: space-between;
     align-items: baseline;
     font-family: var(--sans);
-    font-size: 11px;
-    font-weight: 500;
-    letter-spacing: 0.06em;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
     text-transform: uppercase;
     color: var(--ink-3);
   }
-  .card-meta .journal { color: var(--ink-2); }
+  .card-meta .journal { color: var(--red); }
+  .card.featured .card-meta { font-size: 14px; }
   .card-title {
     font-family: var(--serif);
-    font-weight: 700;
-    font-size: 17px;
-    line-height: 1.18;
+    font-weight: 800;
+    font-size: clamp(22px, 1.8vw, 28px);
+    line-height: 1.12;
+    letter-spacing: -0.01em;
     color: var(--ink);
     display: -webkit-box;
-    -webkit-line-clamp: 3;
+    -webkit-line-clamp: 4;
     -webkit-box-orient: vertical;
     overflow: hidden;
   }
+  .card.featured .card-title {
+    font-size: clamp(32px, 3.2vw, 48px);
+    line-height: 1.04;
+    -webkit-line-clamp: 5;
+  }
+  .card-summary {
+    font-family: var(--sans);
+    font-size: clamp(17px, 1.3vw, 20px);
+    line-height: 1.5;
+    color: var(--ink-2);
+    margin-top: 4px;
+    display: none;
+  }
+  .card.featured .card-summary { display: block; }
   .card-tags {
     margin-top: auto;
     display: flex;
     flex-wrap: wrap;
-    gap: 4px;
+    gap: 6px;
   }
   .tag {
     font-family: var(--sans);
-    font-size: 10px;
-    font-weight: 600;
-    letter-spacing: 0.08em;
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.10em;
     color: var(--orange);
-    border: 1px solid rgba(229, 130, 74, 0.4);
-    padding: 2px 6px;
-    border-radius: 4px;
+    background: rgba(229, 130, 74, 0.12);
+    border: 1px solid rgba(229, 130, 74, 0.30);
+    padding: 4px 10px;
+    border-radius: 6px;
+  }
+  .card.featured .read-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink);
+    margin-top: 4px;
   }
 
-  /* ─── Stats ─── */
+  /* ─── Stats — display-scale, tri-color numbers ─── */
+  .stats-section {
+    background: #1F2A36;
+    padding: 96px 0;
+    color: #FFFFFF;
+  }
+  .stats-section .section-title { color: #FFFFFF; }
+  .stats-section .section-deck { color: rgba(255, 255, 255, 0.65); }
   .stats {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
-    border-top: 1px solid var(--rule);
-    padding: 32px 0 36px;
-    gap: 0;
+    gap: 36px 24px;
+    margin-top: 24px;
   }
-  @media (max-width: 760px) {
-    .stats { grid-template-columns: repeat(2, 1fr); gap: 18px; }
-  }
+  @media (max-width: 980px) { .stats { grid-template-columns: repeat(2, 1fr); } }
   .stat {
-    padding: 0 24px;
-    border-left: 1px solid var(--rule-2);
     display: flex;
     flex-direction: column;
-    gap: 6px;
+    gap: 12px;
+    padding-top: 24px;
+    border-top: 2px solid rgba(255, 255, 255, 0.18);
   }
-  .stat:first-child { border-left: 0; padding-left: 0; }
   .stat .num {
     font-family: var(--serif);
-    font-weight: 700;
-    font-size: clamp(36px, 4vw, 52px);
-    line-height: 1;
-    letter-spacing: -0.02em;
-    color: var(--ink);
+    font-weight: 800;
+    font-size: clamp(72px, 9vw, 144px);
+    line-height: 0.92;
+    letter-spacing: -0.04em;
   }
-  .stat .num .unit { font-size: 0.55em; font-weight: 600; color: var(--ink-2); margin-left: 2px; }
+  .stat:nth-child(1) .num { color: var(--violet); }
+  .stat:nth-child(2) .num { color: var(--red); }
+  .stat:nth-child(3) .num { color: var(--orange); }
+  .stat:nth-child(4) .num { color: #FFFFFF; }
+  .stat .num .unit {
+    font-size: 0.45em;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 4px;
+    letter-spacing: 0;
+  }
   .stat .lbl {
     font-family: var(--sans);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.14em;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
     text-transform: uppercase;
-    color: var(--ink-2);
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .stat .sub {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.55);
+    line-height: 1.4;
   }
 
   /* ─── Menu button (top-right, fixed) ─── */
@@ -651,9 +1139,10 @@
 
   /* ─── Footer ─── */
   footer {
-    border-top: 1px solid var(--rule);
-    padding: 28px 0 36px;
-    margin-top: 24px;
+    background: #1F2A36;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    padding: 36px 0 48px;
+    color: #FFFFFF;
   }
   .foot-row {
     display: flex;
@@ -664,27 +1153,27 @@
   }
   .credit {
     font-family: var(--sans);
-    font-size: 12px;
+    font-size: 13px;
     font-weight: 400;
-    color: var(--ink-2);
+    color: rgba(255, 255, 255, 0.6);
     max-width: 64ch;
     line-height: 1.6;
   }
   .foot-links {
     list-style: none;
     display: flex;
-    gap: 22px;
+    gap: 24px;
   }
   .foot-links a {
     font-family: var(--sans);
-    font-size: 11px;
-    font-weight: 600;
-    letter-spacing: 0.14em;
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: var(--ink-2);
+    color: rgba(255, 255, 255, 0.7);
     transition: color .2s ease;
   }
-  .foot-links a:hover { color: var(--red); }
+  .foot-links a:hover { color: var(--orange); }
 </style>
 </head>
 <body>
@@ -734,8 +1223,15 @@
     </div>
   </section>
 
+  <!-- ─── Search ─── -->
   <section class="search-section">
     <div class="container">
+      <div class="search-upper">
+        <div class="search-text">
+          <h2 class="section-title">Search the atlas.</h2>
+          <p class="section-deck">Every study, gene, dataset and finding in one place. Search by question, topic, or term — in plain language.</p>
+        </div>
+      </div>
       <form class="search-bar" id="searchForm" autocomplete="off">
         <input id="searchInput" type="text" placeholder="Search studies, genes, datasets, findings…">
         <button type="submit" class="go">Search</button>
@@ -760,28 +1256,179 @@
     </div>
   </section>
 
-  <section class="latest">
+  <!-- ─── Knowledge graph: Autism, by the genes ─── -->
+  <section class="graph-section">
     <div class="container">
-      <div class="section-head">
-        <h2><span class="pulse"></span>Recently added</h2>
-        <a href="#research" class="more">All research →</a>
+      <h2 class="section-title">Autism, by the genes.</h2>
+      <p class="section-deck">Every dot below is a study. Every labeled disc is a gene. Lines connect studies to the genes they investigate. The bigger the disc, the more research has accumulated around that gene.</p>
+      <div class="atlas-graph" id="atlasGraph">
+        <svg id="kgSvg" role="img" aria-label="Interactive knowledge graph of indexed autism studies anchored by the genes they investigate">
+          <g id="kgRoot">
+            <g id="kgEdges"></g>
+            <g id="kgNodes"></g>
+            <g id="kgLabels"></g>
+          </g>
+        </svg>
+        <div class="graph-controls">
+          <button class="graph-btn" id="kgReset" type="button">Reset</button>
+        </div>
+        <div class="graph-hint">Drag a node · scroll to zoom · click a study to open</div>
+        <div class="graph-tooltip" id="kgTooltip"></div>
       </div>
-      <div class="feed-cards" id="feedCards">
-        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
-        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
-        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
-        <div class="card"><div class="card-meta"><span class="journal">Loading…</span></div><div class="card-title">&nbsp;</div></div>
+      <div class="atlas-graph-caption">
+        <span><span class="legend-dot key-1"></span>Genetics &amp; cause</span>
+        <span><span class="legend-dot key-2"></span>Mechanism</span>
+        <span><span class="legend-dot key-3"></span>Phenotype &amp; symptoms</span>
+        <span><span class="legend-dot key-4"></span>Diagnosis</span>
+        <span><span class="legend-dot key-5"></span>Treatment</span>
+        <em id="graphCount">Genes sit at the centre. Studies orbit the genes they investigate.</em>
       </div>
     </div>
   </section>
 
-  <section>
+  <!-- ─── Browse by topic ─── -->
+  <section class="topics-section">
     <div class="container">
+      <h2 class="section-title"><span class="a">Where</span> <span class="b">to</span> <span class="c">begin.</span></h2>
+      <p class="section-deck">Six places to start. Each is a doorway into the science behind a question parents, journalists and researchers ask most often.</p>
+
+      <div class="topics-grid">
+        <a href="#topic-inheritance" class="topic-card" data-color="violet">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="14" cy="14" r="6"/>
+              <circle cx="42" cy="14" r="6"/>
+              <circle cx="28" cy="42" r="6"/>
+              <line x1="18" y1="20" x2="25" y2="36"/>
+              <line x1="38" y1="20" x2="31" y2="36"/>
+              <line x1="20" y1="14" x2="36" y2="14"/>
+            </svg>
+          </div>
+          <h3>How autism is inherited</h3>
+          <p>What twin studies, family histories and genome-wide research show about the role of genes passed from parent to child.</p>
+          <span class="read-more">Read more →</span>
+        </a>
+
+        <a href="#topic-development" class="topic-card" data-color="red">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M28 48 V20"/>
+              <path d="M28 32 C20 28 14 24 14 14"/>
+              <path d="M28 26 C36 22 42 18 42 8"/>
+              <path d="M28 38 C22 34 18 30 18 22"/>
+              <circle cx="14" cy="14" r="3"/>
+              <circle cx="42" cy="8" r="3"/>
+              <circle cx="18" cy="22" r="2"/>
+            </svg>
+          </div>
+          <h3>Brain development</h3>
+          <p>How the brain wires itself before and after birth — and where that process diverges in autistic brains.</p>
+          <span class="read-more">Read more →</span>
+        </a>
+
+        <a href="#topic-common" class="topic-card" data-color="violet">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="28" cy="28" r="3"/>
+              <circle cx="14" cy="14" r="2"/>
+              <circle cx="42" cy="14" r="2"/>
+              <circle cx="14" cy="42" r="2"/>
+              <circle cx="42" cy="42" r="2"/>
+              <circle cx="28" cy="10" r="2"/>
+              <circle cx="28" cy="46" r="2"/>
+              <circle cx="10" cy="28" r="2"/>
+              <circle cx="46" cy="28" r="2"/>
+              <line x1="28" y1="28" x2="14" y2="14"/>
+              <line x1="28" y1="28" x2="42" y2="14"/>
+              <line x1="28" y1="28" x2="14" y2="42"/>
+              <line x1="28" y1="28" x2="42" y2="42"/>
+              <line x1="28" y1="28" x2="28" y2="10"/>
+              <line x1="28" y1="28" x2="28" y2="46"/>
+            </svg>
+          </div>
+          <h3>Common vs. rare causes</h3>
+          <p>Most autism risk comes from many small inherited changes. Some cases trace to a single rare mutation. Both shape the brain.</p>
+          <span class="read-more">Read more →</span>
+        </a>
+
+        <a href="#topic-data" class="topic-card" data-color="red">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="10" y="14" width="36" height="28" rx="3"/>
+              <line x1="10" y1="22" x2="46" y2="22"/>
+              <line x1="22" y1="14" x2="22" y2="42"/>
+              <line x1="34" y1="14" x2="34" y2="42"/>
+              <line x1="10" y1="32" x2="46" y2="32"/>
+            </svg>
+          </div>
+          <h3>Open the data</h3>
+          <p>Public datasets anyone can analyze — with code, tutorials, and access guides. Run the same studies the scientists do.</p>
+          <span class="read-more">Read more →</span>
+        </a>
+
+        <a href="#topic-unknown" class="topic-card" data-color="orange">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 20 C20 12 36 12 36 20 C36 26 28 26 28 32"/>
+              <line x1="28" y1="38" x2="28" y2="40"/>
+              <circle cx="28" cy="28" r="22"/>
+            </svg>
+          </div>
+          <h3>What's still unknown</h3>
+          <p>The questions science hasn't answered yet — and the next round of studies trying to.</p>
+          <span class="read-more">Read more →</span>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── Recently added ─── -->
+  <section class="latest">
+    <div class="container">
+      <div class="section-head-row">
+        <div>
+          <h2 class="section-title"><span class="pulse"></span><span class="a">Recently</span> <span class="b">added.</span></h2>
+          <p class="section-deck">New studies and preprints, indexed daily from peer-reviewed journals and preprint servers.</p>
+        </div>
+        <a href="#research" class="more-link">All research →</a>
+      </div>
+      <div class="feed-magazine" id="feedMagazine">
+        <a class="card featured" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+        <div class="feed-secondary">
+          <a class="card" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+          <a class="card" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+          <a class="card" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ─── Stats ─── -->
+  <section class="stats-section">
+    <div class="container">
+      <h2 class="section-title"><span class="a">The</span> <span class="b">atlas,</span> <span class="c">today.</span></h2>
+      <p class="section-deck">A live count of what's inside, updated as new studies and datasets are indexed.</p>
       <div class="stats" id="stats">
-        <div class="stat"><span class="num" data-target="56">0</span><span class="lbl">Studies indexed</span></div>
-        <div class="stat"><span class="num" data-target="13">0</span><span class="lbl">Datasets cataloged</span></div>
-        <div class="stat"><span class="num" data-target="49">0</span><span class="lbl">Genes profiled</span></div>
-        <div class="stat"><span class="num" data-target="2.37" data-suffix="M">0</span><span class="lbl">Variants annotated</span></div>
+        <div class="stat">
+          <span class="num" data-target="56">0</span>
+          <span class="lbl">Studies indexed</span>
+          <span class="sub">Peer-reviewed papers and preprints</span>
+        </div>
+        <div class="stat">
+          <span class="num" data-target="13">0</span>
+          <span class="lbl">Datasets cataloged</span>
+          <span class="sub">Public sources, with code to use them</span>
+        </div>
+        <div class="stat">
+          <span class="num" data-target="49">0</span>
+          <span class="lbl">Genes profiled</span>
+          <span class="sub">Each tied to evidence and findings</span>
+        </div>
+        <div class="stat">
+          <span class="num" data-target="2.37" data-suffix="M">0</span>
+          <span class="lbl">Variants annotated</span>
+          <span class="sub">DNA changes mapped to function</span>
+        </div>
       </div>
     </div>
   </section>
@@ -801,10 +1448,13 @@
 </footer>
 
 <script src="papers_feed.js"></script>
+<script src="knowledge_graph.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
 <script>
   // ─── Latest-additions feed ───
   (function feed() {
-    const host = document.getElementById('feedCards');
+    const host = document.getElementById('feedMagazine');
+    if (!host) return;
     if (!window.PAPERS_FEED || !Array.isArray(window.PAPERS_FEED.papers)) return;
 
     // Cap displayed dates at the feed's last_updated so PubMed
@@ -847,18 +1497,40 @@
     }
 
     host.innerHTML = '';
-    papers.forEach(p => {
+
+    // First paper — featured card with summary + read link
+    const featured = papers[0];
+    if (featured) {
+      const fcard = document.createElement('a');
+      fcard.className = 'card featured';
+      fcard.href = featured.url || '#research';
+      if (featured.url) { fcard.target = '_blank'; fcard.rel = 'noopener'; }
+      const ftags = (Array.isArray(featured.genes_mentioned) ? featured.genes_mentioned : [])
+        .slice(0, 3).map(g => `<span class="tag">${g}</span>`).join('');
+      fcard.innerHTML = `
+        <div class="card-meta">
+          <span class="journal">${shortJ(featured.journal)}</span>
+          <span class="date">${fmtDate(displayDate(featured.date))}</span>
+        </div>
+        <div class="card-title">${featured.title || ''}</div>
+        ${featured.summary ? `<div class="card-summary">${featured.summary}</div>` : ''}
+        <div class="card-tags">${ftags}</div>
+        <span class="read-link">Read the study →</span>
+      `;
+      host.appendChild(fcard);
+    }
+
+    // Secondary cards — three smaller in a stack
+    const secondary = document.createElement('div');
+    secondary.className = 'feed-secondary';
+    papers.slice(1, 4).forEach(p => {
       const card = document.createElement('a');
       card.className = 'card';
       card.href = p.url || '#research';
       if (p.url) { card.target = '_blank'; card.rel = 'noopener'; }
       card.title = p.summary || p.title || '';
-
       const tagsHtml = (Array.isArray(p.genes_mentioned) ? p.genes_mentioned : [])
-        .slice(0, 2)
-        .map(g => `<span class="tag">${g}</span>`)
-        .join('');
-
+        .slice(0, 2).map(g => `<span class="tag">${g}</span>`).join('');
       card.innerHTML = `
         <div class="card-meta">
           <span class="journal">${shortJ(p.journal)}</span>
@@ -867,8 +1539,9 @@
         <div class="card-title">${p.title || ''}</div>
         <div class="card-tags">${tagsHtml}</div>
       `;
-      host.appendChild(card);
+      secondary.appendChild(card);
     });
+    host.appendChild(secondary);
   })();
 
   // ─── Animated stat counters ───
@@ -918,6 +1591,244 @@
       input.focus();
     });
   });
+
+  // ─── Knowledge graph: d3 force simulation, drag + zoom + tooltip ───
+  (function knowledgeGraph() {
+    const data = window.KNOWLEDGE_GRAPH;
+    if (!data || typeof d3 === 'undefined') return;
+
+    const wrap     = document.getElementById('atlasGraph');
+    const svgEl    = document.getElementById('kgSvg');
+    const tooltip  = document.getElementById('kgTooltip');
+    const resetBtn = document.getElementById('kgReset');
+    const countEl  = document.getElementById('graphCount');
+    if (!svgEl || !wrap) return;
+
+    if (countEl) {
+      countEl.textContent =
+        `${data.meta.shown_papers} studies linked to ${data.meta.shown_genes} genes. Drag a node to move it, scroll to zoom, click a study to open the source.`;
+    }
+
+    // Sizing — read the wrap's actual size for the simulation canvas
+    function getSize() {
+      const r = wrap.getBoundingClientRect();
+      return { w: r.width, h: r.height };
+    }
+    const initial = getSize();
+
+    const svg = d3.select(svgEl)
+      .attr('viewBox', `0 0 ${initial.w} ${initial.h}`)
+      .attr('width',   initial.w)
+      .attr('height',  initial.h);
+
+    const root = d3.select('#kgRoot');
+    const gEdges  = d3.select('#kgEdges');
+    const gNodes  = d3.select('#kgNodes');
+    const gLabels = d3.select('#kgLabels');
+
+    // Make working copies (d3 mutates these with x/y/vx/vy)
+    const nodes = data.nodes.map(n => ({ ...n }));
+    const edges = data.edges.map(e => ({ source: e.a, target: e.b }));
+
+    // Helpers — gene radius scales with paper-count, paper radius with relevance
+    const maxGeneCount = Math.max(...nodes.filter(n => n.kind === 'gene').map(n => n.count || 1));
+    function geneRadius(d) {
+      // 14px floor, 36px ceiling. log scale so the hub genes don't dwarf everything.
+      const t = Math.log(1 + (d.count || 1)) / Math.log(1 + maxGeneCount);
+      return 14 + t * 22;
+    }
+    function paperRadius(d) {
+      return 3 + Math.min((d.score || 14) * 0.12, 4);
+    }
+    function nodeRadius(d) {
+      return d.kind === 'gene' ? geneRadius(d) : paperRadius(d);
+    }
+
+    // Render edges (paper → gene links). Default styling is in CSS.
+    const link = gEdges.selectAll('line')
+      .data(edges)
+      .enter()
+      .append('line')
+        .attr('class', 'edge');
+
+    // Render PAPER dots first (so genes draw on top)
+    const paperNodes = nodes.filter(n => n.kind === 'paper');
+    const geneNodes  = nodes.filter(n => n.kind === 'gene');
+
+    const paperSel = gNodes.selectAll('circle.paper')
+      .data(paperNodes, d => d.i)
+      .enter()
+      .append('circle')
+        .attr('class', 'node-paper')
+        .attr('fill', d => d.color || '#9B5BA0')
+        .attr('r', d => paperRadius(d));
+
+    // Render GENE nodes — colored per cluster, with text label
+    const geneG = gLabels.selectAll('g.gene-group')
+      .data(geneNodes, d => d.i)
+      .enter()
+      .append('g')
+        .attr('class', 'gene-group');
+
+    geneG.append('circle')
+      .attr('class', 'node-gene')
+      .attr('fill', d => d.color || '#1F2A36')
+      .attr('r', d => geneRadius(d));
+
+    geneG.append('text')
+      .attr('class', 'gene-text')
+      .attr('dy', '0.35em')
+      .attr('font-size', d => Math.max(9, geneRadius(d) * 0.42))
+      .text(d => d.gene);
+
+    // Force simulation — tightened for compact, in-viewport layout
+    //   - link force pulls papers toward the genes they study
+    //   - reduced charge keeps the graph compact
+    //   - center anchors everything
+    //   - collision keeps nodes from overlapping
+    const sim = d3.forceSimulation(nodes)
+      .force('link',    d3.forceLink(edges).id(d => d.i)
+                          .distance(d => (d.source.kind === 'gene' || d.target.kind === 'gene') ? 50 : 40)
+                          .strength(0.55))
+      .force('charge',  d3.forceManyBody().strength(d => d.kind === 'gene' ? -180 : -16))
+      .force('center',  d3.forceCenter(initial.w / 2, initial.h / 2).strength(1))
+      .force('x',       d3.forceX(initial.w / 2).strength(0.06))
+      .force('y',       d3.forceY(initial.h / 2).strength(0.06))
+      .force('collide', d3.forceCollide().radius(d => nodeRadius(d) + 2.5))
+      .alphaDecay(0.025)
+      .on('tick', ticked)
+      .on('end',  fitToView);
+
+    // After the simulation settles, fit the graph inside the viewport
+    function fitToView() {
+      let xMin = Infinity, xMax = -Infinity, yMin = Infinity, yMax = -Infinity;
+      nodes.forEach(n => {
+        const r = nodeRadius(n);
+        xMin = Math.min(xMin, n.x - r);
+        xMax = Math.max(xMax, n.x + r);
+        yMin = Math.min(yMin, n.y - r);
+        yMax = Math.max(yMax, n.y + r);
+      });
+      const s = getSize();
+      const padding = 40;
+      const w = xMax - xMin, h = yMax - yMin;
+      const scale = Math.min((s.w - padding*2) / w, (s.h - padding*2) / h, 1);
+      const tx = (s.w - scale * (xMin + xMax)) / 2;
+      const ty = (s.h - scale * (yMin + yMax)) / 2;
+      svg.transition().duration(600).call(
+        zoom.transform,
+        d3.zoomIdentity.translate(tx, ty).scale(scale)
+      );
+    }
+
+    function ticked() {
+      link
+        .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+      paperSel.attr('cx', d => d.x).attr('cy', d => d.y);
+      geneG.attr('transform', d => `translate(${d.x}, ${d.y})`);
+    }
+
+    // Drag behavior — applies to both papers and gene groups
+    const dragBehavior = d3.drag()
+      .on('start', (event, d) => {
+        if (!event.active) sim.alphaTarget(0.25).restart();
+        d.fx = d.x; d.fy = d.y;
+      })
+      .on('drag',  (event, d) => { d.fx = event.x; d.fy = event.y; })
+      .on('end',   (event, d) => {
+        if (!event.active) sim.alphaTarget(0);
+        d.fx = null; d.fy = null;
+      });
+    paperSel.call(dragBehavior);
+    geneG.call(dragBehavior);
+
+    // Zoom + pan on the whole SVG
+    const zoom = d3.zoom()
+      .scaleExtent([0.4, 4])
+      .filter(event => !event.target.closest('circle, g.gene-group'))
+      .on('zoom', (event) => {
+        root.attr('transform', event.transform);
+      });
+    svg.call(zoom);
+
+    // Reset button
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        svg.transition().duration(400).call(zoom.transform, d3.zoomIdentity);
+        nodes.forEach(n => { n.fx = null; n.fy = null; });
+        sim.alpha(0.6).restart();
+      });
+    }
+
+    // Tooltip + edge highlight on hover
+    const topicMap = {};  data.topics.forEach(t => { topicMap[t.id] = t.label; });
+
+    function showPaperTip(d, evt) {
+      const r = wrap.getBoundingClientRect();
+      const meta   = `<span class="tt-meta">${topicMap[d.topic] || ''}${d.date ? ' · ' + d.date.slice(0,7) : ''}</span>`;
+      const genes = (d.genes && d.genes.length)
+        ? `<div class="tt-genes">Genes: ${d.genes.join(', ')}</div>` : '';
+      const journal = d.journal ? `<div class="tt-genes" style="color: rgba(255,255,255,0.55)">${d.journal}</div>` : '';
+      tooltip.innerHTML = `${meta}<div class="tt-title">${d.title || ''}</div>${genes}${journal}`;
+      tooltip.style.left = (evt.clientX - r.left) + 'px';
+      tooltip.style.top  = (evt.clientY - r.top - 12) + 'px';
+      tooltip.classList.add('show');
+    }
+
+    function showGeneTip(d, evt) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.innerHTML =
+        `<span class="tt-meta">Gene</span>` +
+        `<div class="tt-title">${d.gene}</div>` +
+        `<div class="tt-genes">${d.count} ${d.count === 1 ? 'study' : 'studies'} in this atlas</div>`;
+      tooltip.style.left = (evt.clientX - r.left) + 'px';
+      tooltip.style.top  = (evt.clientY - r.top - 12) + 'px';
+      tooltip.classList.add('show');
+    }
+
+    function moveTip(evt) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.style.left = (evt.clientX - r.left) + 'px';
+      tooltip.style.top  = (evt.clientY - r.top - 12) + 'px';
+    }
+
+    function clearHover() {
+      tooltip.classList.remove('show');
+      link.classed('highlight', false);
+    }
+
+    paperSel
+      .on('mouseover', function(event, d) {
+        showPaperTip(d, event);
+        link.classed('highlight', e => e.source === d || e.target === d);
+        d3.select(this).attr('stroke', 'rgba(31,42,54,0.85)').attr('stroke-width', 1.6);
+      })
+      .on('mousemove', moveTip)
+      .on('mouseout', function() {
+        clearHover();
+        d3.select(this).attr('stroke', null).attr('stroke-width', null);
+      })
+      .on('click', (event, d) => {
+        if (event.defaultPrevented) return;
+        if (d && d.url) window.open(d.url, '_blank', 'noopener');
+      });
+
+    geneG
+      .on('mouseover', function(event, d) {
+        showGeneTip(d, event);
+        link.classed('highlight', e => e.source === d || e.target === d);
+      })
+      .on('mousemove', moveTip)
+      .on('mouseout', clearHover);
+
+    // Resize handler — recenter the simulation when the viewport changes
+    window.addEventListener('resize', () => {
+      const s = getSize();
+      svg.attr('viewBox', `0 0 ${s.w} ${s.h}`).attr('width', s.w).attr('height', s.h);
+      sim.force('center', d3.forceCenter(s.w / 2, s.h / 2)).alpha(0.3).restart();
+    });
+  })();
 
   // ─── Menu overlay open/close ───
   (function menu() {

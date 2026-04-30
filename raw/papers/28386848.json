@@ -1,0 +1,49 @@
+{
+  "pmid": "28386848",
+  "doi": "10.1007/s12035-017-0483-9",
+  "title": "Identification of De Novo DNMT3A Mutations That Cause West Syndrome by Using Whole-Exome Sequencing",
+  "authors": "Liu Z, Li Z, Zhi X, Du Y, Lin Z, Wu J",
+  "journal": "Molecular neurobiology",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "Epileptic encephalopathies (EEs) are a group of severe neurodevelopmental disorders with extreme genetic heterogeneity. Recent trio-based whole-exome sequencing (WES) studies have demonstrated that de novo mutations (DNMs) play prominent roles in severe EE. In this study, we searched for potential causal DNMs by using high-coverage WES of four unrelated Chinese parent-offspring trios affected by West syndrome. Through extensive bioinformatic analysis, we identified three novel DNMs in DNMT3A, CDKL5, and MAMDC2 in three trios and two compound heterozygous mutations in KMT2A in one trio. The DNMs in CDKL5 and DNMT3A were considered to be deleterious on the basis of the consensus of several genetic damage prediction tools. In addition, spatiotemporal expression patterns revealed a high level of DNMT3A expression during the early embryonic stage in nearly all brain regions. We also observed that certain high-confidence genes for epilepsy were shared among the co-expression and genetic interaction networks of DNMT3A, CDKL5, and KMT2A. Furthermore, all the candidate epilepsy genes in the co-expression network of DNMT3A were significantly enriched in the early developmental stages of the brain according to a rank-based enrichment test. In particular, we found that the DNMs of DNMT3A were shared among EE, autism spectrum disorder (ASD), and intellectual disability (ID) and mainly occurred in the functional domain of DNMT3A. Together, our findings support an association between DNMT3A mutations and EE susceptibility and suggest a shared molecular pathophysiology among EE and other neuropsychiatric disorders.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "CDKL5",
+    "KMT2A"
+  ],
+  "summary": "Epileptic encephalopathies (EEs) are a group of severe neurodevelopmental disorders with extreme genetic heterogeneity. Recent trio-based whole-exome sequencing (WES) studies have demonstrated that de novo mutations (DNMs) play prominent roles in severe EE.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28386848/",
+  "mesh_terms": [
+    "Amino Acid Sequence",
+    "DNA (Cytosine-5-)-Methyltransferases",
+    "DNA Methyltransferase 3A",
+    "Databases, Genetic",
+    "Gene Regulatory Networks",
+    "Humans",
+    "Infant, Newborn",
+    "Mutation",
+    "Spasms, Infantile",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "CDKL5",
+    "DNMT3A",
+    "De novo",
+    "Epileptic encephalopathy",
+    "Whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

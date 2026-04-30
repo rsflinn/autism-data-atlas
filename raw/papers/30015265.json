@@ -1,0 +1,50 @@
+{
+  "pmid": "30015265",
+  "doi": "10.1016/j.jpsychires.2018.06.004",
+  "title": "Excitation-inhibition dysbalance as predictor of autistic phenotypes",
+  "authors": "Oliveira B, Mitjans M, Nitsche MA, Kuo MF, Ehrenreich H",
+  "journal": "Journal of psychiatric research",
+  "date": "2018-06",
+  "source": "pubmed",
+  "abstract": "Autistic traits are normally distributed across health and disease, with autism spectrum disorders (ASD) at the extreme end. As we learned from mutations of synaptic or synapse regulating genes, leading to monogenetic forms of autism, the heterogeneous etiologies of ASD converge at the synapse. They result in a mild synaptic dysfunction as the final common pathway, also addressed as synaptopathy. Based on genetic rodent models and EEG/MEG findings in autists, a neuronal excitation-inhibition dysbalance is considered autism-pathognomonic. We hypothesized that this objectively measurable consequence is not restricted to the diagnosis of ASD but transcends disease borders and is of quantitative rather than qualitative nature. For proof-of-principle, we conducted a transcranial magnetic stimulation (TMS) study, monitoring corticospinal excitability and intracortical inhibition of the motor cortex. Employing the GRAS data collection of N&#x202f;>&#x202f;1200 deep-phenotyped schizophrenic subjects, we had the chance to select for this study N&#x202f;=&#x202f;20 perfectly matched men. They differed highly significantly by autistic trait severity, as assessed using PANSS autism severity score (PAUSS), capturing the continuum of autistic behaviors. Applying TMS to these men, we provide first intriguing hints of a positive correlation of autistic phenotype severity with functional cortical correlates, mainly alterations in GABAergic system and ion channels. This 'dose-response relationship' between severity of autistic traits and excitation-inhibition ratio in non-ASD subjects underlines the biological basis of this continuous trait. Based on these data, TMS may evolve as new add-on biomarker of autistic traits across disease groups. Finally, common treatment strategies targeting the excitation-inhibition dysbalance in humans may develop. To ultimately achieve this goal, however, replication studies with larger numbers of individuals would be desirable.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autistic traits are normally distributed across health and disease, with autism spectrum disorders (ASD) at the extreme end. As we learned from mutations of synaptic or synapse regulating genes, leading to monogenetic forms of autism, the heterogeneous etiologies of ASD converge at the synapse.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30015265/",
+  "mesh_terms": [
+    "Adult",
+    "Autistic Disorder",
+    "Electromyography",
+    "Evoked Potentials, Motor",
+    "Female",
+    "Humans",
+    "Male",
+    "Motor Cortex",
+    "Neural Inhibition",
+    "Severity of Illness Index",
+    "Statistics, Nonparametric",
+    "Transcranial Magnetic Stimulation",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autistic traits",
+    "Behavioral continua",
+    "PAUSS",
+    "Severity rating",
+    "TMS",
+    "Transcranial magnetic stimulation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

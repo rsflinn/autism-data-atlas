@@ -1,0 +1,36 @@
+{
+  "pmid": "25159072",
+  "doi": "10.2174/1381612820666140826114744",
+  "title": "Emerging biology of PDE10A",
+  "authors": "Wilson LS, Brandon NJ",
+  "journal": "Current pharmaceutical design",
+  "date": "2015-01",
+  "source": "pubmed",
+  "abstract": "Cyclic AMP and cyclic GMP are essential second messengers that regulate multiple signaling pathways in virtually all cell types. Their accumulation in cells is finely regulated by cyclic nucleotide phosphodiesterases (PDEs), the only enzymes that can degrade these signaling molecules and thus provide exquisite control over intracellular signaling processes. One PDE family, PDE10A, is highly enriched in the brain and its unique expression profile in specific brain regions of interest, in particular to antipsychotic treatment, has made it an attractive therapeutic target for the treatment of schizophrenia. However, after a Phase II trial failure of a selective PDE10A inhibitor for the treatment of schizophrenia, it has encouraged the field to reexamine the role of this enzyme in the brain, and the possible CNS disorders in which PDE10A inhibition could be therapeutic. We will review the localization of PDE10A, both within the brain and the neuron and discuss how its role in regulating cAMP and cGMP accumulation modulates intracellular signaling pathways. Since this cellular signaling has best been documented in the striatum, we will focus our discussion of PDE10A in the context of disorders that affect the basal ganglia, including psychiatric disorders such as bipolar disorder and autism spectrum disorders and the movement disorders, including Parkinson's disease and Huntington's disease.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Cyclic AMP and cyclic GMP are essential second messengers that regulate multiple signaling pathways in virtually all cell types. Their accumulation in cells is finely regulated by cyclic nucleotide phosphodiesterases (PDEs), the only enzymes that can degrade these signaling molecules and thus provide exquisite control over intracellular signaling processes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25159072/",
+  "mesh_terms": [
+    "Brain Diseases",
+    "Clinical Trials as Topic",
+    "Humans",
+    "Phosphodiesterase Inhibitors",
+    "Phosphoric Diester Hydrolases",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

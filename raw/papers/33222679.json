@@ -1,0 +1,40 @@
+{
+  "pmid": "33222679",
+  "doi": "10.2174/1574887115666201120093634",
+  "title": "New Strategies for Clinical Trials in Autism Spectrum Disorder",
+  "authors": "Pauly R, Ziats CA, Abenavoli L, Schwartz CE, Boccuto L",
+  "journal": "Reviews on recent clinical trials",
+  "date": "2021-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that poses several challenges in terms of clinical diagnosis and investigation of molecular etiology. The lack of knowledge on the pathogenic mechanisms underlying ASD has hampered the clinical trials that so far have tried to target ASD behavioral symptoms. In order to improve our understanding of the molecular abnormalities associated with ASD, a deeper and more extensive genetic profiling of targeted individuals with ASD was needed.\n\nThe recent availability of new and more powerful sequencing technologies (third-generation sequencing) has allowed to develop novel strategies for the characterization of comprehensive genetic profiles of individuals with ASD. In particular, this review will describe integrated approaches based on the combination of various omics technologies that will lead to a better stratification of targeted cohorts for the design of clinical trials in ASD.\n\nIn order to analyze the big data collected by assays such as the whole genome, epigenome, transcriptome, and proteome, it is critical to develop an efficient computational infrastructure. Machine learning models are instrumental to identify non-linear relationships between the omics technologies and, therefore, establish a functional informative network among the different data sources.\n\nThe potential advantage provided by these new integrated omics-based strategies is better characterization of the genetic background of ASD cohorts, to identify novel molecular targets for drug development, and ultimately offer a more personalized approach in the design of clinical trials for ASD.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition that poses several challenges in terms of clinical diagnosis and investigation of molecular etiology. The lack of knowledge on the pathogenic mechanisms underlying ASD has hampered the clinical trials that so far have tried to target ASD behavioral symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33222679/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Humans"
+  ],
+  "keywords": [
+    "Artificial Intelligence (AI)",
+    "Autism Spectrum Disorder (ASD)",
+    "Clinical trials",
+    "Genome-wide methylation/Epi-signatures",
+    "RNA sequencing",
+    "Whole-Genome Sequencing (WGS)",
+    "multi-omic analysis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

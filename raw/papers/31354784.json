@@ -1,0 +1,34 @@
+{
+  "pmid": "31354784",
+  "doi": "10.3389/fgene.2019.00605",
+  "title": "Germline Mutations inAssociated With Infantile Spasms",
+  "authors": "Wang Q, Liu Z, Lin Z, Zhang R, Lu Y, Su W, et al.",
+  "journal": "Frontiers in genetics",
+  "date": "2019-07",
+  "source": "pubmed",
+  "abstract": "Infantile spasm (IS) is an early-onset epileptic encephalopathy that usually presents with hypsarrhythmia on an electroencephalogram with developmental impairment or regression. In this study, whole-exome sequencing was performed to detect potential pathogenicmutations, and finally we identified a novel damagingmutation inand a compound heterozygous mutation inin three sporadic trios with IS. The expression profiling ofin the human brain showed that it was mainly highly expressed in the cerebral cortex, during the early brain development stage (8 to 9 post-conception weeks and 0 to 5 months after birth). In addition, we identified a close protein-protein interaction network betweenand candidate genes associated with epilepsy, autism spectrum disorder (ASD) or intellectual disability. Gene enrichment and function analysis demonstrated that genes interacting withwere significantly enriched in several brain regions across early fetal development, including the cortex, cerebellum, striatum and thalamus (q < 0.05), and were involved in axonal, neuronal and synapse-associated processes. Furthermore,and its interacting genes were associated with ASD, epilepsy syndrome and developmental disorders of mental health. Our results provide insightful information indicating thatmay contribute to the development of the brain and is associated with IS. However, further genetic studies are still needed to evaluate the role ofin IS to definitively establish the role ofin this disorder.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Infantile spasm (IS) is an early-onset epileptic encephalopathy that usually presents with hypsarrhythmia on an electroencephalogram with developmental impairment or regression. In this study, whole-exome sequencing was performed to detect potential pathogenicmutations, and finally we identified a novel damagingmutation inand a compound heterozygous mutation inin three sporadic trios with IS.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31354784/",
+  "mesh_terms": [],
+  "keywords": [
+    "SEMA5A",
+    "de novo mutations",
+    "epileptic encephalopathy",
+    "infantile spasms",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

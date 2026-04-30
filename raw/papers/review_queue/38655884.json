@@ -1,0 +1,39 @@
+{
+  "pmid": "38655884",
+  "doi": "10.1021/acschembio.4c00083",
+  "title": "mRNA Display Identifies Potent, Paralog-Selective Peptidic Ligands for ARID1B",
+  "authors": "Cremosnik GS, Mesrouze Y, Zueger P, Furkert D, Grandjean F, Argoti D, et al.",
+  "journal": "ACS chemical biology",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "The ARID1A and ARID1B subunits are mutually exclusive components of the BAF variant of SWI/SNF chromatin remodeling complexes. Loss of function mutations in ARID1A are frequently observed in various cancers, resulting in a dependency on the paralog ARID1B for cancer cell proliferation. However, ARID1B has never been targeted directly, and the high degree of sequence similarity to ARID1A poses a challenge for the development of selective binders. In this study, we used mRNA display to identify peptidic ligands that bind with nanomolar affinities to ARID1B and showed high selectivity over ARID1A. Using orthogonal biochemical, biophysical, and chemical biology tools, we demonstrate that the peptides engage two different binding pockets, one of which directly involves an ARID1B-exclusive cysteine that could allow covalent targeting by small molecules. Our findings impart the first evidence of the ligandability of ARID1B, provide valuable tools for drug discovery, and suggest opportunities for the development of selective molecules to exploit the synthetic lethal relationship between ARID1A and ARID1B in cancer.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "The ARID1A and ARID1B subunits are mutually exclusive components of the BAF variant of SWI/SNF chromatin remodeling complexes. Loss of function mutations in ARID1A are frequently observed in various cancers, resulting in a dependency on the paralog ARID1B for cancer cell proliferation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38655884/",
+  "mesh_terms": [
+    "Humans",
+    "Ligands",
+    "Peptides",
+    "DNA-Binding Proteins",
+    "Transcription Factors",
+    "RNA, Messenger",
+    "Protein Binding",
+    "Binding Sites"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

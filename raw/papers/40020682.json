@@ -1,0 +1,50 @@
+{
+  "pmid": "40020682",
+  "doi": "10.1016/j.stemcr.2025.102421",
+  "title": "Autism- and intellectual disability-associated MYT1L mutation alters human cortical interneuron differentiation, maturation, and physiology",
+  "authors": "Prakasam R, Determan J, Chapman G, Narasimhan M, Shen R, Saleh M, et al.",
+  "journal": "Stem cell reports",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Myelin transcription factor 1 like (MYT1L) is a neuronal transcription factor highly expressed in the developing and adult brain, and, while pathogenic MYT1L mutations cause neurodevelopmental disorders, these have not been characterized in human models of neurodevelopment. Here, we modeled the consequences of pathogenic MYT1L mutation using human stem cell-derived cortical neurons, demonstrating that MYT1L mutation alters the differentiation trajectory, increasing neuronal gene expression, morphological complexity, and synapse production. We also examined consequences of MYT1L mutation in mature cortical interneurons, identifying hallmarks of impaired neuronal identity and maturation and correspondingly altered channel expression and electrophysiological properties. Finally, by defining MYT1L genome-wide occupancy in cortical interneurons, we identified direct MYT1L targets likely to mediate these phenotypes. Together, this work elucidates new MYT1L requirements for human cortical interneuron development and demonstrates how pathogenic MYT1L mutation perturbs this developmental program, contributing to the etiology of neurodevelopmental disorders.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MYT1L"
+  ],
+  "summary": "Myelin transcription factor 1 like (MYT1L) is a neuronal transcription factor highly expressed in the developing and adult brain, and, while pathogenic MYT1L mutations cause neurodevelopmental disorders, these have not been characterized in human models of neurodevelopment. Here, we modeled the consequences of pathogenic MYT1L mutation using human stem cell-derived cortical neurons, demonstrating that MYT1L mutation alters the differentiation trajectory, increasing neuronal gene expression, morp",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40020682/",
+  "mesh_terms": [
+    "Humans",
+    "Interneurons",
+    "Mutation",
+    "Transcription Factors",
+    "Cell Differentiation",
+    "Autistic Disorder",
+    "Intellectual Disability",
+    "Cerebral Cortex",
+    "Nerve Tissue Proteins",
+    "Neurogenesis"
+  ],
+  "keywords": [
+    "ASD",
+    "MYT1L",
+    "NDDs",
+    "autism spectrum disorder",
+    "cIN",
+    "human cortical interneuron",
+    "human pluripotent stem cell",
+    "neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "29964155",
+  "doi": "10.1016/j.neuroscience.2018.06.032",
+  "title": "Impaired Neuronal Differentiation of Neural Stem Cells Lacking the Engrailed-2 Gene",
+  "authors": "Boschian C, Messina A, Bozza A, Castellini ME, Provenzano G, Bozzi Y, et al.",
+  "journal": "Neuroscience",
+  "date": "2018-06",
+  "source": "pubmed",
+  "abstract": "The Engrailed-2 (En2) gene codes for a homeobox-containing transcription factor, involved in midbrain-hindbrain embryonic development. In postnatal brain, En2 is expressed in the ventral mesencephalon, cerebellum, hippocampus and neocortex. Two single-nucleotide polymorphisms (SNPs) that are associated to autism spectrum disorders (ASD) have been identified in the human EN2 gene. Accordingly, mice lacking the En2 homeodomain (En2, referred to as En2) show molecular, anatomical and behavioral \"ASD-like\" features. Among these, we previously showed a partial loss of GABAergic interneurons in the En2postnatal hippocampus and neocortex, accompanied by a marked decrease of brain-derived neurotrophic factor (BDNF) signaling, a crucial determinant of GABAergic differentiation. In order to better investigate the role of En2 in GABAergic interneuron differentiation, we generated and subsequently differentiated neural stem cells (NSCs) from basal ganglia and neocortex of En2and En2mouse embryos. Wild-type NSCs from both basal ganglia and neocortex express En2, while mutant ones do not, as expected. As compared to En2NSCs, En2NSCs derived from basal ganglia show impaired GABAergic differentiation accompanied by a reduced expression of the BDNF receptor trkB. Conversely, En2NSCs derived from the neocortex expressed high levels of trkB and readily differentiated into neurons, as En2NSCs. Our results suggest that En2 contributes to GABAergic neuron differentiation from basal ganglia NSCs through a trkB-dependent BDNF signaling, thus providing a possible explanation for the reduced number of GABAergic interneurons detected in the En2postnatal forebrain.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The Engrailed-2 (En2) gene codes for a homeobox-containing transcription factor, involved in midbrain-hindbrain embryonic development. In postnatal brain, En2 is expressed in the ventral mesencephalon, cerebellum, hippocampus and neocortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29964155/",
+  "mesh_terms": [
+    "Animals",
+    "Basal Ganglia",
+    "Cell Differentiation",
+    "Female",
+    "GABAergic Neurons",
+    "Homeodomain Proteins",
+    "Male",
+    "Mice",
+    "Mice, 129 Strain",
+    "Mice, Inbred C57BL",
+    "Mice, Transgenic",
+    "Nerve Tissue Proteins",
+    "Neural Stem Cells",
+    "Engrailed 2 Protein"
+  ],
+  "keywords": [
+    "basal ganglia",
+    "cerebral cortex",
+    "interneuron",
+    "neural stem cells",
+    "neurodevelopmental disorders",
+    "neurotrophic factor"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

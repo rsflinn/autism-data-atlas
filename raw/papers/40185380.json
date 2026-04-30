@@ -1,0 +1,46 @@
+{
+  "pmid": "40185380",
+  "doi": "10.1016/j.cca.2025.120238",
+  "title": "Data independent acquisition proteomics and machine learning reveals that proteins associated with immunity are potential molecular markers for early diagnosis of autism",
+  "authors": "Hu E, Kuang X, Zhaohui S, Wang S, Gan T, Zhou W, et al.",
+  "journal": "Clinica chimica acta; international journal of clinical chemistry",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Early diagnosis of autism is critical to its treatment, but so far, there is no clear molecular marker for early diagnosis in children.\n\nWe used data independent acquisition (DIA) mass spectrometry to compare protein expression in serum from 99 Chinese children with autism spectrum disorders with 70 healthy children.\n\nWe identified 347 downregulated and 394 upregulated proteins. Based on bioinformatics analysis, differential proteins were enriched in the immune system, immune disease, cell motility, and focal adhesion. Machine learning revealed a model with eight proteins (IGH c1898_heavy_IGHV3-33_IGHD3-9_IGHJ4, LYZ, IGL c1860_light_IGLV8-61_IGLJ2, SERPINA10, IG c1421_light_IGKV1-27_IGKJ4, rheumatoid factor RF-ET1, IGL c600_light_IGKV4-1_IGKJ4, and SELL) that were mostly associated with immunity, and accurate for diagnosis of autism. The protein family was verified by a logic-regression leave-one cross-validation method with bidirectional feature screening. The accuracy of this model was 0.9527, and the kappa coefficient was 0.9025.\n\nOur study showed that immunity is closely related to the onset of autism and can be used for early screening of patients. A model with eight proteins (IGH c1898_heavy_IGHV3-33_IGHD3-9_IGHJ4, LYZ, IGL c1860_light_IGLV8-61_IGLJ2, SERPINA10, IG c1421_light_IGKV1-27_IGKJ4, rheumatoid factor RF-ET1, IGL c600_light_IGKV4-1_IGKJ4, and SELL), which are mostly associated with immunity, is accurate for diagnosis of autism.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Early diagnosis of autism is critical to its treatment, but so far, there is no clear molecular marker for early diagnosis in children. We used data independent acquisition (DIA) mass spectrometry to compare protein expression in serum from 99 Chinese children with autism spectrum disorders with 70 healthy children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40185380/",
+  "mesh_terms": [
+    "Humans",
+    "Biomarkers",
+    "Machine Learning",
+    "Proteomics",
+    "Early Diagnosis",
+    "Male",
+    "Female",
+    "Child",
+    "Autistic Disorder",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Biomarker",
+    "Data independent acquisition",
+    "Immune",
+    "Machine learning",
+    "Quantitative proteomics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

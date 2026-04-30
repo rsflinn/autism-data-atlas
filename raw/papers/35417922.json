@@ -1,0 +1,45 @@
+{
+  "pmid": "35417922",
+  "doi": "10.1093/hmg/ddac087",
+  "title": "Cellular and behavioral effects of altered NaV1.2 sodium channel ion permeability in Scn2aK1422E mice",
+  "authors": "Echevarria-Cooper DM, Hawkins NA, Misra SN, Huffman AM, Thaxton T, Thompson CH, et al.",
+  "journal": "Human molecular genetics",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "Genetic variants in SCN2A, encoding the NaV1.2 voltage-gated sodium channel, are associated with a range of neurodevelopmental disorders with overlapping phenotypes. Some variants fit into a framework wherein gain-of-function missense variants that increase neuronal excitability lead to developmental and epileptic encephalopathy, while loss-of-function variants that reduce neuronal excitability lead to intellectual disability and/or autism spectrum disorder (ASD) with or without co-morbid seizures. One unique case less easily classified using this framework is the de novo missense variant SCN2A-p.K1422E, associated with infant-onset developmental delay, infantile spasms and features of ASD. Prior structure-function studies demonstrated that K1422E substitution alters ion selectivity of NaV1.2, conferring Ca2+ permeability, lowering overall conductance and conferring resistance to tetrodotoxin (TTX). Based on heterologous expression of K1422E, we developed a compartmental neuron model incorporating variant channels that predicted reductions in peak action potential (AP) speed. We generated Scn2aK1422E mice and characterized effects on neurons and neurological/neurobehavioral phenotypes. Cultured cortical neurons from heterozygous Scn2aK1422E/+ mice exhibited lower current density with a TTX-resistant component and reversal potential consistent with mixed ion permeation. Recordings from Scn2aK1442E/+ cortical slices demonstrated impaired AP initiation and larger Ca2+ transients at the axon initial segment during the rising phase of the AP, suggesting complex effects on channel function. Scn2aK1422E/+ mice exhibited rare spontaneous seizures, interictal electroencephalogram abnormalities, altered induced seizure thresholds, reduced anxiety-like behavior and alterations in olfactory-guided social behavior. Overall, Scn2aK1422E/+ mice present with phenotypes similar yet distinct from other Scn2a models, consistent with complex effects of K1422E on NaV1.2 channel function.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Genetic variants in SCN2A, encoding the NaV1.2 voltage-gated sodium channel, are associated with a range of neurodevelopmental disorders with overlapping phenotypes. Some variants fit into a framework wherein gain-of-function missense variants that increase neuronal excitability lead to developmental and epileptic encephalopathy, while loss-of-function variants that reduce neuronal excitability lead to intellectual disability and/or autism spectrum disorder (ASD) with or without co-morbid seizur",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35417922/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Calcium",
+    "Humans",
+    "Mice",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Permeability",
+    "Seizures",
+    "Sodium",
+    "Sodium Channels"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Case Reports",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

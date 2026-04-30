@@ -1,0 +1,40 @@
+{
+  "pmid": "36854676",
+  "doi": "10.1038/s41467-023-36800-w",
+  "title": "Inferring neuron-neuron communications from single-cell transcriptomics through NeuronChat",
+  "authors": "Zhao W, Johnston KG, Ren H, Xu X, Nie Q",
+  "journal": "Nature communications",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Neural communication networks form the fundamental basis for brain function. These communication networks are enabled by emitted ligands such as neurotransmitters, which activate receptor complexes to facilitate communication. Thus, neural communication is fundamentally dependent on the transcriptome. Here we develop NeuronChat, a method and package for the inference, visualization and analysis of neural-specific communication networks among pre-defined cell groups using single-cell expression data. We incorporate a manually curated molecular interaction database of neural signaling for both human and mouse, and benchmark NeuronChat on several published datasets to validate its ability in predicting neural connectivity. Then, we apply NeuronChat to three different neural tissue datasets to illustrate its functionalities in identifying interneural communication networks, revealing conserved or context-specific interactions across different biological contexts, and predicting communication pattern changes in diseased brains with autism spectrum disorder. Finally, we demonstrate NeuronChat can utilize spatial transcriptomics data to infer and visualize neural-specific cell-cell communication.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neural communication networks form the fundamental basis for brain function. These communication networks are enabled by emitted ligands such as neurotransmitters, which activate receptor complexes to facilitate communication.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36854676/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Transcriptome",
+    "Autism Spectrum Disorder",
+    "Neurons",
+    "Gene Expression Profiling",
+    "Nerve Tissue"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

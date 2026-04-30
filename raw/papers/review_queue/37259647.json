@@ -1,0 +1,41 @@
+{
+  "pmid": "37259647",
+  "doi": "10.6224/JN.202306_70(3).04",
+  "title": "[Healing Through Art and Play for Hospitalized Children With Medical Trauma]",
+  "authors": "Chiang CY, Lin HM, Liu ST",
+  "journal": "Hu li za zhi The journal of nursing",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Children suffering from critical illness often face significant life changes during hospitalization that can impact their external and internal worlds dramatically. Moreover, invasive treatments and medical procedures may cause physical pain and severe psychological distress. Furthermore, children with long-term hospitalization are often preoccupied with feelings of isolation, anxiety, helplessness, and hopelessness. Because children often have difficulty expressing their experiences and may resort to screaming and crying, it is necessary to help them express and transform their disturbing emotions. The literature supports the efficacy of art psychotherapy (AT) in helping children cope with suffering illness and distressing medical treatment procedures. The process of creation and play in AT helps pediatric patients express emotions non-verbally and experience catharsis in gentle and safe ways. AT can promote a sense of security in these patients by building up courage, mental stability, and the readiness necessary to face upcoming medical treatments and procedures. How AT may be used to care for pediatric patients' bodies and minds during hospitalization is presented in this article using a review of the literature and clinical case presentation, with a particular focus on how AT can effectively reduce anxiety and medical trauma responses (i.e., pediatric medical traumatic stress). In addition, the participation of the family and the medical team in the AT process is important in better understanding and appreciating the physical and mental states of pediatric patients and in realizing and transforming the emotions these patients express through this process. Family and medical team members can form a support system and offer appropriate comfort and care to children during their medical treatment, creating a trauma-informed treatment environment and reducing the risk of patient medical trauma.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Children suffering from critical illness often face significant life changes during hospitalization that can impact their external and internal worlds dramatically. Moreover, invasive treatments and medical procedures may cause physical pain and severe psychological distress.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37259647/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Child, Hospitalized",
+    "Anxiety",
+    "Hospitalization"
+  ],
+  "keywords": [
+    "art psychotherapy",
+    "hospitalized children",
+    "medical trauma",
+    "trauma-informed"
+  ],
+  "article_types": [
+    "Review",
+    "English Abstract",
+    "Journal Article"
+  ]
+}

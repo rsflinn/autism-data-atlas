@@ -1,0 +1,40 @@
+{
+  "pmid": "24232444",
+  "doi": "10.1007/s00213-013-3330-3",
+  "title": "Fragile X syndrome: a preclinical review on metabotropic glutamate receptor 5 (mGluR5) antagonists and drug development",
+  "authors": "Pop AS, Gomez-Mancilla B, Neri G, Willemsen R, Gasparini F",
+  "journal": "Psychopharmacology",
+  "date": "2014-03",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is considered the leading inherited cause of intellectual disability and autism. In FXS, the fragile X mental retardation 1 (FMR1) gene is silenced and the fragile X mental retardation protein (FMRP) is not expressed, resulting in the characteristic features of the syndrome. Despite recent advances in understanding the pathophysiology of FXS, there is still no cure for this condition; current treatment is symptomatic. Preclinical research is essential in the development of potential therapeutic agents.\n\nThis review provides an overview of the preclinical evidence supporting metabotropic glutamate receptor 5 (mGluR5) antagonists as therapeutic agents for FXS.\n\nAccording to the mGluR theory of FXS, the absence of FMRP leads to enhanced glutamatergic signaling via mGluR5, which leads to increased protein synthesis and defects in synaptic plasticity including enhanced long-term depression. As such, efforts to develop agents that target the underlying pathophysiology of FXS have focused on mGluR5 modulation. Animal models, particularly the Fmr1 knockout mouse model, have become invaluable in exploring therapeutic approaches on an electrophysiological, behavioral, biochemical, and neuroanatomical level. Two direct approaches are currently being investigated for FXS treatment: reactivating the FMR1 gene and compensating for the lack of FMRP. The latter approach has yielded promising results, with mGluR5 antagonists showing efficacy in clinical trials.\n\nTargeting mGluR5 is a valid approach for the development of therapeutic agents that target the underlying pathophysiology of FXS. Several compounds are currently in development, with encouraging results.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is considered the leading inherited cause of intellectual disability and autism. In FXS, the fragile X mental retardation 1 (FMR1) gene is silenced and the fragile X mental retardation protein (FMRP) is not expressed, resulting in the characteristic features of the syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24232444/",
+  "mesh_terms": [
+    "Animals",
+    "Drug Evaluation, Preclinical",
+    "Excitatory Amino Acid Antagonists",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Receptor, Metabotropic Glutamate 5"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

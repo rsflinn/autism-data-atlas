@@ -1,0 +1,42 @@
+{
+  "pmid": "21893949",
+  "doi": "10.1159/000330213",
+  "title": "What can we learn about autism from studying fragile X syndrome?",
+  "authors": "Budimirovic DB, Kaufmann WE",
+  "journal": "Developmental neuroscience",
+  "date": "2011-09",
+  "source": "pubmed",
+  "abstract": "Despite early controversy, it is now accepted that a substantial proportion of children with fragile X syndrome (FXS) meets diagnostic criteria for autism spectrum disorder (ASD). This change has led to an increased interest in studying the association of FXS and ASD because of the clinical consequences of their co-occurrence and the implications for a better understanding of ASD in the general population. Here, we review the current knowledge on the behavioral, neurobiological (i.e., neuroimaging), and molecular features of ASD in FXS, as well as the insight into ASD gained from mouse models of FXS. This review covers critical issues such as the selectivity of ASD in disorders associated with intellectual disability, differences between autistic features and ASD diagnosis, and the relationship between ASD and anxiety in FXS patients and animal models. While solid evidence supporting ASD in FXS as a distinctive entity is emerging, neurobiological and molecular data are still scarce. Animal model studies have not been particularly revealing about ASD in FXS either. Nevertheless, recent studies provide intriguing new leads and suggest that a better understanding of the bases of ASD will require the integration of multidisciplinary data from FXS and other genetic disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Despite early controversy, it is now accepted that a substantial proportion of children with fragile X syndrome (FXS) meets diagnostic criteria for autism spectrum disorder (ASD). This change has led to an increased interest in studying the association of FXS and ASD because of the clinical consequences of their co-occurrence and the implications for a better understanding of ASD in the general population.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21893949/",
+  "mesh_terms": [
+    "Animals",
+    "Anxiety",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Social Behavior"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

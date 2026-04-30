@@ -1,0 +1,42 @@
+{
+  "pmid": "39472019",
+  "doi": "10.1101/gr.279263.124",
+  "title": "Resolving complex duplication variants in autism spectrum disorder using long-read genome sequencing",
+  "authors": "Eisfeldt J, Higginbotham EJ, Lenner F, Howe J, Fernandez BA, Lindstrand A, et al.",
+  "journal": "Genome research",
+  "date": "2024-11",
+  "source": "pubmed",
+  "abstract": "Rare or de novo structural variation, primarily in the form of copy number variants, is detected in 5%-10% of autism spectrum disorder (ASD) families. While complex structural variants involving duplications can generally be detected using microarray or short-read genome sequencing (GS), these methods frequently fail to characterize breakpoints at nucleotide resolution, requiring additional molecular methods for validation and fine-mapping. Here, we use Oxford Nanopore Technologies PromethION long-read GS to characterize complex genomic rearrangements (CGRs) involving large duplications that segregate with ASD in five families. In total, we investigated 13 CGR carriers and were able to resolve all breakpoint junctions at nucleotide resolution. While all breakpoints were identified, the precise genomic architecture of one rearrangement remained unresolved with three different potential structures. The findings in two families include potential fusion genes formed through duplication rearrangements, involvingandIn two of the families originating from the same geographical region, an identical rearrangement involvingwas identified, which likely represents a founder variant. In addition, we analyze methylation status directly from the long-read data, allowing us to assess the activity of rearranged genes and regulatory regions. Investigation of methylation across the CGRs reveals aberrant methylation status in carriers across a rearrangement affecting thelocus. In aggregate, our results demonstrate the utility of nanopore sequencing to pinpoint CGRs associated with ASD in five unrelated families, and highlight the importance of a gene-centric description of disease-associated complex chromosomal rearrangements.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Rare or de novo structural variation, primarily in the form of copy number variants, is detected in 5%-10% of autism spectrum disorder (ASD) families. While complex structural variants involving duplications can generally be detected using microarray or short-read genome sequencing (GS), these methods frequently fail to characterize breakpoints at nucleotide resolution, requiring additional molecular methods for validation and fine-mapping.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39472019/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Female",
+    "Male",
+    "Gene Duplication",
+    "DNA Copy Number Variations",
+    "Whole Genome Sequencing",
+    "Pedigree",
+    "DNA Methylation",
+    "Gene Rearrangement",
+    "Child",
+    "Genome, Human",
+    "Chromosome Breakpoints"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

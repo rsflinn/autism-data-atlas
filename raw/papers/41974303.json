@@ -1,0 +1,48 @@
+{
+  "pmid": "41974303",
+  "doi": "10.1016/j.pnpbp.2026.111697",
+  "title": "Cannabinoid-based interventions for behavioral outcomes in children and adolescents with autism spectrum disorder: A systematic review of safety and effectiveness",
+  "authors": "Vasconcelos QDJS, de Freitas RF, Freitas MC, de Andrade IP, Brand&#xe3;o CB, Nascimento CE, et al.",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) lacks effective options for core symptoms. Cannabinoids, especially cannabidiol (CBD) and combined CBD:&#x394;9-tetrahydrocannabinol (THC) formulations, are of interest, but clinical evidence is heterogeneous.\n\nTo evaluate the effectiveness and safety of cannabinoid-based interventions for behavioral outcomes in children and adolescents with ASD.\n\nSix databases (Scopus, Web of Science, Embase, Cochrane Library, PubMed, PsycINFO) were searched from February 2024 to June 2025. Risk of bias was assessed using RoB 2 (randomized controlled trials [RCTs]) and the Newcastle-Ottawa Scale (non-RCTs); certainty was evaluated with GRADE.\n\nTwelve studies (4 RCTs, 8 non-RCTs) were included; six ongoing trials were identified. Most interventions used full-spectrum extracts with high CBD:THC ratios (often 20:1), with titration up to &#x223c;10&#xa0;mg/kg/day; doses varied across studies. Responder rates for global improvement vs placebo (49% vs 21%) and greater improvement in social communication. No between-group differences were observed for sleep or overall symptom severity, and repetitive behaviors showed a non-significant trend toward improvement. Non-RCTs studies suggested benefits but had high risk of bias and very low certainty. Adverse events were mostly mild and non-serious (e.g., somnolence, appetite changes, sleep problems, irritability); no treatment-related serious adverse events were reported.\n\nEvidence remains limited. A whole-plant 20:1 extract improved global clinical impression and social communication in one RCT, whereas other standardized outcomes were null. Current data support only cautious, adjunctive use under medical supervision. Larger, well-designed RCTs using validated outcomes are needed to clarify efficacy, optimal formulations, and long-term safety. PROSPERO registration: CRD42024508518.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) lacks effective options for core symptoms. Cannabinoids, especially cannabidiol (CBD) and combined CBD:&#x394;9-tetrahydrocannabinol (THC) formulations, are of interest, but clinical evidence is heterogeneous.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41974303/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Adolescent",
+    "Treatment Outcome",
+    "Cannabinoids",
+    "Cannabidiol",
+    "Dronabinol",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Behavior",
+    "Cannabidiol",
+    "Cannabis",
+    "Communication",
+    "Delta-9-tetrahydrocannabinol",
+    "Social behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Review"
+  ]
+}

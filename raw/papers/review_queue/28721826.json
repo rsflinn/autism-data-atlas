@@ -1,0 +1,51 @@
+{
+  "pmid": "28721826",
+  "doi": "10.2174/0929867324666170718105557",
+  "title": "Clinical Uses of Melatonin in Neurological Diseases and Mental and Behavioural Disorders",
+  "authors": "Sanchez-Barcelo EJ, Rueda N, Mediavilla MD, Martinez-Cue C, Reiter RJ",
+  "journal": "Current medicinal chemistry",
+  "date": "2017-11",
+  "source": "pubmed",
+  "abstract": "Melatonin is a molecule with numerous properties applicable to the treatment of neurological diseases. Among these properties are the following: potent scavenger of oxygen and nitrogen reactive species, anti-inflammatory features, immuno-enhancing nature, and modulation of circadian rhythmicity. Furthermore, low concentrations of melatonin are usually found in patients with neurological diseases and mental disorders. The positive results obtained in experimental models of diverse pathologies, including diseases of the nervous system (e.g., Alzheimer's disease, Parkinson's disease, multiple sclerosis, amyotrophic lateral sclerosis, Huntington's disease, epilepsy, headaches, etc.) as well as mental and behavioural disordes (e.g., autism spectrum disorders, attention-deficit hyperactivity disorders, etc.), have served as a basis for the design of clinical trials to study melatonin's possible usefulness in human pathology, although the satisfactory results obtained from the laboratory \"bench\" are not always applicable to the patient's \"bedside\".\n\nIn this article, we review those papers describing the results of the administration of melatonin to humans for various therapeutic purposes in the field of neuropathology.\n\nClinical trials with strong methodologies and appropriate doses of melatonin are necessary to support or reject the usefulness of melatonin in neurological diseases.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Melatonin is a molecule with numerous properties applicable to the treatment of neurological diseases. Among these properties are the following: potent scavenger of oxygen and nitrogen reactive species, anti-inflammatory features, immuno-enhancing nature, and modulation of circadian rhythmicity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28721826/",
+  "mesh_terms": [
+    "Animals",
+    "Clinical Trials as Topic",
+    "Humans",
+    "Melatonin",
+    "Mental Disorders",
+    "Nervous System Diseases",
+    "Oxidative Stress",
+    "Receptors, Melatonin"
+  ],
+  "keywords": [
+    "Alzheimer's disease; Parkinson's disease",
+    "Huntington's disease",
+    "Melatonin",
+    "amyotrophic lateral sclerosis",
+    "attention-deficit hyperactivity disorder",
+    "autism spectrum disorders",
+    "epilepsy",
+    "headaches",
+    "ischemic stroke",
+    "multiple sclerosis",
+    "sleep disorders.",
+    "spinal cord injury"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

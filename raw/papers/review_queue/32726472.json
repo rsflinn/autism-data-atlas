@@ -1,0 +1,44 @@
+{
+  "pmid": "32726472",
+  "doi": "10.1111/bph.15217",
+  "title": "Opportunities for histone deacetylase inhibition in amyotrophic lateral sclerosis",
+  "authors": "Klingl YE, Pakravan D, Van Den Bosch L",
+  "journal": "British journal of pharmacology",
+  "date": "2020-08",
+  "source": "pubmed",
+  "abstract": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease. ALS patients suffer from a progressive loss of motor neurons, leading to respiratory failure within 3 to 5 years after diagnosis. Available therapies only slow down the disease progression moderately or extend the lifespan by a few months. Epigenetic hallmarks have been linked to the disease, creating an avenue for potential therapeutic approaches. Interference with one class of epigenetic enzymes, histone deacetylases, has been shown to affect neurodegeneration in many preclinical models. Consequently, it is crucial to improve our understanding about histone deacetylases and their inhibitors in (pre)clinical models of ALS. We conclude that selective inhibitors with high tolerability and safety and sufficient blood-brain barrier permeability will be needed to interfere with both epigenetic and non-epigenetic targets of these enzymes. LINKED ARTICLES: This article is part of a themed issue on Neurochemistry in Japan. To view the other articles in this section visit http://onlinelibrary.wiley.com/doi/10.1111/bph.v178.6/issuetoc.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Amyotrophic lateral sclerosis (ALS) is a devastating neurodegenerative disease. ALS patients suffer from a progressive loss of motor neurons, leading to respiratory failure within 3 to 5 years after diagnosis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32726472/",
+  "mesh_terms": [
+    "Amyotrophic Lateral Sclerosis",
+    "Epigenomics",
+    "Histone Deacetylases",
+    "Humans",
+    "Motor Neurons",
+    "Neurodegenerative Diseases"
+  ],
+  "keywords": [
+    "HDAC",
+    "HDAC inhibitor",
+    "amyotrophic lateral sclerosis",
+    "histone deacetylase",
+    "motor neuron",
+    "neurodegeneration"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

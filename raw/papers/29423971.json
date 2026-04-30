@@ -1,0 +1,53 @@
+{
+  "pmid": "29423971",
+  "doi": "10.1002/ajmg.a.38622",
+  "title": "Two de novo novel mutations in one SHANK3 allele in a patient with autism and moderate intellectual disability",
+  "authors": "Zhu W, Li J, Chen S, Zhang J, Vetrini F, Braxton A, et al.",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "SHANK3 encodes for a scaffolding protein that links neurotransmitter receptors to the cytoskeleton and is enriched in postsynaptic densities of excitatory synapses. Deletions or mutations in one copy of the SHANK3 gene cause Phelan-McDermid syndrome, also called 22q13.3 deletion syndrome, a neurodevelopmental disorder with common features including global developmental delay, absent to severely impaired language, autistic behavior, and minor dysmorphic features. By whole exome sequencing, we identified two de novo novel variants including one frameshift pathogenic variant and one missense variant of unknown significance in a 14-year-old boy with delayed motor milestones, delayed language acquisition, autism, intellectual disability, ataxia, progressively worsening spasticity of the lower extremities, dysmorphic features, short stature, microcephaly, failure to thrive, chronic constipation, intrauterine growth restriction, and bilateral inguinal hernias. Both changes are within the CpG island in exon 21, separated by a 375 bp sequence. Next generation sequencing of PCR products revealed that the two variants are most frequently associated with each other. Sanger sequencing of the cloned PCR products further confirmed that both changes were on a single allele. The clinical presentation in this individual is consistent with other patients with a truncating mutation in exon 21, suggesting that the missense change contributes none or minimally to the phenotypes. This is the first report of two de novo mutations in one SHANK3 allele.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "SHANK3 encodes for a scaffolding protein that links neurotransmitter receptors to the cytoskeleton and is enriched in postsynaptic densities of excitatory synapses. Deletions or mutations in one copy of the SHANK3 gene cause Phelan-McDermid syndrome, also called 22q13.3 deletion syndrome, a neurodevelopmental disorder with common features including global developmental delay, absent to severely impaired language, autistic behavior, and minor dysmorphic features.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29423971/",
+  "mesh_terms": [
+    "Adolescent",
+    "Alleles",
+    "Autistic Disorder",
+    "DNA Mutational Analysis",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Phenotype",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "Phelan-McDermid syndrome",
+    "SHANK3",
+    "de novo",
+    "double mutations on one allele",
+    "variant phasing",
+    "whole exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

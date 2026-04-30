@@ -1,0 +1,35 @@
+{
+  "pmid": "40224365",
+  "doi": "10.1515/mr-2024-0040",
+  "title": "Genetic advances in neurodevelopmental disorders",
+  "authors": "Gao S, Shan C, Zhang R, Wang T",
+  "journal": "Medical review (2021)",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) are a group of highly heterogeneous diseases that affect children's social, cognitive, and emotional functioning. The etiology is complicated with genetic factors playing an important role. During the past decade, large-scale whole exome sequencing (WES) and whole genome sequencing (WGS) have vastly advanced the genetic findings of NDDs. Various forms of variants have been reported to contribute to NDDs, such asmutations (DNMs), copy number variations (CNVs), rare inherited variants (RIVs), and common variation. By far,&#xa0;over 200 high-risk NDD genes have been identified, which are involved in biological processes including synaptic function, transcriptional and epigenetic regulation. In addition, monogenic, oligogenic, polygenetic, and omnigenic models have been proposed to explain the genetic architecture of NDDs. However, the majority of NDD patients still do not have a definitive genetic diagnosis. In the future, more types of risk factors, as well as noncoding variants, are await to be identified, and including their interplay mechanisms are key to resolving the etiology and heterogeneity of NDDs.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders (NDDs) are a group of highly heterogeneous diseases that affect children's social, cognitive, and emotional functioning. The etiology is complicated with genetic factors playing an important role.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40224365/",
+  "mesh_terms": [],
+  "keywords": [
+    "De novo mutations",
+    "common variation",
+    "genetics",
+    "neurodevelopmental disorders",
+    "rare variation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

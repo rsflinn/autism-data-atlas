@@ -1,0 +1,44 @@
+{
+  "pmid": "21293268",
+  "doi": "10.1097/WCO.0b013e3283446450",
+  "title": "The neurology of autism spectrum disorders",
+  "authors": "Jeste SS",
+  "journal": "Current opinion in neurology",
+  "date": "2011-04",
+  "source": "pubmed",
+  "abstract": "Neurological comorbidities in autism spectrum disorders (ASDs) are not only common, but they are also associated with more clinical severity. This review highlights the most recent literature on three of autism's most prevalent neurological comorbidities: motor impairment, sleep disorders and epilepsy.\n\nMotor impairment in ASDs manifests as both delays and deficits, with delays found in gross and fine motor domains and deficits found in praxis, coordination and gait, all of which affect other cognitive and behavioral domains. Sleep disorders, especially insomnia, occur in up to 83% of children with ASDs and recent studies have begun to explore the underlying biochemical and behavioral basis of the impairment, which has bolstered treatment studies. Epilepsy is reported in up to one third of children with ASDs, and new studies have focused on identifying the genetic causes of this association.\n\nBetter characterization of the phenotype, developmental trajectory and underlying pathophysiology of these neurological comorbidities will enable us to define neurological endophenotypes within the autism spectrum. Future studies must investigate the emergence of these comorbidities prospectively in order to determine whether they lie on the causal pathway to ASDs or whether they reflect epiphenomena of the disorder. As epilepsy and sleep disorders can be treated and may contribute significantly to behavioral and cognitive abnormalities in ASDs, their identification is of high clinical relevance.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Neurological comorbidities in autism spectrum disorders (ASDs) are not only common, but they are also associated with more clinical severity. This review highlights the most recent literature on three of autism's most prevalent neurological comorbidities: motor impairment, sleep disorders and epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21293268/",
+  "mesh_terms": [
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Clinical Trials as Topic",
+    "Comorbidity",
+    "Electroencephalography",
+    "Endophenotypes",
+    "Epilepsy",
+    "Humans",
+    "Nervous System Diseases",
+    "Neuropsychological Tests",
+    "Psychomotor Performance",
+    "Sleep Wake Disorders"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

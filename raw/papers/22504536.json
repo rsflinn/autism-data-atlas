@@ -1,0 +1,44 @@
+{
+  "pmid": "22504536",
+  "doi": "10.1016/j.nbd.2012.03.031",
+  "title": "Mutations affecting synaptic levels of neurexin-1&#x3b2; in autism and mental retardation",
+  "authors": "Camacho-Garcia RJ, Planelles MI, Margalef M, Pecero ML, Mart&#xed;nez-Leal R, Aguilera F, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2012-04",
+  "source": "pubmed",
+  "abstract": "The identification of mutations in genes encoding proteins of the synaptic neurexin-neuroligin pathway in different neurodevelopmental disorders, including autism and mental retardation, has suggested the presence of a shared underlying mechanism. A few mutations have been described so far and for most of them the biological consequences are unknown. To further explore the role of the NRXN1&#x3b2; gene in neurodevelopmental disorders, we have sequenced the coding exons of the gene in 86 cases with autism and mental retardation and 200 controls and performed expression analysis of DNA variants identified in patients. We report the identification of four novel independent mutations that affect nearby positions in two regions of the gene/protein: i) sequences important for protein translation initiation, c.-3G>T within the Kozak sequence, and c.3G>T (p.Met1), at the initiation codon; and ii) the juxtamembrane region of the extracellular domain, p.Arg375Gln and p.Gly378Ser. These mutations cosegregate with different psychiatric disorders other than autism and mental retardation, such as psychosis and attention-deficit/hyperactivity disorder. We provide experimental evidence for the use of an alternative translation initiation codon for c.-3G>T and p.Met1 mutations and reduced synaptic levels of neurexin-1&#x3b2; protein resulting from p.Met1 and p.Arg375Gln. The data reported here support a role for synaptic defects of neurexin-1&#x3b2; in neurodevelopmental disorders.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "NRXN1"
+  ],
+  "summary": "The identification of mutations in genes encoding proteins of the synaptic neurexin-neuroligin pathway in different neurodevelopmental disorders, including autism and mental retardation, has suggested the presence of a shared underlying mechanism. A few mutations have been described so far and for most of them the biological consequences are unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22504536/",
+  "mesh_terms": [
+    "Adult",
+    "Autistic Disorder",
+    "Case-Control Studies",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mental Disorders",
+    "Middle Aged",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

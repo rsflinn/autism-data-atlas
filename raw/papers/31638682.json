@@ -1,0 +1,46 @@
+{
+  "pmid": "31638682",
+  "doi": "10.1001/jama.2019.14685",
+  "title": "Effect of Fluoxetine on Obsessive-Compulsive Behaviors in Children and Adolescents With Autism Spectrum Disorders: A Randomized Clinical Trial",
+  "authors": "Reddihough DS, Marraffa C, Mouti A, O'Sullivan M, Lee KJ, Orsini F, et al.",
+  "journal": "JAMA",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Selective serotonin receptor inhibitors are prescribed to reduce the severity of core behaviors of autism spectrum disorders, but their efficacy remains uncertain.\n\nTo determine the efficacy of fluoxetine for reducing the frequency and severity of obsessive-compulsive behaviors in autism spectrum disorders.\n\nMulticenter, randomized, placebo-controlled clinical trial. Participants aged 7.5-18 years with autism spectrum disorders and a total score of 6 or higher on the Children's Yale-Brown Obsessive Compulsive Scale, modified for pervasive developmental disorder (CYBOCS-PDD) were recruited from 3 tertiary health centers across Australia. Enrollment began November 2010 and ended April 2017. Follow-up ended August 2017.\n\nParticipants were randomized to receive fluoxetine (n&#x2009;=&#x2009;75) or placebo (n&#x2009;=&#x2009;71). Study medication was commenced at 4 or 8 mg/d for the first week, depending on weight, and then titrated to a maximum dose of 20 or 30 mg/d over 4 weeks. Treatment duration was 16 weeks.\n\nThe primary outcome was the total score on the CYBOCS-PDD (scores range from 0-20; higher scores indicate higher levels of maladaptive behaviors; minimal clinically important difference, 2 points) at 16 weeks postrandomization, analyzed with a linear regression model adjusted for stratification factors (site, age at baseline, and intellectual disability), with an additional prespecified model that included additional adjustment for baseline score, sex, communication level, and imbalanced baseline and demographic variables.\n\nAmong the 146 participants who were randomized (85% males; mean age, 11.2 years), 109 completed the trial; 31 in the fluoxetine group and 21 in the placebo group dropped out or did not complete treatment. The mean CYBOCS-PDD score from baseline to 16 weeks decreased in the fluoxetine group from 12.80 to 9.02 points (3.72-point decrease; 95% CI, -4.85 to -2.60) and in the placebo group from 13.13 to 10.89 points (2.53-point decrease; 95% CI, -3.86 to -1.19). The between-group mean difference at 16 weeks was -2.01 (95% CI, -3.77 to -0.25; P&#x2009;=&#x2009;.03) (adjusted for stratification factors), and in the prespecified model with further adjustment, it was -1.17 (95% CI, -3.01 to 0.67; P&#x2009;=&#x2009;.21).\n\nIn this preliminary study of children and adolescents with autism spectrum disorders, treatment with fluoxetine compared with placebo resulted in significantly lower scores for obsessive-compulsive behaviors at 16 weeks. Interpretation is limited by the high dropout rate, null findings of prespecified analyses that accounted for potentially confounding factors and baseline imbalances, and CIs for the treatment effect that included the minimal clinically important difference.\n\nanzctr.org.au Identifier: ACTRN12608000173392.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Selective serotonin receptor inhibitors are prescribed to reduce the severity of core behaviors of autism spectrum disorders, but their efficacy remains uncertain. To determine the efficacy of fluoxetine for reducing the frequency and severity of obsessive-compulsive behaviors in autism spectrum disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31638682/",
+  "mesh_terms": [
+    "Adolescent",
+    "Anxiety",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Confounding Factors, Epidemiologic",
+    "Female",
+    "Fluoxetine",
+    "Humans",
+    "Male",
+    "Obsessive-Compulsive Disorder",
+    "Patient Acuity",
+    "Selective Serotonin Reuptake Inhibitors",
+    "Stereotypic Movement Disorder",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

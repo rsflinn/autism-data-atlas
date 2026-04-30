@@ -1,0 +1,45 @@
+{
+  "pmid": "30064494",
+  "doi": "10.1186/s13287-018-0957-3",
+  "title": "Single-molecule fluorescence in-situ hybridization reveals that human SHANK3 mRNA expression varies during development and in autism-associated SHANK3 heterozygosity",
+  "authors": "Taylor SE, Taylor RD, Price J, Andreae LC",
+  "journal": "Stem cell research & therapy",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Deletions and mutations in the SHANK3 gene are strongly associated with autism spectrum disorder and underlie the autism-associated disorder Phelan-McDermid syndrome. SHANK3 is a scaffolding protein found at the post-synaptic membrane of excitatory neurons.\n\nSingle-molecule fluorescence in-situ hybridization (smFISH) allows the visualization of single mRNA transcripts in vitro. Here we perform and quantify smFISH in human inducible pluripotent stem cell (hiPSC)-derived cortical neurons, targeting the SHANK3 transcript.\n\nBoth smFISH and conventional immunofluorescence staining demonstrated a developmental increase in SHANK3 mRNA and protein, respectively, in control human cortical neurons. Analysis of single SHANK3 mRNA molecules in neurons derived from an autistic individual heterozygous for SHANK3 indicated that while the number of SHANK3 mRNA transcripts remained comparable with control levels in the cell soma, there was a 50% reduction within neuronal processes, suggesting that local, dendritic targeting of SHANK3 mRNA may be specifically affected in SHANK3 haploinsufficiency.\n\nHuman SHANK3 mRNA shows developmentally regulated dendritic localization in hiPSC-derived neurons, which is reduced in neurons generated from a haploinsufficient individual with autism. Although further replication is needed, given the importance of local mRNA translation in synaptic function, this could represent an important early abnormality.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Deletions and mutations in the SHANK3 gene are strongly associated with autism spectrum disorder and underlie the autism-associated disorder Phelan-McDermid syndrome. SHANK3 is a scaffolding protein found at the post-synaptic membrane of excitatory neurons.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30064494/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Humans",
+    "In Situ Hybridization, Fluorescence",
+    "Nerve Tissue Proteins",
+    "RNA, Messenger"
+  ],
+  "keywords": [
+    "Autism",
+    "Autism spectrum disorder",
+    "Human inducible pluripotent stem cell",
+    "ProSAP2",
+    "SHANK3",
+    "Single-molecule fluorescence in-situ hybridization",
+    "mRNA"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

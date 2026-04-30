@@ -1,0 +1,53 @@
+{
+  "pmid": "32130906",
+  "doi": "10.1016/j.celrep.2020.02.030",
+  "title": "Single-Cell Analysis of Foxp1-Driven Mechanisms Essential for Striatal Development",
+  "authors": "Anderson AG, Kulkarni A, Harper M, Konopka G",
+  "journal": "Cell reports",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "The striatum is a critical forebrain structure integrating cognitive, sensory, and motor information from diverse brain regions into meaningful behavioral output. However, the transcriptional mechanisms underlying striatal development at single-cell resolution remain unknown. Using single-cell RNA sequencing (RNA-seq), we examine the cellular diversity of the early postnatal striatum and show that Foxp1, a transcription factor strongly linked to autism and intellectual disability, regulates the cellular composition, neurochemical architecture, and connectivity of the striatum in a cell-type-dependent fashion. We also identify Foxp1-regulated target genes within distinct cell types and connect these molecular changes to functional and behavioral deficits relevant to phenotypes described in patients with FOXP1 loss-of-function mutations. Using this approach, we could also examine the non-cell-autonomous effects produced by disrupting one cell type and the molecular compensation that occurs in other populations. These data reveal the cell-type-specific transcriptional mechanisms regulated by Foxp1 that underlie distinct features of striatal circuitry.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FOXP1"
+  ],
+  "summary": "The striatum is a critical forebrain structure integrating cognitive, sensory, and motor information from diverse brain regions into meaningful behavioral output. However, the transcriptional mechanisms underlying striatal development at single-cell resolution remain unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32130906/",
+  "mesh_terms": [
+    "Animals",
+    "Animals, Newborn",
+    "Biomarkers",
+    "Corpus Striatum",
+    "Forkhead Transcription Factors",
+    "Gene Deletion",
+    "Globus Pallidus",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Neurons",
+    "Repressor Proteins",
+    "Signal Transduction",
+    "Single-Cell Analysis",
+    "Up-Regulation"
+  ],
+  "keywords": [
+    "FOXP1",
+    "autism",
+    "neurodevelopment",
+    "single-cell RNA sequencing",
+    "striatum"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

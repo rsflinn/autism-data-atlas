@@ -1,0 +1,67 @@
+{
+  "pmid": "31230762",
+  "doi": "10.1016/j.neuron.2019.05.037",
+  "title": "The Autism-Associated Gene Scn2a Contributes to Dendritic Excitability and Synaptic Function in the Prefrontal Cortex",
+  "authors": "Spratt PWE, Ben-Shalom R, Keeshen CM, Burke KJ, Clarkson RL, Sanders SJ, et al.",
+  "journal": "Neuron",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is strongly associated with de novo gene mutations. One of the most commonly affected genes is SCN2A. ASD-associated SCN2A mutations impair the encoded protein Na1.2, a sodium channel important for action potential initiation and propagation in developing excitatory cortical neurons. The link between an axonal sodium channel and ASD, a disorder typically attributed to synaptic or transcriptional dysfunction, is unclear. Here we show that Na1.2 is unexpectedly critical for dendritic excitability and synaptic function in mature pyramidal neurons in addition to regulating early developmental axonal excitability. Na1.2 loss reduced action potential backpropagation into dendrites, impairing synaptic plasticity and synaptic strength, even when Na1.2 expression was disrupted in a cell-autonomous fashion late in development. These results reveal a novel dendritic function for Na1.2, providing insight into cellular mechanisms probably underlying circuit and behavioral dysfunction in ASD.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Autism spectrum disorder (ASD) is strongly associated with de novo gene mutations. One of the most commonly affected genes is SCN2A.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31230762/",
+  "mesh_terms": [
+    "Action Potentials",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Calcium Signaling",
+    "Dendrites",
+    "Female",
+    "Gene Expression Regulation, Developmental",
+    "Heterozygote",
+    "Hippocampus",
+    "Male",
+    "Maze Learning",
+    "Mice",
+    "Miniature Postsynaptic Potentials",
+    "N-Methylaspartate",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Neocortex",
+    "Prefrontal Cortex",
+    "Protein Engineering",
+    "Pyramidal Cells",
+    "Social Behavior",
+    "alpha-Amino-3-hydroxy-5-methyl-4-isoxazolepropionic Acid"
+  ],
+  "keywords": [
+    "2-photon imaging",
+    "NaV1.2",
+    "Scn2a",
+    "action potential backpropagation",
+    "autism spectrum disorder",
+    "dendritic excitability",
+    "electrophysiology",
+    "haploinsufficiency",
+    "intellectual disability",
+    "sodium channel",
+    "synaptic plasticity"
+  ],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

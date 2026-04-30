@@ -1,0 +1,54 @@
+{
+  "pmid": "31679355",
+  "doi": null,
+  "title": "Prevalence of Autism and its Comorbidities and the Relationship with Maternal Psychopathology: A National Population-Based Study",
+  "authors": "Mohammadi MR, Ahmadi N, Khaleghi A, Zarafshan H, Mostafavi SA, Kamali K, et al.",
+  "journal": "Archives of Iranian medicine",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "There is no clear picture regarding the prevalence rates of autism and its comorbidities among Iranian children and adolescents. The present study aimed to estimate these rates as part of a large national population-based study on epidemiology of psychiatric disorders in Iranian children and adolescents.\n\nThe total sample consisted of 31000 children and adolescents between 6 to 18 years of age. The Kiddie Schedule for Affective Disorders and Schizophrenia for School-Age Present and Life time version (K-SADS-PL) was used as the diagnostic tool.\n\nThe prevalence of autism in the total sample is equal to 0.1% (10 per 10000), with a 2:1 male-to-female ratio. In total, 86% of people with autism had at least one comorbid condition. Intellectual disability, epilepsy, enuresis and attention deficit and hyperactivity disorder (ADHD) with prevalence rates of 70.3%, 29.7%, 27% and 21.62%, respectively, were the most prevalent comorbid conditions in people with autism. Maternal personality disorders were also shown to be associated with increasing risk of autism.\n\nThe present study shows high prevalence rates for autism and its comorbid conditions among Iranian children and adolescents. It also reveals that there is a relationship between some maternal psychiatric disorders and the risk of autism.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "There is no clear picture regarding the prevalence rates of autism and its comorbidities among Iranian children and adolescents. The present study aimed to estimate these rates as part of a large national population-based study on epidemiology of psychiatric disorders in Iranian children and adolescents.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31679355/",
+  "mesh_terms": [
+    "Adolescent",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "Comorbidity",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Iran",
+    "Logistic Models",
+    "Male",
+    "Mothers",
+    "Personality Disorders",
+    "Prevalence",
+    "Psychiatric Status Rating Scales",
+    "Sex Distribution"
+  ],
+  "keywords": [
+    "Attention deficit-hyperactivity disorder",
+    "Autism",
+    "Comorbidity",
+    "Epilepsy",
+    "Intellectual disability",
+    "Prevalence"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

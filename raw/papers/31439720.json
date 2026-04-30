@@ -1,0 +1,50 @@
+{
+  "pmid": "31439720",
+  "doi": "10.1136/jmedgenet-2018-105927",
+  "title": "SCAMP5 mutation causes a neurodevelopmental disorder with autistic features and seizures",
+  "authors": "Hubert L, Cannata Serio M, Villoing-Gaud&#xe9; L, Boddaert N, Kaminska A, Rio M, et al.",
+  "journal": "Journal of medical genetics",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "Autistic spectrum disorders (ASDs) with developmental delay and seizures are a genetically heterogeneous group of diseases caused by at least 700 different genes. Still, a number of cases remain genetically undiagnosed.\n\nThe objective of this study was to identify and characterise pathogenic variants in two individuals from unrelated families, both of whom presented a similar clinical phenotype that included an ASD, intellectual disability (ID) and seizures.\n\nWhole-exome sequencing was used to identify pathogenic variants in the two individuals. Functional studies performed in themodel was used to assess the protein function in vivo.\n\nProbands shared a heterozygous de novo secretory carrier membrane protein (SCAMP5) variant (NM_001178111.1:c.538G>T) resulting in a p.Gly180Trp missense variant.belongs to a family of tetraspanin membrane proteins found in secretory and endocytic compartments of neuronal synapses. In the fly SCAMP orthologue, the p.Gly302Trp genotype corresponds to human p.Gly180Trp. Western blot analysis of proteins overexpressed in thefat body showed strongly reduced levels of the SCAMP p.Gly302Trp protein compared with the wild-type protein, indicating that the mutant either reduced expression or increased turnover of the protein. The expression of the fly homologue of the humanp.Gly180Trp mutation caused similar eye and neuronal phenotypes as the expression of SCAMP RNAi, suggesting a dominant-negative effect.\n\nOur study identifies SCAMP5 deficiency as a cause for ASD and ID and underscores the importance of synaptic vesicular trafficking in neurodevelopmental disorders.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Autistic spectrum disorders (ASDs) with developmental delay and seizures are a genetically heterogeneous group of diseases caused by at least 700 different genes. Still, a number of cases remain genetically undiagnosed.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31439720/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Child",
+    "Child, Preschool",
+    "Disease Models, Animal",
+    "Drosophila melanogaster",
+    "Exome",
+    "Genetic Predisposition to Disease",
+    "Genotype",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Membrane Proteins",
+    "Mutation, Missense",
+    "Neurodevelopmental Disorders",
+    "Seizures",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "clinical genetics",
+    "neurology"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

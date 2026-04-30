@@ -1,0 +1,56 @@
+{
+  "pmid": "37209683",
+  "doi": "10.1016/j.cell.2023.04.035",
+  "title": "Site-specific R-loops induce CGG repeat contraction and fragile X gene reactivation",
+  "authors": "Lee HG, Imaichi S, Kraeutler E, Aguilar R, Lee YW, Sheridan SD, et al.",
+  "journal": "Cell",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Here, we describe an approach to correct the genetic defect in fragile X syndrome (FXS) via recruitment of endogenous repair mechanisms. A leading cause of autism spectrum disorders, FXS results from epigenetic silencing of FMR1 due to a congenital trinucleotide (CGG) repeat expansion. By investigating conditions favorable to FMR1 reactivation, we find MEK and BRAF inhibitors that induce a strong repeat contraction and full FMR1 reactivation in cellular models. We trace the mechanism to DNA demethylation and site-specific R-loops, which are necessary and sufficient for repeat contraction. A positive feedback cycle comprising demethylation, de novo FMR1 transcription, and R-loop formation results in the recruitment of endogenous DNA repair mechanisms that then drive excision of the long CGG repeat. Repeat contraction is specific to FMR1 and restores the production of FMRP protein. Our study therefore identifies a potential method of treating FXS in the future.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Here, we describe an approach to correct the genetic defect in fragile X syndrome (FXS) via recruitment of endogenous repair mechanisms. A leading cause of autism spectrum disorders, FXS results from epigenetic silencing of FMR1 due to a congenital trinucleotide (CGG) repeat expansion.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37209683/",
+  "mesh_terms": [
+    "Humans",
+    "Trinucleotide Repeat Expansion",
+    "R-Loop Structures",
+    "DNA Methylation",
+    "Fragile X Syndrome",
+    "Epigenesis, Genetic",
+    "Fragile X Messenger Ribonucleoprotein 1"
+  ],
+  "keywords": [
+    "CGG repeat",
+    "DNA methylation",
+    "DNA repair",
+    "FMR1",
+    "FMRP",
+    "R-loop",
+    "X-linked disease",
+    "autism spectrum disorders",
+    "fragile X syndrome",
+    "gene editing",
+    "gene reactivation",
+    "neurodevelopmental disorders",
+    "repeat contraction",
+    "repeat expansion disorders",
+    "trinucleotide repeat"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pmid": "38657774",
+  "doi": "10.1016/j.jad.2024.04.080",
+  "title": "Genetic correlation and causal associations between psychiatric disorders and lung cancer risk",
+  "authors": "Shi J, Wen W, Long J, Gamazon ER, Tao R, Cai Q",
+  "journal": "Journal of affective disorders",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Patients with certain psychiatric disorders have increased lung cancer incidence. However, establishing a causal relationship through traditional epidemiological methods poses challenges.\n\nAvailable summary statistics of genome-wide association studies of cigarette smoking, lung cancer, and eight psychiatric disorders, including attention deficit/hyperactivity disorder (ADHD), autism, depression, major depressive disorder, bipolar disorder, insomnia, neuroticism, and schizophrenia (range N: 46,350-1,331,010) were leveraged to estimate genetic correlations using Linkage Disequilibrium Score Regression and assess causal effect of each psychiatric disorder on lung cancer using two-sample Mendelian randomization (MR) models, comprising inverse-variance weighted (IVW), weighted median, MR-Egger, pleiotropy residual sum and outlier testing (MR-PRESSO), and a constrained maximum likelihood approach (cML-MR).\n\nSignificant positive correlations were observed between each psychiatric disorder and both smoking and lung cancer (all FDR&#xa0;<&#xa0;0.05), except for the correlation between autism and lung cancer. Both univariable and the cML-MA MR analyses demonstrated that liability to schizophrenia, depression, ADHD, or insomnia was associated with an increased risk of overall lung cancer. Genetic liability to insomnia was linked specifically to squamous cell carcinoma (SCC), while genetic liability to ADHD was associated with an elevated risk of both SCC and small cell lung cancer (all P&#xa0;<&#xa0;0.05). The later was further supported by multivariable MR analyses, which accounted for smoking.\n\nParticipants were constrained to European ancestry populations. Causal estimates from binary psychiatric disorders may be biased.\n\nOur findings suggest appropriate management of several psychiatric disorders, particularly ADHD, may potentially reduce the risk of developing lung cancer.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Patients with certain psychiatric disorders have increased lung cancer incidence. However, establishing a causal relationship through traditional epidemiological methods poses challenges.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38657774/",
+  "mesh_terms": [
+    "Humans",
+    "Lung Neoplasms",
+    "Mendelian Randomization Analysis",
+    "Mental Disorders",
+    "Genome-Wide Association Study",
+    "Schizophrenia",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Genetic Predisposition to Disease",
+    "Autistic Disorder",
+    "Bipolar Disorder",
+    "Risk Factors",
+    "Sleep Initiation and Maintenance Disorders",
+    "Major Depressive Disorder",
+    "Neuroticism",
+    "Causality",
+    "Carcinoma, Squamous Cell",
+    "Cigarette Smoking",
+    "Linkage Disequilibrium"
+  ],
+  "keywords": [
+    "Attention deficit/hyperactivity disorder",
+    "Depression",
+    "Insomnia",
+    "Lung cancer",
+    "Mendelian randomization",
+    "Schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

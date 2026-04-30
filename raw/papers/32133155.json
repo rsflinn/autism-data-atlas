@@ -1,0 +1,31 @@
+{
+  "pmid": "32133155",
+  "doi": "10.1038/s41525-020-0117-4",
+  "title": "Single-cell sperm transcriptomes and variants from fathers of children with and without autism spectrum disorder",
+  "authors": "Tomoiaga D, Aguiar-Pulido V, Shrestha S, Feinstein P, Levy SE, Mason CE, et al.",
+  "journal": "NPJ genomic medicine",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "The human sperm is one of the smallest cells in the body, but also one of the most important, as it serves as the entire paternal genetic contribution to a child. Investigating RNA and mutations in sperm is especially relevant for diseases such as autism spectrum disorders (ASD), which have been correlated with advanced paternal age. Historically, studies have focused on the assessment of bulk sperm, wherein millions of individual sperm are present and only high-frequency variants can be detected. Using 10&#xd7; Chromium single-cell sequencing technology, we assessed the transcriptome from >65,000 single spermatozoa across six sperm donors (scSperm-RNA-seq), including two who fathered multiple children with ASD and four fathers of neurotypical children. Using RNA-seq methods for differential expression and variant analysis, we found clusters of sperm mutations in each donor that are indicative of the sperm being produced by different stem cell pools. Finally, we have shown that genetic variations can be found in single sperm.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The human sperm is one of the smallest cells in the body, but also one of the most important, as it serves as the entire paternal genetic contribution to a child. Investigating RNA and mutations in sperm is especially relevant for diseases such as autism spectrum disorders (ASD), which have been correlated with advanced paternal age.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32133155/",
+  "mesh_terms": [],
+  "keywords": [
+    "Molecular medicine",
+    "Predictive markers"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

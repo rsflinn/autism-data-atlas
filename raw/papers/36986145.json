@@ -1,0 +1,42 @@
+{
+  "pmid": "36986145",
+  "doi": "10.3390/nu15061415",
+  "title": "Effects of Probiotics on Autism Spectrum Disorder in Children: A Systematic Review and Meta-Analysis of Clinical Trials",
+  "authors": "He X, Liu W, Tang F, Chen X, Song G",
+  "journal": "Nutrients",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "Many studies have explored the efficacy of probiotics on autism spectrum disorder (ASD) in children, but there is no consensus on the curative effect. This systematic review and meta-analysis aimed to comprehensively investigate whether probiotics could improve behavioral symptoms in children with ASD. A systematic database search was conducted and a total of seven studies were included in the meta-analysis. We found a nonsignificant overall effect size of probiotics on behavioral symptoms in children with ASD (SMD = -0.24, 95% CI: -0.60 to 0.11,= 0.18). However, a significant overall effect size was found in the subgroup of the probiotic blend (SMD = -0.42, 95% CI: -0.83 to -0.02,= 0.04). Additionally, these studies provided limited evidence for the efficacy of probiotics due to their small sample sizes, a shorter intervention duration, different probiotics used, different scales used, and poor research quality. Thus, randomized, double-blind, and placebo-controlled studies following strict trial guidelines are needed to precisely demonstrate the therapeutic effects of probiotics on ASD in children.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Many studies have explored the efficacy of probiotics on autism spectrum disorder (ASD) in children, but there is no consensus on the curative effect. This systematic review and meta-analysis aimed to comprehensively investigate whether probiotics could improve behavioral symptoms in children with ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36986145/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Autism Spectrum Disorder",
+    "Probiotics",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "behavioral symptoms",
+    "children",
+    "meta-analysis",
+    "probiotics"
+  ],
+  "article_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "40004478",
+  "doi": "10.3390/genes16020149",
+  "title": "Systematic Review: Fragile X Syndrome Across the Lifespan with a Focus on Genetics, Neurodevelopmental, Behavioral and Psychiatric Associations",
+  "authors": "Genovese AC, Butler MG",
+  "journal": "Genes",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is one of the most common genetic causes of intellectual developmental disability and autism spectrum disorder (ASD), second only to Down's syndrome and associated with a broad range of neurodevelopmental, behavioral, and psychiatric challenges. FXS may be present in infants or young children with characteristic dysmorphic features, developmental delays, and behavioral challenges. The diagnosis of FXS is confirmed by the molecular genetic testing of thegene encoding fragile X messenger RNA-binding protein (FMRP), involved in regulating the translation of multiple mRNAs which play a key role in neuronal development and synaptic plasticity. Understanding the genetic cause, pathophysiology, and natural history of FXS is crucial for identifying commonly associated comorbidities, instituting effective therapeutic interventions, and improving long-term outcomes.\n\nThis systematic review employed a comprehensive literature search using multiple electronic databases including PubMed, Web of Science, and Scopus with keywords related to fragile X syndrome, lifespan, genetics, neurodevelopmental, behavioral, and psychiatric disorders.\n\nFXS is associated with an increased risk for specific neurodevelopmental, or psychiatric disorders. Symptoms and challenges associated with FXS vary based on multiple factors, including genetic differences, age, sex, comorbid conditions, various environmental influences, the availability of support, and opportunities for therapeutic interventions. Knowledge of these associations helps guide caregivers and clinicians in identifying potentially treatable conditions that can help to improve the lives of affected patients and their families.\n\nThe focus of this article is to explore and describe the genetic underpinnings of FXS, identify associated developmental, behavioral, and psychiatric conditions over the lifespan, and provide a review of clinical features, therapeutic interventions including investigational treatments, and current research updates.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is one of the most common genetic causes of intellectual developmental disability and autism spectrum disorder (ASD), second only to Down's syndrome and associated with a broad range of neurodevelopmental, behavioral, and psychiatric challenges. FXS may be present in infants or young children with characteristic dysmorphic features, developmental delays, and behavioral challenges.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40004478/",
+  "mesh_terms": [
+    "Humans",
+    "Fragile X Syndrome",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Neurodevelopmental Disorders",
+    "Mental Disorders",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Longevity"
+  ],
+  "keywords": [
+    "behavioral",
+    "fragile X syndrome",
+    "genetics",
+    "lifespan",
+    "neurodevelopmental",
+    "psychiatric"
+  ],
+  "article_types": [
+    "Systematic Review",
+    "Journal Article"
+  ]
+}

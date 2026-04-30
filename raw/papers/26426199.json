@@ -1,0 +1,45 @@
+{
+  "pmid": "26426199",
+  "doi": "10.1002/aur.1570",
+  "title": "Human Inducible Pluripotent Stem Cells and Autism Spectrum Disorder: Emerging Technologies",
+  "authors": "Nestor MW, Phillips AW, Artimovich E, Nestor JE, Hussman JP, Blatt GJ",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) is a behaviorally defined neurodevelopmental condition. Symptoms of ASD cover the spectrum from mild qualitative differences in social interaction to severe communication and social and behavioral challenges that require lifelong support. Attempts at understanding the pathophysiology of ASD have been hampered by a multifactorial etiology that stretches the limits of current behavioral and cell based models. Recent progress has implicated numerous autism-risk genes but efforts to gain a better understanding of the underlying biological mechanisms have seen slow progress. This is in part due to lack of appropriate models for complete molecular and pharmacological studies. The advent of induced pluripotent stem cells (iPSC) has reinvigorated efforts to establish more complete model systems that more reliably identify molecular pathways and predict effective drug targets and candidates in ASD. iPSCs are particularly appealing because they can be derived from human patients and controls for research purposes and provide a technology for the development of a personalized treatment regimen for ASD patients. The pluripotency of iPSCs allow them to be reprogrammed into a number of CNS cell types and phenotypically screened across many patients. This quality is already being exploited in protocols to generate 2-dimensional (2-D) and three-dimensional (3-D) models of neurons and developing brain structures. iPSC models make powerful platforms that can be interrogated using electrophysiology, gene expression studies, and other cell-based quantitative assays. iPSC technology has limitations but when combined with other model systems has great potential for helping define the underlying pathophysiology of ASD. Autism Res 2016, 9: 513-535. &#xa9; 2015 International Society for Autism Research, Wiley Periodicals, Inc.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) is a behaviorally defined neurodevelopmental condition. Symptoms of ASD cover the spectrum from mild qualitative differences in social interaction to severe communication and social and behavioral challenges that require lifelong support.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26426199/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Genomics",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Models, Biological"
+  ],
+  "keywords": [
+    "CRISPR",
+    "autism",
+    "drug-screening",
+    "high-throughput",
+    "human stem cells",
+    "inducible pluripotent stem cells",
+    "optogenetics",
+    "organoids"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

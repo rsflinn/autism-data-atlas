@@ -1,0 +1,41 @@
+{
+  "pmid": "38267953",
+  "doi": "10.1186/s12993-024-00228-z",
+  "title": "Structural connectome alterations between individuals with autism and neurotypical controls using feature representation learning",
+  "authors": "Jang Y, Choi H, Yoo S, Park H, Park BY",
+  "journal": "Behavioral and brain functions : BBF",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder is one of the most common neurodevelopmental conditions associated with sensory and social communication impairments. Previous neuroimaging studies reported that atypical nodal- or network-level functional brain organization in individuals with autism was associated with autistic behaviors. Although dimensionality reduction techniques have the potential to uncover new biomarkers, the analysis of whole-brain structural connectome abnormalities in a low-dimensional latent space is underinvestigated. In this study, we utilized autoencoder-based feature representation learning for diffusion magnetic resonance imaging-based structural connectivity in 80 individuals with autism and 61 neurotypical controls that passed strict quality controls. We generated low-dimensional latent features using the autoencoder model for each group and adopted an integrated gradient approach to assess the contribution of the input data for predicting latent features during the encoding process. Subsequently, we compared the integrated gradient values between individuals with autism and neurotypical controls and observed differences within the transmodal regions and between the sensory and limbic systems. Finally, we identified significant associations between integrated gradient values and communication abilities in individuals with autism. Our findings provide insights into the whole-brain structural connectome in autism and may help identify potential biomarkers for autistic connectopathy.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder is one of the most common neurodevelopmental conditions associated with sensory and social communication impairments. Previous neuroimaging studies reported that atypical nodal- or network-level functional brain organization in individuals with autism was associated with autistic behaviors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38267953/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Connectome",
+    "Learning",
+    "Biomarkers"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Autoencoder",
+    "Feature representation learning",
+    "Integrated gradient",
+    "Structural connectivity"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

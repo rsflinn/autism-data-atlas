@@ -1,0 +1,37 @@
+{
+  "pmid": "35277549",
+  "doi": "10.1038/s41598-022-08102-6",
+  "title": "Large scale validation of an early-age eye-tracking biomarker of an autism spectrum disorder subtype",
+  "authors": "Wen TH, Cheng A, Andreason C, Zahiri J, Xiao Y, Xu R, et al.",
+  "journal": "Scientific reports",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "Few clinically validated biomarkers of ASD exist which can rapidly, accurately, and objectively identify autism during the first years of life and be used to support optimized treatment outcomes and advances in precision medicine. As such, the goal of the present study was to leverage both simple and computationally-advanced approaches to validate an eye-tracking measure of social attention preference, the GeoPref Test, among 1,863 ASD, delayed, or typical toddlers (12-48&#xa0;months) referred from the community or general population via a primary care universal screening program. Toddlers participated in diagnostic and psychometric evaluations and the GeoPref Test: a 1-min movie containing side-by-side dynamic social and geometric images. Following testing, diagnosis was denoted as ASD, ASD features, LD, GDD, Other, typical sibling of ASD proband, or typical. Relative to other diagnostic groups, ASD toddlers exhibited the highest levels of visual attention towards geometric images and those with especially high fixation levels exhibited poor clinical profiles. Using the 69% fixation threshold, the GeoPref Test had 98% specificity, 17% sensitivity, 81% PPV, and 65% NPV. Sensitivity increased to 33% when saccades were included, with comparable validity across sex, ethnicity, or race. The GeoPref Test was also highly reliable up to 24&#xa0;months following the initial test. Finally, fixation levels among twins concordant for ASD were significantly correlated, indicating that GeoPref Test performance may be genetically driven. As the GeoPref Test yields few false positives (~&#x2009;2%) and is equally valid across demographic categories, the current findings highlight the ability of the GeoPref Test to rapidly and accurately detect autism before the 2nd birthday in a subset of children and serve as a biomarker for a unique ASD subtype in clinical trials.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Few clinically validated biomarkers of ASD exist which can rapidly, accurately, and objectively identify autism during the first years of life and be used to support optimized treatment outcomes and advances in precision medicine. As such, the goal of the present study was to leverage both simple and computationally-advanced approaches to validate an eye-tracking measure of social attention preference, the GeoPref Test, among 1,863 ASD, delayed, or typical toddlers (12-48&#xa0;months) referred f",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35277549/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Eye-Tracking Technology",
+    "Humans",
+    "Saccades"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

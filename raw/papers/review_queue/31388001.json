@@ -1,0 +1,53 @@
+{
+  "pmid": "31388001",
+  "doi": "10.1038/s41467-019-11437-w",
+  "title": "Haploinsufficiency in the ANKS1B gene encoding AIDA-1 leads to a neurodevelopmental syndrome",
+  "authors": "Carbonell AU, Cho CH, Tindi JO, Counts PA, Bates JC, Erdjument-Bromage H, et al.",
+  "journal": "Nature communications",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders, including autism spectrum disorder, have complex polygenic etiologies. Single-gene mutations in patients can help define genetic factors and molecular mechanisms underlying neurodevelopmental disorders. Here we describe individuals with monogenic heterozygous microdeletions in ANKS1B, a predicted risk gene for autism and neuropsychiatric diseases. Affected individuals present with a spectrum of neurodevelopmental phenotypes, including autism, attention-deficit hyperactivity disorder, and speech and motor deficits. Neurons generated from patient-derived induced pluripotent stem cells demonstrate loss of the ANKS1B-encoded protein AIDA-1, a brain-specific protein highly enriched at neuronal synapses. A transgenic mouse model of Anks1b haploinsufficiency recapitulates a range of patient phenotypes, including social deficits, hyperactivity, and sensorimotor dysfunction. Identification of the AIDA-1 interactome using quantitative proteomics reveals protein networks involved in synaptic function and the etiology of neurodevelopmental disorders. Our findings formalize a link between the synaptic protein AIDA-1 and a rare, previously undefined genetic disease we term ANKS1B haploinsufficiency syndrome.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Neurodevelopmental disorders, including autism spectrum disorder, have complex polygenic etiologies. Single-gene mutations in patients can help define genetic factors and molecular mechanisms underlying neurodevelopmental disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31388001/",
+  "mesh_terms": [
+    "Animals",
+    "Behavior, Animal",
+    "Cells, Cultured",
+    "Child",
+    "Child, Preschool",
+    "Disease Models, Animal",
+    "Female",
+    "Haploinsufficiency",
+    "Hippocampus",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Intracellular Signaling Peptides and Proteins",
+    "Male",
+    "Mice",
+    "Mice, Knockout",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "Primary Cell Culture",
+    "Protein Interaction Mapping",
+    "Protein Interaction Maps",
+    "Synapses",
+    "Syndrome",
+    "Exome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

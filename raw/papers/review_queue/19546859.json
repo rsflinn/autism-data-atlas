@@ -1,0 +1,48 @@
+{
+  "pmid": "19546859",
+  "doi": "10.1038/mp.2009.57",
+  "title": "Rare structural variants found in attention-deficit hyperactivity disorder are preferentially associated with neurodevelopmental genes",
+  "authors": "Elia J, Gai X, Xie HM, Perin JC, Geiger E, Glessner JT, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2009-06",
+  "source": "pubmed",
+  "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is a common and highly heritable disorder, but specific genetic factors underlying risk remain elusive. To assess the role of structural variation in ADHD, we identified 222 inherited copy number variations (CNVs) within 335 ADHD patients and their parents that were not detected in 2026 unrelated healthy individuals. Although no excess CNVs, either deletions or duplications, were found in the ADHD cohort relative to controls, the inherited rare CNV-associated gene set was significantly enriched for genes reported as candidates in studies of autism, schizophrenia and Tourette syndrome, including A2BP1, AUTS2, CNTNAP2 and IMMP2L. The ADHD CNV gene set was also significantly enriched for genes known to be important for psychological and neurological functions, including learning, behavior, synaptic transmission and central nervous system development. Four independent deletions were located within the protein tyrosine phosphatase gene, PTPRD, recently implicated as a candidate gene for restless legs syndrome, which frequently presents with ADHD. A deletion within the glutamate receptor gene, GRM5, was found in an affected parent and all three affected offspring whose ADHD phenotypes closely resembled those of the GRM5 null mouse. Together, these results suggest that rare inherited structural variations play an important role in ADHD development and indicate a set of putative candidate genes for further study in the etiology of ADHD.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CNTNAP2"
+  ],
+  "summary": "Attention-deficit/hyperactivity disorder (ADHD) is a common and highly heritable disorder, but specific genetic factors underlying risk remain elusive. To assess the role of structural variation in ADHD, we identified 222 inherited copy number variations (CNVs) within 335 ADHD patients and their parents that were not detected in 2026 unrelated healthy individuals.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19546859/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Central Nervous System",
+    "Child",
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Polymorphism, Single Nucleotide",
+    "Receptor, Metabotropic Glutamate 5",
+    "Receptor-Like Protein Tyrosine Phosphatases, Class 2",
+    "Receptors, Metabotropic Glutamate",
+    "White People"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

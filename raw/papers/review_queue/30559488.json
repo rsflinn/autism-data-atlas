@@ -1,0 +1,46 @@
+{
+  "pmid": "30559488",
+  "doi": "10.1038/s41588-018-0288-4",
+  "title": "Neurodevelopmental disease genes implicated by de novo mutation and copy number variation morbidity",
+  "authors": "Coe BP, Stessman HAF, Sulovari A, Geisheker MR, Bakken TE, Lake AM, et al.",
+  "journal": "Nature genetics",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "We combined de novo mutation (DNM) data from 10,927 individuals with developmental delay and autism to identify 253 candidate neurodevelopmental disease genes with an excess of missense and/or likely gene-disruptive (LGD) mutations. Of these genes, 124 reach exome-wide significance (P&#x2009;<&#x2009;5&#x2009;&#xd7;&#x2009;10) for DNM. Intersecting these results with copy number variation (CNV) morbidity data shows an enrichment for genomic disorder regions (30/253, likelihood ratio (LR)&#x2009;+1.85, P&#x2009;=&#x2009;0.0017). We identify genes with an excess of missense DNMs overlapping deletion syndromes (for example, KIF1A and the 2q37 deletion) as well as duplication syndromes, such as recurrent MAPK3 missense mutations within the chromosome 16p11.2 duplication, recurrent CHD4 missense DNMs in the 12p13 duplication region, and recurrent WDFY4 missense DNMs in the 10q11.23 duplication region. Network analyses of genes showing an excess of DNMs highlights functional networks, including cell-specific enrichments in the D1&#x2009;and D2&#x2009;spiny neurons of the striatum.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "We combined de novo mutation (DNM) data from 10,927 individuals with developmental delay and autism to identify 253 candidate neurodevelopmental disease genes with an excess of missense and/or likely gene-disruptive (LGD) mutations. Of these genes, 124 reach exome-wide significance (P&#x2009;<&#x2009;5&#x2009;&#xd7;&#x2009;10) for DNM.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30559488/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Chromosome Aberrations",
+    "DNA Copy Number Variations",
+    "Developmental Disabilities",
+    "Exome",
+    "Humans",
+    "Intellectual Disability",
+    "Intracellular Signaling Peptides and Proteins",
+    "Mi-2 Nucleosome Remodeling and Deacetylase Complex",
+    "Mice",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

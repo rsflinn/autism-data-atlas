@@ -1,0 +1,44 @@
+{
+  "pmid": "34575961",
+  "doi": "10.3390/ijms22189798",
+  "title": "Calmodulin Interactions with Voltage-Gated Sodium Channels",
+  "authors": "Wu X, Hong L",
+  "journal": "International journal of molecular sciences",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "Calmodulin (CaM) is a small protein that acts as a ubiquitous signal transducer and regulates neuronal plasticity, muscle contraction, and immune response. It interacts with ion channels and plays regulatory roles in cellular electrophysiology. CaM modulates the voltage-gated sodium channel gating process, alters sodium current density, and regulates sodium channel protein trafficking and expression. Many mutations in the CaM-binding IQ domain give rise to diseases including epilepsy, autism, and arrhythmias by interfering with CaM interaction with the channel. In the present review, we discuss CaM interactions with the voltage-gated sodium channel and modulators involved in CaM regulation, as well as summarize CaM-binding IQ domain mutations associated with human diseases in the voltage-gated sodium channel family.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Calmodulin (CaM) is a small protein that acts as a ubiquitous signal transducer and regulates neuronal plasticity, muscle contraction, and immune response. It interacts with ion channels and plays regulatory roles in cellular electrophysiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34575961/",
+  "mesh_terms": [
+    "Calmodulin",
+    "Gene Expression Regulation",
+    "Humans",
+    "Protein Domains",
+    "Protein Transport",
+    "Signal Transduction",
+    "Sodium",
+    "Voltage-Gated Sodium Channels"
+  ],
+  "keywords": [
+    "IQ domain",
+    "calmodulin",
+    "genetic mutation",
+    "sodium channel isoform",
+    "voltage-gated sodium channel"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

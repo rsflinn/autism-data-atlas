@@ -1,0 +1,48 @@
+{
+  "pmid": "23200289",
+  "doi": "10.1016/j.jaac.2012.09.001",
+  "title": "Evidence of a distinct behavioral phenotype in young boys with fragile X syndrome and autism",
+  "authors": "Wolff JJ, Bodfish JW, Hazlett HC, Lightbody AA, Reiss AL, Piven J",
+  "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+  "date": "2012-12",
+  "source": "pubmed",
+  "abstract": "How does the behavioral expression of autism in fragile X syndrome (FXS&#xa0;+&#xa0;Aut) compare with idiopathic autism (iAut)? Although social impairments and restricted, repetitive behaviors are common to these variants of autism, closer examination of these symptom domains may reveal meaningful similarities and differences. To this end, the specific behaviors comprising the social and repetitive behavioral domains in young children with FXS&#xa0;+&#xa0;Aut and iAut were profiled.\n\nTwenty-three male subjects 3 to 5 years old with FXS&#xa0;+&#xa0;Aut were matched by age to a group of 38 boys with iAut. Repetitive behavior was assessed using the Repetitive Behavior Scales-Revised. Social behavior was evaluated using Autism Diagnostic Observation Schedule social item severity scores.\n\nRates of stereotypy, self-injury, and sameness behaviors did not differ between groups, whereas compulsive and ritual behavior scores were significantly lower for subjects with FXS&#xa0;+&#xa0;Aut compared with those with iAut. Those with FXS&#xa0;+&#xa0;Aut scored significantly lower (less severe) than the iAut group on five Autism Diagnostic Observation Schedule measurements of social behavior: gaze integration, quality of social overtures, social smile, facial expressions, and response to joint attention.\n\nThe behavioral phenotype of FXS&#xa0;+&#xa0;Aut and iAut are most similar with respect to lower-order (motoric) restricted, repetitive behaviors and social approach, but differ in more complex forms of restricted, repetitive behaviors and some social response behaviors. These findings highlight the phenotypic heterogeneity of autism overall and its unique presentation in an etiologically distinct condition.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "How does the behavioral expression of autism in fragile X syndrome (FXS&#xa0;+&#xa0;Aut) compare with idiopathic autism (iAut)? Although social impairments and restricted, repetitive behaviors are common to these variants of autism, closer examination of these symptom domains may reveal meaningful similarities and differences.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23200289/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Behavioral Symptoms",
+    "Child Behavior",
+    "Child, Preschool",
+    "Diagnosis, Differential",
+    "Diagnostic and Statistical Manual of Mental Disorders",
+    "Facial Expression",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Multivariate Analysis",
+    "Phenotype",
+    "Psychiatric Status Rating Scales",
+    "Psychopathology",
+    "Social Behavior",
+    "Stereotyped Behavior"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

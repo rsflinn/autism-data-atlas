@@ -1,0 +1,28 @@
+{
+  "pmid": "38833432",
+  "doi": "10.1097/CRD.0000000000000735",
+  "title": "Safety and Outcomes with Direct Oral Anticoagulants Versus Vitamin-K Antagonists in Chronic Thromboembolic Pulmonary Hypertension: A Systematic Review, Meta-Analysis, and Meta-Regression",
+  "authors": "Jain H, Odat RM, Ahmed M, Jain J, Goyal A, Idrees M, et al.",
+  "journal": "Cardiology in review",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Chronic thromboembolic pulmonary hypertension (CTEPH) is a subtype of pulmonary hypertension characterized by organized thrombi inside the pulmonary vasculature, leading to an increase in pulmonary artery pressure. CTEPH is seen in about 3-4% of patients with acute pulmonary embolism and is associated with poor outcomes. Apart from surgical intervention, lifelong anticoagulation is the mainstay of CTEPH management. Traditionally, CTEPH is managed with vitamin-K antagonists (VKA); however, direct oral anticoagulants (DOACs) are recently gaining popularity. However, the current literature comparing DOACs versus VKAs in CTEPH has inconsistent results. An electronic search of the major bibliographic databases was performed to retrieve studies comparing DOACs versus VKAs in CTEPH patients. For dichotomous outcomes, the odds ratio (ORs) with 95% confidence intervals (CI) were pooled using the DerSimonian and Laird random-effects model to generate forest plots. Statistical significance was considered at P < 0.05. Ten studies were included with 3936 patients (1269 in the DOAC group and 2667 in the VKA group). Treatment with DOAC was associated with no statistically significant difference in the risk of all-cause mortality (OR, 0.78; 95% CI, 0.35-1.71; P < 0.53), venous thromboembolism (OR, 1.19; 95% CI, 0.59-2.40; P = 0.63), major bleeding (OR, 0.68; 95% CI, 0.38-1.22; P = 0.20), and clinically relevant nonmajor bleeding (OR, 1.22; 95% CI, 0.80-1.86; P = 0.37). Our analysis demonstrates that DOACs are noninferior to VKAs in terms of their safety and outcomes profile in CTEPH. Further trials are needed to evaluate more robust evidence and to compare additional outcomes.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Chronic thromboembolic pulmonary hypertension (CTEPH) is a subtype of pulmonary hypertension characterized by organized thrombi inside the pulmonary vasculature, leading to an increase in pulmonary artery pressure. CTEPH is seen in about 3-4% of patients with acute pulmonary embolism and is associated with poor outcomes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38833432/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

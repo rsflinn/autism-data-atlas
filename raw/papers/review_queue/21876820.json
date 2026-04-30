@@ -1,0 +1,38 @@
+{
+  "pmid": "21876820",
+  "doi": "10.1155/2011/649325",
+  "title": "Genetics and function of neocortical GABAergic interneurons in neurodevelopmental disorders",
+  "authors": "Rossignol E",
+  "journal": "Neural plasticity",
+  "date": "2011-08",
+  "source": "pubmed",
+  "abstract": "A dysfunction of cortical and limbic GABAergic circuits has been postulated to contribute to multiple neurodevelopmental disorders in humans, including schizophrenia, autism, and epilepsy. In the current paper, I summarize the characteristics that underlie the great diversity of cortical GABAergic interneurons and explore how the multiple roles of these cells in developing and mature circuits might contribute to the aforementioned disorders. Furthermore, I review the tightly controlled genetic cascades that determine the fate of cortical interneurons and summarize how the dysfunction of genes important for the generation, specification, maturation, and function of cortical interneurons might contribute to these disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "A dysfunction of cortical and limbic GABAergic circuits has been postulated to contribute to multiple neurodevelopmental disorders in humans, including schizophrenia, autism, and epilepsy. In the current paper, I summarize the characteristics that underlie the great diversity of cortical GABAergic interneurons and explore how the multiple roles of these cells in developing and mature circuits might contribute to the aforementioned disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21876820/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Epilepsy",
+    "Humans",
+    "Interneurons",
+    "Neocortex",
+    "Schizophrenia",
+    "gamma-Aminobutyric Acid"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

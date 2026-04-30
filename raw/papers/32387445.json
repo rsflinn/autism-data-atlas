@@ -1,0 +1,45 @@
+{
+  "pmid": "32387445",
+  "doi": "10.1016/j.jaac.2020.03.007",
+  "title": "Meta-analysis: Pharmacologic Treatment of Restricted and Repetitive Behaviors in Autism Spectrum Disorders",
+  "authors": "Zhou MS, Nasir M, Farhat LC, Kook M, Artukoglu BB, Bloch MH",
+  "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "To examine the efficacy of pharmacological treatments for restricted and repetitive behaviors (RRB) in autism spectrum disorders (ASD).\n\nWe searched PubMed, Embase, and CENTRAL to identify all double-blind, randomized, placebo-controlled trials that examined the efficacy of pharmacological agents in the treatment of ASD and measured RRB as an outcome. Our primary outcome was the standardized mean difference in rating scales of RRB.\n\nWe identified 64 randomized, placebo-controlled trials involving 3,499 participants with ASD. Antipsychotics significantly improved RRB outcomes compared to placebo (standardized mean difference [SMD]&#xa0;= 0.28, 95% CIs&#xa0;= 0.08-0.49), z&#xa0;= 2.77, p&#xa0;= .01) demonstrating a small effect size. Larger significant positive effects on RRB in ASD were seen in individual studies with fluvoxamine, buspirone, bumetanide, divalproex, guanfacine, and folinic acid that have not been replicated. Other frequently studied pharmacological treatments in ASD including oxytocin, omega-3 fatty acids, selective serotonin reuptake inhibitors (SSRI), and methylphenidate did not demonstrate significant benefit in reducing RRB compared to&#xa0;placebo (oxytocin: SMD&#xa0;= 0.23, 95% CI&#xa0;=&#xa0;-0.01 to 0.47, z&#xa0;= 1.85, p&#xa0;= .06; omega-3 fatty acids: SMD&#xa0;= 0.19, 95% CI&#xa0;=&#xa0;-0.05 to 0.43, z&#xa0;= 1.54, p&#xa0;= .12; SSRI: SMD&#xa0;= 0.09, 95% CI&#xa0;=&#xa0;-0.21 to 0.39, z&#xa0;= 0.60, p&#xa0;= .56; methylphenidate: SMD&#xa0;= 0.18, 95% CI&#xa0;=&#xa0;-0.11 to 0.46, z&#xa0;= 1.23, p&#xa0;= .22).\n\nThe results of the present meta-analysis suggest that currently available pharmacological agents have at best only a modest benefit for the treatment of RRB in ASD, with the most evidence supporting antipsychotic medications. Additional randomized controlled trials with standardized study designs and consistent and specific assessment tools for RRB are needed to further understand how we can best help ameliorate these behaviors in individuals with ASD.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "To examine the efficacy of pharmacological treatments for restricted and repetitive behaviors (RRB) in autism spectrum disorders (ASD). We searched PubMed, Embase, and CENTRAL to identify all double-blind, randomized, placebo-controlled trials that examined the efficacy of pharmacological agents in the treatment of ASD and measured RRB as an outcome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32387445/",
+  "mesh_terms": [
+    "Antipsychotic Agents",
+    "Autism Spectrum Disorder",
+    "Double-Blind Method",
+    "Humans",
+    "Methylphenidate",
+    "Randomized Controlled Trials as Topic",
+    "Selective Serotonin Reuptake Inhibitors"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "meta-analysis",
+    "pharmacologic agents",
+    "randomized controlled trials",
+    "restricted and repetitive behaviors"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

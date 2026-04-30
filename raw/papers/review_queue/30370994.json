@@ -1,0 +1,48 @@
+{
+  "pmid": "30370994",
+  "doi": "10.1002/humu.23677",
+  "title": "The role of translation elongation factor eEF1 subunits in neurodevelopmental disorders",
+  "authors": "McLachlan F, Sires AM, Abbott CM",
+  "journal": "Human mutation",
+  "date": "2018-11",
+  "source": "pubmed",
+  "abstract": "The multi-subunit eEF1 complex plays a crucial role in de novo protein synthesis. The central functional component of the complex is eEF1A, which occurs as two independently encoded variants with reciprocal expression patterns: whilst eEF1A1 is widely expressed, eEF1A2 is found only in neurons and muscle. Heterozygous mutations in the gene encoding eEF1A2, EEF1A2, have recently been shown to cause epilepsy, autism, and intellectual disability. The remaining subunits of the eEF1 complex, eEF1B&#x3b1;, eEF1B&#x3b4;, eEF1B&#x3b3;, and valyl-tRNA synthetase (VARS), together form the GTP exchange factor for eEF1A and are ubiquitously expressed, in keeping with their housekeeping role. However, mutations in the genes encoding these subunits EEF1B2 (eEF1B&#x3b1;), EEF1D (eEF1B&#x3b4;), and VARS (valyl-tRNA synthetase) have also now been identified as causes of neurodevelopmental disorders. In this review, we describe the mutations identified so far in comparison with the degree of normal variation in each gene, and the predicted consequences of the mutations on the functions of the proteins and their isoforms. We discuss the likely effects of the mutations in the context of the role of protein synthesis in neuronal development.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The multi-subunit eEF1 complex plays a crucial role in de novo protein synthesis. The central functional component of the complex is eEF1A, which occurs as two independently encoded variants with reciprocal expression patterns: whilst eEF1A1 is widely expressed, eEF1A2 is found only in neurons and muscle.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30370994/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Epilepsy",
+    "Guanine Nucleotide Exchange Factors",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Peptide Elongation Factor 1",
+    "Valine-tRNA Ligase"
+  ],
+  "keywords": [
+    "EEF1A2",
+    "EEF1B2",
+    "EEF1D",
+    "VARS",
+    "neurodevelopment",
+    "protein synthesis",
+    "synaptic translation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

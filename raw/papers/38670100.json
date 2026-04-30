@@ -1,0 +1,58 @@
+{
+  "pmid": "38670100",
+  "doi": "10.1016/j.xcrm.2024.101534",
+  "title": "Restoring thalamocortical circuit dysfunction by correcting HCN channelopathy in Shank3 mutant mice",
+  "authors": "Guo B, Liu T, Choi S, Mao H, Wang W, Xi K, et al.",
+  "journal": "Cell reports. Medicine",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Thalamocortical (TC) circuits are essential for sensory information processing. Clinical and preclinical studies of autism spectrum disorders (ASDs) have highlighted abnormal thalamic development and TC circuit dysfunction. However, mechanistic understanding of how TC dysfunction contributes to behavioral abnormalities in ASDs is limited. Here, our study on a Shank3 mouse model of ASD reveals TC neuron hyperexcitability with excessive burst firing and a temporal mismatch relationship with slow cortical rhythms during sleep. These TC electrophysiological alterations and the consequent sensory hypersensitivity and sleep fragmentation in Shank3 mutant mice are causally linked to HCN2 channelopathy. Restoring HCN2 function early in postnatal development via a viral approach or lamotrigine (LTG) ameliorates sensory and sleep problems. A retrospective case series also supports beneficial effects of LTG treatment on sensory behavior in ASD patients. Our study identifies a clinically relevant circuit mechanism and proposes a targeted molecular intervention for ASD-related behavioral impairments.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Thalamocortical (TC) circuits are essential for sensory information processing. Clinical and preclinical studies of autism spectrum disorders (ASDs) have highlighted abnormal thalamic development and TC circuit dysfunction.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38670100/",
+  "mesh_terms": [
+    "Animals",
+    "Thalamus",
+    "Hyperpolarization-Activated Cyclic Nucleotide-Gated Channels",
+    "Nerve Tissue Proteins",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Lamotrigine",
+    "Cerebral Cortex",
+    "Microfilament Proteins",
+    "Channelopathies",
+    "Humans",
+    "Disease Models, Animal",
+    "Male",
+    "Neurons",
+    "Female",
+    "Mice, Inbred C57BL",
+    "Mutation",
+    "Sleep",
+    "Potassium Channels"
+  ],
+  "keywords": [
+    "ASDs",
+    "HCN2",
+    "Shank3",
+    "autism spectrum disorders",
+    "lamotrigine",
+    "neurodevelopmental disorders",
+    "sleep fragmentation",
+    "tactile hypersensitivity",
+    "thalamocortical circuits"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

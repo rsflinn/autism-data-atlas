@@ -1,0 +1,52 @@
+{
+  "pmid": "31653223",
+  "doi": "10.1186/s13073-019-0678-y",
+  "title": "Dissecting the genetic basis of comorbid epilepsy phenotypes in neurodevelopmental disorders",
+  "authors": "Chow J, Jensen M, Amini H, Hormozdiari F, Penn O, Shifman S, et al.",
+  "journal": "Genome medicine",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Neurodevelopmental disorders (NDDs) such as autism spectrum disorder, intellectual disability, developmental disability, and epilepsy are characterized by abnormal brain development that may affect cognition, learning, behavior, and motor skills. High co-occurrence (comorbidity) of NDDs indicates a shared, underlying biological mechanism. The genetic heterogeneity and overlap observed in NDDs make it difficult to identify the genetic causes of specific clinical symptoms, such as seizures.\n\nWe present a computational method, MAGI-S, to discover modules or groups of highly connected genes that together potentially perform a similar biological function. MAGI-S integrates protein-protein interaction and co-expression networks to form modules centered around the selection of a single \"seed\" gene, yielding modules consisting of genes that are highly co-expressed with the seed gene. We aim to dissect the epilepsy phenotype from a general NDD phenotype by providing MAGI-S with high confidence NDD seed genes with varying degrees of association with epilepsy, and we assess the enrichment of de novo mutation, NDD-associated genes, and relevant biological function of constructed modules.\n\nThe newly identified modules account for the increased rate of de novo non-synonymous mutations in autism, intellectual disability, developmental disability, and epilepsy, and enrichment of copy number variations (CNVs) in developmental disability. We also observed that modules seeded with genes strongly associated with epilepsy tend to have a higher association with epilepsy phenotypes than modules seeded at other neurodevelopmental disorder genes. Modules seeded with genes strongly associated with epilepsy (e.g., SCN1A, GABRA1, and KCNB1) are significantly associated with synaptic transmission, long-term potentiation, and calcium signaling pathways. On the other hand, modules found with seed genes that are not associated or weakly associated with epilepsy are mostly involved with RNA regulation and chromatin remodeling.\n\nIn summary, our method identifies modules enriched with de novo non-synonymous mutations and can capture specific networks that underlie the epilepsy phenotype and display distinct enrichment in relevant biological processes. MAGI-S is available at https://github.com/jchow32/magi-s .",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "GABRA1",
+    "KCNB1",
+    "SCN1A"
+  ],
+  "summary": "Neurodevelopmental disorders (NDDs) such as autism spectrum disorder, intellectual disability, developmental disability, and epilepsy are characterized by abnormal brain development that may affect cognition, learning, behavior, and motor skills. High co-occurrence (comorbidity) of NDDs indicates a shared, underlying biological mechanism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31653223/",
+  "mesh_terms": [
+    "Comorbidity",
+    "Databases, Factual",
+    "Epilepsy",
+    "Gene Regulatory Networks",
+    "Genetic Heterogeneity",
+    "Humans",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Phenotype",
+    "Prognosis"
+  ],
+  "keywords": [
+    "Autism",
+    "De novo mutation",
+    "Developmental disability",
+    "Epilepsy",
+    "Intellectual disability",
+    "Module discovery"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

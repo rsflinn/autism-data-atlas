@@ -1,0 +1,40 @@
+{
+  "pmid": "19117905",
+  "doi": "10.1542/peds.2008-0317",
+  "title": "Advances in the treatment of fragile X syndrome",
+  "authors": "Hagerman RJ, Berry-Kravis E, Kaufmann WE, Ono MY, Tartaglia N, Lachiewicz A, et al.",
+  "journal": "Pediatrics",
+  "date": "2009-01",
+  "source": "pubmed",
+  "abstract": "The FMR1 mutations can cause a variety of disabilities, including cognitive deficits, attention-deficit/hyperactivity disorder, autism, and other socioemotional problems, in individuals with the full mutation form (fragile X syndrome) and distinct difficulties, including primary ovarian insufficiency, neuropathy and the fragile X-associated tremor/ataxia syndrome, in some older premutation carriers. Therefore, multigenerational family involvement is commonly encountered when a proband is identified with a FMR1 mutation. Studies of metabotropic glutamate receptor 5 pathway antagonists in animal models of fragile X syndrome have demonstrated benefits in reducing seizures, improving behavior, and enhancing cognition. Trials of metabotropic glutamate receptor 5 antagonists are beginning with individuals with fragile X syndrome. Targeted treatments, medical and behavioral interventions, genetic counseling, and family supports are reviewed here.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "The FMR1 mutations can cause a variety of disabilities, including cognitive deficits, attention-deficit/hyperactivity disorder, autism, and other socioemotional problems, in individuals with the full mutation form (fragile X syndrome) and distinct difficulties, including primary ovarian insufficiency, neuropathy and the fragile X-associated tremor/ataxia syndrome, in some older premutation carriers. Therefore, multigenerational family involvement is commonly encountered when a proband is identif",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19117905/",
+  "mesh_terms": [
+    "Animals",
+    "Excitatory Amino Acid Antagonists",
+    "Fragile X Syndrome",
+    "Genetic Therapy",
+    "Humans",
+    "Mutation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

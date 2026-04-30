@@ -1,0 +1,47 @@
+{
+  "pmid": "39878322",
+  "doi": "10.1111/acel.14408",
+  "title": "Epigenetic modulation rescues neurodevelopmental deficits in Syngap1mice",
+  "authors": "Singh AK, Joshi I, Reddy NMN, Purushotham SS, Eswaramoorthy M, Vasudevan M, et al.",
+  "journal": "Aging cell",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "SYNGAP1 is a Ras GTPase-activating protein that plays a crucial role during brain development and in synaptic plasticity. Sporadic heterozygous mutations in SYNGAP1 affect social and emotional behaviour observed in intellectual disability (ID) and autism spectrum disorder (ASD). Although neurophysiological deficits have been extensively studied, the epigenetic landscape of SYNGAP1 mutation-mediated intellectual disability is unexplored. Here, we have found that the p300/CBP specific acetylation marks of histones are significantly repressed in the hippocampus of adolescent Syngap1mice. Additionally, we observed decreased dendritic branching of newly born DCXneurons in these mice, suggesting altered adult hippocampal neurogenesis. To establish the causal relationship of Syngap1phenotype and the altered histone acetylation signature we have treated 2-4&#x2009;months old Syngap1mice with glucose-derived carbon nanosphere (CSP) conjugated potent small molecule activator (TTK21) of p300/CBP lysine acetyltransferase (CSP-TTK21). The enhancement of the p300/CBP specific acetylation marks of histones by CSP-TTK21 restored synaptic functions, increased dendritic branching of DCXneurons, enables the capability to reorganise cortical circuits in response to change in the sensory stimuli, and improves behavioural measures in Syngap1mice that are very closely comparable to wild type littermates. Further, hippocampal RNA-Seq analysis of these mice revealed that the expression of many critical genes such as Adcy1, Ntrk3, Egr1, and Foxj1 which are key regulators of synaptic plasticity and neurogenesis and are well associated with ID/ASD reversed upon CSP-TTK21 treatment. This study could be the first demonstration of the reversal of autistic behaviour and neural wiring upon the modulation of altered epigenetic modification(s).",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "SYNGAP1 is a Ras GTPase-activating protein that plays a crucial role during brain development and in synaptic plasticity. Sporadic heterozygous mutations in SYNGAP1 affect social and emotional behaviour observed in intellectual disability (ID) and autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39878322/",
+  "mesh_terms": [
+    "Animals",
+    "Doublecortin Protein",
+    "Mice",
+    "Epigenesis, Genetic",
+    "ras GTPase-Activating Proteins",
+    "Hippocampus",
+    "Neurogenesis",
+    "Neurodevelopmental Disorders",
+    "Histones",
+    "Male",
+    "Neuronal Plasticity"
+  ],
+  "keywords": [
+    "autism",
+    "intellectual disability",
+    "lysine acetyltransferases",
+    "p300/CBP"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

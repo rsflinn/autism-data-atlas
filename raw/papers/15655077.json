@@ -1,0 +1,42 @@
+{
+  "pmid": "15655077",
+  "doi": "10.1186/1471-2350-6-3",
+  "title": "Cytogenetic abnormalities and fragile-X syndrome in Autism Spectrum Disorder",
+  "authors": "Reddy KS",
+  "journal": "BMC medical genetics",
+  "date": "2005-01",
+  "source": "pubmed",
+  "abstract": "Autism is a behavioral disorder with impaired social interaction, communication, and repetitive and stereotypic behaviors. About 5-10 % of individuals with autism have 'secondary' autism in which an environmental agent, chromosome abnormality, or single gene disorder can be identified. Ninety percent have idiopathic autism and a major gene has not yet been identified. We have assessed the incidence of chromosome abnormalities and Fragile X syndrome in a population of autistic patients referred to our laboratory.\n\nData was analyzed from 433 patients with autistic traits tested using chromosome analysis and/or fluorescence in situ hybridization (FISH) and/or molecular testing for fragile X syndrome by Southern and PCR methods.\n\nThe median age was 4 years. Sex ratio was 4.5 males to 1 female [354:79]. A chromosome (cs) abnormality was found in 14/421 [3.33 %] cases. The aberrations were: 4/14 [28%] supernumerary markers; 4/14 [28%] deletions; 1/14 [7%] duplication; 3/14 [21%] inversions; 2/14 [14%] translocations. FISH was performed on 23 cases for reasons other than to characterize a previously identified cytogenetic abnormality. All 23 cases were negative. Fragile-X testing by Southern blots and PCR analysis found 7/316 [2.2 %] with an abnormal result. The mutations detected were: a full mutation (fM) and abnormal methylation in 3 [43 %], mosaic mutations with partial methylation of variable clinical significance in 3 [43%] and a permutation carrier [14%]. The frequency of chromosome and fragile-X abnormalities appears to be within the range in reported surveys (cs 4.8-1.7%, FRAX 2-4%). Limitations of our retrospective study include paucity of behavioral diagnostic information, and a specific clinical criterion for testing.\n\nTwenty-eight percent of chromosome abnormalities detected in our study were subtle; therefore a high resolution cytogenetic study with a scrutiny of 15q11.2q13, 2q37 and Xp23.3 region should be standard practice when the indication is autism. The higher incidence of mosaic fragile-X mutations with partial methylation compared to FRAXA positive population [50% vs 15-40%] suggests that faint bands and variations in the Southern band pattern may occur in autistic patients.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a behavioral disorder with impaired social interaction, communication, and repetitive and stereotypic behaviors. About 5-10 % of individuals with autism have 'secondary' autism in which an environmental agent, chromosome abnormality, or single gene disorder can be identified.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/15655077/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child, Preschool",
+    "Chromosome Aberrations",
+    "Cytogenetic Analysis",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Molecular Epidemiology",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "RNA-Binding Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

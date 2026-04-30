@@ -1,0 +1,37 @@
+{
+  "pmid": "36858495",
+  "doi": "10.1254/fpj.22136",
+  "title": "[Analysis of cortical network dynamics in the behavioral state of a mouse model of autism]",
+  "authors": "Nakai N, Takumi T",
+  "journal": "Nihon yakurigaku zasshi. Folia pharmacologica Japonica",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by behavioral abnormalities such as poor social communication and stereotyped/repetitive behaviors. Functional dynamics among multiple cortical areas are associated with processing sensory information and planning and executing behavioral expressions. However, the reconfiguration of large-scale functional network dynamics during behaviors remains to be elucidated in ASD. In this review, we describe our virtual reality (VR) based real-time imaging system which allowed us to investigate wide-field cortical activity in voluntarily behaving mice. We previously generated a mouse model of ASD with chromosome 15q11-13 duplication (15q dup), one of the most frequent genomic abnormalities, and reported that 15q dup mice display ASD-like behaviors. Using this system, we examined the functional cortical network during behaviors in 15q dup mice. Pair-wise correlation of cortical area activity on a time scale of a second was calculated to represent the dynamic state of cortical functional connectivity (FC). A graph theoretical network analysis was then conducted to illustrate rapid and robust behavior-state-dependent cortical network reconfiguration. Our VR-based real-time imaging system provides invaluable information to understand FC dynamics linked to a behavioral abnormality of neuropsychiatric disorders.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder characterized by behavioral abnormalities such as poor social communication and stereotyped/repetitive behaviors. Functional dynamics among multiple cortical areas are associated with processing sensory information and planning and executing behavioral expressions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36858495/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Genomics"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Review",
+    "English Abstract",
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "pmid": "29778275",
+  "doi": "10.1016/j.biopsych.2018.02.1176",
+  "title": "Quantifying the Effects of 16p11.2 Copy Number Variants on Brain Structure: A Multisite Genetic-First Study",
+  "authors": "Martin-Brevet S, Rodr&#xed;guez-Herreros B, Nielsen JA, Moreau C, Modenato C, Maillard AM, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "16p11.2 breakpoint 4 to 5 copy number variants (CNVs) increase the risk for developing autism spectrum disorder, schizophrenia, and language and cognitive impairment. In this multisite study, we aimed to quantify the effect of 16p11.2 CNVs on brain structure.\n\nUsing voxel- and surface-based brain morphometric methods, we analyzed structural magnetic resonance imaging collected at seven sites from 78 individuals with a deletion, 71 individuals with a duplication, and 212 individuals without a CNV.\n\nBeyond the 16p11.2-related mirror effect on global brain morphometry, we observe regional mirror differences in the insula (deletion > control > duplication). Other regions are preferentially affected by either the deletion or the duplication: the calcarine cortex and transverse temporal gyrus (deletion > control; Cohen's d&#xa0;>&#xa0;1), the superior and middle temporal gyri (deletion < control; Cohen's d <&#xa0;-1), and the caudate and hippocampus (control > duplication;&#xa0;-0.5 > Cohen's d >&#xa0;-1). Measures of cognition, language, and social responsiveness and the presence of psychiatric diagnoses do not influence these results.\n\nThe global and regional effects on brain morphometry due to 16p11.2 CNVs generalize across site, computational method, age, and sex. Effect sizes on neuroimaging and cognitive traits are comparable. Findings partially overlap with results of meta-analyses performed across psychiatric disorders. However, the lack of correlation between morphometric and clinical measures suggests that CNV-associated brain changes contribute to clinical manifestations but require additional factors for the development of the disorder. These findings highlight the power of genetic risk factors as a complement to studying groups defined by behavioral criteria.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "16p11.2 breakpoint 4 to 5 copy number variants (CNVs) increase the risk for developing autism spectrum disorder, schizophrenia, and language and cognitive impairment. In this multisite study, we aimed to quantify the effect of 16p11.2 CNVs on brain structure.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29778275/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Child",
+    "Chromosome Deletion",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "Cognitive Dysfunction",
+    "DNA Copy Number Variations",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Language",
+    "Magnetic Resonance Imaging",
+    "Male",
+    "Middle Aged",
+    "Neurodevelopmental Disorders",
+    "Schizophrenia",
+    "Young Adult"
+  ],
+  "keywords": [
+    "16p11.2",
+    "Autism spectrum disorder",
+    "Copy number variant",
+    "Genetics",
+    "Imaging",
+    "Neurodevelopmental disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

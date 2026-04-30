@@ -1,0 +1,43 @@
+{
+  "pmid": "37658396",
+  "doi": "10.1186/s12993-023-00216-9",
+  "title": "Ocular and neural genes jointly regulate the visuospatial working memory in ADHD children",
+  "authors": "Zhao Y, Zhong Y, Chen W, Chang S, Cao Q, Wang Y, et al.",
+  "journal": "Behavioral and brain functions : BBF",
+  "date": "2023-09",
+  "source": "pubmed",
+  "abstract": "Working memory (WM) deficits have frequently been linked to attention deficit hyperactivity disorder (ADHD). Despite previous studies suggested its high heritability, its genetic basis, especially in ADHD, remains unclear. The current study aimed to comprehensively explore the genetic basis of visual-spatial working memory (VSWM) in ADHD using wide-ranging genetic analyses.\n\nThe current study recruited a cohort consisted of 802 ADHD individuals, all met DSM-IV ADHD diagnostic criteria. VSWM was assessed by Rey-Osterrieth complex figure test (RCFT), which is a widely used psychological test include four memory indexes: detail delayed (DD), structure delayed (SD), structure immediate (SI), detail immediate (DI). Genetic analyses were conducted at the single nucleotide polymorphism (SNP), gene, pathway, polygenic and protein network levels. Polygenic Risk Scores (PRS) were based on summary statistics of various psychiatric disorders, including ADHD, autism spectrum disorder (ASD), major depressive disorder (MDD), schizophrenia (SCZ), obsessive compulsive disorders (OCD), and substance use disorder (SUD).\n\nAnalyses at the single-marker level did not yield significant results (5E-08). However, the potential signals with P values less than E-05 and their mapped genes suggested the regulation of VSWM involved both ocular and neural system related genes, moreover, ADHD-related genes were also involved. The gene-based analysis found RAB11FIP1, whose encoded protein modulates several neurodevelopment processes and visual system, as significantly associated with DD scores (P&#x2009;=&#x2009;1.96E-06, P&#x2009;=&#x2009;0.036). Candidate pathway enrichment analyses (N&#x2009;=&#x2009;53) found that forebrain neuron fate commitment significantly enriched in DD (P&#x2009;=&#x2009;4.78E-04, Padj&#x2009;=&#x2009;0.025), and dopamine transport enriched in SD (P&#x2009;=&#x2009;5.90E-04, Padj&#x2009;=&#x2009;0.031). We also observed a significant negative relationship between DD scores and ADHD PRS scores (P&#x2009;=&#x2009;0.0025, Empirical P&#x2009;=&#x2009;0.048).\n\nOur results emphasized the joint contribution of ocular and neural genes in regulating VSWM. The study reveals a shared genetic basis between ADHD and VSWM, with GWAS indicating the involvement of ADHD-related genes in VSWM. Additionally, the PRS analysis identifies a significant relationship between ADHD-PRS and DD scores. Overall, our findings shed light on the genetic basis of VSWM deficits in ADHD, and may have important implications for future research and clinical practice.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Working memory (WM) deficits have frequently been linked to attention deficit hyperactivity disorder (ADHD). Despite previous studies suggested its high heritability, its genetic basis, especially in ADHD, remains unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37658396/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Memory, Short-Term",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Major Depressive Disorder",
+    "Eye",
+    "Memory Disorders"
+  ],
+  "keywords": [
+    "Attention deficit hyperactivity disorder",
+    "Genome-wide association study",
+    "Polygenic risk score",
+    "Visual system",
+    "Visual-spatial working memory"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

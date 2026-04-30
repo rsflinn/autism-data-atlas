@@ -1,0 +1,42 @@
+{
+  "pmid": "35674309",
+  "doi": "10.2174/1574888X17666220607121027",
+  "title": "Application of Induced Pluripotent Stem Cells in Moyamoya Disease: Progress and Promises",
+  "authors": "Xue Y, Zhang Q, Wang LJ, Tu WJ, Zhao J",
+  "journal": "Current stem cell research & therapy",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Moyamoya disease (MMD) is a chronic steno-occlusion cerebrovascular disease accompanied by the formation of the abnormal vascular network at the base of the brain. The etiology of MMD is not fully clarified. Lack of pathological specimens hinders the research progress. Induced pluripotent stem cells (iPSC) derived from patients with outstanding differentiation potential and infinite proliferation ability could conquer the problem of insufficient samples. The technology of iPSC holds the promise of clarifying the underlying molecular mechanism in the development of MMD. In this review, we summarized the latest progress and difficulties in the research of mechanism and detailed the application of iPSC in MMD, aiming to provide an outlook of iPSC in molecular mechanism and novel therapies of MMD.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Moyamoya disease (MMD) is a chronic steno-occlusion cerebrovascular disease accompanied by the formation of the abnormal vascular network at the base of the brain. The etiology of MMD is not fully clarified.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35674309/",
+  "mesh_terms": [
+    "Humans",
+    "Moyamoya Disease",
+    "Induced Pluripotent Stem Cells",
+    "Cell Differentiation",
+    "Brain"
+  ],
+  "keywords": [
+    "Induced pluripotent stem cell",
+    "cerebral vascular disease",
+    "endothelial cell",
+    "moyamoya disease",
+    "ring finger protein 213",
+    "vascular smooth muscle cell"
+  ],
+  "article_types": [
+    "Review",
+    "Journal Article"
+  ]
+}

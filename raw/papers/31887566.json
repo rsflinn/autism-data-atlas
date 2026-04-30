@@ -1,0 +1,47 @@
+{
+  "pmid": "31887566",
+  "doi": "10.1016/j.cortex.2019.11.006",
+  "title": "Genetic effects on planum temporale asymmetry and their limited relevance to neurodevelopmental disorders, intelligence or educational attainment",
+  "authors": "Carrion-Castillo A, Pepe A, Kong XZ, Fisher SE, Mazoyer B, Tzourio-Mazoyer N, et al.",
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "date": "2019-11",
+  "source": "pubmed",
+  "abstract": "Previous studies have suggested that altered asymmetry of the planum temporale (PT) is associated with neurodevelopmental disorders, including dyslexia, schizophrenia, and autism. Shared genetic factors have been suggested to link PT asymmetry to these disorders. In a dataset of unrelated subjects from the general population (UK Biobank, N&#xa0;=&#xa0;18,057), we found that PT volume asymmetry had a significant heritability of roughly 14%. In genome-wide association analysis, two loci were significantly associated with PT asymmetry, including a coding polymorphism within the gene ITIH5 that is predicted to affect the protein's function and to be deleterious (rs41298373, p&#xa0;=&#xa0;2.01&#xa0;&#xd7;&#xa0;10-15), and a locus that affects the expression of the genes BOK and DTYMK (rs7420166, p&#xa0;=&#xa0;7.54&#xa0;&#xd7;&#xa0;10-10). DTYMK showed left-right asymmetry of mRNA expression in post mortem PT tissue. Cortex-wide mapping of these SNP effects revealed influences on asymmetry that went somewhat beyond the PT. Using publicly available genome-wide association statistics from large-scale studies, we saw no significant genetic correlations of PT asymmetry with autism spectrum disorder, attention deficit hyperactivity disorder, schizophrenia, educational attainment or intelligence. Of the top two individual loci associated with PT asymmetry, rs41298373 showed a tentative association with intelligence (unadjusted p&#xa0;=&#xa0;.025), while the locus at BOK/DTYMK showed tentative association with educational attainment (unadjusted Ps&#xa0;<&#xa0;.05). These findings provide novel insights into the genetic contributions to human brain asymmetry, but do not support a substantial polygenic association of PT asymmetry with cognitive variation and mental disorders, as far as can be discerned with current sample sizes.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Previous studies have suggested that altered asymmetry of the planum temporale (PT) is associated with neurodevelopmental disorders, including dyslexia, schizophrenia, and autism. Shared genetic factors have been suggested to link PT asymmetry to these disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31887566/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Functional Laterality",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Intelligence",
+    "Magnetic Resonance Imaging",
+    "Nucleoside-Phosphate Kinase",
+    "Proteinase Inhibitory Proteins, Secretory",
+    "Proto-Oncogene Proteins c-bcl-2",
+    "Temporal Lobe"
+  ],
+  "keywords": [
+    "Brain asymmetry",
+    "Genetic correlation",
+    "Genome-wide association",
+    "Neurodevelopmental disorders",
+    "Planum temporale",
+    "UK biobank"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

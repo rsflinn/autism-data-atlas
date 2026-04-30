@@ -1,0 +1,42 @@
+{
+  "pmid": "28691768",
+  "doi": "10.1002/ajmg.b.32567",
+  "title": "Microbiome, inflammation, epigenetic alterations, and mental diseases",
+  "authors": "Alam R, Abdolmaleky HM, Zhou JR",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2017-07",
+  "source": "pubmed",
+  "abstract": "Major mental diseases such as autism, bipolar disorder, schizophrenia, and major depressive disorder are debilitating illnesses with complex etiologies. Recent findings show that the onset and development of these illnesses cannot be well described by the one-gene; one-disease approach. Instead, their clinical presentation is thought to result from the regulative interplay of a large number of genes. Even though the involvement of many genes are likely, up regulating and activation or down regulation and silencing of these genes by the environmental factors play a crucial role in contributing to their pathogenesis. Much of this interplay may be moderated by epigenetic changes. Similar to genetic mutations, epigenetic modifications such as DNA methylation, histone modifications, and RNA interference can influence gene expression and therefore may cause behavioral and neuronal changes observed in mental disorders. Environmental factors such as diet, gut microbiota, and infections have significant role in these epigenetic modifications. Studies show that bioactive nutrients and gut microbiota can alter either DNA methylation and histone signatures through a variety of mechanisms. Indeed, microbes within the human gut may play a significant role in the regulation of various elements of \"gut-brain axis,\" via their influence on inflammatory cytokines and production of antimicrobial peptides that affect the epigenome through their involvement in generating short chain fatty acids, vitamin synthesis, and nutrient absorption. In addition, they may participate in-gut production of many common neurotransmitters. In this review we will consider the potential interactions of diet, gastrointestinal microbiome, inflammation, and epigenetic alterations in psychiatric disorders.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Major mental diseases such as autism, bipolar disorder, schizophrenia, and major depressive disorder are debilitating illnesses with complex etiologies. Recent findings show that the onset and development of these illnesses cannot be well described by the one-gene; one-disease approach.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28691768/",
+  "mesh_terms": [
+    "Animals",
+    "Epigenomics",
+    "Humans",
+    "Inflammation",
+    "Mental Disorders",
+    "Microbiota"
+  ],
+  "keywords": [
+    "epigenetics",
+    "inflammation",
+    "microbiome",
+    "nutrition",
+    "psychiatric disorders"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

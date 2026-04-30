@@ -1,0 +1,44 @@
+{
+  "pmid": "40004071",
+  "doi": "10.3390/ijms26041607",
+  "title": "The Ambiguous Role of Growth Factors in Autism: What Do We Really Know?",
+  "authors": "Spoto G, Butera A, Albertini ML, Consoli C, Ceraolo G, Nicotera AG, et al.",
+  "journal": "International journal of molecular sciences",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition with multifactorial origins, including the potential involvement of neurotrophins and growth factors. These molecules, which are crucial for neuronal survival, synaptic plasticity, and brain development, have been implicated in ASD pathophysiology. Altered levels of neurotrophins such as NGF, BDNF, NT3, and NT4, as well as growth factors like IGF1, VEGF, and FGF, have been associated with cognitive deficits, sensory processing abnormalities, and behavioral issues in ASD patients. However, the literature presents conflicting results, often due to differences in research methodologies, sample sizes, patient populations, and diagnostic criteria. Despite these inconsistencies, the potential of neurotrophins and growth factors as biomarkers and therapeutic targets for ASD remains promising. Future research with standardized methodologies, larger cohorts, and a clearer understanding of genetic influences is needed to further elucidate their roles in ASD diagnosis and treatment.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition with multifactorial origins, including the potential involvement of neurotrophins and growth factors. These molecules, which are crucial for neuronal survival, synaptic plasticity, and brain development, have been implicated in ASD pathophysiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40004071/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Nerve Growth Factors",
+    "Animals",
+    "Autistic Disorder",
+    "Intercellular Signaling Peptides and Proteins"
+  ],
+  "keywords": [
+    "BDNF",
+    "IGF1",
+    "NGF",
+    "autism spectrum disorder",
+    "growth factors",
+    "neurotrophins"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

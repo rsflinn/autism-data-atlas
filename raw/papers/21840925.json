@@ -1,0 +1,47 @@
+{
+  "pmid": "21840925",
+  "doi": "10.1093/hmg/ddr357",
+  "title": "15q11.2-13.3 chromatin analysis reveals epigenetic regulation of CHRNA7 with deficiencies in Rett and autism brain",
+  "authors": "Yasui DH, Scoles HA, Horike S, Meguro-Horike M, Dunaway KW, Schroeder DI, et al.",
+  "journal": "Human molecular genetics",
+  "date": "2011-08",
+  "source": "pubmed",
+  "abstract": "Copy number variations (CNVs) within human 15q11.2-13.3 show reduced penetrance and variable expressivity in a range of neurologic disorders. Therefore, characterizing 15q11.2-13.3 chromatin structure is important for understanding the regulation of this locus during normal neuronal development. Deletion of the Prader-Willi imprinting center (PWS-IC) within 15q11.2-13.3 disrupts long-range imprinted gene expression resulting in Prader-Willi syndrome. Previous results establish that MeCP2 binds to the PWS-IC and is required for optimal expression of distal GABRB3 and UBE3A. To examine the hypothesis that MeCP2 facilitates 15q11.2-13.3 transcription by linking the PWS-IC with distant elements, chromosome capture conformation on chip (4C) analysis was performed in human SH-SY5Y neuroblastoma cells. SH-SY5Y neurons had 2.84-fold fewer 15q11.2-13.3 PWS-IC chromatin interactions than undifferentiated SH-SY5Y neuroblasts, revealing developmental chromatin de-condensation of the locus. Out of 68 PWS-IC interactions with15q11.2-13.3 identified by 4C analysis and 62 15q11.2-13.3 MeCP2-binding sites identified by previous ChIP-chip studies, only five sites showed overlap. Remarkably, two of these overlapping PWS-IC- and MeCP2-bound sites mapped to sites flanking CHRNA7 (cholinergic receptor nicotinic alpha 7) encoding the cholinergic receptor, nicotinic, alpha 7. PWS-IC interaction with CHRNA7 in neurons was independently confirmed by fluorescent in situ hybridization analysis. Subsequent quantitative transcriptional analyses of frontal cortex from Rett syndrome and autism patients revealed significantly reduced CHRNA7 expression compared with controls. Together, these results suggest that transcription of CHRNA7 is modulated by chromatin interactions with the PWS-IC. Thus, loss of long-range chromatin interactions within 15q11.2-13.3 may contribute to multiple human neurodevelopmental disorders.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "GABRB3",
+    "UBE3A"
+  ],
+  "summary": "Copy number variations (CNVs) within human 15q11.2-13.3 show reduced penetrance and variable expressivity in a range of neurologic disorders. Therefore, characterizing 15q11.2-13.3 chromatin structure is important for understanding the regulation of this locus during normal neuronal development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21840925/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Binding Sites",
+    "Brain",
+    "Cell Line, Tumor",
+    "Chromatin",
+    "Chromosomes, Human, Pair 15",
+    "Humans",
+    "In Situ Hybridization, Fluorescence",
+    "Methyl-CpG-Binding Protein 2",
+    "Prader-Willi Syndrome",
+    "Receptors, Nicotinic",
+    "Rett Syndrome",
+    "Reverse Transcriptase Polymerase Chain Reaction",
+    "alpha7 Nicotinic Acetylcholine Receptor"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

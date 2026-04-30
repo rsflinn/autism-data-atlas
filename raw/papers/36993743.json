@@ -1,0 +1,29 @@
+{
+  "pmid": "36993743",
+  "doi": "10.1101/2023.03.13.532468",
+  "title": "Evaluating performance and applications of sample-wise cell deconvolution methods on human brain transcriptomic data",
+  "authors": "Dai R, Chu T, Zhang M, Wang X, Jourdon A, Wu F, et al.",
+  "journal": "bioRxiv : the preprint server for biology",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "Sample-wise deconvolution methods have been developed to estimate cell-type proportions and gene expressions in bulk-tissue samples. However, the performance of these methods and their biological applications has not been evaluated, particularly on human brain transcriptomic data. Here, nine deconvolution methods were evaluated with sample-matched data from bulk-tissue RNAseq, single-cell/nuclei (sc/sn) RNAseq, and immunohistochemistry. A total of 1,130,767 nuclei/cells from 149 adult postmortem brains and 72 organoid samples were used. The results showed the best performance of dtangle for estimating cell proportions and bMIND for estimating sample-wise cell-type gene expression. For eight brain cell types, 25,273 cell-type eQTLs were identified with deconvoluted expressions (decon-eQTLs). The results showed that decon-eQTLs explained more schizophrenia GWAS heritability than bulk-tissue or single-cell eQTLs alone. Differential gene expression associated with multiple phenotypes were also examined using the deconvoluted data. Our findings, which were replicated in bulk-tissue RNAseq and sc/snRNAseq data, provided new insights into the biological applications of deconvoluted data.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Sample-wise deconvolution methods have been developed to estimate cell-type proportions and gene expressions in bulk-tissue samples. However, the performance of these methods and their biological applications has not been evaluated, particularly on human brain transcriptomic data.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36993743/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Preprint",
+    "Journal Article"
+  ]
+}

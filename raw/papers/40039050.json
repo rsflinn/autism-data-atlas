@@ -1,0 +1,41 @@
+{
+  "pmid": "40039050",
+  "doi": "10.1109/EMBC53108.2024.10782408",
+  "title": "A resting-state fMRI network biomarker for autism spectrum disorder",
+  "authors": "Kidwell V, Williams A, Sanchez L, Sarma SV",
+  "journal": "Annual International Conference of the IEEE Engineering in Medicine and Biology Society. IEEE Engineering in Medicine and Biology Society. Annual International Conference",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder impacting a person's social communication skills and behaviors. Due to its a wide range of symptoms and presentations, diagnosis is a subjective process reliant on clinician experience and symptom reports. Our pilot study aims to improve this process using a resting-state fMRI biomarker based on dynamic network modeling. Using matched cohorts (14 healthy, 14 ASD) from the DecNef rsfMRI open dataset we built generative models of the influence between cortical regions of the brain, encapsulated by a value we call the sink index; a network-based biomarker that measures the influence on between brain regions. A high sink index suggests high influence from and minimal influence on other parts of the network over time. Three cortical regions were found to have statistically significant differences between ASD and control patients: the left lateral occipital cortex, right frontal pole, and the left postcentral gyrus. Using these results, a high accuracy (AUC 0.91) classifier was generated that can quantitatively predict ASD status.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder impacting a person's social communication skills and behaviors. Due to its a wide range of symptoms and presentations, diagnosis is a subjective process reliant on clinician experience and symptom reports.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40039050/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Magnetic Resonance Imaging",
+    "Biomarkers",
+    "Male",
+    "Female",
+    "Rest",
+    "Brain",
+    "Child",
+    "Adolescent",
+    "Nerve Net",
+    "Brain Mapping"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

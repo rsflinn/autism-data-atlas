@@ -1,0 +1,43 @@
+{
+  "pmid": "37991699",
+  "doi": "10.1007/s12035-023-03751-8",
+  "title": "The Potential Role of Thyroid Hormone Therapy in Neural Progenitor Cell Differentiation and Its Impact on Neurodevelopmental Disorders",
+  "authors": "Salloum-Asfar S, Shin KC, Taha RZ, Khattak S, Park Y, Abdulla SA",
+  "journal": "Molecular neurobiology",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Thyroid hormone (T3) plays a vital role in brain development and its dysregulation can impact behavior, nervous system function, and cognitive development. Large case-cohort studies have associated abnormal maternal T3 during early pregnancy to epilepsy, autism, and attention deficit hyperactivity disorder (ADHD) in children. Recent experimental findings have also shown T3's influence on the fate of neural precursor cells and raise the question of its convergence with embryonic neural progenitors. Our objective was to investigate how T3 treatment affects neuronal development and functionality at the cellular level. In vitro experiments using neural precursor cells (NPCs) measured cell growth and numbers after exposure to varying T3 concentrations. Time points included week 0 (W0) representing NPCs treated with 100&#xa0;nM T3 for 5&#xa0;days, and differentiated cortical neurons assessed at weeks 3 (W3), 6 (W6), and 8 (W8). Techniques such as single-cell calcium imaging and whole-cell patch clamp were utilized to evaluate neuronal activity and function. IHC staining detected mature neuron markers, and RNA sequencing enabled molecular profiling. W6 and W8 neurons exhibited higher action potential frequencies, with W6 showing increased peak amplitudes and shortened inter-spike intervals by 50%, indicating enhanced activity. Transcriptomic analysis revealed that W6 T3-treated neurons formed a distinct cluster, suggesting accelerated maturation. Comparison with the whole transcriptome further unveiled a correlation between W6 neurons treated with T3 and neuronal regulatory elements associated with autism and ADHD. These findings provide insights into T3's impact on neuronal development and potential mechanisms of T3 dysregulation and neurodevelopmental disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Thyroid hormone (T3) plays a vital role in brain development and its dysregulation can impact behavior, nervous system function, and cognitive development. Large case-cohort studies have associated abnormal maternal T3 during early pregnancy to epilepsy, autism, and attention deficit hyperactivity disorder (ADHD) in children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37991699/",
+  "mesh_terms": [
+    "Neural Stem Cells",
+    "Animals",
+    "Cell Differentiation",
+    "Neurodevelopmental Disorders",
+    "Thyroid Hormones",
+    "Neurons",
+    "Triiodothyronine",
+    "Neurogenesis"
+  ],
+  "keywords": [
+    "ADHD",
+    "Cortical differentiation",
+    "Neurodevelopmental disorders",
+    "Neuronal differentiation",
+    "Thyroid hormone"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

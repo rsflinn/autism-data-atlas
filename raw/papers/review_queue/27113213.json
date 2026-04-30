@@ -1,0 +1,58 @@
+{
+  "pmid": "27113213",
+  "doi": "10.1186/s12881-016-0294-2",
+  "title": "Pathogenic copy number variants and SCN1A mutations in patients with intellectual disability and childhood-onset epilepsy",
+  "authors": "Fry AE, Rees E, Thompson R, Mantripragada K, Blake P, Jones G, et al.",
+  "journal": "BMC medical genetics",
+  "date": "2016-04",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) have been linked to neurodevelopmental disorders such as intellectual disability (ID), autism, epilepsy and psychiatric disease. There are few studies of CNVs in patients with both ID and epilepsy.\n\nWe evaluated the range of rare CNVs found in 80 Welsh patients with ID or developmental delay (DD), and childhood-onset epilepsy. We performed molecular cytogenetic testing by single nucleotide polymorphism array or microarray-based comparative genome hybridisation.\n\n8.8&#xa0;% (7/80) of the patients had at least one rare CNVs that was considered to be pathogenic or likely pathogenic. The CNVs involved known disease genes (EHMT1, MBD5 and SCN1A) and imbalances in genomic regions associated with neurodevelopmental disorders (16p11.2, 16p13.11 and 2q13). Prompted by the observation of two deletions disrupting SCN1A we undertook further testing of this gene in selected patients. This led to the identification of four pathogenic SCN1A mutations in our cohort.\n\nWe identified five rare de novo deletions and confirmed the clinical utility of array analysis in patients with ID/DD and childhood-onset epilepsy. This report adds to our clinical understanding of these rare genomic disorders and highlights SCN1A mutations as a cause of ID and epilepsy, which can easily be overlooked in adults.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MBD5",
+    "SCN1A"
+  ],
+  "summary": "Copy number variants (CNVs) have been linked to neurodevelopmental disorders such as intellectual disability (ID), autism, epilepsy and psychiatric disease. There are few studies of CNVs in patients with both ID and epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27113213/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age of Onset",
+    "Child",
+    "Child, Preschool",
+    "Comparative Genomic Hybridization",
+    "DNA Copy Number Variations",
+    "Epilepsy",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Middle Aged",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Polymorphism, Single Nucleotide",
+    "Sequence Deletion",
+    "Wales",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Array comparative genomic hybridization",
+    "Copy number variation",
+    "Epilepsy",
+    "Intellectual disability",
+    "SCN1A"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

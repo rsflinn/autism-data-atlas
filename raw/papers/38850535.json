@@ -1,0 +1,57 @@
+{
+  "pmid": "38850535",
+  "doi": "10.1016/j.celrep.2024.114329",
+  "title": "Five autism-associated transcriptional regulators target shared loci proximal to brain-expressed genes",
+  "authors": "Fazel Darbandi S, An JY, Lim K, Page NF, Liang L, Young DM, et al.",
+  "journal": "Cell reports",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Many autism spectrum disorder (ASD)-associated genes act as transcriptional regulators (TRs). Chromatin immunoprecipitation sequencing (ChIP-seq) was used to identify the regulatory targets of ARID1B, BCL11A, FOXP1, TBR1, and TCF7L2, ASD-associated TRs in the developing human and mouse cortex. These TRs shared substantial overlap in the binding sites, especially within open chromatin. The overlap within a promoter region, 1-2,000&#xa0;bp upstream of the transcription start site, was highly predictive of brain-expressed genes. This signature was observed in 96 out of 102 ASD-associated genes. In&#xa0;vitro CRISPRi against ARID1B and TBR1 delineated downstream convergent biology in mouse cortical cultures. After 8&#xa0;days, NeuN+ and CALB+ cells were decreased, GFAP+ cells were increased, and transcriptomic signatures correlated with the postmortem brain samples from individuals with ASD. We suggest that functional convergence across five ASD-associated TRs leads to shared neurodevelopmental outcomes of haploinsufficient disruption.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "ARID1B",
+    "BCL11A",
+    "FOXP1",
+    "TBR1"
+  ],
+  "summary": "Many autism spectrum disorder (ASD)-associated genes act as transcriptional regulators (TRs). Chromatin immunoprecipitation sequencing (ChIP-seq) was used to identify the regulatory targets of ARID1B, BCL11A, FOXP1, TBR1, and TCF7L2, ASD-associated TRs in the developing human and mouse cortex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38850535/",
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Mice",
+    "Brain",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Gene Expression Regulation",
+    "Transcription Factors",
+    "Genetic Loci"
+  ],
+  "keywords": [
+    "CP: Genomics",
+    "CP: Neuroscience",
+    "CRISPRi",
+    "autism spectrum disorder",
+    "chromatin",
+    "convergence",
+    "genomics",
+    "haploinsufficient disorders",
+    "human fetal development",
+    "mouse brain development",
+    "transcriptional regulators"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

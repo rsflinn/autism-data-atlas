@@ -1,0 +1,47 @@
+{
+  "pmid": "41068108",
+  "doi": "10.1038/s41467-025-64063-0",
+  "title": "ZMYND11 functions in bimodal regulation of latent genes and brain-like splicing to safeguard corticogenesis",
+  "authors": "Chang X, Li W, Matsui S, Huynh C, Erickson C, Guo F, et al.",
+  "journal": "Nature communications",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Despite the numerous pathogenic variants linked to neurodevelopmental disorders (NDDs) including autism (ASD) and intellectual disability, our understanding of the underlying mechanisms caused by risk genes remain unclear. Here, we show that mutations in ZMYND11, a newly implicated risk gene, impair human cortical progenitor and neuron production. ZMYND11, known for its tumor suppressor function, encodes a histone-reader that recognizes sites of transcriptional elongation and acts as a co-repressor. ZMYND11-deficient cortical neural stem cells upregulate inappropriate developmental pathways, leading to disrupted neurogenesis. In addition to its role on chromatin, ZMYND11 regulates a brain-specific RNA isoform switch involving the splicing regulator RBFOX2. Similar defects are observed in other chromatin-related ASD risk genes, some of which are partially rescued by enhancing ZMYND11 function. These findings uncover convergent pathways linking chromatin regulation and splicing to human brain development and advance our understanding of how genetic risk contributes to NDD.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Despite the numerous pathogenic variants linked to neurodevelopmental disorders (NDDs) including autism (ASD) and intellectual disability, our understanding of the underlying mechanisms caused by risk genes remain unclear. Here, we show that mutations in ZMYND11, a newly implicated risk gene, impair human cortical progenitor and neuron production.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41068108/",
+  "mesh_terms": [
+    "Humans",
+    "Neurogenesis",
+    "RNA Splicing Factors",
+    "Neural Stem Cells",
+    "Animals",
+    "Tumor Suppressor Proteins",
+    "Chromatin",
+    "Brain",
+    "Mice",
+    "RNA Splicing",
+    "Mutation",
+    "Neurons",
+    "Cerebral Cortex",
+    "Gene Expression Regulation, Developmental",
+    "DNA-Binding Proteins",
+    "Repressor Proteins",
+    "Cell Cycle Proteins",
+    "Co-Repressor Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

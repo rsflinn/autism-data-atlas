@@ -1,0 +1,49 @@
+{
+  "pmid": "36658491",
+  "doi": "10.1186/s12868-022-00771-3",
+  "title": "Identifying foetal forebrain interneurons as a target for monogenic autism risk factors and the polygenic 16p11.2 microdeletion",
+  "authors": "Yang Y, Booker SA, Clegg JM, Quintana-Urzainqui I, Sumera A, Kozic Z, et al.",
+  "journal": "BMC neuroscience",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum condition or 'autism' is associated with numerous genetic risk factors including the polygenic 16p11.2 microdeletion. The balance between excitatory and inhibitory neurons in the cerebral cortex is hypothesised to be critical for the aetiology of autism making improved understanding of how risk factors impact on the development of these cells an important area of research. In the current study we aim to combine bioinformatics analysis of human foetal cerebral cortex gene expression data with anatomical and electrophysiological analysis of a 16p11.2rat model to investigate how genetic risk factors impact on inhibitory neuron development.\n\nWe performed bioinformatics analysis of single cell transcriptomes from gestational week (GW) 8-26 human foetal prefrontal cortex and anatomical and electrophysiological analysis of 16p11.2rat cerebral cortex and hippocampus at post-natal day (P) 21.\n\nWe identified a subset of human interneurons (INs) first appearing at GW23 with enriched expression of a large fraction of risk factor transcripts including those expressed from the 16p11.2 locus. This suggests the hypothesis that these foetal INs are vulnerable to mutations causing autism. We investigated this in a rat model of the 16p11.2 microdeletion. We found no change in the numbers or position of either excitatory or inhibitory neurons in the somatosensory cortex or CA1 of 16p11.2rats but found that CA1 Sst INs were hyperexcitable with an enlarged axon initial segment, which was not the case for CA1 pyramidal cells.\n\nThe human foetal gene expression data was acquired from cerebral cortex between gestational week (GW) 8 to 26. We cannot draw inferences about potential vulnerabilities to genetic autism risk factors for cells not present in the developing cerebral cortex at these stages. The analysis 16p11.2rat phenotypes reported in the current study was restricted to 3-week old (P21) animals around the time of weaning and to a single interneuron cell-type while in human 16p11.2 microdeletion carriers symptoms likely involve multiple cell types and manifest in the first few years of life and on into adulthood.\n\nWe have identified developing interneurons in human foetal cerebral cortex as potentially vulnerable to monogenic autism risk factors and the 16p11.2 microdeletion and report interneuron phenotypes in post-natal 16p11.2rats.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum condition or 'autism' is associated with numerous genetic risk factors including the polygenic 16p11.2 microdeletion. The balance between excitatory and inhibitory neurons in the cerebral cortex is hypothesised to be critical for the aetiology of autism making improved understanding of how risk factors impact on the development of these cells an important area of research.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36658491/",
+  "mesh_terms": [
+    "Humans",
+    "Rats",
+    "Animals",
+    "Interneurons",
+    "Autistic Disorder",
+    "Neurons",
+    "Cerebral Cortex",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "AIS",
+    "Autism",
+    "Development",
+    "Electrophysiology",
+    "GABAergic",
+    "Genetics",
+    "Human",
+    "Rat",
+    "Single cell transcriptomics",
+    "Telencephalon"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

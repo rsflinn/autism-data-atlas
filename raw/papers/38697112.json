@@ -1,0 +1,47 @@
+{
+  "pmid": "38697112",
+  "doi": "10.1016/j.neuron.2024.04.007",
+  "title": "MECP2 directly interacts with RNA polymerase II to modulate transcription in human neurons",
+  "authors": "Liu Y, Flamier A, Bell GW, Diao AJ, Whitfield TW, Wang HC, et al.",
+  "journal": "Neuron",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Mutations in the methyl-DNA-binding protein MECP2 cause the neurodevelopmental disorder Rett syndrome (RTT). How MECP2 contributes to transcriptional regulation in normal and disease states is unresolved; it has been reported to be an activator and a repressor. We describe here the first integrated CUT&Tag, transcriptome, and proteome analyses using human neurons with wild-type (WT) and mutant MECP2 molecules. MECP2 occupies CpG-rich promoter-proximal regions in over four thousand genes in human neurons, including a plethora of autism risk genes, together with RNA polymerase II (RNA Pol II). MECP2 directly interacts with RNA Pol II, and genes occupied by both proteins showed reduced expression in neurons with MECP2 patient mutations. We conclude that MECP2 acts as a positive cofactor for RNA Pol II gene expression at many neuronal genes that harbor CpG islands in promoter-proximal regions and that RTT is due, in part, to the loss of gene activity of these genes in neurons.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Mutations in the methyl-DNA-binding protein MECP2 cause the neurodevelopmental disorder Rett syndrome (RTT). How MECP2 contributes to transcriptional regulation in normal and disease states is unresolved; it has been reported to be an activator and a repressor.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38697112/",
+  "mesh_terms": [
+    "RNA Polymerase II",
+    "Methyl-CpG-Binding Protein 2",
+    "Humans",
+    "Neurons",
+    "Transcription, Genetic",
+    "Promoter Regions, Genetic",
+    "Rett Syndrome",
+    "CpG Islands",
+    "Mutation",
+    "Gene Expression Regulation"
+  ],
+  "keywords": [
+    "MECP2",
+    "RNA polymerase II",
+    "Rett syndrome",
+    "chromatin binding",
+    "transcriptional regulation"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

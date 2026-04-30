@@ -1,0 +1,59 @@
+{
+  "pmid": "33546725",
+  "doi": "10.1186/s13229-020-00410-w",
+  "title": "Touch and olfaction/taste differentiate children carrying a 16p11.2 deletion from children with ASD",
+  "authors": "Os&#xf3;rio JMA, Rodr&#xed;guez-Herreros B, Romascano D, Junod V, Habegger A, Pain A, et al.",
+  "journal": "Molecular autism",
+  "date": "2021-02",
+  "source": "pubmed",
+  "abstract": "Sensory processing atypicalities are frequent in Autism Spectrum Disorder (ASD) and neurodevelopmental disorders (NDD). Different domains of sensory processing appear to be differentially altered in these disorders. In this study, we explored the sensory profile of two clinical cohorts, in comparison with a sample of typically developing children.\n\nBehavioral responses to sensory stimuli were assessed using the Sensory Processing Measure (parent-report questionnaire). We included 121 ASD children, 17 carriers of the 16p11.2 deletion (Del&#xa0;16p11.2) and 45 typically developing (TD) children. All participants were aged between 2 and 12&#xa0;years. Additional measures included the Tactile Defensiveness and Discrimination Test-Revised, Wechsler Intelligence Scales and Autism Diagnostic Observation Schedule (ADOS-2). Statistical analyses included MANCOVA and regression analyses.\n\nASD children score significantly higher on all SPM subscales compared to TD. Del16p11.2 also scored higher than TD on all subscales except for tactile and olfactory/taste processing, in which they score similarly to TD. When assessing sensory modulation patterns (hyper-, hypo-responsiveness and seeking), ASD did not significantly differ from del16p11.2. Both groups had significantly higher scores across all patterns than the TD group. There was no significant association between the&#xa0;SPM Touch subscale and the TDDT-R.\n\nSensory processing was assessed using a parent-report questionnaire. Even though it captures observable behavior, a questionnaire does not assess sensory processing in all its complexity. The sample size of the genetic cohort and the small subset of ASD children with TDDT-R data render some of our results exploratory. Divergence between SPM Touch and TDDT-R raises important questions about the nature of the process that is assessed.\n\nTouch and olfaction/taste seem to be particularly affected in ASD children compared to del16p11.2. These results indicate that parent report measures can provide a useful perspective on behavioral expression. Sensory phenotyping, when combined with neurobiological and psychophysical methods, might have the potential to provide a better understanding of the sensory processing in ASD and in other NDD.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Sensory processing atypicalities are frequent in Autism Spectrum Disorder (ASD) and neurodevelopmental disorders (NDD). Different domains of sensory processing appear to be differentially altered in these disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33546725/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosomes, Human, Pair 16",
+    "Cognition",
+    "DNA Copy Number Variations",
+    "Female",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Individuality",
+    "Intellectual Disability",
+    "Male",
+    "Mutation",
+    "Phenotype",
+    "Taste Perception",
+    "Touch Perception"
+  ],
+  "keywords": [
+    "16p11.2 deletion",
+    "Autism spectrum disorder (ASD)",
+    "Children",
+    "Copy number variants (CNV)",
+    "Olfaction",
+    "Sensory processing",
+    "Sensory processing measure (SPM)",
+    "Touch"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

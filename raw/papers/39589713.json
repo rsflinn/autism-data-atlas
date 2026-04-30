@@ -1,0 +1,47 @@
+{
+  "pmid": "39589713",
+  "doi": "10.1007/978-3-031-69188-1_6",
+  "title": "Spatial Omics: Navigating Neuroscience Research into the New Era",
+  "authors": "Guo P, Deng Y",
+  "journal": "Advances in neurobiology",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "The human brain's complexity is underpinned by billions of neurons and trillions of synapses, necessitating coordinated activities across diverse cell types. Conventional techniques like in situ hybridization and immunohistochemistry, while valuable, face limitations in resolution and comprehensiveness when analyzing neuron types. Advances in spatial omics technologies, especially those integrating transcriptomics and proteomics, have revolutionized our understanding of brain tissue organization. These technologies, such as FISH-based, in situ sequencing-based (ISS), and next-generation sequencing (NGS)-based methods, provide detailed spatial context, overcoming previous limitations. FISH techniques, including smFISH and its variants like seqFISH and MERFISH, offer high-resolution spatial gene expression data. ISS approaches leverage padlock probes and rolling circle amplification to yield spatial transcriptome information. NGS-based methods, such as spatial transcriptomics and spatial-epigenomics, integrate spatial barcodes with single-cell sequencing, enabling comprehensive profiling of gene expression and epigenetic states in tissues. These innovations have propelled insights into neural development and disease, identifying cellular heterogeneity and molecular alterations in conditions like Alzheimer's and major depression. Despite challenges in cost, speed, and data analysis, spatial omics technologies continue to evolve, promising deeper insights into the molecular mechanisms of the brain and neurodegenerative diseases.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The human brain's complexity is underpinned by billions of neurons and trillions of synapses, necessitating coordinated activities across diverse cell types. Conventional techniques like in situ hybridization and immunohistochemistry, while valuable, face limitations in resolution and comprehensiveness when analyzing neuron types.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39589713/",
+  "mesh_terms": [
+    "Humans",
+    "Neurosciences",
+    "Brain",
+    "Proteomics",
+    "Transcriptome",
+    "High-Throughput Nucleotide Sequencing",
+    "Animals",
+    "Genomics",
+    "In Situ Hybridization, Fluorescence",
+    "Neurons",
+    "Epigenomics"
+  ],
+  "keywords": [
+    "Epigenome",
+    "Neurologic diseases",
+    "Neuroscience",
+    "Spatial omics",
+    "Transcriptome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

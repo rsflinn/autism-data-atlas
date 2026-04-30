@@ -1,0 +1,34 @@
+{
+  "pmid": "36980151",
+  "doi": "10.3390/children10030593",
+  "title": "ADNP Syndrome: A Qualitative Assessment of Symptoms, Therapies, and Challenges",
+  "authors": "Fastman J, Kolevzon A",
+  "journal": "Children (Basel, Switzerland)",
+  "date": "2023-03",
+  "source": "pubmed",
+  "abstract": "ADNP syndrome is a neurodevelopmental disorder characterized by autism spectrum disorder (ASD), intellectual disability, sensory reactivity symptoms, facial dysmorphisms, and a wide variety of other physical and behavioral health manifestations. Research on ADNP syndrome has been limited, and there are currently no validated tools for assessing clinical outcomes in ADNP syndrome specifically. The goal of this qualitative study was to ascertain the symptoms of ADNP syndrome based on caregiver interviews, with the primary aim of identifying areas for clinical improvement that may inform the development of outcome measures specific to ADNP syndrome. Data collection consisted of loosely structured interviews with 10 caregivers of children with ADNP syndrome, representing 6 males and 4 females of ages 4 to 17 (M = 10.1; SD = 4.2). Interviews were conducted via phone between November 2020 and April 2021. The analysis of coded interview data identified three overarching themes: symptoms, therapies, and challenges. Each theme encompasses several distinct codes, which were individually addressed. Our results could ultimately be useful in educating clinicians about ADNP syndrome, selecting or designing refined outcome measures for clinical trials, and informing efforts to increase support for caregivers.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "ADNP"
+  ],
+  "summary": "ADNP syndrome is a neurodevelopmental disorder characterized by autism spectrum disorder (ASD), intellectual disability, sensory reactivity symptoms, facial dysmorphisms, and a wide variety of other physical and behavioral health manifestations. Research on ADNP syndrome has been limited, and there are currently no validated tools for assessing clinical outcomes in ADNP syndrome specifically.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36980151/",
+  "mesh_terms": [],
+  "keywords": [
+    "ADNP syndrome",
+    "autism",
+    "qualitative"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

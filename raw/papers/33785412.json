@@ -1,0 +1,43 @@
+{
+  "pmid": "33785412",
+  "doi": "10.1016/j.neures.2021.03.005",
+  "title": "Transcriptome analysis of human neural cells derived from isogenic embryonic stem cells with 16p11.2 deletion",
+  "authors": "Nomura Y, Nomura J, Kamiguchi H, Nishikawa T, Takumi T",
+  "journal": "Neuroscience research",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "16p11.2 deletion is one of the most influential copy number variations (CNVs) associated with autism spectrum disorder (ASD). Previous studies have investigated the pathophysiology of 16p11.2 deletion both in vitro and in vivo, and have identified features such as NMDAR dysfunction, excitation-inhibition imbalance, transcriptional dysregulation, and impaired cortical development. However, little is known about the transcriptional profiles of human neural cells. Here, we constructed an isogenic human embryonic stem (hES) cell model with 16p11.2 deletion using a CRISPR/Cas9 system and performed transcriptome analyses of hES-derived 2-dimensional neural cells. We identified several characteristics which may correlate with the neuropathology of 16p11.2 deletion: predisposition to differentiate into neural lineages, enhanced neurogenesis, and dysregulation of G protein-coupled receptor signaling and RAF/MAPK pathway. We also found upregulation of fragile X mental retardation protein (FMRP) target genes including GRM5, which is implicated as a common trait between 16p11.2 deletion and fragile X syndrome. Extending our knowledge into other ASD models would help us to understand the molecular pathology of this disorder.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "16p11.2 deletion is one of the most influential copy number variations (CNVs) associated with autism spectrum disorder (ASD). Previous studies have investigated the pathophysiology of 16p11.2 deletion both in vitro and in vivo, and have identified features such as NMDAR dysfunction, excitation-inhibition imbalance, transcriptional dysregulation, and impaired cortical development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33785412/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Chromosome Deletion",
+    "DNA Copy Number Variations",
+    "Embryonic Stem Cells",
+    "Gene Expression Profiling",
+    "Humans"
+  ],
+  "keywords": [
+    "16p11.2 deletion",
+    "Autism spectrum disorder",
+    "FMRP target gene",
+    "Human ES cell",
+    "Isogenic cell model",
+    "Neurogenesis",
+    "Single-cell RNA-seq"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

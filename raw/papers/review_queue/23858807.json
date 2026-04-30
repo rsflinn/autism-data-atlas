@@ -1,0 +1,40 @@
+{
+  "pmid": "23858807",
+  "doi": "10.2298/sarh1306354d",
+  "title": "Etiological aspect of left-handedness in adolescents",
+  "authors": "Dragovi&#x107; M, Milenkovi&#x107; S, Kocijanci&#x107; D, Zlatko S",
+  "journal": "Srpski arhiv za celokupno lekarstvo",
+  "date": "2013-01",
+  "source": "pubmed",
+  "abstract": "Lateralization of brain functions such as language and manual dominance (hand preferences and fine motor control) are most likely under genetic control. However, this does not preclude the effect of various environmental factors on functional brain lateralization. A strong association of non-right-handedness (left- and mixed-handedness) with various neurodevelopmental conditions (e.g. schizophrenia, autism, Rett syndrome) implies that in some cases, non-right-handedness may be acquired rather than inherited (i.e., pathologically determined).\n\nThe aim of the study was: (a) re-investigation of several known risk factors for left-handedness (age of mother and/or father, twin pregnancies, and birth order), and (b) examination of hitherto uninvestigated factors (type of birth, Apgar score, maternal smoking during pregnancy).\n\nPutative, causative environmental agents for this shift in manual distributions are explored in a sample of 1031 high school students (404 males and 627 females) from Belgrade. Both pre-existing (age of parents, twin pregnancy, and birth order) and new (Apgar score, maternal smoking, type of birth) putative agents are examined.\n\nWe found that maternal smoking and low Apgar score (2-6) can significantly increase risk for left-handedness (p=0.046 and p=0.042, respectively).The remaining factors showed no significant association with left-handedness in adolescents.\n\nOur study clearly demonstrates that left-handedness may be related to maternal smoking during pregnancy and a low Apgar score on birth.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Lateralization of brain functions such as language and manual dominance (hand preferences and fine motor control) are most likely under genetic control. However, this does not preclude the effect of various environmental factors on functional brain lateralization.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23858807/",
+  "mesh_terms": [
+    "Adolescent",
+    "Apgar Score",
+    "Female",
+    "Functional Laterality",
+    "Humans",
+    "Male",
+    "Maternal Behavior",
+    "Pregnancy",
+    "Qualitative Research",
+    "Risk Factors",
+    "Smoking"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

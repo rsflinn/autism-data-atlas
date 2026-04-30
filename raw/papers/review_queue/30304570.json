@@ -1,0 +1,44 @@
+{
+  "pmid": "30304570",
+  "doi": "10.1002/dneu.22644",
+  "title": "Application of Human-Induced Pluripotent Stem Cells (hiPSCs) to Study Synaptopathy of Neurodevelopmental Disorders",
+  "authors": "Shen X, Yeung HT, Lai KO",
+  "journal": "Developmental neurobiology",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "Synapses are the basic structural and functional units for information processing and storage in the brain. Their diverse properties and functions ultimately underlie the complexity of human behavior. Proper development and maintenance of synapses are essential for normal functioning of the nervous system. Disruption in synaptogenesis and the consequent alteration in synaptic function have been strongly implicated to cause neurodevelopmental disorders such as autism spectrum disorders (ASDs) and schizophrenia (SCZ). The introduction of human-induced pluripotent stem cells (hiPSCs) provides a new path to elucidate disease mechanisms and potential therapies. In this review, we will discuss the advantages and limitations of using hiPSC-derived neurons to study synaptic disorders. Many mutations in genes encoding for proteins that regulate synaptogenesis have been identified in patients with ASDs and SCZ. We use Methyl-CpG binding protein 2 (MECP2), SH3 and multiple ankyrin repeat domains 3 (SHANK3) and Disrupted in schizophrenia 1 (DISC1) as examples to illustrate the promise of using hiPSCs as cellular models to elucidate the mechanisms underlying disease-related synaptopathy.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2",
+    "SHANK3"
+  ],
+  "summary": "Synapses are the basic structural and functional units for information processing and storage in the brain. Their diverse properties and functions ultimately underlie the complexity of human behavior.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30304570/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurodevelopmental Disorders",
+    "Synapses"
+  ],
+  "keywords": [
+    "Human-induced pluripotent stem cells (hiPSCs)",
+    "Synaptognenesis",
+    "autism spectrum disorder (ASD)",
+    "schizophrenia (SCZ)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

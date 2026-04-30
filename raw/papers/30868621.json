@@ -1,0 +1,50 @@
+{
+  "pmid": "30868621",
+  "doi": "10.1002/syn.22097",
+  "title": "Autism-associated Shank3 mutations alter mGluR expression and mGluR-dependent but not NMDA receptor-dependent long-term depression",
+  "authors": "Lee K, Vyas Y, Garner CC, Montgomery JM",
+  "journal": "Synapse (New York, N.Y.)",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "SHANK3 is a postsynaptic structural protein localized at excitatory glutamatergic synapses in which deletions and mutations have been implicated in patients with autism spectrum disorders (ASD). The expression of Shank3 ASD mutations causes impairments in ionotropic glutamate receptor-mediated synaptic responses in neurons, which is thought to underlie ASD-related behaviors, thereby indicating glutamatergic synaptopathy as one of the major pathogenic mechanisms. However, little is known about the functional consequences of ASD-associated mutations in Shank3 on another important set of glutamate receptors, group I metabotropic glutamate receptors (mGluRs). Here, we further assessed how Shank3 mutations identified in patients with ASD (one de novo InsG mutation and two inherited point mutations, R87C and R375C) disrupt group I mGluR (mGluR1 and mGluR5) expression and function. To identify potential isoform-specific deficits induced by ASD-associated Shank3 mutations on group I mGluRs, we surface immunolabeled mGluR1 and mGluR5 independently. We also induced mGluR-dependent synaptic plasticity (R,S-3,5-dihydroxyphenylglycine [DHPG]-induced long-term depression [LTD]) as well as N-methyl-D-aspartate receptor (NMDAR)-dependent LTD. ASD-associated mutations in Shank3 differentially interfered with the ability of cultured hippocampal neurons to express mGluR5 and mGluR1 at synapses. Intriguingly, all ASD Shank3 mutations impaired mGluR-dependent LTD without altering NMDAR-dependent LTD. Our data show that the specific perturbation in mGluR-dependent synaptic plasticity occurs in neurons expressing ASD-associated Shank3 mutations, which may underpin synaptic dysfunction and subsequent behavioral deficits in ASD.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "SHANK3 is a postsynaptic structural protein localized at excitatory glutamatergic synapses in which deletions and mutations have been implicated in patients with autism spectrum disorders (ASD). The expression of Shank3 ASD mutations causes impairments in ionotropic glutamate receptor-mediated synaptic responses in neurons, which is thought to underlie ASD-related behaviors, thereby indicating glutamatergic synaptopathy as one of the major pathogenic mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30868621/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Cells, Cultured",
+    "Female",
+    "Hippocampus",
+    "Long-Term Synaptic Depression",
+    "Male",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Rats",
+    "Rats, Wistar",
+    "Receptors, Metabotropic Glutamate"
+  ],
+  "keywords": [
+    "NMDA receptor",
+    "SHANK3",
+    "autism spectrum disorders",
+    "long-term depression",
+    "metabotropic glutamate receptor"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

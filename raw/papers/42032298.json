@@ -1,0 +1,28 @@
+{
+  "pmid": "42032298",
+  "doi": "10.1038/s41380-026-03585-5",
+  "title": "Multiomics analysis identifies VPA-induced changes in neural progenitor cells, ventricular-like regions, and cellular microenvironment in dorsal forebrain organoids",
+  "authors": "Yent&#xfc;r Z, Branco L, Sarieva K, Andreeva D, Kagermeier T, Kulka C, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2026-04",
+  "source": "pubmed",
+  "abstract": "Pharmaceutical agents, such as antiepileptic medications, can cross fetal barriers and affect the developing brain. Prenatal exposure to the antiepileptic drug valproate (VPA) is associated with an increased risk of neurodevelopmental disorders, including congenital malformations and autism spectrum disorder. In animal models and neural organoids, VPA has been shown to alter signaling pathways, such as Wnt pathway, providing insights into VPA-induced neurodevelopmental defects. Here, we exposed dorsal forebrain organoids to VPA for 30 days and examined effects at the tissue, cellular, and molecular level. VPA treatment disrupted ventricular-like regions, indicating defects in cell-cell and cell-matrix interactions. Transcriptomics analysis confirmed altered expression of extracellular matrix (ECM) genes and single cell RNA sequencing analysis identified genes involved in microenvironment sensing, such as cellular mechanosensing and Hippo-YAP/TAZ signaling pathway. Finally, proteomics analysis corroborated that VPA alters the microenvironment of the human dorsal forebrain organoids by disrupting the secretion of ECM proteins. Altogether, our study suggests that VPA-treated dorsal forebrain organoids serve as a model to investigate the role of extracellular processes in brain development and to understand how their disruptions might contribute to neurodevelopmental disorders.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Pharmaceutical agents, such as antiepileptic medications, can cross fetal barriers and affect the developing brain. Prenatal exposure to the antiepileptic drug valproate (VPA) is associated with an increased risk of neurodevelopmental disorders, including congenital malformations and autism spectrum disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/42032298/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "31652770",
+  "doi": "10.3390/ijms20215257",
+  "title": "Polyunsaturated Fatty Acids: What is Their Role in Treatment of Psychiatric Disorders?",
+  "authors": "Bozzatello P, Rocca P, Mantelli E, Bellino S",
+  "journal": "International journal of molecular sciences",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "In the central nervous system omega-3 fatty acids modulate cell signaling and affect dopaminergic and serotonergic pathways. On this basis, a new application for omega-3 fatty acids has been proposed, concerning the treatment of several psychiatric disorders. The present article is an update of a previous systematic review and is aimed to provide a complete report of data published in the period between 1980 and 2019 on efficacy and tolerability of omega-3 fatty acids in psychiatric disorders. In July 2019, an electronic search on PUBMED, Medline and PsychINFO of all RCTs, systematic reviews and meta-analyses on omega-3 fatty acids and psychiatric disorders without any filter or MESH restriction was performed. After eligibility processes, the final number of records included in this review was 126. One hundred and two of these studies were RCTs, while 24 were reviews and meta-analyses. The role of omega-3 fatty acids was studied in schizophrenia, major depression, bipolar disorder, anxiety disorders, obsessive-compulsive disorder, post-traumatic stress disorder, attention deficit hyperactivity disorder (ADHD), autism spectrum disorders, eating disorders, substance use disorder and borderline personality disorder. The main evidence of the efficacy of omega-3 fatty acids has been obtained in treating depressive symptoms in patients with major depression and, to a lesser degree, bipolar depression. Some efficacy was also found in early phases of schizophrenia in addition to antipsychotic treatment, but not in the chronic phases of psychosis. Small beneficial effects of omega-3 fatty acids were observed in ADHD and positive results were reported in a few trials on core symptoms of borderline personality disorder. For other psychiatric disorders results are inconsistent.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "In the central nervous system omega-3 fatty acids modulate cell signaling and affect dopaminergic and serotonergic pathways. On this basis, a new application for omega-3 fatty acids has been proposed, concerning the treatment of several psychiatric disorders.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31652770/",
+  "mesh_terms": [
+    "Fatty Acids, Omega-3",
+    "Humans",
+    "Mental Disorders",
+    "Meta-Analysis as Topic",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "adverse effects",
+    "efficacy",
+    "omega-3 fatty acids",
+    "polyunsaturated fatty acids",
+    "psychiatric disorders",
+    "randomized controlled trials"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Systematic Review"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "36834916",
+  "doi": "10.3390/ijms24043509",
+  "title": "Characterization of De Novo Promoter Variants in Autism Spectrum Disorder with Massively Parallel Reporter Assays",
+  "authors": "Koesterich J, An JY, Inoue F, Sohota A, Ahituv N, Sanders SJ, et al.",
+  "journal": "International journal of molecular sciences",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a common, complex, and highly heritable condition with contributions from both common and rare genetic variations. While disruptive, rare variants in protein-coding regions clearly contribute to symptoms, the role of rare non-coding remains unclear. Variants in these regions, including promoters, can alter downstream RNA and protein quantity; however, the functional impacts of specific variants observed in ASD cohorts remain largely uncharacterized. Here, we analyzed 3600 de novo mutations in promoter regions previously identified by whole-genome sequencing of autistic probands and neurotypical siblings to test the hypothesis that mutations in cases have a greater functional impact than those in controls. We leveraged massively parallel reporter assays (MPRAs) to detect transcriptional consequences of these variants in neural progenitor cells and identified 165 functionally high confidence de novo variants (HcDNVs). While these HcDNVs are enriched for markers of active transcription, disruption to transcription factor binding sites, and open chromatin, we did not identify differences in functional impact based on ASD diagnostic status.",
+  "relevance_score": 31,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a common, complex, and highly heritable condition with contributions from both common and rare genetic variations. While disruptive, rare variants in protein-coding regions clearly contribute to symptoms, the role of rare non-coding remains unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36834916/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Genetic Predisposition to Disease",
+    "Mutation",
+    "Autistic Disorder",
+    "Promoter Regions, Genetic"
+  ],
+  "keywords": [
+    "autism disease genetics",
+    "computational genomics",
+    "functional genomics",
+    "gene regulation",
+    "neural development"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

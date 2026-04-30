@@ -1,0 +1,41 @@
+{
+  "pmid": "35697691",
+  "doi": "10.1038/s41398-022-01982-2",
+  "title": "Clinical autism subscales have common genetic liabilities that are heritable, pleiotropic, and generalizable to the general population",
+  "authors": "Thomas TR, Koomar T, Casten LG, Tener AJ, Bahl E, Michaelson JJ",
+  "journal": "Translational psychiatry",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "The complexity of autism's phenotypic spectra is well-known, yet most genetic research uses case-control status as the target trait. It is undetermined if autistic symptom domain severity underlying this heterogeneity is heritable and pleiotropic with other psychiatric and behavior traits in the same manner as autism case-control status. In N&#x2009;=&#x2009;6064 autistic children in the SPARK cohort, we investigated the common genetic properties of twelve subscales from three clinical autism instruments measuring autistic traits: the Social Communication Questionnaire (SCQ), the Repetitive Behavior Scale-Revised (RBS-R), and the Developmental Coordination Disorder Questionnaire (DCDQ). Educational attainment polygenic scores (PGS) were significantly negatively correlated with eleven subscales, while ADHD and major depression PGS were positively correlated with ten and eight of the autism subscales, respectively. Loneliness and neuroticism PGS were also positively correlated with many subscales. Significant PGS by sex interactions were found-surprisingly, the autism case-control PGS was negatively correlated in females and had no strong correlation in males. SNP-heritability of the DCDQ subscales ranged from 0.04 to 0.08, RBS-R subscales ranged from 0.09 to 0.24, and SCQ subscales ranged from 0 to 0.12. GWAS in SPARK followed by estimation of polygenic scores (PGS) in the typically-developing ABCD cohort (N&#x2009;=&#x2009;5285), revealed significant associations of RBS-R subscale PGS with autism-related behavioral traits, with several subscale PGS more strongly correlated than the autism case-control PGS. Overall, our analyses suggest that the clinical autism subscale traits show variability in SNP-heritability, PGS associations, and significant PGS by sex interactions, underscoring the heterogeneity in autistic traits at a genetic level. Furthermore, of the three instruments investigated, the RBS-R shows the greatest evidence of genetic signal in both (1) autistic samples (greater heritability) and (2) general population samples (strongest PGS associations).",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The complexity of autism's phenotypic spectra is well-known, yet most genetic research uses case-control status as the target trait. It is undetermined if autistic symptom domain severity underlying this heterogeneity is heritable and pleiotropic with other psychiatric and behavior traits in the same manner as autism case-control status.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35697691/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Communication",
+    "Female",
+    "Humans",
+    "Male",
+    "Multifactorial Inheritance",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

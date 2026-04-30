@@ -1,0 +1,33 @@
+{
+  "pmid": "37599823",
+  "doi": "10.1016/j.isci.2023.107476",
+  "title": "Increased NMDARs in neurons and glutamine synthetase in astrocytes underlying autistic-like behaviors ofmice",
+  "authors": "Wang J, Gao Y, Xiao L, Lin Y, Huang L, Chen J, et al.",
+  "journal": "iScience",
+  "date": "2023-07",
+  "source": "pubmed",
+  "abstract": "Mutations of the GABA-A receptor subunit &#x3b2;1 () gene are found in autism patients. However, it remains unclear how mutations inmay lead to autism. We generatedmouse model, which showed autistic-like behaviors. We carried out RNA-seq on the hippocampus and found glutamatergic pathway may be involved. We further carried out single-cell RNA sequencing on the whole brain followed by qRT-PCR, immunofluorescence, electrophysiology, and metabolite detection on specific cell types. We identified the up-regulatedin astrocytes,in neurons, glutamate, and the ratio of Glu/GABA in the hippocampus. Consistent with these results, increased NMDAR-currents and reduced GABAR-currents in the CA1 neurons were detected inmice. NMDAR antagonist memantine orinhibitor methionine sulfoximine could rescue the abnormal behaviors inmice. Our data reveal that upregulation of the glutamatergic synapse pathway, including NMDARs at neuronal synapses and glutamine exported by astrocytes, may lead to autistic-like behaviors.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Mutations of the GABA-A receptor subunit &#x3b2;1 () gene are found in autism patients. However, it remains unclear how mutations inmay lead to autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37599823/",
+  "mesh_terms": [],
+  "keywords": [
+    "Behavioral neuroscience",
+    "Neuroscience",
+    "Omics",
+    "Transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

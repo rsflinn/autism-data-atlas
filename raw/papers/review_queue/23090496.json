@@ -1,0 +1,42 @@
+{
+  "pmid": "23090496",
+  "doi": null,
+  "title": "A review on the current neuroligin mouse models",
+  "authors": "Xu JY, Xia QQ, Xia J",
+  "journal": "Sheng li xue bao : [Acta physiologica Sinica]",
+  "date": "2012-10",
+  "source": "pubmed",
+  "abstract": "Neuroligins (NLs) are postsynaptic membrane proteins expressed in the brain and mediate synaptogenesis. Neuroligin family proteins can specifically induce either excitatory or inhibitory synapses. Deletions or point mutations in neuroligin genes are found in patients with autism spectrum disorders (ASD) or mental retardations. The dysfunctions of these mutations have been tested in multiple neuroligin mouse models. In most of the models, including the human autism-linked NL3 and NL4 mutation mice, there are social interaction defects, memory impairment and repetitive behaviors. Researchers also found the excitatory/inhibitory synapse ratio altered in those mice, as well as receptor subunit composition. However, inconsistencies and debates also exist between different research approaches. In this review, we summarize the neuroligin mouse models currently available, examine the detailed alterations detected in those mice and compare the differences within different mouse models or different investigation methods, to obtain an overall picture of the current progress on neuroligin mouse models.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Neuroligins (NLs) are postsynaptic membrane proteins expressed in the brain and mediate synaptogenesis. Neuroligin family proteins can specifically induce either excitatory or inhibitory synapses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23090496/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Cell Adhesion Molecules, Neuronal",
+    "Disease Models, Animal",
+    "Humans",
+    "Membrane Proteins",
+    "Mice",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

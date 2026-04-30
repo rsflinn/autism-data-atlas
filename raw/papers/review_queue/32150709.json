@@ -1,0 +1,44 @@
+{
+  "pmid": "32150709",
+  "doi": null,
+  "title": "[Genetic studies and neurodevelopment. From effectiveness to genetic models]",
+  "authors": "Calleja-P&#xe9;rez B, Fern&#xe1;ndez-Perrone AL, Fern&#xe1;ndez-Mayoralas DM, Jim&#xe9;nez de Domingo A, Tirado P, L&#xf3;pez-Arribas S, et al.",
+  "journal": "Medicina",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Advances in genetics have been able to support the clinical suspicion on the large hereditary component of most of these neurodevelopmental disorders (NDD). Initial studies on heritability, linkage or association showed from the beginning the great contribution of genotypic variation to the clinic in general, and to NDD in particular. The effectiveness of genetic studies in clinical practice, targeted to aetiological diagnosis, should not be ignored. Most of these are protocolized in the study of disorders such as intellectual disability and autism; within these, the array comparative genomic hybridization have supported a greater diagnostic effectiveness with respect to historical cytogenetic techniques (3 vs. 10% respectively). However, the irruption and success of molecular genetic sequencing techniques, particularly the exome and genome in trio, analyzing the parents (diagnostic rates of 30-50%), are conditioning the modification of the genetic algorithms in the diagnosis of different NDD. The greater knowledge of causal variants in intellectual disability and autism is also modifying the polygenic theoretical models established to date.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Advances in genetics have been able to support the clinical suspicion on the large hereditary component of most of these neurodevelopmental disorders (NDD). Initial studies on heritability, linkage or association showed from the beginning the great contribution of genotypic variation to the clinic in general, and to NDD in particular.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32150709/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Comparative Genomic Hybridization",
+    "Humans",
+    "Intellectual Disability",
+    "Models, Genetic",
+    "Neurodevelopmental Disorders",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "arrays",
+    "autism",
+    "genetics",
+    "intellectual disability",
+    "neurodevelopmental disorders",
+    "sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

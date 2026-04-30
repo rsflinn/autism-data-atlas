@@ -1,0 +1,44 @@
+{
+  "pmid": "30343634",
+  "doi": "10.1089/scd.2018.0122",
+  "title": "Human Cortical Neuron Generation Using Cell Reprogramming: A Review of Recent Advances",
+  "authors": "McCaughey-Chapman A, Connor B",
+  "journal": "Stem cells and development",
+  "date": "2018-11",
+  "source": "pubmed",
+  "abstract": "The study and treatment of neurological disorders have been hampered by a lack of access to live, healthy, or disease-affected human neurons. The recent advances in the field of cell reprogramming offer exciting new possibilities for disease modeling, drug development, and cell-based therapies. Since the derivation of human embryonic stem cells (hESCs) and their differentiation into neurons, cell reprogramming technologies have built on these protocols to generate mature human neurons of disease-associated phenotypes from somatic cells. Mechanistic knowledge of neural patterning and neurogenesis has been essential for the establishment of reprogramming strategies that employ a combination of transcription factors and small molecules selected due to their critical role in brain development. The generation of reprogrammed human neurons has the potential to further enhance our knowledge of pathways underlying the developmental process of the human brain, the current knowledge of which has predominantly come from animal studies, postmortem tissue, and most recently hESCs. Somatic cell reprogramming began in 2006 with the first report of induced pluripotent stem cell (iPSC) derivation from mouse fibroblasts. This has now expanded to direct-to-induced neuron and direct-to-induced neural stem or precursor reprogramming using a variety of viral and nonviral delivery methods. Most recently, iPSC technology has been extended to the development of three-dimensional brain structures referred to as brain spheroids or organoids. This review will discuss the reprogramming strategies that have been formulated to generate cortical neurons that are associated with many diseases, including autism spectrum disorders and schizophrenia.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The study and treatment of neurological disorders have been hampered by a lack of access to live, healthy, or disease-affected human neurons. The recent advances in the field of cell reprogramming offer exciting new possibilities for disease modeling, drug development, and cell-based therapies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30343634/",
+  "mesh_terms": [
+    "Cellular Reprogramming",
+    "Cellular Reprogramming Techniques",
+    "Cerebral Cortex",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurons"
+  ],
+  "keywords": [
+    "cortical glutamatergic neurons",
+    "induced neural stem cells",
+    "induced neurons",
+    "induced pluripotent stem cells",
+    "organoids",
+    "reprogramming"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

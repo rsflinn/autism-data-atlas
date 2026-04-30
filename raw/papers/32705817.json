@@ -1,0 +1,44 @@
+{
+  "pmid": "32705817",
+  "doi": "10.1002/acn3.51128",
+  "title": "Is autism driven by epilepsy in infants with Tuberous Sclerosis Complex?",
+  "authors": "Moavero R, Kotulska K, Lagae L, Benvenuto A, Emberti Gialloreti L, Weschke B, et al.",
+  "journal": "Annals of clinical and translational neurology",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "To evaluate the relationship between age at seizure onset and neurodevelopmental outcome at age 24&#xa0;months in infants with TSC, as well as the effect on neurodevelopmental outcome of early versus conventional treatment of epileptic seizures with vigabatrin (80-150&#xa0;mg/kg/day).\n\nInfants with TSC, aged &#x2264;4&#xa0;months and without previous seizures were enrolled in a prospective study and closely followed with monthly video EEG and serial standardized neurodevelopmental testing (Bayley Scales of Infant Development and Autism Diagnostic Observation Schedule).\n\nEighty infants were enrolled. At the age of 24&#xa0;months testing identified risk of Autism Spectrum Disorder (ASD) in 24/80 children (30.0%), and developmental delay (DD) in 26/80 (32.5%). Children with epilepsy (51/80; 63.8%) had a higher risk of ASD (P&#xa0;=&#xa0;0.02) and DD (P&#xa0;=&#xa0;0.001). Overall, no child presented with moderate or severe DD at 24&#xa0;months (developmental quotient&#xa0;<&#xa0;55). In 20% of children abnormal developmental trajectories were detected before the onset of seizures. Furthermore, 21% of all children with risk of ASD at 24&#xa0;months had not developed seizures at that timepoint. There was no significant difference between early and conventional treatment with respect to rate of risk of ASD (P&#xa0;=&#xa0;0.8) or DD (P&#xa0;=&#xa0;0.9) at 24&#xa0;months.\n\nThis study confirms a relationship between epilepsy and risk of ASD/DD. However, in this combined randomized/open label study, early treatment with vigabatrin did not alter the risk of ASD or DD at age 2&#xa0;years.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "To evaluate the relationship between age at seizure onset and neurodevelopmental outcome at age 24&#xa0;months in infants with TSC, as well as the effect on neurodevelopmental outcome of early versus conventional treatment of epileptic seizures with vigabatrin (80-150&#xa0;mg/kg/day). Infants with TSC, aged &#x2264;4&#xa0;months and without previous seizures were enrolled in a prospective study and closely followed with monthly video EEG and serial standardized neurodevelopmental testing (Bayley",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32705817/",
+  "mesh_terms": [
+    "Anticonvulsants",
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Developmental Disabilities",
+    "Epilepsy",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Infant",
+    "Male",
+    "Outcome Assessment, Health Care",
+    "Tuberous Sclerosis",
+    "Vigabatrin"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

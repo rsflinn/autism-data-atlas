@@ -1,0 +1,42 @@
+{
+  "pmid": "36410413",
+  "doi": "10.1044/2022_JSLHR-22-00160",
+  "title": "Language and Communication Deficits in Chromosome 16p11.2 Deletion Syndrome",
+  "authors": "Jim&#xe9;nez-Romero MS, Fern&#xe1;ndez-Urquiza M, Ben&#xed;tez-Burraco A",
+  "journal": "Journal of speech, language, and hearing research : JSLHR",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Chromosome 16p11.2 deletion syndrome (OMIM #611913) is a rare genetic condition resulting from the partial deletion of approximately 35 genes located at Chromosome 16. Affected people exhibit a variable clinical profile, featuring mild dysmorphisms, motor problems, developmental delay, mild intellectual disability (ID), socialization deficits and/or autism spectrum disorder (ASD) traits, and problems with language. Specifically, a precise characterization of the speech, language, and communication (dis)abilities of people with this condition is still pending.\n\nWe used standardized tests and samples of naturalistic speech to provide a longitudinal profile of the speech, language, and communication problems of a boy with Chromosome 16p11.2 deletion syndrome and without ID or ASD.\n\nThe proband shows impaired expressive abilities as well as problems with receptive language, dysprosody, and ASD-like communication deficits, such as impaired interactive skills, perseverative verbal behavior, overabundance of tangential responses, and lack of metapragmatic awareness and communicative use of gaze, meeting the criteria for social pragmatic communication disorder.\n\nOur results support the view that language and communication impairment should be regarded as one core symptom of Chromosome 16p11.2 deletion syndrome, even without a diagnosis of ASD or ID. Clinical implications of our results, with a focus on therapeutic interventions for children with 16p11.2 deletion syndrome and no ASD or ID, are also discussed.\n\nhttps://doi.org/10.23641/asha.21561714.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Chromosome 16p11.2 deletion syndrome (OMIM #611913) is a rare genetic condition resulting from the partial deletion of approximately 35 genes located at Chromosome 16. Affected people exhibit a variable clinical profile, featuring mild dysmorphisms, motor problems, developmental delay, mild intellectual disability (ID), socialization deficits and/or autism spectrum disorder (ASD) traits, and problems with language.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36410413/",
+  "mesh_terms": [
+    "Male",
+    "Chromosome Disorders",
+    "Communication Disorders",
+    "Child",
+    "Autism Spectrum Disorder",
+    "Humans",
+    "Communication",
+    "Language",
+    "Intellectual Disability",
+    "Chromosome Deletion",
+    "Autistic Disorder",
+    "Chromosomes, Human, Pair 16"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

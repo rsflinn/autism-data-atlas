@@ -1,0 +1,35 @@
+{
+  "pmid": "41635390",
+  "doi": "10.7759/cureus.100649",
+  "title": "A Narrative Review of Synaptic Transmission and Its Role in Neurological and Psychiatric Disorders: A Molecular Perspective",
+  "authors": "Ahmed N, Rather HJ, Rana A, Vasim KA, Thaker KR, Tripathi D",
+  "journal": "Cureus",
+  "date": "2026-01",
+  "source": "pubmed",
+  "abstract": "The ability of neurons to communicate via synapses is called synaptic transmission, and it is an essential process of brain functioning and plasticity. Its interference has been discovered as a common molecular trait in a broad range of neurological and psychiatric ailments. Nevertheless, in spite of increasing evidence within the disease context, the existing knowledge is still rather disunified, and the molecular processes are poorly incorporated into coherent, cross-disorder models. This narrative review addresses this gap by concisely synthesising recent advances in molecular genetics, synaptic proteomics, neuroimaging, and systems neuroscience to provide an integrated overview of synaptic dysfunction across neurological and psychiatric disorders.&#xa0;It reviews the role of the changes in vesicle trafficking, calcium dynamics, neurotransmitter receptor signalling, brain-derived neurotrophic factor (BDNF) action, and glia-mediated synaptic plasticity in the pathophysiology of conditions like schizophrenia, autism spectrum disorder (ASD), Alzheimer's disease (AD), epilepsy, major depressive disorder (MDD), and Parkinson's disease (PD). The emerging tools that have translational relevance, as pointed out by the review, include single-cell RNA sequencing, spatial proteomics, and synaptic positron emission tomography (PET) imaging, with the capabilities of providing disease-specific and patient-level insights into the pathology of synapses. This review establishes the convergence of the dysfunction, as well as therapeutic potential, through the presentation of a systems-level, cross-diagnostic framework at the level of the synapse. It ends with a prospective report of where precision medicine, development of new biomarkers, and lifespan research efforts are required to incorporate synaptic biology in translational neuroscience.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The ability of neurons to communicate via synapses is called synaptic transmission, and it is an essential process of brain functioning and plasticity. Its interference has been discovered as a common molecular trait in a broad range of neurological and psychiatric ailments.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41635390/",
+  "mesh_terms": [],
+  "keywords": [
+    "molecular neuroscience",
+    "neuropsychiatric disorders",
+    "precision medicine",
+    "synaptic transmission",
+    "synaptopathies"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

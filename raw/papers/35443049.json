@@ -1,0 +1,46 @@
+{
+  "pmid": "35443049",
+  "doi": "10.1352/1944-7558-127.3.213",
+  "title": "Attention/Deficit Hyperactivity Disorder in Adolescent and Young Adult Males With Fragile X Syndrome",
+  "authors": "Klusek J, O'Connor SL, Hickey A, Hills KJ, Abbeduto L, Roberts JE",
+  "journal": "American journal on intellectual and developmental disabilities",
+  "date": "2022-05",
+  "source": "pubmed",
+  "abstract": "This study characterized the rates of attention-deficit/hyperactivity disorder (ADHD) in adolescent and young adult males with fragile X syndrome (FXS) using a multi-method approach integrating a DSM-based parent interview (Children's Interview for Psychiatric Syndromes; P-ChIPS, Fristad et al., 1998) and a parent rating scale (Child Behavior Checklist; CBCL, Achenbach, 2001). Thirty-one males with FXS, aged 16-24 years, participated. Forty-two percent met DSM-5 criteria for ADHD and 35% exceeded the CBCL cut-offs. Agreement between the two classification methods was fair (&#x3ba; = 0.38). Autism symptom severity and nonverbal cognitive ability did not predict ADHD diagnoses/symptoms. Results show high rates of ADHD in males with FXS during late adolescence and young adulthood, which are not accounted for by impaired nonverbal cognitive skills or autism symptom severity. DSM-based ADHD-specific scales are recommended over broadband symptom scales to improve accurate identification.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "This study characterized the rates of attention-deficit/hyperactivity disorder (ADHD) in adolescent and young adult males with fragile X syndrome (FXS) using a multi-method approach integrating a DSM-based parent interview (Children's Interview for Psychiatric Syndromes; P-ChIPS, Fristad et al., 1998) and a parent rating scale (Child Behavior Checklist; CBCL, Achenbach, 2001). Thirty-one males with FXS, aged 16-24 years, participated.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35443049/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Attention",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Parents",
+    "Young Adult"
+  ],
+  "keywords": [
+    "FMR1",
+    "ADHD",
+    "autism",
+    "intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

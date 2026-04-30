@@ -1,0 +1,33 @@
+{
+  "pmid": "36843845",
+  "doi": "10.1016/j.isci.2023.106093",
+  "title": "Prenatal low-dose methylmercury exposure causes premature neuronal differentiation and autism-like behaviors in a rodent model",
+  "authors": "Loan A, Leung JW, Cook DP, Ko C, Vanderhyden BC, Wang J, et al.",
+  "journal": "iScience",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Aberrant neurodevelopment is a core deficit of autism spectrum disorder (ASD). Here we ask whether a non-genetic factor, prenatal exposure to the environmental pollutant methylmercury (MeHg), is a contributing factor in ASD onset. We showed that adult mice prenatally exposed to non-apoptotic MeHg exhibited key ASD characteristics, including impaired communication, reduced sociability, and increased restrictive repetitive behaviors, whereas in the embryonic cortex, prenatal MeHg exposure caused premature neuronal differentiation. Further single-cell RNA sequencing (scRNA-seq) analysis disclosed that prenatal exposure to MeHg resulted&#xa0;in cortical radial glial precursors (RGPs) favoring asymmetric differentiation to directly generate cortical neurons, omitting the intermediate progenitor stage. In addition, MeHg exposure in cultured RGPs increased CREB phosphorylation and enhanced the interaction between CREB and CREB binding protein (CBP). Intriguingly, metformin, an FDA-approved drug, can reverse MeHg-induced premature neuronal differentiation via CREB/CBP repulsion. These findings provide insights into ASD etiology, its underlying mechanism, and a potential therapeutic strategy.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Aberrant neurodevelopment is a core deficit of autism spectrum disorder (ASD). Here we ask whether a non-genetic factor, prenatal exposure to the environmental pollutant methylmercury (MeHg), is a contributing factor in ASD onset.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36843845/",
+  "mesh_terms": [],
+  "keywords": [
+    "Drugs",
+    "Molecular neuroscience",
+    "Neurotoxicology",
+    "Transcriptomics"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

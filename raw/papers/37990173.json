@@ -1,0 +1,55 @@
+{
+  "pmid": "37990173",
+  "doi": "10.1186/s12888-023-05347-x",
+  "title": "Neurophysiological explorations across the spectrum of psychosis, autism, and depression, during wakefulness and sleep: protocol of a prospective case-control transdiagnostic multimodal study (DEMETER)",
+  "authors": "Lucarini V, Alouit A, Yeh D, Le Coq J, Savatte R, Charre M, et al.",
+  "journal": "BMC psychiatry",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Quantitative electroencephalography (EEG) analysis offers the opportunity to study high-level cognitive processes across psychiatric disorders. In particular, EEG microstates translate the temporal dynamics of neuronal networks throughout the brain. Their alteration may reflect transdiagnostic anomalies in neurophysiological functions that are impaired in mood, psychosis, and autism spectrum disorders, such as sensorimotor integration, speech, sleep, and sense of self. The main questions this study aims to answer are as follows: 1) Are EEG microstate anomalies associated with clinical and functional prognosis, both in resting conditions and during sleep, across psychiatric disorders? 2) Are EEG microstate anomalies associated with differences in sensorimotor integration, speech, sense of self, and sleep? 3) Can the dynamic of EEG microstates be modulated by a non-drug intervention such as light hypnosis?\n\nThis prospective cohort will include a population of adolescents and young adults, aged 15 to 30&#xa0;years old, with ultra-high-risk of psychosis (UHR), first-episode psychosis (FEP), schizophrenia (SCZ), autism spectrum disorder (ASD), and major depressive disorder (MDD), as well as healthy controls (CTRL) (N&#x2009;=&#x2009;21&#x2009;&#xd7;&#x2009;6), who will be assessed at baseline and after one year of follow-up. Participants will undergo deep phenotyping based on psychopathology, neuropsychological assessments, 64-channel EEG recordings, and biological sampling at the two timepoints. At baseline, the EEG recording will also be coupled to a sensorimotor task and a recording of the characteristics of their speech (prosody and turn-taking), a one-night polysomnography, a self-reference effect task in virtual reality (only in UHR, FEP, and CTRL). An interventional ancillary study will involve only healthy controls, in order to assess whether light hypnosis can modify the EEG microstate architecture in a direction opposite to what is seen in disease.\n\nThis transdiagnostic longitudinal case-control study will provide a multimodal neurophysiological assessment of clinical dimensions (sensorimotor integration, speech, sleep, and sense of self) that are disrupted across mood, psychosis, and autism spectrum disorders. It will further test the relevance of EEG microstates as dimensional functional biomarkers.\n\nClinicalTrials.gov Identifier NCT06045897.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Quantitative electroencephalography (EEG) analysis offers the opportunity to study high-level cognitive processes across psychiatric disorders. In particular, EEG microstates translate the temporal dynamics of neuronal networks throughout the brain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37990173/",
+  "mesh_terms": [
+    "Young Adult",
+    "Adolescent",
+    "Humans",
+    "Adult",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Major Depressive Disorder",
+    "Wakefulness",
+    "Case-Control Studies",
+    "Depression",
+    "Brain",
+    "Psychotic Disorders",
+    "Sleep",
+    "Electroencephalography"
+  ],
+  "keywords": [
+    "Autism",
+    "Depression",
+    "EEG microstates",
+    "Neurophysiology",
+    "Psychosis",
+    "Sense of self",
+    "Sensorimotor integration",
+    "Sleep",
+    "Speech",
+    "Virtual reality"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

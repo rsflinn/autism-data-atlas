@@ -1,0 +1,35 @@
+{
+  "pmid": "36376761",
+  "doi": "10.1007/s00439-022-02494-1",
+  "title": "SCIP: software for efficient clinical interpretation of copy number variants detected by whole-genome sequencing",
+  "authors": "Ding Q, Somerville C, Manshaei R, Trost B, Reuter MS, Kalbfleisch K, et al.",
+  "journal": "Human genetics",
+  "date": "2022-11",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) represent major etiologic factors in rare genetic diseases. Current clinical CNV interpretation workflows require extensive back-and-forth with multiple tools and databases. This increases complexity and time burden, potentially resulting in missed genetic diagnoses. We present the Suite for CNV Interpretation and Prioritization (SCIP), a software package for the clinical interpretation of CNVs detected by whole-genome sequencing (WGS). The SCIP Visualization Module near-instantaneously displays all information necessary for CNV interpretation (variant quality, population frequency, inheritance pattern, and clinical relevance) on a single page-supported by modules providing variant filtration and prioritization. SCIP was comprehensively evaluated using WGS data from 1027 families with congenital cardiac disease and/or autism spectrum disorder, containing 187 pathogenic or likely pathogenic (P/LP) CNVs identified in previous curations. SCIP was efficient in filtration and prioritization: a median of just two CNVs per case were selected for review, yet it captured all P/LP findings (92.5% of which ranked 1st). SCIP was also able to identify one pathogenic CNV previously missed. SCIP was benchmarked against AnnotSV and a spreadsheet-based manual workflow and performed superiorly than both. In conclusion, SCIP is a novel software package for efficient clinical CNV interpretation, substantially faster and more accurate than previous tools (available at https://github.com/qd29/SCIP , a video tutorial series is available at https://bit.ly/SCIPVideos ).",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants (CNVs) represent major etiologic factors in rare genetic diseases. Current clinical CNV interpretation workflows require extensive back-and-forth with multiple tools and databases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36376761/",
+  "mesh_terms": [
+    "Humans",
+    "DNA Copy Number Variations",
+    "Autism Spectrum Disorder",
+    "Whole Genome Sequencing",
+    "Software",
+    "Rare Diseases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

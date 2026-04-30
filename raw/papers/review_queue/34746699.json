@@ -1,0 +1,35 @@
+{
+  "pmid": "34746699",
+  "doi": "10.1016/j.isci.2021.103234",
+  "title": "targeted DamID identifies CHD8 genomic targets in fetal mouse brain",
+  "authors": "Wade AA, van den Ameele J, Cheetham SW, Yakob R, Brand AH, Nord AS",
+  "journal": "iScience",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "Genetic studies of autism have revealed causal roles for chromatin remodeling gene mutations. Chromodomain helicase DNA binding protein 8 () encodes a chromatin remodeler with significantmutation rates in sporadic autism. However, relationships between CHD8 genomic function and autism-relevant biology remain poorly elucidated. Published studies utilizing ChIP-seq to map CHD8 protein-DNA interactions have high variability, consistent with technical challenges and limitations associated with this method. Thus, complementary approaches are needed to establish CHD8 genomic targets and regulatory functions in developing brain. We usedCHD8 Targeted DamID followed by sequencing (TaDa-seq) to characterize CHD8 binding in embryonic mouse cortex. CHD8 TaDa-seq reproduced interaction patterns observed from ChIP-seq and further highlighted CHD8 distal interactions associated with neuronal loci. This study establishes TaDa-seq as a useful alternative for mapping protein-DNA interactionsand provides insights into the regulatory targets of CHD8 and autism-relevant pathophysiology associated withmutations.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Genetic studies of autism have revealed causal roles for chromatin remodeling gene mutations. Chromodomain helicase DNA binding protein 8 () encodes a chromatin remodeler with significantmutation rates in sporadic autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34746699/",
+  "mesh_terms": [],
+  "keywords": [
+    "Biotechnology",
+    "Genomic analysis",
+    "Genomics",
+    "Molecular neuroscience"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

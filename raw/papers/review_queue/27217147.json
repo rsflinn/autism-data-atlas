@@ -1,0 +1,44 @@
+{
+  "pmid": "27217147",
+  "doi": "10.1038/mp.2016.69",
+  "title": "Exome sequencing for bipolar disorder points to roles of de novo loss-of-function and protein-altering mutations",
+  "authors": "Kataoka M, Matoba N, Sawada T, Kazuno AA, Ishiwata M, Fujii K, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2016-05",
+  "source": "pubmed",
+  "abstract": "Although numerous genetic studies have been conducted for bipolar disorder (BD), its genetic architecture remains elusive. Here we perform, to the best of our knowledge, the first trio-based exome sequencing study for BD to investigate potential roles of de novo mutations in the disease etiology. We identified 71 de novo point mutations and one de novo copy-number mutation in 79 BD probands. Among the genes hit by de novo loss-of-function (LOF; nonsense, splice site or frameshift) or protein-altering (LOF, missense and inframe indel) mutations, we found significant enrichment of genes highly intolerant (first percentile of intolerant genes assessed by Residual Variation Intolerance Score) to protein-altering variants in general population, an observation that is also reported in autism and schizophrenia. When we performed a joint analysis using the data of schizoaffective disorder in published studies, we found global enrichment of de novo LOF and protein-altering mutations in the combined group of bipolar I and schizoaffective disorders. Considering relationship between de novo mutations and clinical phenotypes, we observed significantly earlier disease onset among the BD probands with de novo protein-altering mutations when compared with non-carriers. Gene ontology enrichment analysis of genes hit by de novo protein-altering mutations in bipolar I and schizoaffective disorders did not identify any significant enrichment. These results of exploratory analyses collectively point to the roles of de novo LOF and protein-altering mutations in the etiology of bipolar disorder and warrant further large-scale studies.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Although numerous genetic studies have been conducted for bipolar disorder (BD), its genetic architecture remains elusive. Here we perform, to the best of our knowledge, the first trio-based exome sequencing study for BD to investigate potential roles of de novo mutations in the disease etiology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27217147/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Bipolar Disorder",
+    "Exome",
+    "Family",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Japan",
+    "Male",
+    "Middle Aged",
+    "Mutation",
+    "Psychotic Disorders",
+    "Sequence Analysis, DNA"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

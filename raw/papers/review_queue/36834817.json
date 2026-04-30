@@ -1,0 +1,45 @@
+{
+  "pmid": "36834817",
+  "doi": "10.3390/ijms24043407",
+  "title": "Ca- and Voltage-Activated K(BK) Channels in the Nervous System: One Gene, a Myriad of Physiological Functions",
+  "authors": "Ancat&#xe9;n-Gonz&#xe1;lez C, Segura I, Alvarado-S&#xe1;nchez R, Ch&#xe1;vez AE, Latorre R",
+  "journal": "International journal of molecular sciences",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "BK channels are large conductance potassium channels characterized by four pore-forming &#x3b1; subunits, often co-assembled with auxiliary &#x3b2; and &#x3b3; subunits to regulate Casensitivity, voltage dependence and gating properties. BK channels are abundantly expressed throughout the brain and in different compartments within a single neuron, including axons, synaptic terminals, dendritic arbors, and spines. Their activation produces a massive efflux of Kions that hyperpolarizes the cellular membrane. Together with their ability to detect changes in intracellular Caconcentration, BK channels control neuronal excitability and synaptic communication through diverse mechanisms. Moreover, increasing evidence indicates that dysfunction of BK channel-mediated effects on neuronal excitability and synaptic function has been implicated in several neurological disorders, including epilepsy, fragile X syndrome, mental retardation, and autism, as well as in motor and cognitive behavior. Here, we discuss current evidence highlighting the physiological importance of this ubiquitous channel in regulating brain function and its role in the pathophysiology of different neurological disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "BK channels are large conductance potassium channels characterized by four pore-forming &#x3b1; subunits, often co-assembled with auxiliary &#x3b2; and &#x3b3; subunits to regulate Casensitivity, voltage dependence and gating properties. BK channels are abundantly expressed throughout the brain and in different compartments within a single neuron, including axons, synaptic terminals, dendritic arbors, and spines.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36834817/",
+  "mesh_terms": [
+    "Humans",
+    "Large-Conductance Calcium-Activated Potassium Channels",
+    "Genes, vif",
+    "Neurons",
+    "Cell Membrane",
+    "Epilepsy",
+    "Calcium"
+  ],
+  "keywords": [
+    "BK channels",
+    "K+ channels",
+    "ion-channels",
+    "nervous system",
+    "neurobiology",
+    "neuronal excitability",
+    "synapsis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

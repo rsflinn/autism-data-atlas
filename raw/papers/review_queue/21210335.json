@@ -1,0 +1,38 @@
+{
+  "pmid": "21210335",
+  "doi": "10.1055/s-0030-1269906",
+  "title": "Tuberous sclerosis complex: neurological, renal and pulmonary manifestations",
+  "authors": "Franz DN, Bissler JJ, McCormack FX",
+  "journal": "Neuropediatrics",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is an important cause of epilepsy and autism, as well as renal and pulmonary disease in adults and children. Affected individuals are subject to hamartomas in various organ systems which result from constitutive activation of the protein kinase mTOR (mammalian target of rapamycin). The clinical course, prognosis and appropriate therapy for TSC patients are often different from that for individuals with epilepsy, renal tumors, or interstitial lung disease, from other causes. Additionally, TSC serves as a model for other conditions in which the mTOR pathways are also up-regulated. This article reviews the molecular pathophysiology and management of neurological, renal and pulmonary manifestations of the disorder. The use of mTOR inhibitors such as rapamycin and everolimus is discussed and recent clinical trials of these drugs in TSC are reviewed.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is an important cause of epilepsy and autism, as well as renal and pulmonary disease in adults and children. Affected individuals are subject to hamartomas in various organ systems which result from constitutive activation of the protein kinase mTOR (mammalian target of rapamycin).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21210335/",
+  "mesh_terms": [
+    "Adult",
+    "Brain",
+    "Child",
+    "Humans",
+    "Kidney",
+    "Lung",
+    "TOR Serine-Threonine Kinases",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

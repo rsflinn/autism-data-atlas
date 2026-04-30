@@ -1,0 +1,48 @@
+{
+  "pmid": "39814546",
+  "doi": "10.1177/03331024241312666",
+  "title": "Migraine and its major subtypes - with and without aura are associated with polygenic scores for autism",
+  "authors": "Mohammad S, Bussu G, Rukh G, Schi&#xf6;th HB, Mwinyi J",
+  "journal": "Cephalalgia : an international journal of headache",
+  "date": "2025-01",
+  "source": "pubmed",
+  "abstract": "Individuals with autism spectrum disorder (ASD) experience a wide array of neurological, psychiatric and medical comorbidities, yet little attention has been given to the potential link between ASD and migraine, one of the most prevalent neurological disorders worldwide. This study aimed to investigate whether a genetic predisposition for ASD is linked to migraine and its major subtypes, with and without aura. Additionally, potential moderator and mediators of the association between ASD and migraine were explored.\n\nPolygenic scores (PGS) for ASD were constructed based on the genome-wide association study by the Psychiatric Genomics Consortium, on the UK Biobank cohort dataset comprising 337,386 participants using PRSice-2. Regression analyses were performed to investigate the association of ASD PGS with migraine and its major subtypes, with and without aura. Sex was explored as a potential moderating factor. The mediation analyses took into consideration variables such as education, personality trait neuroticism, body mass index (BMI) and four categories of comorbidities (psychiatric, vascular, neurologic and others).\n\nASD PGS were signi&#xfb01;cantly and positively associated with migraine (odds ratio (OR)&#x2009;=&#x2009;1.04, 95% confidence interval (CI)&#x2009;=&#x2009;1.02-1.05,<&#x2009;0.002), migraine without aura (OR&#x2009;=&#x2009;1.05, 95% CI&#x2009;=&#x2009;1.02-1.07,<&#x2009;0.002) and migraine with aura (OR&#x2009;=&#x2009;1.05, 95% CI&#x2009;=&#x2009;1.02-1.07,<&#x2009;0.002). No moderating effect of sex on the association between ASD PGS and migraine was observed. As for potential mediators, only the personality trait neuroticism significantly mediated the association between ASD PGS and migraine, with the proportion of effect mediated 8.75% (95% CI&#x2009;=&#x2009;4-18%).\n\nOur study suggests that individuals genetically predisposed to autism are at higher risk of experiencing migraine, including the two major subtypes, with and without aura. While emphasizing the complex shared genetic and pathophysiological interactions of these conditions, the role of personality trait neuroticism as a mediator of this relationship is highlighted.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Individuals with autism spectrum disorder (ASD) experience a wide array of neurological, psychiatric and medical comorbidities, yet little attention has been given to the potential link between ASD and migraine, one of the most prevalent neurological disorders worldwide. This study aimed to investigate whether a genetic predisposition for ASD is linked to migraine and its major subtypes, with and without aura.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39814546/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Multifactorial Inheritance",
+    "Genome-Wide Association Study",
+    "Genetic Predisposition to Disease",
+    "Autism Spectrum Disorder",
+    "Middle Aged",
+    "Adult",
+    "Migraine Disorders",
+    "Cohort Studies",
+    "Migraine with Aura",
+    "Migraine without Aura"
+  ],
+  "keywords": [
+    "aura",
+    "autism",
+    "headache",
+    "migraine",
+    "polygenic risk score"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

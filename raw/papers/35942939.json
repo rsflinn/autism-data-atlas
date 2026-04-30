@@ -1,0 +1,47 @@
+{
+  "pmid": "35942939",
+  "doi": "10.7554/eLife.74207",
+  "title": "Temporal analysis of enhancers during mouse cerebellar development reveals dynamic and novel regulatory functions",
+  "authors": "Ramirez M, Badayeva Y, Yeung J, Wu J, Abdalla-Wyse A, Yang E, et al.",
+  "journal": "eLife",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "We have identified active enhancers in the mouse cerebellum at embryonic and postnatal stages which provides a view of novel enhancers active during cerebellar development. The majority of cerebellar enhancers have dynamic activity between embryonic and postnatal development. Cerebellar enhancers were enriched for neural transcription factor binding sites with temporally specific expression. Putative gene targets displayed spatially restricted expression patterns, indicating cell-type specific expression regulation. Functional analysis of target genes indicated that enhancers regulate processes spanning several developmental epochs such as specification, differentiation and maturation. We use these analyses to discover one novel regulator and one novel marker of cerebellar development: Bhlhe22 and Pax3, respectively. We identified an enrichment of de novo mutations and variants associated with autism spectrum disorder in cerebellar enhancers. Furthermore, by comparing our data with relevant brain development ENCODE histone profiles and cerebellar single-cell datasets we have been able to generalize and expand on the presented analyses, respectively. We have made the results of our analyses available online in the Developing Mouse Cerebellum Enhancer Atlas, where our dataset can be efficiently queried, curated and exported by the scientific community to facilitate future research efforts. Our study provides a valuable resource for studying the dynamics of gene expression regulation by enhancers in the developing cerebellum and delivers a rich dataset of novel gene-enhancer associations providing a basis for future in-depth studies in the cerebellum.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "We have identified active enhancers in the mouse cerebellum at embryonic and postnatal stages which provides a view of novel enhancers active during cerebellar development. The majority of cerebellar enhancers have dynamic activity between embryonic and postnatal development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35942939/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Enhancer Elements, Genetic",
+    "Gene Expression Regulation, Developmental",
+    "Mice",
+    "Neurogenesis",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "brain development",
+    "cerebellum",
+    "developmental biology",
+    "enhancers",
+    "epigenetics",
+    "gene expression regulation",
+    "mouse",
+    "neuroscience",
+    "transcription factors"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

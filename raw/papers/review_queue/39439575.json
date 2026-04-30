@@ -1,0 +1,28 @@
+{
+  "pmid": "39439575",
+  "doi": "10.1212/CPJ.0000000000200391",
+  "title": "Assessing Communication Impairments in a Rare Neurodevelopmental Disorder: TheClinical Trials Readiness Study",
+  "authors": "Berg AT, Nili AN, Evans L, Paltell KC, Kaiser AJE, Anderson EL, et al.",
+  "journal": "Neurology. Clinical practice",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "-related disorders (-RDs) entail severe impairments in multiple domains that could serve as nonseizure outcomes in clinical trials. This study evaluated the fitness for purpose of several clinical instruments with both standardized and alternative scoring and with some measures used out of their intended age range for assessing communication in-affected participants.\n\nParents of-affected children were recruited through FamilieSCN2A Foundation outreach for a combined cross-sectional and longitudinal study. They completed assessments of their children at study entry and 6 and 12 months later. Assessments included the Vineland Adaptive Behavior Scale (VABS-3), Adaptive Behavior Assessment System (ABAS), Communication Matrix, and Communication and Symbolic Behavior Scale (CSBS). Analyses examined floor and ceiling effects, inter-rater and test-retest reliability, discrimination among different levels of functional impairment, and sensitivity to clinical aspects of-RDs.\n\nOf 65 participants (28 females, median age 6.4 years, IQR 4.1-10.5), 56 (86%) had epilepsy. Eleven (17%) used speech as their primary communication mode; 84% were considered ineffective communicators. The mean Vineland composite standardized score (SS) was 34 (IQR 26-46). Cross-sectionally, standardized scores decreased with increasing age. There were substantial floor effects for receptive (75%) and expressive (83%) communication. SSs discriminated poorly between verbal vs nonverbal and communicative vs noncommunicative participants and were not sensitive to features reflecting epilepsy severity (e.g., epileptic spasms and number of current medications). By contrast, Vineland growth scale value (GSV) and ABAS, Matrix, and CSBS raw scores had minimal floor effects; most increased with age. These alternative scores distinguished clearly between participants with different levels of communication and were sensitive to aspects of epilepsy severity. Longitudinally, SSs decreased, but other scores remained relatively stable over a year.\n\n-RD is characterized by severe-to-profound impairment with a SS <4 SDs of the norm-referenced mean. Owing to severe floor effects and their insensitivity to markers of communication function, age-standardized scores (e.g., Vineland SS) are not fit for purpose in clinical trials or other settings for evaluating nonseizure outcomes such as communication. GSVs and alternative scoring and assessments have much better measurement profiles in all these regards and should be considered in future precision medicine trials for-RDs and other similar rare diseases.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "-related disorders (-RDs) entail severe impairments in multiple domains that could serve as nonseizure outcomes in clinical trials. This study evaluated the fitness for purpose of several clinical instruments with both standardized and alternative scoring and with some measures used out of their intended age range for assessing communication in-affected participants.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39439575/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

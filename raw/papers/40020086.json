@@ -1,0 +1,45 @@
+{
+  "pmid": "40020086",
+  "doi": null,
+  "title": "[Early diagnosis of ASD using biomarkers: a narrative review]",
+  "authors": "Maddalon L, Minissi ME, Alca&#xf1;iz M",
+  "journal": "Medicina",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorder (ASD) encompasses a range of neurodevelopmental conditions characterized by social challenges, repetitive behaviors, and communication difficulties. While diagnosis traditionally relies on behavioral observations, new biomedical approaches, such as the Research Domain Criteria (RDoC), aim to identify biomarkers that integrate genetic, neural, and behavioral factors. Notable biomarkers include genetic variants, molecular alterations such as abnormal neurotransmitter levels, and markers associated with immune dysfunction. Brain organoids have also enabled the investigation of specific neural mechanisms. In neuroimaging, techniques such as functional magnetic resonance imaging (fMRI) and functional near-infrared spectroscopy (fNIRS) have identified atypical connectivity patterns in infants at high risk for ASD. Similarly, measures like electroencephalography (EEG) and eye tracking have revealed differences in visual attention and brain activity, while physiological indicators such as electrodermal activity (EDA) and heart rate variability (HRV) reflect sensory and autonomic dysfunctions. The use of digital biomarkers is rapidly growing, with devices like tablets and virtual reality capturing data on children's interactions. Analyzed using artificial intelligence, these data show promise for improving early ASD detection, though further validation is needed. Integrating traditional and digital approaches is essential for advancing diagnosis and intervention strategies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism Spectrum Disorder (ASD) encompasses a range of neurodevelopmental conditions characterized by social challenges, repetitive behaviors, and communication difficulties. While diagnosis traditionally relies on behavioral observations, new biomedical approaches, such as the Research Domain Criteria (RDoC), aim to identify biomarkers that integrate genetic, neural, and behavioral factors.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40020086/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Biomarkers",
+    "Early Diagnosis",
+    "Magnetic Resonance Imaging",
+    "Electroencephalography",
+    "Spectroscopy, Near-Infrared",
+    "Child"
+  ],
+  "keywords": [
+    "Autism Spectrum Disorder",
+    "assessment",
+    "biomarker",
+    "children",
+    "early diagnosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "English Abstract"
+  ]
+}

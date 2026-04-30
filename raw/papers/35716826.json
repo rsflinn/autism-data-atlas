@@ -1,0 +1,49 @@
+{
+  "pmid": "35716826",
+  "doi": "10.1016/j.freeradbiomed.2022.06.007",
+  "title": "A cross-talk between nitric oxide and the glutamatergic system in a Shank3 mouse model of autism",
+  "authors": "Hamoudi W, Tripathi MK, Ojha SK, Amal H",
+  "journal": "Free radical biology & medicine",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "Nitric oxide (NO) is a multifunctional signaling molecule that plays a crucial role in synaptic transmission and neuronal function. Pioneering studies show that nitric oxide (NO) and S-nitrosylation (SNO, the NO-mediated posttranslational modification) can engender nitrosative stress in the brain, contributing to neurodegenerative diseases. Little is known, however, about the aberrant NO signaling in neurodevelopmental disorders including autism spectrum disorder (ASD). We have recently shown that the Shank3 mutation in mice representing a model of ASD causes excessive NO levels and aberrant protein SNO. The glutamatergic system is involved in ASD, specifically in SHANK3 pathology. We used SNOTRAP technology to identify the SNO-proteome in the brain of the Shank3 mutant mice to understand the role of SNO in the glutamatergic system during the development of these mice. We conducted a systems biology analysis of the SNO-proteome to investigate the biological processes and signaling pathways in the brain of juvenile and adult Shank3 mutant and wild-type mice. The Shank3 mutation caused significant SNO-enrichment of a glutamate signaling pathway in the juvenile and adult mutant mice, although different protein subsets were S-nitrosylated in both ages. Cellular compartments analysis showed that \"glutamatergic Synapse\" is SNO-enriched significantly in the mutant mice of both ages. We also found eight S-nitrosylated proteins involved in glutamate transmission in both ages. 38 SNO-proteins found in the mutant mice are among the high-risk SFARI gene list. Biochemical examination shows a reduction in the levels of NMDA Receptor (NR1) in the cortex and striatum of the mutant mice of both ages. Neuronal NOS knockdown in SHSY-5Y rescued NR1 levels. In conclusion, this study reveals novel SNO of key glutamatergic proteins in Shank3 mutant mice and a cross-talk between nitric oxide and the glutamatergic system.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Nitric oxide (NO) is a multifunctional signaling molecule that plays a crucial role in synaptic transmission and neuronal function. Pioneering studies show that nitric oxide (NO) and S-nitrosylation (SNO, the NO-mediated posttranslational modification) can engender nitrosative stress in the brain, contributing to neurodegenerative diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35716826/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Disease Models, Animal",
+    "Glutamic Acid",
+    "Mice",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins",
+    "Nitric Oxide",
+    "Proteome"
+  ],
+  "keywords": [
+    "Autism",
+    "Glutamate",
+    "Nitric oxide",
+    "Proteomics",
+    "S-nitrosylation",
+    "Synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

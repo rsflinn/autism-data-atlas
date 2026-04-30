@@ -1,0 +1,46 @@
+{
+  "pmid": "21962519",
+  "doi": "10.1016/j.cell.2011.08.040",
+  "title": "Absence of CNTNAP2 leads to epilepsy, neuronal migration abnormalities, and core autism-related deficits",
+  "authors": "Pe&#xf1;agarikano O, Abrahams BS, Herman EI, Winden KD, Gdalyahu A, Dong H, et al.",
+  "journal": "Cell",
+  "date": "2011-09",
+  "source": "pubmed",
+  "abstract": "Although many genes predisposing to autism spectrum disorders (ASD) have been identified, the biological mechanism(s) remain unclear. Mouse models based on human disease-causing mutations provide the potential for understanding gene function and novel treatment development. Here, we characterize a mouse knockout of the Cntnap2 gene, which is strongly associated with ASD and allied neurodevelopmental disorders. Cntnap2(-/-) mice show deficits in the three core ASD behavioral domains, as well as hyperactivity and epileptic seizures, as have been reported in humans with CNTNAP2 mutations. Neuropathological and physiological analyses of these mice before the onset of seizures reveal neuronal migration abnormalities, reduced number of interneurons, and abnormal neuronal network activity. In addition, treatment with the FDA-approved drug risperidone ameliorates the targeted repetitive behaviors in the mutant mice. These data demonstrate a functional role for CNTNAP2 in brain development and provide a new tool for mechanistic and therapeutic research in ASD.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CNTNAP2"
+  ],
+  "summary": "Although many genes predisposing to autism spectrum disorders (ASD) have been identified, the biological mechanism(s) remain unclear. Mouse models based on human disease-causing mutations provide the potential for understanding gene function and novel treatment development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21962519/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Cell Movement",
+    "Disease Models, Animal",
+    "Epilepsy",
+    "Humans",
+    "Interneurons",
+    "Membrane Proteins",
+    "Mice",
+    "Mice, Knockout",
+    "Nerve Tissue Proteins",
+    "Neurons"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

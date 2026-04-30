@@ -1,0 +1,50 @@
+{
+  "pmid": "28445465",
+  "doi": "10.1038/nature22330",
+  "title": "Assembly of functionally integrated human forebrain spheroids",
+  "authors": "Birey F, Andersen J, Makinson CD, Islam S, Wei W, Huber N, et al.",
+  "journal": "Nature",
+  "date": "2017-04",
+  "source": "pubmed",
+  "abstract": "The development of the nervous system involves a coordinated succession of events including the migration of GABAergic (&#x3b3;-aminobutyric-acid-releasing) neurons from ventral to dorsal forebrain and their integration into cortical circuits. However, these interregional interactions have not yet been modelled with human cells. Here we generate three-dimensional spheroids from human pluripotent stem cells that resemble either the dorsal or ventral forebrain and contain cortical glutamatergic or GABAergic neurons. These subdomain-specific forebrain spheroids can be assembled in vitro to recapitulate the saltatory migration of interneurons observed in the fetal forebrain. Using this system, we find that in Timothy syndrome-a neurodevelopmental disorder that is caused by mutations in the Ca1.2 calcium channel-interneurons display abnormal migratory saltations. We also show that after migration, interneurons functionally integrate with glutamatergic neurons to form a microphysiological system. We anticipate that this approach will be useful for studying neural development and disease, and for deriving spheroids that resemble other brain regions to assemble circuits in vitro.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "The development of the nervous system involves a coordinated succession of events including the migration of GABAergic (&#x3b3;-aminobutyric-acid-releasing) neurons from ventral to dorsal forebrain and their integration into cortical circuits. However, these interregional interactions have not yet been modelled with human cells.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28445465/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Cell Line",
+    "Cell Movement",
+    "Cells, Cultured",
+    "Female",
+    "GABAergic Neurons",
+    "Glutamic Acid",
+    "Humans",
+    "Interneurons",
+    "Long QT Syndrome",
+    "Male",
+    "Models, Biological",
+    "Neurogenesis",
+    "Neurons",
+    "Pluripotent Stem Cells",
+    "Prosencephalon",
+    "Spheroids, Cellular",
+    "Synapses",
+    "Syndactyly"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

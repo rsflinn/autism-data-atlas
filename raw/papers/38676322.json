@@ -1,0 +1,42 @@
+{
+  "pmid": "38676322",
+  "doi": "10.1111/dmcn.15937",
+  "title": "Autism and attention-deficit/hyperactivity disorder in children with Dravet syndrome: A population-based study",
+  "authors": "Reilly C, Bjurulf B, Hallb&#xf6;&#xf6;k T",
+  "journal": "Developmental medicine and child neurology",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "To identify on a population basis the prevalence of autism and attention-deficit/hyperactivity disorder (ADHD) in children with Dravet syndrome and factors associated with symptoms of autism and ADHD.\n\nForty-one of 48 children with Dravet syndrome living in Sweden, born between 1st January 2000 and 31st December 2018 underwent assessment including measures of autism and ADHD. Diagnoses of autism and ADHD were made with respect to DSM-5 criteria. Factors associated with features of autism and ADHD were analysed via regression.\n\nTwenty-five of the 41 children fulfilled DSM-5 criteria for autism spectrum disorder and 12 of 37 children considered for an ADHD diagnosis fulfilled DSM-5 criteria for ADHD. Severe intellectual disability was significantly associated with a greater degree of autistic features (p&#x2009;<&#x2009;0.001) and a DSM-5 diagnosis of autism spectrum disorder (p&#x2009;=&#x2009;0.029). Younger children had significantly more features of ADHD (p&#x2009;=&#x2009;0.004) and features of inattention were significantly more common than features of hyperactivity/impulsivity (p&#x2009;<&#x2009;0.001).\n\nChildren with Dravet syndrome often have significant features of autism and ADHD, primarily inattentive type. Screening for autism and ADHD should be routine in children with Dravet syndrome.\n\nIn total, 25 of 41 assessed children with Dravet syndrome fulfilled DSM-5 criteria for autism. Twelve of 37 assessed children with Dravet Syndrome met DSM-5 criteria for attention-deficit/hyperactivity disorder (ADHD). Severe intellectual disability was significantly associated with a greater degree of autism spectrum disorder features. Younger children had significantly more features of ADHD.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "To identify on a population basis the prevalence of autism and attention-deficit/hyperactivity disorder (ADHD) in children with Dravet syndrome and factors associated with symptoms of autism and ADHD. Forty-one of 48 children with Dravet syndrome living in Sweden, born between 1st January 2000 and 31st December 2018 underwent assessment including measures of autism and ADHD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38676322/",
+  "mesh_terms": [
+    "Humans",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Male",
+    "Female",
+    "Child",
+    "Epilepsies, Myoclonic",
+    "Sweden",
+    "Autism Spectrum Disorder",
+    "Child, Preschool",
+    "Adolescent",
+    "Prevalence",
+    "Intellectual Disability",
+    "Comorbidity"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

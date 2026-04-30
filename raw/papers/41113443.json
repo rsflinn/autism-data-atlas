@@ -1,0 +1,35 @@
+{
+  "pmid": "41113443",
+  "doi": "10.3389/fnins.2025.1662363",
+  "title": "gene variant in a child with developmental disorder and epilepsy: a case report",
+  "authors": "Huang X, Wu WL, Song J, Tian Y, Zhou Y, Wei S, et al.",
+  "journal": "Frontiers in neuroscience",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Thegene encodes Neurobeachin, a brain-specific kinase-anchoring protein that plays a critical role in vesicle trafficking and synaptic regulation. Pathogenic variants inare definitively associated with neurodevelopmental disorders accompanied by epilepsy, including intellectual disability, autism spectrum disorder, and myoclonic-astatic epilepsy-like phenotypes. Most reported disease-causing variants areloss-of-function mutations, and although genotype-phenotype correlations remain limited, early-onset generalized seizures are frequently observed. Here, we describe a Chinese child presenting with global developmental delay and recurrent seizures with febrile sensitivity. Brain magnetic resonance imaging revealed no structural abnormalities, while electroencephalography showed epileptiform abnormalities. Genetic analysis identified anonsense variant in thegene: c.4715C > A [p.(Ser1572Ter)]. According to the American College of Medical Genetics and Genomics guidelines, the variant was classified as pathogenic.mutations are associated with neurodevelopmental disorders with or without early-onset epilepsy. Although no additional pathogenic variants were identified in the exome, the influence of other undetected genetic or epigenetic modifiers on the observed phenotype cannot be excluded. This case therefore refines the phenotypic spectrum of-related disorders, emphasizing that the c.4715C > A [p.(Ser1572Ter)] variant may be associated with developmental impairment and epilepsy with possible febrile sensitivity.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Thegene encodes Neurobeachin, a brain-specific kinase-anchoring protein that plays a critical role in vesicle trafficking and synaptic regulation. Pathogenic variants inare definitively associated with neurodevelopmental disorders accompanied by epilepsy, including intellectual disability, autism spectrum disorder, and myoclonic-astatic epilepsy-like phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41113443/",
+  "mesh_terms": [],
+  "keywords": [
+    "NBEA gene",
+    "epilepsy",
+    "febrile sensitivity",
+    "neurodevelopmental disorder",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Case Reports",
+    "Journal Article"
+  ]
+}

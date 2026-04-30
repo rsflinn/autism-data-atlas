@@ -1,0 +1,57 @@
+{
+  "pmid": "39406516",
+  "doi": "10.1523/JNEUROSCI.0946-24.2024",
+  "title": "DevelopmentalHaploinsufficiency in Medial Ganglionic Eminence-Derived Interneurons Impairs Auditory Cortex Activity, Social Behavior, and Extinction of Fear Memory",
+  "authors": "Jadhav V, Carreno-Munoz MI, Chehrazi P, Michaud JL, Chattopadhyaya B, Di Cristo G",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "Mutations in SYNGAP1, a protein enriched at glutamatergic synapses, cause intellectual disability associated with epilepsy, autism spectrum disorder, and sensory dysfunctions. Several studies showed that Syngap1 regulates the time course of forebrain glutamatergic synapse maturation; however, the developmental role of Syngap1 in inhibitory GABAergic neurons is less clear. GABAergic neurons can be classified into different subtypes based on their morphology, connectivity, and physiological properties. Whetherexpression specifically in parvalbumin (PV)-expressing and somatostatin (SST)-expressing interneurons, which are derived from the medial ganglionic eminence (MGE), plays a role in the emergence of distinct brain functions remains largely unknown. We used genetic strategies to generatehaploinsufficiency in (1) prenatal interneurons derived from the medial ganglionic eminence, (2) in postnatal PV cells, and (3) in prenatal SST interneurons. We further performed in vivo recordings and behavioral assays to test whether and how these different genetic manipulations alter brain function and behavior in mice of either sex. Mice with prenatal-onsethaploinsufficiency restricted to Nkx2.1-expressing neurons show abnormal cortical oscillations and increased entrainment induced by 40&#x2005;Hz auditory stimulation but lack stimulus-specific adaptation. This latter phenotype was reproduced in mice withhaploinsufficiency restricted to PV, but not SST, interneurons. Prenatal-onsethaploinsufficiency in Nkx2.1-expressing neurons led to impaired social behavior and inability to extinguish fear memories; however, neither postnatal PV- nor prenatal SST-specific mutant mice show these phenotypes. We speculate thathaploinsufficiency in prenatal/perinatal PV interneurons may contribute to cortical activity and cognitive alterations associated withmutations.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "summary": "Mutations in SYNGAP1, a protein enriched at glutamatergic synapses, cause intellectual disability associated with epilepsy, autism spectrum disorder, and sensory dysfunctions. Several studies showed that Syngap1 regulates the time course of forebrain glutamatergic synapse maturation; however, the developmental role of Syngap1 in inhibitory GABAergic neurons is less clear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39406516/",
+  "mesh_terms": [
+    "Animals",
+    "Interneurons",
+    "Fear",
+    "Haploinsufficiency",
+    "Mice",
+    "ras GTPase-Activating Proteins",
+    "Female",
+    "Male",
+    "Social Behavior",
+    "Auditory Cortex",
+    "Parvalbumins",
+    "Memory",
+    "Median Eminence",
+    "Mice, Inbred C57BL",
+    "Thyroid Nuclear Factor 1",
+    "Mice, Transgenic",
+    "Somatostatin",
+    "Ganglionic Eminence"
+  ],
+  "keywords": [
+    "GABAergic interneurons",
+    "Syngap1",
+    "auditory cortex",
+    "fear memory extinction",
+    "parvalbumin cells",
+    "social behavior"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

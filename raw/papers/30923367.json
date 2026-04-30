@@ -1,0 +1,56 @@
+{
+  "pmid": "30923367",
+  "doi": "10.1038/s41436-019-0473-6",
+  "title": "De novo and biallelic DEAF1 variants cause a phenotypic spectrum",
+  "authors": "Nabais S&#xe1; MJ, Jensik PJ, McGee SR, Parker MJ, Lahiri N, McNeil EP, et al.",
+  "journal": "Genetics in medicine : official journal of the American College of Medical Genetics",
+  "date": "2019-03",
+  "source": "pubmed",
+  "abstract": "To investigate the effect of different DEAF1 variants on the phenotype of patients with autosomal dominant and recessive inheritance patterns and on DEAF1 activity in vitro.\n\nWe assembled a cohort of 23 patients with de novo and biallelic DEAF1 variants, described the genotype-phenotype correlation, and investigated the differential effect of de novo and recessive variants on transcription assays using DEAF1 and Eif4g3 promoter luciferase constructs.\n\nThe proportion of the most prevalent phenotypic features, including intellectual disability, speech delay, motor delay, autism, sleep disturbances, and a high pain threshold, were not significantly different in patients with biallelic and pathogenic de novo DEAF1 variants. However, microcephaly was exclusively observed in patients with recessive variants (p&#x2009;<&#x2009;0.0001).\n\nWe propose that different variants in the DEAF1 gene result in a phenotypic spectrum centered around neurodevelopmental delay. While a pathogenic de novo dominant variant would also incapacitate the product of the wild-type allele and result in a dominant-negative effect, a combination of two recessive variants would result in a partial loss of function. Because the clinical picture can be nonspecific, detailed phenotype information, segregation, and functional analysis are fundamental to determine the pathogenicity of novel variants and to improve the care of these patients.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "To investigate the effect of different DEAF1 variants on the phenotype of patients with autosomal dominant and recessive inheritance patterns and on DEAF1 activity in vitro. We assembled a cohort of 23 patients with de novo and biallelic DEAF1 variants, described the genotype-phenotype correlation, and investigated the differential effect of de novo and recessive variants on transcription assays using DEAF1 and Eif4g3 promoter luciferase constructs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30923367/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Alleles",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "DNA-Binding Proteins",
+    "Developmental Disabilities",
+    "Exome",
+    "Female",
+    "Genetic Association Studies",
+    "Humans",
+    "Intellectual Disability",
+    "Language Development Disorders",
+    "Male",
+    "Microcephaly",
+    "Mutation, Missense",
+    "Transcription Factors",
+    "Young Adult"
+  ],
+  "keywords": [
+    "DEAF1",
+    "genotype",
+    "intellectual disability",
+    "neurodevelopmental disorder",
+    "phenotype"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

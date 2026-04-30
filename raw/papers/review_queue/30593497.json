@@ -1,0 +1,62 @@
+{
+  "pmid": "30593497",
+  "doi": "10.1523/JNEUROSCI.0612-18.2018",
+  "title": "Aberrant Somatosensory Processing and Connectivity in Mice Lacking",
+  "authors": "Chelini G, Zerbi V, Cimino L, Grigoli A, Markicevic M, Libera F, et al.",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2018-12",
+  "source": "pubmed",
+  "abstract": "Overreactivity and defensive behaviors in response to tactile stimuli are common symptoms in autism spectrum disorder (ASD) patients. Similarly, somatosensory hypersensitivity has also been described in mice lacking ASD-associated genes such as(fragile X mental retardation protein 1).knock-out mice also show reduced functional connectivity between sensory cortical areas, which may represent an endogenous biomarker for their hypersensitivity. Here, we measured whole-brain functional connectivity inknock-out () adult mice, which show a lower expression ofand anatomical defects common toknock-outs. MRI-based resting-state functional connectivity in adultmice revealed significantly reduced synchronization in somatosensory-auditory/associative cortices and dorsal thalamus, suggesting the presence of aberrant somatosensory processing in these mutants. Accordingly, when tested in the whisker nuisance test,but not WT mice of both sexes showed fear behavior in response to repeated whisker stimulation.mice undergoing this test exhibited decreased c-Fos-positive neurons (a marker of neuronal activity) in layer IV of the primary somatosensory cortex and increased immunoreactive cells in the basolateral amygdala compared with WT littermates. Conversely, when tested in a sensory maze,and WT mice spent a comparable time in whisker-guided exploration, indicating that whisker-mediated behaviors are otherwise preserved inmutants. Therefore, fearful responses to somatosensory stimuli inmice are accompanied by reduced basal connectivity of sensory regions, reduced activation of somatosensory cortex, and increased activation of the basolateral amygdala, suggesting that impaired somatosensory processing is a common feature in mice lacking ASD-related genes.Overreactivity to tactile stimuli is a common symptom in autism spectrum disorder (ASD) patients. Recent studies performed in mice bearing ASD-related mutations confirmed these findings. Here, we evaluated the behavioral response to whisker stimulation in mice lacking the ASD-related gene(mice). Compared with WT controls,mice showed reduced functional connectivity in the somatosensory cortex, which was paralleled by fear behavior, reduced activation of somatosensory cortex, and increased activation of the basolateral amygdala in response to repeated whisker stimulation. These results suggest that impaired somatosensory signal processing is a common feature in mice harboring ASD-related mutations.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Overreactivity and defensive behaviors in response to tactile stimuli are common symptoms in autism spectrum disorder (ASD) patients. Similarly, somatosensory hypersensitivity has also been described in mice lacking ASD-associated genes such as(fragile X mental retardation protein 1).knock-out mice also show reduced functional connectivity between sensory cortical areas, which may represent an endogenous biomarker for their hypersensitivity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30593497/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Basolateral Nuclear Complex",
+    "Cerebral Cortex",
+    "Connectome",
+    "Diffusion Tensor Imaging",
+    "Disease Models, Animal",
+    "Exploratory Behavior",
+    "Fear",
+    "Feeding Behavior",
+    "Female",
+    "Hippocampus",
+    "Homeodomain Proteins",
+    "Male",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Nerve Tissue Proteins",
+    "Proto-Oncogene Proteins c-fos",
+    "Somatosensory Cortex",
+    "Thalamus",
+    "Vibrissae",
+    "White Matter",
+    "Engrailed 2 Protein"
+  ],
+  "keywords": [
+    "autism",
+    "behavior",
+    "c-Fos",
+    "cortex",
+    "imaging",
+    "somatosensory"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

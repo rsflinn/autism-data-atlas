@@ -1,0 +1,61 @@
+{
+  "pmid": "32652891",
+  "doi": "10.1002/ajmg.b.32809",
+  "title": "Language characterization in 16p11.2 deletion and duplication syndromes",
+  "authors": "Kim SH, Green-Snyder L, Lord C, Bishop S, Steinman KJ, Bernier R, et al.",
+  "journal": "American journal of medical genetics. Part B, Neuropsychiatric genetics : the official publication of the International Society of Psychiatric Genetics",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "Expressive language impairment is one of the most frequently associated clinical features of 16p11.2 copy number variations (CNV). However, our understanding of the language profiles of individuals with 16p11.2 CNVs is still limited. This study builds upon previous work in the Simons Variation in Individuals Project (VIP, now known as Simons Searchlight), to characterize language abilities in 16p11.2 deletion and duplication carriers using comprehensive assessments. Participants included 110 clinically ascertained children and family members (i.e., siblings and cousins) with 16p11.2 BP4-BP5 deletion and 58 with 16p11.2 BP4-BP5 duplication between the ages of 2-23&#x2009;years, most of whom were verbal. Regression analyses were performed to quantify variation in language abilities in the presence of the 16p11.2 deletion and duplication, both with and without autism spectrum disorder (ASD) and cognitive deficit. Difficulties in pragmatic skills were equally prevalent in verbal individuals in both deletion and duplication groups. NVIQ had moderate quantifiable effects on language scores in syntax and semantics/pragmatics (a decrease of less than 1 SD) for both groups. Overall, language impairments persisted even after controlling for ASD diagnosis and cognitive deficit. Language impairment is one of the core clinical features of individuals with 16p11.2 CNVs even in the absence of ASD and cognitive deficit. Results highlight the need for more comprehensive and rigorous assessment of language impairments to maximize outcomes in carriers of 16p11.2 CNVs.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Expressive language impairment is one of the most frequently associated clinical features of 16p11.2 copy number variations (CNV). However, our understanding of the language profiles of individuals with 16p11.2 CNVs is still limited.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32652891/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Chromosome Deletion",
+    "Chromosome Disorders",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 16",
+    "Cognitive Dysfunction",
+    "DNA Copy Number Variations",
+    "Family",
+    "Female",
+    "Heterozygote",
+    "Humans",
+    "Intellectual Disability",
+    "Language",
+    "Male",
+    "Middle Aged",
+    "Siblings",
+    "Speech",
+    "Verbal Behavior",
+    "Young Adult"
+  ],
+  "keywords": [
+    "16p11.2 deletion",
+    "16p11.2 duplication",
+    "autism",
+    "genetics",
+    "language profiles"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

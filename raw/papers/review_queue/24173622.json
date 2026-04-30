@@ -1,0 +1,39 @@
+{
+  "pmid": "24173622",
+  "doi": "10.1007/s00213-013-3289-0",
+  "title": "The challenges of clinical trials in fragile X syndrome",
+  "authors": "Jacquemont S, Berry-Kravis E, Hagerman R, von Raison F, Gasparini F, Apostol G, et al.",
+  "journal": "Psychopharmacology",
+  "date": "2013-10",
+  "source": "pubmed",
+  "abstract": "Advances in understanding the underlying mechanisms of conditions such as fragile X syndrome (FXS) and autism spectrum disorders have revealed heterogeneous populations. Recent trials of novel FXS therapies have highlighted several challenges including subpopulations with possibly differential therapeutic responses, the lack of specific outcome measures capturing the full range of improvements of patients with FXS, and a lack of biomarkers that can track whether a specific mechanism is responsive to a new drug and whether the response correlates with clinical improvement.\n\nWe review the phenotypic heterogeneity of FXS and the implications for clinical research in FXS and other neurodevelopmental disorders.\n\nResidual levels of fragile X mental retardation protein (FMRP) expression explain in part the heterogeneity in the FXS phenotype; studies indicate a correlation with both cognitive and behavioral deficits. However, this does not fully explain the extent of phenotypic variance observed or the variability of drug response. Post hoc analyses of studies involving the selective mGluR5 antagonist mavoglurant and the GABAB agonist arbaclofen have uncovered significant therapeutic responses following patient stratification according to FMR1 promoter methylation patterns or baseline severity of social withdrawal, respectively. Future studies designed to quantify disease modification will need to develop new strategies to track changes effectively over time and in multiple symptom domains.\n\nAppropriate selection of patients and outcome measures is central to optimizing future clinical investigations of these complex disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Advances in understanding the underlying mechanisms of conditions such as fragile X syndrome (FXS) and autism spectrum disorders have revealed heterogeneous populations. Recent trials of novel FXS therapies have highlighted several challenges including subpopulations with possibly differential therapeutic responses, the lack of specific outcome measures capturing the full range of improvements of patients with FXS, and a lack of biomarkers that can track whether a specific mechanism is responsiv",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24173622/",
+  "mesh_terms": [
+    "Animals",
+    "Child Development Disorders, Pervasive",
+    "Clinical Trials as Topic",
+    "Fragile X Syndrome",
+    "Humans",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

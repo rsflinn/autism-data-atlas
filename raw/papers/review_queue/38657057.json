@@ -1,0 +1,44 @@
+{
+  "pmid": "38657057",
+  "doi": "10.1126/sciadv.adl6554",
+  "title": "MDMA enhances empathy-like behaviors in mice via 5-HT release in the nucleus accumbens",
+  "authors": "Rein B, Raymond K, Boustani C, Tuy S, Zhang J, St Laurent R, et al.",
+  "journal": "Science advances",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "MDMA (3,4-methylenedioxymethamphetamine) is a psychoactive drug with powerful prosocial effects. While MDMA is sometimes termed an \"empathogen,\" empirical studies have struggled to clearly demonstrate these effects or pinpoint underlying mechanisms. Here, we paired the social transfer of pain and analgesia-behavioral tests modeling empathy in mice-with region-specific neuropharmacology, optogenetics, and transgenic manipulations to explore MDMA's action as an empathogen. We report that MDMA, given intraperitoneally or infused directly into the nucleus accumbens (NAc), robustly enhances the social transfer of pain and analgesia. Optogenetic stimulation of 5-HT release in the NAc recapitulates the effects of MDMA, implicating 5-HT signaling as a core mechanism. Last, we demonstrate that systemic MDMA or optogenetic stimulation of NAc 5-HT inputs restores deficits in empathy-like behaviors in thedeficient mouse model of autism. These findings demonstrate enhancement of empathy-related behaviors by MDMA and implicate 5-HT signaling in the NAc as a core mechanism mediating MDMA's empathogenic effects.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "MDMA (3,4-methylenedioxymethamphetamine) is a psychoactive drug with powerful prosocial effects. While MDMA is sometimes termed an \"empathogen,\" empirical studies have struggled to clearly demonstrate these effects or pinpoint underlying mechanisms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38657057/",
+  "mesh_terms": [
+    "Animals",
+    "Nucleus Accumbens",
+    "N-Methyl-3,4-methylenedioxyamphetamine",
+    "Empathy",
+    "Serotonin",
+    "Mice",
+    "Optogenetics",
+    "Male",
+    "Behavior, Animal",
+    "Nerve Tissue Proteins",
+    "Autistic Disorder",
+    "Mice, Inbred C57BL",
+    "Disease Models, Animal",
+    "Microfilament Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

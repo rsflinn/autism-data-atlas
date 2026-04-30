@@ -1,0 +1,59 @@
+{
+  "pmid": "31878865",
+  "doi": "10.1186/s11689-019-9288-7",
+  "title": "Intellectual functioning and behavioural features associated with mosaicism in fragile X syndrome",
+  "authors": "Baker EK, Arpone M, Vera SA, Bretherton L, Ure A, Kraan CM, et al.",
+  "journal": "Journal of neurodevelopmental disorders",
+  "date": "2019-12",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is a common cause of intellectual disability and autism spectrum disorder (ASD) usually associated with a CGG expansion, termed full mutation (FM: CGG &#x2265; 200), increased DNA methylation of the FMR1 promoter and silencing of the gene. Mosaicism for presence of cells with either methylated FM or smaller unmethylated pre-mutation (PM: CGG 55-199) alleles in the same individual have been associated with better cognitive functioning. This study compares age- and sex-matched FM-only and PM/FM mosaic individuals on intellectual functioning, ASD features and maladaptive behaviours.\n\nThis study comprised a large international cohort of 126 male and female participants with FXS (aged 1.15 to 43.17&#x2009;years) separated into FM-only and PM/FM mosaic groups (90 males, 77.8% FM-only; 36 females, 77.8% FM-only). Intellectual functioning was assessed with age appropriate developmental or intelligence tests. The Autism Diagnostic Observation Schedule-2nd Edition was used to examine ASD features while the Aberrant Behavior Checklist-Community assessed maladaptive behaviours.\n\nComparing males and females (FM-only + PM/FM mosaic), males had poorer intellectual functioning on all domains (p < 0.0001). Although females had less ASD features and less parent-reported maladaptive behaviours, these differences were no longer significant after controlling for intellectual functioning. Participants with PM/FM mosaicism, regardless of sex, presented with better intellectual functioning and less maladaptive behaviours compared with their age- and sex-matched FM-only counterparts (p < 0.05). ASD features were similar between FM-only and PM/FM mosaics within each sex, after controlling for overall intellectual functioning.\n\nMales with FXS had significantly lower intellectual functioning than females with FXS. However, there were no significant differences in ASD features and maladaptive behaviours, after controlling for intellectual functioning, independent of the presence or absence of mosaicism. This suggests that interventions that primarily target cognitive abilities may in turn reduce the severity of maladaptive behaviours including ASD features in FXS.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is a common cause of intellectual disability and autism spectrum disorder (ASD) usually associated with a CGG expansion, termed full mutation (FM: CGG &#x2265; 200), increased DNA methylation of the FMR1 promoter and silencing of the gene. Mosaicism for presence of cells with either methylated FM or smaller unmethylated pre-mutation (PM: CGG 55-199) alleles in the same individual have been associated with better cognitive functioning.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31878865/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Autism Spectrum Disorder",
+    "Behavioral Symptoms",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Male",
+    "Mosaicism",
+    "Mutation",
+    "Phenotype",
+    "Sex Factors",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Behaviour",
+    "Fragile X syndrome",
+    "Intellectual functioning",
+    "Mosaicism",
+    "Phenotype"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

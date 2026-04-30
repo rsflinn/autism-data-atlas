@@ -1,0 +1,59 @@
+{
+  "pmid": "21269290",
+  "doi": "10.1111/j.1528-1167.2010.02932.x",
+  "title": "Epilepsy and the new cytogenetics",
+  "authors": "Mulley JC, Mefford HC",
+  "journal": "Epilepsia",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "We set out to review the extent to which molecular karyotyping has overtaken conventional cytogenetics in applications related to epilepsy. Multiplex ligase-dependent probe amplification (MLPA) targeted to predetermined regions such as SCN1A and KCNQ2 has been effectively applied over the last half a decade, and oligonucleotide array comparative genome hybridization (array CGH) is now well established for genome-wide exploration of microchromosomal variation. Array CGH is applicable to the characterization of lesions present in both sporadic and familial epilepsy, especially where clinical features of affected cases depart from established syndromes. Copy number variants (CNVs) associated with epilepsy and a range of other syndromes and conditions can be recurrent due to nonallelic homologous recombination in regions of segmental duplication. The most common of the recurrent microdeletions associated with generalized epilepsy are typically seen at a frequency of &#x223c; 1% at 15q13.3, 16p13.11, and 15q11.2, sites that also confer susceptibility for intellectual disability, autism, and schizophrenia. Incomplete penetrance and variable expressivity confound the established rules of cytogenetics for determining the pathogenicity for novel CNVs; however, as knowledge is gained for each of the recurrent CNVs, this is translated to genetic counseling. CNVs play a significant role in the susceptibility profile for epilepsies, with complex genetics and their comorbidities both from the \"hotspots\" defined by segmental duplication and elsewhere in the genome where their location and size are often novel.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SCN1A"
+  ],
+  "summary": "We set out to review the extent to which molecular karyotyping has overtaken conventional cytogenetics in applications related to epilepsy. Multiplex ligase-dependent probe amplification (MLPA) targeted to predetermined regions such as SCN1A and KCNQ2 has been effectively applied over the last half a decade, and oligonucleotide array comparative genome hybridization (array CGH) is now well established for genome-wide exploration of microchromosomal variation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21269290/",
+  "mesh_terms": [
+    "Chromosome Banding",
+    "Chromosome Deletion",
+    "Chromosome Duplication",
+    "Chromosomes, Human, Pair 15",
+    "Chromosomes, Human, Pair 16",
+    "Comorbidity",
+    "Comparative Genomic Hybridization",
+    "Cytogenetic Analysis",
+    "DNA Copy Number Variations",
+    "Epilepsy",
+    "Exons",
+    "Gene Frequency",
+    "Genetic Counseling",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Intellectual Disability",
+    "KCNQ2 Potassium Channel",
+    "Karyotyping",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Nerve Tissue Proteins",
+    "Phenotype",
+    "Receptors, Nicotinic",
+    "Sodium Channels",
+    "Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

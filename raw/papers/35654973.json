@@ -1,0 +1,38 @@
+{
+  "pmid": "35654973",
+  "doi": "10.1038/s41588-022-01072-5",
+  "title": "Genetic correlates of phenotypic heterogeneity in autism",
+  "authors": "Warrier V, Zhang X, Reed P, Havdahl A, Moore TM, Cliquet F, et al.",
+  "journal": "Nature genetics",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "The substantial phenotypic heterogeneity in autism limits our understanding of its genetic etiology. To address this gap, here we investigated genetic differences between autistic individuals (n&#x2009;=&#x2009;12,893) based on core and associated features of autism, co-occurring developmental disabilities and sex. We conducted a comprehensive factor analysis of core autism features in autistic individuals and identified six factors. Common genetic variants were associated with the core factors, but de novo variants were not. We found that higher autism polygenic scores (PGS) were associated with lower likelihood of co-occurring developmental disabilities in autistic individuals. Furthermore, in autistic individuals without co-occurring intellectual disability (ID), autism PGS are overinherited by autistic females compared to males. Finally, we observed higher SNP heritability for autistic males and for autistic individuals without ID. Deeper phenotypic characterization will be critical in determining how the complex underlying genetics shape cognition, behavior and co-occurring conditions in autism.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The substantial phenotypic heterogeneity in autism limits our understanding of its genetic etiology. To address this gap, here we investigated genetic differences between autistic individuals (n&#x2009;=&#x2009;12,893) based on core and associated features of autism, co-occurring developmental disabilities and sex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35654973/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Cognition",
+    "Female",
+    "Humans",
+    "Intellectual Disability",
+    "Male"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

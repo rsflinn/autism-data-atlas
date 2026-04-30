@@ -1,0 +1,38 @@
+{
+  "pmid": "28685102",
+  "doi": "10.1155/2017/9498247",
+  "title": "Autism-Like Behaviours and Memory Deficits Result from a Western Diet in Mice",
+  "authors": "Veniaminova E, Cespuglio R, Cheung CW, Umriukhin A, Markova N, Shevtsova E, et al.",
+  "journal": "Neural plasticity",
+  "date": "2017-06",
+  "source": "pubmed",
+  "abstract": "Nonalcoholic fatty liver disease, induced by a Western diet (WD), evokes central and peripheral inflammation that is accompanied by altered emotionality. These changes can be associated with abnormalities in social behaviour, hippocampus-dependent cognitive functions, and metabolism. Female C57BL/6J mice were fed with a regular chow or with a WD containing 0.2% of cholesterol and 21% of saturated fat for three weeks. WD-treated mice exhibited increased social avoidance, crawl-over and digging behaviours, decreased body-body contacts, and hyperlocomotion. The WD-fed group also displayed deficits in hippocampal-dependent performance such as contextual memory in a fear conditioning and pellet displacement paradigms. A reduction in glucose tolerance and elevated levels of serum cholesterol and leptin were also associated with the WD. The peroxisome proliferator-activated receptor gamma coactivator 1-alpha (PPARGC1a) mRNA, a marker of mitochondrial activity, was decreased in the prefrontal cortex, hippocampus, hypothalamus, and dorsal raphe, suggesting suppressed brain mitochondrial functions, but not in the liver. This is the first report to show that a WD can profoundly suppress social interactions and induce dominant-like behaviours in na&#xef;ve adult mice. The spectrum of behaviours that were found to be induced are reminiscent of symptoms associated with autism, and, if paralleled in humans, suggest that a WD might exacerbate autism spectrum disorder.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Nonalcoholic fatty liver disease, induced by a Western diet (WD), evokes central and peripheral inflammation that is accompanied by altered emotionality. These changes can be associated with abnormalities in social behaviour, hippocampus-dependent cognitive functions, and metabolism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28685102/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Brain",
+    "Diet, Western",
+    "Female",
+    "Memory Disorders",
+    "Mice",
+    "Peroxisome Proliferator-Activated Receptor Gamma Coactivator 1-alpha"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

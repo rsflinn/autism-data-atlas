@@ -1,0 +1,40 @@
+{
+  "pmid": "37611161",
+  "doi": "10.1182/bloodadvances.2023009946",
+  "title": "Dissecting the role of SWI/SNF component ARID1B in steady-state hematopoiesis",
+  "authors": "Madan V, Shyamsunder P, Dakle P, Woon TW, Han L, Cao Z, et al.",
+  "journal": "Blood advances",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "The adenosine triphosphate (ATP)-dependent chromatin remodeling complex, SWItch/Sucrose Non-Fermentable (SWI/SNF), has been implicated in normal hematopoiesis. The AT-rich interaction domain 1B (ARID1B) and its paralog, ARID1A, are mutually exclusive, DNA-interacting subunits of the BRG1/BRM-associated factor (BAF) subclass of SWI/SNF complex. Although the role of several SWI/SNF components in hematopoietic differentiation and stem cell maintenance has been reported, the function of ARID1B in hematopoietic development has not been defined. To this end, we generated a mouse model of Arid1b deficiency specifically in the hematopoietic compartment. Unlike the extensive phenotype observed in mice deficient in its paralog, ARID1A, Arid1b knockout (KO) mice exhibited a modest effect on steady-state hematopoiesis. Nonetheless, transplantation experiments showed that the reconstitution of myeloid cells in irradiated recipient mice was dependent on ARID1B. Furthermore, to assess the effect of the complete loss of ARID1 proteins in the BAF complex, we generated mice lacking both ARID1A and ARID1B in the hematopoietic compartment. The double-KO mice succumbed to acute bone marrow failure resulting from complete loss of BAF-mediated chromatin remodeling activity. Our Assay for transposase-accessible chromatin with high-throughput sequencing (ATAC-seq) analyses revealed that >80% of loci regulated by ARID1B were distinct from those regulated by ARID1A; and ARID1B controlled expression of genes crucial in myelopoiesis. Overall, loss of ARID1B affected chromatin dynamics in murine hematopoietic stem and progenitor cells, albeit to a lesser extent than cells lacking ARID1A.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ARID1B"
+  ],
+  "summary": "The adenosine triphosphate (ATP)-dependent chromatin remodeling complex, SWItch/Sucrose Non-Fermentable (SWI/SNF), has been implicated in normal hematopoiesis. The AT-rich interaction domain 1B (ARID1B) and its paralog, ARID1A, are mutually exclusive, DNA-interacting subunits of the BRG1/BRM-associated factor (BAF) subclass of SWI/SNF complex.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37611161/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Cell Differentiation",
+    "Chromatin",
+    "Hematopoiesis",
+    "Nuclear Proteins",
+    "DNA-Binding Proteins",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

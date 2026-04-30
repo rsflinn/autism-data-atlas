@@ -1,0 +1,46 @@
+{
+  "pmid": "29472613",
+  "doi": "10.1038/s41598-018-21737-8",
+  "title": "Genetic contribution to 'theory of mind' in adolescence",
+  "authors": "Warrier V, Baron-Cohen S",
+  "journal": "Scientific reports",
+  "date": "2018-02",
+  "source": "pubmed",
+  "abstract": "Difficulties in 'theory of mind' (the ability to attribute mental states to oneself or others, and to make predictions about another's behaviour based on these attributions) have been observed in several psychiatric conditions. We investigate the genetic architecture of theory of mind in 4,577 13-year-olds who completed the Emotional Triangles Task (Triangles Task), a first-order test of theory of mind. We observe a small but significant female-advantage on the Triangles Task (Cohen's d&#x2009;=&#x2009;0.19, P&#x2009;<&#x2009;0.01), in keeping with previous work using other tests of theory of mind. Genome-wide association analyses did not identify any significant loci, and SNP heritability&#xa0;was non-significant. Polygenic scores for six psychiatric conditions (ADHD, anorexia, autism, bipolar disorder, depression, and schizophrenia), and empathy were not associated with scores on the Triangles Task. However, polygenic scores of cognitive aptitude, and cognitive empathy, a term synonymous with theory of mind and measured using the \"Reading the Mind in the Eyes\" Test, were significantly associated with scores on the Triangles Task at multiple P-value thresholds, suggesting shared genetics between different measures of theory of mind and cognition.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Difficulties in 'theory of mind' (the ability to attribute mental states to oneself or others, and to make predictions about another's behaviour based on these attributions) have been observed in several psychiatric conditions. We investigate the genetic architecture of theory of mind in 4,577 13-year-olds who completed the Emotional Triangles Task (Triangles Task), a first-order test of theory of mind.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29472613/",
+  "mesh_terms": [
+    "Adolescent",
+    "Anorexia",
+    "Autistic Disorder",
+    "Bipolar Disorder",
+    "Cognition Disorders",
+    "Emotions",
+    "Female",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Male",
+    "Neuropsychological Tests",
+    "Polymorphism, Single Nucleotide",
+    "Schizophrenia",
+    "Social Perception",
+    "Theory of Mind"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

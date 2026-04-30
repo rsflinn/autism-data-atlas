@@ -1,0 +1,33 @@
+{
+  "pmid": "28003905",
+  "doi": "10.18295/squmj.2016.16.04.022",
+  "title": "Coexistence of Autism Spectrum Disorders Among Three Children with Tuberous Sclerosis Complex: Case reports and review of literature",
+  "authors": "Al-Futaisi A, Idris A, Al-Sayegh A, Al-Mamari WS",
+  "journal": "Sultan Qaboos University medical journal",
+  "date": "2016-11",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a multisystem neurocutaneous disorder inherited in an autosomal dominant manner and characterised by benign tumours in the brain and other vital organs such as the heart, eyes, kidneys, skin and lungs. Links between autism spectrum disorder (ASD) and TSC have been postulated for many decades, with TSC considered to be one of the main syndromic causes of ASD; however, precise confirmation of a relationship between these two disorders required validated diagnostic tools. Fortunately, accurate evaluation of this relationship is now possible with standardised criteria for ASD diagnosis. We report three children who presented to the Sultan Qaboos University Hospital, Muscat, Oman, between 2014 and 2015 with ASD and TSC. These cases demonstrate the spectrum of neuropsychiatric involvement in TSC and highlight the importance of screening children with TSC for ASD features in order to encourage the early enrolment of these children in educational and rehabilitation programmes.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Tuberous sclerosis complex (TSC) is a multisystem neurocutaneous disorder inherited in an autosomal dominant manner and characterised by benign tumours in the brain and other vital organs such as the heart, eyes, kidneys, skin and lungs. Links between autism spectrum disorder (ASD) and TSC have been postulated for many decades, with TSC considered to be one of the main syndromic causes of ASD; however, precise confirmation of a relationship between these two disorders required validated diagnost",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28003905/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism Spectrum Disorder",
+    "Case Report",
+    "Oman",
+    "Tuberous Sclerosis"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

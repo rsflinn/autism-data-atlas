@@ -1,0 +1,43 @@
+{
+  "pmid": "31209396",
+  "doi": "10.1038/s41588-019-0433-8",
+  "title": "Recessive gene disruptions in autism spectrum disorder",
+  "authors": "Doan RN, Lim ET, De Rubeis S, Betancur C, Cutler DJ, Chiocchetti AG, et al.",
+  "journal": "Nature genetics",
+  "date": "2019-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) affects up to 1 in 59 individuals. Genome-wide association and large-scale sequencing studies strongly implicate both common variantsand rare de novo variantsin ASD. Recessive mutations have also been implicatedbut their contribution remains less well defined. Here we demonstrate an excess of biallelic loss-of-function and damaging missense mutations in a large ASD cohort, corresponding to approximately 5% of total cases, including 10% of females, consistent with a female protective effect. We document biallelic disruption of known or emerging recessive neurodevelopmental genes (CA2, DDHD1, NSUN2, PAH, RARB, ROGDI, SLC1A1, USH2A) as well as other genes not previously implicated in ASD including FEV (FEV transcription factor, ETS family member), which encodes a key regulator of the serotonergic circuitry. Our data refine estimates of the contribution of recessive mutation to ASD and suggest new paths for illuminating previously unknown biological pathways responsible for this condition.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) affects up to 1 in 59 individuals. Genome-wide association and large-scale sequencing studies strongly implicate both common variantsand rare de novo variantsin ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31209396/",
+  "mesh_terms": [
+    "Allelic Imbalance",
+    "Autism Spectrum Disorder",
+    "Case-Control Studies",
+    "Cohort Studies",
+    "Female",
+    "Genes, Recessive",
+    "Genetic Predisposition to Disease",
+    "Genome, Human",
+    "Humans",
+    "Male",
+    "Mutation, Missense",
+    "Exome Sequencing"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

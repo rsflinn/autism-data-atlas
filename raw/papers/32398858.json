@@ -1,0 +1,47 @@
+{
+  "pmid": "32398858",
+  "doi": "10.1038/s41598-020-64066-5",
+  "title": "Arid1b haploinsufficiency in parvalbumin- or somatostatin-expressing interneurons leads to distinct ASD-like and ID-like behavior",
+  "authors": "Smith AL, Jung EM, Jeon BT, Kim WY",
+  "journal": "Scientific reports",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Inhibitory interneurons are essential for proper brain development and function. Dysfunction of interneurons is implicated in several neurodevelopmental disorders, including autism spectrum disorder (ASD) and intellectual disability (ID). We have previously shown that Arid1b haploinsufficiency interferes with interneuron development and leads to social, cognitive, and emotional impairments consistent with ASD and ID. It is unclear, however, whether interneurons play a major role for the behavioral deficits in Arid1b haploinsufficiency. Furthermore, it is critical to determine which interneuron subtypes contribute to distinct behavioral phenotypes. In the present study, we generated Arid1b haploinsufficient mice in which a copy of the Arid1b gene is deleted in either parvalbumin (PV) or somatostatin (SST) interneurons, and examined their ASD- and ID-like behaviors. We found that Arid1b haploinsufficiency in PV or SST interneurons resulted in distinct features that do not overlap with one another. Arid1b haploinsufficiency in PV neurons contributed to social and emotional impairments, while the gene deletion in the SST population caused stereotypies as well as learning and memory dysfunction. These findings demonstrate a critical role of interneurons in Arid1b haploinsufficient pathology and suggest that PV and SST interneurons may have distinct roles in modulating neurological phenotypes in Arid1b haploinsufficiency-induced ASD and ID.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Inhibitory interneurons are essential for proper brain development and function. Dysfunction of interneurons is implicated in several neurodevelopmental disorders, including autism spectrum disorder (ASD) and intellectual disability (ID).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32398858/",
+  "mesh_terms": [
+    "Animals",
+    "Anxiety",
+    "Autism Spectrum Disorder",
+    "Behavior, Animal",
+    "Depression",
+    "Gene Expression Regulation",
+    "Haploinsufficiency",
+    "Intellectual Disability",
+    "Interneurons",
+    "Memory",
+    "Parvalbumins",
+    "Phenotype",
+    "Social Behavior",
+    "Somatostatin",
+    "Spatial Learning",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

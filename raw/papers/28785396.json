@@ -1,0 +1,52 @@
+{
+  "pmid": "28785396",
+  "doi": "10.1186/s13229-017-0157-5",
+  "title": "Identification of autism-relatedmutations by whole-exome sequencing and functional validation",
+  "authors": "Wen Z, Cheng TL, Li GZ, Sun SB, Yu SY, Zhang Y, et al.",
+  "journal": "Molecular autism",
+  "date": "2017-08",
+  "source": "pubmed",
+  "abstract": "Methyl-CpG-binding protein-2 (MeCP2) is a critical regulator for neural development. Eitherorleads to severe neurodevelopmental disorders, such as Rett syndrome (RTT) and autism spectrum disorder (ASD). We set out to screen formutations in patients of ASD and determine whether these autism-related mutations may compromise the proper function of MeCP2.\n\nWhole-exome sequencing was performed to screenand other ASD candidate genes for 120 patients diagnosed with ASD. The parents of patients who were identified withmutation were selected for further Sanger sequencing. Each patient accomplished the case report form including general information and clinical scales applied to assess their clinical features. Mouse cortical neurons and HEK-293 cells were cultured and transfected with MeCP2 wild-type (WT) or mutant to examine the function of autism-associated MeCP2 mutants. HEK-293 cells were used to examine the expression of MeCP2 mutant constructs with Western blot. Mouse cortical neurons were used to analyze neurites and axon outgrowth by immunofluorescence experiments.\n\nWe identified three missense mutations offrom three autism patients by whole-exome sequencing: p.P152L (c.455C>T), p.P376S (c.1162C>T), and p.R294X (c.880C>T). Among these mutations, p.P152L and p.R294X were de novo mutations, whereas p.P376S was inherited maternally. The diagnosis of RTT was excluded in all three autism patients. Abnormalities of dendritic and axonal growth were found after autism-related MeCP2 mutants were expressed in mouse cortical neurons; suggesting that autism-relatedmutations impair the proper development of neurons.\n\nOur study identified genetic mutations of thegene in autism patients, which were previously considered to be associated primarily with RTT. This finding suggests that loss-of-function mutations ofmay also lead to autism spectrum disorders.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Methyl-CpG-binding protein-2 (MeCP2) is a critical regulator for neural development. Eitherorleads to severe neurodevelopmental disorders, such as Rett syndrome (RTT) and autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28785396/",
+  "mesh_terms": [
+    "Adolescent",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "DNA Mutational Analysis",
+    "Female",
+    "Fluorescent Antibody Technique",
+    "Genetic Association Studies",
+    "Genetic Loci",
+    "Genetic Predisposition to Disease",
+    "Heterozygote",
+    "Humans",
+    "Male",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Pedigree",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Methyl-CpG-binding protein-2 (MeCP2)",
+    "Neural development",
+    "Whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

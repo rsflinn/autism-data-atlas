@@ -1,0 +1,52 @@
+{
+  "pmid": "35682762",
+  "doi": "10.3390/ijms23116082",
+  "title": "Prenatal Zinc Deficient Mice as a Model for Autism Spectrum Disorders",
+  "authors": "Sauer AK, Hagmeyer S, Grabrucker AM",
+  "journal": "International journal of molecular sciences",
+  "date": "2022-05",
+  "source": "pubmed",
+  "abstract": "Epidemiological studies have shown a clear association between early life zinc deficiency and Autism Spectrum Disorders (ASD). In line with this, mouse models have revealed prenatal zinc deficiency as a profound risk factor for neurobiological and behavioral abnormalities in the offspring reminiscent of ASD behavior. From these studies, a complex pathology emerges, with alterations in the gastrointestinal and immune system and synaptic signaling in the brain, as a major consequence of prenatal zinc deficiency. The features represent a critical link in a causal chain that leads to various neuronal dysfunctions and behavioral phenotypes observed in prenatal zinc deficient (PZD) mice and probably other mouse models for ASD. Given that the complete phenotype of PZD mice may be key to understanding how non-genetic factors can modify the clinical features and severity of autistic patients and explain the observed heterogeneity, here, we summarize published data on PZD mice. We critically review the emerging evidence that prenatal zinc deficiency is at the core of several environmental risk factors associated with ASD, being mechanistically linked to ASD-associated genetic factors. In addition, we highlight future directions and outstanding questions, including potential symptomatic, disease-modifying, and preventive treatment strategies.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Epidemiological studies have shown a clear association between early life zinc deficiency and Autism Spectrum Disorders (ASD). In line with this, mouse models have revealed prenatal zinc deficiency as a profound risk factor for neurobiological and behavioral abnormalities in the offspring reminiscent of ASD behavior.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35682762/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Brain",
+    "Disease Models, Animal",
+    "Female",
+    "Humans",
+    "Malnutrition",
+    "Mice",
+    "Pregnancy",
+    "Vitamins",
+    "Zinc"
+  ],
+  "keywords": [
+    "ASD",
+    "MIA",
+    "Shank3",
+    "autism",
+    "biometals",
+    "copper",
+    "mouse models",
+    "synaptopathy",
+    "trace metals"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

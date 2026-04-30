@@ -1,0 +1,51 @@
+{
+  "pmid": "40011918",
+  "doi": "10.1186/s12967-025-06298-5",
+  "title": "Proteomic analysis reveals chromatin remodeling as a potential therapeutical target in neuroblastoma",
+  "authors": "Liu Z, Zhao Z, Xie L, Xiao Z, Li M, Li Y, et al.",
+  "journal": "Journal of translational medicine",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Neuroblastoma (NB) is the most common solid tumor in children, characterized by high recurrence rates, drug resistance, and significant mortality.\n\nIn this study, we analyzed the proteomic profiles of NB tissue samples alongside other pathological categories, including ganglioneuroma (GN) and ganglioneuroblastoma (GNB). Using weighted gene co-expression network analysis (WGCNA), the core prognostic gene models associated with histopathology of NB were identified. Furthermore, by mapping our core prognostic gene models onto drug-perturbed transcriptome profiles from the L1000FWD and CMap databases, repurposing drug candidates were screened and validated for NB.\n\nOur proteomic analysis reveals that pathways associated with the cell cycle and DNA replication are significantly upregulated in NB, while oxidative phosphorylation, pyruvate metabolism, and the TCA cycle are notably downregulated compared to GNB and GN. By applying WGCNA, we identified a core prognostic gene model strongly associated with the unfavorable subtype and high MKI of NB and primarily related to chromatin binding and mRNA metabolic process. Protein-protein interaction network analysis identified 15 hub genes in this core prognostic module: SMARCA4, SMARCA5, SMARCC2, SMARCC1, PBRM1, BRD3, ARID1A, BRD2, ARID1B, KDM1A, TP53BP1, ALYREF, CBX1, SF3B1, and ADNP, which mainly related to chromatin remodeling. Notably, SMARCA4 and ALYREF are also high-risk genes of mortality and validated as potential prognostic biomarkers for NB. Through repurposing drugs screening, mocetinostat and clofarabine were validated as effective treatments in two NB cell lines.\n\nMocetinostat and clofarabine offer valuable insights for the development of novel targeted therapies in neuroblastoma.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "ADNP",
+    "ARID1B",
+    "SMARCC2"
+  ],
+  "summary": "Neuroblastoma (NB) is the most common solid tumor in children, characterized by high recurrence rates, drug resistance, and significant mortality. In this study, we analyzed the proteomic profiles of NB tissue samples alongside other pathological categories, including ganglioneuroma (GN) and ganglioneuroblastoma (GNB).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40011918/",
+  "mesh_terms": [
+    "Humans",
+    "Neuroblastoma",
+    "Proteomics",
+    "Gene Expression Regulation, Neoplastic",
+    "Chromatin Assembly and Disassembly",
+    "Protein Interaction Maps",
+    "Gene Regulatory Networks",
+    "Molecular Targeted Therapy",
+    "Gene Expression Profiling",
+    "Prognosis",
+    "Reproducibility of Results",
+    "Drug Repositioning",
+    "Cell Line, Tumor"
+  ],
+  "keywords": [
+    "Chromatin-remodeling",
+    "Neuroblastoma",
+    "Proteomics",
+    "SMARCA4"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

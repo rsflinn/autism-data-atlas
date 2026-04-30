@@ -1,0 +1,45 @@
+{
+  "pmid": "21239731",
+  "doi": "10.1258/ebm.2010.010261",
+  "title": "Experimental models of Rett syndrome based on Mecp2 dysfunction",
+  "authors": "Calfa G, Percy AK, Pozzo-Miller L",
+  "journal": "Experimental biology and medicine (Maywood, N.J.)",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "Rett syndrome (RTT) is a neurodevelopmental disorder predominantly occurring in females with an incidence of 1:10,000 births and caused by sporadic mutations in the MECP2 gene, which encodes methyl-CpG-binding protein-2, an epigenetic transcription factor that binds methylated DNA. The clinical hallmarks include a period of apparently normal early development followed by a plateau and then subsequent frank regression. Impaired visual and aural contact often lead to an initial diagnosis of autism. The characterization of experimental models based on the loss-of-function of the mouse Mecp2 gene revealed that subtle changes in the morphology and function of brain cells and synapses have profound consequences on network activities that underlie critical brain functions. Furthermore, these experimental models have been used for successful reversals of RTT-like symptoms by genetic, pharmacological and environmental manipulations, raising hope for novel therapeutic strategies to improve the quality of life of RTT individuals.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome (RTT) is a neurodevelopmental disorder predominantly occurring in females with an incidence of 1:10,000 births and caused by sporadic mutations in the MECP2 gene, which encodes methyl-CpG-binding protein-2, an epigenetic transcription factor that binds methylated DNA. The clinical hallmarks include a period of apparently normal early development followed by a plateau and then subsequent frank regression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21239731/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Female",
+    "Gene Expression Regulation",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mice",
+    "Mice, Knockout",
+    "Neurons",
+    "Rett Syndrome",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

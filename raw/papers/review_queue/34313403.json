@@ -1,0 +1,47 @@
+{
+  "pmid": "34313403",
+  "doi": "10.1002/aur.2568",
+  "title": "Reduced brain volume and white matter alterations in Shank3-deficient rats",
+  "authors": "Golden CEM, Wang VX, Harony-Nicolas H, Hof PR, Buxbaum JD",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2021-07",
+  "source": "pubmed",
+  "abstract": "Mutations and deletions in the SHANK3 gene cause the major neurodevelopmental features of Phelan-McDermid syndrome (PMS), which is characterized by intellectual disability, autism spectrum disorder, and sensory hyporeactivity. SHANK3 encodes a key structural component of excitatory synapses important for synaptogenesis. Clinical assessments and limited brain imaging studies of patients with PMS have uncovered regional volume reductions and white matter thinning. While these impairments have been replicated ex vivo in pups of a rat model, brain structure has not been assessed in rats in vivo or in adults. We assessed the brain structure of heterozygous and homozygous adult Shank3-deficient male rats in comparison to wild-type littermates with magnetic resonance imaging using both anatomical assessments and diffusion tensor imaging (DTI). Shank3-deficient rats showed a reduction in overall brain size and the absolute volume of the neocortex, piriform cortex, thalamus, forebrain, inferior and superior colliculi, internal capsule, and anterior commissure. The superior colliculus was decreased in relative volume. DTI revealed that axial diffusion and fractional anisotropy were reduced in the external capsule and mean diffusion was increased in the fornix, suggesting that restriction of diffusion perpendicular to the axis of the axonal fibers was impaired in these white matter tracts. Therefore, Shank3-deficient rats replicate the reduced brain volume and altered white matter phenotypes present in PMS. Our results indicate that the loss of a glutamatergic synaptic protein, Shank3, has structural consequences at the level of the whole brain. The brain regions that were altered represent potential cross-species structural biomarkers that warrant further study.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Mutations and deletions in the SHANK3 gene cause the major neurodevelopmental features of Phelan-McDermid syndrome (PMS), which is characterized by intellectual disability, autism spectrum disorder, and sensory hyporeactivity. SHANK3 encodes a key structural component of excitatory synapses important for synaptogenesis.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34313403/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Chromosome Disorders",
+    "Diffusion Tensor Imaging",
+    "Male",
+    "Nerve Tissue Proteins",
+    "Rats",
+    "White Matter"
+  ],
+  "keywords": [
+    "Shank3",
+    "autism spectrum disorder",
+    "diffusion tensor imaging",
+    "magnetic resonance imaging"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

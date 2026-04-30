@@ -1,0 +1,41 @@
+{
+  "pmid": "21299356",
+  "doi": "10.3109/1547691X.2010.538749",
+  "title": "Theoretical aspects of autism: biomarkers--a review",
+  "authors": "Ratajczak HV",
+  "journal": "Journal of immunotoxicology",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "Autism is dramatically increasing in incidence and is now considered an epidemic. There are no objective means to diagnose the disorder. Diagnosis is made subjectively, based on the perceived behavior of the subject. This review presents an approach toward development of an objective measure of autism. Covering the literature from 1943 to the present in the PubMed and Ovid Medline databases, this review summarizes evidence of hormones, metabolites, amino acids, and other biomarkers present in significantly different quantities in autistic subjects compared to age- and sex-matched controls. These differences can be measured in the gastrointestinal, immunologic, neurologic, and toxicologic systems of the body, with some biomarkers showing ubiquitous application. In addition, there are unifying concepts, i.e., increased vulnerability to oxidative stress, immune glutamatergic dysfunction, and pineal gland malfunction. The variances of the biomarkers from the norm present the opportunity to create biomarker arrays that when properly developed and analyzed could result in an objective diagnosis with a ranking of the severity of autism for each subject. The contribution of each biomarker to the overall diagnosis could be calculated, thus providing a profile pattern unique to the individual. This profile could consequently provide information for therapeutic interventions on an individual basis.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is dramatically increasing in incidence and is now considered an epidemic. There are no objective means to diagnose the disorder.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21299356/",
+  "mesh_terms": [
+    "Amino Acids",
+    "Autistic Disorder",
+    "Autoantibodies",
+    "Biomarkers",
+    "Child",
+    "Cyclic AMP",
+    "Gastrointestinal Diseases",
+    "Humans",
+    "Oxidative Stress",
+    "Peptides",
+    "Pineal Gland"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "37041460",
+  "doi": "10.1186/s12859-023-05278-0",
+  "title": "Single-nucleus gene and gene set expression-based similarity network fusion identifies autism molecular subtypes",
+  "authors": "Zhang J, Ji G, Gao X, Guan J",
+  "journal": "BMC bioinformatics",
+  "date": "2023-04",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder that is highly phenotypically and genetically heterogeneous. With the accumulation of biological sequencing data, more and more studies shift to molecular subtype-first approach, from identifying molecular subtypes based on genetic and molecular data to linking molecular subtypes with clinical manifestation, which can reduce heterogeneity before phenotypic profiling.\n\nIn this study, we perform similarity network fusion to integrate gene and gene set expression data of multiple human brain cell types for ASD molecular subtype identification. Then we apply subtype-specific differential gene and gene set expression analyses to study expression patterns specific to molecular subtypes in each cell type. To demonstrate the biological and practical significance, we analyze the molecular subtypes, investigate their correlation with ASD clinical phenotype, and construct ASD molecular subtype prediction models.\n\nThe identified molecular subtype-specific gene and gene set expression may be used to differentiate ASD molecular subtypes, facilitating the diagnosis and treatment of ASD. Our method provides an analytical pipeline for the identification of molecular subtypes and even disease subtypes of complex disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurodevelopmental disorder that is highly phenotypically and genetically heterogeneous. With the accumulation of biological sequencing data, more and more studies shift to molecular subtype-first approach, from identifying molecular subtypes based on genetic and molecular data to linking molecular subtypes with clinical manifestation, which can reduce heterogeneity before phenotypic profiling.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37041460/",
+  "mesh_terms": [
+    "Humans",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Brain"
+  ],
+  "keywords": [
+    "Autism",
+    "Gene set",
+    "Molecular subtype",
+    "Similarity network fusion",
+    "Single-nucleus RNA-seq data"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

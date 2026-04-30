@@ -1,0 +1,44 @@
+{
+  "pmid": "23689535",
+  "doi": "10.1038/mp.2013.59",
+  "title": "High rate of disease-related copy number variations in childhood onset schizophrenia",
+  "authors": "Ahn K, Gotay N, Andersen TM, Anvari AA, Gochman P, Lee Y, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2013-05",
+  "source": "pubmed",
+  "abstract": "Copy number variants (CNVs) are risk factors in neurodevelopmental disorders, including autism, epilepsy, intellectual disability (ID) and schizophrenia. Childhood onset schizophrenia (COS), defined as onset before the age of 13 years, is a rare and severe form of the disorder, with more striking array of prepsychotic developmental disorders and abnormalities in brain development. Because of the well-known phenotypic variability associated with pathogenic CNVs, we conducted whole genome genotyping to detect CNVs and then focused on a group of 46 rare CNVs that had well-documented risk for adult onset schizophrenia (AOS), autism, epilepsy and/or ID. We evaluated 126 COS probands, 69 of which also had a healthy full sibling. When COS probands were compared with their matched related controls, significantly more affected individuals carried disease-related CNVs (P=0.017). Moreover, COS probands showed a higher rate than that found in AOS probands (P<0.0001). A total of 15 (11.9%) subjects exhibited at least one such CNV and four of these subjects (26.7%) had two. Five of 15 (4.0% of the sample) had a 2.5-3&#x2009;Mb deletion mapping to 22q11.2, a rate higher than that reported for adult onset (0.3-1%) (P<0.001) or autism spectrum disorder and, indeed, the highest rate reported for any clinical population to date. For one COS subject, a duplication found at 22q13.3 had previously only been associated with autism, and for four patients CNVs at 8q11.2, 10q22.3, 16p11.2 and 17q21.3 had only previously been associated with ID. Taken together, these findings support the well-known pleiotropic effects of these CNVs suggesting shared abnormalities early in brain development. Clinically, broad CNV-based population screening is needed to assess their overall clinical burden.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Copy number variants (CNVs) are risk factors in neurodevelopmental disorders, including autism, epilepsy, intellectual disability (ID) and schizophrenia. Childhood onset schizophrenia (COS), defined as onset before the age of 13 years, is a rare and severe form of the disorder, with more striking array of prepsychotic developmental disorders and abnormalities in brain development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23689535/",
+  "mesh_terms": [
+    "Adult",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "DNA Copy Number Variations",
+    "Female",
+    "Genetic Pleiotropy",
+    "Genotyping Techniques",
+    "Humans",
+    "Male",
+    "Polymorphism, Single Nucleotide",
+    "Schizophrenia",
+    "Schizophrenia, Childhood",
+    "Sequence Deletion",
+    "Siblings"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Comparative Study",
+    "Journal Article"
+  ]
+}

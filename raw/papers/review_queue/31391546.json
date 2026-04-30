@@ -1,0 +1,40 @@
+{
+  "pmid": "31391546",
+  "doi": "10.1038/s41380-019-0468-3",
+  "title": "Modeling Alzheimer's disease with iPSC-derived brain cells",
+  "authors": "Penney J, Ralvenius WT, Tsai LH",
+  "journal": "Molecular psychiatry",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "Alzheimer's disease is a devastating neurodegenerative disorder with no cure. Countless promising therapeutics have shown efficacy in rodent Alzheimer's disease models yet failed to benefit human patients. While hope remains that earlier intervention with existing therapeutics will improve outcomes, it is becoming increasingly clear that new approaches to understand and combat the pathophysiology of Alzheimer's disease are needed. Human induced pluripotent stem cell (iPSC) technologies have changed the face of preclinical research and iPSC-derived cell types are being utilized to study an array of human conditions, including neurodegenerative disease. All major brain cell types can now be differentiated from iPSCs, while increasingly complex co-culture systems are being developed to facilitate neuroscience research. Many cellular functions perturbed in Alzheimer's disease can be recapitulated using iPSC-derived cells in vitro, and co-culture platforms are beginning to yield insights into the complex interactions that occur between brain cell types during neurodegeneration. Further, iPSC-based systems and genome editing tools will be critical in understanding the roles of the numerous new genes and mutations found to modify Alzheimer's disease risk in the past decade. While still in their relative infancy, these developing iPSC-based technologies hold considerable promise to push forward efforts to combat Alzheimer's disease and other neurodegenerative disorders.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Alzheimer's disease is a devastating neurodegenerative disorder with no cure. Countless promising therapeutics have shown efficacy in rodent Alzheimer's disease models yet failed to benefit human patients.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31391546/",
+  "mesh_terms": [
+    "Alzheimer Disease",
+    "Brain",
+    "Cell Differentiation",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Models, Biological",
+    "Neurodegenerative Diseases",
+    "Neurons"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "36633792",
+  "doi": "10.1007/s12539-022-00548-6",
+  "title": "Review of Progress in Diagnostic Studies of Autism Spectrum Disorder Using Neuroimaging",
+  "authors": "Kaur P, Kaur A",
+  "journal": "Interdisciplinary sciences, computational life sciences",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "This review article summarizes the recent advances in the diagnostic studies of autism spectrum disorders (ASDs) considering some of the most influential research articles from the last two decades. ASD is a heterogeneous neurodevelopmental disorder characterized by abnormalities in social interaction, communication, and behavioral patterns as well as some unique strengths and differences. The current diagnosis systems are based on autism diagnostic observation schedule (ADOS) or autism diagnostic interview-revised (ADI-R), but biological markers are also important for an effective diagnosis of ASDs. The amalgamation of neuroimaging techniques, such as structural and functional magnetic resonance imaging (sMRI and fMRI), with machine-learning and deep-learning approaches helps throw new light on typical biological markers of ASDs at the early stage of life. To assess the performance of a deep neural network, we develop a light-weighted CNN model for ASD classification. The overall accuracy, precision, and F1-score of the proposed model are 99.92%, 99.93% and 99.92%, respectively. All the neuroimaging studies we have reviewed can be divided into 3 categories, viz. thickness, volume and functional connectivity-based studies. We conclude with a discussion of the major findings of considered studies and promising directions for future research in this field.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "This review article summarizes the recent advances in the diagnostic studies of autism spectrum disorders (ASDs) considering some of the most influential research articles from the last two decades. ASD is a heterogeneous neurodevelopmental disorder characterized by abnormalities in social interaction, communication, and behavioral patterns as well as some unique strengths and differences.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36633792/",
+  "mesh_terms": [
+    "Humans",
+    "Autism Spectrum Disorder",
+    "Neuroimaging",
+    "Magnetic Resonance Imaging",
+    "Autistic Disorder",
+    "Biomarkers"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Functional magnetic resonance imaging",
+    "Machine-learning",
+    "Neurodevelopmental disorder",
+    "Structural magnetic resonance imaging"
+  ],
+  "article_types": [
+    "Review",
+    "Journal Article"
+  ]
+}

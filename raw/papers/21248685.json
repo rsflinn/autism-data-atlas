@@ -1,0 +1,39 @@
+{
+  "pmid": "21248685",
+  "doi": "10.3791/2272",
+  "title": "TMS: using the theta-burst protocol to explore mechanism of plasticity in individuals with Fragile X syndrome and autism",
+  "authors": "Oberman LM, Horvath JC, Pascual-Leone A",
+  "journal": "Journal of visualized experiments : JoVE",
+  "date": "2010-12",
+  "source": "pubmed",
+  "abstract": "Fragile X Syndrome (FXS), also known as Martin-Bell Syndrome, is a genetic abnormality found on the X chromosome. Individuals suffering from FXS display abnormalities in the expression of FMR1--a protein required for typical, healthy neural development. Recent data has suggested that the loss of this protein can cause the cortex to be hyperexcitable thereby affecting overall patterns of neural plasticity. In addition, Fragile X shows a strong comorbidity with autism: in fact, 30% of children with FXS are diagnosed with autism, and 2-5% of autistic children suffer from FXS. Transcranial Magnetic Stimulation (a non-invasive neurostimulatory and neuromodulatory technique that can transiently or lastingly modulate cortical excitability via the application of localized magnetic field pulses) represents a unique method of exploring plasticity and the manifestations of FXS within affected individuals. More specifically, Theta-Burst Stimulation (TBS), a specific stimulatory protocol shown to modulate cortical plasticity for a duration up to 30 minutes after stimulation cessation in healthy populations, has already proven an efficacious tool in the exploration of abnormal plasticity. Recent studies have shown the effects of TBS last considerably longer in individuals on the autistic spectrum--up to 90 minutes. This extended effect-duration suggests an underlying abnormality in the brain's natural plasticity state in autistic individuals, similar to the hyperexcitability induced by Fragile X Syndrome. In this experiment, utilizing single-pulse motor-evoked potentials (MEPs) as our benchmark, we will explore the effects of both intermittent and continuous TBS on cortical plasticity in individuals suffering from FXS and individuals on the Autistic Spectrum.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X Syndrome (FXS), also known as Martin-Bell Syndrome, is a genetic abnormality found on the X chromosome. Individuals suffering from FXS display abnormalities in the expression of FMR1--a protein required for typical, healthy neural development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21248685/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Cerebral Cortex",
+    "Evoked Potentials, Motor",
+    "Fragile X Syndrome",
+    "Humans",
+    "Neuronal Plasticity",
+    "Transcranial Magnetic Stimulation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Video-Audio Media"
+  ]
+}

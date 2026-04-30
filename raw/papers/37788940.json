@@ -1,0 +1,48 @@
+{
+  "pmid": "37788940",
+  "doi": "10.1523/JNEUROSCI.0584-23.2023",
+  "title": "Hyperexcitability in the Olfactory Bulb and Impaired Fine Odor Discrimination in theKO Mouse Model of Fragile X Syndrome",
+  "authors": "Kuruppath P, Xue L, Pouille F, Jones ST, Schoppa NE",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2023-11",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the single most common monogenetic cause of autism spectrum disorders (ASDs) in humans. FXS is caused by loss of expression of the fragile X mental retardation protein (FMRP), an mRNA-binding protein encoded on the X chromosome involved in suppressing protein translation. Sensory processing deficits have been a major focus of studies of FXS in both humans and rodent models of FXS, but olfactory deficits remain poorly understood. Here, we conducted experiments in wild-type (WT) andknock-out (KO;) mice (males) that lack expression of the gene encoding FMRP to assess olfactory circuit and behavioral abnormalities. In patch-clamp recordings conducted in slices of the olfactory bulb, output mitral cells (MCs) inKO mice displayed greatly enhanced excitation under baseline conditions, as evidenced by a much higher rate of occurrence of spontaneous network-level events known as long-lasting depolarizations (LLDs). The higher probability of spontaneous LLDs (sLLDs), which appeared to be because of a decrease in GABAergic synaptic inhibition in glomeruli leading to more feedforward excitation, caused a reduction in the reliability of stimulation-evoked responses in MCs. In addition, in a go/no-go operant discrimination paradigm, we found thatKO mice displayed impaired discrimination of odors in difficult tasks that involved odor mixtures but not altered discrimination of monomolecular odors. We suggest that theKO-induced reduction in MC response reliability is one plausible mechanism for the impaired fine odor discrimination.Fragile X syndrome (FXS) in humans is associated with a range of debilitating deficits including aberrant sensory processing. One sensory system that has received comparatively little attention in studies in animal models of FXS is olfaction. Here, we report the first comprehensive physiological analysis of circuit defects in the olfactory bulb in the commonly-usedknock-out (KO) mouse model of FXS. Our studies indicate thatKO alters the local excitation/inhibition balance in the bulb, similar to whatKO does in other brain circuits, but through a novel mechanism that involves enhanced feedforward excitation. Furthermore,KO mice display behavioral impairments in fine odor discrimination, an effect that may be explained by changes in neural response reliability.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the single most common monogenetic cause of autism spectrum disorders (ASDs) in humans. FXS is caused by loss of expression of the fragile X mental retardation protein (FMRP), an mRNA-binding protein encoded on the X chromosome involved in suppressing protein translation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37788940/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Animals",
+    "Mice",
+    "Olfactory Bulb",
+    "Fragile X Syndrome",
+    "Mice, Knockout",
+    "Odorants",
+    "Reproducibility of Results",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Disease Models, Animal"
+  ],
+  "keywords": [
+    "autism spectrum disorders",
+    "fragile X syndrome",
+    "inhibition",
+    "mitral cell",
+    "odor discrimination",
+    "olfactory"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

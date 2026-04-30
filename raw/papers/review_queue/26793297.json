@@ -1,0 +1,58 @@
+{
+  "pmid": "26793297",
+  "doi": "10.1186/s13229-016-0074-z",
+  "title": "Effect of co-twin gender on neurodevelopmental symptoms: a twin register study",
+  "authors": "Eriksson JM, Lundstr&#xf6;m S, Lichtenstein P, Bejerot S, Eriksson E",
+  "journal": "Molecular autism",
+  "date": "2016-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) are neurodevelopmental disorders thought to have both genetic and environmental causes. It has been hypothesized that exposure to elevated levels of prenatal testosterone is associated with elevated traits of ASD and ADHD. Assuming that testosterone levels from a dizygotic male twin fetus may lead to enhanced testosterone exposure of its co-twins, we aimed to test the prenatal testosterone hypothesis by comparing same-sex with opposite-sex dizygotic twins with respect to neurodevelopmental symptoms.\n\nNeuropsychiatric traits were assessed in a population-based twin cohort from the Child and Adolescent Twin Study in Sweden (CATSS). Parental interviews were conducted for 16,312 dizygotic twins, 9 and 12&#xa0;years old, with the Autism-Tics, ADHD, and other Comorbidities inventory (A-TAC).\n\nGirls with a female co-twin had an increased risk of reaching the cut-off score for ADHD compared with girls with a male co-twin. Both boys and girls with a female co-twin displayed a larger number of traits related to attention deficit and repetitive and stereotyped behaviors than those with a male twin. In girls, this also extended to social interaction and the combined measures for ASD and ADHD, however, with small effect sizes.\n\nOur results are reverse to what would have been expected from the prenatal testosterone hypothesis but consistent with a previous study of ASD and ADHD traits in dizygotic twins. The seemingly protective effect for girls of having a twin brother may be an effect of parent report bias, but may also be an unexpected effect of sharing the intrauterine environment with a male co-twin.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD) are neurodevelopmental disorders thought to have both genetic and environmental causes. It has been hypothesized that exposure to elevated levels of prenatal testosterone is associated with elevated traits of ASD and ADHD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26793297/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Comorbidity",
+    "Diseases in Twins",
+    "Female",
+    "Follow-Up Studies",
+    "Gender Identity",
+    "Humans",
+    "Interview, Psychological",
+    "Male",
+    "Neurodevelopmental Disorders",
+    "Parents",
+    "Pregnancy",
+    "Prenatal Exposure Delayed Effects",
+    "Sex Characteristics",
+    "Stereotyped Behavior",
+    "Sweden",
+    "Testosterone",
+    "Tic Disorders",
+    "Twins, Dizygotic"
+  ],
+  "keywords": [
+    "Asperger syndrome",
+    "Attention-deficit hyperactivity disorders",
+    "Autistic disorder",
+    "Symptom assessment",
+    "Twin study"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Twin Study"
+  ]
+}

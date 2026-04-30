@@ -1,0 +1,44 @@
+{
+  "pmid": "34569897",
+  "doi": "10.1080/13854046.2021.1980111",
+  "title": "Neuropsychological and ASD phenotypes in rare genetic syndromes: A critical review of the literature",
+  "authors": "Bush L, Scott MN",
+  "journal": "The Clinical neuropsychologist",
+  "date": "2021-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition characterized by core deficits in social communication and restricted and repetitive behaviors and interests. Recent advances in clinical genetics have improved our understanding of genetic syndromes associated with ASD, which has helped clarify distinct etiologies of ASD and document syndrome-specific profiles of neurocognitive strengths and weaknesses. Pediatric neuropsychologists have the potential to be impactful members of the care team for children with genetic syndromes and their families.\n\nWe provide a critical review of the current literature related to the neuropsychological profiles of children with four genetic syndromes associated with ASD, including Tuberous Sclerosis Complex (TSC), fragile X syndrome (FXS), 22q11.2 deletion syndrome, and Angelman syndrome. Recommendations for assessment, intervention, and future directions are provided.\n\nThere is vast heterogeneity in terms of the cognitive, language, and developmental abilities of these populations. The within- and across-syndrome variability characteristic of genetic syndromes should be carefully considered during clinical evaluations, including possible measurement limitations, presence of intellectual disability, and important qualitative differences in the ASD-phenotypes across groups.\n\nIndividuals with genetic disorders pose challenging diagnostic and assessment questions. Pediatric neuropsychologists with expertise in neurodevelopmental processes are well suited to address these questions and identify profiles of neurocognitive strengths and weaknesses, tailor individualized recommendations, and provide diagnostic clarification.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurodevelopmental condition characterized by core deficits in social communication and restricted and repetitive behaviors and interests. Recent advances in clinical genetics have improved our understanding of genetic syndromes associated with ASD, which has helped clarify distinct etiologies of ASD and document syndrome-specific profiles of neurocognitive strengths and weaknesses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34569897/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child",
+    "Fragile X Syndrome",
+    "Humans",
+    "Intellectual Disability",
+    "Neuropsychological Tests",
+    "Phenotype"
+  ],
+  "keywords": [
+    "22q11.2 deletion syndrome",
+    "Angelman syndrome",
+    "Genetic syndromes",
+    "Tuberous Sclerosis Complex",
+    "autism spectrum disorder",
+    "fragile X syndrome"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

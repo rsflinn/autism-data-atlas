@@ -1,0 +1,43 @@
+{
+  "pmid": "26749307",
+  "doi": "10.1016/j.ajhg.2015.11.017",
+  "title": "Maternal Modifiers and Parent-of-Origin Bias of the Autism-Associated 16p11.2 CNV",
+  "authors": "Duyzend MH, Nuttle X, Coe BP, Baker C, Nickerson DA, Bernier R, et al.",
+  "journal": "American journal of human genetics",
+  "date": "2015-12",
+  "source": "pubmed",
+  "abstract": "Recurrent deletions and duplications at chromosomal region 16p11.2 are a major genetic contributor to autism but also associate with a wider range of pediatric diagnoses, including intellectual disability, coordination disorder, and language disorder. In order to investigate the potential genetic basis for phenotype variability, we assessed the parent of origin of the 16p11.2 copy-number variant (CNV) and the presence of additional CNVs in 126 families for which detailed phenotype data were available. Among de novo cases, we found a strong maternal bias for the origin of deletions (59/66, 89.4% of cases, p = 2.38&#xa0;&#xd7; 10(-11)), the strongest such effect so far observed for a CNV associated with a microdeletion syndrome. In contrast to de novo events, we observed no transmission bias for inherited 16p11.2 CNVs, consistent with a female meiotic hotspot of unequal crossover driving this maternal bias. We analyzed this 16p11.2 CNV cohort for the presence of secondary CNVs and found a significant maternal transmission bias for secondary deletions (32 maternal versus 14 paternal, p = 1.14&#xa0;&#xd7; 10(-2)). Of the secondary deletions that disrupted a gene, 82% were either maternally inherited or de novo (p = 4.3&#xa0;&#xd7; 10(-3)). Nine probands carry secondary CNVs that disrupt genes associated with autism and/or intellectual disability risk variants. Our findings demonstrate a strong bias toward maternal origin of 16p11.2 de novo deletions as well as a maternal transmission bias for secondary deletions that contribute to the clinical outcome on a background sensitized by the 16p11.2 CNV.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Recurrent deletions and duplications at chromosomal region 16p11.2 are a major genetic contributor to autism but also associate with a wider range of pediatric diagnoses, including intellectual disability, coordination disorder, and language disorder. In order to investigate the potential genetic basis for phenotype variability, we assessed the parent of origin of the 16p11.2 copy-number variant (CNV) and the presence of additional CNVs in 126 families for which detailed phenotype data were avai",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26749307/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Chromosomes, Human, Pair 16",
+    "Cohort Studies",
+    "Crossing Over, Genetic",
+    "DNA Copy Number Variations",
+    "Female",
+    "Genomic Imprinting",
+    "Humans",
+    "Male",
+    "Polymorphism, Single Nucleotide",
+    "Recombination, Genetic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ]
+}

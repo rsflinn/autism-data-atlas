@@ -1,0 +1,49 @@
+{
+  "pmid": "38199865",
+  "doi": "10.1523/JNEUROSCI.1078-23.2023",
+  "title": "Multidimensional Analysis of a Social Behavior Identifies Regression and Phenotypic Heterogeneity in a Female Mouse Model for Rett Syndrome",
+  "authors": "Mykins M, Bridges B, Jo A, Krishnan K",
+  "journal": "The Journal of neuroscience : the official journal of the Society for Neuroscience",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Regression is a key feature of neurodevelopmental disorders such as autism spectrum disorder, Fragile X syndrome, and Rett syndrome (RTT). RTT is caused by mutations in the X-linked gene methyl-CpG-binding protein 2 (). It is characterized by an early period of typical development with subsequent regression of previously acquired motor and speech skills in girls. The syndromic phenotypes are individualistic and dynamic over time. Thus far, it has been difficult to capture these dynamics and syndromic heterogeneity in the preclinical-heterozygous female mouse model (Het). The emergence of computational neuroethology tools allows for robust analysis of complex and dynamic behaviors to model endophenotypes in preclinical models. Toward this first step, we utilized DeepLabCut, a marker-less pose estimation software to quantify trajectory kinematics and multidimensional analysis to characterize behavioral heterogeneity in Het in the previously benchmarked, ethologically relevant social cognition task of pup retrieval. We report the identification of two distinct phenotypes of adult Het: Het that display a delay in efficiency in early days and then improve over days like wild-type mice and Het that regress and perform worse in later days. Furthermore, regression is dependent on age and behavioral context and can be detected in the initial days of retrieval. Together, the novel identification of two populations of Het suggests differential effects on neural circuitry, opens new avenues to investigate the underlying molecular and cellular mechanisms of heterogeneity, and designs better studies for stratifying therapeutics.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 8,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Regression is a key feature of neurodevelopmental disorders such as autism spectrum disorder, Fragile X syndrome, and Rett syndrome (RTT). RTT is caused by mutations in the X-linked gene methyl-CpG-binding protein 2 ().",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38199865/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Animals",
+    "Mice",
+    "Rett Syndrome",
+    "Autism Spectrum Disorder",
+    "Methyl-CpG-Binding Protein 2",
+    "Phenotype",
+    "Mutation",
+    "Social Behavior",
+    "Disease Models, Animal"
+  ],
+  "keywords": [
+    "Rett syndrome",
+    "behavioral heterogeneity",
+    "female mice",
+    "pose estimation",
+    "pup retrieval",
+    "regression"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

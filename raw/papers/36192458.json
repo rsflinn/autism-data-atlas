@@ -1,0 +1,39 @@
+{
+  "pmid": "36192458",
+  "doi": "10.1038/s41380-022-01783-5",
+  "title": "A genetics-first approach to understanding autism and schizophrenia spectrum disorders: the 22q11.2 deletion syndrome",
+  "authors": "Fiksinski AM, Hoftman GD, Vorstman JAS, Bearden CE",
+  "journal": "Molecular psychiatry",
+  "date": "2022-10",
+  "source": "pubmed",
+  "abstract": "Recently, increasing numbers of rare pathogenic genetic variants have been identified that are associated with variably elevated risks of a range of neurodevelopmental outcomes, notably including Autism Spectrum Disorders (ASD), Schizophrenia Spectrum Disorders (SSD), and Intellectual Disability (ID). This review is organized along three main questions: First, how can we unify the exclusively descriptive basis of our current psychiatric diagnostic classification system with the recognition of an identifiable, highly penetrant genetic risk factor in an increasing proportion of patients with ASD or SSD? Second, what can be learned from studies of individuals with ASD or SSD who share a common genetic basis? And third, what accounts for the observed variable penetrance and pleiotropy of neuropsychiatric phenotypes in individuals with the same pathogenic variant? In this review, we focus on findings of clinical and preclinical studies of the 22q11.2 deletion syndrome (22q11DS). This particular variant is not only one of the most common among the increasing list of known rare pathogenic variants, but also one that benefits from a relatively long research history. Consequently, 22q11DS is an appealing model as it allows us to: (1) elucidate specific genotype-phenotype associations, (2) prospectively study behaviorally defined classifications, such as ASD or SSD, in the context of a known, well-characterized genetic basis, and (3) elucidate mechanisms underpinning variable penetrance and pleiotropy, phenomena with far-reaching ramifications for research and clinical practice. We discuss how findings from animal and in vitro studies relate to observations in human studies and can help elucidate factors, including genetic, environmental, and stochastic, that impact the expression of neuropsychiatric phenotypes in 22q11DS, and how this may inform mechanisms underlying neurodevelopmental expression in the general population. We conclude with research priorities for the field, which may pave the way for novel therapeutics.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Recently, increasing numbers of rare pathogenic genetic variants have been identified that are associated with variably elevated risks of a range of neurodevelopmental outcomes, notably including Autism Spectrum Disorders (ASD), Schizophrenia Spectrum Disorders (SSD), and Intellectual Disability (ID). This review is organized along three main questions: First, how can we unify the exclusively descriptive basis of our current psychiatric diagnostic classification system with the recognition of an",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36192458/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "DiGeorge Syndrome",
+    "Schizophrenia",
+    "Autistic Disorder",
+    "Autism Spectrum Disorder",
+    "Phenotype"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

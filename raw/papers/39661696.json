@@ -1,0 +1,49 @@
+{
+  "pmid": "39661696",
+  "doi": "10.1002/advs.202410728",
+  "title": "Neuroligin 1 Regulates Autistic-Like Repetitive Behavior through Modulating the Activity of Striatal D2 Receptor-Expressing Medium Spiny Neurons",
+  "authors": "Lv D, Liu A, Yi Z, Mu M, Wu M, Li X, et al.",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "date": "2024-12",
+  "source": "pubmed",
+  "abstract": "Restricted and repetitive behavior (RRB) is a primary symptom of autism spectrum disorder (ASD), which poses a significant risk to individuals' health and is becoming increasingly prevalent. However, the specific cellular and neural circuit mechanisms underlying the generation of RRB remain unclear. In this study, it is reported that the absence of the ASD-related protein Neuroligin 1 (NLGN1) in dopamine receptor D2-expressing medium spiny neurons (D2-MSNs) in the dorsal striatum is associated with the duration and frequency of self-grooming and digging behaviors. The Nlgn1-deficient D2-MSNs are hyperactivated, which correlates with excessive self-grooming and digging behaviors. Inhibiting the activity of D2-MSNs reduces the duration and frequency of these RRBs. Furthermore, it is demonstrated that the generation of self-grooming and digging behaviors depends on distinct patterns of D2-MSN activity. Finally, through single-nucleus RNA sequencing (sn-RNAseq) and protein detection verification, it is revealed that the overactivation of protein kinase C (PKC) in Nlgn1-deficient mice contributes to excessive repetitive behaviors and increased neuronal excitability. In this study, potential mechanisms are proposed for the generation of self-grooming and digging behaviors, as well as suggest possible treatments and interventions ASD.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Restricted and repetitive behavior (RRB) is a primary symptom of autism spectrum disorder (ASD), which poses a significant risk to individuals' health and is becoming increasingly prevalent. However, the specific cellular and neural circuit mechanisms underlying the generation of RRB remain unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39661696/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Cell Adhesion Molecules, Neuronal",
+    "Receptors, Dopamine D2",
+    "Neurons",
+    "Corpus Striatum",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Behavior, Animal",
+    "Disease Models, Animal",
+    "Autistic Disorder",
+    "Medium Spiny Neurons"
+  ],
+  "keywords": [
+    "Autism Spectrum Disorder (ASD)",
+    "D2&#x2010;MSN",
+    "neuroligin1",
+    "restricted and repetitive behavior (RRB)",
+    "striatum"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

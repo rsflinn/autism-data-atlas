@@ -1,0 +1,45 @@
+{
+  "pmid": "39234786",
+  "doi": "10.1089/tmj.2024.0355",
+  "title": "A Qualitative Evidence Synthesis of Patient and Provider Attitudes Toward Audio-Only Telemental Health Care",
+  "authors": "Connolly SL, Adusumelli Y, Azario RP, Ferris SD, Hwang AR, Miller CJ",
+  "journal": "Telemedicine journal and e-health : the official journal of the American Telemedicine Association",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Audio-only (phone) telemental health care can increase access to care, but its lack of nonverbal information may negatively impact care quality as compared to video or in-person visits. The objective of this work was to understand patient and provider attitudes toward phone care via a review of qualitative research.A qualitative evidence synthesis was conducted of peer-reviewed qualitative research published between 2013 and 2023. Studies were required to include qualitative data regarding patient and/or provider attitudes toward audio-only telemental health care. Results pertinent to phone care were extracted and underwent coding followed by theme identification.We identified 2,065 abstracts and 29 articles were ultimately included in the synthesis; 27 of these studies were conducted during the COVID-19 pandemic. Five themes described benefits of phone care, nine described drawbacks, and three themes were neutral. Phone care was seen as easy to use, particularly for briefer check-ins or as a back-up option if video calls failed, and some patients preferred the privacy of not being seen. However, the loss of visual information during phone visits was considered particularly challenging in the treatment of more complex or severe patients; providers questioned whether they were able to provide high quality care, and patients reported feeling less supported and understood by their providers.The relative benefits and drawbacks of audio-only telemental health care must be carefully weighed against the options of video or in-person treatment based on patient needs and severity. Future work should continue to examine patient and provider attitudes toward phone care as the mental health landscape evolves postpandemic.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Audio-only (phone) telemental health care can increase access to care, but its lack of nonverbal information may negatively impact care quality as compared to video or in-person visits. The objective of this work was to understand patient and provider attitudes toward phone care via a review of qualitative research.A qualitative evidence synthesis was conducted of peer-reviewed qualitative research published between 2013 and 2023.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39234786/",
+  "mesh_terms": [
+    "Humans",
+    "Telemedicine",
+    "COVID-19",
+    "Attitude of Health Personnel",
+    "Qualitative Research",
+    "SARS-CoV-2",
+    "Telephone",
+    "Mental Health Teletherapy"
+  ],
+  "keywords": [
+    "audio-only",
+    "mental health",
+    "phone",
+    "qualitative",
+    "telehealth",
+    "telemedicine"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "35918397",
+  "doi": "10.1038/s41380-022-01702-8",
+  "title": "Key role of Rho GTPases in motor disorders associated with neurodevelopmental pathologies",
+  "authors": "Bloch-Gallego E, Anderson DI",
+  "journal": "Molecular psychiatry",
+  "date": "2022-08",
+  "source": "pubmed",
+  "abstract": "Growing evidence suggests that Rho GTPases and molecules involved in their signaling pathways play a major role in the development of the central nervous system (CNS). Whole exome sequencing (WES) and de novo examination of mutations, including SNP (Single Nucleotide Polymorphism) in genes coding for the molecules of their signaling cascade, has allowed the recent discovery of dominant autosomic mutations and duplication or deletion of candidates in the field of neurodevelopmental diseases (NDD). Epidemiological studies show that the co-occurrence of several of these neurological pathologies may indeed be the rule. The regulators of Rho GTPases have often been considered for cognitive diseases such as intellectual disability (ID) and autism. But, in a remarkable way, mild to severe motor symptoms are now reported in autism and other cognitive NDD. Although a more abundant litterature reports the involvement of Rho GTPases and signaling partners in cognitive development, molecular investigations on their roles in central nervous system (CNS) development or degenerative CNS pathologies also reveal their role in embryonic and perinatal motor wiring through axon guidance and later in synaptic plasticity. Thus, Rho family small GTPases have been revealed to play a key role in brain functions including learning and memory but their precise role in motor development and associated symptoms in NDD has been poorly scoped so far, despite increasing clinical data highlighting the links between cognition and motor development. Indeed, early impairements in fine or gross motor performance is often an associated feature of NDDs, which then impact social communication, cognition, emotion, and behavior. We review here recent insights derived from clinical developmental neurobiology in the field of Rho GTPases and NDD (autism spectrum related disorder (ASD), ID, schizophrenia, hypotonia, spastic paraplegia, bipolar disorder and dyslexia), with a specific focus on genetic alterations affecting Rho GTPases that are involved in motor circuit development.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [],
+  "summary": "Growing evidence suggests that Rho GTPases and molecules involved in their signaling pathways play a major role in the development of the central nervous system (CNS). Whole exome sequencing (WES) and de novo examination of mutations, including SNP (Single Nucleotide Polymorphism) in genes coding for the molecules of their signaling cascade, has allowed the recent discovery of dominant autosomic mutations and duplication or deletion of candidates in the field of neurodevelopmental diseases (NDD)",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35918397/",
+  "mesh_terms": [
+    "Humans",
+    "Motor Disorders",
+    "rho GTP-Binding Proteins",
+    "Neurodevelopmental Disorders",
+    "Intellectual Disability",
+    "Autistic Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

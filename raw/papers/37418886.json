@@ -1,0 +1,44 @@
+{
+  "pmid": "37418886",
+  "doi": "10.1016/j.jpsychires.2023.06.029",
+  "title": "The association between polygenic risk scores for mental disorders and social cognition: A scoping review",
+  "authors": "Fusar-Poli L, Rodolico A, Martinez M, Fichera C, Lin BD, Basadonne I, et al.",
+  "journal": "Journal of psychiatric research",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "People with mental disorders, such as psychosis or autism spectrum disorder (ASD), often present impairments in social cognition (SC), which may cause significant difficulties in real-world functioning. SC deficits are seen also in unaffected relatives, indicating a genetic substratum. The present review evaluated the evidence on the association between SC and the polygenic risk score (PRS), a single metric of the molecular genetic risk to develop a specific disorder. In July 2022, we conducted systematic searches in Scopus and PubMed following the PRISMA-ScR guidelines. We selected original articles written in English reporting results on the association between PRSs for any mental disorder and domains of SC either in people with mental disorders or controls. The search yielded 244 papers, of which 13 were selected for inclusion. Studies tested mainly PRSs for schizophrenia, ASD, and attention-deficit hyperactivity disorder. Emotion recognition was the most investigated domain of SC. Overall, evidence revealed that currently available PRSs for mental disorders do not explain variation in SC performances. To enhance the understanding of mechanisms underlying SC in mental disorders, future research should focus on the development of transdiagnostic PRSs, study their interaction with environmental risk factors, and standardize outcome measurement.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "People with mental disorders, such as psychosis or autism spectrum disorder (ASD), often present impairments in social cognition (SC), which may cause significant difficulties in real-world functioning. SC deficits are seen also in unaffected relatives, indicating a genetic substratum.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37418886/",
+  "mesh_terms": [
+    "Humans",
+    "Social Cognition",
+    "Autism Spectrum Disorder",
+    "Psychotic Disorders",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "Autistic disorder",
+    "Emotions",
+    "Environment",
+    "Genetics",
+    "Psychotic disorders",
+    "Theory of mind"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Scoping Review"
+  ]
+}

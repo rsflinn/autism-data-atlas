@@ -1,0 +1,40 @@
+{
+  "pmid": "22555366",
+  "doi": "10.1007/s10803-012-1543-7",
+  "title": "A common susceptibility factor of both autism and epilepsy: functional deficiency of GABA A receptors",
+  "authors": "Kang JQ, Barnes G",
+  "journal": "Journal of autism and developmental disorders",
+  "date": "2013-01",
+  "source": "pubmed",
+  "abstract": "Autism and epilepsy are common childhood neurological disorders with a great heterogeneity of clinical phenotypes as well as risk factors. There is a high co-morbidity of autism and epilepsy. The neuropathology of autism and epilepsy has similar histology implicating the processes of neurogenesis, neural migration, programmed cell death, and neurite outgrowth. Genetic advances have identified multiple molecules that participate in neural development, brain network connectivity, and synaptic function which are involved in the pathogenesis of autism and epilepsy. Mutations in GABA(A) receptor subunit have been frequently associated with epilepsy, autism, and other neuropsychiatric disorders. In this paper, we address the hypothesis that functional deficiency of GABAergic signaling is a potential common molecular mechanism underpinning the co-morbidity of autism and epilepsy.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism and epilepsy are common childhood neurological disorders with a great heterogeneity of clinical phenotypes as well as risk factors. There is a high co-morbidity of autism and epilepsy.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22555366/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Brain",
+    "Comorbidity",
+    "Epilepsy",
+    "Humans",
+    "Mice",
+    "Mice, Knockout",
+    "Polymorphism, Genetic",
+    "Receptors, GABA-A"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "30281617",
+  "doi": "10.1371/journal.pone.0203760",
+  "title": "Neurodevelopmental disorder-associated ZBTB20 gene variants affect dendritic and synaptic structure",
+  "authors": "Jones KA, Luo Y, Dukes-Rimsky L, Srivastava DP, Koul-Tewari R, Russell TA, et al.",
+  "journal": "PloS one",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "Dendritic spine morphology and dendritic arborization are key determinants of neuronal connectivity and play critical roles in learning, memory and behavior function. Recently, defects of ZBTB20, a BTB and zinc finger domain containing transcriptional repressor, have been implicated in a wide range of neurodevelopmental disorders, including intellectual disability and autism. Here we show distinct effects of expression of two major isoforms, long and short, of ZBTB20, and its neurodevelopmental disorder-linked variants, on dendritic architecture of cultured rat cortical pyramidal neurons. The N-terminal of ZBTB20 showed a role in regulating dendritic spine morphology. Two ZBTB20 single nucleotide variants, located at the N-terminal and central regions of the protein and potentially conferring autism risk, altered dendritic spine morphology. In contrast, a single nucleotide variant identified in patients with intellectual disability and located at the C-terminus of ZBTB20 affected dendritic arborization and dendritic length but had no effect on dendritic spine morphology. Furthermore, truncation of the extreme C-terminus of ZBTB20 caused spine and dendritic morphological changes that were similar but distinct from those caused by the C-terminal variant. Taken together, our study suggests ZBTB20's role in dendritic and synaptic structure and provide possible mechanisms of its effect in neurodevelopmental disorders.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Dendritic spine morphology and dendritic arborization are key determinants of neuronal connectivity and play critical roles in learning, memory and behavior function. Recently, defects of ZBTB20, a BTB and zinc finger domain containing transcriptional repressor, have been implicated in a wide range of neurodevelopmental disorders, including intellectual disability and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30281617/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Dendrites",
+    "Disease Models, Animal",
+    "Gene Expression Regulation",
+    "Hippocampus",
+    "Humans",
+    "Intellectual Disability",
+    "Nerve Tissue Proteins",
+    "Neurodevelopmental Disorders",
+    "Protein Isoforms",
+    "Pyramidal Cells",
+    "Rats",
+    "Synapses",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

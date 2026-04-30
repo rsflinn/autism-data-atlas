@@ -1,0 +1,44 @@
+{
+  "pmid": "36822569",
+  "doi": "10.1016/j.ejmg.2023.104732",
+  "title": "Dissecting the 22q13 region to explore the genetic and phenotypic diversity of patients with Phelan-McDermid syndrome",
+  "authors": "Vitrac A, Leblond CS, Rolland T, Cliquet F, Mathieu A, Maruani A, et al.",
+  "journal": "European journal of medical genetics",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "SHANK3-related Phelan-McDermid syndrome (PMS) is caused by a loss of the distal part of chromosome 22, including SHANK3, or by a pathological SHANK3 variant. There is an important genetic and phenotypic diversity among patients who can present with developmental delay, language impairments, autism, epilepsy, and other symptoms. SHANK3, encoding a synaptic scaffolding protein, is deleted in the majority of patients with PMS and is considered a major gene involved in the neurological impairments of the patients. However, differences in deletion size can influence clinical features, and in some rare cases, deletions at the 22q13 locus in individuals with SHANK3-unrelated PMS do not encompass SHANK3. These individuals with SHANK3-unrelated PMS still display a PMS-like phenotype. This suggests the participation of other 22q13 genes in the pathogenesis of PMS. Here, we review the biological function and potential implication in PMS symptoms of 110 genes located in the 22q13 region, focusing on 35 genes with evidence for association with neurodevelopmental disorders, including 13 genes for epilepsy and 11 genes for microcephaly and/or macrocephaly. Our review is restricted to the 22q13 region, but future large-scale studies using whole genome sequencing and deep-phenotyping are warranted to develop predictive models of clinical trajectories and to target specific medical and educational care for each individual with PMS.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "SHANK3-related Phelan-McDermid syndrome (PMS) is caused by a loss of the distal part of chromosome 22, including SHANK3, or by a pathological SHANK3 variant. There is an important genetic and phenotypic diversity among patients who can present with developmental delay, language impairments, autism, epilepsy, and other symptoms.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36822569/",
+  "mesh_terms": [
+    "Humans",
+    "Chromosome Disorders",
+    "Chromosome Deletion",
+    "Chromosomes, Human, Pair 22",
+    "Phenotype"
+  ],
+  "keywords": [
+    "Autism",
+    "Brain development",
+    "Epilepsy",
+    "Neurodevelopmental disorders",
+    "Phelan-McDermid syndrome",
+    "SHANK3"
+  ],
+  "article_types": [
+    "Review",
+    "Journal Article"
+  ]
+}

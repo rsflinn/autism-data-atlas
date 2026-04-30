@@ -1,0 +1,50 @@
+{
+  "pmid": "39256359",
+  "doi": "10.1038/s41467-024-52095-x",
+  "title": "Variants in LRRC7 lead to intellectual disability, autism, aggression and abnormal eating behaviors",
+  "authors": "Willim J, Woike D, Greene D, Das S, Pfeifer K, Yuan W, et al.",
+  "journal": "Nature communications",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Members of the leucine rich repeat (LRR) and PDZ domain (LAP) protein family are essential for animal development and histogenesis. Densin-180, encoded by LRRC7, is the only LAP protein selectively expressed in neurons. Densin-180 is a postsynaptic scaffold at glutamatergic synapses, linking cytoskeletal elements with signalling proteins such as the &#x3b1;-subunit of Ca/calmodulin-dependent protein kinase II. We have previously observed an association between high impact variants in LRRC7 and Intellectual Disability; also three individual cases with variants in LRRC7 had been described. We identify here 33 individuals (one of them previously described) with a dominant neurodevelopmental disorder due to heterozygous missense or loss-of-function variants in LRRC7. The clinical spectrum involves intellectual disability, autism, ADHD, aggression and, in several cases, hyperphagia-associated obesity. A PDZ domain variant interferes with synaptic targeting of Densin-180 in primary cultured neurons. Using in vitro systems (two hybrid, BioID, coimmunoprecipitation of tagged proteins from 293T cells) we identified new candidate interaction partners for the LRR domain, including protein phosphatase 1 (PP1), and observed that variants in the LRR reduced binding to these proteins. We conclude that LRRC7 encodes a major determinant of intellectual development and behaviour.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Members of the leucine rich repeat (LRR) and PDZ domain (LAP) protein family are essential for animal development and histogenesis. Densin-180, encoded by LRRC7, is the only LAP protein selectively expressed in neurons.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39256359/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Animals",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Male",
+    "Young Adult",
+    "Aggression",
+    "Autistic Disorder",
+    "HEK293 Cells",
+    "Intellectual Disability",
+    "Membrane Proteins",
+    "Nerve Tissue Proteins",
+    "Neurons",
+    "PDZ Domains",
+    "Synapses",
+    "Sialoglycoproteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

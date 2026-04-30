@@ -1,0 +1,45 @@
+{
+  "pmid": "31134525",
+  "doi": "10.1007/s13238-019-0638-8",
+  "title": "Modeling neuropsychiatric disorders using human induced pluripotent stem cells",
+  "authors": "Wang M, Zhang L, Gage FH",
+  "journal": "Protein & cell",
+  "date": "2019-05",
+  "source": "pubmed",
+  "abstract": "Neuropsychiatric disorders are complex disorders characterized by heterogeneous genetic variations, variable symptoms, and widespread changes in anatomical pathology. In the context of neuropsychiatric disorders, limited access to relevant tissue types presents challenges for understanding disease etiology and developing effective treatments. Induced pluripotent stem cells (iPSCs) reprogrammed from patient somatic cells offer an opportunity to recapitulate disease development in relevant cell types, and they provide novel approaches for understanding disease mechanisms and for development of effective treatments. Here we review recent progress and challenges in differentiation paradigms for generating disease-relevant cells and recent studies of neuropsychiatric disorders using human pluripotent stem cell (hPSC) models where cellular phenotypes linked to disease have been reported. The use of iPSC-based disease models holds great promise for understanding disease mechanisms and supporting discovery of effective treatments.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Neuropsychiatric disorders are complex disorders characterized by heterogeneous genetic variations, variable symptoms, and widespread changes in anatomical pathology. In the context of neuropsychiatric disorders, limited access to relevant tissue types presents challenges for understanding disease etiology and developing effective treatments.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31134525/",
+  "mesh_terms": [
+    "Brain",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Mental Disorders",
+    "Models, Biological",
+    "Organoids"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "bipolar disorder",
+    "brain organoid",
+    "iPSCs",
+    "neuropsychiatric disorders",
+    "schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

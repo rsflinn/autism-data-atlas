@@ -1,0 +1,52 @@
+{
+  "pmid": "32152250",
+  "doi": "10.1136/jmedgenet-2019-106470",
+  "title": "Pathogenic variants incause a genetic disorder characterised by developmental delay/intellectual disability and a spectrum of neurobehavioural phenotypes including autism and ADHD",
+  "authors": "Granadillo JL, P A Stegmann A, Guo H, Xia K, Angle B, Bontempo K, et al.",
+  "journal": "Journal of medical genetics",
+  "date": "2020-03",
+  "source": "pubmed",
+  "abstract": "Rare variants in hundreds of genes have been implicated in developmental delay (DD), intellectual disability (ID) and neurobehavioural phenotypes.encodes a protein important for RNA silencing. Heterozygous truncating variants have been reported in three patients from large cohorts with autism, but no full phenotypic characterisation was described.\n\nClinical and molecular characterisation was performed on 17 patients withvariants. Clinical data were obtained by retrospective chart review, parent interviews, direct patient interaction with providers and formal neuropsychological evaluation.\n\nClinical findings included DD/ID (17/17) (speech delay in 94% (16/17), fine motor delay in 82% (14/17) and gross motor delay in 71% (12/17) of subjects), autism or autistic traits (13/17), attention deficit and hyperactivity disorder (ADHD) (11/17), other behavioural problems (7/17) and musculoskeletal findings (12/17). Other congenital malformations or clinical findings were occasionally documented. The majority of patients exhibited some dysmorphic features but no recognisable gestalt was identified. 17 heterozygousvariants were identified in 12 male and five female unrelated subjects by exome sequencing (14), a targeted panel (2) and a chromosomal microarray (1). The variants were nonsense (7), frameshift (5), splice site (2), intragenic deletions (2) and missense (1).\n\nVariants incause a novel genetic disorder characterised by recurrent neurocognitive and behavioural phenotypes featuring DD/ID, autism, ADHD and other behavioural abnormalities. Our data highly suggest that haploinsufficiency is the most likely pathogenic mechanism.should be added to the growing list of genes of the RNA-induced silencing complex associated with ID/DD, autism and ADHD.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Rare variants in hundreds of genes have been implicated in developmental delay (DD), intellectual disability (ID) and neurobehavioural phenotypes.encodes a protein important for RNA silencing. Heterozygous truncating variants have been reported in three patients from large cohorts with autism, but no full phenotypic characterisation was described.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32152250/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autistic Disorder",
+    "Child",
+    "Child, Preschool",
+    "Developmental Disabilities",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Heterozygote",
+    "Humans",
+    "Intellectual Disability",
+    "Language Development Disorders",
+    "Male",
+    "Motor Skills Disorders",
+    "Mutation",
+    "Phenotype",
+    "RNA-Binding Proteins",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "ADHD",
+    "De novo",
+    "autism",
+    "autosomal dominant",
+    "developmental delay"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

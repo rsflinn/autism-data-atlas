@@ -1,0 +1,49 @@
+{
+  "pmid": "37052107",
+  "doi": "10.1080/20008066.2023.2181766",
+  "title": "The long-term impact of early adverse experience on adaptive functioning: a pilot study integrating measures of mental status, nonverbal communication, and heart rate variability",
+  "authors": "Bussone S, Pesca C, Casetti V, Croce Nanni R, Ottaviani C, Troisi A, et al.",
+  "journal": "European journal of psychotraumatology",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "Childhood maltreatment (CM) can disrupt the development of behavioural and physiological systems, increasing the risk of physical and psychological adverse outcomes across the lifespan. CM may cause interpersonal dysfunctions that impair social communication and lead to dysfunctional activation of the autonomic nervous system. The present exploratory study analyzed the long-term impact of CM from an integrated perspective through the simultaneous assessment of psychological symptoms, social and behavioural communication, and physiological regulation.Participants were 55 healthy university students (9 males and 46 females; mean age&#x2009;&#xb1;&#x2009;SD&#x2009;=&#x2009;25.26&#x2009;&#xb1;&#x2009;2.83 years), who filled out a battery of questionnaires to assess the presence of CM (Childhood Trauma Questionnaire) and psychopathological symptoms (Symptom Check-List-90 Item Revised). Participants were then subjected to a videotaped interview for the assessment of non-verbal behaviour (Ethological Coding System for Interviews) and measurement of tonic heart rate variability (HRV), a measure of physiological adaptability to the environment. We performed Pearson's correlation analysis to evaluate the associations between non-verbal behaviour, HRV, and CM variables. Multiple regression analysis was used to evaluate the independent associations between CM variables on HRV and nonverbal behaviour.We found an association between more severe CM, increased symptoms-related distress (&#x2009;<&#x2009;.001), less submissive behaviour (&#x2009;<&#x2009;.018), and decreased tonic HRV (&#x2009;<&#x2009;.028). As a result of multiple regression analysis, participants with a history of emotional abuse (&#x2009;=&#x2009;.18,&#x2009;=&#x2009;.002) and neglect (&#x2009;=&#x2009;.10,&#x2009;=&#x2009;.03) were more likely to display decreased submissive behaviour during the dyadic interview. Moreover, early experience of emotional (&#x2009;=&#x2009;.21,&#x2009;=&#x2009;.005) and sexual abuse (&#x2009;=&#x2009;.14,&#x2009;=&#x2009;.04) was associated with decreased tonic HRV.Our preliminary findings show the utility of analyzing the long-term effects of adverse early experiences at different levels of 'adaptive functioning' (the capabilities needed to respond effectively to environmental demands).",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Childhood maltreatment (CM) can disrupt the development of behavioural and physiological systems, increasing the risk of physical and psychological adverse outcomes across the lifespan. CM may cause interpersonal dysfunctions that impair social communication and lead to dysfunctional activation of the autonomic nervous system.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37052107/",
+  "mesh_terms": [
+    "Male",
+    "Child",
+    "Female",
+    "Humans",
+    "Child Abuse",
+    "Heart Rate",
+    "Pilot Projects",
+    "Emotions",
+    "Nonverbal Communication"
+  ],
+  "keywords": [
+    "Comunicaci&#xf3;n no verbal",
+    "Early-life stress",
+    "Estr&#xe9;s en la vida temprana",
+    "Variabilidad del ritmo card&#xed;aco",
+    "heart rate variability",
+    "nonverbal communication",
+    "&#x5fc3;&#x7387;&#x53d8;&#x5f02;&#x6027;",
+    "&#x65e9;&#x5e74;&#x751f;&#x6d3b;&#x538b;&#x529b;",
+    "&#x975e;&#x53e3;&#x5934;&#x4ea4;&#x6d41;"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "21285144",
+  "doi": "10.1176/appi.ajp.2010.10091340",
+  "title": "After GWAS: searching for genetic risk for schizophrenia and bipolar disorder",
+  "authors": "Gershon ES, Alliey-Rodriguez N, Liu C",
+  "journal": "The American journal of psychiatry",
+  "date": "2011-02",
+  "source": "pubmed",
+  "abstract": "Ten years ago it was widely expected that the genetic basis of common disease would be resolved by genome-wide association studies (GWAS), large-scale studies in which the entire genome is covered by genetic markers. However, the bulk of heritable variance remains unexplained. The authors consider several alternative research strategies. For instance, whereas it has been hypothesized that a common disease is associated primarily with common genetic variants, it is now plausible that multiple rare variants each have a potent effect on disease risk and that they could accumulate to become a substantial component of common disease risk. This idea has become more appealing since the discovery that copy number variants (CNVs) are a substantial source of human mutations and are associated with multiple common diseases. CNVs are structural genomic variants consisting of microinsertions, microdeletions, and transpositions in the human genome. It has been argued that numerous rare CNVs are plausible causes of a substantial proportion of common disease, and rare CNVs have been found to be potent risk factors in schizophrenia and autism. Another approach is to \"parse the genome,\" i.e., reanalyze subsets of current GWAS data, since the noise inherent in genome-wide approaches may be hiding valid associations. Lastly, technological advances and declining costs may allow large-scale genome-wide sequencing that would comprehensively identify all genetic variants. Study groups even larger than the 10,000 subjects in current meta-analyses would be required, but the outcomes may lead to resolution of our current dilemma in common diseases: Where is the missing heritability?",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Ten years ago it was widely expected that the genetic basis of common disease would be resolved by genome-wide association studies (GWAS), large-scale studies in which the entire genome is covered by genetic markers. However, the bulk of heritable variance remains unexplained.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21285144/",
+  "mesh_terms": [
+    "Bipolar Disorder",
+    "DNA Copy Number Variations",
+    "Genetic Predisposition to Disease",
+    "Genome, Human",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Schizophrenia"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

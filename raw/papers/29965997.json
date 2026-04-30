@@ -1,0 +1,46 @@
+{
+  "pmid": "29965997",
+  "doi": "10.1371/journal.pone.0199012",
+  "title": "Complex polymorphisms in endocytosis genes suggest alpha-cyclodextrin as a treatment for breast cancer",
+  "authors": "Wittkowski KM, Dadurian C, Seybold MP, Kim HS, Hoshino A, Lyden D",
+  "journal": "PloS one",
+  "date": "2018-07",
+  "source": "pubmed",
+  "abstract": "Most breast cancer deaths are caused by metastasis and treatment options beyond radiation and cytotoxic drugs, which have severe side effects, and hormonal treatments, which are or become ineffective for many patients, are urgently needed. This study reanalyzed existing data from three genome-wide association studies (GWAS) using a novel computational biostatistics approach (muGWAS), which had been validated in studies of 600-2000 subjects in epilepsy and autism. MuGWAS jointly analyzes several neighboring single nucleotide polymorphisms while incorporating knowledge about genetics of heritable diseases into the statistical method and about GWAS into the rules for determining adaptive genome-wide significance. Results from three independent GWAS of 1000-2000 subjects each, which were made available under the National Institute of Health's \"Up For A Challenge\" (U4C) project, not only confirmed cell-cycle control and receptor/AKT signaling, but, for the first time in breast cancer GWAS, also consistently identified many genes involved in endo-/exocytosis (EEC), most of which had already been observed in functional and expression studies of breast cancer. In particular, the findings include genes that translocate (ATP8A1, ATP8B1, ANO4, ABCA1) and metabolize (AGPAT3, AGPAT4, DGKQ, LPPR1) phospholipids entering the phosphatidylinositol cycle, which controls EEC. These novel findings suggest scavenging phospholipids as a novel intervention to control local spread of cancer, packaging of exosomes (which prepare distant microenvironment for organ-specific metastases), and endocytosis of &#x3b2;1 integrins (which are required for spread of metastatic phenotype and mesenchymal migration of tumor cells). Beta-cyclodextrins (&#x3b2;CD) have already been shown to be effective in in vitro and animal studies of breast cancer, but exhibits cholesterol-related ototoxicity. The smaller alpha-cyclodextrins (&#x3b1;CD) also scavenges phospholipids, but cannot fit cholesterol. An in-vitro study presented here confirms hydroxypropyl (HP)-&#x3b1;CD to be twice as effective as HP&#x3b2;CD against migration of human cells of both receptor negative and estrogen-receptor positive breast cancer. If the previous successful animal studies with &#x3b2;CDs are replicated with the safer and more effective &#x3b1;CDs, clinical trials of adjuvant treatment with &#x3b1;CDs are warranted. Ultimately, all breast cancer are expected to benefit from treatment with HP&#x3b1;CD, but women with triple-negative breast cancer (TNBC) will benefit most, because they have fewer treatment options and their cancer advances more aggressively.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Most breast cancer deaths are caused by metastasis and treatment options beyond radiation and cytotoxic drugs, which have severe side effects, and hormonal treatments, which are or become ineffective for many patients, are urgently needed. This study reanalyzed existing data from three genome-wide association studies (GWAS) using a novel computational biostatistics approach (muGWAS), which had been validated in studies of 600-2000 subjects in epilepsy and autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29965997/",
+  "mesh_terms": [
+    "2-Hydroxypropyl-beta-cyclodextrin",
+    "ATP Binding Cassette Transporter 1",
+    "Acyltransferases",
+    "Adenosine Triphosphatases",
+    "Breast Neoplasms",
+    "Endocytosis",
+    "Female",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Phospholipid Transfer Proteins",
+    "Phosphoric Monoester Hydrolases",
+    "Polymorphism, Single Nucleotide",
+    "Triple Negative Breast Neoplasms",
+    "alpha-Cyclodextrins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, N.I.H., Intramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

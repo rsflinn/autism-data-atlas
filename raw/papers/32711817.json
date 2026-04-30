@@ -1,0 +1,45 @@
+{
+  "pmid": "32711817",
+  "doi": "10.1016/bs.pmbts.2020.04.019",
+  "title": "In vitro models for ASD-patient-derived iPSCs and cerebral organoids",
+  "authors": "Hohmann SS, Ilieva M, Michel TM",
+  "journal": "Progress in molecular biology and translational science",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a set of pervasive neurodevelopmental disorders. The causation is multigenic in most cases, which makes it difficult to model the condition in vitro. Advances in pluripotent stem cell technology has made it possible to generate in vitro models of human brain development. Induced pluripotent stem cells (iPSCs) can be generated from somatic cells and have the ability to differentiate to all of the body's cells. This chapter aims to give an overview of the iPSC technology for generating neural cells and cerebral organoids as models for neurodevelopment and how these models are utilized in the study of ASD. The combination of iPSC technology and the genetic modification tool CRISPR/Cas9 is described, and current limitations and future perspectives of iPSC technology is discussed.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a set of pervasive neurodevelopmental disorders. The causation is multigenic in most cases, which makes it difficult to model the condition in vitro.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32711817/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Brain",
+    "CRISPR-Cas Systems",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Models, Biological",
+    "Organoids"
+  ],
+  "keywords": [
+    "Autism spectrum disorder (ASD)",
+    "Brain organoids",
+    "CRISPR/Cas9",
+    "Cerebral organoids",
+    "Differentiation",
+    "Induced pluripotent stem cells (iPSC)",
+    "Neurodevelopment modeling"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

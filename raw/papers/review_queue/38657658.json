@@ -1,0 +1,54 @@
+{
+  "pmid": "38657658",
+  "doi": "10.1111/jir.13141",
+  "title": "Association of behavioural and social-communicative profiles in children with 16p11.2 copy number variants: a multi-site study",
+  "authors": "Verbesselt J, Walsh LK, Mitchel MW, Taylor CM, Finucane BM, Breckpot J, et al.",
+  "journal": "Journal of intellectual disability research : JIDR",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Despite the established knowledge that recurrent copy number variants (CNVs) at the 16p11.2 locus BP4-BP5 confer risk for behavioural and language difficulties, limited research has been conducted on the association between behavioural and social-communicative profiles. The current study aims to further delineate the prevalence, nature and severity of, and the association between, behavioural and social-communicative features of school-aged children with 16p11.2 deletion syndrome (16p11.2DS) and 16p11.2 duplication (16p11.2Dup).\n\nA total of 68 individuals (n&#xa0;=&#xa0;47 16p11.2DS and n&#xa0;=&#xa0;21 16p11.2Dup) aged 6-17&#xa0;years participated. Standardised intelligence tests were administered, and behavioural and social-communicative skills were assessed by standardised questionnaires. Scores of both groups were compared with population norms and across CNVs. The influence of confounding factors was investigated, and correlation analyses were performed.\n\nCompared with the normative sample, children with 16p11.2DS showed high rates of social responsiveness (67%) and communicative problems (69%), while approximately half (52%) of the patients displayed behavioural problems. Children with 16p11.2Dup demonstrated even higher rates of social-communicative problems (80-90%) with statistically significantly more externalising and overall behavioural challenges (89%). In both CNV groups, there was a strong positive correlation between behavioural and social-communicative skills.\n\nSchool-aged children with 16p11.2 CNVs show high rates of behavioural, social responsiveness and communicative problems compared with the normative sample. These findings point to the high prevalence of autistic traits and diagnoses in these CNV populations. Moreover, there is a high comorbidity between behavioural and social-communicative problems. Patients with difficulties in both domains are vulnerable and need closer clinical follow-up and care.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Despite the established knowledge that recurrent copy number variants (CNVs) at the 16p11.2 locus BP4-BP5 confer risk for behavioural and language difficulties, limited research has been conducted on the association between behavioural and social-communicative profiles. The current study aims to further delineate the prevalence, nature and severity of, and the association between, behavioural and social-communicative features of school-aged children with 16p11.2 deletion syndrome (16p11.2DS) and",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38657658/",
+  "mesh_terms": [
+    "Humans",
+    "Child",
+    "Male",
+    "Female",
+    "Adolescent",
+    "Chromosomes, Human, Pair 16",
+    "Intellectual Disability",
+    "Chromosome Deletion",
+    "DNA Copy Number Variations",
+    "Social Skills",
+    "Smith-Magenis Syndrome",
+    "Social Behavior",
+    "Chromosome Duplication",
+    "Autistic Disorder",
+    "Chromosome Disorders"
+  ],
+  "keywords": [
+    "16p11.2 deletion syndrome",
+    "16p11.2 duplication",
+    "autistic traits",
+    "behavioural phenotype",
+    "communication",
+    "copy number variants"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

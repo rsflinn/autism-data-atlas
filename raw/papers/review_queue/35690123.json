@@ -1,0 +1,44 @@
+{
+  "pmid": "35690123",
+  "doi": "10.1016/j.neubiorev.2022.104722",
+  "title": "Translational validity and methodological underreporting in animal research: A systematic review and meta-analysis of the Fragile X syndrome (Fmr1 KO) rodent model",
+  "authors": "Kat R, Arroyo-Araujo M, de Vries RBM, Koopmans MA, de Boer SF, Kas MJH",
+  "journal": "Neuroscience and biobehavioral reviews",
+  "date": "2022-06",
+  "source": "pubmed",
+  "abstract": "Predictive models are essential for advancing knowledge of brain disorders. High variation in study outcomes hampers progress. To address the validity of predictive models, we performed a systematic review and meta-analysis on behavioural phenotypes of the knock-out rodent model for Fragile X syndrome according to the PRISMA reporting guidelines. In addition, factors accountable for the heterogeneity between findings were analyzed. The knock-out model showed good translational validity and replicability for hyperactivity, cognitive and seizure phenotypes. Despite low replicability, translational validity was also found for social behaviour and sensory sensitivity, but not for attention, aggression and cognitive flexibility. Anxiety, acoustic startle and prepulse inhibition phenotypes, despite low replicability, were opposite to patient symptomatology. Subgroup analyses for experimental factors moderately explain the low replicability, these analyses were hindered by under-reporting of methodologies and environmental conditions. Together, the model has translational validity for most clinical phenotypes, but caution must be taken due to low effect sizes and high inter-study variability. These findings should be considered in view of other rodent models in preclinical research.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Predictive models are essential for advancing knowledge of brain disorders. High variation in study outcomes hampers progress.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35690123/",
+  "mesh_terms": [
+    "Animal Experimentation",
+    "Animals",
+    "Disease Models, Animal",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Mice",
+    "Mice, Knockout",
+    "Rodentia"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Mouse models",
+    "Preclinical data quality"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

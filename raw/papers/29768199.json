@@ -1,0 +1,59 @@
+{
+  "pmid": "29768199",
+  "doi": "10.1016/j.celrep.2018.04.050",
+  "title": "The Autism-Related Protein CHD8 Cooperates with C/EBP&#x3b2; to Regulate Adipogenesis",
+  "authors": "Kita Y, Katayama Y, Shiraishi T, Oka T, Sato T, Suyama M, et al.",
+  "journal": "Cell reports",
+  "date": "2018-05",
+  "source": "pubmed",
+  "abstract": "The gene encoding the chromatin remodeler CHD8 is&#xa0;the most frequently mutated gene in individuals with autism spectrum disorder (ASD). Heterozygous mutations in CHD8 give rise to ASD that is often accompanied by macrocephaly, gastrointestinal complaints, and slender habitus. Whereas most phenotypes of CHD8 haploinsufficiency likely result from delayed neurodevelopment, the mechanism underlying slender habitus has remained unknown. Here, we&#xa0;show that CHD8 interacts with CCAAT/enhancer-binding protein &#x3b2; (C/EBP&#x3b2;) and promotes its transactivation activity during adipocyte differentiation. Adipogenesis was impaired in Chd8-deleted preadipocytes, with the upregulation of C/EBP&#x3b1; and peroxisome-proliferator-activated receptor &#x3b3; (PPAR&#x3b3;), two master regulators of this process, being attenuated in mutant cells. Furthermore, mice with CHD8 ablation in white preadipocytes had a markedly reduced white adipose tissue mass. Our findings reveal a mode of C/EBP&#x3b2; regulation by CHD8 during adipogenesis, with CHD8 deficiency resulting in a defect in the development of white adipose tissue.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "The gene encoding the chromatin remodeler CHD8 is&#xa0;the most frequently mutated gene in individuals with autism spectrum disorder (ASD). Heterozygous mutations in CHD8 give rise to ASD that is often accompanied by macrocephaly, gastrointestinal complaints, and slender habitus.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29768199/",
+  "mesh_terms": [
+    "3T3-L1 Cells",
+    "Adipocytes",
+    "Adipogenesis",
+    "Adipose Tissue, White",
+    "Animals",
+    "Autistic Disorder",
+    "CCAAT-Enhancer-Binding Protein-alpha",
+    "CCAAT-Enhancer-Binding Protein-beta",
+    "DNA-Binding Proteins",
+    "Gene Expression Regulation",
+    "Genome",
+    "HEK293 Cells",
+    "Humans",
+    "Hypertrophy",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "PPAR gamma",
+    "Protein Binding"
+  ],
+  "keywords": [
+    "ASD",
+    "C/EBP",
+    "CCAAT/enhancer-binding protein",
+    "Chd8",
+    "PPAR&#x3b3;",
+    "adipogenesis",
+    "autism",
+    "chromatin remodeler"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "16459994",
+  "doi": "10.3171/foc.2006.20.1.5",
+  "title": "Tuberous sclerosis complex: molecular pathogenesis and animal models",
+  "authors": "Piedimonte LR, Wailes IK, Weiner HL",
+  "journal": "Neurosurgical focus",
+  "date": "2006-01",
+  "source": "pubmed",
+  "abstract": "Mutations in one of two genes, TSC1 and TSC2, result in a similar disease phenotype by disrupting the normal interaction of their protein products, hamartin and tuberin, which form a functional signaling complex. Disruption of these genes in the brain results in abnormal cellular differentiation, migration, and proliferation, giving rise to the characteristic brain lesions of tuberous sclerosis complex (TSC) called cortical tubers. The most devastating complications of TSC affect the central nervous system and include epilepsy, mental retardation, autism, and glial tumors. Relevant animal models, including conventional and conditional knockout mice, are valuable tools for studying the normal functions of tuberin and hamartin and the way in which disruption of their expression gives rise to the variety of clinical features that characterize TSC. In the future, these animals will be invaluable preclinical models for the development of highly specific and efficacious treatments for children affected with TSC.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Mutations in one of two genes, TSC1 and TSC2, result in a similar disease phenotype by disrupting the normal interaction of their protein products, hamartin and tuberin, which form a functional signaling complex. Disruption of these genes in the brain results in abnormal cellular differentiation, migration, and proliferation, giving rise to the characteristic brain lesions of tuberous sclerosis complex (TSC) called cortical tubers.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16459994/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Humans",
+    "Models, Biological",
+    "Mutation",
+    "Tuberous Sclerosis",
+    "Tuberous Sclerosis Complex 1 Protein",
+    "Tuberous Sclerosis Complex 2 Protein",
+    "Tumor Suppressor Proteins"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review",
+    "Retracted Publication"
+  ]
+}

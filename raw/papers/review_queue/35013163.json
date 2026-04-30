@@ -1,0 +1,45 @@
+{
+  "pmid": "35013163",
+  "doi": "10.1038/s41467-021-27598-6",
+  "title": "Polygenic contribution to the relationship of loneliness and social isolation with schizophrenia",
+  "authors": "Andreu-Bernabeu &#xc1;, D&#xed;az-Caneja CM, Costas J, De Hoyos L, Stella C, Gurriar&#xe1;n X, et al.",
+  "journal": "Nature communications",
+  "date": "2022-01",
+  "source": "pubmed",
+  "abstract": "Previous research suggests an association of loneliness and social isolation (LNL-ISO) with schizophrenia. Here, we demonstrate a LNL-ISO polygenic score contribution to schizophrenia risk in an independent case-control sample (N&#x2009;=&#x2009;3,488). We then subset schizophrenia predisposing variation based on its effect on LNL-ISO. We find that genetic variation with concordant effects in both phenotypes shows significant SNP-based heritability enrichment, higher polygenic contribution in females, and positive covariance with mental disorders such as depression, anxiety, attention-deficit hyperactivity disorder, alcohol dependence, and autism. Conversely, genetic variation with discordant effects only contributes to schizophrenia risk in males and is negatively correlated with those disorders. Mendelian randomization analyses demonstrate a plausible bi-directional causal relationship between LNL-ISO and schizophrenia, with a greater effect of LNL-ISO liability on schizophrenia than vice versa. These results illustrate the genetic footprint of LNL-ISO on schizophrenia.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Previous research suggests an association of loneliness and social isolation (LNL-ISO) with schizophrenia. Here, we demonstrate a LNL-ISO polygenic score contribution to schizophrenia risk in an independent case-control sample (N&#x2009;=&#x2009;3,488).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35013163/",
+  "mesh_terms": [
+    "Alcoholism",
+    "Anxiety Disorders",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Case-Control Studies",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Loneliness",
+    "Male",
+    "Mendelian Randomization Analysis",
+    "Multifactorial Inheritance",
+    "Phenotype",
+    "Schizophrenia",
+    "Social Isolation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

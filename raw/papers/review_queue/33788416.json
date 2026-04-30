@@ -1,0 +1,46 @@
+{
+  "pmid": "33788416",
+  "doi": "10.1002/aur.2508",
+  "title": "Dietary intake and growth deficits in Rett syndrome-A cross-section study",
+  "authors": "Wong LC, Chen YT, Tsai SM, Lin YJ, Hsu CJ, Wang HP, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Growth deficit is a common comorbidity and one of the supportive criteria in Rett syndrome (RTT). This study aimed to investigate the impact of dystonia, dietary intakes, and clinical severities on growth patterns in a Taiwanese cohort of RTT. We recruited 44 RTT patients with MECP2 mutation for analysis. For individuals &#x2264;18&#x2009;years of age, in comparison to the RTT-specific growth chart which comprised American RTT cohort, the body height was right-shifted to a higher percentile, whereas the body weight was left-shifted to a lower percentile. Furthermore, the body mass index was significantly decreased when compared to RTT-specific growth chart (p = 0.01). Higher degree of overall disease severity (odd ratio = 1.159; 95% CI = 1.063-1.264; p = 0.001) and hand use impairment (odd ratio = 2.017; 95% CI = 1.037, 3.921; p = 0.039) were associated with more severe growth patterns. All individuals had dystonia at certain variable degrees. The dystonia worsened with age (p&#x2009;<&#x2009;0.001) but did not have significant impact on growth deficit. Most of our cohort had adequate protein (97.37%) and energy (58.97%) intakes. The fiber intakes were generally low, with about 38 (97.4%) individuals did not meet the daily reference intakes of fiber. The protein intake was significantly lower in individuals with severe growth deficit (p = 0.04). Our study shows that ethnicity should be considered when comparing RTT individuals' growth pattern to the RTT-specific growth chart. Further, disease severity, genotypes, and nutrition exert important impacts on RTT-growth pattern. LAY SUMMARY: Growth impairment is an important issue in Rett syndrome and the underlying patho-mechanism is multifactorial. Higher degree of overall disease severity and hand use impairment were associated with more severe growth pattern deficits. Although all individuals had dystonia at certain variable degrees and the dystonia worsened with age, but it did not have significant impact on growth deficit. Nutritional intakes may partially affect growth. Furthermore, ethnicity should be considered when comparing RTT individuals' growth pattern to the RTT-specific growth chart.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Growth deficit is a common comorbidity and one of the supportive criteria in Rett syndrome (RTT). This study aimed to investigate the impact of dystonia, dietary intakes, and clinical severities on growth patterns in a Taiwanese cohort of RTT.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33788416/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Body Height",
+    "Eating",
+    "Humans",
+    "Methyl-CpG-Binding Protein 2",
+    "Mutation",
+    "Rett Syndrome"
+  ],
+  "keywords": [
+    "Rett syndrome",
+    "clinical severity",
+    "dietary intakes",
+    "dystonia",
+    "growth deficit",
+    "nutrition"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

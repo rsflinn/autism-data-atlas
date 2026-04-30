@@ -1,0 +1,43 @@
+{
+  "pmid": "23729618",
+  "doi": "10.1515/revneuro-2013-0008",
+  "title": "Histone lysine methylation: critical regulator of memory and behavior",
+  "authors": "Jarome TJ, Lubin FD",
+  "journal": "Reviews in the neurosciences",
+  "date": "2013-01",
+  "source": "pubmed",
+  "abstract": "Histone lysine methylation is a well-established transcriptional mechanism for the regulation of gene expression changes in eukaryotic cells and is now believed to function in neurons of the central nervous system to mediate the process of memory formation and behavior. In mature neurons, methylation of histone proteins can serve to both activate and repress gene transcription. This is in stark contrast to other epigenetic modifications, including histone acetylation and DNA methylation, which have largely been associated with one transcriptional state in the brain. In this review, we discuss the evidence for histone methylation mechanisms in the coordination of complex cognitive processes such as long-term memory formation and storage. In addition, we address the current literature highlighting the role of histone methylation in intellectual disability, addiction, schizophrenia, autism, depression, and neurodegeneration. Further, we discuss histone methylation within the context of other epigenetic modifications and the potential advantages of exploring this newly identified mechanism of cognition, emphasizing the possibility that this molecular process may provide an alternative locus for intervention in long-term psychopathologies that cannot be clearly linked to genes or environment alone.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Histone lysine methylation is a well-established transcriptional mechanism for the regulation of gene expression changes in eukaryotic cells and is now believed to function in neurons of the central nervous system to mediate the process of memory formation and behavior. In mature neurons, methylation of histone proteins can serve to both activate and repress gene transcription.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23729618/",
+  "mesh_terms": [
+    "Acetylation",
+    "Animals",
+    "Behavior",
+    "DNA Methylation",
+    "Epigenomics",
+    "Histones",
+    "Humans",
+    "Lysine",
+    "Memory",
+    "Mental Disorders",
+    "Nervous System Diseases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

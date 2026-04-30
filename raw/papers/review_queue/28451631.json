@@ -1,0 +1,56 @@
+{
+  "pmid": "28451631",
+  "doi": "10.1523/ENEURO.0380-16.2017",
+  "title": "GABA-B Agonist Baclofen Normalizes Auditory-Evoked Neural Oscillations and Behavioral Deficits in theKnockout Mouse Model of Fragile X Syndrome",
+  "authors": "Sinclair D, Featherstone R, Naschek M, Nam J, Du A, Wright S, et al.",
+  "journal": "eNeuro",
+  "date": "2017-03",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome is a genetic condition resulting fromgene mutation that leads to intellectual disability, autism-like symptoms, and sensory hypersensitivity. Arbaclofen, a GABA-B agonist, has shown efficacy in some individuals with FXS but has become unavailable after unsuccessful clinical trials, prompting interest in publicly available, racemic baclofen. The present study investigated whether racemic baclofen can remediate abnormalities of neural circuit function, sensory processing, and behavior inknockout mice, a rodent model of fragile X syndrome.knockout mice showed increased baseline and auditory-evoked high-frequency gamma (30-80 Hz) power relative to C57BL/6 controls, as measured by electroencephalography. These deficits were accompanied by decreased T maze spontaneous alternation, decreased social interactions, and increased open field center time, suggestive of diminished working memory, sociability, and anxiety-like behavior, respectively. Abnormal auditory-evoked gamma oscillations, working memory, and anxiety-related behavior were normalized by treatment with baclofen, but impaired sociability was not. Improvements in working memory were evident predominantly in mice whose auditory-evoked gamma oscillations were dampened by baclofen. These findings suggest that racemic baclofen may be useful for targeting sensory and cognitive disturbances in fragile X syndrome.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome is a genetic condition resulting fromgene mutation that leads to intellectual disability, autism-like symptoms, and sensory hypersensitivity. Arbaclofen, a GABA-B agonist, has shown efficacy in some individuals with FXS but has become unavailable after unsuccessful clinical trials, prompting interest in publicly available, racemic baclofen.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/28451631/",
+  "mesh_terms": [
+    "Acoustic Stimulation",
+    "Animals",
+    "Baclofen",
+    "Disease Models, Animal",
+    "Electroencephalography",
+    "Evoked Potentials, Auditory",
+    "Exploratory Behavior",
+    "Female",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "GABA-B Receptor Agonists",
+    "Interpersonal Relations",
+    "Male",
+    "Maze Learning",
+    "Memory, Short-Term",
+    "Mental Disorders",
+    "Mice",
+    "Mice, Inbred C57BL",
+    "Mice, Knockout",
+    "Spectrum Analysis"
+  ],
+  "keywords": [
+    "EEG",
+    "GABA",
+    "fragile X syndrome",
+    "gamma",
+    "racemic baclofen",
+    "working memory"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

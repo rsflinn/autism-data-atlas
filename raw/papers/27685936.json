@@ -1,0 +1,28 @@
+{
+  "pmid": "27685936",
+  "doi": "10.1371/journal.pbio.1002558",
+  "title": "Disruption of an Evolutionarily Novel Synaptic Expression Pattern in Autism",
+  "authors": "Liu X, Han D, Somel M, Jiang X, Hu H, Guijarro P, et al.",
+  "journal": "PLoS biology",
+  "date": "2016-09",
+  "source": "pubmed",
+  "abstract": "Cognitive defects in autism spectrum disorder (ASD) include socialization and communication: key behavioral capacities that separate humans from other species. Here, we analyze gene expression in the prefrontal cortex of 63 autism patients and control individuals, as well as 62 chimpanzees and macaques, from natal to adult age. We show that among all aberrant expression changes seen in ASD brains, a single aberrant expression pattern overrepresented in genes involved synaptic-related pathways is enriched in nucleotide variants linked to autism. Furthermore, only this pattern contains an excess of developmental expression features unique to humans, thus resulting in the disruption of human-specific developmental programs in autism. Several members of the early growth response (EGR) transcription factor family can be implicated in regulation of this aberrant developmental change. Our study draws a connection between the genetic risk architecture of autism and molecular features of cortical development unique to humans.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Cognitive defects in autism spectrum disorder (ASD) include socialization and communication: key behavioral capacities that separate humans from other species. Here, we analyze gene expression in the prefrontal cortex of 63 autism patients and control individuals, as well as 62 chimpanzees and macaques, from natal to adult age.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/27685936/",
+  "mesh_terms": [],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

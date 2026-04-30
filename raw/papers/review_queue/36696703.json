@@ -1,0 +1,48 @@
+{
+  "pmid": "36696703",
+  "doi": "10.1016/j.pediatrneurol.2022.12.014",
+  "title": "Pregnancy and Child Outcomes Following Fetal Intracranial Hemorrhage",
+  "authors": "Gupta V, Schlatterer SD, Bulas DI, du Plessis AJ, Mulkey SB",
+  "journal": "Pediatric neurology",
+  "date": "2023-01",
+  "source": "pubmed",
+  "abstract": "The prenatal and early postnatal outcomes of fetal intracranial hemorrhage (ICH) prenatally diagnosed by fetal magnetic resonance imaging (MRI) have not been well described.\n\nA retrospective study of cases with fetal ICH diagnosed by fetal MRI at Children's National Hospital, Washington, DC, from 2012 to 2020 was conducted. Maternal characteristics, prenatal imaging, pregnancy outcome, and child developmental outcomes were recorded. Abnormal outcomes were categorized as mild for required physical/occupational therapy without other delays, moderate for intermediate multidomain developmental delays, and severe if nonambulatory, nonverbal, or intellectual disability.\n\nFifty-seven cases with fetal ICH were included. The mean (S.D.) maternal age was 31.1 (6.9) years, gestational age at fetal evaluation was 28.1 (5.3) weeks, and gestational age at birth was 38.2 (1.3) weeks. Pregnancy outcomes were 75% (n&#xa0;=&#xa0;43) live birth, 14% (n&#xa0;=&#xa0;8) termination of pregnancy, and 11% (n&#xa0;=&#xa0;6) intrauterine demise (IUD). Live births decreased from 90% to 33% and IUD increased 10% to 22% when comparing unilateral intraventricular hemorrhage with more extensive hemorrhages. Among the 37 live-born infants with clinical follow-up to age 1.8 (1.6) years, neurodevelopmental outcome was normal in 57%, mildly abnormal in 24%, moderately abnormal in 14%, and severely abnormal in 5%. In five cases, an etiology was identified: two had placental pathologies, two had genetic findings (fetal neonatal alloimmune thrombocytopenia and COL4A1 mutation), and one had congenital cytomegalovirus infection.\n\nPerinatal and early child outcomes following fetal ICH have a wide spectrum of outcomes. Fetal MRI description of ICH location may aid in pregnancy and postnatal outcome prediction.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "The prenatal and early postnatal outcomes of fetal intracranial hemorrhage (ICH) prenatally diagnosed by fetal magnetic resonance imaging (MRI) have not been well described. A retrospective study of cases with fetal ICH diagnosed by fetal MRI at Children's National Hospital, Washington, DC, from 2012 to 2020 was conducted.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36696703/",
+  "mesh_terms": [
+    "Infant, Newborn",
+    "Infant",
+    "Pregnancy",
+    "Humans",
+    "Female",
+    "Child",
+    "Adult",
+    "Retrospective Studies",
+    "Intracranial Hemorrhages",
+    "Placenta",
+    "Pregnancy Outcome",
+    "Cerebral Hemorrhage"
+  ],
+  "keywords": [
+    "COL4A1",
+    "Developmental outcomes",
+    "Fetal MRI",
+    "Fetal neurology",
+    "Intracranial hemorrhage",
+    "Intraventricular hemorrhage"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

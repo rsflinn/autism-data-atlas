@@ -1,0 +1,44 @@
+{
+  "pmid": "21226609",
+  "doi": "10.1146/annurev.med.091708.162036",
+  "title": "Genome-wide association studies: results from the first few years and potential implications for clinical medicine",
+  "authors": "Hirschhorn JN, Gajdos ZK",
+  "journal": "Annual review of medicine",
+  "date": "2011-01",
+  "source": "pubmed",
+  "abstract": "Most common diseases and quantitative traits are heritable: determined in part by genetic variation within the population. The inheritance is typically polygenic in that combined effects of variants in numerous genes, plus nongenetic factors, determine outcome. The genes influencing common disease and quantitative traits remained largely unknown until the implementation in 2006 of genome-wide association (GWA) studies that comprehensively surveyed common genetic variation (frequency>5%). By 2010, GWA studies identified>1,000 genetic variants for polygenic traits. Typically, these variants together account for a modest fraction (10%-30%) of heritability, but they have highlighted genes in both known and new biological pathways and genes of unknown function. This initial effort prefigures new studies aimed at rarer variation and decades of functional work to decipher newly glimpsed biology. The greatest impact of GWA studies may not be in predictive medicine but rather in the development over the next decades of therapies based on novel biological insights.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Most common diseases and quantitative traits are heritable: determined in part by genetic variation within the population. The inheritance is typically polygenic in that combined effects of variants in numerous genes, plus nongenetic factors, determine outcome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/21226609/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Body Height",
+    "Clinical Medicine",
+    "Diabetes Mellitus, Type 2",
+    "Fetal Hemoglobin",
+    "Genetic Linkage",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Hyperlipidemias",
+    "Inflammatory Bowel Diseases",
+    "Multifactorial Inheritance",
+    "Precision Medicine"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

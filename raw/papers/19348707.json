@@ -1,0 +1,43 @@
+{
+  "pmid": "19348707",
+  "doi": "10.1007/s11910-009-0029-2",
+  "title": "Genetics of autism spectrum disorders",
+  "authors": "Kumar RA, Christian SL",
+  "journal": "Current neurology and neuroscience reports",
+  "date": "2009-05",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASDs) are a clinically complex group of childhood disorders that have firm evidence of an underlying genetic etiology. Many techniques have been used to characterize the genetic bases of ASDs. Linkage studies have identified several replicated susceptibility loci, including 2q24-2q31, 7q, and 17q11-17q21. Association studies and mutation analysis of candidate genes have implicated the synaptic genes NRXN1, NLGN3, NLGN4, SHANK3, and CNTNAP2 in ASDs. Traditional cytogenetic approaches highlight the high frequency of large chromosomal abnormalities (3%-7% of patients), including the most frequently observed maternal 15q11-13 duplications (1%-3% of patients). Newly developed techniques include high-resolution DNA microarray technologies, which have discovered formerly undetectable submicroscopic copy number variants, and genomewide association studies, which allow simultaneous detection of multiple genes associated with ASDs. Although great progress has been made in autism genetics, the molecular bases of most ASDs remains enigmatic.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CNTNAP2",
+    "NLGN3",
+    "NLGN4",
+    "NRXN1",
+    "SHANK3"
+  ],
+  "summary": "Autism spectrum disorders (ASDs) are a clinically complex group of childhood disorders that have firm evidence of an underlying genetic etiology. Many techniques have been used to characterize the genetic bases of ASDs.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19348707/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Chromosome Mapping",
+    "DNA Mutational Analysis",
+    "Genetic Predisposition to Disease",
+    "Genome-Wide Association Study",
+    "Humans"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "19127654",
+  "doi": "10.1352/2008.113:427-438",
+  "title": "Autism profiles of males with fragile X syndrome",
+  "authors": "Harris SW, Hessl D, Goodlin-Jones B, Ferranti J, Bacalman S, Barbato I, et al.",
+  "journal": "American journal of mental retardation : AJMR",
+  "date": "2008-11",
+  "source": "pubmed",
+  "abstract": "Autism, which is common in individuals with fragile X syndrome, is often difficult to diagnose. We compared the diagnostic classifications of two measures for autism diagnosis, the ADOS and the ADI-R, in addition to the DSM-IV-TR in 63 males with this syndrome. Overall, 30% of the subjects met criteria for autistic disorder and 30% met criteria for PDD-NOS. The classifications on the ADOS and DSM-IV-TR were most similar, whereas the ADI-R classified subjects as autistic much more frequently. We further investigated the relationship of both FMRP and FMRI mRNA to symptoms of autism in this cohort and found no significant relationship between the measures of autism and molecular features, including FMRP, FMRI mRNA, and CGG repeat number.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism, which is common in individuals with fragile X syndrome, is often difficult to diagnose. We compared the diagnostic classifications of two measures for autism diagnosis, the ADOS and the ADI-R, in addition to the DSM-IV-TR in 63 males with this syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19127654/",
+  "mesh_terms": [
+    "Adaptation, Psychological",
+    "Alleles",
+    "Autistic Disorder",
+    "Cognition Disorders",
+    "Diagnostic and Statistical Manual of Mental Disorders",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Humans",
+    "Male",
+    "Neuropsychological Tests",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

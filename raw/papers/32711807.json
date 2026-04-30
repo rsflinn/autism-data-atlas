@@ -1,0 +1,49 @@
+{
+  "pmid": "32711807",
+  "doi": "10.1016/bs.pmbts.2020.04.013",
+  "title": "The putative etiology and prevention of autism",
+  "authors": "Steinman G",
+  "journal": "Progress in molecular biology and translational science",
+  "date": "2020-05",
+  "source": "pubmed",
+  "abstract": "Since the initial psychological report by Leo Kanner in 1943, relatively little formal biochemical/neurological research on the cause of autism, other than peripheral searches for genomic mutations, had been carried until the end of the 20th century. As a result of studies on twin sets and the conclusion that autism was largely a hereditary defect, numerous investigations have sought various genetic faults in particular. However, such studies were able to reveal a plausible etiology for this malady in only a small percentage of instances. Key bio-molecular characteristics of this syndrome have been uncovered when the potential roles of the glia were studied in depth. Findings related to biochemical deficiencies appearing early in the newborn, such as depressed IGF-1 (insulin-like growth factor #1) in neurogenesis/myelination, are becoming emphasized in many laboratories. Progress leading to timely diagnoses and subsequent prevention of central nervous system dysconnectivity now seems plausible. The tendency for an infant to develop autism may currently be determinable and preventable before irreversible psychosocial disturbances become established. These discussions about glial function will be inter-spersed with comments about their apparent relevance to autism. The concluding portion of this presentation will be a detailed review and summation of this diagnosis and prevention proposition.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Since the initial psychological report by Leo Kanner in 1943, relatively little formal biochemical/neurological research on the cause of autism, other than peripheral searches for genomic mutations, had been carried until the end of the 20th century. As a result of studies on twin sets and the conclusion that autism was largely a hereditary defect, numerous investigations have sought various genetic faults in particular.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32711807/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Humans",
+    "Insulin-Like Growth Factor I",
+    "Myelin Sheath",
+    "Nerve Net",
+    "Polymorphism, Genetic"
+  ],
+  "keywords": [
+    "Astrocyte",
+    "Autism",
+    "Biomarkers",
+    "Dysconnectivity",
+    "IGF-1",
+    "Microglia",
+    "Myelination",
+    "Oligodendrocyte",
+    "Polymorphism",
+    "Schwann"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

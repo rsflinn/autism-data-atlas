@@ -1,0 +1,53 @@
+{
+  "pmid": "32678152",
+  "doi": "10.1038/s41598-020-68465-6",
+  "title": "FMR1 mRNA from full mutation alleles is associated with ABC-Cscores in males with fragile X syndrome",
+  "authors": "Baker EK, Arpone M, Kraan C, Bui M, Rogers C, Field M, et al.",
+  "journal": "Scientific reports",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is caused by a hypermethylated full mutation (FM) expansion with&#x2009;&#x2265;&#x2009;200 CGG repeats, and a decrease in FMR1 mRNA and its protein. However, incomplete silencing from FM alleles has been associated with more severe autism features in FXS males. This study compared scores on the Aberrant Behavior Checklist-Community-FXS version (ABC-C) in 62 males affected with FXS (3 to 32&#xa0;years) stratified based on presence or absence of mosaicism and/or FMR1 mRNA silencing. Associations between ABC-Csubscales and FMR1 mRNA levels, assessed using real-time PCR relative standard curve method, were also examined. The FXS group mosaic for premutation (PM: 55-199 CGGs) and FM alleles had lower irritability (p&#x2009;=&#x2009;0.014) and inappropriate speech (p&#x2009;<&#x2009;0.001) scores compared to males with only FM alleles and complete loss of FMR1 mRNA. The PM/FM mosaic group also showed lower inappropriate speech scores compared to the incomplete silencing (p&#x2009;=&#x2009;0.002) group. Increased FMR1 mRNA levels were associated with greater irritability (p&#x2009;<&#x2009;0.001), and lower health-related quality of life scores (p&#x2009;=&#x2009;0.004), but only in the incomplete silencing FM-only group. The findings suggest that stratification based on CGG sizing and FMR1 mRNA levels may be warranted in future research and clinical trials utilising ABC-Csubscales as outcome measures.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FMR1"
+  ],
+  "summary": "Fragile X syndrome (FXS) is caused by a hypermethylated full mutation (FM) expansion with&#x2009;&#x2265;&#x2009;200 CGG repeats, and a decrease in FMR1 mRNA and its protein. However, incomplete silencing from FM alleles has been associated with more severe autism features in FXS males.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32678152/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Alleles",
+    "Australia",
+    "Child",
+    "Child, Preschool",
+    "Chile",
+    "Cohort Studies",
+    "DNA Methylation",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Gene Silencing",
+    "Humans",
+    "Male",
+    "Mosaicism",
+    "Quality of Life",
+    "RNA, Messenger",
+    "Real-Time Polymerase Chain Reaction",
+    "Research Design",
+    "Trinucleotide Repeat Expansion",
+    "Young Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

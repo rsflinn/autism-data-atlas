@@ -1,0 +1,51 @@
+{
+  "pmid": "38212784",
+  "doi": "10.1186/s13063-023-07847-3",
+  "title": "Sertraline for anxiety in adults with a diagnosis of autism (STRATA): study protocol for a pragmatic, multicentre, double-blind, placebo-controlled randomised controlled trial",
+  "authors": "Rai D, Webb D, Lewis A, Cotton L, Norris JE, Alexander R, et al.",
+  "journal": "Trials",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Selective serotonin reuptake inhibitors (SSRIs) are commonly prescribed to manage anxiety in adults with an autism diagnosis. However, their effectiveness and adverse effect profile in the autistic population are not well known. This trial aims to determine the effectiveness and cost-effectiveness of the SSRI sertraline in reducing symptoms of anxiety and improving quality of life in adults with a diagnosis of autism compared with placebo and to quantify any adverse effects.\n\nSTRATA is a two-parallel group, multi-centre, pragmatic, double-blind, randomised placebo-controlled trial with allocation at the level of the individual. It will be delivered through recruiting sites with autism services in 4 regional centres in the United Kingdom (UK) and 1 in Australia. Adults with an autism diagnosis and a Generalised Anxiety Disorder Assessment (GAD-7) score&#x2009;&#x2265;&#x2009;10 at screening will be randomised 1:1 to either 25&#xa0;mg sertraline or placebo, with subsequent flexible dose titration up to 200&#xa0;mg. The primary outcome is GAD-7 scores at 16&#xa0;weeks post-randomisation. Secondary outcomes include adverse effects, proportionate change in GAD-7 scores including 50% reduction, social anxiety, obsessive-compulsive symptoms, panic attacks, repetitive behaviours, meltdowns, depressive symptoms, composite depression and anxiety, functioning and disability and quality of life. Carer burden will be assessed in a linked carer sub-study. Outcome data will be collected using online/paper methods via video call, face-to-face or telephone according to participant preference at 16, 24 and 52&#xa0;weeks post-randomisation, with brief safety checks and data collection at 1-2, 4, 8, 12 and 36&#xa0;weeks. An economic evaluation to study the cost-effectiveness of sertraline vs placebo and a QuinteT Recruitment Intervention (QRI) to optimise recruitment and informed consent are embedded within the trial. Qualitative interviews at various times during the study will explore experiences of participating and taking the trial medication.\n\nResults from this study should help autistic adults and their clinicians make evidence-based decisions on the use of sertraline for managing anxiety in this population.\n\nISRCTN, ISRCTN15984604 . Registered on 08 February 2021. EudraCT 2019-004312-66. ANZCTR ACTRN12621000801819. Registered on 07 April 2021.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Selective serotonin reuptake inhibitors (SSRIs) are commonly prescribed to manage anxiety in adults with an autism diagnosis. However, their effectiveness and adverse effect profile in the autistic population are not well known.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38212784/",
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "Anxiety",
+    "Anxiety Disorders",
+    "Autistic Disorder",
+    "Multicenter Studies as Topic",
+    "Quality of Life",
+    "Randomized Controlled Trials as Topic",
+    "Sertraline",
+    "Pragmatic Clinical Trials as Topic"
+  ],
+  "keywords": [
+    "Adults",
+    "Antidepressant",
+    "Anxiety",
+    "Asperger",
+    "Autism",
+    "Mental health",
+    "Placebo",
+    "Randomised controlled trial",
+    "Selective Serotonin reuptake inhibitors",
+    "Sertraline"
+  ],
+  "article_types": [
+    "Clinical Trial Protocol",
+    "Journal Article"
+  ]
+}

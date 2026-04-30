@@ -1,0 +1,56 @@
+{
+  "pmid": "39428456",
+  "doi": "10.1186/s12916-024-03685-5",
+  "title": "Organic food consumption during pregnancy and symptoms of neurodevelopmental disorders at 8&#xa0;years of age in the offspring: the Norwegian Mother, Father and Child Cohort Study (MoBa)",
+  "authors": "Instanes JT, Solberg BS, Kvalvik LG, Klungs&#xf8;yr K, Posserud MR, Hartman CA, et al.",
+  "journal": "BMC medicine",
+  "date": "2024-10",
+  "source": "pubmed",
+  "abstract": "Partially driven by public concerns about modern food production practices, organic food has gained popularity among consumers. However, the impact of organic food consumption during pregnancy on offspring health is scarcely studied. We aimed to investigate the association between maternal intake of organic food during pregnancy and symptoms of attention deficit/hyperactivity disorder (ADHD) and autism spectrum disorder (ASD) in offspring at 8&#xa0;years of age.\n\nThis study was based on the Norwegian Mother, Father and Child Cohort Study (MoBa) and the Medical Birth Registry of Norway (MBRN). The total study sample included 40,707 mother-child pairs (children born 2002-2009). Organic food consumption during pregnancy was assessed by six questions from a food frequency questionnaire in mid-pregnancy (sum score 0-18). Symptoms of ADHD and ASD in the offspring aged 8&#xa0;years were measured by ADHD (0-54) and ASD (0-39) symptom scores based on the Parent/Teacher Rating Scale for Disruptive Behaviour disorders and the Social Communication Questionnaire. Associations between maternal intake of organic food during pregnancy and symptoms of ADHD and ASD in the offspring were analyzed using regression models with adjustment for covariates&#xa0;such as maternal anxiety and depression, including sibling analysis.\n\nMean ADHD and ASD symptom scores in the offspring differed only slightly by maternal intake of organic food. The covariate-adjusted unstandardized regression coefficient (adjusted(Adj)beta) with 95% confidence interval for the ADHD symptom score with one unit increase in organic food sum score was 0.03 (0.01, 0.05). Similarly, Adjbeta for autism symptom score was 0.07 (0.04, 0.10). For ADHD, the adjusted estimates weakened when adjusting for maternal symptoms of ADHD. The sibling analyses showed no significant results with Adjbeta&#x2009;-&#x2009;0.07 (-&#x2009;0.15, 0.01) and&#x2009;-&#x2009;0.001 (-&#x2009;0.12, 0.12) for ADHD and ASD outcomes, respectively.\n\nWe observed weak positive associations between frequent maternal organic food consumption during pregnancy and offspring ADHD and ASD symptom levels at 8&#xa0;years of age. This trend weakened or disappeared after adjusting for maternal symptoms of ADHD, and in sibling analyses, suggesting that the associations mainly reflect genetic confounding. Our study indicates that consumption of organic food during pregnancy should neither be considered a risk factor nor protective against symptoms of ADHD and ASD in offspring.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Partially driven by public concerns about modern food production practices, organic food has gained popularity among consumers. However, the impact of organic food consumption during pregnancy on offspring health is scarcely studied.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39428456/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Pregnancy",
+    "Norway",
+    "Child",
+    "Male",
+    "Adult",
+    "Cohort Studies",
+    "Food, Organic",
+    "Autism Spectrum Disorder",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Prenatal Exposure Delayed Effects",
+    "Surveys and Questionnaires",
+    "Neurodevelopmental Disorders"
+  ],
+  "keywords": [
+    "Attention deficit disorder",
+    "Autism spectrum disorder",
+    "Cohort study",
+    "Father and Child Cohort Study",
+    "MBRN",
+    "MoBa",
+    "Neurodevelopmental disorders",
+    "Organic food",
+    "Prenatal nutrition",
+    "The Medical Birth Registry of Norway",
+    "The Norwegian Mother"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

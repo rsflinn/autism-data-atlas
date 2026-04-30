@@ -1,0 +1,44 @@
+{
+  "pmid": "32640929",
+  "doi": "10.1146/annurev-neuro-100119-024851",
+  "title": "The Genetic Control of Stoichiometry Underlying Autism",
+  "authors": "Darnell RB",
+  "journal": "Annual review of neuroscience",
+  "date": "2020-07",
+  "source": "pubmed",
+  "abstract": "Autism is a common and complex neurologic disorder whose scientific underpinnings have begun to be established in the past decade. The essence of this breakthrough has been a focus on families, where genetic analyses are strongest, versus large-scale, case-control studies. Autism genetics has progressed in parallel with technology, from analyses of copy number variation to whole-exome sequencing (WES) and whole-genome sequencing (WGS). Gene mutations causing complete loss of function account for perhaps one-third of cases, largely detected through WES. This limitation has increased interest in understanding the regulatory variants of genes that contribute in more subtle ways to the disorder. Strategies combining biochemical analysis of gene regulation, WGS analysis of the noncoding genome, and machine learning have begun to succeed. The emerging picture is that careful control of the amounts of transcription, mRNA, and proteins made by key brain genes-stoichiometry-plays a critical role in defining the clinical features of autism.",
+  "relevance_score": 28,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a common and complex neurologic disorder whose scientific underpinnings have begun to be established in the past decade. The essence of this breakthrough has been a focus on families, where genetic analyses are strongest, versus large-scale, case-control studies.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32640929/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "DNA Copy Number Variations",
+    "Exome",
+    "Humans",
+    "Mutation",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "FMRP",
+    "RNA",
+    "stoichiometry",
+    "synaptic plasticity",
+    "translation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

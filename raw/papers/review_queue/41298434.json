@@ -1,0 +1,45 @@
+{
+  "pmid": "41298434",
+  "doi": "10.1038/s41467-025-65665-4",
+  "title": "Disrupted theta synchronization and synaptic connectivity in the visual cortex of Fmr1 KO mice",
+  "authors": "Cheng X, Nareddula S, Gao HC, Chen Y, Xiao T, Nadew YY, et al.",
+  "journal": "Nature communications",
+  "date": "2025-11",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FX) is a leading inherited cause of autism spectrum disorder, characterized by sensory hypersensitivity and impaired visual learning. Visual experience induces synchronized theta oscillations in the primary visual cortex (V1) and lateromedial area (LM), supporting inter-areal sensory binding. Using the Fmr1 knockout (KO) mouse model of FX, we quantify experience-dependent c-Fos expression in V1 and LM via iDISCO whole-brain clearing. Simultaneous in vivo recordings and channelrhodopsin-2-assisted circuit mapping (CRACM) reveal synchronized V1-LM theta oscillations and strengthened feedforward V1&#x2009;&#x2192;&#x2009;LM connectivity in wild-type (WT) mice, but attenuated LM oscillations and impaired connectivity in FX mice. Using 4Pi single-molecule localization microscopy, we identify experience-driven dendritic spine remodeling in layer 5 pyramidal cells of V1 and LM in WT mice, which is absent in FX mice. FX mice also show elevated baseline spine density and length. Our findings demonstrate that visual experience drives inter-areal synchronization and synaptic plasticity, which are disrupted in FX.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FX) is a leading inherited cause of autism spectrum disorder, characterized by sensory hypersensitivity and impaired visual learning. Visual experience induces synchronized theta oscillations in the primary visual cortex (V1) and lateromedial area (LM), supporting inter-areal sensory binding.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41298434/",
+  "mesh_terms": [
+    "Animals",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Mice, Knockout",
+    "Mice",
+    "Theta Rhythm",
+    "Visual Cortex",
+    "Neuronal Plasticity",
+    "Fragile X Syndrome",
+    "Male",
+    "Pyramidal Cells",
+    "Synapses",
+    "Disease Models, Animal",
+    "Dendritic Spines",
+    "Mice, Inbred C57BL",
+    "Proto-Oncogene Proteins c-fos",
+    "Primary Visual Cortex"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

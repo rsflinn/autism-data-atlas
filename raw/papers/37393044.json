@@ -1,0 +1,47 @@
+{
+  "pmid": "37393044",
+  "doi": "10.1016/j.biopsych.2023.06.025",
+  "title": "Discovery and Validation of Novel Genes in a Large Chinese Autism Spectrum Disorder Cohort",
+  "authors": "Wang J, Yu J, Wang M, Zhang L, Yang K, Du X, et al.",
+  "journal": "Biological psychiatry",
+  "date": "2023-06",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that causes impairments in social communication and stereotypical behaviors, often accompanied by developmental delay or intellectual disability. A growing body of evidence suggests that ASD is highly heritable, and genetic studies have defined numerous risk genes. However, most studies have been conducted with individuals of European and Hispanic ancestry, and there is a lack of genetic analyses of ASD in the East Asian population.\n\nWe performed whole-exome sequencing on 772 Chinese ASD trios and combined the data with a previous study of 369 Chinese ASD trios, identifying de novo variants in 1141 ASD trios. We used single-cell RNA sequencing analysis to identify the cell types in which ASD-related genes were enriched. In addition, we validated the function of a candidate high-functioning autism gene in mouse models using genetic approaches.\n\nOur findings showed that ASD without developmental delay or intellectual disability carried fewer disruptive de novo variants than ASD with developmental delay or intellectual disability. Moreover, we identified 9 novel ASD candidate genes that were not present in the current ASD gene database. We further validated one such novel ASD candidate gene, SLC35G1, by showing that mice harboring a heterozygous deletion of Slc35g1 exhibited defects in interactive social behaviors.\n\nOur work nominates novel ASD candidate genes and emphasizes the importance of genome-wide genetic studies with ASD cohorts of different ancestries to reveal the comprehensive genetic architecture of ASD.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a neurodevelopmental disorder that causes impairments in social communication and stereotypical behaviors, often accompanied by developmental delay or intellectual disability. A growing body of evidence suggests that ASD is highly heritable, and genetic studies have defined numerous risk genes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37393044/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "East Asian People",
+    "Genetic Predisposition to Disease",
+    "Intellectual Disability",
+    "Exome Sequencing",
+    "Disease Models, Animal"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "High-functioning autism",
+    "Mouse models",
+    "Single-cell sequencing",
+    "Social behaviors",
+    "Whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Validation Study"
+  ]
+}

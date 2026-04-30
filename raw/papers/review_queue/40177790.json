@@ -1,0 +1,47 @@
+{
+  "pmid": "40177790",
+  "doi": "10.1161/STROKEAHA.124.049058",
+  "title": "Impact of White Matter Hyperintensities on Nonverbal Cognition Through Structural Disconnections in Poststroke Aphasia",
+  "authors": "Rangus I, Busby N, Teghipco A, Roth RW, Wilmskoetter J, Rorden C, et al.",
+  "journal": "Stroke",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Nonverbal cognitive deficits in poststroke aphasia remain poorly understood. They may result from direct stroke damage or disconnections of preserved cortical regions due to white matter injury, which may be worsened by white matter hyperintensities (WMH). Here, we examined the prevalence of nonverbal cognitive deficits in chronic poststroke aphasia and whether WMH-related disconnections contribute to these deficits beyond those caused by stroke lesions.\n\nIndividuals with chronic left hemisphere ischemic or hemorrhagic stroke were enrolled between 2012 and 2021. Nonverbal cognition was assessed using the Matrix Subtest of the Wechsler Adult Intelligence Scale Version IV, the Pyramids and Palm Trees Test, and the Kissing and Dancing Test. Stroke lesions and WMH masks were derived from structural magnetic resonance imaging scans. Disconnection severity from stroke lesions and WMH was quantified across association, commissural, and projection fibers using the Lesion Quantification Toolbox. Hierarchical regression models examined whether WMH-related disconnections explained additional variance in nonverbal cognitive deficits.\n\nAmong 73 participants (mean age, 59.1&#xb1;11.9 years; 61.6% men; mean time poststroke, 47.3&#xb1;52.4 months), nonverbal cognitive deficits were common (Wechsler Adult Intelligence Scale, 27/58 [46.6%]; Pyramids and Palm Trees Test, 44/73 [60.3%]; Kissing and Dancing Test, 32/61 [52.5%]). Lesion-related commissural disconnections were associated with worse Kissing and Dancing Test performance ([61]=-0.378;=0.004), whereas WMH-related disconnections across all fiber types were linked to lower Pyramids and Palm Trees Test scores ([73]=-0.392 to -0.462;<0.001). Interestingly, disconnection severity from stroke lesions was a weak predictor of nonverbal cognitive deficits, but adding disconnection severity from WMH significantly improved the prediction of nonverbal semantic memory as measured by the Pyramids and Palm Trees Test (increase from 0.111 to 0.338;<0.001).\n\nDisconnections from WMH contribute to nonverbal cognitive deficits, particularly in semantic memory, among individuals with poststroke aphasia. Considering WMH in poststroke aphasia research and rehabilitation may improve the understanding and treatment of cognitive impairments in this population.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Nonverbal cognitive deficits in poststroke aphasia remain poorly understood. They may result from direct stroke damage or disconnections of preserved cortical regions due to white matter injury, which may be worsened by white matter hyperintensities (WMH).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40177790/",
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Middle Aged",
+    "White Matter",
+    "Aphasia",
+    "Aged",
+    "Stroke",
+    "Magnetic Resonance Imaging",
+    "Cognition",
+    "Neuropsychological Tests",
+    "Cognitive Dysfunction"
+  ],
+  "keywords": [
+    "aphasia",
+    "cognition",
+    "cognitive dysfunction",
+    "neurocognitive disorders",
+    "stroke"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

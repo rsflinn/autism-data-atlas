@@ -1,0 +1,48 @@
+{
+  "pmid": "31200929",
+  "doi": "10.1016/j.biopsych.2019.04.014",
+  "title": "Evidence of Assortative Mating in Autism Spectrum Disorder",
+  "authors": "Connolly S, Anney R, Gallagher L, Heron EA",
+  "journal": "Biological psychiatry",
+  "date": "2019-04",
+  "source": "pubmed",
+  "abstract": "Assortative mating is a nonrandom mating system in which individuals with similar genotypes and/or phenotypes mate with one another more frequently than would be expected in a random mating system. Assortative mating has been hypothesized to play a role in autism spectrum disorder (ASD) in an attempt to explain some of the increase in the prevalence of ASD that has recently been observed. ASD is considered to be a heritable neurodevelopmental disorder, but there is limited understanding of its causes. Assortative mating can be explored through both phenotypic and genotypic data, but up until now it has never been investigated through genotypic measures in ASD.\n\nWe investigated genotypically similar mating pairs using genome-wide single nucleotide polymorphism data on trio families (Autism Genome Project data [1590 parents] and Simons Simplex Collection data [1962 parents]). To determine whether or not an excess in genetic similarity was present, we employed kinship coefficients and examined spousal correlation between the principal components in both the Autism Genome Project and Simons Simplex Collection datasets. We also examined assortative mating using phenotype data on the parents to detect any correlation between ASD traits.\n\nWe found significant evidence of genetic similarity between the parents of ASD offspring using both methods in the Autism Genome Project dataset. In the Simons Simplex Collection, there was also significant evidence of genetic similarity between the parents when explored through spousal correlation.\n\nThis study gives further support to the hypothesis that positive assortative mating plays a role in ASD.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Assortative mating is a nonrandom mating system in which individuals with similar genotypes and/or phenotypes mate with one another more frequently than would be expected in a random mating system. Assortative mating has been hypothesized to play a role in autism spectrum disorder (ASD) in an attempt to explain some of the increase in the prevalence of ASD that has recently been observed.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31200929/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Female",
+    "Genome-Wide Association Study",
+    "Genotype",
+    "Humans",
+    "Male",
+    "Marriage",
+    "Parents",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide"
+  ],
+  "keywords": [
+    "Ancestral assortative mating",
+    "Assortative mating",
+    "Autism spectrum disorder (ASD)",
+    "Genetic assortative mating",
+    "Kinship",
+    "Random mating"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

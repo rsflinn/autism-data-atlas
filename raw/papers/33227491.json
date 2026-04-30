@@ -1,0 +1,56 @@
+{
+  "pmid": "33227491",
+  "doi": "10.1016/j.nbd.2020.105189",
+  "title": "Lateral habenula dysfunctions in Tm4sf2mice model for neurodevelopmental disorder",
+  "authors": "Murru L, Ponzoni L, Longatti A, Mazzoleni S, Giansante G, Bassani S, et al.",
+  "journal": "Neurobiology of disease",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "Mutations in the TM4SF2 gene, which encodes TSPAN7, cause a severe form of intellectual disability (ID) often comorbid with autism spectrum disorder (ASD). Recently, we found that TM4SF2 loss in mice affects cognition. Here, we report that Tm4sf2mice, beyond an ID-like phenotype, display altered sociability, increased repetitive behaviors, anhedonic- and depressive-like states. Cognition relies on the integration of information from several brain areas. In this context, the lateral habenula (LHb) is strategically positioned to coordinate the brain regions involved in higher cognitive functions. Furthermore, in Tm4sf2mice we found that LHb neurons present hypoexcitability, aberrant neuronal firing pattern and altered sodium and potassium voltage-gated ion channels function. Interestingly, we also found a reduced expression of voltage-gated sodium channel and a hyperactivity of the PKC-ERK pathway, a well-known modulator of ion channels activity, which might explain the functional phenotype showed by Tm4sf2mice LHb neurons. These findings support Tm4sf2mice as useful in modeling some ASD-like symptoms. Additionally, we can speculate that LHb functional alteration in Tm4sf2mice might play a role in the disease pathophysiology.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Mutations in the TM4SF2 gene, which encodes TSPAN7, cause a severe form of intellectual disability (ID) often comorbid with autism spectrum disorder (ASD). Recently, we found that TM4SF2 loss in mice affects cognition.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33227491/",
+  "mesh_terms": [
+    "Anhedonia",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Depression",
+    "Disease Models, Animal",
+    "Habenula",
+    "Intellectual Disability",
+    "MAP Kinase Signaling System",
+    "Male",
+    "Membrane Proteins",
+    "Mice",
+    "Mice, Knockout",
+    "Nerve Tissue Proteins",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "Potassium Channels, Voltage-Gated",
+    "Protein Kinase C",
+    "Social Behavior",
+    "Stereotyped Behavior",
+    "Voltage-Gated Sodium Channels"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Intellectual disability",
+    "Lateral habenula",
+    "Neurodevelopmental disorders",
+    "TSPAN7"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

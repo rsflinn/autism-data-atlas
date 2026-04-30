@@ -1,0 +1,42 @@
+{
+  "pmid": "33262327",
+  "doi": "10.1038/s41398-020-01106-8",
+  "title": "Autism-associated miR-873 regulates ARID1B, SHANK3 and NRXN2 involved in neurodevelopment",
+  "authors": "Lu J, Zhu Y, Williams S, Watts M, Tonta MA, Coleman HA, et al.",
+  "journal": "Translational psychiatry",
+  "date": "2020-12",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorders (ASD) are highly heritable neurodevelopmental disorders with significant genetic heterogeneity. Noncoding microRNAs (miRNAs) are recognised as playing key roles in development of ASD albeit the function of these regulatory genes remains unclear. We previously conducted whole-exome sequencing of Australian families with ASD and identified four novel single nucleotide variations in mature miRNA sequences. A pull-down transcriptome analysis using transfected SH-SY5Y cells proposed a mechanistic model to examine changes in binding affinity associated with a unique mutation found in the conserved 'seed' region of miR-873-5p (rs777143952: T&#x2009;>&#x2009;A). Results suggested several ASD-risk genes were differentially targeted by wild-type and mutant miR-873 variants. In the current study, a dual-luciferase reporter assay confirmed miR-873 variants have a 20-30% inhibition/dysregulation effect on candidate autism risk genes ARID1B, SHANK3 and NRXN2 and also confirmed the affected expression with qPCR. In vitro mouse hippocampal neurons transfected with mutant miR-873 showed less morphological complexity and enhanced sodium currents and excitatory neurotransmission compared to cells transfected with wild-type miR-873. A second in vitro study showed CRISPR/Cas9 miR-873 disrupted SH-SY5Y neuroblastoma cells acquired a neuronal-like morphology and increased expression of ASD important genes ARID1B, SHANK3, ADNP2, ANK2 and CHD8. These results represent the first functional evidence that miR-873 regulates key neural genes involved in development and cell differentiation.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "ARID1B",
+    "CHD8",
+    "NRXN2",
+    "SHANK3"
+  ],
+  "summary": "Autism spectrum disorders (ASD) are highly heritable neurodevelopmental disorders with significant genetic heterogeneity. Noncoding microRNAs (miRNAs) are recognised as playing key roles in development of ASD albeit the function of these regulatory genes remains unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33262327/",
+  "mesh_terms": [
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Mice",
+    "MicroRNAs",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins",
+    "Transcription Factors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

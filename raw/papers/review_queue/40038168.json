@@ -1,0 +1,45 @@
+{
+  "pmid": "40038168",
+  "doi": "10.1007/s12016-025-09035-4",
+  "title": "Review of the Pathophysiology and Clinical Manifestations of 22q11.2 Deletion and Duplication Syndromes",
+  "authors": "Purow J, Waidner L, Ale H",
+  "journal": "Clinical reviews in allergy & immunology",
+  "date": "2025-03",
+  "source": "pubmed",
+  "abstract": "22q11.2 deletion and duplication syndromes are complex genetic syndromes composed of a wide spectrum of clinical manifestations, mostly affecting cardiovascular, endocrine, neurodevelopmental, and immune functioning. 22q11.2 deletion syndrome (22q11.2 DS) is more common and widely recognized compared to the duplication counterpart. Most of the literature focuses on delineating the genetic, molecular, and clinical impact of 22q11.2 DS, and less information focuses on the 22q11.2 duplication syndrome (22q11.2 DupS). We will cover both variants in this review and shed light on the less reported atypical 22q11.2 deletions and duplications. Variants in multiple genes in the 22q11.2 region, especially the TBX1 and DGCR8 genes, have been linked to the clinical phenotypes of 22q11.2 DS and 22q11.2 DupS. Variations in genes on the non-deleted homologous chromosome in the critical 22q11.2 region can further influence phenotypes by revealing recessive diseases. This effect has been documented for several genes in this area, such as SNAP29 and GP1BB. Neural crest development is usually impacted leading to various cardiovascular defects including Tetralogy of Fallot and truncus arteriosus. It can also cause palatal defects, especially velopharyngeal deficiency, considered another hallmark of 22q11DS. Individuals may also present with hypocalcemia and thyroid dysfunction due to impaired parathyroid gland formation and thyroid dysgenesis, respectively. Immunodeficiencies result from impaired T-cell development due to thymic hypoplasia, also a consequence of abnormal neural crest development. Humoral defects are also now increasingly recognized in these individuals. Psychiatric, neurocognitive, and developmental features are common, but severity varies across affected individuals. Other systems like the genitourinary, gastrointestinal, skeletal, and hematological are also involved. Monitoring and treating all the possible clinical manifestations require a multi-disciplinary approach to effectively address the plethora of clinical findings. The complex nature of the treatment guidelines reflects the clinical heterogeneity of these genetic variations. Further research is required to continue exploring the mechanisms relating to the impact of genetic aberrations in the 22q11.2 region on various clinical parameters. This will hopefully guide future updates to the current clinical practice guidelines to continue tailoring them to the individual needs of each affected person.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "22q11.2 deletion and duplication syndromes are complex genetic syndromes composed of a wide spectrum of clinical manifestations, mostly affecting cardiovascular, endocrine, neurodevelopmental, and immune functioning. 22q11.2 deletion syndrome (22q11.2 DS) is more common and widely recognized compared to the duplication counterpart.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40038168/",
+  "mesh_terms": [
+    "Humans",
+    "DiGeorge Syndrome",
+    "Phenotype",
+    "Chromosomes, Human, Pair 22",
+    "Chromosome Duplication",
+    "Genetic Predisposition to Disease",
+    "Chromosome Deletion",
+    "Animals"
+  ],
+  "keywords": [
+    "22q11.2 deletion syndrome",
+    "Chromosome 22q11.2",
+    "Congenital heart defects",
+    "DiGeorge syndrome",
+    "Immune deficiency",
+    "Thymic hypoplasia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

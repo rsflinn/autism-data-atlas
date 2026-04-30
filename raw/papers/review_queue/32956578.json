@@ -1,0 +1,48 @@
+{
+  "pmid": "32956578",
+  "doi": "10.1002/cpsc.122",
+  "title": "Human iPSC-Derived Blood-Brain Barrier Models: Valuable Tools for Preclinical Drug Discovery and Development?",
+  "authors": "Appelt-Menzel A, Oerter S, Mathew S, Haferkamp U, Hartmann C, Jung M, et al.",
+  "journal": "Current protocols in stem cell biology",
+  "date": "2020-12",
+  "source": "pubmed",
+  "abstract": "Translating basic biological knowledge into applications remains a key issue for effectively tackling neurodegenerative, neuroinflammatory, or neuroendocrine disorders. Efficient delivery of therapeutics across the neuroprotective blood-brain barrier (BBB) still poses a demanding challenge for drug development targeting central nervous system diseases. Validated in vitro models of the BBB could facilitate effective testing of drug candidates targeting the brain early in the drug discovery process during lead generation. We here review the potential of mono- or (isogenic) co-culture BBB models based on brain capillary endothelial cells (BCECs) derived from human-induced pluripotent stem cells (hiPSCs), and compare them to several available BBB in vitro models from primary human or non-human cells and to rodent in vivo models, as well as to classical and widely used barrier models [Caco-2, parallel artificial membrane permeability assay (PAMPA)]. In particular, we are discussing the features and predictivity of these models and how hiPSC-derived BBB models could impact future discovery and development of novel CNS-targeting therapeutics. &#xa9; 2020 The Authors.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Translating basic biological knowledge into applications remains a key issue for effectively tackling neurodegenerative, neuroinflammatory, or neuroendocrine disorders. Efficient delivery of therapeutics across the neuroprotective blood-brain barrier (BBB) still poses a demanding challenge for drug development targeting central nervous system diseases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32956578/",
+  "mesh_terms": [
+    "Animals",
+    "Blood-Brain Barrier",
+    "Brain",
+    "Coculture Techniques",
+    "Drug Discovery",
+    "Drugs, Investigational",
+    "Endothelial Cells",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Models, Biological",
+    "Permeability"
+  ],
+  "keywords": [
+    "CNS disease",
+    "blood-brain barrier (BBB) in vitro model",
+    "drug permeability screening",
+    "human-induced pluripotent stem cells (hiPSC)",
+    "preclinical drug discovery"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

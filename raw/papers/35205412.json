@@ -1,0 +1,44 @@
+{
+  "pmid": "35205412",
+  "doi": "10.3390/genes13020368",
+  "title": "Exome Evaluation of Autism-Associated Genes in Amazon American Populations",
+  "authors": "da Costa GE, Fernandes GL, Rodrigues JCG, da V B Leal DF, Pastana LF, Pereira EEB, et al.",
+  "journal": "Genes",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder is a neurodevelopmental disorder, affecting one in 160 children worldwide. The causes of autism are still poorly understood, but research shows the relevance of genetic factors in its pathophysiology, including the,,andgenes. Information about the genetic influence on various diseases, including autism, in the Amerindian population from Amazon, is still scarce. We investigated 35 variants of the,,, andgene in Amazonian Amerindians in comparison with publicly available population frequencies from the 1000 Genomes Project database. Our study identified 16 variants in the Amerindian population of the Amazon with frequencies significantly different from the other populations. Among them, the(rs17183814, rs75109281, and rs150453735),(rs56850311 and rs939845), and(rs9394145 and rs115441992) variants presented higher frequency than all other populations analyzed. In addition, nine variants were found with lower frequency among the Amerindians:(rs35057134 and rs10467770),(rs3769951, rs2304014, rs1838846, and rs7593568),(rs112773801 and rs56850311), and(rs453590). These data show the unique genetic profile of the indigenous population of the Brazilian Amazon. Knowledge of these variants can help to understand the pathophysiology and diagnosis of autism among Amerindians, Brazilians, and in admixed populations that have contributions from this ethnic group.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder is a neurodevelopmental disorder, affecting one in 160 children worldwide. The causes of autism are still poorly understood, but research shows the relevance of genetic factors in its pathophysiology, including the,,andgenes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35205412/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Child",
+    "Exome",
+    "Forkhead Transcription Factors",
+    "Gene Frequency",
+    "Humans",
+    "Repressor Proteins",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Amerindians",
+    "autism",
+    "genetic",
+    "susceptibility"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

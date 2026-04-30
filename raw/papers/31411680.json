@@ -1,0 +1,45 @@
+{
+  "pmid": "31411680",
+  "doi": "10.1093/hmg/ddz196",
+  "title": "From enhanceropathies to the epigenetic manifold underlying human cognition",
+  "authors": "Vitriolo A, Gabriele M, Testa G",
+  "journal": "Human molecular genetics",
+  "date": "2019-11",
+  "source": "pubmed",
+  "abstract": "A vast portion of intellectual disability and autism spectrum disorders is genetically caused by mutations in chromatin modulators. These proteins play key roles in development and are also highly expressed in the adult brain. Specifically, the pivotal role of chromatin regulation in transcription has placed enhancers at the core of neurodevelopmental disorders (NDDs) studies, ushering in the coining of the term enhanceropathies. The convergence of these disorders is multilayered, spanning from molecular causes to pathophysiological traits, including extensive overlaps between enhanceropathies and neurocristopathies. The reconstruction of epigenetic circuitries wiring development and underlying cognitive functions has gone hand in hand with the development of tools that increase the sensitivity of identifying regulatory regions and linking enhancers to their target genes. The available models, including loop extrusion and phase separation, have been bringing into relief complementary aspects to interpret gene regulation datasets, reinforcing the idea that enhancers are not all the same and that regulatory regions possess shades of enhancer-ness and promoter-ness. The current limits in enhancer definition, within the emerging broader understanding of chromatin dynamics in time and space, are now on the verge of being transformed by the possibility to interrogate developmentally relevant three-dimensional cellular models at single-cell resolution. Here we discuss the contours of how these technological advances, as well as the epistemic limitations they are set to overcome, may well usher in a change of paradigm for NDDs, moving the quest for convergence from enhancers to the four-dimensional (4D) genome.",
+  "relevance_score": 21,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "A vast portion of intellectual disability and autism spectrum disorders is genetically caused by mutations in chromatin modulators. These proteins play key roles in development and are also highly expressed in the adult brain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31411680/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Brain",
+    "Chromatin",
+    "Cognition",
+    "Enhancer Elements, Genetic",
+    "Epigenesis, Genetic",
+    "Gene Expression Regulation",
+    "Histones",
+    "Humans",
+    "Mutation",
+    "Neurodevelopmental Disorders",
+    "Neurons",
+    "Organoids",
+    "Promoter Regions, Genetic"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

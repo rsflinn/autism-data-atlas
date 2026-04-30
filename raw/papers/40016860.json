@@ -1,0 +1,52 @@
+{
+  "pmid": "40016860",
+  "doi": "10.1186/s13229-025-00650-8",
+  "title": "Autistic behavior is a common outcome of biallelic disruption of PDZD8 in humans and mice",
+  "authors": "Pantiru AD, Van de Sompele S, Ligneul C, Chatelain C, Barrea C, Lerch JP, et al.",
+  "journal": "Molecular autism",
+  "date": "2025-02",
+  "source": "pubmed",
+  "abstract": "Intellectual developmental disorder with autism and dysmorphic facies (IDDADF) is a rare syndromic intellectual disability (ID) caused by homozygous disruption of PDZD8 (PDZ domain-containing protein 8), an integral endoplasmic reticulum (ER) protein. All four previously identified IDDADF cases exhibit autistic behavior, with autism spectrum disorder (ASD) diagnosed in three cases. To determine whether autistic behavior is a common outcome of PDZD8 disruption, we studied a third family with biallelic mutation of PDZD8 (family C) and further characterized PDZD8-deficient (Pdzd8) mice that exhibit stereotyped motor behavior relevant to ASD.\n\nHomozygosity mapping, whole-exome sequencing, and cosegregation analysis were used to identify the PDZD8 variant responsible for IDDADF, including diagnoses of ASD, in consanguineous family C. To assess the in vivo effect of PDZD8 disruption on social responses and related phenotypes, behavioral, structural magnetic resonance imaging, and microscopy analyses were conducted on the Pdzd8mouse line. Metabolic activity was profiled using sealed metabolic cages.\n\nThe discovery of a third family with IDDADF caused by biallelic disruption of PDZD8 permitted identification of a core clinical phenotype consisting of developmental delay, ID, autism, and facial dysmorphism. In addition to impairments in social recognition and social odor discrimination, Pdzd8mice exhibit increases in locomotor activity (dark phase only) and metabolic rate (both lights-on and dark phases), and decreased plasma triglyceride in males. In the brain, Pdzd8mice exhibit increased levels of accessory olfactory bulb volume, primary olfactory cortex volume, dendritic spine density, and ER stress- and mitochondrial fusion-related transcripts, as well as decreased levels of cerebellar nuclei volume and adult neurogenesis.\n\nThe total number of known cases of PDZD8-related IDDADF remains low. Some mouse experiments in the study did not use balanced numbers of males and females. The assessment of ER stress and mitochondrial fusion markers did not extend beyond mRNA levels.\n\nOur finding that the Pdzd8mouse model and all six known cases of IDDADF exhibit autistic behavior, with ASD diagnosed in five cases, identifies this trait as a common outcome of biallelic disruption of PDZD8 in humans and mice. Other abnormalities exhibited by Pdzd8mice suggest that the range of comorbidities associated with PDZD8 deficiency may be wider than presently recognized.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Intellectual developmental disorder with autism and dysmorphic facies (IDDADF) is a rare syndromic intellectual disability (ID) caused by homozygous disruption of PDZD8 (PDZ domain-containing protein 8), an integral endoplasmic reticulum (ER) protein. All four previously identified IDDADF cases exhibit autistic behavior, with autism spectrum disorder (ASD) diagnosed in three cases.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40016860/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Male",
+    "Female",
+    "Mice",
+    "Autistic Disorder",
+    "Alleles",
+    "Disease Models, Animal",
+    "Intellectual Disability",
+    "Pedigree",
+    "Behavior, Animal",
+    "Autism Spectrum Disorder",
+    "Phenotype",
+    "Mutation",
+    "Child",
+    "Homozygote",
+    "Exome Sequencing"
+  ],
+  "keywords": [
+    "Autism spectrum disorder",
+    "Intellectual disability",
+    "Olfactory behavior",
+    "PDZD8",
+    "Social discrimination"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

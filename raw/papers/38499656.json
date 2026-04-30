@@ -1,0 +1,48 @@
+{
+  "pmid": "38499656",
+  "doi": "10.1038/s41380-024-02518-4",
+  "title": "Microglial over-pruning of synapses during development in autism-associated SCN2A-deficient mice and human cerebral organoids",
+  "authors": "Wu J, Zhang J, Chen X, Wettschurack K, Que Z, Deming BA, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a major neurodevelopmental disorder affecting 1 in 36 children in the United States. While neurons have been the focus of understanding ASD, an altered neuro-immune response in the brain may be closely associated with ASD, and a neuro-immune interaction could play a role in the disease progression. As the resident immune cells of the brain, microglia regulate brain development and homeostasis via core functions including phagocytosis of synapses. While ASD has been traditionally considered a polygenic disorder, recent large-scale human genetic studies have identified SCN2A deficiency as a leading monogenic cause of ASD and intellectual disability. We generated a Scn2a-deficient mouse model, which displays major behavioral and neuronal phenotypes. However, the role of microglia in this disease model is unknown. Here, we reported that Scn2a-deficient mice have impaired learning and memory, accompanied by reduced synaptic transmission and lower spine density in neurons of the hippocampus. Microglia in Scn2a-deficient mice are partially activated, exerting excessive phagocytic pruning of post-synapses related to the complement C3 cascades during selective developmental stages. The ablation of microglia using PLX3397 partially restores synaptic transmission and spine density. To extend our findings from rodents to human cells, we established a microglia-incorporated human cerebral organoid model carrying an SCN2A protein-truncating mutation identified in children with ASD. We found that human microglia display increased elimination of post-synapse in cerebral organoids carrying the SCN2A mutation. Our study establishes a key role of microglia in multi-species autism-associated models of SCN2A deficiency from mouse to human cells.",
+  "relevance_score": 25,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "SCN2A"
+  ],
+  "summary": "Autism spectrum disorder (ASD) is a major neurodevelopmental disorder affecting 1 in 36 children in the United States. While neurons have been the focus of understanding ASD, an altered neuro-immune response in the brain may be closely associated with ASD, and a neuro-immune interaction could play a role in the disease progression.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38499656/",
+  "mesh_terms": [
+    "Animals",
+    "Microglia",
+    "Humans",
+    "Mice",
+    "NAV1.2 Voltage-Gated Sodium Channel",
+    "Autism Spectrum Disorder",
+    "Disease Models, Animal",
+    "Synapses",
+    "Organoids",
+    "Neurons",
+    "Brain",
+    "Male",
+    "Mice, Knockout",
+    "Hippocampus",
+    "Synaptic Transmission",
+    "Autistic Disorder",
+    "Mice, Inbred C57BL"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

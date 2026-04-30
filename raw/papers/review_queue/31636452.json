@@ -1,0 +1,44 @@
+{
+  "pmid": "31636452",
+  "doi": "10.1038/s41588-019-0511-y",
+  "title": "Genetic architecture of subcortical brain structures in 38,851 individuals",
+  "authors": "Satizabal CL, Adams HHH, Hibar DP, White CC, Knol MJ, Stein JL, et al.",
+  "journal": "Nature genetics",
+  "date": "2019-10",
+  "source": "pubmed",
+  "abstract": "Subcortical brain structures are integral to motion, consciousness, emotions and learning. We identified common genetic variation related to the volumes of the nucleus accumbens, amygdala, brainstem, caudate nucleus, globus pallidus, putamen and thalamus, using genome-wide association analyses in almost 40,000 individuals from CHARGE, ENIGMA and UK Biobank. We show that variability in subcortical volumes is heritable, and identify 48 significantly associated loci (40 novel at the time of analysis). Annotation of these loci by utilizing gene expression, methylation and neuropathological data identified 199 genes putatively implicated in neurodevelopment, synaptic signaling, axonal transport, apoptosis, inflammation/infection and susceptibility to neurological disorders. This set of genes is significantly enriched for Drosophila orthologs associated with neurodevelopmental phenotypes, suggesting evolutionarily conserved mechanisms. Our findings uncover novel biology and potential drug targets underlying brain development and disease.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Subcortical brain structures are integral to motion, consciousness, emotions and learning. We identified common genetic variation related to the volumes of the nucleus accumbens, amygdala, brainstem, caudate nucleus, globus pallidus, putamen and thalamus, using genome-wide association analyses in almost 40,000 individuals from CHARGE, ENIGMA and UK Biobank.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31636452/",
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Animals",
+    "Brain",
+    "Cohort Studies",
+    "Drosophila melanogaster",
+    "Genetic Variation",
+    "Genome-Wide Association Study",
+    "Humans",
+    "Magnetic Resonance Imaging",
+    "Middle Aged",
+    "Neurodevelopmental Disorders",
+    "Organ Size"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

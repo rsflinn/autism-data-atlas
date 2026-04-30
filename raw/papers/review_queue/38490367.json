@@ -1,0 +1,48 @@
+{
+  "pmid": "38490367",
+  "doi": "10.1016/j.biopsych.2024.03.009",
+  "title": "Tonic NMDA Receptor Currents in the Brain: Regulation and Cognitive Functions",
+  "authors": "Kim H, Choi S, Lee E, Koh W, Lee CJ",
+  "journal": "Biological psychiatry",
+  "date": "2024-03",
+  "source": "pubmed",
+  "abstract": "Synaptically localized NMDA receptors (NMDARs) play a crucial role in important cognitive functions by mediating synaptic transmission and plasticity. In contrast, a tonic NMDAR current, thought to be mediated by extrasynaptic NMDARs, has a less clear function. This review provides a comprehensive overview of tonic NMDAR currents, focusing on their roles in synaptic transmission/plasticity and their impact on cognitive functions and psychiatric disorders. We discuss the roles of 3 endogenous ligands (i.e., glutamate, glycine, and D-serine) and receptors in mediating tonic NMDAR currents and explore the diverse mechanisms that regulate tonic NMDAR currents. In light of recent controversies surrounding the source of D-serine, we highlight the recent findings suggesting that astrocytes release D-serine to modulate tonic NMDAR currents and control cognitive flexibility. Furthermore, we propose distinct roles of neuronal and astrocytic D-serine in different locations and their implications for synaptic regulation and cognitive functions. The potential roles of tonic NMDAR currents in various psychiatric disorders, such as schizophrenia and autism spectrum disorder, are discussed in the context of the NMDAR hypofunction hypothesis. By presenting the mechanisms by which various cells, particularly astrocytes, regulate tonic NMDAR currents, we aim to stimulate future research in NMDAR hypofunction- or hyperfunction-related psychiatric disorders. This review not only provides a better understanding of the complex interplay between tonic NMDAR currents and cognitive functions but also sheds light on its potential therapeutic target for the treatment of various psychiatric disorders.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Synaptically localized NMDA receptors (NMDARs) play a crucial role in important cognitive functions by mediating synaptic transmission and plasticity. In contrast, a tonic NMDAR current, thought to be mediated by extrasynaptic NMDARs, has a less clear function.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38490367/",
+  "mesh_terms": [
+    "Receptors, N-Methyl-D-Aspartate",
+    "Humans",
+    "Animals",
+    "Cognition",
+    "Brain",
+    "Astrocytes",
+    "Synaptic Transmission",
+    "Neuronal Plasticity",
+    "Serine",
+    "Neurons",
+    "Glutamic Acid"
+  ],
+  "keywords": [
+    "Astrocyte",
+    "Cognition",
+    "NMDAR hypofunction",
+    "Psychiatric disorders",
+    "Synaptic plasticity",
+    "Tonic NMDAR current"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

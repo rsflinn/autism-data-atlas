@@ -1,0 +1,49 @@
+{
+  "pmid": "39074527",
+  "doi": "10.1016/j.pnpbp.2024.111111",
+  "title": "Adaptive group behavior of Fragile X mice in unfamiliar environments",
+  "authors": "Giua G, Strauss B, Lassalle O, Chavis P, Manzoni OJ",
+  "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+  "date": "2024-07",
+  "source": "pubmed",
+  "abstract": "Fragile X Syndrome (FXS) stands out as a prominent cause of inherited intellectual disability and a prevalent disorder closely linked to autism. FXS is characterized by substantial alterations in social behavior, encompassing social withdrawal, avoidance of eye contact, heightened social anxiety, increased arousal levels, language deficits, and challenges in regulating emotions. Conventional behavioral assessments primarily focus on short-term interactions within controlled settings. In this study, we conducted a comprehensive examination of the adaptive group behavior of Fmr1 KO male mice over a three-day period, without introducing experimental interventions or task-based evaluations. The data unveiled intricate behavioral anomalies, with the most significant changes manifesting during the initial adaptation to unfamiliar environments. Notably, certain behaviors exhibited a gradual return to typical patterns over time. This dynamic Fmr1 KO phenotype exhibited heightened activity, featuring increased exploration, amplified social interest, and an unconventional approach to social interactions characterized by a higher frequency of shorter engagements. These findings contribute to the growing understanding of social behavior in individuals with FXS and underscore the significance of comprehending their adaptive responses in various environmental contexts.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X Syndrome (FXS) stands out as a prominent cause of inherited intellectual disability and a prevalent disorder closely linked to autism. FXS is characterized by substantial alterations in social behavior, encompassing social withdrawal, avoidance of eye contact, heightened social anxiety, increased arousal levels, language deficits, and challenges in regulating emotions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39074527/",
+  "mesh_terms": [
+    "Animals",
+    "Fragile X Messenger Ribonucleoprotein 1",
+    "Fragile X Syndrome",
+    "Male",
+    "Social Behavior",
+    "Mice, Knockout",
+    "Mice",
+    "Environment",
+    "Adaptation, Psychological",
+    "Disease Models, Animal",
+    "Behavior, Animal",
+    "Mice, Inbred C57BL",
+    "Exploratory Behavior"
+  ],
+  "keywords": [
+    "Adaptive behavior",
+    "Explorative behavior",
+    "Fragile X syndrome",
+    "Hyperarousal",
+    "Live mouse tracker",
+    "Social behavior"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

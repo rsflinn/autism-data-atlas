@@ -1,0 +1,51 @@
+{
+  "pmid": "35892268",
+  "doi": "10.1002/ajmg.a.62899",
+  "title": "Speech and language development and genotype-phenotype correlation in 49 individuals with KAT6A syndrome",
+  "authors": "St John M, Amor DJ, Morgan AT",
+  "journal": "American journal of medical genetics. Part A",
+  "date": "2022-07",
+  "source": "pubmed",
+  "abstract": "Pathogenic KAT6A variants cause syndromic neurodevelopmental disability. \"Speech delay\" is reported, yet none have examined specific speech and language features of KAT6A syndrome. Here we phenotype the communication profile of individuals with pathogenic KAT6A variants. Medical and communication data were acquired via standardized surveys and telehealth-assessment. Forty-nine individuals (25 females; aged 1;5-31;10) were recruited, most with truncating variants (44/49). Intellectual disability/developmental delay (42/45) was common, mostly moderate/severe, alongside concerns about vision (37/48), gastrointestinal function (33/48), and sleep (31/48). One-third (10/31) had a diagnosis of autism. Seventy-three percent (36/49) were minimally-verbal, relying on nonverbal behaviors to communicate. Verbal participants (13/49) displayed complex and co-occurring speech diagnoses regarding the perception/production of speech sounds, including phonological impairment (i.e., linguistic deficits) and speech apraxia (i.e., motor planning/programming deficits), which significantly impacted intelligibility. Receptive/expressive language and adaptive functioning were also severely impaired. Truncating variants in the last two exons of KAT6A were associated with poorer communication, daily-living skills, and socialization outcomes. In conclusion, severe communication difficulties are present in KAT6A syndrome, typically on a background of significant intellectual disability, vision, feeding and motor deficits, and autism in some. Most are minimally-verbal, with apparent contributions from underlying motor deficits and cognitive-linguistic impairment. Alternative/augmentative communication (AAC) approaches are required for many into adult life. Tailored AAC options should be fostered early, to accommodate the best communication outcomes.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Pathogenic KAT6A variants cause syndromic neurodevelopmental disability. \"Speech delay\" is reported, yet none have examined specific speech and language features of KAT6A syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35892268/",
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Apraxias",
+    "Genetic Association Studies",
+    "Histone Acetyltransferases",
+    "Intellectual Disability",
+    "Language Development",
+    "Speech",
+    "Male",
+    "Infant",
+    "Child, Preschool",
+    "Child",
+    "Adolescent",
+    "Young Adult",
+    "Adult"
+  ],
+  "keywords": [
+    "Arboleda-Tham syndrome",
+    "KAT6A syndrome",
+    "language",
+    "nonverbal communication",
+    "speech"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

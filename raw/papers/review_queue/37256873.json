@@ -1,0 +1,38 @@
+{
+  "pmid": "37256873",
+  "doi": "10.1371/journal.pone.0282958",
+  "title": "Effects of acute low-moderate dose ionizing radiation to human brain organoids",
+  "authors": "Oyefeso FA, Goldberg G, Opoku NYPS, Vazquez M, Bertucci A, Chen Z, et al.",
+  "journal": "PloS one",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "Human exposure to low-to-moderate dose ionizing radiation (LMD-IR) is increasing via environmental, medical, occupational sources. Acute exposure to LMD-IR can cause subclinical damage to cells, resulting in altered gene expression and cellular function within the human brain. It has been difficult to identify diagnostic and predictive biomarkers of exposure using traditional research models due to factors including lack of 3D structure in monolayer cell cultures, limited ability of animal models to accurately predict human responses, and technical limitations of studying functional human brain tissue. To address this gap, we generated brain/cerebral organoids from human induced pluripotent stem cells to study the radiosensitivity of human brain cells, including neurons, astrocytes, and oligodendrocytes. While organoids have become popular models for studying brain physiology and pathology, there is little evidence to confirm that exposing brain organoids to LMD-IR will recapitulate previous in vitro and in vivo observations. We hypothesized that exposing brain organoids to proton radiation would (1) cause a time- and dose-dependent increase in DNA damage, (2) induce cell type-specific differences in radiosensitivity, and (3) increase expression of oxidative stress and DNA damage response genes. Organoids were exposed to 0.5 or 2 Gy of 250 MeV protons and samples were collected at 30 minute, 24 hour, and 48 hour timepoints. Using immunofluorescence and RNA sequencing, we found time- and dose-dependent increases in DNA damage in irradiated organoids; no changes in cell populations for neurons, oligodendrocytes, and astrocytes by 24 hours; decreased expression of genes related to oligodendrocyte lineage, astrocyte lineage, mitochondrial function, and cell cycle progression by 48 hours; increased expression of genes related to neuron lineage, oxidative stress, and DNA damage checkpoint regulation by 48 hours. Our findings demonstrate the possibility of using organoids to characterize cell-specific radiosensitivity and early radiation-induced gene expression changes within the human brain, providing new avenues for further study of the mechanisms underlying acute neural cell responses to IR exposure at low-to-moderate doses.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Human exposure to low-to-moderate dose ionizing radiation (LMD-IR) is increasing via environmental, medical, occupational sources. Acute exposure to LMD-IR can cause subclinical damage to cells, resulting in altered gene expression and cellular function within the human brain.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37256873/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Radiation, Ionizing",
+    "Brain",
+    "Neurons",
+    "Organoids"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

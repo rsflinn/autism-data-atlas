@@ -1,0 +1,42 @@
+{
+  "pmid": "41633977",
+  "doi": "10.1038/s41467-025-67931-x",
+  "title": "Splice isoform-perturbation coupled to single cell transcriptome profiling reveals functions of microexons in neurogenesis and autism-linked pathways",
+  "authors": "Dupas SJ, Parada GE, Li JD, Brown KR, Moffat J, Blencowe BJ",
+  "journal": "Nature communications",
+  "date": "2026-02",
+  "source": "pubmed",
+  "abstract": "A major goal of biomedical research is to assign functions to the myriad alternative RNA and protein isoforms. This challenge is particularly relevant to the mammalian nervous system, which produces complex repertoires of alternative splicing events. Here, we describe CHyMErA-seq, a platform that couples systematic deletion of exons to a single cell transcriptomics read-out, and apply this method to investigate a critical program of brain-specific microexons. Perturbation of microexons during neurogenesis reveals convergent roles in the temporal regulation of gene expression programs that direct signaling pathways and morphogenesis. We further observe microexons, including those in the Bin1, Clasp1, Gfra1, Med23, Ptprf and Ralgapb genes, that are required for the correct timing of autism-linked gene expression. Collectively, we describe a flexible system for isoform-resolution perturbation at a single cell level, together with insights into the roles of microexons in the developmental timing of neurogenesis transcriptomic signatures linked to brain disorders.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "A major goal of biomedical research is to assign functions to the myriad alternative RNA and protein isoforms. This challenge is particularly relevant to the mammalian nervous system, which produces complex repertoires of alternative splicing events.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41633977/",
+  "mesh_terms": [
+    "Single-Cell Analysis",
+    "Neurogenesis",
+    "Humans",
+    "Alternative Splicing",
+    "Gene Expression Profiling",
+    "Protein Isoforms",
+    "Autistic Disorder",
+    "Exons",
+    "Animals",
+    "Transcriptome",
+    "Mice",
+    "Brain",
+    "Signal Transduction"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

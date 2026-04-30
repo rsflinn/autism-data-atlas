@@ -1,0 +1,42 @@
+{
+  "pmid": "32964039",
+  "doi": "10.1155/2020/6105608",
+  "title": "Untargeted Metabolomic Profiling Using UHPLC-QTOF/MS Reveals Metabolic Alterations Associated with Autism",
+  "authors": "Liang Y, Ke X, Xiao Z, Zhang Y, Chen Y, Li Y, et al.",
+  "journal": "BioMed research international",
+  "date": "2020-09",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a clinical spectrum of neurodevelopment disorder characterized by deficits in social communication and social interaction along with repetitive/stereotyped behaviors. The current diagnosis for autism relies entirely on clinical evaluation and has many limitations. In this study, we aim to elucidate the potential mechanism behind autism and establish a series of potential biomarkers for diagnosis. Here, we established an ultra-high-performance liquid chromatography-quadrupole time-of-flight mass spectrometry- (UHPLC-QTOF/MS-) based metabonomic approach to discriminate the metabolic modifications between the cohort of autism patients and the healthy subjects. UHPLC-QTOF/MS analysis revealed that 24 of the identified potential biomarkers were primarily involved in amino acid or lipid metabolism and the tryptophan kynurenine pathway. The combination of nicotinamide, anthranilic acid, D-neopterin, and 7,8-dihydroneopterin allows for discrimination between ASD patients and controls, which were validated in an independent autism case-control cohort. The results indicated that UHPLC-QTOF/MS-based metabolomics is capable of rapidly profiling autism metabolites and is a promising technique for the discovery of potential biomarkers related to autism.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a clinical spectrum of neurodevelopment disorder characterized by deficits in social communication and social interaction along with repetitive/stereotyped behaviors. The current diagnosis for autism relies entirely on clinical evaluation and has many limitations.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32964039/",
+  "mesh_terms": [
+    "Amino Acids",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Case-Control Studies",
+    "Child",
+    "Chromatography, High Pressure Liquid",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Lipid Metabolism",
+    "Male",
+    "Metabolomics",
+    "Tandem Mass Spectrometry"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

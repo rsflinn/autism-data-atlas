@@ -1,0 +1,63 @@
+{
+  "pmid": "33826902",
+  "doi": "10.1016/j.celrep.2021.108932",
+  "title": "The autism-associated protein CHD8 is required for cerebellar development and motor function",
+  "authors": "Kawamura A, Katayama Y, Kakegawa W, Ino D, Nishiyama M, Yuzaki M, et al.",
+  "journal": "Cell reports",
+  "date": "2021-04",
+  "source": "pubmed",
+  "abstract": "Mutations in the gene encoding the chromatin remodeler chromodomain helicase DNA-binding protein 8 (CHD8) are a highly penetrant risk factor for autism spectrum disorder (ASD). Although cerebellar abnormalities have long been thought to be related to ASD pathogenesis, it has remained largely unknown whether dysfunction of CHD8 in the cerebellum contributes to ASD phenotypes. We here show that cerebellar granule neuron progenitor (GNP)-specific deletion of Chd8 in mice impairs the proliferation and differentiation of these cells as well as gives rise to cerebellar hypoplasia and a motor coordination defect, but not to ASD-like behavioral abnormalities. CHD8 is found to regulate the expression of neuronal genes in GNPs. It also binds preferentially to promoter regions and modulates local chromatin accessibility of transcriptionally active genes in these cells. Our results have thus uncovered a key role for CHD8 in cerebellar development, with important implications for understanding the contribution of this brain region to ASD pathogenesis.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8"
+  ],
+  "summary": "Mutations in the gene encoding the chromatin remodeler chromodomain helicase DNA-binding protein 8 (CHD8) are a highly penetrant risk factor for autism spectrum disorder (ASD). Although cerebellar abnormalities have long been thought to be related to ASD pathogenesis, it has remained largely unknown whether dysfunction of CHD8 in the cerebellum contributes to ASD phenotypes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33826902/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Behavior, Animal",
+    "Cell Differentiation",
+    "Cell Line",
+    "Cell Proliferation",
+    "Cerebellum",
+    "Chromatin",
+    "DNA-Binding Proteins",
+    "Developmental Disabilities",
+    "Gene Deletion",
+    "Gene Expression Regulation, Developmental",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Motor Activity",
+    "Nervous System Malformations",
+    "Neural Stem Cells",
+    "Neurons",
+    "Synapses",
+    "Mice"
+  ],
+  "keywords": [
+    "CHD8",
+    "Purkinje cell",
+    "autism spectrum disorder",
+    "cell cycle",
+    "cerebellum",
+    "chromatin-remodeling factor",
+    "differentiation",
+    "granule neuron",
+    "motor function",
+    "synapse"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "pmid": "30368534",
+  "doi": "10.12740/PP/OnlineFirst/68856",
+  "title": "Measurement tools of autism syndrome severity and selected neurocognitive processes in individuals with ASD",
+  "authors": "Krzysztofik K, Otr&#x119;bski W",
+  "journal": "Psychiatria polska",
+  "date": "2018-08",
+  "source": "pubmed",
+  "abstract": "According to the latest theories explaining the pathomechanism and course of autism spectrum disorder (ASD), this disorder is characterized by abnormalities in the development of neurocognitive processes, such as executive functions, \"theory of mind\", cognitive style, or sensory integration processes. The structure of these processes is not homogenous, which has implications for measurement methodology. The type of indicators of the course and development level of neurocognitive processes analyzed by a researcher entails the need to choose an appropriate measurement tool. The behavioral indicators (verbal and nonverbal behavior of the participants) are measured with the use of observation sheets. On the other hand, the neurophysiological indicators are measured with the use of high-technology equipment, such as: computed tomography (CT), functional magnetic resonance imaging (fMRI), or eye tracker. By systematizing the tools most often used by researchers to measure sensory integration processes, the level of development of \"theory of mind\" and empathizing skills, as well as autism severity in individuals with ASD, the article reveals the relationship between the formulated hypothesis and the type of measured indicators of the abovementioned variables. It therefore suggests that a project of research should be set by the investigator within a methodological approach that is relevant for the verification of the formulated hypothesis.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "According to the latest theories explaining the pathomechanism and course of autism spectrum disorder (ASD), this disorder is characterized by abnormalities in the development of neurocognitive processes, such as executive functions, \"theory of mind\", cognitive style, or sensory integration processes. The structure of these processes is not homogenous, which has implications for measurement methodology.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30368534/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Cognition",
+    "Cognitive Dysfunction",
+    "Female",
+    "Humans",
+    "Male",
+    "Psychiatric Status Rating Scales",
+    "Severity of Illness Index"
+  ],
+  "keywords": [
+    "Autistic Spectrum Disorder",
+    "methods"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

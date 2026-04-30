@@ -1,0 +1,52 @@
+{
+  "pmid": "38811692",
+  "doi": "10.1038/s41380-024-02617-2",
+  "title": "Polygenic risk of social isolation behavior and its influence on psychopathology and personality",
+  "authors": "Socrates AJ, Mullins N, Gur RC, Gur RE, Stahl E, O'Reilly PF, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-05",
+  "source": "pubmed",
+  "abstract": "Social isolation has been linked to a range of psychiatric issues, but the behavioral component that drives it is not well understood. Here, a genome-wide associations study (GWAS) was carried out to identify genetic variants that contribute specifically to social isolation behavior (SIB) in up to 449,609 participants from the UK Biobank. 17 loci were identified at genome-wide significance, contributing to a 4% SNP-based heritability estimate. Using the SIB GWAS, polygenic risk scores (PRS) were derived in ALSPAC, an independent, developmental cohort, and used to test for association with self-reported friendship scores, comprising items related to friendship quality and quantity, at age 12 and 18 to determine whether genetic predisposition manifests during childhood development. At age 18, friendship scores were associated with the SIB PRS, demonstrating that the genetic factors can predict related social traits in late adolescence. Linkage disequilibrium (LD) score correlation using the SIB GWAS demonstrated genetic correlations with autism spectrum disorder (ASD), schizophrenia, major depressive disorder (MDD), educational attainment, extraversion, and loneliness. However, no evidence of causality was found using a conservative Mendelian randomization approach between SIB and any of the traits in either direction. Genomic Structural Equation Modeling (SEM) revealed a common factor contributing to SIB, neuroticism, loneliness, MDD, and ASD, weakly correlated with a second common factor that contributes to psychiatric and psychotic traits. Our results show that SIB contributes a small heritable component, which is associated genetically with other social traits such as friendship as well as psychiatric disorders.",
+  "relevance_score": 22,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Social isolation has been linked to a range of psychiatric issues, but the behavioral component that drives it is not well understood. Here, a genome-wide associations study (GWAS) was carried out to identify genetic variants that contribute specifically to social isolation behavior (SIB) in up to 449,609 participants from the UK Biobank.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38811692/",
+  "mesh_terms": [
+    "Humans",
+    "Genome-Wide Association Study",
+    "Multifactorial Inheritance",
+    "Male",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Polymorphism, Single Nucleotide",
+    "Social Isolation",
+    "Personality",
+    "Adolescent",
+    "Major Depressive Disorder",
+    "Child",
+    "Linkage Disequilibrium",
+    "Autism Spectrum Disorder",
+    "Schizophrenia",
+    "Psychopathology",
+    "Loneliness",
+    "Friends",
+    "Risk Factors",
+    "Middle Aged",
+    "Mendelian Randomization Analysis",
+    "Neuroticism",
+    "Adult"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

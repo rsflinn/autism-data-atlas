@@ -1,0 +1,58 @@
+{
+  "pmid": "22495309",
+  "doi": "10.1038/nature10989",
+  "title": "Sporadic autism exomes reveal a highly interconnected protein network of de novo mutations",
+  "authors": "O'Roak BJ, Vives L, Girirajan S, Karakoc E, Krumm N, Coe BP, et al.",
+  "journal": "Nature",
+  "date": "2012-04",
+  "source": "pubmed",
+  "abstract": "It is well established that autism spectrum disorders (ASD) have a strong genetic component; however, for at least 70% of cases, the underlying genetic cause is unknown. Under the hypothesis that de novo mutations underlie a substantial fraction of the risk for developing ASD in families with no previous history of ASD or related phenotypes--so-called sporadic or simplex families--we sequenced all coding regions of the genome (the exome) for parent-child trios exhibiting sporadic ASD, including 189 new trios and 20 that were previously reported. Additionally, we also sequenced the exomes of 50 unaffected siblings corresponding to these new (n = 31) and previously reported trios (n = 19), for a total of 677 individual exomes from 209 families. Here we show that de novo point mutations are overwhelmingly paternal in origin (4:1 bias) and positively correlated with paternal age, consistent with the modest increased risk for children of older fathers to develop ASD. Moreover, 39% (49 of 126) of the most severe or disruptive de novo mutations map to a highly interconnected &#x3b2;-catenin/chromatin remodelling protein network ranked significantly for autism candidate genes. In proband exomes, recurrent protein-altering mutations were observed in two genes: CHD8 and NTNG1. Mutation screening of six candidate genes in 1,703 ASD probands identified additional de novo, protein-altering mutations in GRIN2B, LAMC3 and SCN1A. Combined with copy number variant (CNV) data, these results indicate extreme locus heterogeneity but also provide a target for future discovery, diagnostics and therapeutics.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "CHD8",
+    "GRIN2B",
+    "SCN1A"
+  ],
+  "summary": "It is well established that autism spectrum disorders (ASD) have a strong genetic component; however, for at least 70% of cases, the underlying genetic cause is unknown. Under the hypothesis that de novo mutations underlie a substantial fraction of the risk for developing ASD in families with no previous history of ASD or related phenotypes--so-called sporadic or simplex families--we sequenced all coding regions of the genome (the exome) for parent-child trios exhibiting sporadic ASD, including ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/22495309/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "DNA-Binding Proteins",
+    "Exome",
+    "Exons",
+    "GPI-Linked Proteins",
+    "Genetic Predisposition to Disease",
+    "Humans",
+    "Laminin",
+    "NAV1.1 Voltage-Gated Sodium Channel",
+    "Nerve Tissue Proteins",
+    "Netrins",
+    "Parents",
+    "Point Mutation",
+    "Protein Interaction Maps",
+    "Receptors, N-Methyl-D-Aspartate",
+    "Reproducibility of Results",
+    "Siblings",
+    "Signal Transduction",
+    "Sodium Channels",
+    "Stochastic Processes",
+    "Transcription Factors",
+    "Tumor Suppressor Protein p53",
+    "beta Catenin"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

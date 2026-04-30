@@ -1,0 +1,55 @@
+{
+  "pmid": "39234879",
+  "doi": "10.1002/aur.3226",
+  "title": "Autistic-relevant behavioral phenotypes of a mouse model of cyclin-dependent kinase-like 5 deficiency disorder",
+  "authors": "Mottolese N, Coiffard O, Ferraguto C, Manolis A, Ciani E, Pietropaolo S",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) is a neurodevelopmental disease caused by mutations in the X-linked CDKL5 gene and characterized by early-onset epilepsy, intellectual disability, and autistic features. To date, the etiological mechanisms underlying CDD are largely unknown and no effective therapies are available. The Cdkl5 knock-out (KO) mouse has been broadly employed in preclinical studies on CDD; Cdkl5-KO mice display neurobehavioral abnormalities recapitulating most CDD symptoms, including alterations in motor, sensory, cognitive, and social abilities. However, most available preclinical studies have been carried out on adult Cdkl5-KO mice, so little is known about the phenotypic characteristics of this model earlier during development. Furthermore, major autistic-relevant phenotypes, for example, social and communication deficits, have been poorly investigated and mostly in male mutants. Here, we assessed the autistic-relevant behavioral phenotypes of Cdkl5-KO mice during the first three post-natal weeks and in adulthood. Males and females were tested, the latter including both heterozygous and homozygous mutants. Cdkl5 mutant pups showed qualitative and quantitative alterations in ultrasonic communication, detected first at 2&#x2009;weeks of age and confirmed later in adulthood. Increased levels of anxiety-like behaviors were observed in mutants at 3&#x2009;weeks and in adulthood, when stereotypies, reduced social interaction and memory deficits were also observed. These behavioral effects of the mutation were evident in both sexes, being more marked and varied in homozygous than heterozygous females. These findings provide novel evidence for the autistic-relevant behavioral profile of the Cdkl5 mouse model, thus supporting its use in future preclinical studies investigating CDD pathology and autism spectrum disorders.",
+  "relevance_score": 27,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 8,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "CDKL5"
+  ],
+  "summary": "Cyclin-dependent kinase-like 5 (CDKL5) deficiency disorder (CDD) is a neurodevelopmental disease caused by mutations in the X-linked CDKL5 gene and characterized by early-onset epilepsy, intellectual disability, and autistic features. To date, the etiological mechanisms underlying CDD are largely unknown and no effective therapies are available.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39234879/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Mice",
+    "Mice, Knockout",
+    "Phenotype",
+    "Male",
+    "Female",
+    "Behavior, Animal",
+    "Protein Serine-Threonine Kinases",
+    "Epileptic Syndromes",
+    "Autistic Disorder",
+    "Social Behavior",
+    "Spasms, Infantile",
+    "X-Linked Intellectual Disability",
+    "Mice, Inbred C57BL"
+  ],
+  "keywords": [
+    "CDD",
+    "acoustic startle",
+    "mouse pups",
+    "neurodevelopmental disorders",
+    "social behaviors",
+    "social interaction",
+    "ultrasonic vocalizations"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "pmid": "41131280",
+  "doi": "10.1038/s41380-025-03298-1",
+  "title": "Captopril restores microglial homeostasis and reverses ASD-like phenotype in a model of ASD induced by exposure in utero to anti-caspr2 IgG",
+  "authors": "Spielman B, Bagnall-Moreau C, Chen F, Balvuena C, Cruz C, Carrion J, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2025-10",
+  "source": "pubmed",
+  "abstract": "Microglia play a crucial role in brain development, including synaptic pruning and neuronal circuit formation. Prenatal disruptions, such as exposure to maternal autoantibodies, can dysregulate microglial function and contribute to neurodevelopmental disorders like autism spectrum disorder (ASD). Maternal antibodies targeting the brain protein Caspr2, encoded by ASD risk gene Cntnap2, are found in a subset of mothers of children with ASD. In utero exposure to these antibodies in mice leads to an ASD-like phenotype in male but not in female mice, characterized by altered hippocampal microglial reactivity, reduced dendritic spine density, and impaired social behavior. Here, we studied the role of microglia in mediating the effect of in utero exposure to maternal anti-Caspr2 antibodies and whether we can ameliorate this phenotype. In this study we demonstrate that microglial reactivity emerges early in postnatal development and persists into adulthood following exposure in utero to maternal anti-Caspr2 IgG. Captopril, a blood-brain barrier permeable angiotensin-converting enzyme (ACE) inhibitor, but not enalapril (a&#xa0;non-BBB permeable ACE inhibitor) ameliorates these deficits. Captopril treatment reversed microglial activation, restored spine density and dendritic arborization in CA1 hippocampal pyramidal neurons, and improved social interaction. Single-cell RNA sequencing of hippocampal microglia identified a captopril-responsive subcluster exhibiting downregulated translation (eIF2 signaling) and metabolic pathways (mTOR and oxidative phosphorylation) in mice exposed in utero to anti-Caspr2 antibodies treated with saline compared to saline-treated controls. Captopril reversed these transcriptional alterations, restoring microglial homeostasis. Our findings suggest that exposure in utero to maternal anti-Caspr2 antibodies induces sustained neuronal alterations, microglial reactivity, and metabolic dysfunction, contributing to the social deficits in male offspring. BBB-permeable ACE inhibitors, such as captopril, warrant further investigation as a potential therapeutic strategy in a subset of ASD cases associated with microglial reactivity.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Microglia play a crucial role in brain development, including synaptic pruning and neuronal circuit formation. Prenatal disruptions, such as exposure to maternal autoantibodies, can dysregulate microglial function and contribute to neurodevelopmental disorders like autism spectrum disorder (ASD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41131280/",
+  "mesh_terms": [
+    "Animals",
+    "Microglia",
+    "Female",
+    "Pregnancy",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Prenatal Exposure Delayed Effects",
+    "Male",
+    "Membrane Proteins",
+    "Disease Models, Animal",
+    "Captopril",
+    "Nerve Tissue Proteins",
+    "Hippocampus",
+    "Autoantibodies",
+    "Homeostasis",
+    "Immunoglobulin G",
+    "Mice, Inbred C57BL",
+    "Dendritic Spines",
+    "Phenotype",
+    "Angiotensin-Converting Enzyme Inhibitors"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

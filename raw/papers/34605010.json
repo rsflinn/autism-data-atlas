@@ -1,0 +1,53 @@
+{
+  "pmid": "34605010",
+  "doi": "10.1111/jcpp.13528",
+  "title": "Early manifestations of genetic risk for neurodevelopmental disorders",
+  "authors": "Askeland RB, Hannigan LJ, Ask H, Ayorech Z, Tesli M, Corfield E, et al.",
+  "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+  "date": "2021-10",
+  "source": "pubmed",
+  "abstract": "Attention deficit/hyperactivity disorder (ADHD), autism spectrum disorder (autism) and schizophrenia are highly heritable neurodevelopmental disorders, affecting the lives of many individuals. It is important to increase our understanding of how the polygenic risk for neurodevelopmental disorders manifests during childhood in boys and girls.\n\nPolygenic risk scores (PRS) for ADHD, autism and schizophrenia were calculated in a subsample of 15&#x2009;205 children from the Norwegian Mother, Father and Child Cohort Study (MoBa). Mother-reported traits of repetitive behavior, social communication, language and motor difficulties, hyperactivity and inattention were measured in children at 6 and 18&#x2009;months, 3, 5 and 8&#x2009;years. Linear regression models in a multigroup framework were used to investigate associations between the three PRS and dimensional trait measures in MoBa, using sex as a grouping variable.\n\nBefore the age of 2, the ADHD PRS was robustly associated with hyperactivity and inattention, with increasing strength up to 8&#x2009;years, and with language difficulties at age 5 and 8. The autism PRS was robustly associated with language difficulties at 18&#x2009;months, motor difficulties at 36&#x2009;months, and hyperactivity and inattention at 8&#x2009;years. We did not identify robust associations for the schizophrenia PRS. In general, the PRS associations were similar in boys and girls. The association between ADHD PRS and hyperactivity at 18&#x2009;months was, however, stronger in boys.\n\nPolygenic risk for autism and ADHD in the general population manifests early in childhood and broadly across behavioral measures of neurodevelopmental traits.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Attention deficit/hyperactivity disorder (ADHD), autism spectrum disorder (autism) and schizophrenia are highly heritable neurodevelopmental disorders, affecting the lives of many individuals. It is important to increase our understanding of how the polygenic risk for neurodevelopmental disorders manifests during childhood in boys and girls.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34605010/",
+  "mesh_terms": [
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Child",
+    "Child, Preschool",
+    "Cohort Studies",
+    "Female",
+    "Humans",
+    "Male",
+    "Mothers",
+    "Neurodevelopmental Disorders",
+    "Risk Factors"
+  ],
+  "keywords": [
+    "ADHD",
+    "MoBa",
+    "Polygenic risk score",
+    "autism",
+    "hyperactivity",
+    "inattention",
+    "language and motor difficulties",
+    "neurodevelopmental disorders",
+    "repetitive behavior",
+    "schizophrenia",
+    "social communication"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

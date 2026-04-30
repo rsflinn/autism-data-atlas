@@ -1,0 +1,51 @@
+{
+  "pmid": "23726375",
+  "doi": "10.1016/j.braindev.2013.04.013",
+  "title": "Epilepsy associated with autism and attention deficit hyperactivity disorder: is there a genetic link?",
+  "authors": "Lo-Castro A, Curatolo P",
+  "journal": "Brain & development",
+  "date": "2013-05",
+  "source": "pubmed",
+  "abstract": "Autism Spectrum Disorders (ASDs) and Attention Deficit and Hyperactivity Disorder (ADHD) are the most common comorbid conditions associated with childhood epilepsy. The co-occurrence of an epilepsy/autism phenotype or an epilepsy/ADHD phenotype has a complex and heterogeneous pathogenesis, resulting from several altered neurobiological mechanisms involved in early brain development, and influencing synaptic plasticity, neurotransmission and functional connectivity. Rare clinically relevant chromosomal aberrations, in addition to environmental factors, may confer an increased risk for ASDs/ADHD comorbid with epilepsy. The majority of the candidate genes are involved in synaptic formation/remodeling/maintenance (NRX1, CNTN4, DCLK2, CNTNAP2, TRIM32, ASTN2, CTNTN5, SYN1), neurotransmission (SYNGAP1, GABRG1, CHRNA7), or DNA methylation/chromatin remodeling (MBD5). Two genetic disorders, such as Tuberous sclerosis and Fragile X syndrome may serve as models for understanding the common pathogenic pathways leading to ASDs and ADHD comorbidities in children with epilepsy, offering the potential for new biologically focused treatment options.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "CNTNAP2",
+    "MBD5",
+    "SYNGAP1"
+  ],
+  "summary": "Autism Spectrum Disorders (ASDs) and Attention Deficit and Hyperactivity Disorder (ADHD) are the most common comorbid conditions associated with childhood epilepsy. The co-occurrence of an epilepsy/autism phenotype or an epilepsy/ADHD phenotype has a complex and heterogeneous pathogenesis, resulting from several altered neurobiological mechanisms involved in early brain development, and influencing synaptic plasticity, neurotransmission and functional connectivity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/23726375/",
+  "mesh_terms": [
+    "Animals",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Comorbidity",
+    "Epilepsy",
+    "Genetic Predisposition to Disease",
+    "Humans"
+  ],
+  "keywords": [
+    "ADHD",
+    "Autism spectrum disorders",
+    "CNVs",
+    "Comorbidity",
+    "Epilepsy",
+    "Fragile X syndrome",
+    "Genetics",
+    "Tuberous sclerosis"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

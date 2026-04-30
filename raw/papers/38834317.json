@@ -1,0 +1,45 @@
+{
+  "pmid": "38834317",
+  "doi": "10.1136/bmjopen-2023-080746",
+  "title": "European Autism GEnomics Registry (EAGER): protocol for a multicentre cohort study and registry",
+  "authors": "Bloomfield M, Lautarescu A, Heraty S, Douglas S, Violland P, Plas R, et al.",
+  "journal": "BMJ open",
+  "date": "2024-06",
+  "source": "pubmed",
+  "abstract": "Autism is a common neurodevelopmental condition with a complex genetic aetiology that includes contributions from monogenic and polygenic factors. Many autistic people have unmet healthcare needs that could be served by genomics-informed research and clinical trials. The primary aim of the European Autism GEnomics Registry (EAGER) is to establish a registry of participants with a diagnosis of autism or an associated rare genetic condition who have undergone whole-genome sequencing. The registry can facilitate recruitment for future clinical trials and research studies, based on genetic, clinical and phenotypic profiles, as well as participant preferences. The secondary aim of EAGER is to investigate the association between mental and physical health characteristics and participants' genetic profiles.\n\nEAGER is a European multisite cohort study and registry and is part of the AIMS-2-TRIALS consortium. EAGER was developed with input from the AIMS-2-TRIALS Autism Representatives and representatives from the rare genetic conditions community. 1500 participants with a diagnosis of autism or an associated rare genetic condition will be recruited at 13 sites across 8 countries. Participants will be given a blood or saliva sample for whole-genome sequencing and answer a series of online questionnaires. Participants may also consent to the study to access pre-existing clinical data. Participants will be added to the EAGER registry and data will be shared externally through established AIMS-2-TRIALS mechanisms.\n\nTo date, EAGER has received full ethical approval for 11 out of the 13 sites in the UK (REC 23/SC/0022), Germany (S-375/2023), Portugal (CE-085/2023), Spain (HCB/2023/0038, PIC-164-22), Sweden (Dnr 2023-06737-01), Ireland (230907) and Italy (CET_62/2023, CEL-IRCCS OASI/24-01-2024/EM01, EM 2024-13/1032 EAGER). Findings will be disseminated via scientific publications and conferences but also beyond to participants and the wider community (eg, the AIMS-2-TRIALS website, stakeholder meetings, newsletters).",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a common neurodevelopmental condition with a complex genetic aetiology that includes contributions from monogenic and polygenic factors. Many autistic people have unmet healthcare needs that could be served by genomics-informed research and clinical trials.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38834317/",
+  "mesh_terms": [
+    "Child",
+    "Humans",
+    "Male",
+    "Autistic Disorder",
+    "Cohort Studies",
+    "Europe",
+    "Genomics",
+    "Multicenter Studies as Topic",
+    "Registries",
+    "Research Design",
+    "Whole Genome Sequencing"
+  ],
+  "keywords": [
+    "genetics",
+    "mental health",
+    "registries"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

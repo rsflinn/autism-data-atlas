@@ -1,0 +1,63 @@
+{
+  "pmid": "31674007",
+  "doi": "10.1111/cge.13665",
+  "title": "Phenotype-to-genotype approach reveals head-circumference-associated genes in an autism spectrum disorder cohort",
+  "authors": "Wu H, Li H, Bai T, Han L, Ou J, Xun G, et al.",
+  "journal": "Clinical genetics",
+  "date": "2019-11",
+  "source": "pubmed",
+  "abstract": "The genotype-first approach has been successfully applied and has elucidated several subtypes of autism spectrum disorder (ASD). However, it requires very large cohorts because of the extensive genetic heterogeneity. We investigate the alternate possibility of whether phenotype-specific genes can be identified from a small group of patients with specific phenotype(s). To identify novel genes associated with ASD and abnormal head circumference using a phenotype-to-genotype approach, we performed whole-exome sequencing on 67 families with ASD and abnormal head circumference. Clinically relevant pathogenic or likely pathogenic variants account for 23.9% of patients with microcephaly or macrocephaly, and 81.25% of those variants or genes are head-size associated. Significantly, recurrent pathogenic mutations were identified in two macrocephaly genes (PTEN, CHD8) in this small cohort. De novo mutations in several candidate genes (UBN2, BIRC6, SYNE1, and KCNMA1) were detected, as well as one new candidate gene (TNPO3) implicated in ASD and related neurodevelopmental disorders. We identify genotype-phenotype correlations for head-size-associated ASD genes and novel candidate genes for further investigation. Our results also suggest a phenotype-to-genotype strategy would accelerate the elucidation of genotype-phenotype relationships for ASD by using phenotype-restricted cohorts.",
+  "relevance_score": 20,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "CHD8",
+    "PTEN"
+  ],
+  "summary": "The genotype-first approach has been successfully applied and has elucidated several subtypes of autism spectrum disorder (ASD). However, it requires very large cohorts because of the extensive genetic heterogeneity.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31674007/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Cohort Studies",
+    "Cytoskeletal Proteins",
+    "DNA-Binding Proteins",
+    "Female",
+    "Genetic Association Studies",
+    "Genetic Predisposition to Disease",
+    "Genotype",
+    "Head",
+    "Humans",
+    "INDEL Mutation",
+    "Inhibitor of Apoptosis Proteins",
+    "Large-Conductance Calcium-Activated Potassium Channel alpha Subunits",
+    "Male",
+    "Megalencephaly",
+    "Microcephaly",
+    "Nerve Tissue Proteins",
+    "PTEN Phosphohydrolase",
+    "Phenotype",
+    "Polymorphism, Single Nucleotide",
+    "Transcription Factors",
+    "Exome Sequencing",
+    "beta Karyopherins"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "genotype and phenotype correlations",
+    "macrocephaly",
+    "microcephaly",
+    "whole-exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

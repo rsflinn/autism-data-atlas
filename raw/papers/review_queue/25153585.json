@@ -1,0 +1,36 @@
+{
+  "pmid": "25153585",
+  "doi": "10.1515/revneuro-2014-0036",
+  "title": "Automated diagnosis of autism: in search of a mathematical marker",
+  "authors": "Bhat S, Acharya UR, Adeli H, Bairy GM, Adeli A",
+  "journal": "Reviews in the neurosciences",
+  "date": "2014-01",
+  "source": "pubmed",
+  "abstract": "Autism is a type of neurodevelopmental disorder affecting the memory, behavior, emotion, learning ability, and communication of an individual. An early detection of the abnormality, due to irregular processing in the brain, can be achieved using electroencephalograms (EEG). The variations in the EEG signals cannot be deciphered by mere visual inspection. Computer-aided diagnostic tools can be used to recognize the subtle and invisible information present in the irregular EEG pattern and diagnose autism. This paper presents a state-of-the-art review of automated EEG-based diagnosis of autism. Various time domain, frequency domain, time-frequency domain, and nonlinear dynamics for the analysis of autistic EEG signals are described briefly. A focus of the review is the use of nonlinear dynamics and chaos theory to discover the mathematical biomarkers for the diagnosis of the autism analogous to biological markers. A combination of the time-frequency and nonlinear dynamic analysis is the most effective approach to characterize the nonstationary and chaotic physiological signals for the automated EEG-based diagnosis of autism spectrum disorder (ASD). The features extracted using these nonlinear methods can be used as mathematical markers to detect the early stage of autism and aid the clinicians in their diagnosis. This will expedite the administration of appropriate therapies to treat the disorder.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Autism is a type of neurodevelopmental disorder affecting the memory, behavior, emotion, learning ability, and communication of an individual. An early detection of the abnormality, due to irregular processing in the brain, can be achieved using electroencephalograms (EEG).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25153585/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Electroencephalography",
+    "Humans",
+    "Models, Neurological",
+    "Nonlinear Dynamics",
+    "Wavelet Analysis"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

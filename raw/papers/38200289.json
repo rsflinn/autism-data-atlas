@@ -1,0 +1,46 @@
+{
+  "pmid": "38200289",
+  "doi": "10.1038/s41380-023-02385-5",
+  "title": "Intellectual disability and autism in propionic acidemia: a biomarker-behavioral investigation implicating dysregulated mitochondrial biology",
+  "authors": "Shchelochkov OA, Farmer CA, Chlebowski C, Adedipe D, Ferry S, Manoli I, et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2024-01",
+  "source": "pubmed",
+  "abstract": "Propionic acidemia (PA) is an autosomal recessive condition (OMIM #606054), wherein pathogenic variants in PCCA and PCCB impair the activity of propionyl-CoA carboxylase. PA is associated with neurodevelopmental disorders, including intellectual disability (ID) and autism spectrum disorder (ASD); however, the correlates and mechanisms of these outcomes remain unknown. Using data from a subset of participants with PA enrolled in a dedicated natural history study (n&#x2009;=&#x2009;33), we explored associations between neurodevelopmental phenotypes and laboratory parameters. Twenty (61%) participants received an ID diagnosis, and 12 of the 31 (39%) who&#xa0;were fully evaluated received the diagnosis of ASD. A diagnosis of ID, lower full-scale IQ (sample mean&#x2009;=&#x2009;65&#x2009;&#xb1;&#x2009;26), and lower adaptive behavior composite scores (sample mean&#x2009;=&#x2009;67&#x2009;&#xb1;&#x2009;23) were associated with several biomarkers. Higher concentrations of plasma propionylcarnitine, plasma total 2-methylcitrate, serum erythropoietin, and mitochondrial biomarkers plasma FGF21 and GDF15 were associated with a more severe ID profile. Reduced 1-C-propionate oxidative capacity and decreased levels of plasma and urinary glutamine were also associated with a more severe ID profile. Only two parameters, increased serum erythropoietin and decreased plasma glutamine, were associated with ASD. Plasma glycine, one of the defining features of PA, was not meaningfully associated with either ID or ASD. Thus, while both ID and ASD were commonly observed in our PA cohort, only ID was robustly associated with metabolic parameters. Our results suggest that disease severity and associated mitochondrial dysfunction may play a role in CNS complications of PA and identify potential biomarkers and candidate surrogate endpoints.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Propionic acidemia (PA) is an autosomal recessive condition (OMIM #606054), wherein pathogenic variants in PCCA and PCCB impair the activity of propionyl-CoA carboxylase. PA is associated with neurodevelopmental disorders, including intellectual disability (ID) and autism spectrum disorder (ASD); however, the correlates and mechanisms of these outcomes remain unknown.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38200289/",
+  "mesh_terms": [
+    "Humans",
+    "Propionic Acidemia",
+    "Biomarkers",
+    "Male",
+    "Female",
+    "Child",
+    "Intellectual Disability",
+    "Mitochondria",
+    "Child, Preschool",
+    "Adolescent",
+    "Autism Spectrum Disorder",
+    "Autistic Disorder",
+    "Adult",
+    "Methylmalonyl-CoA Decarboxylase",
+    "Young Adult",
+    "Carnitine",
+    "Citrates"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

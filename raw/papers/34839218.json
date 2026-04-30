@@ -1,0 +1,46 @@
+{
+  "pmid": "34839218",
+  "doi": "10.1016/j.cortex.2021.10.007",
+  "title": "Oscillatory neural network alterations in young people with tuberous sclerosis complex and associations with co-occurring symptoms of autism spectrum disorder and attention-deficit/hyperactivity disorder",
+  "authors": "Shephard E, McEwen FS, Earnest T, Friedrich N, M&#xf6;rtl I, Liang H, et al.",
+  "journal": "Cortex; a journal devoted to the study of the nervous system and behavior",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Tuberous sclerosis complex (TSC) is a genetic disorder caused by mutations on the TSC1/TSC2 genes, which result in alterations in molecular signalling pathways involved in neurogenesis and hamartomas in the brain and other organs. TSC carries a high risk for autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD), although the reasons for this are unclear. One proposal is that TSC-related alterations in molecular signalling during neurogenesis lead to atypical development of neural networks, which are involved in the occurrence of ASD and ADHD in TSC. We investigated this proposal in young people with TSC who have been studied longitudinally since their diagnosis in childhood. Electroencephalography (EEG) was used to examine oscillatory connectivity in functional neural networks and local and global network organisation during three tasks (resting-state, attentional and inhibitory control Go/Nogo task, upright and inverted face processing task) in participants with TSC (n&#xa0;=&#xa0;48) compared to an age- and sex-matched group of typically developing Controls (n&#xa0;=&#xa0;20). Compared to Controls, the TSC group showed hypoconnected neural networks in the alpha frequency during the resting-state and in the theta and alpha frequencies during the Go/Nogo task (P&#xa0;&#x2264;&#xa0;.008), as well as reduced local network organisation in the theta and alpha frequencies during the Go/Nogo task (F&#xa0;=&#xa0;3.95, P&#xa0;=&#xa0;.010). There were no significant group differences in network metrics during the face processing task. Increased connectivity in the hypoconnected alpha-range resting-state network was associated with greater ASD and inattentive ADHD symptoms (rho&#x2265;.40, P&#xa0;&#x2264;&#xa0;.036). Reduced local network organisation in the theta-range during the Go/Nogo task was significantly associated with higher hyperactive/impulsive ADHD symptoms (rho&#xa0;=&#xa0;-.43, P&#xa0;=&#xa0;.041). These findings suggest that TSC is associated with widespread hypoconnectivity in neural networks and support the proposal that altered network function may be involved in the co-occurrence of ASD and ADHD in TSC.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "Tuberous sclerosis complex (TSC) is a genetic disorder caused by mutations on the TSC1/TSC2 genes, which result in alterations in molecular signalling pathways involved in neurogenesis and hamartomas in the brain and other organs. TSC carries a high risk for autism spectrum disorder (ASD) and attention-deficit/hyperactivity disorder (ADHD), although the reasons for this are unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34839218/",
+  "mesh_terms": [
+    "Adolescent",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Humans",
+    "Neural Networks, Computer",
+    "Tuberous Sclerosis"
+  ],
+  "keywords": [
+    "Attention-deficit/hyperactivity disorder (ADHD)",
+    "Autism spectrum disorder (ASD)",
+    "Electrophysiology (EEG)",
+    "Oscillatory neural networks",
+    "Tuberous sclerosis complex (TSC)"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

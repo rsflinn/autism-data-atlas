@@ -1,0 +1,45 @@
+{
+  "pmid": "33769102",
+  "doi": "10.1152/physrev.00029.2020",
+  "title": "What's the buzz? The neuroscience and the treatment of tinnitus",
+  "authors": "Henton A, Tzounopoulos T",
+  "journal": "Physiological reviews",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Tinnitus is a pervasive public health issue that affects &#x223c;15% of the United States population. Similar estimates have also been shown on a global scale, with similar prevalence found in Europe, Asia, and Africa. The severity of tinnitus is heterogeneous, ranging from mildly bothersome to extremely disruptive. In the United States, &#x223c;10-20% of individuals who experience tinnitus report symptoms that severely reduce their quality of life. Due to the huge personal and societal burden, in the last 20 yr a concerted effort on basic and clinical research has significantly advanced our understanding and treatment of this disorder. Yet, neither full understanding, nor cure exists. We know that tinnitus is the persistent involuntary phantom percept of internally generated nonverbal indistinct noises and tones, which in most cases is initiated by acquired hearing loss and maintained only when this loss is coupled with distinct neuronal changes in auditory and extra-auditory brain networks. Yet, the exact mechanisms and patterns of neural activity that are necessary and sufficient for the perceptual generation and maintenance of tinnitus remain incompletely understood. Combinations of animal model and human research will be essential in filling these gaps. Nevertheless, the existing progress in investigating the neurophysiological mechanisms has improved current treatment and highlighted novel targets for drug development and clinical trials. The aim of this review is to thoroughly discuss the current state of human and animal tinnitus research, outline current challenges, and highlight new and exciting research opportunities.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Tinnitus is a pervasive public health issue that affects &#x223c;15% of the United States population. Similar estimates have also been shown on a global scale, with similar prevalence found in Europe, Asia, and Africa.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33769102/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Hearing Loss",
+    "Humans",
+    "Neurosciences",
+    "Quality of Life",
+    "Tinnitus"
+  ],
+  "keywords": [
+    "channels",
+    "drug development",
+    "hearing loss",
+    "synapses",
+    "tinnitus"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Review"
+  ]
+}

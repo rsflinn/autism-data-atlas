@@ -1,0 +1,32 @@
+{
+  "pmid": "41383351",
+  "doi": "10.1214/24-aoas1977",
+  "title": "CONTRASTIVE LINEAR REGRESSION",
+  "authors": "Zhang B, Nyquist S, Jones A, Engelhardt BE, Li D",
+  "journal": "The annals of applied statistics",
+  "date": "2025-08",
+  "source": "pubmed",
+  "abstract": "Contrastive dimension reduction methods have been developed for case-control study data to identify variation that is enriched in the foreground (case) datarelative to the background (control) data. Here we develop contrastive regression for the setting where there is a response variableassociated with each foreground observation. This situation occurs frequently when, for example, the unaffected controls do not have a disease grade or intervention dosage, but the affected cases have a disease grade or intervention dosage, as in autism severity, solid tumors stages, polyp sizes, or warfarin dosages. Our contrastive regression model captures shared low-dimensional variation between the predictors in the case and control groups and then explains the case-specific response variables through the variance that remains in the predictors after shared variation is removed. We show that, in one single-cell RNA sequencing dataset on cellular differentiation in chronic rhinosinusitis with and without nasal polyps and in another single-nucleus RNA sequencing dataset on autism severity in postmortem brain samples from donors with and without autism, our contrastive linear regression performs feature ranking and identifies biologically-informative predictors associated with response that cannot be identified using other approaches.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Contrastive dimension reduction methods have been developed for case-control study data to identify variation that is enriched in the foreground (case) datarelative to the background (control) data. Here we develop contrastive regression for the setting where there is a response variableassociated with each foreground observation.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41383351/",
+  "mesh_terms": [],
+  "keywords": [
+    "Contrastive models",
+    "case-control studies",
+    "linear regression"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

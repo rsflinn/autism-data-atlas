@@ -1,0 +1,47 @@
+{
+  "pmid": "34801932",
+  "doi": "10.1016/j.bbrc.2021.11.040",
+  "title": "Neurodegenerative brain models vs. cell replacement or restoration therapy: A review on promises and pitfalls",
+  "authors": "Kumar D, Hassan MI",
+  "journal": "Biochemical and biophysical research communications",
+  "date": "2021-11",
+  "source": "pubmed",
+  "abstract": "Disease models have proven useful tools for gaining deeper mechanistic insights into neurodegenerative diseases. In this context, stem cell technology is effective, especially induced pluripotent stem cell (iPSC)-derived brain organoids and cell replacement/restoration which can be used for personalized medicine, allowing physicians to test the efficacy of drugs in&#xa0;vitro before delivering them to patients, enabling more precise and personalized treatment. Nonetheless, it offers the potential to minimize (or even eliminate) the use of animals, provides important clues for disease processes, and accelerates therapeutic strategies. Perhaps in the not-too-distant future, organoid models of the human brain will be able to link blood-brain barrier cultures with other liver cultures, simulating blood flow across organs and as a method of testing medicines, giving crucial pharmacokinetics and pharmacodynamics data. Simultaneously, stem cell interventions for cell replacements or restoration therapy would enable us to realize efficacious and realistic therapeutic options for Neurodegenerative diseases.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Disease models have proven useful tools for gaining deeper mechanistic insights into neurodegenerative diseases. In this context, stem cell technology is effective, especially induced pluripotent stem cell (iPSC)-derived brain organoids and cell replacement/restoration which can be used for personalized medicine, allowing physicians to test the efficacy of drugs in&#xa0;vitro before delivering them to patients, enabling more precise and personalized treatment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34801932/",
+  "mesh_terms": [
+    "Animals",
+    "Blood-Brain Barrier",
+    "Brain",
+    "Drug Discovery",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurodegenerative Diseases",
+    "Organoids",
+    "Precision Medicine",
+    "Stem Cell Transplantation"
+  ],
+  "keywords": [
+    "Alzheimer's disease",
+    "Induced-pluripotent stem cell",
+    "Neurodegenerative diseases",
+    "Parkinson's disease",
+    "Stem cell therapy"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "pmid": "33217958",
+  "doi": "10.3390/molecules25225388",
+  "title": "Cyclooxygenase Inhibition Safety and Efficacy in Inflammation-Based Psychiatric Disorders",
+  "authors": "Perrone MG, Centonze A, Miciaccia M, Ferorelli S, Scilimati A",
+  "journal": "Molecules (Basel, Switzerland)",
+  "date": "2020-11",
+  "source": "pubmed",
+  "abstract": "According to the World Health Organization, the major psychiatric and neurodevelopmental disorders include major depression, bipolar disorder, schizophrenia, and autism spectrum disorder. The potential role of inflammation in the onset and progression of these disorders is increasingly being studied. The use of non-steroidal anti-inflammatory drugs (NSAIDs), well-known cyclooxygenase (COX) inhibitors, combined with first-choice specific drugs have been long investigated. The adjunctive administration of COX inhibitors to classic clinical treatments seems to improve the prognosis of people who suffer from psychiatric disorders. In this review, a broad overview of the use of COX inhibitors in the treatment of inflammation-based psychiatric disorders is provided. For this purpose, a critical analysis of the use of COX inhibitors in the last ten years of clinical trials of the major psychiatric disorders was carried out.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "According to the World Health Organization, the major psychiatric and neurodevelopmental disorders include major depression, bipolar disorder, schizophrenia, and autism spectrum disorder. The potential role of inflammation in the onset and progression of these disorders is increasingly being studied.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/33217958/",
+  "mesh_terms": [
+    "Anti-Inflammatory Agents, Non-Steroidal",
+    "Clinical Trials as Topic",
+    "Cyclooxygenase Inhibitors",
+    "Humans",
+    "Inflammation",
+    "Mental Disorders",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "autism spectrum disorder",
+    "bipolar disorder",
+    "cyclooxygenase (COX) inhibitors",
+    "major depression",
+    "schizophrenia"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "41382128",
+  "doi": "10.1186/s12974-025-03627-9",
+  "title": "Repetitive unidirectional spinal tactile stimulation engages microglial Bmal1 pathways to promote synaptic remodeling in the mPFC of adolescent VPA-exposed mice",
+  "authors": "Chen YN, Zhao ST, Hu MA, Li W, Yu J, Ma MJ, et al.",
+  "journal": "Journal of neuroinflammation",
+  "date": "2025-12",
+  "source": "pubmed",
+  "abstract": "Synaptic abnormalities are hallmark pathological features of autism spectrum disorders (ASD), contributing to the behavioral impairments frequently observed in these neurodevelopmental conditions. Microglia, as the brain's primary immune cells, are essential for synaptic refinement during adolescent development. Disrupted microglia-dependent synapse remodeling has been implicated in pathophysiology of ASDs, however, the underlying mechanisms remain incompletely elucidated. In this context, repetitive unidirectional spinal tactile stimulation (RSTS) has emerged as a promising non-invasive therapeutic strategy. This study aims to explore whether and how RSTS enhances microglia-dependent synapse remodeling in the medial prefrontal cortex (mPFC) during adolescent development in ASD mice, with a specific focus on the role of Brain and Muscle ARNT-Like 1 (Arntl1), a core circadian protein crucial for regulating this process.\n\nASD mice underwent RSTS treatment during adolescent brain for 21 days, administered twice daily for 10&#xa0;min per session. Behavioral changes were evaluated using the three-chamber social interaction and open field tests. Synapse number and morphology were assessed through Golgi staining. Microglia-dependent synapse remodeling ability was analyzed using immunofluorescence and Western blot. Furthermore, the molecular mechanism was investigated using single-nucleus RNA sequencing (snRNA-seq) and chromatin immunoprecipitation sequencing (ChIP-seq). Finally, the role of Bmal1 was validated, confirming its involvement in the enhancement of RSTS during adolescent brain in ASD.\n\nRSTS was found to alleviate autistic-like behaviors in adolescent ASD mice. Results from snRNA-seq and ChIP-seq indicated that the therapeutic effects of RSTS may be mediated through microglial Bmal1 and its role in the transcriptional regulation of microglia-dependent synapse remodeling. Furthermore, in vivo experiments confirmed that RSTS enhances microglia-dependent synapse remodeling in mPFC of adolescent ASD mice via Bmal1. These findings suggested that Bmal1 serves as a critical target of RSTS in facilitating microglia-dependent synapse remodeling during the adolescent brain developmental period in ASD mice.\n\nOur findings suggest that the therapeutic effects of RSTS are potentially mediated through the modulation of microglial Bmal1-dependent synapse remodeling and the regulation of synaptic proteins and the complement system. These results provide novel empirical evidence for RSTS in restoring synaptic balance and offer valuable insights into its potential as an intervention for ASD.",
+  "relevance_score": 26,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Synaptic abnormalities are hallmark pathological features of autism spectrum disorders (ASD), contributing to the behavioral impairments frequently observed in these neurodevelopmental conditions. Microglia, as the brain's primary immune cells, are essential for synaptic refinement during adolescent development.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41382128/",
+  "mesh_terms": [
+    "Animals",
+    "Microglia",
+    "Mice",
+    "Prefrontal Cortex",
+    "ARNTL Transcription Factors",
+    "Male",
+    "Autism Spectrum Disorder",
+    "Synapses",
+    "Mice, Inbred C57BL",
+    "Neuronal Plasticity",
+    "Touch",
+    "Spinal Cord",
+    "Signal Transduction"
+  ],
+  "keywords": [
+    "Autism spectrum disorder&#xf1b;Microglia-dependent synapse remodeling&#xf1b;Bmal1&#xf1b;Adolescent brain development",
+    "Repetitive unidirectional spinal tactile stimulation"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

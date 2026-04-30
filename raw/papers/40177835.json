@@ -1,0 +1,50 @@
+{
+  "pmid": "40177835",
+  "doi": "10.1002/aur.70029",
+  "title": "Comparative Analysis of Phenotypic and Genotypic Differences Between Individuals Affected by Regressive and Non-Regressive Autism: A Cross-Sectional Study",
+  "authors": "Tonekaboni SH, Iaboni A, Trost B, Reuter M, Lindenmaier Z, Kushki A, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Development among autistic youth varies widely. A subgroup of children experiences regression, defined as the loss of previously acquired developmental skills. Various genetic and environmental factors have been suggested as potential contributors. This study aimed to compare the developmental profiles of children and youth with regression to those without and identify factors associated with regression. Data from the Province of Ontario Neurodevelopmental Disorders (POND) Network was analyzed, including 930 eligible participants. Regression classification was based on the Autism Diagnostic Interview-Revised (ADI-R). Differences in demographic information, medical history, mental health, cognitive and adaptive functioning, and molecular genetic findings were examined between individuals with regressive and non-regressive autism. Among participants, 211 (22.7%) had regressive autism. Lower Full-Scale IQ (p corrected&#x2009;=&#x2009;0.015) and adaptive function (ABAS-2) scores (p corrected&#x2009;=&#x2009;0.015) were identified in the regressive group. No statistically significant differences in mental health outcomes (measured by the Child Behavior Checklist, CBCL) or socialization and core symptom severity (measured by the Social Communication Questionnaire, SCQ) were found. There were no notable differences in other factors hypothesized to contribute to regression, such as pregnancy duration, family history of autism, caregivers' education levels, or sleep disorders, except for a higher prevalence of epilepsy in the regressive group (p&#x2009;=&#x2009;0.001). Rare and common genetic features of both groups are described. In conclusion, autistic youth with regression tend to have lower cognitive and adaptive scores and may experience higher epilepsy rates. Further powered studies are needed to explore the genomic architecture of autistic regression.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Development among autistic youth varies widely. A subgroup of children experiences regression, defined as the loss of previously acquired developmental skills.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40177835/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Male",
+    "Cross-Sectional Studies",
+    "Child",
+    "Phenotype",
+    "Autistic Disorder",
+    "Adolescent",
+    "Genotype",
+    "Ontario",
+    "Child, Preschool"
+  ],
+  "keywords": [
+    "autism Spectrum disorder",
+    "child",
+    "genotype",
+    "neurodevelopmental disorder",
+    "phenotype",
+    "regressive autism",
+    "retrospective studies"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Comparative Study",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

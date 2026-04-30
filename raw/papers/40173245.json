@@ -1,0 +1,40 @@
+{
+  "pmid": "40173245",
+  "doi": "10.1126/sciadv.adu3793",
+  "title": "Autism-like atypical face processing inmutant dogs",
+  "authors": "Yuan S, Pang C, Wu L, Yi L, Guo K, Jiang YH, et al.",
+  "journal": "Science advances",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Atypical face processing is a neurocognitive basis of social deficits in autism spectrum disorder (ASD) and a candidate cognitive marker for the disease. Although hundreds of risk genes have been identified in ASD, it remains unclear whether mutations in a specific gene may cause ASD-like atypical face processing. Dogs have acquired exquisite face processing abilities during domestication and may serve as an effective animal model for studying genetic associations of ASD-like atypical face processing. Here, we showed that dogs withmutations exhibited behavioral and attentional avoidance of faces, contrasting with wild-type controls. Moreover, neural responses specific to faces (versus objects) recorded from the electrodes over the temporal cortex were significantly decreased and delayed inmutants compared to wild-type controls. Cortical responses in the frontal/parietal region underlying categorization of faces by species/breeds were reduced inmutants. Our findings of atypical face processing in dogs withmutations provide a useful animal model for studying ASD mechanisms and treatments.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Atypical face processing is a neurocognitive basis of social deficits in autism spectrum disorder (ASD) and a candidate cognitive marker for the disease. Although hundreds of risk genes have been identified in ASD, it remains unclear whether mutations in a specific gene may cause ASD-like atypical face processing.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40173245/",
+  "mesh_terms": [
+    "Animals",
+    "Dogs",
+    "Mutation",
+    "Nerve Tissue Proteins",
+    "Disease Models, Animal",
+    "Male",
+    "Behavior, Animal",
+    "Autism Spectrum Disorder",
+    "Female",
+    "Face",
+    "Autistic Disorder"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article"
+  ]
+}

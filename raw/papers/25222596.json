@@ -1,0 +1,38 @@
+{
+  "pmid": "25222596",
+  "doi": "10.1515/revneuro-2014-0056",
+  "title": "Autism: cause factors, early diagnosis and therapies",
+  "authors": "Bhat S, Acharya UR, Adeli H, Bairy GM, Adeli A",
+  "journal": "Reviews in the neurosciences",
+  "date": "2014-01",
+  "source": "pubmed",
+  "abstract": "Autism spectrum disorder (ASD) is a complex neurobiological disorder characterized by neuropsychological and behavioral deficits. Cognitive impairment, lack of social skills, and stereotyped behavior are the major autistic symptoms, visible after a certain age. It is one of the fastest growing disabilities. Its current prevalence rate in the U.S. estimated by the Centers for Disease Control and Prevention is 1 in 68 births. The genetic and physiological structure of the brain is studied to determine the pathology of autism, but diagnosis of autism at an early age is challenging due to the existing phenotypic and etiological heterogeneity among ASD individuals. Volumetric and neuroimaging techniques are explored to elucidate the neuroanatomy of the ASD brain. Nuroanatomical, neurochemical, and neuroimaging biomarkers can help in the early diagnosis and treatment of ASD. This paper presents a review of the types of autism, etiologies, early detection, and treatment of ASD.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Autism spectrum disorder (ASD) is a complex neurobiological disorder characterized by neuropsychological and behavioral deficits. Cognitive impairment, lack of social skills, and stereotyped behavior are the major autistic symptoms, visible after a certain age.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25222596/",
+  "mesh_terms": [
+    "Agenesis of Corpus Callosum",
+    "Autistic Disorder",
+    "Child",
+    "Child Development Disorders, Pervasive",
+    "Cognition",
+    "Developmental Disabilities",
+    "Early Diagnosis",
+    "Humans"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

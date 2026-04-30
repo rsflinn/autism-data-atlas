@@ -1,0 +1,52 @@
+{
+  "pmid": "26442845",
+  "doi": "10.1146/annurev-genet-120213-092236",
+  "title": "Understanding Language from a Genomic Perspective",
+  "authors": "Graham SA, Fisher SE",
+  "journal": "Annual review of genetics",
+  "date": "2015-10",
+  "source": "pubmed",
+  "abstract": "Language is a defining characteristic of the human species, but its foundations remain mysterious. Heritable disorders offer a gateway into biological underpinnings, as illustrated by the discovery that FOXP2 disruptions cause a rare form of speech and language impairment. The genetic architecture underlying language-related disorders is complex, and although some progress has been made, it has proved challenging to pinpoint additional relevant genes with confidence. Next-generation sequencing and genome-wide association studies are revolutionizing understanding of the genetic bases of other neurodevelopmental disorders, like autism and schizophrenia, and providing fundamental insights into the molecular networks crucial for typical brain development. We discuss how a similar genomic perspective, brought to the investigation of language-related phenotypes, promises to yield equally informative discoveries. Moreover, we outline how follow-up studies of genetic findings using cellular systems and animal models can help to elucidate the biological mechanisms involved in the development of brain circuits supporting language.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "FOXP2"
+  ],
+  "summary": "Language is a defining characteristic of the human species, but its foundations remain mysterious. Heritable disorders offer a gateway into biological underpinnings, as illustrated by the discovery that FOXP2 disruptions cause a rare form of speech and language impairment.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/26442845/",
+  "mesh_terms": [
+    "Animals",
+    "Disease Models, Animal",
+    "Exome",
+    "Forkhead Transcription Factors",
+    "Genetic Linkage",
+    "Genome-Wide Association Study",
+    "Genomics",
+    "High-Throughput Nucleotide Sequencing",
+    "Humans",
+    "Language",
+    "Language Disorders",
+    "Neurodevelopmental Disorders",
+    "Neuroimaging",
+    "Speech"
+  ],
+  "keywords": [
+    "FOXP2",
+    "GWAS",
+    "neurodevelopmental disorder",
+    "next-generation sequencing",
+    "speech"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

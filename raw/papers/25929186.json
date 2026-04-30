@@ -1,0 +1,50 @@
+{
+  "pmid": "25929186",
+  "doi": "10.1016/j.neulet.2015.04.041",
+  "title": "Camk2a-Cre-mediated conditional deletion of chromatin remodeler Brg1 causes perinatal hydrocephalus",
+  "authors": "Cao M, Wu JI",
+  "journal": "Neuroscience letters",
+  "date": "2015-04",
+  "source": "pubmed",
+  "abstract": "Mammalian SWI/SNF-like BAF chromatin remodeling complexes are essential for many aspects of neural development. Mutations in the genes encoding the core subunit Brg1/SmarcA4 or other complex components cause neurodevelopmental diseases and are associated with autism. Congenital hydrocephalus is a serious brain disorder often experienced by these patients. We report a role of Brg1 in the pathogenesis of hydrocephalus disorder. We discovered an unexpected early activity of mouse Camk2a-Cre transgene, which mediates Brg1 deletion in a subset of forebrain neurons beginning in the late embryonic stage. Brg1 deletion in these neurons led to severe congenital hydrocephalus with enlargement of the lateral ventricles and attenuation of the cerebral cortex. The Brg1-deficient mice had significantly smaller subcommissural organs and narrower Sylvian aqueducts than mice that express normal levels of Brg1. Effects were non-cell autonomous and may be responsible for the development of the congenital hydrocephalus phenotype. Our study provides evidence indicating that abnormalities in Brg1 function result in defects associated with neurodevelopmental disorders and autism.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "Mammalian SWI/SNF-like BAF chromatin remodeling complexes are essential for many aspects of neural development. Mutations in the genes encoding the core subunit Brg1/SmarcA4 or other complex components cause neurodevelopmental diseases and are associated with autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/25929186/",
+  "mesh_terms": [
+    "Animals",
+    "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+    "Cerebral Aqueduct",
+    "Constriction, Pathologic",
+    "DNA Helicases",
+    "Hydrocephalus",
+    "Integrases",
+    "Mice, Transgenic",
+    "Neurons",
+    "Nuclear Proteins",
+    "Prosencephalon",
+    "Subcommissural Organ",
+    "Transcription Factors"
+  ],
+  "keywords": [
+    "Aqueduct",
+    "Autism",
+    "Brg1/SmarcA4",
+    "Camk2a-Cre",
+    "Hydrocephalus",
+    "SCO"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

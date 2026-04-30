@@ -1,0 +1,54 @@
+{
+  "pmid": "38667286",
+  "doi": "10.3390/cells13080671",
+  "title": "Human-Induced Pluripotent Stem Cell-Derived Neural Progenitor Cells Showed Neuronal Differentiation, Neurite Extension, and Formation of Synaptic Structures in Rodent Ischemic Stroke Brains",
+  "authors": "Kanemura Y, Yamamoto A, Katsuma A, Fukusumi H, Shofuda T, Kanematsu D, et al.",
+  "journal": "Cells",
+  "date": "2024-04",
+  "source": "pubmed",
+  "abstract": "Ischemic stroke is a major cerebrovascular disease with high morbidity and mortality rates; however, effective treatments for ischemic stroke-related neurological dysfunction have yet to be developed. In this study, we generated neural progenitor cells from human leukocyte antigen major loci gene-homozygous-induced pluripotent stem cells (hiPSC-NPCs) and evaluated their therapeutic effects against ischemic stroke. hiPSC-NPCs were intracerebrally transplanted into rat ischemic brains produced by transient middle cerebral artery occlusion at either the subacute or acute stage, and their in vivo survival, differentiation, and efficacy for functional improvement in neurological dysfunction were evaluated. hiPSC-NPCs were histologically identified in host brain tissues and showed neuronal differentiation into vGLUT-positive glutamatergic neurons, extended neurites into both the ipsilateral infarct and contralateral healthy hemispheres, and synaptic structures formed 12 weeks after both acute and subacute stage transplantation. They also improved neurological function when transplanted at the subacute stage with &#x3b3;-secretase inhibitor pretreatment. However, their effects were modest and not significant and showed a possible risk of cells remaining in their undifferentiated and immature status in acute-stage transplantation. These results suggest that hiPSC-NPCs show cell replacement effects in ischemic stroke-damaged neural tissues, but their efficacy is insufficient for neurological functional improvement after acute or subacute transplantation. Further optimization of cell preparation methods and the timing of transplantation is required to balance the efficacy and safety of hiPSC-NPC transplantation.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Ischemic stroke is a major cerebrovascular disease with high morbidity and mortality rates; however, effective treatments for ischemic stroke-related neurological dysfunction have yet to be developed. In this study, we generated neural progenitor cells from human leukocyte antigen major loci gene-homozygous-induced pluripotent stem cells (hiPSC-NPCs) and evaluated their therapeutic effects against ischemic stroke.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/38667286/",
+  "mesh_terms": [
+    "Induced Pluripotent Stem Cells",
+    "Humans",
+    "Animals",
+    "Neural Stem Cells",
+    "Cell Differentiation",
+    "Ischemic Stroke",
+    "Rats",
+    "Synapses",
+    "Male",
+    "Neurites",
+    "Brain",
+    "Brain Ischemia",
+    "Neurons",
+    "Rats, Sprague-Dawley",
+    "Stroke"
+  ],
+  "keywords": [
+    "cell replacement effect",
+    "induced pluripotent stem cells",
+    "intracerebral transplantation",
+    "ischemic stroke",
+    "neural progenitor cells",
+    "neurite extension",
+    "neuronal differentiation",
+    "synaptic structure formation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

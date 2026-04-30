@@ -1,0 +1,54 @@
+{
+  "pmid": "37797581",
+  "doi": "10.1016/j.neuron.2023.09.009",
+  "title": "An inhibitory circuit-based enhancer of DYRK1A function reverses Dyrk1a-associated impairment in social recognition",
+  "authors": "Shih YT, Alipio JB, Sahay A",
+  "journal": "Neuron",
+  "date": "2023-10",
+  "source": "pubmed",
+  "abstract": "Heterozygous mutations in the dual-specificity tyrosine phosphorylation-regulated kinase 1a (Dyrk1a) gene define a syndromic form of autism spectrum disorder. The synaptic and circuit mechanisms mediating DYRK1A functions in social cognition are unclear. Here, we identify a social experience-sensitive mechanism in hippocampal mossy fiber-parvalbumin interneuron (PV IN) synapses by which DYRK1A recruits feedforward inhibition of CA3 and CA2 to promote social recognition. We employ genetic epistasis logic to identify a cytoskeletal protein, ABLIM3, as a synaptic substrate of DYRK1A. We demonstrate that Ablim3 downregulation in dentate granule cells of adult heterozygous Dyrk1a mice is sufficient to restore PV IN-mediated inhibition of CA3 and CA2 and social recognition. Acute chemogenetic activation of PV INs in CA3/CA2 of adult heterozygous Dyrk1a mice also rescued social recognition. Together, these findings illustrate how targeting DYRK1A synaptic and circuit substrates as \"enhancers of DYRK1A function\" harbors the potential to reverse Dyrk1a haploinsufficiency-associated circuit and cognition impairments.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "DYRK1A"
+  ],
+  "summary": "Heterozygous mutations in the dual-specificity tyrosine phosphorylation-regulated kinase 1a (Dyrk1a) gene define a syndromic form of autism spectrum disorder. The synaptic and circuit mechanisms mediating DYRK1A functions in social cognition are unclear.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37797581/",
+  "mesh_terms": [
+    "Animals",
+    "Mice",
+    "Autism Spectrum Disorder",
+    "Brain",
+    "Mossy Fibers, Hippocampal",
+    "Parvalbumins",
+    "Recognition, Psychology",
+    "Synapses",
+    "Dyrk Kinases"
+  ],
+  "keywords": [
+    "Ablim3",
+    "CA2",
+    "CA3",
+    "Dyrk1a",
+    "autism spectrum disorder",
+    "dentate gyrus",
+    "epistasis",
+    "feedforward inhibition",
+    "hippocampus",
+    "parvalbumin interneuron",
+    "social cognition"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ]
+}

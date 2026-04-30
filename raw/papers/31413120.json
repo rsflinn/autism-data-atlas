@@ -1,0 +1,53 @@
+{
+  "pmid": "31413120",
+  "doi": "10.1136/jmedgenet-2019-106080",
+  "title": "Genetic factors contributing to autism spectrum disorder in Williams-Beuren syndrome",
+  "authors": "Codina-Sola M, Costa-Roger M, P&#xe9;rez-Garc&#xed;a D, Flores R, Palacios-Verd&#xfa; MG, Cusco I, et al.",
+  "journal": "Journal of medical genetics",
+  "date": "2019-08",
+  "source": "pubmed",
+  "abstract": "The hallmark of the neurobehavioural phenotype of Williams-Beuren syndrome (WBS) is increased sociability and relatively preserved language skills, often described as opposite to autism spectrum disorders (ASD). However, the prevalence of ASD in WBS is 6-10 times higher than in the general population. We have investigated the genetic factors that could contribute to the ASD phenotype in individuals with WBS.\n\nWe studied four males and four females with WBS and a confirmed diagnosis of ASD by the Autism Diagnostic Interview-Revised. We performed a detailed molecular characterisation of the deletion and searched for genomic variants using exome sequencing.\n\nA de novo deletion of 1.55&#x2009;Mb (6 cases) or 1.83&#x2009;Mb (2 cases) at 7q11.23 was detected, being in 7/8 patients of paternal origin. No common breakpoint, deletion mechanism or size was found. Two cases were hemizygous for the rare T allele at rs12539160 in, previously associated with ASD. Inherited rare variants in ASD-related or functionally constrained genes and a de novo nonsense mutation in thegene were identified in six cases, with higher burden in females compared with males (p=0.016).\n\nThe increased susceptibility to ASD in patients with WBS might be due to additive effects of the common WBS deletion, inherited and de novo rare sequence variants in ASD-related genes elsewhere in the genome, with higher burden of deleterious mutations required for females, and possible hypomorphic variants in the hemizygous allele or-acting mechanisms on imprinting.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The hallmark of the neurobehavioural phenotype of Williams-Beuren syndrome (WBS) is increased sociability and relatively preserved language skills, often described as opposite to autism spectrum disorders (ASD). However, the prevalence of ASD in WBS is 6-10 times higher than in the general population.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31413120/",
+  "mesh_terms": [
+    "Alleles",
+    "Autism Spectrum Disorder",
+    "Basic Helix-Loop-Helix Leucine Zipper Transcription Factors",
+    "Child",
+    "Child, Preschool",
+    "Chromosome Deletion",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genome, Human",
+    "Hemizygote",
+    "Humans",
+    "Infant",
+    "Male",
+    "Phenotype",
+    "Ubiquitin-Protein Ligases",
+    "Exome Sequencing",
+    "Williams Syndrome"
+  ],
+  "keywords": [
+    "Williams-Beuren syndrome",
+    "autism spectrum disorders",
+    "comorbidity",
+    "exome sequencing",
+    "neurobehavioural phenotype"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

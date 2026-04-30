@@ -1,0 +1,62 @@
+{
+  "pmid": "31914384",
+  "doi": "10.1016/j.celrep.2019.12.002",
+  "title": "Distinct Pathogenic Genes Causing Intellectual Disability and Autism Exhibit a Common Neuronal Network Hyperactivity Phenotype",
+  "authors": "Frega M, Selten M, Mossink B, Keller JM, Linda K, Moerschen R, et al.",
+  "journal": "Cell reports",
+  "date": "2020-01",
+  "source": "pubmed",
+  "abstract": "Pathogenic mutations in either one of the epigenetic modifiers EHMT1, MBD5, MLL3, or SMARCB1 have been identified to be causative for Kleefstra syndrome spectrum (KSS), a neurodevelopmental disorder with clinical features of both intellectual disability (ID) and autism spectrum disorder (ASD). To understand how these variants lead to the phenotypic convergence in KSS, we employ a loss-of-function approach to assess neuronal network development at the molecular, single-cell, and network activity level. KSS-gene-deficient neuronal networks all develop into hyperactive networks with altered network organization and excitatory-inhibitory balance. Interestingly, even though transcriptional data reveal distinct regulatory mechanisms, KSS target genes share similar functions in regulating neuronal excitability and synaptic function, several of which are associated with ID and ASD. Our results show that KSS genes mainly converge at the level of neuronal network communication, providing insights into the pathophysiology of KSS and phenotypically congruent disorders.",
+  "relevance_score": 23,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [
+    "MBD5"
+  ],
+  "summary": "Pathogenic mutations in either one of the epigenetic modifiers EHMT1, MBD5, MLL3, or SMARCB1 have been identified to be causative for Kleefstra syndrome spectrum (KSS), a neurodevelopmental disorder with clinical features of both intellectual disability (ID) and autism spectrum disorder (ASD). To understand how these variants lead to the phenotypic convergence in KSS, we employ a loss-of-function approach to assess neuronal network development at the molecular, single-cell, and network activity ",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/31914384/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Chromosome Deletion",
+    "Chromosomes, Human, Pair 9",
+    "Craniofacial Abnormalities",
+    "Embryonic Development",
+    "Gene Expression Regulation",
+    "Gene Knockdown Techniques",
+    "HEK293 Cells",
+    "Heart Defects, Congenital",
+    "Histocompatibility Antigens",
+    "Histone-Lysine N-Methyltransferase",
+    "Humans",
+    "Intellectual Disability",
+    "Male",
+    "Mice, Inbred C57BL",
+    "Nerve Net",
+    "Neural Inhibition",
+    "Neurons",
+    "Phenotype",
+    "Rats, Wistar",
+    "Synapses"
+  ],
+  "keywords": [
+    "EHMT1",
+    "Kleefstra syndrome spectrum",
+    "autism",
+    "intellectual disability",
+    "micro-electrode arrays",
+    "neurodevelopmental disorder",
+    "neuronal networks"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pmid": "36834870",
+  "doi": "10.3390/ijms24043459",
+  "title": "Induced Pluripotent Stem Cell-Derived Organoids: Their Implication in COVID-19 Modeling",
+  "authors": "Cs&#xf6;b&#xf6;nyeiov&#xe1; M, Klein M, Kuniakov&#xe1; M, Varga I, Dani&#x161;ovi&#x10d; &#x13d;",
+  "journal": "International journal of molecular sciences",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "The outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has become a significant global health issue. This novel virus's high morbidity and mortality rates have prompted the scientific community to quickly find the best COVID-19 model to investigate all pathological processes underlining its activity and, more importantly, search for optimal drug therapy with minimal toxicity risk. The gold standard in disease modeling involves animal and monolayer culture models; however, these models do not fully reflect the response to human tissues affected by the virus. However, more physiological 3D in vitro culture models, such as spheroids and organoids derived from induced pluripotent stem cells (iPSCs), could serve as promising alternatives. Different iPSC-derived organoids, such as lung, cardiac, brain, intestinal, kidney, liver, nasal, retinal, skin, and pancreatic organoids, have already shown immense potential in COVID-19 modeling. In the present comprehensive review article, we summarize the current knowledge on COVID-19 modeling and drug screening using selected iPSC-derived 3D culture models, including lung, brain, intestinal, cardiac, blood vessels, liver, kidney, and inner ear organoids. Undoubtedly, according to reviewed studies, organoids are the state-of-the-art approach to COVID-19 modeling.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "The outbreak of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has become a significant global health issue. This novel virus's high morbidity and mortality rates have prompted the scientific community to quickly find the best COVID-19 model to investigate all pathological processes underlining its activity and, more importantly, search for optimal drug therapy with minimal toxicity risk.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36834870/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "COVID-19",
+    "Induced Pluripotent Stem Cells",
+    "SARS-CoV-2",
+    "Brain",
+    "Organoids"
+  ],
+  "keywords": [
+    "COVID-19",
+    "disease modeling",
+    "iPSCs",
+    "organoids"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

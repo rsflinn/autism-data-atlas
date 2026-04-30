@@ -1,0 +1,49 @@
+{
+  "pmid": "39248107",
+  "doi": "10.1002/aur.3222",
+  "title": "Neurophysiological effects of a combined treatment of lovastatin and minocycline in patients with fragile X syndrome: Ancillary results of the LOVAMIX randomized clinical trial",
+  "authors": "Morin-Parent F, Champigny C, C&#xf4;t&#xe9; S, Mohamad T, Hasani SA, &#xc7;aku A, et al.",
+  "journal": "Autism research : official journal of the International Society for Autism Research",
+  "date": "2024-09",
+  "source": "pubmed",
+  "abstract": "Fragile X syndrome (FXS) is the primary hereditary cause of intellectual disability and autism spectrum disorder. It is characterized by exacerbated neuronal excitability, and its correction is considered an objective measure of treatment response in animal models, a marker albeit rarely used in clinical trials. Here, we used an extensive transcranial magnetic stimulation (TMS) battery to assess the neurophysiological effects of a therapy combining two disease-modifying drugs, lovastatin (40&#x2009;mg) and minocycline (100&#x2009;mg), administered alone for 8&#x2009;weeks and in combination for 12&#x2009;weeks, in 19 patients (mean age of 23.58&#x2009;&#xb1;&#x2009;1.51) with FXS taking part in the LOVAmix trial. The TMS battery, which included the resting motor threshold, short-interval intracortical inhibition, long-interval intracortical inhibition, corticospinal silent period, and intracortical facilitation, was completed at baseline after 8&#x2009;weeks of monotherapy (visit 2 of the clinical trial) and after 12&#x2009;weeks of dual therapy (visit 4 of the clinical trial). Repeated measure ANOVAs were performed between baseline and visit 2 (monotherapy) and visit 3 (dual therapy) with interactions for which monotherapy the participants received when they began the clinical trial. Results showed that dual therapy was associated with reduced cortical excitability after 20&#x2009;weeks. This was reflected by a significant increase in the resting-motor threshold after dual therapy compared to baseline. There was a tendency for enhanced short-intracortical inhibition, a marker of GABAa-mediated inhibition after 8&#x2009;weeks of monotherapy compared to baseline. Together, these results suggest that a combined therapy of minocycline and lovastatin might act on the core neurophysiopathology of FXS. This trial was registered at clinicaltrials.gov (NCT02680379).",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "Fragile X syndrome (FXS) is the primary hereditary cause of intellectual disability and autism spectrum disorder. It is characterized by exacerbated neuronal excitability, and its correction is considered an objective measure of treatment response in animal models, a marker albeit rarely used in clinical trials.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/39248107/",
+  "mesh_terms": [
+    "Humans",
+    "Lovastatin",
+    "Fragile X Syndrome",
+    "Minocycline",
+    "Male",
+    "Female",
+    "Young Adult",
+    "Transcranial Magnetic Stimulation",
+    "Adult",
+    "Drug Therapy, Combination",
+    "Treatment Outcome",
+    "Evoked Potentials, Motor"
+  ],
+  "keywords": [
+    "dual therapy",
+    "fragile X syndrome",
+    "lovastatin",
+    "minocycline",
+    "transcranial magnetic stimulation"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

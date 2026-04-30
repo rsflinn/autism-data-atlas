@@ -1,0 +1,32 @@
+{
+  "pmid": "30042640",
+  "doi": "10.29399/npa.18138",
+  "title": "Autism Spectrum Symptoms in Children and Adolescents with Obsessive Compulsive Disorder and Their Mothers",
+  "authors": "&#xd6;zyurt G, Be&#x15f;iro&#x11f;lu L",
+  "journal": "Noro psikiyatri arsivi",
+  "date": "2018-03",
+  "source": "pubmed",
+  "abstract": "Obsessive-compulsive disorder (OCD) affects 1-3% of children and adolescents. Although a close relation between OCD and autism spectrum disorder (ASD) has been pointed out, the relation between maternal ASD symptoms and subclinical ASD symptoms in OCD have not been evaluated adequately. In this study, children and adolescents with OCD diagnosis, and OSB indications in their mothers were investigated. The relationship between the clinical severity of these indications in children and adolescents with OCD, and maternal OSB indications will be examined.\n\nThe study group consisted of 38 cases (8-18 years old) diagnosed with OCD. The control group (n=39) comprised patients of other clinics at hospital, and was matched for gender and age to the OCD patients. The Kiddie Schedule for Affective Disorders and Schizophrenia for School Aged Children - Present and Lifetime Version (K-SADS-PL) was used to diagnose OCD and accompanying comorbidities. Social Communication Questionnaire (SCQ) was used to evaluate children's ASD symptoms while Autism Spectrum Quotient (ASQ) was used to evaluate maternal broad autism phenotype. OCD symptoms in children were evaluated with Children Yale-Brown Obsessive Compulsive Scale-(C-Y-BOCS), and OCD symptoms in mothers were evaluated with Yale-Brown Obsessive Compulsive Scale-(Y-BOCS).\n\nThere was no significant difference between sociodemographic data of two groups. When cases and controls were compared with SCQ; all subscales' scores and total score of SCQ were statistically significant higher in OCD group and also mothers of OCD group had statistically significant higher scores in total score of ASQ and subscales except \"imagination\". Also in comparing the groups with Y-BOCS and C-Y-BOCS; OCD group had statistically significant higher scores in these scales.\n\nASD symptoms are prevalent in cases diagnosed with OCD and ASD symptoms increases with OCD severity. Further studies are needed to examine genetic and environmental common risk factors between OCD and ASD.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Obsessive-compulsive disorder (OCD) affects 1-3% of children and adolescents. Although a close relation between OCD and autism spectrum disorder (ASD) has been pointed out, the relation between maternal ASD symptoms and subclinical ASD symptoms in OCD have not been evaluated adequately.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30042640/",
+  "mesh_terms": [],
+  "keywords": [
+    "Autism spectrum disorder",
+    "broad autism phenotype",
+    "obsessive compulsive disorder"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

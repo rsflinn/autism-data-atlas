@@ -1,0 +1,45 @@
+{
+  "pmid": "30294993",
+  "doi": "10.1111/jpc.14202",
+  "title": "Investigating the child with intellectual disability",
+  "authors": "Amor DJ",
+  "journal": "Journal of paediatrics and child health",
+  "date": "2018-10",
+  "source": "pubmed",
+  "abstract": "The search for causation is a key component of the assessment of the child with intellectual disability. Historically, a specific diagnosis has been achievable in only a small minority of these children, but over the last decade, this has changed dramatically such that a specific diagnosis is now possible in about half of all children with intellectual disability. This improvement has been driven by major advances in genetic-testing technologies, the most important of which are chromosome microarray and whole exome sequencing. Simultaneously, these technological advances have revealed many new genetic syndromes that had previously escaped clinical recognition, and demonstrated that the majority of severe intellectual disability is caused by pathogenic gene variants that arise de novo in the child. Although access to genomic testing is currently limited, evidence from health economic studies suggests that this testing is most cost effective when performed early in the patient's diagnostic journey.",
+  "relevance_score": 10,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [],
+  "summary": "The search for causation is a key component of the assessment of the child with intellectual disability. Historically, a specific diagnosis has been achievable in only a small minority of these children, but over the last decade, this has changed dramatically such that a specific diagnosis is now possible in about half of all children with intellectual disability.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/30294993/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Chromosome Disorders",
+    "Fragile X Syndrome",
+    "Genetic Testing",
+    "Humans",
+    "Intellectual Disability",
+    "Mutation",
+    "Oligonucleotide Array Sequence Analysis"
+  ],
+  "keywords": [
+    "chromosome microarray",
+    "fragile X testing",
+    "genetic diagnosis",
+    "intellectual disability",
+    "urine metabolic screening"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

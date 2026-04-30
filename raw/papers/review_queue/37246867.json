@@ -1,0 +1,39 @@
+{
+  "pmid": "37246867",
+  "doi": "10.3791/64586",
+  "title": "Robust Tissue Fabrication for Long-Term Culture of iPSC-Derived Brain Organoids for Aging Research",
+  "authors": "Koch LS, Choy Buentello D, Broersen K",
+  "journal": "Journal of visualized experiments : JoVE",
+  "date": "2023-05",
+  "source": "pubmed",
+  "abstract": "The currently available animal and cellular models do not fully recapitulate the complexity of changes that take place in the aging human brain. A recent development of procedures describing the generation of human cerebral organoids, derived from human induced pluripotent stem cells (iPSCs), has the potential to fundamentally transform the ability to model and understand the aging of the human brain and related pathogenic processes. Here, an optimized protocol for generating, maintaining, aging, and characterizing human iPSC-derived cerebral organoids is presented. This protocol can be implemented to generate brain organoids in a reproducible manner and serves as a step-by-step guide, incorporating the latest techniques that result in improved organoid maturation and aging in culture. Specific issues related to organoid maturation, necrosis, variability, and batch effects are being addressed. Taken together, these technological advances will allow the modeling of brain aging in organoids derived from a variety of young and aged human donors, as well as individuals afflicted with age-related brain disorders, allowing the identification of physiologic and pathogenic mechanisms of human brain aging.",
+  "relevance_score": 12,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The currently available animal and cellular models do not fully recapitulate the complexity of changes that take place in the aging human brain. A recent development of procedures describing the generation of human cerebral organoids, derived from human induced pluripotent stem cells (iPSCs), has the potential to fundamentally transform the ability to model and understand the aging of the human brain and related pathogenic processes.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/37246867/",
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Aged",
+    "Induced Pluripotent Stem Cells",
+    "Geroscience",
+    "Brain",
+    "Organoids",
+    "Brain Diseases"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Video-Audio Media",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

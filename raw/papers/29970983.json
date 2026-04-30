@@ -1,0 +1,36 @@
+{
+  "pmid": "29970983",
+  "doi": "10.3389/fnins.2018.00412",
+  "title": "Common Defects of Spine Dynamics and Circuit Function in Neurodevelopmental Disorders: A Systematic Review of Findings FromOptical Imaging of Mouse Models",
+  "authors": "Nakai N, Takumi T, Nakai J, Sato M",
+  "journal": "Frontiers in neuroscience",
+  "date": "2018-06",
+  "source": "pubmed",
+  "abstract": "optical imaging is a powerful tool for revealing brain structure and function at both the circuit and cellular levels. Here, we provide a systematic review of findings obtained fromimaging studies of mouse models of neurodevelopmental disorders, including the monogenic disorders fragile X syndrome, Rett syndrome, and Angelman syndrome, which are caused by genetic abnormalities of, and, as well as disorders caused by copy number variations (15q11-13 duplication and 22q11.2 deletion) and BTBR mice as an inbred strain model of autism spectrum disorder (ASD). Most studies visualize the structural and functional responsiveness of cerebral cortical neurons to sensory stimuli and the developmental and experience-dependent changes in these responses as a model of brain functions affected by these disorders. The optical imaging techniques include two-photon microscopy of fluorescently labeled dendritic spines or neurons loaded with fluorescent calcium indicators and macroscopic imaging of cortical activity using calcium indicators, voltage-sensitive dyes or intrinsic optical signals. Studies have revealed alterations in the density, stability, and turnover of dendritic spines, aberrant cortical sensory responses, impaired inhibitory function, and concomitant failure of circuit maturation as common causes for neurological deficits. Mechanistic hypotheses derived fromimaging also provide new directions for therapeutic interventions. For instance, it was recently demonstrated that early postnatal administration of a selective serotonin reuptake inhibitor (SSRI) restores impaired cortical inhibitory function and ameliorates the aberrant social behaviors in a mouse model of ASD. We discuss the potential use of SSRIs for treating ASDs in light of these findings.",
+  "relevance_score": 16,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "optical imaging is a powerful tool for revealing brain structure and function at both the circuit and cellular levels. Here, we provide a systematic review of findings obtained fromimaging studies of mouse models of neurodevelopmental disorders, including the monogenic disorders fragile X syndrome, Rett syndrome, and Angelman syndrome, which are caused by genetic abnormalities of, and, as well as disorders caused by copy number variations (15q11-13 duplication and 22q11.2 deletion) and BTBR mice",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/29970983/",
+  "mesh_terms": [],
+  "keywords": [
+    "autism spectrum disorders (ASDs)",
+    "calcium imaging",
+    "dendritic spines",
+    "excitatory-inhibitory balance",
+    "serotonin",
+    "two-photon imaging"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

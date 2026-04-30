@@ -1,0 +1,65 @@
+{
+  "pmid": "32139167",
+  "doi": "10.1016/j.pediatrneurol.2019.12.016",
+  "title": "Epilepsy and Neurodevelopmental Comorbidities in Tuberous Sclerosis Complex: A Natural History Study",
+  "authors": "Gupta A, de Bruyn G, Tousseyn S, Krishnan B, Lagae L, Agarwal N, et al.",
+  "journal": "Pediatric neurology",
+  "date": "2020-02",
+  "source": "pubmed",
+  "abstract": "We studied the natural history, genotype influence, and inter-relationship of epilepsy and neuropsychiatric disorders in tuberous sclerosis complex.\n\nPatients were identified using the TSC Natural History Database, the largest repository of longitudinally studied patients enrolled by the TSC Clinics Consortium.\n\nA cohort of 1657 TSC Natural History Database patients was analyzed. Eighty-eight percent patients (91% TSC2 vs 82% TSC1; P&#xa0;=&#xa0;0.002) had epilepsy; TSC2 was more frequent with epilepsy onset at age less than two&#xa0;years (TSC2 82% vs TSC1 54%; P&#xa0;<&#xa0;0.001) and infantile spasms (TSC2 56% vs TSC1 27%; P&#xa0;<&#xa0;0.001). Frequency of intellectual disability (intelligence quotient less than 70) was higher when epilepsy coexisted (P&#xa0;<&#xa0;0.001), but was not impacted by genotype (P&#xa0;=&#xa0;0.08). Severe intellectual disability (intelligence quotient less than 50) was associated with epilepsy onset at age less than two&#xa0;years (P&#xa0;=&#xa0;0.007), but not with the epilepsy duration (P&#xa0;=&#xa0;0.45). Autism was diagnosed in 23% and was associated with epilepsy (P&#xa0;<&#xa0;0.001), particularly with epilepsy onset at age less than two&#xa0;years (P&#xa0;=&#xa0;0.02) but not with genotype (P&#xa0;=&#xa0;0.06). Attention-deficit/hyperactivity disorder (age greater than four&#xa0;years) was diagnosed in 18% and was associated with epilepsy (P&#xa0;<&#xa0;0.001), but genotype made no difference. Nine percent had anxiety (age greater than seven&#xa0;years) and 6% had depression (age greater than nine&#xa0;years), but neither showed association with epilepsy or genotype.\n\nEpilepsy is associated with intellectual disability, and when epilepsy begins before age two years the frequency and severity of intellectual disability is much higher. Epilepsy is also associated with autism and attention-deficit/hyperactivity disorder but not with anxiety and depression. Additional trials, blinded, prospective, and adequately powered, will help clarify if early and effective treatment of epilepsy may also mitigate intellectual disability, autism, and attention-deficit/hyperactivity disorder.",
+  "relevance_score": 19,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "TSC1",
+    "TSC2"
+  ],
+  "summary": "We studied the natural history, genotype influence, and inter-relationship of epilepsy and neuropsychiatric disorders in tuberous sclerosis complex. Patients were identified using the TSC Natural History Database, the largest repository of longitudinally studied patients enrolled by the TSC Clinics Consortium.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32139167/",
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Age of Onset",
+    "Aged",
+    "Aged, 80 and over",
+    "Attention Deficit Disorder with Hyperactivity",
+    "Autism Spectrum Disorder",
+    "Belgium",
+    "Child",
+    "Child, Preschool",
+    "Comorbidity",
+    "Databases, Factual",
+    "Epilepsy",
+    "Female",
+    "Humans",
+    "Infant",
+    "Intellectual Disability",
+    "Longitudinal Studies",
+    "Male",
+    "Middle Aged",
+    "Spasms, Infantile",
+    "Time Factors",
+    "Tuberous Sclerosis",
+    "United States",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Autism",
+    "Epilepsy",
+    "Neurodevelopmental disorders",
+    "Pediatric epilepsy",
+    "TSC",
+    "Tuberous sclerosis complex"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

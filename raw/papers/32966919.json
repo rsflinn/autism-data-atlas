@@ -1,0 +1,46 @@
+{
+  "pmid": "32966919",
+  "doi": "10.1016/j.nut.2020.110986",
+  "title": "Effects of vitamin D supplementation on core symptoms, serum serotonin, and interleukin-6 in children with autism spectrum disorders: A randomized clinical trial",
+  "authors": "Javadfar Z, Abdollahzad H, Moludi J, Rezaeian S, Amirian H, Foroughi AA, et al.",
+  "journal": "Nutrition (Burbank, Los Angeles County, Calif.)",
+  "date": "2020-08",
+  "source": "pubmed",
+  "abstract": "Children with autism spectrum disorders (ASD) have lower serum vitamin D and higher serotonin and interleukin (IL)-6 levels compared with healthy children. The aim of this study was to evaluate the effect of vitamin D on core symptoms and serum levels of serotonin and IL-6 in these children.\n\nThis parallel randomized double-blind, placebo-controlled trial was conducted with 43 children with ASD (7 girls and 36 boys; 8.91 &#xb1; 2.87 y of age). Children were randomly allocated to receive either vitamin D drop (300 IU/kg up to a maximum of 6000 IU daily) or placebo for 15 wk. Serum levels of 25-hydroxyvitamin (OH)D, IL-6, and serotonin were measured at baseline and at the end of the trial. Also, the severity of autism and the social and individual maturity of the children were measured by the Childhood Autism Rating Scale (CARS), the Autism Treatment Assessment Checklist (ATEC), and Aberrant Behavior Checklist-Community (ABC-C) questionnaires before and after intervention. Randomization and allocation to groups were done using computer-generated numbers.\n\nMore than 86% of patients had vitamin D deficiency at the beginning of the study. Serum levels of 25(OH)D increased significantly in the vitamin D group (P&#xa0;=&#xa0;0.001). The clinical symptoms of autism measured by CARS and ATEC scales were alleviated significantly (P&#xa0;=&#xa0;0.021 and P&#xa0;=&#xa0;0.020, respectively); however, the serum levels of serotonin and IL-6 and the scale of ABC-C remained without a significant change.\n\nThese findings suggest that vitamin D supplementation may improve ASD symptoms; however, more studies with longer duration are indispensable to confirm our results.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 2
+  },
+  "genes_mentioned": [],
+  "summary": "Children with autism spectrum disorders (ASD) have lower serum vitamin D and higher serotonin and interleukin (IL)-6 levels compared with healthy children. The aim of this study was to evaluate the effect of vitamin D on core symptoms and serum levels of serotonin and IL-6 in these children.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/32966919/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Child",
+    "Dietary Supplements",
+    "Female",
+    "Humans",
+    "Interleukin-6",
+    "Male",
+    "Serotonin",
+    "Vitamin D",
+    "Vitamin D Deficiency"
+  ],
+  "keywords": [
+    "25(OH)D",
+    "Autism spectrum disorders",
+    "Autistic disorders",
+    "Interleukin-6",
+    "Serotonin"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ]
+}

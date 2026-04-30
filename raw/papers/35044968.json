@@ -1,0 +1,40 @@
+{
+  "pmid": "35044968",
+  "doi": "10.1097/YCO.0000000000000775",
+  "title": "Novel treatments in autism spectrum disorder",
+  "authors": "Baribeau D, Vorstman J, Anagnostou E",
+  "journal": "Current opinion in psychiatry",
+  "date": "2022-03",
+  "source": "pubmed",
+  "abstract": "There are currently no approved medications for the core symptoms of autism spectrum disorder (ASD), and only limited data on the management of co-occurring mental health and behavioural symptoms. The purpose of this review is to synthesize recent trials on novel treatments in ASD, with a focus on research trends in the past 2 years.\n\nNo new pharmacologic agents received regulatory approval for use in ASD. Several large randomized controlled trials (RCTs) had negative or ambiguous results (e.g. fluoxetine, oxytocin). A cross-over RCT of an oral cannabinoid suggested possible benefits for disruptive behaviours. Two large-scale multicentre trials of bumetanide were terminated early for lack of efficacy. Multicenter trials using repetitive transcranial magnetic stimulation are underway. Recent meta-analyses indicate that specific behavioural and psychological interventions can support social communication and treat anxiety. Numerous novel treatment targets informed by biological mechanisms are under investigation.\n\nRecent data support the use of behavioural and psychological interventions for social communication and anxiety in ASD; data are more limited regarding pharmacotherapy for core and associated symptoms. Next steps include replication of early findings, trials of new molecular targets, and the identification of novel biomarkers, including genetic predictors, of treatment response.",
+  "relevance_score": 18,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "There are currently no approved medications for the core symptoms of autism spectrum disorder (ASD), and only limited data on the management of co-occurring mental health and behavioural symptoms. The purpose of this review is to synthesize recent trials on novel treatments in ASD, with a focus on research trends in the past 2 years.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35044968/",
+  "mesh_terms": [
+    "Autism Spectrum Disorder",
+    "Cannabinoids",
+    "Communication",
+    "Fluoxetine",
+    "Humans",
+    "Multicenter Studies as Topic",
+    "Oxytocin",
+    "Randomized Controlled Trials as Topic",
+    "Transcranial Magnetic Stimulation"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ]
+}

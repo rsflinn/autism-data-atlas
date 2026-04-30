@@ -1,0 +1,48 @@
+{
+  "pmid": "24374161",
+  "doi": "10.1016/j.molmed.2013.11.004",
+  "title": "iPSC-derived neurons as a higher-throughput readout for autism: promises and pitfalls",
+  "authors": "Prilutsky D, Palmer NP, Smedemark-Margulies N, Schlaeger TM, Margulies DM, Kohane IS",
+  "journal": "Trends in molecular medicine",
+  "date": "2013-12",
+  "source": "pubmed",
+  "abstract": "The elucidation of disease etiologies and establishment of robust, scalable, high-throughput screening assays for autism spectrum disorders (ASDs) have been impeded by both inaccessibility of disease-relevant neuronal tissue and the genetic heterogeneity of the disorder. Neuronal cells derived from induced pluripotent stem cells (iPSCs) from autism patients may circumvent these obstacles and serve as relevant cell models. To date, derived cells are characterized and screened by assessing their neuronal phenotypes. These characterizations are often etiology-specific or lack reproducibility and stability. In this review, we present an overview of efforts to study iPSC-derived neurons as a model for autism, and we explore the plausibility of gene expression profiling as a reproducible and stable disease marker.",
+  "relevance_score": 17,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 1
+  },
+  "genes_mentioned": [],
+  "summary": "The elucidation of disease etiologies and establishment of robust, scalable, high-throughput screening assays for autism spectrum disorders (ASDs) have been impeded by both inaccessibility of disease-relevant neuronal tissue and the genetic heterogeneity of the disorder. Neuronal cells derived from induced pluripotent stem cells (iPSCs) from autism patients may circumvent these obstacles and serve as relevant cell models.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/24374161/",
+  "mesh_terms": [
+    "Animals",
+    "Autistic Disorder",
+    "Biomarkers",
+    "Cell Culture Techniques",
+    "Cell Differentiation",
+    "Gene Expression Profiling",
+    "Gene Regulatory Networks",
+    "Humans",
+    "Induced Pluripotent Stem Cells",
+    "Neurons",
+    "Phenotype",
+    "Transcriptome"
+  ],
+  "keywords": [
+    "autism",
+    "gene expression",
+    "high-throughput assay",
+    "iPSC"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Review"
+  ]
+}

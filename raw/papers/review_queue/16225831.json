@@ -1,0 +1,45 @@
+{
+  "pmid": "16225831",
+  "doi": "10.1177/08830738050200091001",
+  "title": "Dissecting MECP2 function in the central nervous system",
+  "authors": "Kishi N, Macklis JD",
+  "journal": "Journal of child neurology",
+  "date": "2005-09",
+  "source": "pubmed",
+  "abstract": "Rett syndrome is a neurodevelopmental disorder and an important cause of mental retardation and autistic behavior in girls and in a small group of boys. In 1999, mutation of the methyl-CpG binding protein 2 (MECP2) gene encoding a transcriptional repressor on the X chromosome was found to cause Rett syndrome. Since this discovery, significant research has focused on the elucidation of its specific role in the central nervous system. Recent studies revealed that MECP2 is expressed in more differentiated neurons rather than in less differentiated neuroblasts and that MECP2 is involved in the maturation and maintenance of neurons, including dendritic arborization and axonal projections, rather than in early cell fate decisions in the mammalian brain. In this review, we summarize recent findings regarding regional, temporal, and cell type-specific MECP2 expression in the central nervous system; neurobiologic abnormalities in MECP2 -mutant mice; and MECP2 target genes in the central nervous system.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "Rett syndrome is a neurodevelopmental disorder and an important cause of mental retardation and autistic behavior in girls and in a small group of boys. In 1999, mutation of the methyl-CpG binding protein 2 (MECP2) gene encoding a transcriptional repressor on the X chromosome was found to cause Rett syndrome.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/16225831/",
+  "mesh_terms": [
+    "Animals",
+    "Brain",
+    "Female",
+    "Humans",
+    "Male",
+    "Mice",
+    "Mice, Neurologic Mutants",
+    "Neurons",
+    "Repressor Proteins",
+    "Rett Syndrome"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+  ]
+}

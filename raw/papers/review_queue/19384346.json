@@ -1,0 +1,48 @@
+{
+  "pmid": "19384346",
+  "doi": "10.1038/ejhg.2009.47",
+  "title": "Copy number variation and association analysis of SHANK3 as a candidate gene for autism in the IMGSAC collection",
+  "authors": "Sykes NH, Toma C, Wilson N, Volpi EV, Sousa I, Pagnamenta AT, et al.",
+  "journal": "European journal of human genetics : EJHG",
+  "date": "2009-04",
+  "source": "pubmed",
+  "abstract": "SHANK3 is located on chromosome 22q13.3 and encodes a scaffold protein that is found in excitatory synapses opposite the pre-synaptic active zone. SHANK3 is a binding partner of neuroligins, some of whose genes contain mutations in a small subset of individuals with autism. In individuals with autism spectrum disorders (ASDs), several studies have found SHANK3 to be disrupted by deletions ranging from hundreds of kilobases to megabases, suggesting that 1% of individuals with ASDs may have these chromosomal aberrations. To further analyse the involvement of SHANK3 in ASD, we screened the International Molecular Genetic Study of Autism Consortium (IMGSAC) multiplex family sample, 330 families, for SNP association and copy number variants (CNVs) in SHANK3. A collection of 76 IMGSAC Italian probands from singleton families was also examined by multiplex ligation-dependent probe amplification for CNVs. No CNVs or SNP associations were found within the sample set, although sequencing of the gene was not performed. Our data suggest that SHANK3 deletions may be limited to lower functioning individuals with autism.",
+  "relevance_score": 14,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 2,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "SHANK3 is located on chromosome 22q13.3 and encodes a scaffold protein that is found in excitatory synapses opposite the pre-synaptic active zone. SHANK3 is a binding partner of neuroligins, some of whose genes contain mutations in a small subset of individuals with autism.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/19384346/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Carrier Proteins",
+    "Chromosome Aberrations",
+    "Cohort Studies",
+    "Disease Progression",
+    "Female",
+    "Genetic Predisposition to Disease",
+    "Genetic Variation",
+    "Genotype",
+    "Humans",
+    "In Situ Hybridization, Fluorescence",
+    "Italy",
+    "Male",
+    "Models, Genetic",
+    "Nerve Tissue Proteins",
+    "Synapses"
+  ],
+  "keywords": [],
+  "article_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

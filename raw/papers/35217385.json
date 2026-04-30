@@ -1,0 +1,49 @@
+{
+  "pmid": "35217385",
+  "doi": "10.1016/j.yebeh.2022.108604",
+  "title": "De novo GRIN2A variants associated with epilepsy and autism and literature review",
+  "authors": "Mangano GD, Riva A, Fontana A, Salpietro V, Mangano GR, Nobile G, et al.",
+  "journal": "Epilepsy & behavior : E&B",
+  "date": "2022-02",
+  "source": "pubmed",
+  "abstract": "N-methyl-D-aspartate receptors (NMDAR) are di- or tri-heterotetrameric ligand-gated ion channels composed of two obligate glycine-binding GluN1 subunits and two glutamate-binding GluN2 or GluN3 subunits, encoded by GRIN1, GRIN2A-D, and GRIN3A-B receptor genes respectively. Each NMDA receptor subtype has different temporal and spatial expression patterns in the brain and varies in the cell types and subcellular localization resulting in different functions. They play a crucial role in mediating the excitatory neurotransmission, but are also involved in neuronal development and synaptic plasticity, essential for learning, memory, and high cognitive functions. Among genes coding NMDAR subunits, GRIN2B is predominantly associated with neurodevelopmental disorders such as intellectual disability, developmental delay, autism, attention-deficit/hyperactivity disorder and, further, schizophrenia, Alzheimer's disease. The GRIN2A seems to be predominantly associated with a more definite phenotype including an epileptic spectrum ranging from Landau-Kleffner syndrome to benign childhood epilepsy with centrotemporal spikes, speech or language impairment, intellectual disability/developmental delay often in comorbidity. On the contrary, the occurrence of autism spectrum disorders, unlike GRIN2B-associated disorders, is questionable. To contribute to elucidate the latter issue and to better define the genotype/phenotype correlation, we report the clinical and neuropsychological profile of two patients featuring autism disorder, intellectual disability, language impairment, and focal epilepsy, associated with previously unreported heterozygous de novo GRIN2A pathogenic variants. We hypothesize that the unusual phenotype may be the result of interactions of tri-heterotetrameric 2GluN1/GluN2A-D/GluN3A-B subunits with mutated GluN2A subunit and/or the dysfunction may be influenced by other unknown modifier genes and/or environmental factors.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity_data": 3
+  },
+  "genes_mentioned": [
+    "GRIN1",
+    "GRIN2A",
+    "GRIN2B"
+  ],
+  "summary": "N-methyl-D-aspartate receptors (NMDAR) are di- or tri-heterotetrameric ligand-gated ion channels composed of two obligate glycine-binding GluN1 subunits and two glutamate-binding GluN2 or GluN3 subunits, encoded by GRIN1, GRIN2A-D, and GRIN3A-B receptor genes respectively. Each NMDA receptor subtype has different temporal and spatial expression patterns in the brain and varies in the cell types and subcellular localization resulting in different functions.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/35217385/",
+  "mesh_terms": [
+    "Autistic Disorder",
+    "Child",
+    "Epilepsies, Partial",
+    "Epilepsy",
+    "Humans",
+    "Landau-Kleffner Syndrome",
+    "Neurodevelopmental Disorders",
+    "Receptors, N-Methyl-D-Aspartate"
+  ],
+  "keywords": [
+    "Autism spectrum disorders",
+    "Epilepsy",
+    "GRIN2A",
+    "GRIN2B",
+    "Gene de novo variants",
+    "Intellectual disability"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Review"
+  ]
+}

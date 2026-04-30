@@ -1,0 +1,54 @@
+{
+  "pmid": "36845137",
+  "doi": "10.3389/fimmu.2023.1124356",
+  "title": "SHANK3 in vagal sensory neurons regulates body temperature, systemic inflammation, and sepsis",
+  "authors": "Zhang L, Bang S, He Q, Matsuda M, Luo X, Jiang YH, et al.",
+  "journal": "Frontiers in immunology",
+  "date": "2023-02",
+  "source": "pubmed",
+  "abstract": "Excessive inflammation has been implicated in autism spectrum disorder (ASD), but the underlying mechanisms have not been fully studied. SHANK3 is a synaptic scaffolding protein and mutations ofare involved in ASD. Shank3 expression in dorsal root ganglion sensory neurons also regulates heat pain and touch. However, the role of Shank3 in the vagus system remains unknown. We induced systemic inflammation by lipopolysaccharide (LPS) and measured body temperature and serum IL-6 levels in mice. We found that homozygous and heterozygousdeficiency, but notanddeficiency, aggravates hypothermia, systemic inflammation (serum IL-6 levels), and sepsis mortality in mice, induced by lipopolysaccharide (LPS). Furthermore, these deficits can be recapitulated by specific deletion ofin Nav1.8-expressing sensory neurons in conditional knockout (CKO) mice or by selective knockdown oforin vagal sensory neurons in nodose ganglion (NG). Mice withdeficiency have normal basal core temperature but fail to adjust body temperature after perturbations with lower or higher body temperatures or auricular vagus nerve stimulation.hybridization with RNAscope revealed thatis broadly expressed by vagal sensory neurons and this expression was largely lost incKO mice. Mechanistically,regulates the expression ofin NG, asbut notmRNA levels in NG were significantly reduced inKO mice. Our findings demonstrated a novel molecular mechanism by which Shank3 in vagal sensory neurons regulates body temperature, inflammation, and sepsis. We also provided new insights into inflammation dysregulation in ASD.",
+  "relevance_score": 15,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "summary": "Excessive inflammation has been implicated in autism spectrum disorder (ASD), but the underlying mechanisms have not been fully studied. SHANK3 is a synaptic scaffolding protein and mutations ofare involved in ASD.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/36845137/",
+  "mesh_terms": [
+    "Mice",
+    "Animals",
+    "Autism Spectrum Disorder",
+    "Body Temperature",
+    "Lipopolysaccharides",
+    "TRPM Cation Channels",
+    "Interleukin-6",
+    "Sensory Receptor Cells",
+    "Sepsis",
+    "Inflammation",
+    "Microfilament Proteins",
+    "Nerve Tissue Proteins"
+  ],
+  "keywords": [
+    "TRPM2",
+    "TRPV1",
+    "autism",
+    "inflammation",
+    "nodose ganglion",
+    "pain",
+    "sepsis",
+    "vagus nerve"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ]
+}

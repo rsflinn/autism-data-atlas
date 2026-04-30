@@ -1,0 +1,49 @@
+{
+  "pmid": "41147347",
+  "doi": "10.1002/bdr2.2521",
+  "title": "A Case Report: Co-Occurrence of TNRC6B Gene Variant and Xq28 Microdeletion Syndrome With Comprehensive Literature Review",
+  "authors": "Deng Y, Bu C, Basang Z, Zhaxi Q",
+  "journal": "Birth defects research",
+  "date": "2025-11",
+  "source": "pubmed",
+  "abstract": "TNRC6B encodes a protein crucial for RNA silencing, and heterozygous variants of TNRC6B have been associated with developmental delay/intellectual disability, speech and language delay, fine and motor delay, and a range of neurobehavioral phenotypes, including autism and attention deficit and hyperactivity disorder (ADHD). Rett syndrome (RTT) is a neurodevelopmental disorder primarily affecting girls, characterized by loss of acquired speech and motor skills, repetitive hand movements, breathing irregularities, seizures, and is a prevalent cause of intellectual disability in females. Most RTT cases are due to pathogenic variants in the MECP2 gene located at Xq28, encoding methyl-CpG binding protein 2 (MeCP2). The phenotypic spectrum of heterozygous TNRC6B variants combined with MECP2 gene deletion has not been well described.\n\nA 17-month-old Chinese female patient with severe malnutrition and global developmental delay (GDD) was enrolled in this study. Whole-exome sequencing was conducted, and clinical data were obtained retrospectively from medical history and formal neuropsychological evaluation. The heterozygous TNRC6B variants (c.1409A&#x2009;>&#x2009;G; p.Asp470Ser) and a 4.066&#x2009;Kb intragenic deletion of Xq28 encompassing the MECP2 gene were found. This expands the genetic spectrum of TNRC6B variants. The patient exhibited GDD, behavioral abnormalities, stunting, underweight, microcephaly and facial dysmorphism, including low-set ears, wide-set eyes, upslanting lateral canthi, underbite and hypertonia. The patient has received feeding guidance and rehabilitation training, and is currently under regular follow-up. This case broadens the phenotypic spectrum associated with TNRC6B variants and MECP2 gene deletion.\n\nThis is the first report of a Xq28 microdeletion encompassing the MECP2 gene combined with heterozygous variants in TNRC6B. Our study expands the genotypic and phenotypic spectrum of TNRC6B deficiency syndrome and Rett syndrome. Our findings suggest that patients with TNRC6B and MECP2 gene deficiencies may experience more severe developmental delay and malnutrition.",
+  "relevance_score": 24,
+  "decision": "INTEGRATE",
+  "score_breakdown": {
+    "direct_autism_relevance": 4,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "genes_mentioned": [
+    "MECP2"
+  ],
+  "summary": "TNRC6B encodes a protein crucial for RNA silencing, and heterozygous variants of TNRC6B have been associated with developmental delay/intellectual disability, speech and language delay, fine and motor delay, and a range of neurobehavioral phenotypes, including autism and attention deficit and hyperactivity disorder (ADHD). Rett syndrome (RTT) is a neurodevelopmental disorder primarily affecting girls, characterized by loss of acquired speech and motor skills, repetitive hand movements, breathing",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/41147347/",
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Methyl-CpG-Binding Protein 2",
+    "Chromosome Deletion",
+    "Infant",
+    "Chromosomes, Human, X",
+    "Rett Syndrome",
+    "Developmental Disabilities",
+    "Phenotype",
+    "Intellectual Disability"
+  ],
+  "keywords": [
+    "MECP2",
+    "TNRC6B",
+    "global developmental delay",
+    "malnutrition",
+    "whole&#x2010;exome sequencing"
+  ],
+  "article_types": [
+    "Journal Article",
+    "Case Reports",
+    "Review"
+  ]
+}

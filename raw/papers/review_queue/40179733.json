@@ -1,0 +1,47 @@
+{
+  "pmid": "40179733",
+  "doi": "10.1016/j.biopha.2025.118021",
+  "title": "Multi-organ model assessment of neurotoxicity following exposure of liver spheroids to drugs",
+  "authors": "Wu W, Anas F, Koc B, Tian L, Hasselkus R, Rezania D, et al.",
+  "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+  "date": "2025-04",
+  "source": "pubmed",
+  "abstract": "Accurate prediction of drug toxicity is a major challenge for therapeutic development. The use of animal models for predicting toxicity has been a longstanding practice, but often falls short in accurately predicting human-specific responses. Human in vitro models, such as organoids and spheroids, provide alternative approaches to animal models. In this study, we employed primary human-derived liver spheroids (hLiSps) and human induced pluripotent stem cells (iPSC)-derived brain organoids (hiBOs) to create a combined Liver+Brain model for neurotoxicity assessment, to investigate the potential influence of incorporating a liver preconditioning component on toxic responses in the brain. Comparing the effect of six example drugs that are known to cause adverse clinical neurological effects, we observed that troglitazone (Trgl), tested at clinically relevant doses in the Liver+Brain model, caused a significantly greater reduction in cell viability compared to similar treatments in the Brain-only model. This was further confirmed across multiple donors and various stages of brain organoid development. In contrast, we found that high dose valproic acid treatment increased cell viability in the Liver+Brain model. Transcriptome analysis using RNA-seq revealed that liver-preconditioned Trgl elicited a more pronounced transcriptional response in hiBOs, identifying a 7-fold increase in the number of affected genes and over a 10-fold increase in affected pathways containing gene set components specifically associated with cell division and neurogenesis, which were not observed in the Brain model. Taken together, our data suggest that the addition of hLiSps to hiBOs is critical to accurately assess neurotoxicity using a comprehensive human in vitro model.",
+  "relevance_score": 13,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 0
+  },
+  "genes_mentioned": [],
+  "summary": "Accurate prediction of drug toxicity is a major challenge for therapeutic development. The use of animal models for predicting toxicity has been a longstanding practice, but often falls short in accurately predicting human-specific responses.",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/40179733/",
+  "mesh_terms": [
+    "Humans",
+    "Spheroids, Cellular",
+    "Organoids",
+    "Liver",
+    "Induced Pluripotent Stem Cells",
+    "Cell Survival",
+    "Brain",
+    "Troglitazone",
+    "Neurotoxicity Syndromes",
+    "Valproic Acid",
+    "Cells, Cultured",
+    "Models, Biological"
+  ],
+  "keywords": [
+    "Brain organoids",
+    "cytotoxicity",
+    "liver spheroids",
+    "multi-organ model",
+    "neurotoxicity"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "34036063",
+  "doi": "10.4103/ijnmr.IJNMR_37_20",
+  "title": "The Effect of Non-verbal Music on Posttraumatic Stress Disorder in Mothers of Premature Neonates",
+  "authors": "Pourmovahed Z, Yassini Ardekani SM, Roozbeh B, Ezabad AR",
+  "journal": "Iranian journal of nursing and midwifery research",
+  "date": "2021-03",
+  "source": "pubmed",
+  "abstract": "Hospitalization of a premature neonate in the Neonatal Intensive Care Unit (NICU) is stressful for mothers. They show symptoms of Post-Traumatic Stress Disorder (PTSD). It is important to use the proper strategy to manage PTSD. This study was designed to investigate the effect of non-verbal music on the PTSD in mothers of premature neonates hospitalized in NICU.\n\nIn this clinical trial study, the convenience sampling method was applied and 45 mothers of premature neonates were selected and categorized randomly into the intervention (N = 23) and control (N = 22) groups in 2018. The babies were hospitalized in one of the NICUs in Yazd (Iran). The intervention group were supposed to listen to the non-verbal music for 20 minutes daily for two weeks using MP3 player and headphones. All participants completed the Perinatal PTSD Questionnaire (PPQ). The data were analyzed by SPSS 21 using paired t-test, independent-test, and Chi-square test.\n\nThe PTSD mean (SD) scores before and after the intervention was 9.39 (1.67) and 4.39 (1.49), respectively, in experimental group. It was 8.54 (1.59) and 5.31 (1.71) in control group. The severity of PTSD decreased in the intervention (= 0.003) and control (< 0.001) groups after the intervention. The difference between the two groups was significant (F= 1058,< 0.03), which confirmed the significant effect of the non-verbal music on decreasing the PTSD severity (0.92).\n\nNon-verbal music can be used as an effective and low-cost intervention for managing PTSD in mothers of premature neonates hospitalized in the NICU.",
+  "relevance_score": 11,
+  "decision": "REVIEW",
+  "score_breakdown": {
+    "direct_autism_relevance": 0,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 4
+  },
+  "genes_mentioned": [],
+  "summary": "Hospitalization of a premature neonate in the Neonatal Intensive Care Unit (NICU) is stressful for mothers. They show symptoms of Post-Traumatic Stress Disorder (PTSD).",
+  "url": "https://pubmed.ncbi.nlm.nih.gov/34036063/",
+  "mesh_terms": [],
+  "keywords": [
+    "Iran",
+    "mothers",
+    "music",
+    "posttraumatic",
+    "premature birth",
+    "stress disorders"
+  ],
+  "article_types": [
+    "Journal Article"
+  ]
+}
