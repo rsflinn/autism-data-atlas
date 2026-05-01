@@ -344,6 +344,62 @@
     margin: 0 0 64px;
   }
   .band-cream .section-deck { color: var(--ink); }
+
+  /* Saturated sections (violet → red → orange) — flip text to cream so it reads */
+  .search-section .section-title,
+  .graph-section .section-title,
+  .topics-section .section-title,
+  .latest .section-title {
+    background: linear-gradient(to right,
+      #FFFFFF 0%,
+      #FAF1E5 50%,
+      #FFFFFF 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .search-section .section-deck,
+  .graph-section .section-deck,
+  .topics-section .section-deck {
+    color: rgba(244, 235, 224, 0.92);
+  }
+
+  /* Search bar holds its own white surface — but the chips and examples need cream */
+  .search-section .chip {
+    color: rgba(244, 235, 224, 0.85);
+    border-color: rgba(244, 235, 224, 0.32);
+  }
+  .search-section .chip:hover {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+  }
+  .search-section .chip.active {
+    background: #FFFFFF;
+    color: var(--ink);
+    border-color: #FFFFFF;
+  }
+  .search-section .examples-label {
+    color: rgba(244, 235, 224, 0.65);
+  }
+  .search-section .ex {
+    color: rgba(244, 235, 224, 0.92);
+    border-bottom-color: rgba(244, 235, 224, 0.4);
+  }
+  .search-section .ex:hover {
+    color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+  }
+
+  /* Latest section: more-link sits on the dim end of the orange-to-navy gradient */
+  .latest .more-link {
+    color: rgba(244, 235, 224, 0.92);
+    border-bottom-color: rgba(244, 235, 224, 0.6);
+  }
+  .latest .more-link:hover {
+    color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+  }
+
   .stats-section .section-title {
     background: linear-gradient(to right,
       var(--violet) 0%,
@@ -364,18 +420,68 @@
     flex-wrap: wrap;
   }
 
-  /* ─── Search section — much bigger, more confident ─── */
+  /* Shared atmosphere for all cream sections — paper grain + subtle gradient */
+  .search-section,
+  .graph-section,
+  .topics-section,
+  .latest {
+    position: relative;
+    isolation: isolate;
+  }
+  .search-section::before,
+  .graph-section::before,
+  .topics-section::before,
+  .latest::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 240 240' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/></svg>");
+    opacity: 0.09;
+    mix-blend-mode: multiply;
+  }
+  .search-section > *,
+  .graph-section > *,
+  .topics-section > *,
+  .latest > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Decorative organic flourish — small line motif used between sections */
+  .section-flourish {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 16px;
+    pointer-events: none;
+  }
+  .section-flourish svg {
+    width: 84px;
+    height: 28px;
+    opacity: 0.55;
+  }
+
+  /* ─── Search section — opens with a cool blue-cream that recalls the hero ─── */
   .search-section {
-    padding: 88px 0 96px;
-    background: #F4EBE0;
+    padding: 96px 0 96px;
+    background: linear-gradient(180deg,
+      #5A6E76 0%,
+      #6B5C7E 18%,
+      #7E5491 40%,
+      #8E5798 65%,
+      #9B5BA0 100%);
     margin-top: 0;
   }
   .search-upper {
     display: block;
     margin-bottom: 48px;
   }
-  .search-upper .search-text { max-width: 56ch; }
-  .search-upper .section-deck { margin-bottom: 36px; }
+  .search-upper .search-text { max-width: 100%; }
+  .search-upper .section-deck {
+    margin-bottom: 40px;
+    max-width: 92ch;
+  }
 
   /* ─── Knowledge graph — full-width, interactive (d3 force simulation) ─── */
   .atlas-graph {
@@ -413,19 +519,6 @@
     transition: background .2s, color .2s;
   }
   .atlas-graph .graph-btn:hover { background: #FFFFFF; color: var(--ink); }
-  .atlas-graph .graph-hint {
-    position: absolute;
-    bottom: 14px;
-    left: 18px;
-    z-index: 5;
-    font-family: var(--sans);
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: 0.14em;
-    text-transform: uppercase;
-    color: var(--ink-2);
-    pointer-events: none;
-  }
   .atlas-graph svg {
     width: 100%;
     height: 100%;
@@ -545,41 +638,71 @@
     letter-spacing: 0.06em;
   }
 
-  /* Graph legend / caption */
-  .atlas-graph-caption {
-    margin-top: 24px;
+  /* Graph layout — legend stacked on the left, chart on the right */
+  .graph-layout {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 40px;
+    align-items: stretch;
+    margin-top: 16px;
+  }
+  @media (max-width: 900px) {
+    .graph-layout { grid-template-columns: 1fr; gap: 20px; }
+  }
+
+  .graph-legend-side {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    padding-top: 32px;
+    align-self: start;
+  }
+  .graph-legend-side span {
     font-family: var(--sans);
-    font-size: 17px;
+    font-size: 18px;
     font-weight: 500;
     color: var(--ink);
     display: flex;
     align-items: center;
-    gap: 28px;
-    flex-wrap: wrap;
+    gap: 14px;
+    line-height: 1.2;
   }
-  .atlas-graph-caption .legend-dot {
+  .graph-legend-side .legend-dot {
     display: inline-block;
-    width: 12px; height: 12px;
+    width: 16px; height: 16px;
     border-radius: 50%;
-    margin-right: 10px;
-    vertical-align: -1px;
+    flex-shrink: 0;
   }
-  .atlas-graph-caption .key-1 { background: #9B5BA0; } /* Genetics */
-  .atlas-graph-caption .key-2 { background: #C2516B; } /* Mechanism */
-  .atlas-graph-caption .key-3 { background: #E94835; } /* Phenotype */
-  .atlas-graph-caption .key-4 { background: #E76540; } /* Diagnosis */
-  .atlas-graph-caption .key-5 { background: #E5824A; } /* Treatment */
-  .atlas-graph-caption em {
+  @media (max-width: 900px) {
+    .graph-legend-side {
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 14px 22px;
+      padding-top: 0;
+    }
+    .graph-legend-side span { font-size: 15px; }
+  }
+
+  /* Centered instructions below the chart */
+  .graph-instructions {
+    margin-top: 40px;
+    text-align: center;
+  }
+  .graph-instructions em {
     font-style: italic;
     font-family: var(--serif);
+    font-weight: 400;
     color: var(--ink-2);
-    font-size: clamp(18px, 1.5vw, 22px);
+    font-size: clamp(20px, 1.7vw, 28px);
     line-height: 1.45;
-    display: block;
-    flex-basis: 100%;
-    margin-top: 12px;
-    max-width: 64ch;
+    display: inline-block;
+    max-width: 72ch;
   }
+  .legend-dot.key-1 { background: #9B5BA0; } /* Genetics */
+  .legend-dot.key-2 { background: #C2516B; } /* Mechanism */
+  .legend-dot.key-3 { background: #E94835; } /* Phenotype */
+  .legend-dot.key-4 { background: #E76540; } /* Diagnosis */
+  .legend-dot.key-5 { background: #E5824A; } /* Treatment */
 
   /* Stage axis along the bottom of the graph */
   .stage-axis {
@@ -631,10 +754,10 @@
     background: transparent;
     border: 0;
     outline: 0;
-    padding: 28px 40px;
+    padding: 18px 28px;
     font-family: var(--sans);
     font-weight: 400;
-    font-size: clamp(18px, 1.6vw, 22px);
+    font-size: 17px;
     color: var(--ink);
   }
   .search-bar input::placeholder {
@@ -646,11 +769,11 @@
     color: #FFFFFF;
     font-family: var(--sans);
     font-weight: 600;
-    font-size: 14px;
+    font-size: 13px;
     letter-spacing: 0.06em;
-    padding: 0 40px;
+    padding: 0 28px;
     border-radius: 999px;
-    margin: 6px;
+    margin: 4px;
     transition: background .2s ease;
   }
   .search-bar button.go:hover { background: #2a3641; }
@@ -714,16 +837,22 @@
   }
   .ex:hover { color: var(--red); border-bottom-color: var(--red); }
 
-  /* ─── Knowledge graph section ─── */
+  /* ─── Knowledge graph section — pure cream warming gently to peach ─── */
   .graph-section {
-    background: #F4EBE0;
-    padding: 96px 0 112px;
+    background: linear-gradient(180deg,
+      #9B5BA0 0%,
+      #B05078 50%,
+      #E94835 100%);
+    padding: 112px 0 112px;
   }
 
-  /* ─── Browse by topic — colored cards in violet→orange ombre ─── */
+  /* ─── Browse by topic — peach warming into amber ─── */
   .topics-section {
-    padding: 96px 0 112px;
-    background: linear-gradient(180deg, #F4EBE0 0%, #EBDFD0 100%);
+    padding: 112px 0 120px;
+    background: linear-gradient(180deg,
+      #E94835 0%,
+      #E76540 50%,
+      #E5824A 100%);
   }
   .topics-grid {
     display: grid;
@@ -742,103 +871,110 @@
   }
   @media (max-width: 520px) { .topics-grid { grid-template-columns: 1fr; } }
 
+  /* Topic cards — cream stamps with a colored top bar + colored icon, so they
+     pop against the red→orange topics section gradient. */
   .topic-card {
     border: 0;
     padding: 36px 28px 28px;
-    border-radius: 22px;
+    border-radius: 18px;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 14px;
     min-height: 320px;
     text-decoration: none;
-    color: #FFFFFF;
+    color: var(--ink);
     transition: transform .25s ease, box-shadow .25s ease;
     position: relative;
     overflow: hidden;
-    box-shadow: 0 6px 20px rgba(31, 42, 54, 0.08);
+    background: #FFFFFF;
+    box-shadow: 0 8px 24px rgba(31, 42, 54, 0.18);
   }
   .topic-card:hover {
     transform: translateY(-6px);
-    box-shadow: 0 22px 40px rgba(31, 42, 54, 0.18);
+    box-shadow: 0 22px 40px rgba(31, 42, 54, 0.28);
   }
-  /* 5-step ombre: violet → violet/red blend → red → red/orange blend → orange */
-  .topic-card:nth-child(1) { background: linear-gradient(135deg, #9B5BA0 0%, #7B4682 100%); }
-  .topic-card:nth-child(2) { background: linear-gradient(135deg, #C2516B 0%, #9F4055 100%); }
-  .topic-card:nth-child(3) { background: linear-gradient(135deg, #E94835 0%, #BC3729 100%); }
-  .topic-card:nth-child(4) { background: linear-gradient(135deg, #E76540 0%, #C45034 100%); }
-  .topic-card:nth-child(5) { background: linear-gradient(135deg, #E5824A 0%, #C26C3C 100%); }
-
-  /* Decorative gradient blob in the corner of each card for visual richness */
-  .topic-card::after {
+  /* Colored top bar — one per card, walks the violet→red→orange ombre */
+  .topic-card::before {
     content: "";
     position: absolute;
-    top: -40%; right: -30%;
-    width: 70%; height: 100%;
-    background: radial-gradient(circle, rgba(255, 255, 255, 0.18) 0%, rgba(255, 255, 255, 0) 60%);
-    pointer-events: none;
-    transition: transform .4s ease;
+    top: 0; left: 0; right: 0;
+    height: 8px;
   }
-  .topic-card:hover::after {
-    transform: translate(-12px, 12px) scale(1.05);
-  }
+  .topic-card:nth-child(1)::before { background: #9B5BA0; }
+  .topic-card:nth-child(2)::before { background: linear-gradient(90deg, #9B5BA0 0%, #C2516B 100%); }
+  .topic-card:nth-child(3)::before { background: #E94835; }
+  .topic-card:nth-child(4)::before { background: linear-gradient(90deg, #E94835 0%, #E76540 100%); }
+  .topic-card:nth-child(5)::before { background: #E5824A; }
 
   .topic-card .icon {
-    width: 80px;
-    height: 80px;
-    margin-bottom: 8px;
-    position: relative;
-    z-index: 1;
+    width: 56px;
+    height: 56px;
+    margin-bottom: 4px;
   }
   .topic-card .icon svg {
     width: 100%;
     height: 100%;
-    stroke: #FFFFFF;
   }
+  .topic-card:nth-child(1) .icon svg { stroke: #9B5BA0; }
+  .topic-card:nth-child(2) .icon svg { stroke: #B14F70; }
+  .topic-card:nth-child(3) .icon svg { stroke: #E94835; }
+  .topic-card:nth-child(4) .icon svg { stroke: #E76540; }
+  .topic-card:nth-child(5) .icon svg { stroke: #E5824A; }
+
   .topic-card h3 {
     font-family: var(--serif);
     font-weight: 800;
-    font-size: clamp(28px, 2.4vw, 36px);
+    font-size: clamp(26px, 2.2vw, 32px);
     line-height: 1.02;
     letter-spacing: -0.02em;
-    color: #FFFFFF;
-    position: relative;
-    z-index: 1;
+    color: var(--ink);
   }
   .topic-card p {
     font-family: var(--sans);
-    font-size: clamp(16px, 1.2vw, 18px);
+    font-size: clamp(15px, 1.1vw, 17px);
     font-weight: 400;
     line-height: 1.5;
-    color: rgba(255, 255, 255, 0.92);
+    color: var(--ink-2);
     margin-top: 0;
-    position: relative;
-    z-index: 1;
   }
   .topic-card .read-more {
     margin-top: auto;
     font-family: var(--sans);
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 700;
     letter-spacing: 0.16em;
     text-transform: uppercase;
-    color: rgba(255, 255, 255, 0.85);
+    color: var(--ink-2);
     transition: color .2s ease, transform .2s ease;
-    padding-top: 12px;
-    position: relative;
-    z-index: 1;
+    padding-top: 8px;
     display: inline-flex;
     align-items: center;
     gap: 6px;
   }
-  .topic-card:hover .read-more {
-    color: #FFFFFF;
-    transform: translateX(4px);
-  }
+  .topic-card:nth-child(1):hover .read-more { color: #9B5BA0; }
+  .topic-card:nth-child(2):hover .read-more { color: #B14F70; }
+  .topic-card:nth-child(3):hover .read-more { color: #E94835; }
+  .topic-card:nth-child(4):hover .read-more { color: #E76540; }
+  .topic-card:nth-child(5):hover .read-more { color: #E5824A; }
+  .topic-card:hover .read-more { transform: translateX(4px); }
 
-  /* ─── Latest additions — magazine layout (1 featured + 3 stack) ─── */
+  /* ─── Latest additions — amber descending into deep navy (the big transition) ─── */
   .latest {
-    padding: 96px 0 64px;
-    background: linear-gradient(180deg, #EBDFD0 0%, #DFD4C5 100%);
+    padding: 112px 0 96px;
+    background: linear-gradient(180deg,
+      #E5824A 0%,
+      #BD6543 28%,
+      #6F4848 58%,
+      #3A3A48 85%,
+      #1F2A36 100%);
+  }
+  .latest .section-deck { color: rgba(244, 235, 224, 0.92); }
+  /* Cards pop bright against the orange-to-navy gradient */
+  .latest .card {
+    background: rgba(255, 255, 255, 0.96);
+  }
+  .latest .card.featured {
+    background: linear-gradient(135deg, #FFFFFF 0%, #FAF1E5 100%);
   }
   .pulse {
     display: inline-block;
@@ -976,12 +1112,34 @@
     margin-top: 4px;
   }
 
-  /* ─── Stats — display-scale, tri-color numbers ─── */
+  /* ─── Stats — dark navy continues from the latest band ─── */
   .stats-section {
-    background: #1F2A36;
-    padding: 96px 0;
+    background: linear-gradient(180deg, #2F3742 0%, #1F2A36 100%);
+    padding: 112px 0;
     color: #FFFFFF;
+    position: relative;
   }
+  /* Subtle starfield like the hero's marine snow, for visual continuity */
+  .stats-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-image:
+      radial-gradient(circle at 12% 18%, rgba(251,236,209,0.5) 1px, transparent 1.5px),
+      radial-gradient(circle at 78% 9%, rgba(251,236,209,0.35) 1px, transparent 1.5px),
+      radial-gradient(circle at 33% 71%, rgba(251,236,209,0.4) 1px, transparent 1.5px),
+      radial-gradient(circle at 86% 62%, rgba(251,236,209,0.4) 1px, transparent 1.5px),
+      radial-gradient(circle at 56% 31%, rgba(251,236,209,0.3) 1px, transparent 1.5px),
+      radial-gradient(circle at 22% 49%, rgba(251,236,209,0.35) 1px, transparent 1.5px),
+      radial-gradient(circle at 67% 81%, rgba(251,236,209,0.45) 1px, transparent 1.5px),
+      radial-gradient(circle at 41% 11%, rgba(251,236,209,0.25) 1px, transparent 1.5px),
+      radial-gradient(circle at 91% 38%, rgba(251,236,209,0.4) 1px, transparent 1.5px),
+      radial-gradient(circle at 7%  82%, rgba(251,236,209,0.45) 1px, transparent 1.5px);
+    opacity: 0.6;
+    z-index: 0;
+  }
+  .stats-section > * { position: relative; z-index: 1; }
   .stats-section .section-title { color: #FFFFFF; }
   .stats-section .section-deck { color: rgba(255, 255, 255, 0.65); }
   .stats {
@@ -1223,13 +1381,14 @@
     </div>
   </section>
 
+
   <!-- ─── Search ─── -->
   <section class="search-section">
     <div class="container">
       <div class="search-upper">
         <div class="search-text">
           <h2 class="section-title">Search the atlas.</h2>
-          <p class="section-deck">Every study, gene, dataset and finding in one place. Search by question, topic, or term — in plain language.</p>
+          <p class="section-deck">Search every study, gene, dataset and finding in the atlas. Type a plain-language question like <em>how is autism inherited</em>, a topic, a gene name, or a phrase from a paper title. Filter by category to narrow what you see, or click one of the examples below to try a common starting point.</p>
         </div>
       </div>
       <form class="search-bar" id="searchForm" autocomplete="off">
@@ -1261,27 +1420,33 @@
     <div class="container">
       <h2 class="section-title">Autism, by the genes.</h2>
       <p class="section-deck">Every dot below is a study. Every labeled disc is a gene. Lines connect studies to the genes they investigate. The bigger the disc, the more research has accumulated around that gene.</p>
-      <div class="atlas-graph" id="atlasGraph">
-        <svg id="kgSvg" role="img" aria-label="Interactive knowledge graph of indexed autism studies anchored by the genes they investigate">
-          <g id="kgRoot">
-            <g id="kgEdges"></g>
-            <g id="kgNodes"></g>
-            <g id="kgLabels"></g>
-          </g>
-        </svg>
-        <div class="graph-controls">
-          <button class="graph-btn" id="kgReset" type="button">Reset</button>
+
+      <div class="graph-layout">
+        <aside class="graph-legend-side" aria-label="Topic legend">
+          <span><span class="legend-dot key-1"></span>Genetics &amp; cause</span>
+          <span><span class="legend-dot key-2"></span>Mechanism</span>
+          <span><span class="legend-dot key-3"></span>Phenotype &amp; symptoms</span>
+          <span><span class="legend-dot key-4"></span>Diagnosis</span>
+          <span><span class="legend-dot key-5"></span>Treatment</span>
+        </aside>
+
+        <div class="atlas-graph" id="atlasGraph">
+          <svg id="kgSvg" role="img" aria-label="Interactive knowledge graph of indexed autism studies anchored by the genes they investigate">
+            <g id="kgRoot">
+              <g id="kgEdges"></g>
+              <g id="kgNodes"></g>
+              <g id="kgLabels"></g>
+            </g>
+          </svg>
+          <div class="graph-controls">
+            <button class="graph-btn" id="kgReset" type="button">Reset</button>
+          </div>
+          <div class="graph-tooltip" id="kgTooltip"></div>
         </div>
-        <div class="graph-hint">Drag a node · scroll to zoom · click a study to open</div>
-        <div class="graph-tooltip" id="kgTooltip"></div>
       </div>
-      <div class="atlas-graph-caption">
-        <span><span class="legend-dot key-1"></span>Genetics &amp; cause</span>
-        <span><span class="legend-dot key-2"></span>Mechanism</span>
-        <span><span class="legend-dot key-3"></span>Phenotype &amp; symptoms</span>
-        <span><span class="legend-dot key-4"></span>Diagnosis</span>
-        <span><span class="legend-dot key-5"></span>Treatment</span>
-        <em id="graphCount">Genes sit at the centre. Studies orbit the genes they investigate.</em>
+
+      <div class="graph-instructions">
+        <em id="graphCount">221 studies linked to 55 genes. Drag a node to move it, scroll to zoom, click a study to open the source.</em>
       </div>
     </div>
   </section>
@@ -1403,6 +1568,7 @@
     </div>
   </section>
 
+
   <!-- ─── Stats ─── -->
   <section class="stats-section">
     <div class="container">
@@ -1410,22 +1576,22 @@
       <p class="section-deck">A live count of what's inside, updated as new studies and datasets are indexed.</p>
       <div class="stats" id="stats">
         <div class="stat">
-          <span class="num" data-target="56">0</span>
+          <span class="num" data-target="953">0</span>
           <span class="lbl">Studies indexed</span>
           <span class="sub">Peer-reviewed papers and preprints</span>
         </div>
         <div class="stat">
-          <span class="num" data-target="13">0</span>
+          <span class="num" data-target="29">0</span>
           <span class="lbl">Datasets cataloged</span>
           <span class="sub">Public sources, with code to use them</span>
         </div>
         <div class="stat">
-          <span class="num" data-target="49">0</span>
+          <span class="num" data-target="59">0</span>
           <span class="lbl">Genes profiled</span>
           <span class="sub">Each tied to evidence and findings</span>
         </div>
         <div class="stat">
-          <span class="num" data-target="2.37" data-suffix="M">0</span>
+          <span class="num" data-target="1025">0</span>
           <span class="lbl">Variants annotated</span>
           <span class="sub">DNA changes mapped to function</span>
         </div>

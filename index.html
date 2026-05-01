@@ -1,2137 +1,2025 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Autism Data Atlas - Genetics Research Database</title>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
-
-        :root {
-            --bg-primary: #0a0a0f;
-            --bg-secondary: #111318;
-            --bg-tertiary: #1a1a23;
-            --text-primary: #e2e8f0;
-            --text-muted: #94a3b8;
-            --border-color: #2d3748;
-
-            --color-perturbation: #3b82f6;
-            --color-organoid: #06b6d4;
-            --color-postmortem: #a78bfa;
-            --color-genetic: #f97316;
-            --color-regulatory: #eab308;
-            --color-developmental: #22c55e;
-            --color-reference: #94a3b8;
-            --color-controlled: #ef4444;
-        }
-
-        html, body {
-            height: 100%;
-            background-color: var(--bg-primary);
-            color: var(--text-primary);
-            font-family: 'Inter', system-ui, -apple-system, sans-serif;
-            line-height: 1.6;
-        }
-
-        a {
-            color: var(--color-perturbation);
-            text-decoration: none;
-            transition: color 0.2s;
-        }
-
-        a:hover {
-            color: #60a5fa;
-        }
-
-        button {
-            background: none;
-            border: none;
-            color: inherit;
-            font-family: inherit;
-            cursor: pointer;
-            font-size: inherit;
-        }
-
-        /* Layout */
-        #app {
-            display: flex;
-            flex-direction: column;
-            height: 100vh;
-        }
-
-        header {
-            background-color: var(--bg-secondary);
-            border-bottom: 1px solid var(--border-color);
-            padding: 1.5rem 2rem;
-            flex-shrink: 0;
-        }
-
-        .header-content {
-            max-width: 1400px;
-            margin: 0 auto;
-        }
-
-        .logo {
-            font-size: 1.25rem;
-            font-weight: 700;
-            margin-bottom: 1rem;
-            letter-spacing: -0.5px;
-        }
-
-        .logo-subtitle {
-            font-size: 0.875rem;
-            color: var(--text-muted);
-            margin-bottom: 1.5rem;
-        }
-
-        nav {
-            display: flex;
-            gap: 0.5rem;
-            flex-wrap: wrap;
-        }
-
-        .nav-button {
-            padding: 0.625rem 1rem;
-            border-radius: 6px;
-            border: 1px solid transparent;
-            color: var(--text-muted);
-            font-weight: 500;
-            font-size: 0.9375rem;
-            transition: all 0.2s;
-            background-color: transparent;
-        }
-
-        .nav-button:hover {
-            color: var(--text-primary);
-            background-color: var(--bg-tertiary);
-        }
-
-        .nav-button.active {
-            color: var(--text-primary);
-            border-color: var(--color-perturbation);
-            background-color: rgba(59, 130, 246, 0.1);
-        }
-
-        main {
-            flex: 1;
-            overflow-y: auto;
-            display: flex;
-        }
-
-        .section {
-            display: none;
-            width: 100%;
-            height: 100%;
-            flex-direction: column;
-        }
-
-        .section.active {
-            display: flex;
-        }
-
-        .section-content {
-            flex: 1;
-            overflow-y: auto;
-            padding: 2rem;
-        }
-
-        .max-width {
-            max-width: 1400px;
-            margin: 0 auto;
-            width: 100%;
-        }
-
-        /* Explore Section */
-        .explore-container {
-            height: 100%;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .iframe-container {
-            flex: 1;
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            overflow: hidden;
-            background-color: var(--bg-tertiary);
-        }
-
-        .iframe-container iframe {
-            width: 100%;
-            height: 100%;
-            border: none;
-        }
-
-        .iframe-controls {
-            display: flex;
-            gap: 1rem;
-            padding: 1rem 0;
-            justify-content: flex-end;
-        }
-
-        .iframe-link {
-            display: inline-block;
-            padding: 0.5rem 1rem;
-            background-color: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 6px;
-            color: var(--color-perturbation);
-            font-size: 0.875rem;
-            transition: all 0.2s;
-        }
-
-        .iframe-link:hover {
-            background-color: rgba(59, 130, 246, 0.1);
-            border-color: var(--color-perturbation);
-        }
-
-        /* Datasets Section */
-        .datasets-toolbar {
-            display: grid;
-            gap: 1.5rem;
-            margin-bottom: 2rem;
-        }
-
-        .search-container {
-            display: flex;
-            gap: 0.75rem;
-        }
-
-        .search-input {
-            flex: 1;
-            padding: 0.875rem 1rem;
-            background-color: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            color: var(--text-primary);
-            font-size: 1rem;
-            font-family: inherit;
-            transition: border-color 0.2s;
-        }
-
-        .search-input:focus {
-            outline: none;
-            border-color: var(--color-perturbation);
-            background-color: rgba(59, 130, 246, 0.05);
-        }
-
-        .filter-section {
-            display: grid;
-            gap: 0.75rem;
-        }
-
-        .filter-label {
-            font-size: 0.875rem;
-            font-weight: 600;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-        }
-
-        .filter-chips {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }
-
-        .chip {
-            padding: 0.5rem 1rem;
-            background-color: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 20px;
-            color: var(--text-primary);
-            font-size: 0.875rem;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .chip:hover {
-            border-color: var(--text-primary);
-        }
-
-        .chip.active {
-            background-color: rgba(59, 130, 246, 0.2);
-            border-color: var(--color-perturbation);
-            color: var(--text-primary);
-        }
-
-        .chip[data-category="perturbation"].active {
-            background-color: rgba(59, 130, 246, 0.2);
-            border-color: var(--color-perturbation);
-        }
-
-        .chip[data-category="organoid"].active {
-            background-color: rgba(6, 182, 212, 0.2);
-            border-color: var(--color-organoid);
-        }
-
-        .chip[data-category="postmortem"].active {
-            background-color: rgba(167, 139, 250, 0.2);
-            border-color: var(--color-postmortem);
-        }
-
-        .chip[data-category="genetic"].active {
-            background-color: rgba(249, 115, 22, 0.2);
-            border-color: var(--color-genetic);
-        }
-
-        .chip[data-category="regulatory"].active {
-            background-color: rgba(234, 179, 8, 0.2);
-            border-color: var(--color-regulatory);
-        }
-
-        .chip[data-category="developmental"].active {
-            background-color: rgba(34, 197, 94, 0.2);
-            border-color: var(--color-developmental);
-        }
-
-        .datasets-count {
-            font-size: 0.9375rem;
-            color: var(--text-muted);
-            padding: 1rem 0 0 0;
-        }
-
-        .datasets-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(380px, 1fr));
-            gap: 1.5rem;
-            margin-bottom: 2rem;
-        }
-
-        @media (max-width: 768px) {
-            .datasets-grid {
-                grid-template-columns: 1fr;
-            }
-        }
-
-        .dataset-card {
-            background-color: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 8px;
-            padding: 1.5rem;
-            cursor: pointer;
-            transition: all 0.2s;
-            display: flex;
-            flex-direction: column;
-            gap: 1rem;
-        }
-
-        .dataset-card:hover {
-            border-color: var(--color-perturbation);
-            background-color: rgba(59, 130, 246, 0.05);
-            box-shadow: 0 0 20px rgba(59, 130, 246, 0.1);
-        }
-
-        .dataset-title {
-            font-size: 1rem;
-            font-weight: 600;
-            color: var(--text-primary);
-            line-height: 1.4;
-        }
-
-        .dataset-description {
-            font-size: 0.875rem;
-            color: var(--text-muted);
-            line-height: 1.5;
-        }
-
-        .dataset-meta {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            font-size: 0.8125rem;
-        }
-
-        .badge {
-            padding: 0.375rem 0.75rem;
-            border-radius: 4px;
-            font-weight: 500;
-            display: inline-block;
-        }
-
-        .badge-category {
-            background-color: rgba(59, 130, 246, 0.2);
-            color: #60a5fa;
-        }
-
-        .badge-category[data-type="perturbation"] {
-            background-color: rgba(59, 130, 246, 0.2);
-            color: #60a5fa;
-        }
-
-        .badge-category[data-type="organoid"] {
-            background-color: rgba(6, 182, 212, 0.2);
-            color: #22d3ee;
-        }
-
-        .badge-category[data-type="postmortem"] {
-            background-color: rgba(167, 139, 250, 0.2);
-            color: #c4b5fd;
-        }
-
-        .badge-category[data-type="genetic"] {
-            background-color: rgba(249, 115, 22, 0.2);
-            color: #fb923c;
-        }
-
-        .badge-category[data-type="regulatory"] {
-            background-color: rgba(234, 179, 8, 0.2);
-            color: #facc15;
-        }
-
-        .badge-category[data-type="developmental"] {
-            background-color: rgba(34, 197, 94, 0.2);
-            color: #4ade80;
-        }
-
-        .badge-category[data-type="reference"] {
-            background-color: rgba(148, 163, 184, 0.2);
-            color: #cbd5e1;
-        }
-
-        .badge-access {
-            padding: 0.375rem 0.75rem;
-            border-radius: 4px;
-            font-weight: 500;
-            display: inline-block;
-        }
-
-        .badge-access[data-access="PUBLIC"] {
-            background-color: rgba(34, 197, 94, 0.2);
-            color: #4ade80;
-        }
-
-        .badge-access[data-access="REGISTERED"] {
-            background-color: rgba(234, 179, 8, 0.2);
-            color: #facc15;
-        }
-
-        .badge-access[data-access="CONTROLLED"] {
-            background-color: rgba(239, 68, 68, 0.2);
-            color: #f87171;
-        }
-
-        .badge-access[data-access="GATED"] {
-            background-color: rgba(249, 115, 22, 0.2);
-            color: #fb923c;
-        }
-
-        .badge-organism {
-            background-color: rgba(167, 139, 250, 0.2);
-            color: #c4b5fd;
-        }
-
-        .dataset-stats {
-            display: flex;
-            gap: 1rem;
-            font-size: 0.8125rem;
-            color: var(--text-muted);
-            padding-top: 0.5rem;
-            border-top: 1px solid var(--border-color);
-        }
-
-        .dataset-card-expanded {
-            display: none;
-        }
-
-        .dataset-card-expanded.active {
-            display: block;
-            grid-column: 1 / -1;
-            padding: 2rem;
-            background-color: rgba(59, 130, 246, 0.05);
-            border-top: 2px solid var(--color-perturbation);
-        }
-
-        .expanded-section {
-            margin-bottom: 1.5rem;
-        }
-
-        .expanded-title {
-            font-size: 0.875rem;
-            font-weight: 600;
-            color: var(--text-muted);
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            margin-bottom: 0.5rem;
-        }
-
-        .expanded-content {
-            font-size: 0.9375rem;
-            color: var(--text-primary);
-            line-height: 1.6;
-        }
-
-        .code-block {
-            background-color: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 6px;
-            padding: 1rem;
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.8125rem;
-            overflow-x: auto;
-            margin: 0.5rem 0;
-            position: relative;
-        }
-
-        .copy-button {
-            position: absolute;
-            top: 0.5rem;
-            right: 0.5rem;
-            padding: 0.375rem 0.75rem;
-            background-color: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 4px;
-            font-size: 0.75rem;
-            color: var(--text-muted);
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .copy-button:hover {
-            background-color: var(--color-perturbation);
-            color: white;
-            border-color: var(--color-perturbation);
-        }
-
-        .related-datasets {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-        }
-
-        .related-link {
-            padding: 0.375rem 0.75rem;
-            background-color: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 4px;
-            font-size: 0.8125rem;
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-
-        .related-link:hover {
-            border-color: var(--color-perturbation);
-            color: var(--color-perturbation);
-        }
-
-        .close-expanded {
-            display: inline-block;
-            padding: 0.375rem 0.75rem;
-            background-color: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 4px;
-            font-size: 0.8125rem;
-            cursor: pointer;
-            margin-top: 1rem;
-        }
-
-        .close-expanded:hover {
-            border-color: var(--color-perturbation);
-        }
-
-        /* Research Feed Section */
-        .research-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 1rem;
-            margin-bottom: 1.5rem;
-        }
-        .research-header h1 {
-            font-size: 1.875rem;
-            font-weight: 700;
-        }
-        .research-updated {
-            font-size: 0.8125rem;
-            color: var(--text-muted);
-        }
-        .feed-tabs {
-            display: flex;
-            gap: 0.5rem;
-            margin-bottom: 1.5rem;
-            flex-wrap: wrap;
-        }
-        .feed-tab {
-            padding: 0.5rem 1rem;
-            background: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 0.5rem;
-            color: var(--text-muted);
-            cursor: pointer;
-            font-size: 0.875rem;
-            font-family: inherit;
-            transition: all 0.2s;
-        }
-        .feed-tab:hover { border-color: var(--color-perturbation); color: var(--text-primary); }
-        .feed-tab.active { background: var(--color-perturbation); color: #fff; border-color: var(--color-perturbation); }
-        .feed-tab .count { opacity: 0.7; font-size: 0.75rem; margin-left: 0.25rem; }
-        .feed-search {
-            width: 100%;
-            max-width: 400px;
-            padding: 0.625rem 1rem;
-            background: var(--bg-tertiary);
-            border: 1px solid var(--border-color);
-            border-radius: 0.5rem;
-            color: var(--text-primary);
-            font-size: 0.875rem;
-            font-family: inherit;
-            margin-bottom: 1.5rem;
-        }
-        .feed-search:focus { outline: none; border-color: var(--color-perturbation); }
-        .feed-search::placeholder { color: var(--text-muted); }
-        .feed-list { display: flex; flex-direction: column; gap: 0.75rem; }
-        .feed-section-label {
-            font-size: 0.75rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: var(--text-muted);
-            padding: 1.5rem 0 0.5rem;
-            border-bottom: 1px solid var(--border-color);
-            margin-bottom: 0.25rem;
-        }
-        .feed-section-label:first-child { padding-top: 0; }
-        .feed-section-label .section-count { opacity: 0.6; font-weight: 400; }
-        .feed-card {
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 0.75rem;
-            padding: 1.25rem;
-            transition: border-color 0.2s;
-        }
-        .feed-card:hover { border-color: var(--color-perturbation); }
-        .feed-card.relevance-critical {
-            border-left: 3px solid #ef4444;
-            background: rgba(239,68,68,0.03);
-        }
-        .feed-card.relevance-high {
-            border-left: 3px solid #f97316;
-            background: rgba(249,115,22,0.03);
-        }
-        .feed-card-title {
-            font-size: 1rem;
-            font-weight: 600;
-            margin-bottom: 0.375rem;
-            line-height: 1.4;
-        }
-        .feed-card-title a { color: var(--text-primary); }
-        .feed-card-title a:hover { color: var(--color-perturbation); }
-        .feed-card-meta {
-            font-size: 0.8125rem;
-            color: var(--text-muted);
-            margin-bottom: 0.5rem;
-        }
-        .feed-card-summary {
-            font-size: 0.875rem;
-            color: var(--text-primary);
-            line-height: 1.6;
-            margin-bottom: 0.5rem;
-        }
-        .feed-card-genes {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.375rem;
-        }
-        .gene-chip {
-            font-size: 0.6875rem;
-            font-family: 'JetBrains Mono', monospace;
-            padding: 0.125rem 0.5rem;
-            background: rgba(59,130,246,0.15);
-            color: var(--color-perturbation);
-            border-radius: 0.25rem;
-        }
-        .feed-score {
-            display: inline-block;
-            font-size: 0.6875rem;
-            font-weight: 600;
-            padding: 0.125rem 0.375rem;
-            border-radius: 0.25rem;
-            margin-right: 0.5rem;
-        }
-        .score-high { background: rgba(34,197,94,0.15); color: #22c55e; }
-        .score-med  { background: rgba(234,179,8,0.15); color: #eab308; }
-        .score-low  { background: rgba(148,163,184,0.15); color: #94a3b8; }
-        .feed-empty {
-            text-align: center;
-            padding: 3rem;
-            color: var(--text-muted);
-            font-size: 0.9375rem;
-        }
-        .trial-status {
-            display: inline-block;
-            font-size: 0.6875rem;
-            font-weight: 600;
-            padding: 0.125rem 0.5rem;
-            border-radius: 0.25rem;
-            margin-right: 0.5rem;
-        }
-        .status-recruiting { background: rgba(34,197,94,0.15); color: #22c55e; }
-        .status-active { background: rgba(59,130,246,0.15); color: #3b82f6; }
-        .status-completed { background: rgba(148,163,184,0.15); color: #94a3b8; }
-
-        /* Dashboard Panels (Research Feed + Datasets) */
-        .dash-panel {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 1.25rem;
-            margin-bottom: 2rem;
-            padding: 1.25rem;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 0.75rem;
-        }
-        @media (max-width: 640px) { .dash-panel { grid-template-columns: 1fr; } }
-        .dash-stat-row {
-            display: flex;
-            gap: 1.25rem;
-            margin-bottom: 1.5rem;
-        }
-        .dash-stat {
-            flex: 1;
-            text-align: center;
-            padding: 1rem 0.5rem;
-            background: var(--bg-tertiary);
-            border-radius: 0.5rem;
-            border: 1px solid var(--border-color);
-        }
-        .dash-stat-num {
-            font-size: 2rem;
-            font-weight: 700;
-            line-height: 1.1;
-            color: var(--text-primary);
-        }
-        .dash-stat-num.accent-blue { color: var(--color-perturbation); }
-        .dash-stat-num.accent-purple { color: var(--color-postmortem); }
-        .dash-stat-num.accent-green { color: var(--color-developmental); }
-        .dash-stat-num.accent-orange { color: var(--color-genetic); }
-        .dash-stat-label {
-            font-size: 0.6875rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: var(--text-muted);
-            margin-top: 0.25rem;
-        }
-        .dash-chart-wrap {
-            position: relative;
-            height: 160px;
-        }
-        .dash-chart-title {
-            font-size: 0.6875rem;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            color: var(--text-muted);
-            margin-bottom: 0.5rem;
-        }
-        .dash-gene-bar {
-            display: flex;
-            align-items: center;
-            gap: 0.5rem;
-            margin-bottom: 0.375rem;
-        }
-        .dash-gene-label {
-            font-family: 'JetBrains Mono', monospace;
-            font-size: 0.6875rem;
-            color: var(--color-perturbation);
-            width: 60px;
-            text-align: right;
-            flex-shrink: 0;
-        }
-        .dash-gene-track {
-            flex: 1;
-            height: 14px;
-            background: var(--bg-primary);
-            border-radius: 3px;
-            overflow: hidden;
-        }
-        .dash-gene-fill {
-            height: 100%;
-            border-radius: 3px;
-            background: var(--color-perturbation);
-            transition: width 0.4s ease;
-        }
-        .dash-gene-count {
-            font-size: 0.6875rem;
-            color: var(--text-muted);
-            width: 20px;
-        }
-        /* Datasets dashboard stat pills */
-        .ds-dash-row {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            margin-bottom: 1.5rem;
-        }
-        .ds-dash-pill {
-            display: flex;
-            align-items: center;
-            gap: 0.375rem;
-            padding: 0.375rem 0.75rem;
-            background: var(--bg-secondary);
-            border: 1px solid var(--border-color);
-            border-radius: 2rem;
-            font-size: 0.8125rem;
-            color: var(--text-primary);
-            cursor: pointer;
-            transition: all 0.2s;
-        }
-        .ds-dash-pill:hover { border-color: var(--color-perturbation); }
-        .ds-dash-pill .pill-dot {
-            width: 8px;
-            height: 8px;
-            border-radius: 50%;
-            flex-shrink: 0;
-        }
-        .ds-dash-pill .pill-count {
-            font-weight: 600;
-        }
-
-        /* Getting Started Section */
-        .guide-section {
-            margin-bottom: 3rem;
-        }
-
-        .guide-title {
-            font-size: 1.5rem;
-            font-weight: 700;
-            margin-bottom: 0.5rem;
-            color: var(--text-primary);
-        }
-
-        .guide-subtitle {
-            font-size: 1rem;
-            color: var(--text-muted);
-            margin-bottom: 2rem;
-        }
-
-        .guide-subsection {
-            margin-bottom: 0;
-        }
-        .accordion-header {
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            cursor: pointer;
-            padding: 0.875rem 0;
-            border-bottom: 1px solid var(--border-color);
-            transition: color 0.2s;
-        }
-        .accordion-header:hover { color: var(--color-perturbation); }
-        .accordion-chevron { transition: transform 0.2s; font-size: 0.7rem; color: var(--text-muted); margin-left: 1rem; flex-shrink: 0; }
-        .accordion-header.open .accordion-chevron { transform: rotate(90deg); }
-        .accordion-body { max-height: 0; overflow: hidden; transition: max-height 0.3s ease; }
-        .accordion-body.open { max-height: 500px; }
-        .accordion-body .guide-text { padding-top: 0.75rem; }
-        .code-details { margin: 0.75rem 0; }
-        .code-details summary {
-            cursor: pointer;
-            color: var(--color-perturbation);
-            font-size: 0.875rem;
-            padding: 0.5rem 0;
-            user-select: none;
-            list-style: none;
-        }
-        .code-details summary::-webkit-details-marker { display: none; }
-        .code-details summary::before { content: '▶ '; font-size: 0.7rem; margin-right: 0.25rem; }
-        .code-details[open] summary::before { content: '▼ '; }
-        .code-details summary:hover { color: #60a5fa; }
-
-        .guide-heading {
-            font-size: 1.125rem;
-            font-weight: 600;
-            margin-bottom: 1rem;
-            color: var(--text-primary);
-        }
-
-        .guide-text {
-            font-size: 0.9375rem;
-            line-height: 1.7;
-            color: var(--text-primary);
-            margin-bottom: 1rem;
-        }
-
-        .guide-list {
-            margin-left: 1.5rem;
-            margin-bottom: 1rem;
-        }
-
-        .guide-list-item {
-            list-style: disc;
-            margin-bottom: 0.75rem;
-            color: var(--text-primary);
-        }
-
-        .guide-list strong {
-            color: var(--text-primary);
-            font-weight: 600;
-        }
-
-        /* About Section */
-        .about-section {
-            max-width: 800px;
-        }
-
-        .about-title {
-            font-size: 2rem;
-            font-weight: 700;
-            margin-bottom: 1.5rem;
-            color: var(--text-primary);
-        }
-
-        .about-text {
-            font-size: 1rem;
-            line-height: 1.8;
-            color: var(--text-primary);
-            margin-bottom: 1.5rem;
-        }
-
-        .about-text strong {
-            color: var(--text-primary);
-            font-weight: 600;
-        }
-
-        .about-text em {
-            font-style: italic;
-            color: var(--text-muted);
-        }
-
-        /* Footer */
-        footer {
-            background-color: var(--bg-secondary);
-            border-top: 1px solid var(--border-color);
-            padding: 2rem;
-            font-size: 0.8125rem;
-            color: var(--text-muted);
-            text-align: center;
-            flex-shrink: 0;
-        }
-
-        .footer-content {
-            max-width: 1400px;
-            margin: 0 auto;
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            flex-wrap: wrap;
-            gap: 1rem;
-        }
-
-        .footer-text {
-            flex: 1;
-            min-width: 200px;
-        }
-
-        .footer-link {
-            color: var(--color-perturbation);
-        }
-
-        .footer-link:hover {
-            color: #60a5fa;
-        }
-
-        /* Empty State */
-        .empty-state {
-            text-align: center;
-            padding: 2rem;
-            color: var(--text-muted);
-        }
-
-        .empty-state-icon {
-            font-size: 3rem;
-            margin-bottom: 1rem;
-        }
-
-        .empty-state-text {
-            font-size: 1rem;
-        }
-
-        /* Responsive */
-        @media (max-width: 768px) {
-            header {
-                padding: 1rem;
-            }
-
-            .section-content {
-                padding: 1rem;
-            }
-
-            nav {
-                gap: 0.25rem;
-            }
-
-            .nav-button {
-                padding: 0.5rem 0.75rem;
-                font-size: 0.875rem;
-            }
-
-            .datasets-toolbar {
-                gap: 1rem;
-            }
-
-            .filter-chips {
-                gap: 0.4rem;
-            }
-
-            .chip {
-                padding: 0.4rem 0.8rem;
-                font-size: 0.8rem;
-            }
-
-            .datasets-grid {
-                grid-template-columns: 1fr;
-            }
-
-            .footer-content {
-                flex-direction: column;
-                text-align: center;
-            }
-        }
-    </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Autism Brain Atlas</title>
+<meta name="description" content="An open-source tool for exploring autism's genetic roots. Studies, datasets, findings.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=League+Spartan:wght@600;700;800;900&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --violet:  #9B5BA0;
+    --red:     #E94835;
+    --orange:  #E5824A;
+
+    /* Background sampled from the flower-head photo so page and photo bleed seamlessly */
+    --bg-1:    #A5C7D5;   /* top — matches photo's upper backdrop */
+    --bg-2:    #7E97A4;   /* mid — matches photo's middle backdrop */
+    --bg-3:    #5A6E76;   /* bottom — matches photo's lower backdrop */
+    --ink:     #1F2A36;
+    --ink-2:   #4B5663;
+    --ink-3:   #7A8693;
+    --rule:    rgba(31, 42, 54, 0.14);
+    --rule-2:  rgba(31, 42, 54, 0.06);
+    --paper:   #EFF2F5;
+
+    --serif:   "League Spartan", system-ui, sans-serif;
+    --sans:    "Inter", system-ui, -apple-system, sans-serif;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    background:
+      linear-gradient(180deg,
+        var(--bg-1) 0%,
+        var(--bg-1) 25%,
+        var(--bg-2) 60%,
+        var(--bg-3) 100%);
+    background-attachment: fixed;
+    color: var(--ink);
+    font-family: var(--sans);
+    font-weight: 400;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    min-height: 100vh;
+  }
+
+  /* Subtle paper-grain noise overlay */
+  body::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 240 240' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/></svg>");
+    opacity: 0.06;
+    mix-blend-mode: multiply;
+  }
+
+  body > * { position: relative; z-index: 1; }
+
+  a { color: inherit; text-decoration: none; }
+  button { cursor: pointer; font-family: inherit; }
+
+  /* ─── Container ─── */
+  .container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 56px;
+  }
+  @media (max-width: 800px) {
+    .container { padding: 0 24px; }
+  }
+
+  /* ─── Top nav ─── */
+  header.nav {
+    padding: 28px 0 12px;
+    border-bottom: 1px solid var(--rule-2);
+  }
+  .nav-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+  }
+  .wordmark {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: 18px;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+  }
+  .wordmark .dot {
+    display: inline-block;
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    background: var(--red);
+    margin-right: 9px;
+    vertical-align: 1px;
+  }
+  nav.primary ul {
+    list-style: none;
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+  }
+  nav.primary a {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--ink-2);
+    padding: 6px 0;
+    border-bottom: 1px solid transparent;
+    transition: color .2s ease, border-color .2s ease;
+  }
+  nav.primary a:hover { color: var(--red); border-color: var(--red); }
+  nav.primary a.current { color: var(--ink); border-color: var(--ink); }
+
+  /* ─── Hero — full-bleed, image spans to right edge of viewport ─── */
+  .hero {
+    position: relative;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 64px 0 80px;
+  }
+
+  .hero-inner {
+    position: relative;
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 56px;
+    z-index: 2;
+  }
+
+  .hero-text {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    width: 56%;
+    max-width: 760px;
+  }
+
+  /* Image bleeds off the right edge of the viewport — no rectangle, no box */
+  .hero-image-wrap {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    width: 58vw;
+    max-width: 1200px;
+    z-index: 1;
+    pointer-events: none;
+  }
+  .hero-image-wrap img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    object-position: right center;
+    user-select: none;
+    animation: bob 14s ease-in-out infinite;
+    /* Soft fade on the LEFT edge of image so it bleeds into page bg without a hard line */
+    -webkit-mask-image: linear-gradient(90deg, transparent 0%, #000 18%, #000 100%);
+    mask-image: linear-gradient(90deg, transparent 0%, #000 18%, #000 100%);
+  }
+
+  @media (max-width: 980px) {
+    .hero { padding: 40px 0 60px; min-height: auto; }
+    .hero-text { width: 100%; max-width: 100%; }
+    .hero-image-wrap {
+      position: relative;
+      top: auto; right: auto; bottom: auto;
+      width: 100%;
+      height: 56vh;
+      margin-top: 32px;
+    }
+    .hero-image-wrap img {
+      object-position: center;
+      -webkit-mask-image: none;
+      mask-image: none;
+    }
+  }
+
+  h1.title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(96px, 14vw, 240px);
+    line-height: 0.88;
+    letter-spacing: -0.035em;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+  }
+  h1.title span { display: block; }
+  h1.title .t-autism { color: var(--violet); }
+  h1.title .t-brain  { color: var(--red); }
+  h1.title .t-atlas  { color: var(--orange); }
+
+  .tagline {
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: clamp(22px, 2.1vw, 32px);
+    line-height: 1.35;
+    color: #FFFFFF;
+    max-width: 38ch;
+    margin-top: 6px;
+    text-shadow: 0 1px 12px rgba(31, 42, 54, 0.18);
+  }
+
+  .contents {
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+
+  .cta-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px;
+    margin-top: 12px;
+  }
+  .cta-primary {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: var(--ink);
+    color: var(--paper);
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    padding: 16px 28px;
+    border-radius: 999px;
+    border: 1px solid var(--ink);
+    transition: background .2s ease, transform .2s ease;
+  }
+  .cta-primary:hover {
+    background: #2a3641;
+    transform: translateY(-1px);
+  }
+  .cta-secondary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--ink);
+    font-family: var(--sans);
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.02em;
+    padding: 16px 24px;
+    border-radius: 999px;
+    border: 1px solid var(--ink);
+    background: transparent;
+    transition: background .2s ease, color .2s ease;
+  }
+  .cta-secondary:hover {
+    background: var(--ink);
+    color: var(--paper);
+  }
+  .cta-secondary .arrow { transition: transform .2s ease; }
+  .cta-secondary:hover .arrow { transform: translateX(3px); }
+
+  /* ─── Hero image ─── */
+  .hero-image {
+    position: relative;
+    height: 100%;
+    min-height: 540px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .hero-image img {
+    width: 100%;
+    height: 100%;
+    max-height: 720px;
+    object-fit: contain;
+    object-position: center;
+    user-select: none;
+    animation: bob 12s ease-in-out infinite;
+  }
+  @keyframes bob {
+    0%, 100% { transform: translateY(0); }
+    50%      { transform: translateY(-8px); }
+  }
+
+  /* ─── Section banding ─── */
+  /* Cream paper sections that break the gradient for visual rhythm */
+  .band-cream {
+    background: #F4EBE0;
+    position: relative;
+    padding: 88px 0;
+    margin-top: 64px;
+  }
+  .band-cream::before {
+    /* Soft top transition into the cream band */
+    content: "";
+    position: absolute;
+    top: -48px; left: 0; right: 0;
+    height: 48px;
+    background: linear-gradient(180deg, transparent 0%, #F4EBE0 100%);
+    pointer-events: none;
+  }
+  .band-cream + .band-cream { margin-top: 0; }
+
+  /* Section heading — ombre gradient flowing violet → red → orange across the words */
+  .section-title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(56px, 7vw, 104px);
+    line-height: 0.94;
+    letter-spacing: -0.03em;
+    margin: 0 0 18px;
+    background: linear-gradient(to right,
+      var(--violet) 0%,
+      var(--red) 50%,
+      var(--orange) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: transparent;
+    display: inline-block;
+  }
+  .section-title .a,
+  .section-title .b,
+  .section-title .c { color: inherit; }
+  .section-deck {
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: clamp(22px, 1.9vw, 30px);
+    line-height: 1.4;
+    color: var(--ink);
+    max-width: 56ch;
+    margin: 0 0 64px;
+  }
+  .band-cream .section-deck { color: var(--ink); }
+
+  /* Saturated sections (violet → red → orange) — flip text to cream so it reads */
+  .search-section .section-title,
+  .graph-section .section-title,
+  .topics-section .section-title,
+  .latest .section-title {
+    background: linear-gradient(to right,
+      #FFFFFF 0%,
+      #FAF1E5 50%,
+      #FFFFFF 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .search-section .section-deck,
+  .graph-section .section-deck,
+  .topics-section .section-deck {
+    color: rgba(244, 235, 224, 0.92);
+  }
+
+  /* Search bar holds its own white surface — but the chips and examples need cream */
+  .search-section .chip {
+    color: rgba(244, 235, 224, 0.85);
+    border-color: rgba(244, 235, 224, 0.32);
+  }
+  .search-section .chip:hover {
+    color: #FFFFFF;
+    border-color: #FFFFFF;
+  }
+  .search-section .chip.active {
+    background: #FFFFFF;
+    color: var(--ink);
+    border-color: #FFFFFF;
+  }
+  .search-section .examples-label {
+    color: rgba(244, 235, 224, 0.65);
+  }
+  .search-section .ex {
+    color: rgba(244, 235, 224, 0.92);
+    border-bottom-color: rgba(244, 235, 224, 0.4);
+  }
+  .search-section .ex:hover {
+    color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+  }
+
+  /* Latest section: more-link sits on the dim end of the orange-to-navy gradient */
+  .latest .more-link {
+    color: rgba(244, 235, 224, 0.92);
+    border-bottom-color: rgba(244, 235, 224, 0.6);
+  }
+  .latest .more-link:hover {
+    color: #FFFFFF;
+    border-bottom-color: #FFFFFF;
+  }
+
+  .stats-section .section-title {
+    background: linear-gradient(to right,
+      var(--violet) 0%,
+      var(--red) 50%,
+      var(--orange) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .stats-section .section-deck { color: rgba(255, 255, 255, 0.75); }
+
+  .section-head-row {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 48px;
+    flex-wrap: wrap;
+  }
+
+  /* Shared atmosphere for all cream sections — paper grain + subtle gradient */
+  .search-section,
+  .graph-section,
+  .topics-section,
+  .latest {
+    position: relative;
+    isolation: isolate;
+  }
+  .search-section::before,
+  .graph-section::before,
+  .topics-section::before,
+  .latest::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg viewBox='0 0 240 240' xmlns='http://www.w3.org/2000/svg'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%25' height='100%25' filter='url(%23n)' opacity='0.55'/></svg>");
+    opacity: 0.09;
+    mix-blend-mode: multiply;
+  }
+  .search-section > *,
+  .graph-section > *,
+  .topics-section > *,
+  .latest > * {
+    position: relative;
+    z-index: 1;
+  }
+
+  /* Decorative organic flourish — small line motif used between sections */
+  .section-flourish {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 16px;
+    pointer-events: none;
+  }
+  .section-flourish svg {
+    width: 84px;
+    height: 28px;
+    opacity: 0.55;
+  }
+
+  /* ─── Search section — opens with a cool blue-cream that recalls the hero ─── */
+  .search-section {
+    padding: 96px 0 96px;
+    background: linear-gradient(180deg,
+      #5A6E76 0%,
+      #6B5C7E 18%,
+      #7E5491 40%,
+      #8E5798 65%,
+      #9B5BA0 100%);
+    margin-top: 0;
+  }
+  .search-upper {
+    display: block;
+    margin-bottom: 48px;
+  }
+  .search-upper .search-text { max-width: 100%; }
+  .search-upper .section-deck {
+    margin-bottom: 40px;
+    max-width: 92ch;
+  }
+
+  /* ─── Knowledge graph — full-width, interactive (d3 force simulation) ─── */
+  .atlas-graph {
+    width: 100%;
+    height: 640px;
+    position: relative;
+    background: linear-gradient(180deg, rgba(255,255,255,0.32) 0%, rgba(255,255,255,0.0) 100%);
+    border-radius: 18px;
+    overflow: hidden;
+    cursor: grab;
+  }
+  .atlas-graph:active { cursor: grabbing; }
+  @media (max-width: 760px) { .atlas-graph { height: 480px; } }
+
+  .atlas-graph .graph-controls {
+    position: absolute;
+    top: 14px;
+    right: 14px;
+    z-index: 5;
+    display: flex;
+    gap: 6px;
+  }
+  .atlas-graph .graph-btn {
+    background: rgba(255,255,255,0.85);
+    border: 1px solid rgba(31, 42, 54, 0.12);
+    border-radius: 999px;
+    padding: 8px 14px;
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+    cursor: pointer;
+    transition: background .2s, color .2s;
+  }
+  .atlas-graph .graph-btn:hover { background: #FFFFFF; color: var(--ink); }
+  .atlas-graph svg {
+    width: 100%;
+    height: 100%;
+    overflow: visible;
+    cursor: default;
+  }
+  .atlas-graph .edge {
+    stroke: rgba(31, 42, 54, 0.42);
+    fill: none;
+    stroke-width: 1.1;
+    transition: stroke .2s ease, stroke-opacity .2s ease, stroke-width .2s ease;
+  }
+  .atlas-graph .edge.highlight {
+    stroke: var(--ink);
+    stroke-opacity: 0.9;
+    stroke-width: 1.8;
+  }
+  .atlas-graph .node-paper {
+    cursor: pointer;
+    transform-origin: center;
+    transform-box: fill-box;
+    transition: transform .2s ease, filter .2s ease;
+  }
+  .atlas-graph .node-paper:hover {
+    transform: scale(1.8);
+    filter: drop-shadow(0 4px 10px rgba(31, 42, 54, 0.3));
+  }
+  .atlas-graph .node-paper { cursor: pointer; }
+
+  /* Gene anchor nodes — colored per cluster, white-bordered */
+  .atlas-graph .node-gene {
+    stroke: #F4EBE0;
+    stroke-width: 2.5;
+    cursor: pointer;
+    transition: stroke .2s ease, transform .2s ease;
+    transform-origin: center;
+    transform-box: fill-box;
+  }
+  .atlas-graph .node-gene:hover {
+    stroke: #FFFFFF;
+    stroke-width: 3.5;
+    transform: scale(1.12);
+  }
+  .atlas-graph .gene-text {
+    font-family: var(--sans);
+    font-weight: 800;
+    fill: #FFFFFF;
+    text-anchor: middle;
+    pointer-events: none;
+    paint-order: stroke;
+    stroke: rgba(31, 42, 54, 0.85);
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+  }
+
+  /* Track-cluster labels — large, in the track's own color */
+  .atlas-graph .track-label {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.04em;
+    pointer-events: none;
+  }
+  .atlas-graph .track-label-count {
+    font-size: 10px;
+    font-weight: 600;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    opacity: 0.7;
+  }
+  /* Gene labels — small, sit between paper dots */
+  .atlas-graph .gene-label {
+    font-family: var(--sans);
+    font-size: 9.5px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    fill: var(--ink);
+    opacity: 0.5;
+    pointer-events: none;
+  }
+
+  /* Tooltip floating above hovered node */
+  .graph-tooltip {
+    position: absolute;
+    pointer-events: none;
+    background: var(--ink);
+    color: #FFFFFF;
+    padding: 10px 14px;
+    border-radius: 8px;
+    font-family: var(--sans);
+    font-size: 13px;
+    line-height: 1.4;
+    max-width: 260px;
+    box-shadow: 0 8px 24px rgba(31, 42, 54, 0.25);
+    opacity: 0;
+    transform: translate(-50%, -100%);
+    transition: opacity .15s ease;
+    z-index: 10;
+  }
+  .graph-tooltip.show { opacity: 1; }
+  .graph-tooltip .tt-meta {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.55);
+    margin-bottom: 4px;
+    display: block;
+  }
+  .graph-tooltip .tt-title { font-weight: 500; }
+  .graph-tooltip .tt-genes {
+    margin-top: 6px;
+    font-size: 11px;
+    color: var(--orange);
+    letter-spacing: 0.06em;
+  }
+
+  /* Graph layout — legend stacked on the left, chart on the right */
+  .graph-layout {
+    display: grid;
+    grid-template-columns: 240px 1fr;
+    gap: 40px;
+    align-items: stretch;
+    margin-top: 16px;
+  }
+  @media (max-width: 900px) {
+    .graph-layout { grid-template-columns: 1fr; gap: 20px; }
+  }
+
+  .graph-legend-side {
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+    padding-top: 32px;
+    align-self: start;
+  }
+  .graph-legend-side span {
+    font-family: var(--sans);
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--ink);
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    line-height: 1.2;
+  }
+  .graph-legend-side .legend-dot {
+    display: inline-block;
+    width: 16px; height: 16px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  @media (max-width: 900px) {
+    .graph-legend-side {
+      flex-direction: row;
+      flex-wrap: wrap;
+      gap: 14px 22px;
+      padding-top: 0;
+    }
+    .graph-legend-side span { font-size: 15px; }
+  }
+
+  /* Centered instructions below the chart */
+  .graph-instructions {
+    margin-top: 40px;
+    text-align: center;
+  }
+  .graph-instructions em {
+    font-style: italic;
+    font-family: var(--serif);
+    font-weight: 400;
+    color: var(--ink-2);
+    font-size: clamp(20px, 1.7vw, 28px);
+    line-height: 1.45;
+    display: inline-block;
+    max-width: 72ch;
+  }
+  .legend-dot.key-1 { background: #9B5BA0; } /* Genetics */
+  .legend-dot.key-2 { background: #C2516B; } /* Mechanism */
+  .legend-dot.key-3 { background: #E94835; } /* Phenotype */
+  .legend-dot.key-4 { background: #E76540; } /* Diagnosis */
+  .legend-dot.key-5 { background: #E5824A; } /* Treatment */
+
+  /* Stage axis along the bottom of the graph */
+  .stage-axis {
+    position: absolute;
+    bottom: 38px;
+    left: 0; right: 0;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    pointer-events: none;
+    padding: 0 24px;
+    z-index: 4;
+  }
+  .stage-axis .stage-tick {
+    text-align: center;
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .stage-axis .stage-tick .arrow {
+    display: block;
+    font-size: 9px;
+    margin-top: 4px;
+    color: var(--ink-3);
+    opacity: 0.5;
+    letter-spacing: 0.06em;
+  }
+  .stage-axis .stage-tick:first-child .arrow::before { content: "← less verified"; }
+  .stage-axis .stage-tick:last-child  .arrow::before { content: "more verified →"; }
+  .stage-axis .stage-tick:not(:first-child):not(:last-child) .arrow { visibility: hidden; }
+  .search-bar {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: stretch;
+    background: #FFFFFF;
+    border: 1.5px solid rgba(31, 42, 54, 0.18);
+    border-radius: 999px;
+    overflow: hidden;
+    box-shadow: 0 6px 24px rgba(31, 42, 54, 0.06);
+    transition: border-color .2s ease, box-shadow .2s ease;
+  }
+  .search-bar:focus-within {
+    border-color: var(--ink);
+    box-shadow: 0 8px 32px rgba(31, 42, 54, 0.10);
+  }
+  .search-bar input {
+    background: transparent;
+    border: 0;
+    outline: 0;
+    padding: 18px 28px;
+    font-family: var(--sans);
+    font-weight: 400;
+    font-size: 17px;
+    color: var(--ink);
+  }
+  .search-bar input::placeholder {
+    color: var(--ink-3);
+  }
+  .search-bar button.go {
+    border: 0;
+    background: var(--ink);
+    color: #FFFFFF;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.06em;
+    padding: 0 28px;
+    border-radius: 999px;
+    margin: 4px;
+    transition: background .2s ease;
+  }
+  .search-bar button.go:hover { background: #2a3641; }
+
+  .search-meta {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-top: 24px;
+    flex-wrap: wrap;
+  }
+  .filter-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .chip {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--ink-2);
+    background: transparent;
+    border: 1.5px solid rgba(31, 42, 54, 0.18);
+    padding: 8px 16px;
+    border-radius: 999px;
+    transition: all .2s ease;
+  }
+  .chip:hover { border-color: var(--ink); color: var(--ink); }
+  .chip.active {
+    background: var(--ink);
+    color: #FFFFFF;
+    border-color: var(--ink);
+  }
+
+  .examples {
+    display: flex;
+    align-items: baseline;
+    gap: 14px 16px;
+    flex-wrap: wrap;
+    margin-top: 24px;
+  }
+  .examples-label {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .ex {
+    font-family: var(--sans);
+    font-size: 16px;
+    font-weight: 500;
+    color: var(--ink);
+    background: transparent;
+    border: 0;
+    padding: 4px 0;
+    border-bottom: 1.5px solid rgba(155, 91, 160, 0.4);
+    transition: color .2s ease, border-color .2s ease;
+  }
+  .ex:hover { color: var(--red); border-bottom-color: var(--red); }
+
+  /* ─── Knowledge graph section — pure cream warming gently to peach ─── */
+  .graph-section {
+    background: linear-gradient(180deg,
+      #9B5BA0 0%,
+      #B05078 50%,
+      #E94835 100%);
+    padding: 112px 0 112px;
+  }
+
+  /* ─── Browse by topic — peach warming into amber ─── */
+  .topics-section {
+    padding: 112px 0 120px;
+    background: linear-gradient(180deg,
+      #E94835 0%,
+      #E76540 50%,
+      #E5824A 100%);
+  }
+  .topics-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 16px;
+  }
+  @media (max-width: 1280px) {
+    .topics-grid { grid-template-columns: repeat(3, 1fr); }
+    .topics-grid > :nth-child(4) { grid-column: 1 / 3; }
+    .topics-grid > :nth-child(5) { grid-column: 3 / 4; }
+  }
+  @media (max-width: 760px) {
+    .topics-grid { grid-template-columns: repeat(2, 1fr); }
+    .topics-grid > :nth-child(4),
+    .topics-grid > :nth-child(5) { grid-column: auto; }
+  }
+  @media (max-width: 520px) { .topics-grid { grid-template-columns: 1fr; } }
+
+  /* Topic cards — cream stamps with a colored top bar + colored icon, so they
+     pop against the red→orange topics section gradient. */
+  .topic-card {
+    border: 0;
+    padding: 36px 28px 28px;
+    border-radius: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    min-height: 320px;
+    text-decoration: none;
+    color: var(--ink);
+    transition: transform .25s ease, box-shadow .25s ease;
+    position: relative;
+    overflow: hidden;
+    background: #FFFFFF;
+    box-shadow: 0 8px 24px rgba(31, 42, 54, 0.18);
+  }
+  .topic-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 22px 40px rgba(31, 42, 54, 0.28);
+  }
+  /* Colored top bar — one per card, walks the violet→red→orange ombre */
+  .topic-card::before {
+    content: "";
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 8px;
+  }
+  .topic-card:nth-child(1)::before { background: #9B5BA0; }
+  .topic-card:nth-child(2)::before { background: linear-gradient(90deg, #9B5BA0 0%, #C2516B 100%); }
+  .topic-card:nth-child(3)::before { background: #E94835; }
+  .topic-card:nth-child(4)::before { background: linear-gradient(90deg, #E94835 0%, #E76540 100%); }
+  .topic-card:nth-child(5)::before { background: #E5824A; }
+
+  .topic-card .icon {
+    width: 56px;
+    height: 56px;
+    margin-bottom: 4px;
+  }
+  .topic-card .icon svg {
+    width: 100%;
+    height: 100%;
+  }
+  .topic-card:nth-child(1) .icon svg { stroke: #9B5BA0; }
+  .topic-card:nth-child(2) .icon svg { stroke: #B14F70; }
+  .topic-card:nth-child(3) .icon svg { stroke: #E94835; }
+  .topic-card:nth-child(4) .icon svg { stroke: #E76540; }
+  .topic-card:nth-child(5) .icon svg { stroke: #E5824A; }
+
+  .topic-card h3 {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(26px, 2.2vw, 32px);
+    line-height: 1.02;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+  }
+  .topic-card p {
+    font-family: var(--sans);
+    font-size: clamp(15px, 1.1vw, 17px);
+    font-weight: 400;
+    line-height: 1.5;
+    color: var(--ink-2);
+    margin-top: 0;
+  }
+  .topic-card .read-more {
+    margin-top: auto;
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink-2);
+    transition: color .2s ease, transform .2s ease;
+    padding-top: 8px;
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+  }
+  .topic-card:nth-child(1):hover .read-more { color: #9B5BA0; }
+  .topic-card:nth-child(2):hover .read-more { color: #B14F70; }
+  .topic-card:nth-child(3):hover .read-more { color: #E94835; }
+  .topic-card:nth-child(4):hover .read-more { color: #E76540; }
+  .topic-card:nth-child(5):hover .read-more { color: #E5824A; }
+  .topic-card:hover .read-more { transform: translateX(4px); }
+
+  /* ─── Latest additions — amber descending into deep navy (the big transition) ─── */
+  .latest {
+    padding: 112px 0 96px;
+    background: linear-gradient(180deg,
+      #E5824A 0%,
+      #BD6543 28%,
+      #6F4848 58%,
+      #3A3A48 85%,
+      #1F2A36 100%);
+  }
+  .latest .section-deck { color: rgba(244, 235, 224, 0.92); }
+  /* Cards pop bright against the orange-to-navy gradient */
+  .latest .card {
+    background: rgba(255, 255, 255, 0.96);
+  }
+  .latest .card.featured {
+    background: linear-gradient(135deg, #FFFFFF 0%, #FAF1E5 100%);
+  }
+  .pulse {
+    display: inline-block;
+    width: 12px; height: 12px;
+    border-radius: 50%;
+    background: var(--red);
+    box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.5);
+    animation: pulse 2.4s ease-in-out infinite;
+    vertical-align: 0.05em;
+    margin-right: 14px;
+  }
+  @keyframes pulse {
+    0%, 100% { box-shadow: 0 0 0 0 rgba(233, 72, 53, 0.5); }
+    50%      { box-shadow: 0 0 0 14px rgba(233, 72, 53, 0); }
+  }
+  .more-link {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink);
+    text-decoration: none;
+    border-bottom: 2px solid var(--ink);
+    padding-bottom: 4px;
+    transition: color .2s ease, border-color .2s ease;
+  }
+  .more-link:hover { color: var(--red); border-bottom-color: var(--red); }
+
+  .feed-magazine {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 24px;
+  }
+  @media (max-width: 980px) { .feed-magazine { grid-template-columns: 1fr; } }
+
+  .feed-secondary {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+
+  .card {
+    background: #FFFFFF;
+    border: 1.5px solid rgba(31, 42, 54, 0.08);
+    padding: 24px;
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+    text-decoration: none;
+    color: inherit;
+    transition: transform .25s ease, border-color .25s ease, box-shadow .25s ease;
+    cursor: pointer;
+  }
+  .card:hover {
+    transform: translateY(-2px);
+    border-color: rgba(31, 42, 54, 0.20);
+    box-shadow: 0 14px 32px rgba(31, 42, 54, 0.06);
+  }
+  .card.featured {
+    padding: 36px 36px 32px;
+    border-radius: 22px;
+    grid-row: span 3;
+    min-height: 360px;
+    background: linear-gradient(135deg, #FFFFFF 0%, #FAF1E5 100%);
+    border-color: rgba(229, 130, 74, 0.25);
+  }
+  .card-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+  }
+  .card-meta .journal { color: var(--red); }
+  .card.featured .card-meta { font-size: 14px; }
+  .card-title {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(22px, 1.8vw, 28px);
+    line-height: 1.12;
+    letter-spacing: -0.01em;
+    color: var(--ink);
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card.featured .card-title {
+    font-size: clamp(32px, 3.2vw, 48px);
+    line-height: 1.04;
+    -webkit-line-clamp: 5;
+  }
+  .card-summary {
+    font-family: var(--sans);
+    font-size: clamp(17px, 1.3vw, 20px);
+    line-height: 1.5;
+    color: var(--ink-2);
+    margin-top: 4px;
+    display: none;
+  }
+  .card.featured .card-summary { display: block; }
+  .card-tags {
+    margin-top: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+  }
+  .tag {
+    font-family: var(--sans);
+    font-size: 11px;
+    font-weight: 700;
+    letter-spacing: 0.10em;
+    color: var(--orange);
+    background: rgba(229, 130, 74, 0.12);
+    border: 1px solid rgba(229, 130, 74, 0.30);
+    padding: 4px 10px;
+    border-radius: 6px;
+  }
+  .card.featured .read-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--ink);
+    margin-top: 4px;
+  }
+
+  /* ─── Stats — dark navy continues from the latest band ─── */
+  .stats-section {
+    background: linear-gradient(180deg, #2F3742 0%, #1F2A36 100%);
+    padding: 112px 0;
+    color: #FFFFFF;
+    position: relative;
+  }
+  /* Subtle starfield like the hero's marine snow, for visual continuity */
+  .stats-section::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background-image:
+      radial-gradient(circle at 12% 18%, rgba(251,236,209,0.5) 1px, transparent 1.5px),
+      radial-gradient(circle at 78% 9%, rgba(251,236,209,0.35) 1px, transparent 1.5px),
+      radial-gradient(circle at 33% 71%, rgba(251,236,209,0.4) 1px, transparent 1.5px),
+      radial-gradient(circle at 86% 62%, rgba(251,236,209,0.4) 1px, transparent 1.5px),
+      radial-gradient(circle at 56% 31%, rgba(251,236,209,0.3) 1px, transparent 1.5px),
+      radial-gradient(circle at 22% 49%, rgba(251,236,209,0.35) 1px, transparent 1.5px),
+      radial-gradient(circle at 67% 81%, rgba(251,236,209,0.45) 1px, transparent 1.5px),
+      radial-gradient(circle at 41% 11%, rgba(251,236,209,0.25) 1px, transparent 1.5px),
+      radial-gradient(circle at 91% 38%, rgba(251,236,209,0.4) 1px, transparent 1.5px),
+      radial-gradient(circle at 7%  82%, rgba(251,236,209,0.45) 1px, transparent 1.5px);
+    opacity: 0.6;
+    z-index: 0;
+  }
+  .stats-section > * { position: relative; z-index: 1; }
+  .stats-section .section-title { color: #FFFFFF; }
+  .stats-section .section-deck { color: rgba(255, 255, 255, 0.65); }
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 36px 24px;
+    margin-top: 24px;
+  }
+  @media (max-width: 980px) { .stats { grid-template-columns: repeat(2, 1fr); } }
+  .stat {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    padding-top: 24px;
+    border-top: 2px solid rgba(255, 255, 255, 0.18);
+  }
+  .stat .num {
+    font-family: var(--serif);
+    font-weight: 800;
+    font-size: clamp(72px, 9vw, 144px);
+    line-height: 0.92;
+    letter-spacing: -0.04em;
+  }
+  .stat:nth-child(1) .num { color: var(--violet); }
+  .stat:nth-child(2) .num { color: var(--red); }
+  .stat:nth-child(3) .num { color: var(--orange); }
+  .stat:nth-child(4) .num { color: #FFFFFF; }
+  .stat .num .unit {
+    font-size: 0.45em;
+    font-weight: 700;
+    color: rgba(255, 255, 255, 0.7);
+    margin-left: 4px;
+    letter-spacing: 0;
+  }
+  .stat .lbl {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.85);
+  }
+  .stat .sub {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.55);
+    line-height: 1.4;
+  }
+
+  /* ─── Menu button (top-right, fixed) ─── */
+  .menu-btn {
+    position: fixed;
+    top: 28px;
+    right: 32px;
+    z-index: 100;
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    background: rgba(255, 255, 255, 0.55);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border: 1px solid rgba(31, 42, 54, 0.12);
+    border-radius: 999px;
+    padding: 10px 18px 10px 16px;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--ink);
+    cursor: pointer;
+    transition: background .2s ease, transform .2s ease;
+  }
+  .menu-btn:hover { background: rgba(255, 255, 255, 0.85); transform: translateY(-1px); }
+  .menu-btn .icon {
+    display: inline-flex;
+    flex-direction: column;
+    gap: 3px;
+  }
+  .menu-btn .icon span {
+    display: block;
+    width: 18px;
+    height: 1.5px;
+    background: var(--ink);
+    border-radius: 1px;
+  }
+
+  /* Full-screen overlay menu */
+  .menu-overlay {
+    position: fixed;
+    inset: 0;
+    z-index: 200;
+    background: rgba(31, 42, 54, 0.97);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity .25s ease;
+  }
+  .menu-overlay.open { display: flex; opacity: 1; }
+  .menu-close {
+    position: absolute;
+    top: 28px;
+    right: 32px;
+    background: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 999px;
+    padding: 10px 18px;
+    color: #FFFFFF;
+    font-family: var(--sans);
+    font-weight: 600;
+    font-size: 12px;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: background .2s ease, border-color .2s ease;
+  }
+  .menu-close:hover { background: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.5); }
+  .menu-overlay nav {
+    text-align: center;
+  }
+  .menu-overlay nav ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+  .menu-overlay nav a {
+    display: inline-block;
+    font-family: var(--serif);
+    font-weight: 700;
+    font-size: clamp(40px, 6vw, 80px);
+    color: #FFFFFF;
+    line-height: 1.05;
+    letter-spacing: -0.02em;
+    transition: color .2s ease, transform .2s ease;
+  }
+  .menu-overlay nav a:hover {
+    color: var(--orange);
+    transform: translateX(4px);
+  }
+  .menu-overlay .menu-foot {
+    position: absolute;
+    bottom: 32px;
+    left: 0; right: 0;
+    text-align: center;
+    font-family: var(--sans);
+    font-size: 12px;
+    color: rgba(255, 255, 255, 0.5);
+    letter-spacing: 0.06em;
+  }
+
+  /* ─── Footer ─── */
+  footer {
+    background: #1F2A36;
+    border-top: 1px solid rgba(255, 255, 255, 0.10);
+    padding: 36px 0 48px;
+    color: #FFFFFF;
+  }
+  .foot-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .credit {
+    font-family: var(--sans);
+    font-size: 13px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.6);
+    max-width: 64ch;
+    line-height: 1.6;
+  }
+  .foot-links {
+    list-style: none;
+    display: flex;
+    gap: 24px;
+  }
+  .foot-links a {
+    font-family: var(--sans);
+    font-size: 12px;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.7);
+    transition: color .2s ease;
+  }
+  .foot-links a:hover { color: var(--orange); }
+</style>
 </head>
 <body>
-    <div id="app">
-        <header>
-            <div class="header-content">
-                <div class="logo">Autism Data Atlas</div>
-                <div class="logo-subtitle">An open source genetics research database</div>
-                <nav id="nav">
-                    <button class="nav-button active" data-section="brain-explorer">Brain Explorer</button>
-                    <button class="nav-button" data-section="getting-started">Getting Started</button>
-                    <button class="nav-button" data-section="timeline">Timeline</button>
-                    <button class="nav-button" data-section="datasets">Datasets</button>
-                    <button class="nav-button" data-section="research">Research</button>
-                    <button class="nav-button" data-section="about">About</button>
-                </nav>
-            </div>
-        </header>
 
-        <main>
-            <!-- Brain Explorer Section -->
-            <section id="brain-explorer" class="section active">
-                <div class="section-content" style="padding: 0;">
-                    <div class="explore-container">
-                        <div class="iframe-controls">
-                            <a href="brain-explorer.html" target="_blank" class="iframe-link">Open Full Screen →</a>
-                        </div>
-                        <div class="iframe-container">
-                            <iframe src="brain-explorer.html" title="Brain Explorer"></iframe>
-                        </div>
-                    </div>
-                </div>
-            </section>
+<button class="menu-btn" id="menuBtn" aria-label="Open menu" aria-haspopup="true">
+  <span class="icon" aria-hidden="true"><span></span><span></span><span></span></span>
+  Menu
+</button>
 
-            <!-- Timeline Section -->
-            <section id="timeline" class="section">
-                <div class="section-content" style="padding: 0;">
-                    <div class="explore-container">
-                        <div class="iframe-controls">
-                            <a href="study-timeline.html" target="_blank" class="iframe-link">Open Full Screen →</a>
-                        </div>
-                        <div class="iframe-container">
-                            <iframe src="study-timeline.html" title="Research Timeline"></iframe>
-                        </div>
-                    </div>
-                </div>
-            </section>
+<div class="menu-overlay" id="menuOverlay" role="dialog" aria-modal="true" aria-label="Site navigation">
+  <button class="menu-close" id="menuClose" aria-label="Close menu">Close</button>
+  <nav>
+    <ul>
+      <li><a href="#brain-explorer">Brain Explorer</a></li>
+      <li><a href="#datasets">Datasets</a></li>
+      <li><a href="#research">Research</a></li>
+      <li><a href="#genes">Genes</a></li>
+      <li><a href="#getting-started">Getting Started</a></li>
+      <li><a href="#about">About</a></li>
+    </ul>
+  </nav>
+  <div class="menu-foot">Autism Brain Atlas · Free for anyone to use</div>
+</div>
 
-            <!-- Datasets Section -->
-            <section id="datasets" class="section">
-                <div class="section-content">
-                    <div class="max-width">
-                        <div style="margin-bottom: 1rem;">
-                            <h1 style="font-size: 1.875rem; font-weight: 700; margin-bottom: 0.5rem;">Datasets</h1>
-                            <p style="color: var(--text-muted); font-size: 0.9375rem;">Curated catalog of public and controlled-access datasets for autism genetics research. Filter by category, access level or organism to find data for your analysis.</p>
-                        </div>
-
-                        <!-- Datasets Dashboard -->
-                        <div class="dash-stat-row" id="dsStats"></div>
-                        <div class="dash-panel" id="dsDash">
-                            <div>
-                                <div class="dash-chart-title">Datasets by Category</div>
-                                <div class="dash-chart-wrap"><canvas id="dsCategoryChart"></canvas></div>
-                            </div>
-                            <div>
-                                <div class="dash-chart-title">Access Level Breakdown</div>
-                                <div class="dash-chart-wrap"><canvas id="dsAccessChart"></canvas></div>
-                            </div>
-                        </div>
-
-                        <div class="datasets-toolbar">
-                            <div class="search-container">
-                                <input
-                                    type="text"
-                                    id="datasetSearch"
-                                    class="search-input"
-                                    placeholder="Search by name, genes, description..."
-                                    aria-label="Search datasets"
-                                />
-                            </div>
-
-                            <div class="filter-section">
-                                <div class="filter-label">Category</div>
-                                <div class="filter-chips" id="categoryFilters">
-                                    <button class="chip" data-category="perturbation">Perturbation Studies</button>
-                                    <button class="chip" data-category="organoid">Patient-Derived Organoids</button>
-                                    <button class="chip" data-category="postmortem">Postmortem Brain</button>
-                                    <button class="chip" data-category="genetic">Genetic Variation</button>
-                                    <button class="chip" data-category="regulatory">Regulatory Networks</button>
-                                    <button class="chip" data-category="developmental">Developmental</button>
-                                    <button class="chip" data-category="reference">Reference Databases</button>
-                                </div>
-                            </div>
-
-                            <div class="filter-section">
-                                <div class="filter-label">Access Level</div>
-                                <div class="filter-chips" id="accessFilters">
-                                    <button class="chip" data-access="PUBLIC">Public</button>
-                                    <button class="chip" data-access="REGISTERED">Registered</button>
-                                    <button class="chip" data-access="CONTROLLED">Controlled</button>
-                                    <button class="chip" data-access="GATED">Gated</button>
-                                </div>
-                            </div>
-
-                            <div class="filter-section">
-                                <div class="filter-label">Organism</div>
-                                <div class="filter-chips" id="organismFilters">
-                                    <button class="chip" data-organism="Human">Human</button>
-                                    <button class="chip" data-organism="Mouse">Mouse</button>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="datasets-count" id="datasetsCount"></div>
-
-                        <div class="datasets-grid" id="datasetsGrid">
-                            <!-- Populated by JavaScript -->
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Research Section -->
-            <section id="research" class="section">
-                <div class="section-content">
-                    <div class="max-width">
-                        <div class="research-header">
-                            <div>
-                                <h1>Research Feed</h1>
-                                <p style="color: var(--text-muted); font-size: 0.9375rem;">New papers, datasets and clinical trials -- updated daily by automated scanners</p>
-                            </div>
-                            <div class="research-updated" id="feedUpdated"></div>
-                        </div>
-                        <!-- Research Feed Dashboard -->
-                        <div class="dash-stat-row" id="feedStats"></div>
-                        <div class="dash-panel" id="feedDash">
-                            <div>
-                                <div class="dash-chart-title">Papers by Source</div>
-                                <div class="dash-chart-wrap"><canvas id="feedSourceChart"></canvas></div>
-                            </div>
-                            <div>
-                                <div class="dash-chart-title">Most-Mentioned Genes</div>
-                                <div id="feedGeneBar"></div>
-                            </div>
-                        </div>
-
-                        <div class="feed-tabs" id="feedTabs">
-                            <button class="feed-tab active" data-feed="papers">Papers <span class="count" id="papersCount"></span></button>
-                            <button class="feed-tab" data-feed="trials">Clinical Trials <span class="count" id="trialsCount"></span></button>
-                            <button class="feed-tab" data-feed="datasets-new">New Datasets <span class="count" id="datasetsNewCount"></span></button>
-                        </div>
-                        <input type="text" class="feed-search" id="feedSearch" placeholder="Search papers, trials, genes...">
-                        <div class="feed-list" id="feedList"></div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- Getting Started Section -->
-            <section id="getting-started" class="section">
-                <div class="section-content">
-                    <div class="max-width">
-                        <div class="guide-section">
-                            <h1 class="guide-title">Getting Started with Autism Genetics Data</h1>
-                            <p class="guide-subtitle">A practical guide for citizen scientists, parents, students and independent researchers</p>
-                            <div style="display:flex;gap:0.75rem;flex-wrap:wrap;margin-top:1.25rem;">
-                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">Data Types</span>
-                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">File Formats</span>
-                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">Tools Setup</span>
-                                <span style="font-size:0.75rem;padding:0.25rem 0.75rem;border-radius:2rem;background:var(--bg-tertiary);border:1px solid var(--border-color);color:var(--text-muted);">Key Databases</span>
-                            </div>
-                        </div>
-
-                        <div class="guide-section">
-                            <h2 class="guide-heading">What You're Looking At</h2>
-                            <p class="guide-text">Autism genetics data comes in several flavors, each answering a different biological question:</p>
-                            <div class="guide-list">
-                                <li class="guide-list-item"><strong>Gene expression data (RNA-seq)</strong> measures which genes are turned on in which cells. A typical RNA-seq experiment produces a spreadsheet where rows are genes and columns are individual cells or tissue samples, with values representing how much mRNA each gene produced.</li>
-                                <li class="guide-list-item"><strong>Variant data (WGS/WES)</strong> catalogs differences in DNA sequence between individuals. Think of it as a diff file: positions where your DNA differs from the reference genome, what the difference is, and how common it is in the general population.</li>
-                                <li class="guide-list-item"><strong>GWAS summary statistics</strong> test whether common genetic variations are more frequent in people with autism than in controls. The output is a table of SNP positions with p-values and effect sizes.</li>
-                                <li class="guide-list-item"><strong>Regulatory networks</strong> map how genes control each other. These come from ChIP-seq (which transcription factors bind where), ATAC-seq (which DNA regions are accessible), or computational inference (which genes likely regulate which).</li>
-                            </div>
-                        </div>
-
-                        <div class="guide-section">
-                            <h2 class="guide-heading">File Formats You'll Encounter</h2>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">VCF (Variant Call Format)</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">A text file listing every place someone's DNA differs from the reference genome. Each row = one variant. Columns = chromosome, position, reference allele, alternate allele, quality scores, and sample-level information. Opens with <code>pysam</code> in Python or <code>bcftools</code> on the command line.</p>
-                                </div>
-                            </div>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">H5AD</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">The standard format for single-cell RNA-seq data. Stores a matrix where rows = cells and columns = genes, plus metadata about each cell (cell type, donor, condition, etc.). Opens with <code>scanpy</code> in Python. Usually compressed to gigabyte-scale files.</p>
-                                </div>
-                            </div>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">FASTQ</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">Raw sequencing reads from the sequencer. You almost never need these unless you're reprocessing data from scratch. Each read is 4 lines: identifier, sequence, separator, and quality scores. Files are huge (10-100 GB per sample).</p>
-                                </div>
-                            </div>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">GZ / BGZ</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">Compressed files. Most genomic data lives compressed. Python's <code>gzip</code> library or pandas can read them directly without decompressing to disk.</p>
-                                </div>
-                            </div>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">TSV / CSV</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">Tab or comma separated text. The friendliest format. Opens in Excel, Google Sheets, pandas, R, or any text editor. Most supplementary tables from papers arrive as TSV or CSV.</p>
-                                </div>
-                            </div>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">BED</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">Genomic coordinates. Three columns minimum: chromosome, start position, end position. Used for regulatory elements, peaks, regions of interest. Often extended with additional columns for scores or metadata.</p>
-                                </div>
-                            </div>
-                            <div class="guide-subsection">
-                                <div class="accordion-header" onclick="this.classList.toggle('open'); this.nextElementSibling.classList.toggle('open');">
-                                    <strong style="color: var(--text-primary);">XLSX</strong>
-                                    <span class="accordion-chevron">▶</span>
-                                </div>
-                                <div class="accordion-body">
-                                    <p class="guide-text">Excel files. Common for supplementary tables in papers. Opens with <code>openpyxl</code> or <code>pandas</code> in Python.</p>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="guide-section">
-                            <h2 class="guide-heading">Setting Up Your Environment</h2>
-                            <p class="guide-text">You need Python 3.9 or later.</p>
-                            <details class="code-details">
-                                <summary>View install commands</summary>
-                                <p class="guide-text">Core packages:</p>
-                                <div class="code-block">pip install pandas numpy scanpy anndata openpyxl GEOparse requests</div>
-                                <p class="guide-text">For variant analysis:</p>
-                                <div class="code-block">pip install pysam pyliftover vcf</div>
-                                <p class="guide-text">For plotting:</p>
-                                <div class="code-block">pip install matplotlib seaborn plotly</div>
-                            </details>
-                            <p class="guide-text">For interactive exploration, we recommend <a href="https://jupyter.org/" target="_blank">Jupyter notebooks</a>. If you want zero setup, use <a href="https://colab.research.google.com/" target="_blank">Google Colab</a>.</p>
-                        </div>
-
-                        <div class="guide-section">
-                            <h2 class="guide-heading">Your First Analysis</h2>
-                            <p class="guide-text">Let's walk through downloading a real dataset from GEO: GSE28521, a microarray study comparing cortical gene expression in people with and without autism. Fully public, laptop-sized, peer-reviewed.</p>
-                            <details class="code-details">
-                                <summary>View example code</summary>
-                                <div class="code-block">import GEOparse
-import pandas as pd
-
-# Download the dataset
-gse = GEOparse.get_GEO('GSE28521', destdir='./data')
-
-# List the samples
-for sample in gse.metadata['sample_ids']:
-    print(f"{sample}: {gse.gsms[sample].metadata['title']}")
-
-# Extract expression matrix (rows = genes, columns = samples)
-expression = gse.pivot_samples('VALUE')
-print(expression.shape)  # (number of genes, number of samples)
-
-# Load phenotype data
-phenotypes = pd.DataFrame({
-    sample: gse.gsms[sample].metadata
-    for sample in gse.metadata['sample_ids']
-}).T</div>
-                            </details>
-                            <p class="guide-text">Once loaded, you can compare gene expression between autism and control samples, look for patterns using dimensionality reduction, or cross-reference findings with genetic databases.</p>
-                        </div>
-
-                        <div class="guide-section">
-                            <h2 class="guide-heading">Access Levels Explained</h2>
-                            <div class="guide-subsection">
-                                <strong style="color: #4ade80;">PUBLIC</strong>
-                                <p class="guide-text">Download immediately, no barriers. Start here. GEO, Zenodo, and most bioRxiv preprints fall into this category.</p>
-                            </div>
-                            <div class="guide-subsection">
-                                <strong style="color: #facc15;">REGISTERED</strong>
-                                <p class="guide-text">Create a free account (GEO, Synapse, Zenodo). Takes 5 minutes. Minor friction, but data is still freely accessible to anyone.</p>
-                            </div>
-                            <div class="guide-subsection">
-                                <strong style="color: #f87171;">CONTROLLED</strong>
-                                <p class="guide-text">Requires institutional affiliation and an approved Data Use Agreement (DUA). Timeline: weeks to months. Protects participant privacy for sensitive datasets like patient cohorts. NIH dbGaP and the Simons Simplex Collection work this way.</p>
-                            </div>
-                            <div class="guide-subsection">
-                                <strong style="color: #fb923c;">GATED</strong>
-                                <p class="guide-text">Available "upon reasonable request" to the corresponding author. Success rate varies. Email them politely with your affiliation and research plan. This is where independent researchers sometimes hit a wall.</p>
-                            </div>
-                        </div>
-
-                        <div class="guide-section">
-                            <h2 class="guide-heading">Where to Learn More</h2>
-                            <div class="guide-list">
-                                <li class="guide-list-item"><a href="https://bioinformatics.stackexchange.com/" target="_blank">Bioinformatics Stack Exchange</a> — Ask questions, get real answers from the community</li>
-                                <li class="guide-list-item"><a href="https://scanpy.readthedocs.io/" target="_blank">Scanpy tutorials</a> — Official documentation for single-cell analysis</li>
-                                <li class="guide-list-item"><a href="https://genome.ucsc.edu/" target="_blank">UCSC Genome Browser</a> — Visual exploration of genomic coordinates and annotations</li>
-                                <li class="guide-list-item"><a href="https://www.ncbi.nlm.nih.gov/geo/" target="_blank">GEO (Gene Expression Omnibus)</a> — The largest public repository for expression data</li>
-                                <li class="guide-list-item"><a href="https://www.sfari.org/" target="_blank">SFARI (Simon Foundation Autism Research Initiative)</a> — Autism-specific genomic resources and genes database</li>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
-
-            <!-- About Section -->
-            <section id="about" class="section">
-                <div class="section-content">
-                    <div class="max-width">
-                        <div class="about-section">
-                            <h1 class="about-title">About This Project</h1>
-
-                            <p class="about-text">This resource was built by <strong>Ryan Flinn</strong>, a journalist and parent of a child with profound autism and drug-resistant epilepsy. Over 130+ working sessions beginning in early 2025, Flinn independently reanalyzed his daughter's genetic data using publicly available research datasets and AI-assisted analysis tools.</p>
-
-                            <p class="about-text">The biggest recurring barrier wasn't the analysis itself — it was <em>finding the data</em>. Datasets are scattered across GEO, Synapse, Zenodo, journal supplements, and institutional portals with different access requirements, file formats, and naming conventions. This catalog exists so other parents, citizen scientists, graduate students, and independent researchers don't have to repeat the scavenger hunt.</p>
-
-                            <p class="about-text">The <strong>gene network explorer</strong> visualizes how autism-associated genes interact across biological layers, from regulatory factors at the top through transcription factors and ion channels down to clinical phenotype. It's built from published research data and is intended as a learning tool, not a diagnostic instrument.</p>
-
-                            <p class="about-text">This is an <strong>open-source project</strong>. The dataset catalog lives as a JSON file on GitHub. Anyone can submit a pull request to add a dataset, correct an error, or update access information.</p>
-
-                            <p class="about-text" style="margin-top: 2rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
-                                <strong>Contact:</strong> <a href="mailto:ryan_flinn@outlook.com">ryan_flinn@outlook.com</a>
-                            </p>
-                        </div>
-                    </div>
-                </div>
-            </section>
-        </main>
-
-        <footer>
-            <div class="footer-content">
-                <div class="footer-text">
-                    Autism Data Atlas is an independent open-source project. Not affiliated with any institution. Data descriptions are based on published research and may contain errors. Always verify access requirements and terms of use before downloading data. Last updated: March 2026.
-                </div>
-                <div style="text-align: right;">
-                    <a href="https://github.com/" target="_blank" class="footer-link">Contribute on GitHub →</a>
-                </div>
-            </div>
-        </footer>
+<main>
+  <section class="hero">
+    <div class="hero-image-wrap">
+      <img src="Glass Brain Flowers.png" alt="Glass head with flowers, representing the diverse genetic roots of autism">
     </div>
+    <div class="hero-inner">
+      <div class="hero-text">
+        <h1 class="title">
+          <span class="t-autism">Autism</span>
+          <span class="t-brain">Brain</span>
+          <span class="t-atlas">Atlas</span>
+        </h1>
+        <p class="tagline">An open-source tool for exploring<br>autism's genetic roots.</p>
+        <p class="contents">Studies · Datasets · Findings</p>
+        <div class="cta-row">
+          <a href="#research" class="cta-primary">Browse the studies</a>
+          <a href="#datasets" class="cta-secondary">
+            Explore the data
+            <span class="arrow">→</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-    <script>
-        let datasetsData = [];
-        let expandedDatasetId = null;
 
-        // Load datasets from global variable (works on file://) or fetch as fallback
-        async function loadDatasets() {
-            if (window.DATASETS_CATALOG && Array.isArray(window.DATASETS_CATALOG)) {
-                datasetsData = window.DATASETS_CATALOG;
-                renderDatasets();
-                return;
-            }
-            try {
-                const response = await fetch('datasets.json');
-                if (response.ok) {
-                    datasetsData = await response.json();
-                    renderDatasets();
-                } else {
-                    showDatasetLoadError();
-                }
-            } catch(e) {
-                showDatasetLoadError();
-            }
-        }
+  <!-- ─── Search ─── -->
+  <section class="search-section">
+    <div class="container">
+      <div class="search-upper">
+        <div class="search-text">
+          <h2 class="section-title">Search the atlas.</h2>
+          <p class="section-deck">Search every study, gene, dataset and finding in the atlas. Type a plain-language question like <em>how is autism inherited</em>, a topic, a gene name, or a phrase from a paper title. Filter by category to narrow what you see, or click one of the examples below to try a common starting point.</p>
+        </div>
+      </div>
+      <form class="search-bar" id="searchForm" autocomplete="off">
+        <input id="searchInput" type="text" placeholder="Search studies, genes, datasets, findings…">
+        <button type="submit" class="go">Search</button>
+      </form>
+      <div class="search-meta">
+        <div class="filter-chips" role="tablist">
+          <button class="chip active" data-cat="all">All</button>
+          <button class="chip" data-cat="studies">Studies</button>
+          <button class="chip" data-cat="genes">Genes</button>
+          <button class="chip" data-cat="datasets">Datasets</button>
+          <button class="chip" data-cat="findings">Findings</button>
+        </div>
+      </div>
+      <div class="examples">
+        <span class="examples-label">Try</span>
+        <button class="ex">How autism is inherited</button>
+        <button class="ex">Brain development</button>
+        <button class="ex">Autism and epilepsy</button>
+        <button class="ex">Common vs. rare causes</button>
+        <button class="ex">What's still unknown</button>
+      </div>
+    </div>
+  </section>
 
-        function showDatasetLoadError() {
-            const grid = document.getElementById('datasetsGrid');
-            grid.innerHTML = `
-                <div class="empty-state" style="grid-column: 1 / -1;">
-                    <div class="empty-state-icon">⚠️</div>
-                    <div class="empty-state-text">Could not load datasets.json</div>
-                    <p style="margin-top: 1rem; font-size: 0.9375rem;">
-                        To view datasets, serve this directory with a local web server:<br/>
-                        <code style="background: var(--bg-tertiary); padding: 0.5rem; border-radius: 4px; display: inline-block; margin-top: 0.5rem;">python3 -m http.server</code><br/>
-                        Or deploy to GitHub Pages.
-                    </p>
-                </div>
-            `;
-        }
+  <!-- ─── Knowledge graph: Autism, by the genes ─── -->
+  <section class="graph-section">
+    <div class="container">
+      <h2 class="section-title">Autism, by the genes.</h2>
+      <p class="section-deck">Every dot below is a study. Every labeled disc is a gene. Lines connect studies to the genes they investigate. The bigger the disc, the more research has accumulated around that gene.</p>
 
-        // Map category values from JSON to CSS class values
-        function mapCategoryForCSS(category) {
-            const mapping = {
-                'perturbation': 'perturbation',
-                'patient-organoid': 'organoid',
-                'postmortem': 'postmortem',
-                'genetic-variation': 'genetic',
-                'regulatory': 'regulatory',
-                'developmental': 'developmental',
-                'reference': 'reference',
-                'controlled-access': 'controlled'
-            };
-            return mapping[category] || category;
-        }
+      <div class="graph-layout">
+        <aside class="graph-legend-side" aria-label="Topic legend">
+          <span><span class="legend-dot key-1"></span>Genetics &amp; cause</span>
+          <span><span class="legend-dot key-2"></span>Mechanism</span>
+          <span><span class="legend-dot key-3"></span>Phenotype &amp; symptoms</span>
+          <span><span class="legend-dot key-4"></span>Diagnosis</span>
+          <span><span class="legend-dot key-5"></span>Treatment</span>
+        </aside>
 
-        // Filter datasets based on active filters and search
-        function getFilteredDatasets() {
-            const searchTerm = document.getElementById('datasetSearch').value.toLowerCase();
+        <div class="atlas-graph" id="atlasGraph">
+          <svg id="kgSvg" role="img" aria-label="Interactive knowledge graph of indexed autism studies anchored by the genes they investigate">
+            <g id="kgRoot">
+              <g id="kgEdges"></g>
+              <g id="kgNodes"></g>
+              <g id="kgLabels"></g>
+            </g>
+          </svg>
+          <div class="graph-controls">
+            <button class="graph-btn" id="kgReset" type="button">Reset</button>
+          </div>
+          <div class="graph-tooltip" id="kgTooltip"></div>
+        </div>
+      </div>
 
-            // Get active filters
-            const activeCategories = Array.from(document.querySelectorAll('#categoryFilters .chip.active'))
-                .map(el => el.dataset.category);
-            const activeAccess = Array.from(document.querySelectorAll('#accessFilters .chip.active'))
-                .map(el => el.dataset.access);
-            const activeOrganisms = Array.from(document.querySelectorAll('#organismFilters .chip.active'))
-                .map(el => el.dataset.organism);
+      <div class="graph-instructions">
+        <em id="graphCount">221 studies linked to 55 genes. Drag a node to move it, scroll to zoom, click a study to open the source.</em>
+      </div>
+    </div>
+  </section>
 
-            return datasetsData.filter(dataset => {
-                // Search filter
-                if (searchTerm) {
-                    const searchableText = [
-                        dataset.name,
-                        dataset.description,
-                        dataset.citation,
-                        (dataset.tags || []).join(' '),
-                        (dataset.genesRelevant || []).join(' ')
-                    ].join(' ').toLowerCase();
+  <!-- ─── Browse by topic ─── -->
+  <section class="topics-section">
+    <div class="container">
+      <h2 class="section-title"><span class="a">Where</span> <span class="b">to</span> <span class="c">begin.</span></h2>
+      <p class="section-deck">Six places to start. Each is a doorway into the science behind a question parents, journalists and researchers ask most often.</p>
 
-                    if (!searchableText.includes(searchTerm)) return false;
-                }
+      <div class="topics-grid">
+        <a href="#topic-inheritance" class="topic-card" data-color="violet">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="14" cy="14" r="6"/>
+              <circle cx="42" cy="14" r="6"/>
+              <circle cx="28" cy="42" r="6"/>
+              <line x1="18" y1="20" x2="25" y2="36"/>
+              <line x1="38" y1="20" x2="31" y2="36"/>
+              <line x1="20" y1="14" x2="36" y2="14"/>
+            </svg>
+          </div>
+          <h3>How autism is inherited</h3>
+          <p>What twin studies, family histories and genome-wide research show about the role of genes passed from parent to child.</p>
+          <span class="read-more">Read more →</span>
+        </a>
 
-                // Category filter
-                if (activeCategories.length > 0) {
-                    if (!activeCategories.includes(dataset.category)) return false;
-                }
+        <a href="#topic-development" class="topic-card" data-color="red">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M28 48 V20"/>
+              <path d="M28 32 C20 28 14 24 14 14"/>
+              <path d="M28 26 C36 22 42 18 42 8"/>
+              <path d="M28 38 C22 34 18 30 18 22"/>
+              <circle cx="14" cy="14" r="3"/>
+              <circle cx="42" cy="8" r="3"/>
+              <circle cx="18" cy="22" r="2"/>
+            </svg>
+          </div>
+          <h3>Brain development</h3>
+          <p>How the brain wires itself before and after birth — and where that process diverges in autistic brains.</p>
+          <span class="read-more">Read more →</span>
+        </a>
 
-                // Access filter
-                if (activeAccess.length > 0) {
-                    if (!activeAccess.includes(dataset.accessLevel)) return false;
-                }
+        <a href="#topic-common" class="topic-card" data-color="violet">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="28" cy="28" r="3"/>
+              <circle cx="14" cy="14" r="2"/>
+              <circle cx="42" cy="14" r="2"/>
+              <circle cx="14" cy="42" r="2"/>
+              <circle cx="42" cy="42" r="2"/>
+              <circle cx="28" cy="10" r="2"/>
+              <circle cx="28" cy="46" r="2"/>
+              <circle cx="10" cy="28" r="2"/>
+              <circle cx="46" cy="28" r="2"/>
+              <line x1="28" y1="28" x2="14" y2="14"/>
+              <line x1="28" y1="28" x2="42" y2="14"/>
+              <line x1="28" y1="28" x2="14" y2="42"/>
+              <line x1="28" y1="28" x2="42" y2="42"/>
+              <line x1="28" y1="28" x2="28" y2="10"/>
+              <line x1="28" y1="28" x2="28" y2="46"/>
+            </svg>
+          </div>
+          <h3>Common vs. rare causes</h3>
+          <p>Most autism risk comes from many small inherited changes. Some cases trace to a single rare mutation. Both shape the brain.</p>
+          <span class="read-more">Read more →</span>
+        </a>
 
-                // Organism filter
-                if (activeOrganisms.length > 0) {
-                    if (!activeOrganisms.includes(dataset.organism)) return false;
-                }
+        <a href="#topic-data" class="topic-card" data-color="red">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <rect x="10" y="14" width="36" height="28" rx="3"/>
+              <line x1="10" y1="22" x2="46" y2="22"/>
+              <line x1="22" y1="14" x2="22" y2="42"/>
+              <line x1="34" y1="14" x2="34" y2="42"/>
+              <line x1="10" y1="32" x2="46" y2="32"/>
+            </svg>
+          </div>
+          <h3>Open the data</h3>
+          <p>Public datasets anyone can analyze — with code, tutorials, and access guides. Run the same studies the scientists do.</p>
+          <span class="read-more">Read more →</span>
+        </a>
 
-                return true;
-            });
-        }
+        <a href="#topic-unknown" class="topic-card" data-color="orange">
+          <div class="icon">
+            <svg viewBox="0 0 56 56" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <path d="M20 20 C20 12 36 12 36 20 C36 26 28 26 28 32"/>
+              <line x1="28" y1="38" x2="28" y2="40"/>
+              <circle cx="28" cy="28" r="22"/>
+            </svg>
+          </div>
+          <h3>What's still unknown</h3>
+          <p>The questions science hasn't answered yet — and the next round of studies trying to.</p>
+          <span class="read-more">Read more →</span>
+        </a>
+      </div>
+    </div>
+  </section>
 
-        // Render dataset cards
-        function renderDatasets() {
-            const filtered = getFilteredDatasets();
-            const grid = document.getElementById('datasetsGrid');
-            const countEl = document.getElementById('datasetsCount');
+  <!-- ─── Recently added ─── -->
+  <section class="latest">
+    <div class="container">
+      <div class="section-head-row">
+        <div>
+          <h2 class="section-title"><span class="pulse"></span><span class="a">Recently</span> <span class="b">added.</span></h2>
+          <p class="section-deck">New studies and preprints, indexed daily from peer-reviewed journals and preprint servers.</p>
+        </div>
+        <a href="#research" class="more-link">All research →</a>
+      </div>
+      <div class="feed-magazine" id="feedMagazine">
+        <a class="card featured" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+        <div class="feed-secondary">
+          <a class="card" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+          <a class="card" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+          <a class="card" href="#"><div class="card-meta"><span class="journal">Loading…</span><span></span></div><div class="card-title">&nbsp;</div></a>
+        </div>
+      </div>
+    </div>
+  </section>
 
-            if (filtered.length === 0) {
-                grid.innerHTML = `
-                    <div class="empty-state" style="grid-column: 1 / -1;">
-                        <div class="empty-state-icon">🔍</div>
-                        <div class="empty-state-text">No datasets found matching your filters</div>
-                    </div>
-                `;
-                countEl.textContent = `Showing 0 datasets`;
-                return;
-            }
 
-            countEl.textContent = `Showing ${filtered.length} dataset${filtered.length !== 1 ? 's' : ''}`;
+  <!-- ─── Stats ─── -->
+  <section class="stats-section">
+    <div class="container">
+      <h2 class="section-title"><span class="a">The</span> <span class="b">atlas,</span> <span class="c">today.</span></h2>
+      <p class="section-deck">A live count of what's inside, updated as new studies and datasets are indexed.</p>
+      <div class="stats" id="stats">
+        <div class="stat">
+          <span class="num" data-target="953">0</span>
+          <span class="lbl">Studies indexed</span>
+          <span class="sub">Peer-reviewed papers and preprints</span>
+        </div>
+        <div class="stat">
+          <span class="num" data-target="29">0</span>
+          <span class="lbl">Datasets cataloged</span>
+          <span class="sub">Public sources, with code to use them</span>
+        </div>
+        <div class="stat">
+          <span class="num" data-target="59">0</span>
+          <span class="lbl">Genes profiled</span>
+          <span class="sub">Each tied to evidence and findings</span>
+        </div>
+        <div class="stat">
+          <span class="num" data-target="1025">0</span>
+          <span class="lbl">Variants annotated</span>
+          <span class="sub">DNA changes mapped to function</span>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
 
-            grid.innerHTML = filtered.map(dataset => {
-                const cssCategory = mapCategoryForCSS(dataset.category);
-                const truncatedDesc = dataset.description.substring(0, 150) + (dataset.description.length > 150 ? '...' : '');
-                const dataTypes = (dataset.dataType || []).join(', ');
+<footer>
+  <div class="container">
+    <div class="foot-row">
+      <p class="credit">Built and maintained by Ryan Flinn, an independent journalist covering health and science. Free for anyone to use.</p>
+      <ul class="foot-links">
+        <li><a href="#about">About</a></li>
+        <li><a href="#contributing">Contributing</a></li>
+        <li><a href="https://github.com" target="_blank" rel="noopener">Source</a></li>
+      </ul>
+    </div>
+  </div>
+</footer>
 
-                return `
-                    <div class="dataset-card" onclick="expandDataset('${dataset.id}')">
-                        <div class="dataset-title">${dataset.name}</div>
-                        <div class="dataset-description">${truncatedDesc}</div>
-                        <div class="dataset-meta">
-                            <span class="badge badge-category" data-type="${cssCategory}">${dataset.category.replace('-', ' ')}</span>
-                            <span class="badge badge-access" data-access="${dataset.accessLevel}">${dataset.accessLevel}</span>
-                            <span class="badge badge-organism">${dataset.organism}</span>
-                        </div>
-                        <div class="dataset-stats">
-                            ${dataset.sampleSize ? `<span>n=${dataset.sampleSize}</span>` : ''}
-                            ${dataset.publicationYear ? `<span>${dataset.publicationYear}</span>` : ''}
-                            ${dataTypes ? `<span>${dataTypes}</span>` : ''}
-                            ${dataset.license ? `<span title="License">${dataset.license}</span>` : ''}
-                        </div>
-                    </div>
-                `;
-            }).join('');
+<script src="papers_feed.js"></script>
+<script src="knowledge_graph.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
+<script>
+  // ─── Latest-additions feed ───
+  (function feed() {
+    const host = document.getElementById('feedMagazine');
+    if (!host) return;
+    if (!window.PAPERS_FEED || !Array.isArray(window.PAPERS_FEED.papers)) return;
 
-            // Add expanded view if one is selected
-            if (expandedDatasetId) {
-                const expanded = filtered.find(d => d.id === expandedDatasetId);
-                if (expanded) {
-                    grid.innerHTML += renderExpandedDataset(expanded);
-                }
-            }
-        }
+    // Cap displayed dates at the feed's last_updated so PubMed
+    // issue-month dates (e.g. May 1 for an April online paper)
+    // don't read as "future" to a casual reader. The section heading
+    // is "Recently added" — show when the atlas last picked the paper up.
+    const cap = window.PAPERS_FEED.last_updated || '';
+    function displayDate(paperDate) {
+      if (!paperDate) return cap;
+      if (cap && paperDate > cap) return cap;
+      return paperDate;
+    }
 
-        // Render expanded dataset view
-        function renderExpandedDataset(dataset) {
-            const cssCategory = mapCategoryForCSS(dataset.category);
-            const downloadLinksHTML = (dataset.downloadUrls || [])
-                .map(link => `<a href="${link.url}" target="_blank">${link.label}${link.format ? ` (${link.format})` : ''}${link.sizeApprox ? ` - ${link.sizeApprox}` : ''}</a>`)
-                .join('<br/>');
+    const papers = window.PAPERS_FEED.papers
+      .slice()
+      .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
+      .slice(0, 4);
 
-            const relatedHTML = (dataset.relatedDatasets || [])
-                .map(id => `<button class="related-link" onclick="expandDataset('${id}')">${id}</button>`)
-                .join('');
+    function fmtDate(d) {
+      if (!d) return '';
+      const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+      const parts = d.split('-');
+      if (parts.length >= 2) {
+        const m = months[parseInt(parts[1], 10) - 1] || '';
+        const day = parts[2] ? parseInt(parts[2], 10) : '';
+        return (day ? day + ' ' : '') + m + ' ' + parts[0];
+      }
+      return d;
+    }
+    function shortJ(j) {
+      const map = {
+        'bioRxiv':'bioRxiv','medRxiv':'medRxiv',
+        'Mol Psychiatry':'Mol. Psychiatry','Nat Commun':'Nat. Commun.',
+        'Mol Autism':'Mol. Autism','Cell reports':'Cell Reports','Cell Reports':'Cell Reports',
+        'Mol Cell Neurosci':'Mol. Cell Neurosci.','Int J Mol Sci':'Int. J. Mol. Sci.',
+        'J Chem Inf Model':'J. Chem. Inf. Model.','Int J Dev Neurosci':'Int. J. Dev. Neurosci.',
+        'Genetics':'Genetics','Protein Sci':'Protein Sci.','Dev Sci':'Dev. Sci.'
+      };
+      return map[j] || j || '—';
+    }
 
-            const genesHTML = (dataset.genesRelevant || [])
-                .map(gene => `<span style="background: var(--bg-secondary); padding: 0.25rem 0.5rem; border-radius: 3px; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem;">${gene}</span>`)
-                .join(' ');
+    host.innerHTML = '';
 
-            return `
-                <div class="dataset-card-expanded active" onclick="event.stopPropagation()">
-                    <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5rem;">
-                        <div>
-                            <h2 style="font-size: 1.25rem; font-weight: 700; margin-bottom: 0.5rem;">${dataset.name}</h2>
-                            <div class="dataset-meta">
-                                <span class="badge badge-category" data-type="${cssCategory}">${dataset.category.replace('-', ' ')}</span>
-                                <span class="badge badge-access" data-access="${dataset.accessLevel}">${dataset.accessLevel}</span>
-                            </div>
-                        </div>
-                        <button class="close-expanded" onclick="closeExpanded()">Close</button>
-                    </div>
+    // First paper — featured card with summary + read link
+    const featured = papers[0];
+    if (featured) {
+      const fcard = document.createElement('a');
+      fcard.className = 'card featured';
+      fcard.href = featured.url || '#research';
+      if (featured.url) { fcard.target = '_blank'; fcard.rel = 'noopener'; }
+      const ftags = (Array.isArray(featured.genes_mentioned) ? featured.genes_mentioned : [])
+        .slice(0, 3).map(g => `<span class="tag">${g}</span>`).join('');
+      fcard.innerHTML = `
+        <div class="card-meta">
+          <span class="journal">${shortJ(featured.journal)}</span>
+          <span class="date">${fmtDate(displayDate(featured.date))}</span>
+        </div>
+        <div class="card-title">${featured.title || ''}</div>
+        ${featured.summary ? `<div class="card-summary">${featured.summary}</div>` : ''}
+        <div class="card-tags">${ftags}</div>
+        <span class="read-link">Read the study →</span>
+      `;
+      host.appendChild(fcard);
+    }
 
-                    ${dataset.citation ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Citation</div>
-                            <div class="expanded-content">
-                                ${dataset.citation}
-                                ${dataset.doi ? ` <a href="https://doi.org/${dataset.doi}" target="_blank">DOI: ${dataset.doi}</a>` : ''}
-                            </div>
-                        </div>
-                    ` : ''}
+    // Secondary cards — three smaller in a stack
+    const secondary = document.createElement('div');
+    secondary.className = 'feed-secondary';
+    papers.slice(1, 4).forEach(p => {
+      const card = document.createElement('a');
+      card.className = 'card';
+      card.href = p.url || '#research';
+      if (p.url) { card.target = '_blank'; card.rel = 'noopener'; }
+      card.title = p.summary || p.title || '';
+      const tagsHtml = (Array.isArray(p.genes_mentioned) ? p.genes_mentioned : [])
+        .slice(0, 2).map(g => `<span class="tag">${g}</span>`).join('');
+      card.innerHTML = `
+        <div class="card-meta">
+          <span class="journal">${shortJ(p.journal)}</span>
+          <span class="date">${fmtDate(displayDate(p.date))}</span>
+        </div>
+        <div class="card-title">${p.title || ''}</div>
+        <div class="card-tags">${tagsHtml}</div>
+      `;
+      secondary.appendChild(card);
+    });
+    host.appendChild(secondary);
+  })();
 
-                    ${dataset.description ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Description</div>
-                            <div class="expanded-content">${dataset.description}</div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.whatYouCanDo ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">What You Can Do</div>
-                            <div class="expanded-content">${dataset.whatYouCanDo}</div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.whatYouCant ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">What You Can't Do</div>
-                            <div class="expanded-content">${dataset.whatYouCant}</div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.downloadUrls && dataset.downloadUrls.length > 0 ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Download</div>
-                            <div class="expanded-content">
-                                ${downloadLinksHTML}
-                            </div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.codeSnippet ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Code Example</div>
-                            <div class="code-block">
-                                <button class="copy-button" onclick="copyCode(this)">Copy</button>
-                                <pre style="margin: 0; overflow-x: auto;">${escapeHtml(dataset.codeSnippet)}</pre>
-                            </div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.relatedDatasets && dataset.relatedDatasets.length > 0 ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Related Datasets</div>
-                            <div class="related-datasets">${relatedHTML}</div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.accessNotes ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Access Notes</div>
-                            <div class="expanded-content">${dataset.accessNotes}</div>
-                        </div>
-                    ` : ''}
-
-                    ${(dataset.license || dataset.fileFormats || dataset.bidsCompliant) ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Data Specifications</div>
-                            <div class="expanded-content" style="display: flex; flex-wrap: wrap; gap: 1.5rem; font-size: 0.9rem;">
-                                ${dataset.license ? `<div><strong style="color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px;">License</strong><br/>${dataset.license}</div>` : ''}
-                                ${dataset.fileFormats && dataset.fileFormats.length ? `<div><strong style="color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px;">Formats</strong><br/>${dataset.fileFormats.join(', ')}</div>` : ''}
-                                ${dataset.bidsCompliant ? `<div><strong style="color: var(--text-muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.5px;">BIDS</strong><br/><span style="color: #4ade80;">Compliant</span></div>` : ''}
-                            </div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.starterQuestions && dataset.starterQuestions.length ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Start Here -- Questions You Can Answer</div>
-                            <div class="expanded-content">
-                                ${dataset.starterQuestions.map(q => `<div style="padding: 0.5rem 0.75rem; margin-bottom: 0.5rem; background: rgba(59,130,246,0.05); border-left: 2px solid var(--color-perturbation); border-radius: 0 4px 4px 0; font-size: 0.9rem; color: var(--text-primary);">${q}</div>`).join('')}
-                            </div>
-                        </div>
-                    ` : ''}
-
-                    ${genesHTML ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Genes of Interest</div>
-                            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">${genesHTML}</div>
-                        </div>
-                    ` : ''}
-
-                    ${dataset.tags && dataset.tags.length > 0 ? `
-                        <div class="expanded-section">
-                            <div class="expanded-title">Tags</div>
-                            <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-                                ${dataset.tags.map(tag => `<span style="background: var(--bg-secondary); padding: 0.25rem 0.5rem; border-radius: 3px; font-size: 0.8rem;">${tag}</span>`).join('')}
-                            </div>
-                        </div>
-                    ` : ''}
-                </div>
-            `;
-        }
-
-        function expandDataset(datasetId) {
-            expandedDatasetId = datasetId;
-            renderDatasets();
-            // Scroll to expanded view
-            setTimeout(() => {
-                document.querySelector('.dataset-card-expanded')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-            }, 100);
-        }
-
-        function closeExpanded() {
-            expandedDatasetId = null;
-            renderDatasets();
-        }
-
-        function copyCode(button) {
-            const code = button.nextElementSibling.textContent;
-            navigator.clipboard.writeText(code).then(() => {
-                const originalText = button.textContent;
-                button.textContent = 'Copied!';
-                setTimeout(() => {
-                    button.textContent = originalText;
-                }, 2000);
-            });
-        }
-
-        function escapeHtml(text) {
-            const map = {
-                '&': '&amp;',
-                '<': '&lt;',
-                '>': '&gt;',
-                '"': '&quot;',
-                "'": '&#039;'
-            };
-            return text.replace(/[&<>"']/g, m => map[m]);
-        }
-
-        // Filter event listeners
-        document.getElementById('categoryFilters').addEventListener('click', e => {
-            if (e.target.classList.contains('chip')) {
-                e.target.classList.toggle('active');
-                renderDatasets();
-            }
+  // ─── Animated stat counters ───
+  (function stats() {
+    const els = document.querySelectorAll('#stats .num');
+    const dur = 1400;
+    function ease(t) { return 1 - Math.pow(1 - t, 3); }
+    let started = false;
+    function animate() {
+      if (started) return;
+      started = true;
+      const t0 = performance.now();
+      function tick(now) {
+        const t = Math.min(1, (now - t0) / dur);
+        els.forEach(el => {
+          const target = parseFloat(el.dataset.target);
+          const suf = el.dataset.suffix || '';
+          const isFloat = !Number.isInteger(target);
+          const v = target * ease(t);
+          const text = isFloat ? v.toFixed(2) : Math.round(v).toLocaleString();
+          el.innerHTML = text + (suf ? `<span class="unit">${suf}</span>` : '');
         });
+        if (t < 1) requestAnimationFrame(tick);
+      }
+      requestAnimationFrame(tick);
+    }
+    // Trigger on scroll into view, or immediately if visible
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) animate(); });
+    }, { threshold: 0.3 });
+    io.observe(document.getElementById('stats'));
+  })();
 
-        document.getElementById('accessFilters').addEventListener('click', e => {
-            if (e.target.classList.contains('chip')) {
-                e.target.classList.toggle('active');
-                renderDatasets();
-            }
-        });
+  // ─── Filter chips ───
+  document.querySelectorAll('.filter-chips .chip').forEach(c => {
+    c.addEventListener('click', () => {
+      document.querySelectorAll('.filter-chips .chip').forEach(x => x.classList.remove('active'));
+      c.classList.add('active');
+    });
+  });
 
-        document.getElementById('organismFilters').addEventListener('click', e => {
-            if (e.target.classList.contains('chip')) {
-                e.target.classList.toggle('active');
-                renderDatasets();
-            }
-        });
+  // ─── Example queries fill the search box ───
+  document.querySelectorAll('.examples .ex').forEach(b => {
+    b.addEventListener('click', () => {
+      const input = document.getElementById('searchInput');
+      input.value = b.textContent;
+      input.focus();
+    });
+  });
 
-        // Search event listener
-        document.getElementById('datasetSearch').addEventListener('input', () => {
-            renderDatasets();
-        });
+  // ─── Knowledge graph: d3 force simulation, drag + zoom + tooltip ───
+  (function knowledgeGraph() {
+    const data = window.KNOWLEDGE_GRAPH;
+    if (!data || typeof d3 === 'undefined') return;
 
-        // Navigation
-        document.getElementById('nav').addEventListener('click', e => {
-            if (e.target.classList.contains('nav-button')) {
-                document.querySelectorAll('.nav-button').forEach(btn => btn.classList.remove('active'));
-                document.querySelectorAll('.section').forEach(sec => sec.classList.remove('active'));
+    const wrap     = document.getElementById('atlasGraph');
+    const svgEl    = document.getElementById('kgSvg');
+    const tooltip  = document.getElementById('kgTooltip');
+    const resetBtn = document.getElementById('kgReset');
+    const countEl  = document.getElementById('graphCount');
+    if (!svgEl || !wrap) return;
 
-                e.target.classList.add('active');
-                const sectionId = e.target.dataset.section;
-                document.getElementById(sectionId).classList.add('active');
-            }
-        });
+    if (countEl) {
+      countEl.textContent =
+        `${data.meta.shown_papers} studies linked to ${data.meta.shown_genes} genes. Drag a node to move it, scroll to zoom, click a study to open the source.`;
+    }
 
-        // Handle hash-based deep links (from brain explorer nav)
-        function navigateToHash() {
-            const hash = window.location.hash.replace('#', '');
-            if (hash) {
-                const section = document.getElementById(hash);
-                const btn = document.querySelector('.nav-button[data-section="' + hash + '"]');
-                if (section && btn) {
-                    document.querySelectorAll('.nav-button').forEach(b => b.classList.remove('active'));
-                    document.querySelectorAll('.section').forEach(s => s.classList.remove('active'));
-                    btn.classList.add('active');
-                    section.classList.add('active');
-                }
-            }
-        }
-        window.addEventListener('hashchange', navigateToHash);
+    // Sizing — read the wrap's actual size for the simulation canvas
+    function getSize() {
+      const r = wrap.getBoundingClientRect();
+      return { w: r.width, h: r.height };
+    }
+    const initial = getSize();
 
-        // Initialize
-        navigateToHash();
-    </script>
+    const svg = d3.select(svgEl)
+      .attr('viewBox', `0 0 ${initial.w} ${initial.h}`)
+      .attr('width',   initial.w)
+      .attr('height',  initial.h);
 
-    <!-- Feed data files (auto-updated by scheduled scans) -->
-    <script src="papers_feed.js"></script>
-    <script src="clinical_feed.js"></script>
-    <script src="datasets_feed.js"></script>
-    <script src="datasets_catalog.js"></script>
+    const root = d3.select('#kgRoot');
+    const gEdges  = d3.select('#kgEdges');
+    const gNodes  = d3.select('#kgNodes');
+    const gLabels = d3.select('#kgLabels');
 
-    <script>
-        // Load datasets after catalog script is available
-        loadDatasets();
-    </script>
+    // Make working copies (d3 mutates these with x/y/vx/vy)
+    const nodes = data.nodes.map(n => ({ ...n }));
+    const edges = data.edges.map(e => ({ source: e.a, target: e.b }));
 
-    <script>
-        // Research Feed rendering
-        (function() {
-            let activeFeed = 'papers';
-            let feedSearchTerm = '';
+    // Helpers — gene radius scales with paper-count, paper radius with relevance
+    const maxGeneCount = Math.max(...nodes.filter(n => n.kind === 'gene').map(n => n.count || 1));
+    function geneRadius(d) {
+      // 14px floor, 36px ceiling. log scale so the hub genes don't dwarf everything.
+      const t = Math.log(1 + (d.count || 1)) / Math.log(1 + maxGeneCount);
+      return 14 + t * 22;
+    }
+    function paperRadius(d) {
+      return 3 + Math.min((d.score || 14) * 0.12, 4);
+    }
+    function nodeRadius(d) {
+      return d.kind === 'gene' ? geneRadius(d) : paperRadius(d);
+    }
 
-            function getPapers() {
-                return (window.PAPERS_FEED && window.PAPERS_FEED.papers) || [];
-            }
-            function getTrials() {
-                return (window.CLINICAL_FEED && window.CLINICAL_FEED.trials) || [];
-            }
-            function getNewDatasets() {
-                return (window.DATASETS_FEED && window.DATASETS_FEED.datasets) || [];
-            }
+    // Render edges (paper → gene links). Default styling is in CSS.
+    const link = gEdges.selectAll('line')
+      .data(edges)
+      .enter()
+      .append('line')
+        .attr('class', 'edge');
 
-            function scoreClass(score) {
-                if (score >= 25) return 'score-high';
-                if (score >= 15) return 'score-med';
-                return 'score-low';
-            }
+    // Render PAPER dots first (so genes draw on top)
+    const paperNodes = nodes.filter(n => n.kind === 'paper');
+    const geneNodes  = nodes.filter(n => n.kind === 'gene');
 
-            function trialStatusClass(status) {
-                if (!status) return '';
-                const s = status.toUpperCase();
-                if (s.includes('RECRUIT')) return 'status-recruiting';
-                if (s.includes('ACTIVE') || s.includes('ENROLL')) return 'status-active';
-                return 'status-completed';
-            }
+    const paperSel = gNodes.selectAll('circle.paper')
+      .data(paperNodes, d => d.i)
+      .enter()
+      .append('circle')
+        .attr('class', 'node-paper')
+        .attr('fill', d => d.color || '#9B5BA0')
+        .attr('r', d => paperRadius(d));
 
-            function esc(text) {
-                if (!text) return '';
-                const d = document.createElement('div');
-                d.textContent = text;
-                return d.innerHTML;
-            }
+    // Render GENE nodes — colored per cluster, with text label
+    const geneG = gLabels.selectAll('g.gene-group')
+      .data(geneNodes, d => d.i)
+      .enter()
+      .append('g')
+        .attr('class', 'gene-group');
 
-            function matchesSearch(item) {
-                if (!feedSearchTerm) return true;
-                const q = feedSearchTerm.toLowerCase();
-                const fields = [
-                    item.title, item.summary, item.authors, item.journal,
-                    item.condition, item.sponsor, item.intervention,
-                    (item.genes_mentioned || []).join(' '),
-                    (item.genes_relevant || '')
-                ].join(' ').toLowerCase();
-                return fields.includes(q);
-            }
+    geneG.append('circle')
+      .attr('class', 'node-gene')
+      .attr('fill', d => d.color || '#1F2A36')
+      .attr('r', d => geneRadius(d));
 
-            function renderPaperCard(p) {
-                var rel = (p.relevance || '').toUpperCase();
-                var relClass = rel === 'CRITICAL' ? ' relevance-critical' : rel === 'HIGH' ? ' relevance-high' : '';
-                var geneList = p.genes_mentioned || [];
-                var maxGenes = relClass ? geneList.length : 3;
-                var shownGenes = geneList.slice(0, maxGenes).map(g =>
-                    '<span class="gene-chip">' + esc(g) + '</span>'
-                ).join('');
-                if (geneList.length > maxGenes) shownGenes += '<span class="gene-chip" style="opacity:0.5">+' + (geneList.length - maxGenes) + '</span>';
-                const sc = typeof p.score === 'number'
-                    ? '<span class="feed-score ' + scoreClass(p.score) + '">' + p.score + '</span>'
-                    : '';
-                return '<div class="feed-card' + relClass + '">' +
-                    '<div class="feed-card-title"><a href="' + esc(p.url || p.doi ? 'https://doi.org/' + p.doi : '#') + '" target="_blank">' + esc(p.title) + '</a></div>' +
-                    '<div class="feed-card-meta">' + sc + esc(p.authors || '') + (p.journal ? ' &middot; ' + esc(p.journal) : '') + (p.date ? ' &middot; ' + esc(p.date) : '') + '</div>' +
-                    '<div class="feed-card-summary">' + esc(p.summary || '') + '</div>' +
-                    (shownGenes ? '<div class="feed-card-genes">' + shownGenes + '</div>' : '') +
-                '</div>';
-            }
+    geneG.append('text')
+      .attr('class', 'gene-text')
+      .attr('dy', '0.35em')
+      .attr('font-size', d => Math.max(9, geneRadius(d) * 0.42))
+      .text(d => d.gene);
 
-            function renderTrialCard(t) {
-                const genes = t.genes_relevant
-                    ? t.genes_relevant.split(',').map(g => g.trim()).filter(Boolean).map(g =>
-                        '<span class="gene-chip">' + esc(g) + '</span>'
-                    ).join('')
-                    : '';
-                const status = t.status
-                    ? '<span class="trial-status ' + trialStatusClass(t.status) + '">' + esc(t.status) + '</span>'
-                    : '';
-                return '<div class="feed-card">' +
-                    '<div class="feed-card-title"><a href="' + esc(t.url || '#') + '" target="_blank">' + esc(t.title) + '</a></div>' +
-                    '<div class="feed-card-meta">' + status + esc(t.sponsor || '') + (t.phase ? ' &middot; ' + esc(t.phase) : '') + (t.start_date ? ' &middot; Started ' + esc(t.start_date) : '') + '</div>' +
-                    '<div class="feed-card-summary">' + esc(t.summary || '') + '</div>' +
-                    (genes ? '<div class="feed-card-genes">' + genes + '</div>' : '') +
-                '</div>';
-            }
+    // Force simulation — tightened for compact, in-viewport layout
+    //   - link force pulls papers toward the genes they study
+    //   - reduced charge keeps the graph compact
+    //   - center anchors everything
+    //   - collision keeps nodes from overlapping
+    const sim = d3.forceSimulation(nodes)
+      .force('link',    d3.forceLink(edges).id(d => d.i)
+                          .distance(d => (d.source.kind === 'gene' || d.target.kind === 'gene') ? 50 : 40)
+                          .strength(0.55))
+      .force('charge',  d3.forceManyBody().strength(d => d.kind === 'gene' ? -180 : -16))
+      .force('center',  d3.forceCenter(initial.w / 2, initial.h / 2).strength(1))
+      .force('x',       d3.forceX(initial.w / 2).strength(0.06))
+      .force('y',       d3.forceY(initial.h / 2).strength(0.06))
+      .force('collide', d3.forceCollide().radius(d => nodeRadius(d) + 2.5))
+      .alphaDecay(0.025)
+      .on('tick', ticked)
+      .on('end',  fitToView);
 
-            function renderDatasetCard(d) {
-                const genes = (d.genes_relevant || []).map(g =>
-                    '<span class="gene-chip">' + esc(g) + '</span>'
-                ).join('');
-                return '<div class="feed-card">' +
-                    '<div class="feed-card-title"><a href="' + esc(d.source_url || '#') + '" target="_blank">' + esc(d.name) + '</a></div>' +
-                    '<div class="feed-card-meta">' + esc(d.data_type || '') + (d.organism ? ' &middot; ' + esc(d.organism) : '') + (d.sample_size ? ' &middot; ' + esc(d.sample_size) : '') + (d.access ? ' &middot; ' + esc(d.access) : '') + '</div>' +
-                    '<div class="feed-card-summary">' + esc(d.description || '') + '</div>' +
-                    (genes ? '<div class="feed-card-genes">' + genes + '</div>' : '') +
-                '</div>';
-            }
+    // After the simulation settles, fit the graph inside the viewport
+    function fitToView() {
+      let xMin = Infinity, xMax = -Infinity, yMin = Infinity, yMax = -Infinity;
+      nodes.forEach(n => {
+        const r = nodeRadius(n);
+        xMin = Math.min(xMin, n.x - r);
+        xMax = Math.max(xMax, n.x + r);
+        yMin = Math.min(yMin, n.y - r);
+        yMax = Math.max(yMax, n.y + r);
+      });
+      const s = getSize();
+      const padding = 40;
+      const w = xMax - xMin, h = yMax - yMin;
+      const scale = Math.min((s.w - padding*2) / w, (s.h - padding*2) / h, 1);
+      const tx = (s.w - scale * (xMin + xMax)) / 2;
+      const ty = (s.h - scale * (yMin + yMax)) / 2;
+      svg.transition().duration(600).call(
+        zoom.transform,
+        d3.zoomIdentity.translate(tx, ty).scale(scale)
+      );
+    }
 
-            function renderFeed() {
-                const list = document.getElementById('feedList');
-                if (!list) return;
+    function ticked() {
+      link
+        .attr('x1', d => d.source.x).attr('y1', d => d.source.y)
+        .attr('x2', d => d.target.x).attr('y2', d => d.target.y);
+      paperSel.attr('cx', d => d.x).attr('cy', d => d.y);
+      geneG.attr('transform', d => `translate(${d.x}, ${d.y})`);
+    }
 
-                let items, html;
-                if (activeFeed === 'papers') {
-                    items = getPapers().filter(matchesSearch);
-                    if (items.length) {
-                        var critical = items.filter(function(p) { var r = (p.relevance||'').toUpperCase(); return r === 'CRITICAL' || r === 'HIGH'; });
-                        var standard = items.filter(function(p) { var r = (p.relevance||'').toUpperCase(); return r !== 'CRITICAL' && r !== 'HIGH'; });
-                        html = '';
-                        if (critical.length) {
-                            html += '<div class="feed-section-label">Priority <span class="section-count">(' + critical.length + ')</span></div>';
-                            html += critical.map(renderPaperCard).join('');
-                        }
-                        if (standard.length) {
-                            html += '<div class="feed-section-label">All Papers <span class="section-count">(' + standard.length + ')</span></div>';
-                            html += standard.map(renderPaperCard).join('');
-                        }
-                    } else {
-                        html = '<div class="feed-empty">No papers found' + (feedSearchTerm ? ' matching "' + esc(feedSearchTerm) + '"' : '') + '</div>';
-                    }
-                } else if (activeFeed === 'trials') {
-                    items = getTrials().filter(matchesSearch);
-                    html = items.length
-                        ? items.map(renderTrialCard).join('')
-                        : '<div class="feed-empty">No clinical trials found' + (feedSearchTerm ? ' matching "' + esc(feedSearchTerm) + '"' : '') + '</div>';
-                } else {
-                    items = getNewDatasets().filter(matchesSearch);
-                    html = items.length
-                        ? items.map(renderDatasetCard).join('')
-                        : '<div class="feed-empty">No new datasets yet. The weekly scan adds entries here automatically.</div>';
-                }
-                list.innerHTML = html;
+    // Drag behavior — applies to both papers and gene groups
+    const dragBehavior = d3.drag()
+      .on('start', (event, d) => {
+        if (!event.active) sim.alphaTarget(0.25).restart();
+        d.fx = d.x; d.fy = d.y;
+      })
+      .on('drag',  (event, d) => { d.fx = event.x; d.fy = event.y; })
+      .on('end',   (event, d) => {
+        if (!event.active) sim.alphaTarget(0);
+        d.fx = null; d.fy = null;
+      });
+    paperSel.call(dragBehavior);
+    geneG.call(dragBehavior);
 
-                // Update counts
-                const pc = document.getElementById('papersCount');
-                const tc = document.getElementById('trialsCount');
-                const dc = document.getElementById('datasetsNewCount');
-                if (pc) pc.textContent = '(' + getPapers().length + ')';
-                if (tc) tc.textContent = '(' + getTrials().length + ')';
-                if (dc) dc.textContent = '(' + getNewDatasets().length + ')';
+    // Zoom + pan on the whole SVG
+    const zoom = d3.zoom()
+      .scaleExtent([0.4, 4])
+      .filter(event => !event.target.closest('circle, g.gene-group'))
+      .on('zoom', (event) => {
+        root.attr('transform', event.transform);
+      });
+    svg.call(zoom);
 
-                // Update timestamp
-                const upd = document.getElementById('feedUpdated');
-                if (upd) {
-                    const dates = [
-                        window.PAPERS_FEED && window.PAPERS_FEED.last_updated,
-                        window.CLINICAL_FEED && window.CLINICAL_FEED.last_updated,
-                        window.DATASETS_FEED && window.DATASETS_FEED.last_updated
-                    ].filter(Boolean).sort().reverse();
-                    upd.textContent = dates.length ? 'Last updated: ' + dates[0] : '';
-                }
-            }
+    // Reset button
+    if (resetBtn) {
+      resetBtn.addEventListener('click', () => {
+        svg.transition().duration(400).call(zoom.transform, d3.zoomIdentity);
+        nodes.forEach(n => { n.fx = null; n.fy = null; });
+        sim.alpha(0.6).restart();
+      });
+    }
 
-            // Feed tab switching
-            var feedTabsEl = document.getElementById('feedTabs');
-            if (feedTabsEl) {
-                feedTabsEl.addEventListener('click', function(e) {
-                    if (e.target.classList.contains('feed-tab')) {
-                        feedTabsEl.querySelectorAll('.feed-tab').forEach(function(t) { t.classList.remove('active'); });
-                        e.target.classList.add('active');
-                        activeFeed = e.target.dataset.feed;
-                        renderFeed();
-                    }
-                });
-            }
+    // Tooltip + edge highlight on hover
+    const topicMap = {};  data.topics.forEach(t => { topicMap[t.id] = t.label; });
 
-            // Feed search
-            var feedSearchEl = document.getElementById('feedSearch');
-            if (feedSearchEl) {
-                feedSearchEl.addEventListener('input', function() {
-                    feedSearchTerm = feedSearchEl.value.trim();
-                    renderFeed();
-                });
-            }
+    function showPaperTip(d, evt) {
+      const r = wrap.getBoundingClientRect();
+      const meta   = `<span class="tt-meta">${topicMap[d.topic] || ''}${d.date ? ' · ' + d.date.slice(0,7) : ''}</span>`;
+      const genes = (d.genes && d.genes.length)
+        ? `<div class="tt-genes">Genes: ${d.genes.join(', ')}</div>` : '';
+      const journal = d.journal ? `<div class="tt-genes" style="color: rgba(255,255,255,0.55)">${d.journal}</div>` : '';
+      tooltip.innerHTML = `${meta}<div class="tt-title">${d.title || ''}</div>${genes}${journal}`;
+      tooltip.style.left = (evt.clientX - r.left) + 'px';
+      tooltip.style.top  = (evt.clientY - r.top - 12) + 'px';
+      tooltip.classList.add('show');
+    }
 
-            // Initial render (delayed slightly to ensure feed JS files are loaded)
-            setTimeout(function() {
-                renderFeed();
-                buildFeedDashboard();
-            }, 150);
-        })();
+    function showGeneTip(d, evt) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.innerHTML =
+        `<span class="tt-meta">Gene</span>` +
+        `<div class="tt-title">${d.gene}</div>` +
+        `<div class="tt-genes">${d.count} ${d.count === 1 ? 'study' : 'studies'} in this atlas</div>`;
+      tooltip.style.left = (evt.clientX - r.left) + 'px';
+      tooltip.style.top  = (evt.clientY - r.top - 12) + 'px';
+      tooltip.classList.add('show');
+    }
 
-        /* ── Research Feed Dashboard ── */
-        function buildFeedDashboard() {
-            var papers = (window.PAPERS_FEED && window.PAPERS_FEED.papers) || [];
-            var clinPapers = (window.CLINICAL_FEED && window.CLINICAL_FEED.papers) || [];
-            var trials = (window.CLINICAL_FEED && window.CLINICAL_FEED.trials) || [];
-            var allPapers = papers.concat(clinPapers);
+    function moveTip(evt) {
+      const r = wrap.getBoundingClientRect();
+      tooltip.style.left = (evt.clientX - r.left) + 'px';
+      tooltip.style.top  = (evt.clientY - r.top - 12) + 'px';
+    }
 
-            // Stat row
-            var integrate = allPapers.filter(function(p) { return (p.decision||'').toUpperCase() === 'INTEGRATE'; }).length;
-            var review = allPapers.filter(function(p) { return (p.decision||'').toUpperCase() === 'REVIEW'; }).length;
-            var statsEl = document.getElementById('feedStats');
-            if (statsEl) {
-                statsEl.innerHTML =
-                    '<div class="dash-stat"><div class="dash-stat-num accent-blue">' + allPapers.length + '</div><div class="dash-stat-label">Papers</div></div>' +
-                    '<div class="dash-stat"><div class="dash-stat-num accent-green">' + integrate + '</div><div class="dash-stat-label">Integrate</div></div>' +
-                    '<div class="dash-stat"><div class="dash-stat-num accent-orange">' + review + '</div><div class="dash-stat-label">Review</div></div>' +
-                    '<div class="dash-stat"><div class="dash-stat-num accent-purple">' + trials.length + '</div><div class="dash-stat-label">Trials</div></div>';
-            }
+    function clearHover() {
+      tooltip.classList.remove('show');
+      link.classed('highlight', false);
+    }
 
-            // Source donut chart
-            var srcCounts = {};
-            allPapers.forEach(function(p) {
-                var s = (p.source || p.journal || 'unknown').toLowerCase();
-                if (s.includes('biorxiv')) s = 'bioRxiv';
-                else if (s.includes('medrxiv')) s = 'medRxiv';
-                else if (s.includes('pubmed')) s = 'PubMed';
-                else s = p.journal || 'Other';
-                srcCounts[s] = (srcCounts[s] || 0) + 1;
-            });
-            var srcLabels = Object.keys(srcCounts).sort(function(a,b) { return srcCounts[b] - srcCounts[a]; });
-            var srcData = srcLabels.map(function(k) { return srcCounts[k]; });
-            var srcColors = ['#3b82f6','#a78bfa','#06b6d4','#22c55e','#f97316','#eab308','#ef4444','#94a3b8'];
+    paperSel
+      .on('mouseover', function(event, d) {
+        showPaperTip(d, event);
+        link.classed('highlight', e => e.source === d || e.target === d);
+        d3.select(this).attr('stroke', 'rgba(31,42,54,0.85)').attr('stroke-width', 1.6);
+      })
+      .on('mousemove', moveTip)
+      .on('mouseout', function() {
+        clearHover();
+        d3.select(this).attr('stroke', null).attr('stroke-width', null);
+      })
+      .on('click', (event, d) => {
+        if (event.defaultPrevented) return;
+        if (d && d.url) window.open(d.url, '_blank', 'noopener');
+      });
 
-            var srcCtx = document.getElementById('feedSourceChart');
-            if (srcCtx && typeof Chart !== 'undefined') {
-                new Chart(srcCtx.getContext('2d'), {
-                    type: 'doughnut',
-                    data: {
-                        labels: srcLabels,
-                        datasets: [{
-                            data: srcData,
-                            backgroundColor: srcColors.slice(0, srcLabels.length),
-                            borderWidth: 0
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        cutout: '60%',
-                        plugins: {
-                            legend: {
-                                position: 'right',
-                                labels: { color: '#94a3b8', font: { size: 11, family: 'Inter' }, padding: 10, boxWidth: 12 }
-                            }
-                        }
-                    }
-                });
-            }
+    geneG
+      .on('mouseover', function(event, d) {
+        showGeneTip(d, event);
+        link.classed('highlight', e => e.source === d || e.target === d);
+      })
+      .on('mousemove', moveTip)
+      .on('mouseout', clearHover);
 
-            // Gene frequency bars
-            var geneCounts = {};
-            allPapers.forEach(function(p) {
-                var gm = p.genes_mentioned || [];
-                if (typeof gm === 'string') gm = gm.split(',').map(function(s) { return s.trim(); }).filter(Boolean);
-                gm.forEach(function(g) {
-                    geneCounts[g] = (geneCounts[g] || 0) + 1;
-                });
-            });
-            var topGenes = Object.keys(geneCounts).sort(function(a,b) { return geneCounts[b] - geneCounts[a]; }).slice(0, 8);
-            var maxCount = topGenes.length ? geneCounts[topGenes[0]] : 1;
-            var barEl = document.getElementById('feedGeneBar');
-            var geneColors = ['#3b82f6','#a78bfa','#06b6d4','#22c55e','#f97316','#eab308','#ef4444','#ec4899'];
-            if (barEl) {
-                if (topGenes.length === 0) {
-                    barEl.innerHTML = '<div style="color:var(--text-muted);font-size:0.8125rem;padding:1rem 0;">No gene mentions in feed</div>';
-                } else {
-                    barEl.innerHTML = topGenes.map(function(g, i) {
-                        var pct = Math.round((geneCounts[g] / maxCount) * 100);
-                        var color = geneColors[i % geneColors.length];
-                        return '<div class="dash-gene-bar">' +
-                            '<span class="dash-gene-label" style="color:' + color + '">' + g + '</span>' +
-                            '<div class="dash-gene-track"><div class="dash-gene-fill" style="width:' + pct + '%;background:' + color + '"></div></div>' +
-                            '<span class="dash-gene-count">' + geneCounts[g] + '</span>' +
-                        '</div>';
-                    }).join('');
-                }
-            }
-        }
+    // Resize handler — recenter the simulation when the viewport changes
+    window.addEventListener('resize', () => {
+      const s = getSize();
+      svg.attr('viewBox', `0 0 ${s.w} ${s.h}`).attr('width', s.w).attr('height', s.h);
+      sim.force('center', d3.forceCenter(s.w / 2, s.h / 2)).alpha(0.3).restart();
+    });
+  })();
 
-        /* ── Datasets Dashboard ── */
-        var _origLoadDatasets = loadDatasets;
-        loadDatasets = async function() {
-            await _origLoadDatasets();
-            buildDatasetsDashboard();
-        };
+  // ─── Menu overlay open/close ───
+  (function menu() {
+    const btn = document.getElementById('menuBtn');
+    const overlay = document.getElementById('menuOverlay');
+    const close = document.getElementById('menuClose');
+    function open() { overlay.classList.add('open'); document.body.style.overflow = 'hidden'; }
+    function shut() { overlay.classList.remove('open'); document.body.style.overflow = ''; }
+    btn.addEventListener('click', open);
+    close.addEventListener('click', shut);
+    overlay.addEventListener('click', (e) => { if (e.target === overlay) shut(); });
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape') shut(); });
+    overlay.querySelectorAll('a').forEach(a => a.addEventListener('click', shut));
+  })();
 
-        function buildDatasetsDashboard() {
-            if (!datasetsData || !datasetsData.length) return;
+  // ─── Search submission stub ───
+  document.getElementById('searchForm').addEventListener('submit', (e) => {
+    e.preventDefault();
+    const q = document.getElementById('searchInput').value.trim();
+    const cat = document.querySelector('.filter-chips .chip.active')?.dataset.cat || 'all';
+    if (!q) return;
+    // For now: log. Will be wired to real search index in next step.
+    console.log('atlas:search', { q, category: cat });
+  });
+</script>
 
-            // Category map with display names + colors
-            var catMeta = {
-                perturbation:      { label: 'Perturbation',     color: '#3b82f6' },
-                'patient-organoid': { label: 'Organoids',        color: '#06b6d4' },
-                postmortem:        { label: 'Postmortem',       color: '#a78bfa' },
-                'genetic-variation': { label: 'Genetic',          color: '#f97316' },
-                regulatory:        { label: 'Regulatory',       color: '#eab308' },
-                developmental:     { label: 'Developmental',    color: '#22c55e' },
-                reference:         { label: 'Reference',        color: '#94a3b8' }
-            };
-
-            // Count categories
-            var catCounts = {};
-            var accCounts = {};
-            var orgCounts = {};
-            datasetsData.forEach(function(d) {
-                var c = d.category || 'reference';
-                catCounts[c] = (catCounts[c] || 0) + 1;
-                var a = d.accessLevel || 'PUBLIC';
-                accCounts[a] = (accCounts[a] || 0) + 1;
-                var o = d.organism || 'Human';
-                orgCounts[o] = (orgCounts[o] || 0) + 1;
-            });
-
-            // Stat row
-            var statsEl = document.getElementById('dsStats');
-            if (statsEl) {
-                var publicN = accCounts['PUBLIC'] || 0;
-                var humanN = orgCounts['Human'] || 0;
-                statsEl.innerHTML =
-                    '<div class="dash-stat"><div class="dash-stat-num accent-blue">' + datasetsData.length + '</div><div class="dash-stat-label">Datasets</div></div>' +
-                    '<div class="dash-stat"><div class="dash-stat-num accent-green">' + publicN + '</div><div class="dash-stat-label">Public</div></div>' +
-                    '<div class="dash-stat"><div class="dash-stat-num accent-purple">' + Object.keys(catCounts).length + '</div><div class="dash-stat-label">Categories</div></div>' +
-                    '<div class="dash-stat"><div class="dash-stat-num accent-orange">' + humanN + '</div><div class="dash-stat-label">Human</div></div>';
-            }
-
-            // Category horizontal bar chart
-            var catLabels = Object.keys(catMeta);
-            var catData = catLabels.map(function(k) { return catCounts[k] || 0; });
-            var catColors = catLabels.map(function(k) { return catMeta[k].color; });
-            var catDisplayLabels = catLabels.map(function(k) { return catMeta[k].label; });
-
-            var catCtx = document.getElementById('dsCategoryChart');
-            if (catCtx && typeof Chart !== 'undefined') {
-                new Chart(catCtx.getContext('2d'), {
-                    type: 'bar',
-                    data: {
-                        labels: catDisplayLabels,
-                        datasets: [{
-                            data: catData,
-                            backgroundColor: catColors,
-                            borderWidth: 0,
-                            borderRadius: 3,
-                            barThickness: 16
-                        }]
-                    },
-                    options: {
-                        indexAxis: 'y',
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        plugins: { legend: { display: false } },
-                        scales: {
-                            x: {
-                                grid: { color: 'rgba(255,255,255,0.05)' },
-                                ticks: { color: '#94a3b8', font: { size: 10 }, stepSize: 1 }
-                            },
-                            y: {
-                                grid: { display: false },
-                                ticks: { color: '#e2e8f0', font: { size: 11, family: 'Inter' } }
-                            }
-                        }
-                    }
-                });
-            }
-
-            // Access level donut
-            var accLabels = ['PUBLIC','REGISTERED','CONTROLLED','GATED'];
-            var accDisplayLabels = ['Public','Registered','Controlled','Gated'];
-            var accData = accLabels.map(function(k) { return accCounts[k] || 0; });
-            var accColors = ['#22c55e','#3b82f6','#f97316','#ef4444'];
-
-            var accCtx = document.getElementById('dsAccessChart');
-            if (accCtx && typeof Chart !== 'undefined') {
-                new Chart(accCtx.getContext('2d'), {
-                    type: 'doughnut',
-                    data: {
-                        labels: accDisplayLabels,
-                        datasets: [{
-                            data: accData,
-                            backgroundColor: accColors,
-                            borderWidth: 0
-                        }]
-                    },
-                    options: {
-                        responsive: true,
-                        maintainAspectRatio: false,
-                        cutout: '60%',
-                        plugins: {
-                            legend: {
-                                position: 'right',
-                                labels: { color: '#94a3b8', font: { size: 11, family: 'Inter' }, padding: 10, boxWidth: 12 }
-                            }
-                        }
-                    }
-                });
-            }
-        }
-    </script>
 </body>
 </html>
