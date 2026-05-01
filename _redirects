@@ -1,2 +1,1 @@
-# Serve brain explorer as the landing page
-/  /brain-explorer.html  200!
+# Netlify routing — / serves index.html by default; explicit overrides only
