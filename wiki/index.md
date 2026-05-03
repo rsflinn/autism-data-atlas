@@ -56,6 +56,7 @@ Master index of all wiki pages with one-line summaries.
 - [PARM](./tools/PARM.md) -- Deep learning model predicting promoter activity and regulatory effects of variants
 - [Genotype-Phenotype Map](./tools/genotype_phenotype_map.md) -- Comprehensive database mapping genetic associations across 16K traits and 2.7M molecular measurements
 - [AlphaGenome](./tools/AlphaGenome.md) -- Google DeepMind unified DNA sequence model; best-in-class regulatory variant effect prediction across chromatin, TF binding, and gene expression modalities (Nature 2026)
+- [BRAIN-MAGNET](./tools/BRAIN-MAGNET.md) -- ChIP-STARR-seq-trained CNN that predicts non-coding regulatory element activity in neural stem cells; ~100M pre-scored SNPs for variant lookup (Cell 2026; PMID 41265437) -- candidate, needs verification
 
 ## Findings
 
@@ -248,3 +249,13 @@ Master index of all wiki pages with one-line summaries.
 
 - [Connecting polygenic disease risk to cell states and regulatory programs through single-cell chromatin accessibility (SCADS)](./findings/10.64898_2026.04.27.721080.md) -- Yu L et al., bioRxiv 2026-04-28 (score 30)
 - [Identification of a Novel Homozygous SCN1B Splice-Site Variant in a Consanguineous Families With Early-Onset Epilepsy](./findings/42046183.md) -- Muhammad A et al., Mol Genet Genomic Med 2026-05 (score 23)
+
+## Weekly Deep Scan -- 2026-05-03
+
+New tool added: [BRAIN-MAGNET](./tools/BRAIN-MAGNET.md) (Cell 2026, PMID 41265437) -- candidate flagged for review.
+
+No new public autism dataset deposits identified across PubMed and bioRxiv genomics/genetics/neuroscience + medRxiv genetics queries (window 2026-04-26 to 2026-05-03).
+
+URL spot-check (5/30 entries verified): all primary URLs reachable -- chip-atlas.org, brainspan.org, gene.sfari.org, epi25.broadinstitute.org, dx.doi.org/10.1038/s41467-025-61184-4. No broken links in this sample.
+
+Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages for GRIN2B, SYNGAP1, RBFOX1, CACNA1A, KCNB1, SLC6A1, MECP2, MYT1L, EP300, BCL11A, ADNP, ARID1B, PCDH19, GRIN2A, STXBP1, WAC, AUTS2, RBBP5. Several have multiple findings already linked to them and warrant backfill.

@@ -1,0 +1,35 @@
+{
+  "repo_url": "https://github.com/ruizhideng/BRAIN-MAGNET",
+  "name": "BRAIN-MAGNET",
+  "description": "Brain-focused convolutional neural network that predicts non-coding regulatory element (NCRE) activity from DNA sequence. Trained on ChIP-STARR-seq functional readouts in human neural stem cell models. Provides pre-scored predictions for ~100 million possible SNPs in NSC NCREs and identifies nucleotides required for NCRE function.",
+  "stars": "[NEEDS VERIFICATION - GitHub API not queried]",
+  "last_updated": "[NEEDS VERIFICATION - check GitHub]",
+  "language": "Python (CNN/PyTorch likely; verify on repo)",
+  "publication": {
+    "title": "BRAIN-MAGNET: A functional genomics atlas for interpretation of non-coding variants",
+    "journal": "Cell",
+    "volume": "189",
+    "issue": "2",
+    "pages": "676-695.e24",
+    "online_date": "2025-11-19",
+    "print_date": "2026-01",
+    "pmid": "41265437",
+    "doi": "10.1016/j.cell.2025.10.040",
+    "preprint": "medRxiv 10.1101/2024.04.13.24305761",
+    "first_author": "Ruizhi Deng (likely PI based on repo handle ruizhideng)",
+    "note": "Citation pulled from search abstract; verify exact author list and DOI from PubMed page PMID 41265437 before citing in publication."
+  },
+  "relevance_to_atlas": "HIGH. Direct fit for the noncoding-variant interpretation question central to this project. NCRE activity model trained on neural stem cells, so it's biologically appropriate for autism regulatory variants (vs. adult-tissue models like ENCODE-cCRE annotations). Useful comparator/complement to AlphaGenome and varTFBridge already in the wiki. Pre-scored variant set means a Teagan-WGS noncoding lookup is feasible without re-training.",
+  "atlas_fit_questions": [
+    "Do high-confidence Teagan-WGS noncoding variants fall in BRAIN-MAGNET-active NCREs with predicted activity disruption?",
+    "Compare BRAIN-MAGNET predictions to AlphaGenome predictions for the same variants -- agreement rate?",
+    "Are NCREs predicted to drive autism GWAS loci (Grove 2019) enriched for the YY1/p53/MER61/LTR10 motifs the paper highlights?"
+  ],
+  "discovered": "2026-05-03 weekly scan",
+  "raw_capture_only": true,
+  "needs_followup": [
+    "Pull GitHub stars + last commit via web check",
+    "Verify model training cell type (NSC) is appropriate for fetal-brain autism question or if a separate cortical-organoid model is needed",
+    "Confirm whether pre-scored SNP table is accessible without retraining"
+  ]
+}
