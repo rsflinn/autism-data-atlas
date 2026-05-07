@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.05.01.722223",
+  "title": "Multi-omics profiling reveals MAGEL2-driven defects in human corticogenesis shared across Prader-Willi and Schaaf-Yang syndromes.",
+  "authors": "Buecking J et al.",
+  "journal": "bioRxiv",
+  "date": "2026-05-05",
+  "abstract": "Disruption of cortical developmental programs underlies neurodevelopmental disorders such as Schaaf-Yang and Prader-Willi syndromes. Multi-omics profiling reveals MAGEL2-driven defects in corticogenesis shared across both conditions.",
+  "source": "biorxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism": 6,
+    "noncoding": 4,
+    "dataset": 7,
+    "novelty": 6,
+    "celltype": 4,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE"
+}

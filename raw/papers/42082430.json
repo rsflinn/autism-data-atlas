@@ -1,0 +1,20 @@
+{
+  "pmid": "42082430",
+  "doi": "10.1093/bioinformatics/btag177",
+  "title": "A framework to infer de novo exonic variants when parental genotypes are missing enhances association studies of autism.",
+  "authors": "Moon H et al.",
+  "journal": "Bioinformatics (Oxford, England)",
+  "date": "2026-05-04",
+  "abstract": "Gene-damaging mutations are highly informative for studies seeking to discover genes underlying developmental disorders. Methods are needed to infer de novo status when parental sequence is unavailable. Using autism data, the authors build an inheritance model and a Random Draw model to use this score for gene discovery.",
+  "source": "pubmed",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "autism": 9,
+    "noncoding": 1,
+    "dataset": 4,
+    "novelty": 6,
+    "celltype": 0,
+    "phenotype": 1
+  },
+  "decision": "INTEGRATE"
+}

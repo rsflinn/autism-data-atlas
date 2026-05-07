@@ -259,3 +259,17 @@ No new public autism dataset deposits identified across PubMed and bioRxiv genom
 URL spot-check (5/30 entries verified): all primary URLs reachable -- chip-atlas.org, brainspan.org, gene.sfari.org, epi25.broadinstitute.org, dx.doi.org/10.1038/s41467-025-61184-4. No broken links in this sample.
 
 Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages for GRIN2B, SYNGAP1, RBFOX1, CACNA1A, KCNB1, SLC6A1, MECP2, MYT1L, EP300, BCL11A, ADNP, ARID1B, PCDH19, GRIN2A, STXBP1, WAC, AUTS2, RBBP5. Several have multiple findings already linked to them and warrant backfill.
+
+## Recent Findings (Daily Scan)
+
+*Updated 2026-05-06*
+
+- [A framework to infer de novo exonic variants when parental genotypes are missing enhances association studies of autism.](./findings/42082430.md) -- Random Draw framework infers de novo exonic variants in autism cohorts when parental data are missing; increases gene discovery power.
+- [Prefrontal Cortex 5-HT1A Receptor-Coupled Inwardly Rectifying Potassium Channels Decreased Seizure Susceptibility in Rat](./findings/42084135.md) -- In a VPA rat ASD model, 5-HT1A activation reduces seizure susceptibility through Kir3 channel-mediated hyperpolarization in PFC.
+- [Reduced dorsal CA1 Activity Limits Retention of the Temporal Component of Declarative Memory in the Cntnap2 Knockout Mou](./findings/10.1101_2024.10.29.620866.md) -- Cntnap2 KO mice show reduced dorsal CA1 activity that limits temporal memory retention; cell-type-specific functional consequence of CNTNAP2
+- [Multi-omics profiling reveals MAGEL2-driven defects in human corticogenesis shared across Prader-Willi and Schaaf-Yang s](./findings/10.64898_2026.05.01.722223.md) -- Multi-omics shows MAGEL2 drives shared corticogenesis defects across PWS and Schaaf-Yang; latter has high autism penetrance.
+- [Pten Orchestrates Neurogenic Radial Glia Lineage Progression and Tunes Neocortical Astrocyte Production](./findings/10.64898_2026.05.01.722191.md) -- PTEN orchestrates radial glial progenitor lineage and tunes neocortical astrocyte production; cell-type context for PTEN-autism syndrome.
+- [Neural signatures of impaired semantic contextualization in Autism Spectrum Disorder](./findings/10.64898_2026.03.16.712048.md) -- Intracranial recordings show impaired semantic contextualization in ASD, supporting predictive coding/contextual integration models.
+- [The contribution of short tandem repeats to splicing variation in the human cortex](./findings/10.64898_2026.05.04.721407.md) -- STRs contribute to splicing variation in human cortex; an underexplored class of noncoding regulatory variants relevant to psychiatric disea
+- [Determinants of functional burden pleiotropy and gene dosage responses across human traits](./findings/10.1101_2025.02.25.25322833.md) -- Cross-trait analysis of gene dosage effects relevant to comorbidities in pediatric and psychiatric disorders.
+- [Cell-type-resolved genetic regulatory variation shapes inflammatory bowel disease risk](./findings/10.1101_2025.06.24.25330216.md) -- cis-eQTL mapping across 2.2M single cells in IBD shows cell-type-resolved regulatory effects of noncoding variants; methodological template 

@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2025.06.24.25330216",
+  "title": "Cell-type-resolved genetic regulatory variation shapes inflammatory bowel disease risk",
+  "authors": "Alegbe T et al.",
+  "journal": "medRxiv",
+  "date": "2026-05-05",
+  "abstract": "Most genetic variants associated with complex diseases lie in non-coding regions, complicating identification of effector genes and relevant cell types. The authors map cis-eQTLs across 2.2 million single cells to resolve cell-type-specific regulatory variation in IBD.",
+  "source": "medrxiv",
+  "relevance_score": 25,
+  "score_breakdown": {
+    "autism": 1,
+    "noncoding": 7,
+    "dataset": 5,
+    "novelty": 6,
+    "celltype": 5,
+    "phenotype": 1
+  },
+  "decision": "INTEGRATE"
+}

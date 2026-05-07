@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2024.10.29.620866",
+  "title": "Reduced dorsal CA1 Activity Limits Retention of the Temporal Component of Declarative Memory in the Cntnap2 Knockout Mouse Model of Autism",
+  "authors": "Rawlinson EC et al.",
+  "journal": "bioRxiv",
+  "date": "2026-05-05",
+  "abstract": "Growing evidence implicates the hippocampus in ASD pathophysiology. This study examines hippocampal CA1 activity in Cntnap2 KO mice and shows reduced activity limits temporal memory retention.",
+  "source": "biorxiv",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism": 9,
+    "noncoding": 1,
+    "dataset": 2,
+    "novelty": 4,
+    "celltype": 4,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE"
+}

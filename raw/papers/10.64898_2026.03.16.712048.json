@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.03.16.712048",
+  "title": "Neural signatures of impaired semantic contextualization in Autism Spectrum Disorder",
+  "authors": "Franch M et al.",
+  "journal": "bioRxiv",
+  "date": "2026-05-05",
+  "abstract": "Some accounts of autism etiology emphasize impairments in predictive coding and contextual integration. Intracranial neural recordings reveal signatures of impaired semantic contextualization in ASD.",
+  "source": "biorxiv",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "autism": 8,
+    "noncoding": 0,
+    "dataset": 2,
+    "novelty": 4,
+    "celltype": 1,
+    "phenotype": 2
+  },
+  "decision": "INTEGRATE"
+}
