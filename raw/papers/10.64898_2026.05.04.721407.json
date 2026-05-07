@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.05.04.721407",
+  "title": "The contribution of short tandem repeats to splicing variation in the human cortex",
+  "authors": "Li Y et al.",
+  "journal": "bioRxiv",
+  "date": "2026-05-06",
+  "abstract": "Splicing disruption has been implicated in psychiatric and neurological disorders. Recent studies identified thousands of common variants influencing brain splicing. Short tandem repeats also contribute to splicing variation in the cortex.",
+  "source": "biorxiv",
+  "relevance_score": 28,
+  "score_breakdown": {
+    "autism": 3,
+    "noncoding": 8,
+    "dataset": 7,
+    "novelty": 7,
+    "celltype": 2,
+    "phenotype": 1
+  },
+  "decision": "INTEGRATE"
+}

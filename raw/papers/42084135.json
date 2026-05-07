@@ -1,0 +1,20 @@
+{
+  "pmid": "42084135",
+  "doi": "10.1155/np/4005949",
+  "title": "Prefrontal Cortex 5-HT1A Receptor-Coupled Inwardly Rectifying Potassium Channels Decreased Seizure Susceptibility in Rat Models With Autism Spectrum Disorder.",
+  "authors": "Li Z et al.",
+  "journal": "Neural Plasticity",
+  "date": "2026-05-05",
+  "abstract": "Dysregulation of serotonin 1A receptor (5-HT1A) is implicated in ASD and epilepsy. The study used 8-OH-DPAT to activate PFC 5-HT1A in a VPA-induced rat model of ASD. ASD rats showed E/I imbalance and increased seizure susceptibility. 5-HT1AR activation alleviated epileptic activity through Kir3 channel-mediated hyperpolarization.",
+  "source": "pubmed",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "autism": 8,
+    "noncoding": 1,
+    "dataset": 1,
+    "novelty": 5,
+    "celltype": 3,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE"
+}

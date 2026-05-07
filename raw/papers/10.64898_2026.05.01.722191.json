@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.05.01.722191",
+  "title": "Pten Orchestrates Neurogenic Radial Glia Lineage Progression and Tunes Neocortical Astrocyte Production",
+  "authors": "Miranda OA et al.",
+  "journal": "bioRxiv",
+  "date": "2026-05-05",
+  "abstract": "The cerebral cortex consists of immense numbers of neuronal and glial cell-types derived from radial glial progenitor cells. PTEN orchestrates RGP lineage progression and tunes neocortical astrocyte production.",
+  "source": "biorxiv",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "autism": 5,
+    "noncoding": 2,
+    "dataset": 3,
+    "novelty": 5,
+    "celltype": 4,
+    "phenotype": 1
+  },
+  "decision": "INTEGRATE"
+}
