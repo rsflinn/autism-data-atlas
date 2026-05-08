@@ -273,3 +273,7 @@ Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages f
 - [The contribution of short tandem repeats to splicing variation in the human cortex](./findings/10.64898_2026.05.04.721407.md) -- STRs contribute to splicing variation in human cortex; an underexplored class of noncoding regulatory variants relevant to psychiatric disea
 - [Determinants of functional burden pleiotropy and gene dosage responses across human traits](./findings/10.1101_2025.02.25.25322833.md) -- Cross-trait analysis of gene dosage effects relevant to comorbidities in pediatric and psychiatric disorders.
 - [Cell-type-resolved genetic regulatory variation shapes inflammatory bowel disease risk](./findings/10.1101_2025.06.24.25330216.md) -- cis-eQTL mapping across 2.2M single cells in IBD shows cell-type-resolved regulatory effects of noncoding variants; methodological template 
+
+## Daily scan 2026-05-08
+- [42093631](findings/42093631.md) -- Glessner et al. 2026, *Brain*. CNV burden in GRM-interacting networks (DLG2, NRXN1, SHANK3, SYNGAP1) enriched in ADHD with comorbid NDDs vs. ADHD-only. (INTEGRATE, score 35)
+- [42100732](findings/42100732.md) -- Shadrina et al. 2026, *Front Neurosci*. CNTN6 review: CNV/GWAS associations across ASD, ID, TS, SCZ; cell adhesion / neurite guidance functions. (INTEGRATE, score 19)

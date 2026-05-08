@@ -1,0 +1,20 @@
+{
+  "pmid": "42093631",
+  "doi": "10.1093/brain/awag152",
+  "title": "Targeting glutamatergic pathways: genetic insights into comorbid neurodevelopmental disorders.",
+  "authors": "Glessner JT et al.",
+  "journal": "Brain",
+  "date": "2026-05-07",
+  "abstract": "CNV analysis of 72,626 pediatric participants from CHOP. ADHD with comorbid NDDs (autism, anxiety, developmental delay) shows significant CNV enrichment in metabotropic glutamate receptor (GRM) genes and their PPI networks. 27 genes interacting with GRMs significantly enriched (FDR<0.05), including DLG2, NRXN1, SHANK3, SYNGAP1. ADHD-only cases showed notably less enrichment.",
+  "source": "pubmed",
+  "relevance_score": 35,
+  "score_breakdown": {
+    "autism": 8,
+    "noncoding": 5,
+    "dataset": 8,
+    "novelty": 8,
+    "celltype": 2,
+    "phenotype": 4
+  },
+  "decision": "INTEGRATE"
+}
