@@ -1,0 +1,20 @@
+{
+  "pmid": "42100732",
+  "doi": "10.3389/fnins.2026.1726979",
+  "title": "Role of CNTN6 in neurodevelopment and neuropathology.",
+  "authors": "Shadrina MM et al.",
+  "journal": "Front Neurosci",
+  "date": "2026-04-22",
+  "abstract": "Review of CNTN6 (contactin 6), a cell adhesion molecule. Covers neurite guidance, neural network development, and oligodendrocytogenesis. CNV analysis and GWAS show allele-phenotype relationships with ASD, intellectual disability, Tourette, schizophrenia, anorexia.",
+  "source": "pubmed",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "autism": 6,
+    "noncoding": 4,
+    "dataset": 2,
+    "novelty": 3,
+    "celltype": 2,
+    "phenotype": 2
+  },
+  "decision": "INTEGRATE"
+}
