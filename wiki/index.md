@@ -57,6 +57,8 @@ Master index of all wiki pages with one-line summaries.
 - [Genotype-Phenotype Map](./tools/genotype_phenotype_map.md) -- Comprehensive database mapping genetic associations across 16K traits and 2.7M molecular measurements
 - [AlphaGenome](./tools/AlphaGenome.md) -- Google DeepMind unified DNA sequence model; best-in-class regulatory variant effect prediction across chromatin, TF binding, and gene expression modalities (Nature 2026)
 - [BRAIN-MAGNET](./tools/BRAIN-MAGNET.md) -- ChIP-STARR-seq-trained CNN that predicts non-coding regulatory element activity in neural stem cells; ~100M pre-scored SNPs for variant lookup (Cell 2026; PMID 41265437) -- candidate, needs verification
+- [Chorus](./tools/Chorus.md) -- Unified Python interface for six genomic deep-learning models (Enformer, Borzoi, ChromBPNet, Sei, LegNet, AlphaGenome); percentile-ranking against ~10K random SNPs gives a built-in null for any single-variant prediction (pinellolab, 2026) -- candidate
+- [HDMA (Human Development Multiomic Atlas)](./tools/HDMA.md) -- Paired snATAC + snRNA from 817,740 fetal cells across 12 organs, 203 cell types, 1M+ cCREs, with per-cell-type ChromBPNet models (Greenleaf Lab; Liu*, Jessa* et al., Nature 2026; doi 10.1038/s41586-026-10326-9) -- candidate
 
 ## Findings
 

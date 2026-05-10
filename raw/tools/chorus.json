@@ -1,0 +1,40 @@
+{
+  "repo_url": "https://github.com/pinellolab/chorus",
+  "name": "Chorus",
+  "description": "Unified Python interface for six state-of-the-art genomic deep-learning models -- Enformer, Borzoi, ChromBPNet/BPNet, Sei, LegNet, AlphaGenome -- behind one API. Predicts variant effects on chromatin accessibility (ChromBPNet), TF binding (Enformer, BPNet), 5,731 multi-modal tracks at 1 Mb context (AlphaGenome), or RNA-seq-grade gene expression (Borzoi). Each oracle runs in its own conda environment for dependency isolation; weights and references mirrored to a HuggingFace organization.",
+  "stars": "[NEEDS VERIFICATION - GitHub API not queried]",
+  "last_updated": "[NEEDS VERIFICATION - check GitHub]",
+  "language": "Python",
+  "publication": {
+    "title": "[NEEDS VERIFICATION - paper or preprint not yet located]",
+    "venue": "[NEEDS VERIFICATION]",
+    "doi": "[NEEDS VERIFICATION]",
+    "preprint": "[NEEDS VERIFICATION]",
+    "note": "Tool surfaced via GitHub search for variant-effect prediction repos. Web search references a 2026 release. Author/lab: pinellolab (Luca Pinello, MGH/Broad). Verify whether there's an associated preprint or paper before citing in publications."
+  },
+  "key_features": [
+    "Single API across 6 deep learning oracles (Enformer, Borzoi, ChromBPNet/BPNet, Sei, LegNet, AlphaGenome)",
+    "Effect-percentile and activity-percentile scoring against ~10,000 random SNPs and ~30,000 genome-wide cCREs for interpretability",
+    "Conda-isolated environments per oracle to avoid dependency conflicts",
+    "22-tool MCP server included (lets Claude or other LLMs run analyses via natural language)",
+    "Pre-mirrored model weights via HuggingFace"
+  ],
+  "relevance_to_atlas": "HIGH. The atlas already catalogs AlphaGenome, ChromBPNet (variant-scorer), and BRAIN-MAGNET as standalone tools. Chorus is the first wrapper to let us run several of these in parallel against the same variant list and compare predictions, which is exactly what we need for the Teagan-WGS noncoding lookup question (do AlphaGenome and ChromBPNet agree on a candidate variant?). The percentile-ranking scheme also gives us a built-in null distribution (~10K random SNPs) for any single-variant call, which directly addresses Iron Law #3 (what's the base rate?).",
+  "atlas_fit_questions": [
+    "For a Teagan-WGS noncoding variant in an NDD-relevant cCRE, do AlphaGenome and ChromBPNet predictions agree on direction and magnitude?",
+    "What's the agreement rate between BRAIN-MAGNET (NSC-trained) and Borzoi (RNA-seq-grade) for autism GWAS noncoding loci?",
+    "Does the percentile-ranking against 10K random SNPs change the interpretation of any previously-prioritized candidate variants?"
+  ],
+  "caveats": [
+    "Percentile rankings are against ~10K random SNPs and ~30K cCREs -- not a population burden test. A high effect-percentile says 'this variant predicted to be unusual', not 'this variant is more common in cases than controls.'",
+    "Each oracle was trained on different cell types and modalities. ChromBPNet on accessibility, Enformer on broad multi-task, Borzoi on RNA-seq, BRAIN-MAGNET on NSCs. Disagreement between models doesn't mean one is wrong -- they're answering different questions.",
+    "Verify GitHub creation date and license terms before integrating into atlas pipelines."
+  ],
+  "discovered": "2026-05-10 weekly scan",
+  "raw_capture_only": true,
+  "needs_followup": [
+    "Confirm publication or preprint citation",
+    "Run head-to-head comparison against existing AlphaGenome and ChromBPNet predictions for the same Teagan-WGS variants",
+    "Verify the MCP server is something we can actually use within Cowork mode"
+  ]
+}

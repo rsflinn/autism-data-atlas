@@ -1,0 +1,43 @@
+{
+  "repo_url": "https://github.com/GreenleafLab/HDMA",
+  "name": "HDMA (Human Development Multiomic Atlas)",
+  "description": "Code, documentation, and data products from the Human Development Multiomic Atlas: paired single-cell chromatin accessibility (snATAC-seq) and gene expression (snRNA-seq) from 817,740 fetal cells across 12 organs, 203 cell types, and more than 1 million candidate cis-regulatory elements (cCREs). Includes ChromBPNet models trained per cell type to predict accessibility from local DNA sequence, and analyses identifying composite TF motif syntax that mediates cooperative transcription factor binding.",
+  "stars": "[NEEDS VERIFICATION - GitHub API not queried]",
+  "last_updated": "[NEEDS VERIFICATION - check GitHub]",
+  "language": "R / Python",
+  "publication": {
+    "title": "Multiomics and deep learning dissect regulatory syntax in human development",
+    "authors": "Liu*, Jessa*, Kim*, Ng*, et al.",
+    "venue": "Nature",
+    "year": "2026",
+    "doi": "10.1038/s41586-026-10326-9",
+    "preprint": "bioRxiv 10.1101/2025.04.30.651381",
+    "lab": "Greenleaf Lab, Stanford"
+  },
+  "key_features": [
+    "817,740 fetal cells across 12 organs, 203 cell types",
+    "More than 1 million candidate cis-regulatory elements (cCREs) called from snATAC-seq",
+    "Per-cell-type ChromBPNet models",
+    "Composite-motif syntax analysis (TF cooperativity grammar)",
+    "All data deposited on Zenodo (https://zenodo.org/communities/hdma); tracks viewable on WashU Genome Browser",
+    "Public companion site: https://greenleaflab.github.io/HDMA/"
+  ],
+  "relevance_to_atlas": "HIGH. The atlas's noncoding-variant question is fundamentally about which fetal-brain regulatory elements matter and which TFs bind them. HDMA provides per-cell-type cCRE calls and ChromBPNet models for fetal tissue including brain, which is the developmental window most relevant to autism heritability (recall: 27/39 NDD genes have zero adult-brain eQTLs but several have prenatal-trending eQTLs in BrainVar). Direct application: lift Teagan-WGS noncoding variants over to HDMA cCREs and check whether any fall in cell-type-restricted fetal-brain cREs.",
+  "atlas_fit_questions": [
+    "Do Teagan-WGS noncoding variants overlap HDMA fetal-brain cCREs at higher rate than expected by chance?",
+    "Among the autism-associated NDD genes with prenatal-trending eQTLs (MECP2, EP300), which HDMA fetal-brain cell types show their cCREs as accessible?",
+    "Does the HDMA composite-motif syntax explain why some autism GWAS loci show stronger effects than others (i.e., are the strong-effect loci ones that disrupt cooperative motif pairs)?"
+  ],
+  "caveats": [
+    "Fetal tissue, not autism cases vs controls -- this is a reference resource, not a case-control dataset.",
+    "ChromBPNet predictions trained per cell type but inference still requires the same caveats as ChromBPNet generally (predicts accessibility, not transcription).",
+    "Dataset is large (~1M cCREs) -- multiple-testing burden is real if running variant-enrichment tests."
+  ],
+  "discovered": "2026-05-10 weekly scan",
+  "raw_capture_only": true,
+  "needs_followup": [
+    "Verify GitHub repo is the right one and that it's actively maintained",
+    "Pull the cCRE BED files from Zenodo and check overlap with current Teagan-WGS noncoding candidate list",
+    "Confirm whether the per-cell-type ChromBPNet models include any neuronal cell types relevant to autism"
+  ]
+}
