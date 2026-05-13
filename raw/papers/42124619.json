@@ -1,0 +1,36 @@
+{
+  "pmid": "42124619",
+  "doi": "10.64898/2026.02.24.707848",
+  "title": "Disruption of the SYNGAP1 PDZ ligand motif accelerates differentiation of human iPSC-derived GABAergic neurons.",
+  "authors": "Jiang J et al.",
+  "journal": "bioRxiv",
+  "date": "2026-02-25",
+  "abstract": "Human iPSC-derived GABAergic neurons with SYNGAP1 haploinsufficiency or PDZ ligand motif disruption show accelerated maturation: increased dendritic length, synaptic density, and structural maturation. Proteomic, phosphoproteomic and RNA-seq analyses show dysregulation of synaptic proteins, RNA processing, and transcriptional control. Demonstrates SYNGAP1 acts in inhibitory as well as excitatory neurons.",
+  "source": "biorxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "direct_autism": 7,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type": 5,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "SYNGAP1"
+  ],
+  "concepts": [
+    "SYNGAP1",
+    "GABAergic neurons",
+    "iPSC",
+    "PDZ ligand motif",
+    "alpha1 isoform",
+    "haploinsufficiency",
+    "accelerated neuronal differentiation"
+  ],
+  "methods": "iPSC-derived GABAergic neurons, proteomics, phosphoproteomics, RNA-seq",
+  "evidence_tier": "B",
+  "summary": "Human iPSC-derived GABAergic neurons with SYNGAP1 haploinsufficiency or PDZ ligand motif disruption show accelerated maturation: increased dendritic length, synaptic density, and structural maturation. Proteomic, phosphoproteomic and RNA-seq analyses show dysregulation of synaptic proteins, RNA proc",
+  "scan_timestamp": "2026-05-13T16:58:26.539835Z"
+}
