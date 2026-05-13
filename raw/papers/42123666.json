@@ -1,0 +1,33 @@
+{
+  "pmid": "42123666",
+  "doi": "10.3390/ijms27094086",
+  "title": "A De Novo Variant as a Candidate Driver in a Neurodevelopmental Disorder: Insights from Trio-Based Whole-Exome Sequencing.",
+  "authors": "Vinci M et al.",
+  "journal": "Int J Mol Sci",
+  "date": "2026-05-02",
+  "abstract": "Trio WES case report of a female with ASD level 1, borderline intellectual functioning, coordination disorder, and epilepsy. Identifies a de novo USP24 variant (c.3155G>T; p.Ser1052Ile) classified as likely pathogenic by ACMG. Two paternally inherited VUS in additional NDD-implicated genes. Authors support a cumulative variant model rather than strict monogenic causation.",
+  "source": "pubmed",
+  "relevance_score": 22,
+  "score_breakdown": {
+    "direct_autism": 8,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 3,
+    "novelty": 5,
+    "cell_type": 0,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "USP24",
+    "trio WES",
+    "de novo variant",
+    "autism-epilepsy comorbidity",
+    "cumulative variant model",
+    "VUS"
+  ],
+  "methods": "Trio whole-exome sequencing, ACMG classification, array-CGH",
+  "evidence_tier": "C",
+  "summary": "Trio WES case report of a female with ASD level 1, borderline intellectual functioning, coordination disorder, and epilepsy. Identifies a de novo USP24 variant (c.3155G>T; p.Ser1052Ile) classified as likely pathogenic by ACMG. Two paternally inherited VUS in additional NDD-implicated genes. Authors ",
+  "scan_timestamp": "2026-05-13T16:58:26.539835Z"
+}

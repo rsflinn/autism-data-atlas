@@ -279,3 +279,25 @@ Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages f
 ## Daily scan 2026-05-08
 - [42093631](findings/42093631.md) -- Glessner et al. 2026, *Brain*. CNV burden in GRM-interacting networks (DLG2, NRXN1, SHANK3, SYNGAP1) enriched in ADHD with comorbid NDDs vs. ADHD-only. (INTEGRATE, score 35)
 - [42100732](findings/42100732.md) -- Shadrina et al. 2026, *Front Neurosci*. CNTN6 review: CNV/GWAS associations across ASD, ID, TS, SCZ; cell adhesion / neurite guidance functions. (INTEGRATE, score 19)
+
+## Daily scan 2026-05-13
+
+### INTEGRATE (3 papers)
+- [42124619](findings/42124619.md) -- Jiang J et al. 2026, *bioRxiv*. SYNGAP1 PDZ ligand motif disruption accelerates iPSC-derived GABAergic neuron differentiation; extends SYNGAP1 phenotype to inhibitory neurons. (INTEGRATE, score 30) | Genes: SYNGAP1
+- [42123666](findings/42123666.md) -- Vinci M et al. 2026, *Int J Mol Sci*. Trio WES case report of ASD+epilepsy female; likely-pathogenic de novo USP24 variant plus 2 paternally inherited VUS; cumulative-variant model. (INTEGRATE, score 22)
+- [42125456](findings/42125456.md) -- Miyahara K et al. 2026, *Front Psychiatry*. Postmortem brain study tests ASD-PRS/ADHD-PRS against antipsychotic responsiveness in schizophrenia; trends did not survive multiple-testing correction. (INTEGRATE, score 22)
+
+### REVIEW (6 papers)
+- PMID 42119734 -- Rodulfo-Cardenas et al. 2026, *Neurotoxicology*. Postnatal PM exposure alters Grin2b/Reln expression in apoE3/apoE4 mice; sex- and genotype-dependent. (Score 14) | Genes: GRIN2B
+- PMID 42119900 -- Li et al. 2026, *Behav Brain Res*. LDSC+MR identifies TCF4 and DCC in shared MCP-MDD genetic architecture. (Score 13) | Genes: TCF4
+- PMID 42116390 -- Luo et al. 2026, *Medicine*. RCT of trampoline exercise vs resistance training reduces anxiety in mild-to-moderate ASD. (Score 13)
+- PMID 42125453 -- Wang et al. 2026, *Front Psychiatry*. Own-name ERP atypicalities in ASD toddlers. (Score 13)
+- PMID 42124397 -- Raji et al. 2026, *Autism Res*. Longitudinal eye-tracking visual search in ASD; lower accuracy at 3-year follow-up. (Score 12)
+- PMID 42119675 -- Koutourlou et al. 2026, *J Neurosci Methods*. Adapted in ovo RNAi protocol for chicken cerebellum NDD gene studies. (Score 10)
+
+### SKIP (1 paper)
+- PMID 42125771 -- Murtough et al. 2026, *Br J Clin Pharmacol*. ACKR1/Duffy-null clozapine pharmacogenomic guideline (not autism). (Score 4)
+
+### Notes
+- PubMed query "autism AND epilepsy AND (GABA OR glutamate OR ion channel) AND genetics" returned zero results in the 24-hour window.
+- bioRxiv/medRxiv direct API access was blocked in this run; preprint coverage limited to those indexed via PubMed (1 bioRxiv preprint captured: SYNGAP1 paper PMID 42124619).

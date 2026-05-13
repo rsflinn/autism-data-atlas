@@ -1,0 +1,33 @@
+{
+  "pmid": "42125456",
+  "doi": "10.3389/fpsyt.2026.1812198",
+  "title": "Genetic risk for neurodevelopmental disorders as a potential factor affecting antipsychotic responsiveness in schizophrenia: a postmortem brain study.",
+  "authors": "Miyahara K et al.",
+  "journal": "Front Psychiatry",
+  "date": "2026-04-27",
+  "abstract": "Postmortem brain GWAS analysis of 24 schizophrenia patients and 48 controls. Computed ADHD-PRS and ASD-PRS from public GWAS data. ARS of positive symptoms showed suggestive negative correlation with ADHD-PRS and positive correlation with ASD-PRS (did not survive multiple testing). 1,773 DEGs identified, enriched in neuronal system and mitochondrial pathways.",
+  "source": "pubmed",
+  "relevance_score": 22,
+  "score_breakdown": {
+    "direct_autism": 5,
+    "noncoding_regulatory": 6,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type": 1,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [],
+  "concepts": [
+    "polygenic risk score",
+    "ASD-PRS",
+    "ADHD-PRS",
+    "schizophrenia",
+    "postmortem brain",
+    "antipsychotic responsiveness"
+  ],
+  "methods": "GWAS, PRS calculation, postmortem brain RNA-seq, pathway analysis",
+  "evidence_tier": "C",
+  "summary": "Postmortem brain GWAS analysis of 24 schizophrenia patients and 48 controls. Computed ADHD-PRS and ASD-PRS from public GWAS data. ARS of positive symptoms showed suggestive negative correlation with ADHD-PRS and positive correlation with ASD-PRS (did not survive multiple testing). 1,773 DEGs identif",
+  "scan_timestamp": "2026-05-13T16:58:26.539835Z"
+}
