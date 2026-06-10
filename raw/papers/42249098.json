@@ -1,0 +1,23 @@
+{
+  "pmid": "42249098",
+  "title": "Developmental CA2 perineuronal net reduction restores social memory in Shank3 mutant mice.",
+  "authors": "Diethorn et al.",
+  "journal": "Commun Biol",
+  "date": "2026-06-05",
+  "abstract": "Shank3B knockout mice show developmental and persistent short-term social recognition deficits with CA2 network aberrations. Developing CA2 shows excessive perineuronal nets (PNNs), greater semaphorin-3A sequestration and afferent overgrowth. Reducing PNN levels restores semaphorin-3A, afferent input and social recognition into adulthood and partially normalizes CA2 activity.",
+  "source": "pubmed",
+  "relevance_score": 25,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 1,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1038/s42003-026-10338-1",
+  "genes_mentioned": [
+    "SHANK3"
+  ]
+}

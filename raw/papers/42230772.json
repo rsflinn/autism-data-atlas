@@ -1,0 +1,20 @@
+{
+  "pmid": "42230772",
+  "doi": "10.1038/s41588-026-02601-2",
+  "title": "Estimation of direct and indirect polygenic effects and gene-environment interactions using polygenic scores in case-parent trio studies.",
+  "authors": "Wang Z et al.",
+  "journal": "Nat Genet",
+  "date": "2026-06-02",
+  "abstract": "PGS-TRI, a framework for analyzing polygenic scores (PGSs) in case-parent trio studies that estimates risk associated with direct PGS effects, gene-environment interactions and asymmetrical maternal and paternal indirect effects. Applied to multi-ancestry ASD trios (n=18,383), it yielded transmission-based direct effects of PGSs for ASD and other neurocognitive traits along a genetic ancestry continuum, and identified asymmetrical indirect effects of parental PGSs for BMI and neurocognitive traits on children's ASD risk.",
+  "source": "pubmed",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "direct_autism": 9,
+    "noncoding_regulatory": 6,
+    "dataset": 7,
+    "novelty": 8,
+    "cell_type": 0,
+    "phenotype": 2
+  },
+  "decision": "INTEGRATE"
+}

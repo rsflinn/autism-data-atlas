@@ -1,0 +1,45 @@
+{
+  "pmid": "42168661",
+  "title": "MSL2 disruption leads to autism-like behaviors, impairs neurogenesis, and alters histone H4K16 acetylation.",
+  "authors": [
+    "Luo S",
+    "Qu S",
+    "Tan S",
+    "Song Z",
+    "Lv Y",
+    "Jia X",
+    "Tan J",
+    "Chen G",
+    "Guo H",
+    "Xia K"
+  ],
+  "journal": "Cell Mol Life Sci",
+  "date": "2026-05-22",
+  "abstract": "Neurodevelopmental disorders (NDDs) are frequently associated with dysregulation of epigenetic mechanisms. Recent studies have implicated variants in components of the Male-Specific Lethal (MSL) complex, including MSL2, in NDD pathogenesis. Using a nervous system-specific Msl2 conditional knockout mouse model, we demonstrate that Msl2 deficiency leads to impaired social novelty recognition, learning deficits, and spatial memory impairments. These behavioral abnormalities are characterized by disrupted neocortical lamination, compromised proliferation capacity and differentiative ability of neural progenitor cells, and reduced neuronal migration. Mechanistically, Msl2-deficient brains exhibit significantly reduced levels of histone H4 lysine 16 acetylation (H4K16ac), particularly at promoter regions. Integrated RNA-seq, ChIP-seq, and ATAC-seq analyses revealed widespread transcriptional downregulation and loss of chromatin accessibility at NDD-related genes. Variants in the MSL2 DNA-binding domain disrupted its ability to target key regulatory genes including FMR1.",
+  "source": "pubmed",
+  "relevance_score": 36,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1007/s00018-026-06237-7",
+  "genes_mentioned": [
+    "MSL2",
+    "FMR1"
+  ],
+  "concepts": [
+    "chromatin accessibility",
+    "histone acetylation",
+    "H4K16ac",
+    "promoter regulation",
+    "RNA-seq",
+    "ChIP-seq",
+    "ATAC-seq",
+    "conditional knockout"
+  ]
+}

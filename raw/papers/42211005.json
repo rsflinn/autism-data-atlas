@@ -1,0 +1,34 @@
+{
+  "pmid": "42211005",
+  "title": "Region-specific microglial alterations in the acoustic startle circuit in Shank3 mice.",
+  "authors": [
+    "Ren X",
+    "Havekes R",
+    "Kas MJH"
+  ],
+  "journal": "Biochem Biophys Rep",
+  "date": "2026-05-18",
+  "abstract": "Immunofluorescence of Shank3 knockout vs wild-type mice across six auditory/tactile regions found a 39% IBA1 increase in central amygdala (p=0.01) and 13% higher microglial density in caudal pontine reticular nucleus (p=0.02), without robust morphological activation or CD68 change, suggesting circuit-dependent microglial alterations.",
+  "source": "pubmed",
+  "relevance_score": 18,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1016/j.bbrep.2026.102633",
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "concepts": [
+    "microglia",
+    "acoustic startle circuit",
+    "sensory processing",
+    "Shank3 knockout",
+    "region-specific"
+  ]
+}

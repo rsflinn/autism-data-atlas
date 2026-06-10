@@ -1,0 +1,49 @@
+{
+  "pmid": "42169156",
+  "title": "Histone H1 variants regulate neurodevelopmental transcriptional programs in autism with 16p11.2 deletion.",
+  "authors": [
+    "Brudno R",
+    "Askayo D",
+    "Khair D",
+    "Shayevitch R",
+    "Keydar I",
+    "Zmudjak-Olevson M",
+    "Lev-Maor G",
+    "Zavolan M",
+    "Elkon R",
+    "Ast G"
+  ],
+  "journal": "Genome Biol",
+  "date": "2026-05-21",
+  "abstract": "Neurodevelopmental disorders, including autism spectrum disorder, involve widespread transcriptional dysregulation. Copy number variations at 16p11.2 are among the strongest genetic risk factors for autism spectrum disorder. We identify significant genetic associations between autism spectrum disorder susceptibility and the HIST1 histone gene cluster through genome-wide analysis. Transcriptomic profiling across post-mortem brain tissue, patient-derived neural progenitor cells, neurons, and cerebral organoids reveals consistent upregulation of linker histone variants H1.2 and H1.5 in idiopathic autism spectrum disorder and 16p11.2 hemi-deletion carriers, but not in schizophrenia or bipolar disorder. We link H1 upregulation to MAZ, a transcription factor encoded within the 16p11.2 locus. MAZ binds the promoter regions of H1 genes and represses their transcription. Knockdown of MAZ leads to H1 overexpression. H1 upregulation alone is sufficient to alter the expression of autism spectrum disorder-associated genes.",
+  "source": "pubmed",
+  "relevance_score": 43,
+  "score_breakdown": {
+    "autism_relevance": 10,
+    "noncoding_regulatory": 9,
+    "dataset_availability": 9,
+    "novelty": 8,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1186/s13059-026-04084-0",
+  "genes_mentioned": [
+    "MAZ",
+    "H1.2",
+    "H1.5",
+    "HIST1"
+  ],
+  "concepts": [
+    "16p11.2 deletion",
+    "CNV",
+    "histone H1",
+    "chromatin remodeling",
+    "transcription factor",
+    "promoter binding",
+    "GWAS",
+    "post-mortem brain",
+    "iPSC",
+    "organoids"
+  ]
+}

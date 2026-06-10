@@ -1,0 +1,38 @@
+{
+  "pmid": "42212598",
+  "title": "Childhood trauma as a mediator between autistic traits and depression: Evidence from the ALSPAC birth cohort.",
+  "authors": [
+    "Underwood JFG",
+    "Madley-Dowd P",
+    "Dardani C",
+    "Hull L",
+    "Kwong ASF",
+    "Pearson RM",
+    "Hall J",
+    "Rai D"
+  ],
+  "journal": "Psychol Med",
+  "date": "2026-05-29",
+  "abstract": "Using ALSPAC (up to 9,659 individuals followed to age 28) with autism diagnosis, autism polygenic score, and trait measures, all autism variables showed increased depression trajectories ages 10-28. Social communication difficulties most strongly predicted adult depression; trauma and autistic traits combined additively. Mediation showed direct and trauma-mediated pathways.",
+  "source": "pubmed",
+  "relevance_score": 25,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 4,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1017/S0033291726104267",
+  "genes_mentioned": [],
+  "concepts": [
+    "autism polygenic score",
+    "common variant liability",
+    "ALSPAC birth cohort",
+    "autistic traits",
+    "gene-environment",
+    "depression trajectories"
+  ]
+}

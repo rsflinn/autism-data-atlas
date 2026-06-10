@@ -1,0 +1,20 @@
+{
+  "pmid": "42227234",
+  "doi": "10.1016/j.gim.2026.102615",
+  "title": "ACMG/AMP variant classification specifications from the ClinGen Epilepsy Sodium Channel Variant Curation Expert Panel.",
+  "authors": "Smith L et al.",
+  "journal": "Genet Med",
+  "date": "2026-06-01",
+  "abstract": "ClinGen Variant Curation Expert Panel adapted ACMG/AMP sequence-variant classification rules for SCN1A, SCN2A, SCN3A, SCN8A and SCN1B, piloting modified criteria on 37 variants across missense, nonsense, frameshift and intronic types. Specifications emphasize epilepsy-syndrome phenotyping, optimized population thresholds (BS1/BA1), paralog-based criteria (PS1/PM5) and functional-data interpretation (PS3).",
+  "source": "pubmed",
+  "relevance_score": 18,
+  "score_breakdown": {
+    "direct_autism": 5,
+    "noncoding_regulatory": 1,
+    "dataset": 3,
+    "novelty": 4,
+    "cell_type": 0,
+    "phenotype": 5
+  },
+  "decision": "INTEGRATE"
+}

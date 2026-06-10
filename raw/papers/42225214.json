@@ -1,0 +1,20 @@
+{
+  "pmid": "42225214",
+  "doi": "10.1016/j.nbd.2026.107465",
+  "title": "Maternal anti-collapsin response mediator protein 1 antibody inducing autism-like behaviors in offspring.",
+  "authors": "Pan Y et al.",
+  "journal": "Neurobiol Dis",
+  "date": "2026-05-31",
+  "abstract": "Maternal anti-CRMP1 antibody persisted through gestation and was detected in offspring; exposed offspring showed delayed milestones and repetitive/stereotyped behaviors. Cortex transcriptomics on P30 showed downregulation of axon guidance and presynaptic membrane organization pathways; genes for presynaptic membrane organization (Nrxn1, Pten, Ptprd, Nlgn1) were significantly reduced. Anti-CRMP1 induced growth cone collapse in iPSC-derived immature neurons.",
+  "source": "pubmed",
+  "relevance_score": 24,
+  "score_breakdown": {
+    "direct_autism": 8,
+    "noncoding_regulatory": 1,
+    "dataset": 4,
+    "novelty": 5,
+    "cell_type": 3,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE"
+}

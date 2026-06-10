@@ -1,0 +1,23 @@
+{
+  "pmid": "42245117",
+  "title": "Linking chemical data from the Comparative Toxicogenomics Database with adverse outcome pathways from the AOP-Wiki: a mechanistic data-oriented approach to help inform environmental health.",
+  "authors": "Davis et al.",
+  "journal": "F1000Research",
+  "date": "2026-04-27",
+  "abstract": "Intersecting Comparative Toxicogenomics Database (CTD) content with the autism adverse outcome pathway (AOP) in AOP-Wiki identifies environmental chemicals (bisphenols, PFAS, pesticides, metals, air pollutants) that could modulate autism key events. Integration of bisphenol A, particulate matter and valproic acid content surfaces specific genes (SLC1A1, GSTP1, CNTNAP2) and phenotypes (lipid metabolism, inflammatory response, social behavior), linking autism to fatty liver disease, intellectual disability and cancer.",
+  "source": "pubmed",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 6,
+    "novelty": 4,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.12688/f1000research.172567.2",
+  "genes_mentioned": [
+    "CNTNAP2"
+  ]
+}

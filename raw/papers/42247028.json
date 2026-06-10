@@ -1,0 +1,21 @@
+{
+  "pmid": "42247028",
+  "title": "Neurobehavioral Impacts of the Autism Risk Gene, WAC: Studies Involving C. elegans and Mice.",
+  "authors": "Boonpraman et al.",
+  "journal": "Mol Neurobiol",
+  "date": "2026-06-05",
+  "abstract": "WAC deletion in C. elegans and mice alters multiple neurotransmitter-associated behaviors. Mutant worms show enhanced cholinergic transmission via increased nicotinic acetylcholine receptor activity, reduced motility and dopamine-associated behaviors. Wac mice show an inverse correlation between Wac mRNA and CHRNA7. WAC is linked to DeSanto-Shinawi syndrome and proposed as an ASD risk gene.",
+  "source": "pubmed",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 1,
+    "novelty": 5,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1007/s12035-026-05964-z",
+  "genes_mentioned": []
+}

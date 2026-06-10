@@ -1,0 +1,21 @@
+{
+  "pmid": "42244570",
+  "title": "The Regional Vulnerability Index (RVI) as a Neuroimaging-Based Biomarker for Autism: Associations with Likelihood, Cognition, and Longitudinal Social Outcomes.",
+  "authors": "Pagan et al.",
+  "journal": "bioRxiv",
+  "date": "2026-05-26",
+  "abstract": "The Regional Vulnerability Index (RVI-ASD) combines ENIGMA-ASD regional effect sizes with COCORO white-matter microstructure to quantify how closely an individual brain resembles the autism pattern. RVI-ASD showed larger case-control effect size (d=0.30) than any single brain measure (N=2,577). In ABCD (N=4,201) it was stable (ICC=0.76-0.92), heritable (h2=0.55-0.83), correlated positively with paternal age, negatively with intelligence, and tracked core autism phenotypes and longitudinal social functioning.",
+  "source": "biorxiv",
+  "relevance_score": 29,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.64898/2026.05.19.726341",
+  "genes_mentioned": []
+}

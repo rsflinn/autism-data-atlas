@@ -1,0 +1,23 @@
+{
+  "pmid": "42246027",
+  "title": "CDKL5 deficiency results in atypical subregion-specific expression of perineuronal nets during mouse visual critical period.",
+  "authors": "Emery et al.",
+  "journal": "Front Neurosci",
+  "date": "2026-05-20",
+  "abstract": "Whole-V1 characterization of perineuronal net (PNN) expression in a CDKL5-null male mouse during the visual critical period shows subregion-specific changes: decreased PNNs in monocular V1 and increased high-intensity PNNs in binocular V1 at P30, and increased WFA intensity across all three subregions at P15, indicating precocious altered PNN expression. PNN density is highest in the binocular zone in both genotypes.",
+  "source": "pubmed",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 1,
+    "novelty": 5,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.3389/fnins.2026.1769195",
+  "genes_mentioned": [
+    "CDKL5"
+  ]
+}

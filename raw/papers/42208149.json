@@ -1,0 +1,46 @@
+{
+  "pmid": "42208149",
+  "title": "An Adnp frameshift variant disrupts Wnt signalling inducing chromatocytoskeletal defects and autism-related behaviour in male mice.",
+  "authors": [
+    "D'Incal CP",
+    "Cappuyns E",
+    "Paldi F",
+    "van der Lei MB",
+    "Annear DJ",
+    "Alastruey CM",
+    "Sokolova D",
+    "Pasciuto E",
+    "Vanden Berghe W",
+    "Kooy RF"
+  ],
+  "journal": "EBioMedicine",
+  "date": "2026-05-28",
+  "abstract": "Heterozygous de novo variants in ADNP cause Helsmoortel-Van der Aa syndrome (HVDAS). A CRISPR 14-bp deletion (p.Leu822Hisfs*6) Adnp mouse model reduced Adnp levels and chromatin association, with a genome-wide increase in chromatin accessibility (ATAC-seq), downregulation of Wnt signalling (RNA-seq), locus-specific 3D genome changes (Hi-C), disrupted Camk2a/Dbn1 interactions, synaptic deficits, and autism-related behaviour.",
+  "source": "pubmed",
+  "relevance_score": 41,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 8,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 5
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1016/j.ebiom.2026.106309",
+  "genes_mentioned": [
+    "ADNP",
+    "CAMK2A",
+    "DBN1"
+  ],
+  "concepts": [
+    "chromatin accessibility",
+    "ATAC-seq",
+    "Hi-C",
+    "3D genome architecture",
+    "Wnt signalling",
+    "de novo frameshift",
+    "mouse model",
+    "synaptic plasticity"
+  ]
+}

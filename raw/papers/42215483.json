@@ -1,0 +1,47 @@
+{
+  "pmid": "42215483",
+  "title": "Glycine-modulating Slc6a20a-ASO restores NMDA receptor function in SHANK2 and SHANK3-mutant mice and cortical organoids.",
+  "authors": [
+    "Roh JD",
+    "Bae M",
+    "Oh Y",
+    "Yang Y",
+    "Lee S",
+    "Hwang WC",
+    "Yang E",
+    "Kim H",
+    "Jang H",
+    "Choi HW",
+    "Kim H",
+    "Kim JY",
+    "Kim E"
+  ],
+  "journal": "Nat Commun",
+  "date": "2026-05-29",
+  "abstract": "Antisense oligonucleotide inhibition of the glycine transporter Slc6a20a normalizes ASD-related phenotypes in Shank2- and Shank3-mutant mice, rescuing NMDAR hypofunction and synaptic phospho-proteomic profiles in prefrontal cortex. Human SLC6A20-targeting ASO rescues NMDAR function in SHANK2/SHANK3-mutant cortical organoids.",
+  "source": "pubmed",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1038/s41467-026-73881-9",
+  "genes_mentioned": [
+    "SHANK3",
+    "SHANK2",
+    "SLC6A20"
+  ],
+  "concepts": [
+    "NMDAR hypofunction",
+    "antisense oligonucleotide",
+    "glycine transporter",
+    "cortical organoids",
+    "phospho-proteomics",
+    "prefrontal cortex"
+  ]
+}

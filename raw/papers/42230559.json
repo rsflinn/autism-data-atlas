@@ -1,0 +1,20 @@
+{
+  "pmid": "42230559",
+  "doi": "10.1038/s41398-026-04124-0",
+  "title": "Dup15q model mice exhibit impaired gastrointestinal motility and a constipation-like phenotype, alleviated by prucalopride.",
+  "authors": "Balasuriya GK et al.",
+  "journal": "Transl Psychiatry",
+  "date": "2026-06-02",
+  "abstract": "Dup15q (15q11.2-q13 duplication) is an ASD-linked CNV encoding GABA-A receptor subunits. 15q dup mice showed elevated colonic GABA receptor gene expression, reduced Tph2/Htr4, delayed GI transit and slower colonic motility; the GABA-A antagonist bicuculline worsened contractions. The 5-HT4 agonist prucalopride restored GI transit and improved social interaction.",
+  "source": "pubmed",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "direct_autism": 7,
+    "noncoding_regulatory": 2,
+    "dataset": 3,
+    "novelty": 4,
+    "cell_type": 2,
+    "phenotype": 3
+  },
+  "decision": "INTEGRATE"
+}

@@ -301,3 +301,47 @@ Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages f
 ### Notes
 - PubMed query "autism AND epilepsy AND (GABA OR glutamate OR ion channel) AND genetics" returned zero results in the 24-hour window.
 - bioRxiv/medRxiv direct API access was blocked in this run; preprint coverage limited to those indexed via PubMed (1 bioRxiv preprint captured: SYNGAP1 paper PMID 42124619).
+
+## Daily scan 2026-06-03
+
+### INTEGRATE (4 papers)
+- [42230772](findings/42230772.md) -- Wang Z et al. 2026, *Nat Genet*. PGS-TRI separates direct vs parental-indirect polygenic effects in 18,383 multi-ancestry ASD trios; core to the common-variant/polygenic architecture model. (INTEGRATE, score 32)
+- [42225214](findings/42225214.md) -- Pan Y et al. 2026, *Neurobiol Dis*. Maternal anti-CRMP1 antibody yields ASD-like behavior and downregulates presynaptic genes incl. Nrxn1, Pten. (INTEGRATE, score 24) | Genes: NRXN1, PTEN
+- [42230559](findings/42230559.md) -- Balasuriya GK et al. 2026, *Transl Psychiatry*. Dup15q mouse model: GI dysmotility + elevated colonic GABA-receptor expression; prucalopride rescues transit and social behavior. (INTEGRATE, score 21) | Genes: GABRB3
+- [42227234](findings/42227234.md) -- Smith L et al. 2026, *Genet Med*. ClinGen ACMG/AMP variant-classification rules for sodium-channel genes (SCN1A/2A/3A/8A/1B) across the epilepsy-NDD spectrum. (INTEGRATE, score 18) | Genes: SCN1A, SCN2A, SCN8A
+
+### REVIEW (1 papers)
+- PMID 42229218 -- Choi MJ et al. 2026, *Asian J Psychiatr*. Korean bipolar GWAS; lead intronic SLC25A12 hit previously ASD-implicated, SMR flags lncRNA DLX2-AS1. Cross-disorder/noncoding angle only. (Score 13)
+
+### SKIP (4 papers)
+- PMID 42228364 -- Overton GL et al. 2026, *Int J Qual Stud Health Well-being*. Qualitative study of autistic self-identification; no molecular content. (Score 8)
+- PMID 42226198 -- Lee HJ et al. 2026, *Mol Brain*. Abemaciclib improves memory via DYRK1A in a tauopathy/AD model; DYRK1A in set but context is neurodegeneration. (Score 9)
+- PMID 42232052 -- Ribeiro-Constante J et al. 2026, *Front Cell Dev Biol*. Erratum to a SYNGAP1 EEG paper; no new data. (Score 4)
+- PMID 20301534 -- Old GeneReviews PMID surfaced by entry-date filter; no metadata; not a new study. (Score 5)
+
+### Notes
+- PubMed query "autism AND epilepsy AND (GABA OR glutamate OR ion channel) AND genetics" returned zero results in the 24-hour window.
+- bioRxiv/medRxiv preprint coverage unavailable this run: no preprint MCP tool connected and the bioRxiv details API is blocked by the fetch provenance restriction. No preprints captured. Same limitation logged on prior scans.
+- 9 PubMed records scored (4 INTEGRATE, 1 REVIEW, 4 SKIP).
+
+## Daily scan 2026-06-06
+
+
+### INTEGRATE (5 papers)
+- [42244570](findings/42244570.md) -- Pagan et al. 2026, *bioRxiv*. RVI-ASD combines ENIGMA-ASD and COCORO patterns into a heritable (h2=0.55-0.83), stable brain biomarker validated in ABCD (N=4,201); tracks cognition, paternal age and longitudinal social outcomes. Imaging-genetics, no variant data. (INTEGRATE, score 29)
+- [42249098](findings/42249098.md) -- Diethorn et al. 2026, *Commun Biol*. Shank3B KO mice form excessive CA2 perineuronal nets in development; reducing them restores afferent input and social recognition into adulthood. Cell-type-specific SHANK3 mechanism with a reversible intervention angle. (INTEGRATE, score 25) | Genes: SHANK3
+- [42245117](findings/42245117.md) -- Davis et al. 2026, *F1000Research*. Intersecting the CTD with the AOP-Wiki autism pathway flags environmental chemicals and genes (incl. CNTNAP2) that may modulate autism key events. Gene-environment/method paper, no variant-level data. (INTEGRATE, score 19) | Genes: CNTNAP2
+- [42246027](findings/42246027.md) -- Emery et al. 2026, *Front Neurosci*. CDKL5-null mice show precocious, subregion-specific perineuronal net changes across visual cortex during the critical period. Cell-type-resolved CDKL5 mechanism relevant to cortical visual impairment. (INTEGRATE, score 19) | Genes: CDKL5
+- [42247028](findings/42247028.md) -- Boonpraman et al. 2026, *Mol Neurobiol*. WAC deletion in worms and mice alters cholinergic, dopaminergic and motility behaviors; enhanced nicotinic receptor activity and an inverse Wac-CHRNA7 relationship in cortex. Mechanism for an ASD risk gene, no variant-level data. (INTEGRATE, score 17)
+
+### REVIEW (1 paper)
+- PMID 42245995 -- Baumeister et al. 2026, *Open Mind (Camb)*. Higher second-language proficiency was associated with better executive function in autistic and neurotypical children (Bayesian modeling, n=430). Behavioral/cognitive, no genetics. (Score 11)
+
+### SKIP (2 papers)
+- PMID 42249383 -- Cao et al. 2026, *BMC Med Educ*. Dental-education service-learning study; no molecular or genetic content. (Score 4)
+- PMID 42249078 -- Chen et al. 2026, *Neuropsychopharmacology*. Opioid-withdrawal circuit study (vlPAG GABAergic neurons); autism connection is only an author affiliation. No autism-genetics content. (Score 5)
+
+### Notes
+- PubMed queries "autism AND (GWAS OR whole genome sequencing OR polygenic)" and "autism AND epilepsy AND (GABA OR glutamate OR ion channel) AND genetics" returned zero results in the 24-hour window.
+- No dedicated bioRxiv/medRxiv preprint MCP tool was connected this run; preprint coverage limited to those indexed via PubMed (1 bioRxiv preprint captured: RVI biomarker PMID 42244570).
+- 8 PubMed records scored (5 INTEGRATE, 1 REVIEW, 2 SKIP).
