@@ -1,0 +1,40 @@
+{
+  "pmid": "42286492",
+  "doi": "10.1186/s12888-026-08263-y",
+  "title": "Diversity of molecular karyotypes of 234 pediatric patients with autism spectrum disorder in chromosomal microarray analysis.",
+  "authors": "Reka et al.",
+  "journal": "BMC Psychiatry",
+  "date": "2026-06-12",
+  "abstract": "Retrospective CMA (CytoScan 750K and XON, hg19) on 234 children with ASD. Normal karyotype in 58.97%; single duplications 14.53%, single deletions 11.97%, multiple CNVs 12.82%. Diagnostic yield for pathogenic/likely-pathogenic CNVs 8.55%. Recurrent loci included 15q13.3 (OTUD7A, CHRNA7), 15q11.2 (NIPA1/2, CYFIP1, TUBGCP5), 22q11.21, 11q23.3 (KMT2A, TMEM25) and others. Hierarchical clustering separated three subgroups by VUS vs pathogenic burden. Replicates previously established ASD-associated CNV loci in an independent clinical cohort.",
+  "source": "pubmed",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "direct_autism": 8,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type": 0,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "KMT2A",
+    "CYFIP1",
+    "NIPA1",
+    "NIPA2",
+    "CHRNA7",
+    "OTUD7A",
+    "PRDM16"
+  ],
+  "concepts": [
+    "copy number variants",
+    "chromosomal microarray",
+    "dosage sensitivity",
+    "structural variants",
+    "recurrent CNV loci"
+  ],
+  "methods": "Chromosomal microarray (CytoScan 750K, XON; hg19) on 234 ASD children; hierarchical clustering on principal components.",
+  "evidence_tier": "B",
+  "summary": "CMA on 234 pediatric ASD cases; pathogenic/likely-pathogenic CNV yield 8.55%, replicating known ASD CNV loci (15q13.3, 15q11.2, 22q11.21) in an independent cohort. KMT2A (49-gene set) sits in a recurrent 11q23.3 duplication. Structural/dosage data relevant to the atlas; standard clinical CMA, no cell-type resolution.",
+  "scan_timestamp": "2026-06-13T13:40:15.787700Z"
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "42277197",
+  "doi": "10.1038/s41598-026-57345-0",
+  "title": "Phosphoproteomic profiling reveals reversal of dysregulated kinase signaling by nitric oxide inhibition in the Shank3 mouse model of autism.",
+  "authors": "Ginzburg et al.",
+  "journal": "Sci Rep",
+  "date": "2026-06-11",
+  "abstract": "Global proteome and phosphoproteome of cortical tissue in the Shank3 mouse model of ASD. Shank3 KO vs WT showed altered phosphorylation in synaptic, developmental and RNA-metabolism proteins. Treatment with the nNOS inhibitor 7-nitroindazole reversed phosphorylation changes in the same processes, linking nitric oxide signaling to phosphorylation. Several SFARI high-risk gene products showed altered phosphorylation reversed by NO inhibition.",
+  "source": "pubmed",
+  "relevance_score": 18,
+  "score_breakdown": {
+    "direct_autism": 7,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 4,
+    "novelty": 4,
+    "cell_type": 1,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "concepts": [
+    "phosphoproteomics",
+    "nitric oxide signaling",
+    "kinase signaling",
+    "postsynaptic density",
+    "SFARI genes"
+  ],
+  "methods": "Proteome/phosphoproteome mass spectrometry of Shank3 KO mouse cortex +/- nNOS inhibitor; systems-biology pathway analysis.",
+  "evidence_tier": "B",
+  "summary": "Phosphoproteomics of Shank3 KO mouse cortex shows altered phosphorylation across synaptic and RNA-metabolism proteins, partly reversed by nNOS inhibition. Touches SHANK3 (49-gene set) and SFARI high-risk genes at the protein level. Mechanism/therapeutic-target work, not variant-level; mouse model only.",
+  "scan_timestamp": "2026-06-13T13:40:15.787700Z"
+}

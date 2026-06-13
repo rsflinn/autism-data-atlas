@@ -345,3 +345,10 @@ Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages f
 - PubMed queries "autism AND (GWAS OR whole genome sequencing OR polygenic)" and "autism AND epilepsy AND (GABA OR glutamate OR ion channel) AND genetics" returned zero results in the 24-hour window.
 - No dedicated bioRxiv/medRxiv preprint MCP tool was connected this run; preprint coverage limited to those indexed via PubMed (1 bioRxiv preprint captured: RVI biomarker PMID 42244570).
 - 8 PubMed records scored (5 INTEGRATE, 1 REVIEW, 2 SKIP).
+
+## Daily Scan -- 2026-06-13 (INTEGRATE)
+
+- [Non-coding regulatory variants disrupt CTCF domains in ASD](./findings/42281968.md) -- Dominguez-Alonso et al., Res Sq; targeted seq of 85,394 cCREs in 200 coding-negative ASD trios; de novo variants enrich at promoters/CTCF boundaries and hit dynamically expressed genes (POGZ, NFIB, ROCK2) (score 40)
+- [Chromosomal microarray karyotypes of 234 pediatric ASD patients](./findings/42286492.md) -- Reka et al., BMC Psychiatry; CNV yield 8.55%, replicates known ASD CNV loci; KMT2A in a recurrent 11q23.3 duplication (score 20)
+- [Phosphoproteomics of the Shank3 mouse, reversed by NO inhibition](./findings/42277197.md) -- Ginzburg et al., Sci Rep; SHANK3 KO phosphoproteome and SFARI-gene phosphorylation changes reversed by nNOS inhibitor (score 18)
+- [Nucleus accumbens ensembles drive social avoidance in a Shank3 model](./findings/42282578.md) -- Folkes et al., bioRxiv; SHANK3 NAc social ensembles encode avoidance; silencing restores social investigation (score 17)

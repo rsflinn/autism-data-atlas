@@ -1,0 +1,35 @@
+{
+  "pmid": "42282578",
+  "doi": "10.64898/2026.06.04.730003",
+  "title": "Social Novelty Recruits a Dysfunctional Nucleus Accumbens Ensemble That Drives Social Avoidance in a Shank3 Autism Model.",
+  "authors": "Folkes et al.",
+  "journal": "bioRxiv",
+  "date": "2026-06-05",
+  "abstract": "Using the Shank3 mouse model (Jiang lab), nucleus accumbens (NAc) social ensembles were characterized with activity-dependent capture, chemogenetics, optogenetics and one-photon calcium imaging. NAc social ensembles encode appetitive cues in WT but avoidance in Shank3 mutants; mutant NAc neurons are hyperactive and hyper-modulated by social novelty. Suppressing ensemble activity during social novelty prevented future social avoidance and restored social investigation. (Abstract text had gene-name redaction artifacts; model gene is SHANK3.)",
+  "source": "biorxiv",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "direct_autism": 7,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 1,
+    "novelty": 4,
+    "cell_type": 3,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "SHANK3"
+  ],
+  "concepts": [
+    "nucleus accumbens",
+    "neuronal ensembles",
+    "social novelty",
+    "calcium imaging",
+    "chemogenetics",
+    "optogenetics"
+  ],
+  "methods": "Activity-dependent neuronal capture, chemo/optogenetics, one-photon calcium imaging in Shank3 mouse NAc.",
+  "evidence_tier": "C",
+  "summary": "In a Shank3 mouse model, nucleus accumbens social ensembles encode social avoidance rather than approach, and silencing them during social novelty restores social investigation. Cell-ensemble-resolved circuit mechanism for SHANK3 (49-gene set). Descriptive mechanism, no variant data; abstract had gene-name redaction artifacts.",
+  "scan_timestamp": "2026-06-13T13:40:15.787700Z"
+}

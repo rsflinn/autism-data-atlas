@@ -1,0 +1,42 @@
+{
+  "pmid": "42281968",
+  "doi": "10.21203/rs.3.rs-9650619/v1",
+  "title": "Non-coding Regulatory Variants in ASD (Autism Spectrum Disorders) Disrupt CTCF Domains and Shape Cell-Type-Specific Neurodevelopmental Landscapes Revealed by Single-Cell Analyses and Cortical Organoids.",
+  "authors": "Dominguez-Alonso et al.",
+  "journal": "Res Sq",
+  "date": "2026-06-05",
+  "abstract": "Targeted sequencing of 85,394 active cCREs (ENCODE v2) in 600 samples (200 trios) negative for pathogenic coding variants. Sei-predicted regulatory impact scores for de novo and ultra-rare inherited variants; target genes mapped with T-Gene. 164 de novo variants in 103 probands and 53,023 ultra-rare inherited variants. De novo variants enriched in promoter-like sequences (p=0.02), 53.19% affecting CTCF boundaries; inherited variants enriched for CTCF-binding loss (p=1.55e-8) with maternal transmission bias. snRNA-seq (ASD/control brains) and Cortical Organoid Atlas profiling showed de novo target genes (POGZ, ROCK2, NFIB) with dynamic, cell-type- and stage-specific expression vs constitutive expression of inherited target genes (SYNJ2, UBC, CLU, DLC1). De novo regulatory target genes overlap known ASD coding-risk genes (POGZ, NFIB).",
+  "source": "pubmed",
+  "relevance_score": 40,
+  "score_breakdown": {
+    "direct_autism": 9,
+    "noncoding_regulatory": 10,
+    "dataset_availability": 6,
+    "novelty": 8,
+    "cell_type": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "POGZ",
+    "NFIB",
+    "ROCK2",
+    "SYNJ2",
+    "UBC",
+    "CLU",
+    "DLC1"
+  ],
+  "concepts": [
+    "noncoding regulatory variants",
+    "CTCF domains",
+    "candidate cis-regulatory elements (cCRE)",
+    "Sei deep learning",
+    "cortical organoids",
+    "single-cell transcriptomics",
+    "de novo vs inherited variants"
+  ],
+  "methods": "Targeted sequencing of 85,394 ENCODE cCREs in 200 trios; Sei regulatory-impact prediction; T-Gene target mapping; snRNA-seq (64 brains) and Cortical Organoid Atlas scRNA-seq.",
+  "evidence_tier": "B",
+  "summary": "Targeted sequencing of 85,394 regulatory elements in 200 coding-negative ASD trios. De novo regulatory variants concentrate in promoters and CTCF boundaries and map to dynamically expressed genes (POGZ, NFIB, ROCK2) that overlap known ASD coding-risk genes; inherited variants hit CTCF-binding sites and constitutively expressed genes. Directly on-target for the atlas: a coding-negative cohort, regulatory-variant focus, and cell-type/stage-resolved expression. Association-level, preprint, not independently validated.",
+  "scan_timestamp": "2026-06-13T13:40:15.787700Z"
+}
