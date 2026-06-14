@@ -18,6 +18,7 @@ Master index of all wiki pages with one-line summaries.
 - [SHANK3](./genes/SHANK3.md) -- Postsynaptic scaffolding protein; loss-of-function causes Phelan-McDermid syndrome with 80% autism penetrance
 - [CHD8](./genes/CHD8.md) -- Chromatin remodeler; haploinsufficiency causes syndromic autism with macrocephaly and distinctive facial features
 - [DYRK1A](./genes/DYRK1A.md) -- Developmental kinase; loss-of-function causes DYRK1A syndrome with intellectual disability and autism
+- [RFX3](./genes/RFX3.md) -- Transcription factor; autism-risk gene (exome burden FDR 3e-7) acting as a regulatory hub that enhances CREB binding at immediate-early gene promoters in speech-related regions
 
 ## Concepts
 
@@ -45,6 +46,7 @@ Master index of all wiki pages with one-line summaries.
 - [BrainSpan](./datasets/brainspan.md) -- Developmental brain expression atlas spanning prenatal to adult periods
 - [PsychENCODE Gene Regulatory Networks](./datasets/psychencode-grn.md) -- Single-cell transcriptomics and regulatory annotations of developing and adult brain
 - [Epi25 Whole Exome Sequencing](./datasets/epi25-wes.md) -- Large-scale epilepsy sequencing consortium essential for understanding autism-epilepsy comorbidity
+- [Valone et al. 2026](./datasets/valone2026.md) -- Population-scale gene-by-treatment ATAC-seq + RNA-seq across 83 genotyped human neural progenitor lines (VPA/lithium); response caQTLs/eQTLs and TWAS hits for ASD and epilepsy
 
 ## Methods
 
@@ -352,3 +354,13 @@ Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages f
 - [Chromosomal microarray karyotypes of 234 pediatric ASD patients](./findings/42286492.md) -- Reka et al., BMC Psychiatry; CNV yield 8.55%, replicates known ASD CNV loci; KMT2A in a recurrent 11q23.3 duplication (score 20)
 - [Phosphoproteomics of the Shank3 mouse, reversed by NO inhibition](./findings/42277197.md) -- Ginzburg et al., Sci Rep; SHANK3 KO phosphoproteome and SFARI-gene phosphorylation changes reversed by nNOS inhibitor (score 18)
 - [Nucleus accumbens ensembles drive social avoidance in a Shank3 model](./findings/42282578.md) -- Folkes et al., bioRxiv; SHANK3 NAc social ensembles encode avoidance; silencing restores social investigation (score 17)
+
+## Weekly Deep Scan -- 2026-06-14
+
+No new public autism dataset deposits identified across PubMed (4 queries) and bioRxiv/medRxiv for the window 2026-06-07 to 2026-06-14. The two relevant PubMed records (Dominguez-Alonso CTCF preprint PMID 42281968; Reka CMA cohort PMID 42286492) were already captured by the 2026-06-13 daily scan and deposit no accessible dataset.
+
+URL spot-check (5/30 entries): all live -- denovo-db.gs.washington.edu, psychscreen.wenglab.org, chip-atlas.org, brainscope.gersteinlab.org, gpf.sfari.org. No broken links. (Full HTTP verification remains blocked by the fetch provenance restriction; existence confirmed via search.)
+
+GitHub tool scan: no verifiably new repositories this week. All relevant hits (kundajelab/chrombpnet, kundajelab/variant-scorer, pinellolab/chorus, deepmind/alphagenome) are established tools already cataloged.
+
+Wiki health fixes: linked two orphan pages into this index -- RFX3 (gene) and Valone et al. 2026 (dataset). Flagged for review: the [Receptor Type Separation](./concepts/receptor_type_separation.md) concept page still states the class-level GABA=epilepsy / glutamate=autism framing, which the April 2026 reanalysis downgraded to PARTIALLY FAILED (GRIN2A epilepsy PTV burden breaks glutamate=autism; class-level MWU p=0.189). Page needs reframing around the specific shared genes, not receptor classes.
