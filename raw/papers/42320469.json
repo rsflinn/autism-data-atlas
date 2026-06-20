@@ -1,0 +1,20 @@
+{
+  "pmid": "42320469",
+  "doi": "10.1016/j.xgen.2026.101278",
+  "title": "Single-cell profiling of DNA methylation in autism spectrum disorder prefrontal cortex reveals distinct regulatory and aging signatures.",
+  "authors": "Eyring et al.",
+  "journal": "Cell Genom",
+  "date": "2026-06-19",
+  "abstract": "snmCT-seq profiling of DNA methylation and transcript levels from >60,000 prefrontal cortex nuclei across 49 donors. Over 30,000 ASD differentially methylated regions, enriched in promoters and cell-type-specific regulatory elements across the lifespan. Methylation changes were uncorrelated with transcript levels and small relative to age effects; age-DMRs concentrated in excitatory neurons; neuron projection development flagged as a perturbed process.",
+  "source": "pubmed",
+  "relevance_score": 37,
+  "score_breakdown": {
+    "direct_autism": 9,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

@@ -354,6 +354,9 @@ Wiki gene-page gaps flagged (atlas gene set vs. existing pages): missing pages f
 - [Chromosomal microarray karyotypes of 234 pediatric ASD patients](./findings/42286492.md) -- Reka et al., BMC Psychiatry; CNV yield 8.55%, replicates known ASD CNV loci; KMT2A in a recurrent 11q23.3 duplication (score 20)
 - [Phosphoproteomics of the Shank3 mouse, reversed by NO inhibition](./findings/42277197.md) -- Ginzburg et al., Sci Rep; SHANK3 KO phosphoproteome and SFARI-gene phosphorylation changes reversed by nNOS inhibitor (score 18)
 - [Nucleus accumbens ensembles drive social avoidance in a Shank3 model](./findings/42282578.md) -- Folkes et al., bioRxiv; SHANK3 NAc social ensembles encode avoidance; silencing restores social investigation (score 17)
+- [Single-cell profiling of DNA methylation in autism spectrum disorder prefrontal cortex reveals distinct regulatory and aging signatures.](./findings/42320469.md) -- PMID: 42320469
+- [Bayesian colocalization of psychiatric disorder GWAS signals with molecular quantitative trait loci highlights histone involvement and neuroimmune dysregulation in pathogenesis.](./findings/42320287.md) -- PMID: 42320287
+- [Age-stratified individual-specific subspace of autism spectrum disorder based on common orthogonal basis extraction algorithm improves the accuracy of clinical symptoms prediction.](./findings/42321694.md) -- PMID: 42321694
 
 ## Weekly Deep Scan -- 2026-06-14
 

@@ -1,0 +1,20 @@
+{
+  "pmid": "42320287",
+  "doi": "10.1016/j.psychres.2026.117287",
+  "title": "Bayesian colocalization of psychiatric disorder GWAS signals with molecular quantitative trait loci highlights histone involvement and neuroimmune dysregulation in pathogenesis.",
+  "authors": "Ryu and Lee",
+  "journal": "Psychiatry Res",
+  "date": "2026-06-15",
+  "abstract": "Multi-omics Bayesian colocalization of ADHD, ASD, bipolar, MDD and schizophrenia GWAS signals with transcript, protein and metabolite QTL. 65 SCZ/BIP/MDD signals colocalized with immune cell-type-specific eQTL targeting 70 genes including 17 histone genes; further pQTL and metabQTL colocalization implicated immune pathways and GABAergic neurotransmission. Argues common variants regulating histone genes contribute to neuroimmune mechanisms.",
+  "source": "pubmed",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "direct_autism": 4,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "cell_type": 2,
+    "phenotype_severity": 0
+  },
+  "decision": "INTEGRATE"
+}

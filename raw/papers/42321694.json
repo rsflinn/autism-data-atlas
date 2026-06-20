@@ -1,0 +1,20 @@
+{
+  "pmid": "42321694",
+  "doi": "10.1186/s12888-026-08172-0",
+  "title": "Age-stratified individual-specific subspace of autism spectrum disorder based on common orthogonal basis extraction algorithm improves the accuracy of clinical symptoms prediction.",
+  "authors": "Luo et al.",
+  "journal": "BMC Psychiatry",
+  "date": "2026-06-19",
+  "abstract": "437 participants (208 ASD, 229 TD) from ABIDE. Common orthogonal basis extraction (COBE) isolated age-stratified individual-specific functional connectivity features, improving behavioral symptom prediction (peak +133% for adolescent social behavior), replicated in an independent sample.",
+  "source": "pubmed",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "direct_autism": 7,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 4,
+    "novelty": 3,
+    "cell_type": 0,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}
