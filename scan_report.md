@@ -1,45 +1,18 @@
-# Atlas Daily Scan Report — 2026-04-13
+# Atlas Daily Scan -- 2026-06-21
 
-## Search Summary
+## Result: 0 new papers
 
-**PubMed**: API returned 500 errors on all 4 queries. Fell back to web search, which surfaced one recently-indexed paper (PMID 40790933).
+PubMed edat window 2026/06/20-2026/06/21 returned 5 unique hits across the 4 queries. All 5 were already evaluated and filed in yesterday's run (2026-06-20), because that run's edat window (2026/06/19-2026/06/20) overlaps today's on 2026/06/20.
 
-**bioRxiv**:
-- Genetics: 5 results, 0 relevant
-- Neuroscience: 20 results, 1 relevant (WAC/DeSanto-Shinawi)
-- Genomics: 11 results, 1 relevant (EVEE variant prediction)
+| PMID | Title (short) | Decision (retained) |
+|------|---------------|---------------------|
+| 42320469 | Single-cell DNA methylation in ASD prefrontal cortex (snmCT-seq, Geschwind/Luo) | INTEGRATE |
+| 42320287 | Bayesian colocalization of psychiatric GWAS with molQTL (histone/neuroimmune) | INTEGRATE |
+| 42321694 | Age-stratified individual-specific fMRI subspace (ABIDE) | INTEGRATE |
+| 42322046 | Valence-arousal eye-tracking, preschool ASD emotion recognition | REVIEW |
+| 42320783 | Orexin/dopaminergic neuron modulation of socio-emotional behavior (mouse) | SKIP |
 
-**medRxiv**: 0 results (empty for last 1-2 days)
-
-## Papers Scored
-
-| Paper | Score | Decision |
-|-------|-------|----------|
-| EVEE: Variant effect prediction via Evo 2 (bioRxiv) | 25/50 | INTEGRATE |
-| WAC/DeSanto-Shinawi vertebrate models (bioRxiv) | 23/50 | INTEGRATE |
-| FOXP1/SYNGAP1/DOCK4 SNPs in Turkish ASD/BD (PubMed) | 11/50 | REVIEW |
-
-**Total: 3 papers found, 2 INTEGRATE, 1 REVIEW, 0 SKIP**
-
-## Notable Findings
-
-**EVEE (score 25)**: Most actionable finding. Evo 2 foundation model achieves 0.997 AUROC on ClinVar variant pathogenicity prediction -- outperforms all existing tools. Pre-computed predictions for 4.2M ClinVar variants available via web tool. Directly applicable to reclassifying VUS in the atlas's 49 NDD genes. Could complement or replace CADD/ChromBPNet scoring in variant prioritization pipeline.
-
-**WAC models (score 23)**: WAC is not in the 49-gene atlas set, but the GABAergic neuron phenotype with dual autism+epilepsy presentation connects to the atlas's receptor-type work. Transcriptional profiling data from Wac-null mice may be useful for cross-referencing with existing NDD TF perturbation datasets (Lipton, Paulsen CHOOSE).
-
-**FOXP1/SYNGAP1 study (score 11)**: Negative result from severely underpowered study (n=200). Two atlas genes (FOXP1, SYNGAP1) tested but findings not informative given sample size.
-
-## Issues
-
-- PubMed NCBI E-utilities API consistently returned 500 errors. This may have caused missed papers. Recommend retry tomorrow or manual PubMed check.
-- medRxiv returned zero results for 1-2 day window, which may indicate API lag rather than zero submissions.
-
-## Files Updated
-
-- `raw/papers/10.1101_2024.05.26.595966.json`
-- `raw/papers/10.64898_2026.04.10.717844.json`
-- `logs/evaluation_decisions.jsonl` (+3 entries)
-- `wiki/findings/biorxiv_WAC_DeSanto_Shinawi_2026.md`
-- `wiki/findings/biorxiv_EVEE_variant_prediction_2026.md`
-- `wiki/index.md` (appended)
-- `papers_feed.js` (regenerated)
+## Notes
+- 42320783 rescored independently today at 14 (borderline REVIEW) vs prior 9 (SKIP). Deferred to the prior SKIP: it is a mouse orexin/dopamine study, lists ASD only as one of several endophenotypes, has no regulatory-variant content and no genes from the 49-gene atlas set.
+- bioRxiv/medRxiv: not scanned. No search_preprints MCP tool is connected, and the public rxiv API is unreachable from the sandbox (web_fetch is provenance-restricted; web search cannot be cleanly date-filtered).
+- No changes to wiki, index, or papers_feed.js -- all qualifying papers were already present.

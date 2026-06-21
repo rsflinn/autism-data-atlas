@@ -10,7 +10,7 @@ Master index of all wiki pages with one-line summaries.
 
 ## Genes
 
-- [MEF2C](./genes/MEF2C.md) -- Network hub whose haploinsufficiency specifically dysregulates ORC network members in organoids
+- [MEF2C](./genes/MEF2C.md) -- Network hub whose haploinsufficiency specifically dysregulates NDD transcription-factor network members in organoids
 - [SCN2A](./genes/SCN2A.md) -- Sodium channel at the autism-epilepsy comorbidity boundary; convergent target of multiple autism gene perturbations
 - [FOXP1](./genes/FOXP1.md) -- Transcription factor; loss-of-function causes FOXP1 syndrome with universal autism, intellectual disability, and speech impairment
 - [TCF4](./genes/TCF4.md) -- Transcription factor; mutations cause Pitt-Hopkins syndrome, the most severe syndromic autism phenotype
@@ -367,3 +367,13 @@ URL spot-check (5/30 entries): all live -- denovo-db.gs.washington.edu, psychscr
 GitHub tool scan: no verifiably new repositories this week. All relevant hits (kundajelab/chrombpnet, kundajelab/variant-scorer, pinellolab/chorus, deepmind/alphagenome) are established tools already cataloged.
 
 Wiki health fixes: linked two orphan pages into this index -- RFX3 (gene) and Valone et al. 2026 (dataset). Flagged for review: the [Receptor Type Separation](./concepts/receptor_type_separation.md) concept page still states the class-level GABA=epilepsy / glutamate=autism framing, which the April 2026 reanalysis downgraded to PARTIALLY FAILED (GRIN2A epilepsy PTV burden breaks glutamate=autism; class-level MWU p=0.189). Page needs reframing around the specific shared genes, not receptor classes.
+
+## Weekly Deep Scan -- 2026-06-21
+
+No new public autism dataset deposits across PubMed (4 queries) and bioRxiv for the window 2026-06-14 to 2026-06-21. The single in-window PubMed hit (Akela et al., Mol Divers, PMID 42319587) reanalyzes an existing dataset (GSE210960) and deposits nothing new.
+
+URL spot-check (5/30 entries): all live -- denovo-db.gs.washington.edu, chip-atlas.org, gpf.sfari.org, brainspan.org, gnomad.broadinstitute.org. No broken links. (Direct HTTP verification still blocked by the fetch provenance restriction; existence confirmed via search index.)
+
+GitHub tool scan: no verifiably new repositories. Same established repos already cataloged.
+
+Wiki health fixes: replaced retired "ORC" terminology in the MEF2C index summary with "NDD transcription-factor network members" (per CLAUDE.md, the ORC cascade hypothesis is retired and the term should not be used as active framing). Cross-reference check: 0 broken links across 137 internal page links. Re-flagged (unchanged): the Receptor Type Separation concept page still carries the class-level framing that was downgraded to PARTIALLY FAILED -- a science-framing call left for Ryan, not auto-rewritten.
