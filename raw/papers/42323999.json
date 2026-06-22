@@ -1,0 +1,20 @@
+{
+  "pmid": "42323999",
+  "doi": "10.1016/j.ijbiomac.2026.153156",
+  "title": "Autism-associated substitutions at ASN374 disrupt FORKHEAD box P2-mediated regulation of DNA binding by t-box BRAIN protein 1.",
+  "authors": "Hartman et al.",
+  "journal": "Int J Biol Macromol",
+  "date": "2026-06-21",
+  "abstract": "Biochemical study showing the FOXP2 forkhead domain binds the TBR1 T-box domain, modulated by residue Asn374. Autism-associated N374H and N374Y substitutions weaken TBR1 binding to T-box DNA and impair FOXP2-dependent regulation of TBR1: both variants reduce FOXP2-TBR1 affinity yet paradoxically resist FOXP2-driven dissociation of TBR1 from DNA. MD simulations indicate Asn374 is an allosteric control point coupling TBR1 DNA-binding dynamics to FOXP2 engagement. Methods: fluorescence anisotropy, EMSA, molecular modelling/dynamics.",
+  "source": "pubmed",
+  "relevance_score": 18,
+  "score_breakdown": {
+    "direct_autism": 8,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 1,
+    "novelty": 6,
+    "cell_type": 0,
+    "phenotype_severity": 0
+  },
+  "decision": "INTEGRATE"
+}

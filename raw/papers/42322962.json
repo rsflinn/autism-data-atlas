@@ -1,0 +1,20 @@
+{
+  "pmid": "42322962",
+  "doi": "10.1016/j.gde.2026.102504",
+  "title": "GABAergic neuron fate specification and lineage allocation: from development to disorder.",
+  "authors": "Dvoretskova et al.",
+  "journal": "Curr Opin Genet Dev",
+  "date": "2026-06-20",
+  "abstract": "Review of how cis-regulatory elements (CREs) and the transcription factors binding them form gene regulatory networks that specify telencephalic inhibitory (GABAergic) neuron identity. Many disorder-associated genetic variants act at CREs or alter their regulatory activity. Argues that mapping risk-gene expression onto adult cell taxonomies often fails to reveal circuit dysfunction, and synthesizes evidence for a model in which genetic variation modulates developmental timing, fate bias and lineage allocation, producing imbalanced interneuron subtype proportions among otherwise normal cell types.",
+  "source": "pubmed",
+  "relevance_score": 24,
+  "score_breakdown": {
+    "direct_autism": 6,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 0,
+    "novelty": 4,
+    "cell_type": 5,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

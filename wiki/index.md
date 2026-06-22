@@ -377,3 +377,8 @@ URL spot-check (5/30 entries): all live -- denovo-db.gs.washington.edu, chip-atl
 GitHub tool scan: no verifiably new repositories. Same established repos already cataloged.
 
 Wiki health fixes: replaced retired "ORC" terminology in the MEF2C index summary with "NDD transcription-factor network members" (per CLAUDE.md, the ORC cascade hypothesis is retired and the term should not be used as active framing). Cross-reference check: 0 broken links across 137 internal page links. Re-flagged (unchanged): the Receptor Type Separation concept page still carries the class-level framing that was downgraded to PARTIALLY FAILED -- a science-framing call left for Ryan, not auto-rewritten.
+
+## Daily Scan -- 2026-06-22 (INTEGRATE)
+
+- [Autism-associated substitutions at ASN374 disrupt FOXP2-mediated regulation of DNA binding by TBR1.](./findings/42323999.md) -- Hartman et al., Int J Biol Macromol; autism N374H/N374Y substitutions weaken TBR1 DNA binding and impair FOXP2-dependent regulation of the TBR1-FOXP2 transcription-factor edge (score 18) -- PMID: 42323999
+- [GABAergic neuron fate specification and lineage allocation: from development to disorder.](./findings/42322962.md) -- Dvoretskova et al., Curr Opin Genet Dev; review framing disorder risk as acting through cis-regulatory elements that bias GABAergic interneuron fate and developmental timing (score 24) -- PMID: 42322962
