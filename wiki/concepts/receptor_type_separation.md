@@ -1,133 +1,69 @@
 ---
 title: Receptor Type Separation Model
-last_updated: 2026-04-04
-evidence_tier: B
+last_updated: 2026-07-07
+evidence_tier: D-partial
 type: concept
+status: PARTIALLY FAILED -- reframed around specific shared genes
 ---
 
 # Receptor Type Separation Model
 
-## Overview
+## Status: the clean class-level separation did not survive retesting (April 2026)
 
-A key finding from cross-condition analysis is a striking separation of receptor types: GABAergic receptors drive rare variant burden in epilepsy, while glutamatergic receptors drive convergence in autism. This suggests fundamentally different mechanistic pathways underlying the two phenotypes, with only a small set of shared genes predicting comorbidity.
+The original claim on this page -- GABA receptors drive epilepsy, glutamate receptors drive autism, as receptor *classes* -- did not hold up when tested properly. What survives is narrower and more defensible: a small set of *specific* genes carry signal in both conditions. The receptor-class story is retired as active framing; the individual shared-gene overlaps are real.
 
-## GABA Receptors: Epilepsy Signal
+Do not cite the class-level separation downstream. Cite the specific shared genes.
 
-**Primary Association:** GABA receptor genes show significant rare variant burden specifically in epilepsy, with no convergence in autism screens.
+## What was originally claimed (for history)
 
-### GABA Receptor Genes (Epilepsy Burden)
+Cross-condition comparison of Epi25 rare-variant burden against CHOOSE autism-perturbation convergence appeared to show a clean split: GABA receptor genes (GABRB3, GABRG2, GABRA1) loaded on epilepsy with zero autism convergence, glutamate receptor genes (GRIK1/2, GRIA4, GRID2) loaded on autism convergence with zero epilepsy burden, and a handful of shared genes explained comorbidity. This was filed as Tier B in April 2026.
 
-| Gene | p-value | Dataset |
-|------|---------|---------|
-| GABRB3 | 6.8e-6 | Epi25 |
-| GABRG2 | 2.8e-5 | Epi25 |
-| GABRA1 | 1.3e-3 | Epi25 |
+## What retesting showed (April 2026 reanalysis)
 
-**Pattern:** Significant enrichment of damaging rare variants in developmental and epileptic encephalopathy cohorts.
+The separation was tested as a class-level property, with a stated null: if receptor *class* predicts condition, epilepsy burden should separate GABA from glutamate genes and autism association should separate the reverse. It did not.
 
-### Autism Evidence: Zero Convergence
+- Epilepsy side, class-level: Mann-Whitney U p=0.189. Not significant. GABA vs glutamate genes do not separate on epilepsy burden as classes.
+- Autism side, class-level: SFARI odds ratio 3.39, p=0.113. Not significant.
+- The falsifier fired: GRIN2A, a glutamate receptor gene, carries significant epilepsy protein-truncating-variant burden (p=0.009). That directly breaks the "glutamate = autism, not epilepsy" claim.
+- The apparent separation was driven by 4 specific genes, not by receptor class membership.
 
-- GABA receptor genes show **zero convergence** in the CHOOSE multiplexed perturbation screen
-- No downstream dysregulation of GABA genes when other autism risk genes are knocked out
-- No compensatory upregulation in autism-relevant cell types
+Base-rate note: with only a few genes per receptor class, a handful of strong individual genes can create the visual impression of class-level separation. Once tested against the null of "class predicts nothing beyond the individual genes," the class effect disappears.
 
-**Interpretation:** GABA receptor dysfunction appears mechanistically distinct from autism pathways, despite clinical overlap in some comorbid patients.
+## What survives: specific shared genes span both conditions
 
-## Glutamate Receptors: Autism Signal
+These individual genes carry real signal in both epilepsy and autism datasets. This is the defensible finding.
 
-**Primary Association:** Glutamate receptor genes are convergent targets in autism, with no significant rare variant burden in epilepsy.
+| Gene | Epilepsy signal | Autism signal |
+|------|-----------------|---------------|
+| SCN2A | DEE damaging-missense p=4.2e-4 (Epi25) | Convergent target (CHOOSE) |
+| KCNB1 | DEE p=1.3e-3 / PTV p=4.6e-4 (Epi25) | Ion-channel convergence set |
+| PCDH19 | PTV p=1.4e-3 / DEE PTV p=1.4e-5 (Epi25) | Convergent target (CHOOSE) |
+| GRIN2A | PTV p=8.6e-3 / NAFE p=0.01 (Epi25) | Glutamate receptor family |
 
-### Glutamate Receptor Genes (Autism Convergence)
+The claim these support is gene-specific, not class-specific: mutations in these particular genes are compatible with autism, epilepsy, or both. GRIN2A in particular sits on the glutamate side yet carries epilepsy burden, which is why the class framing fails.
 
-| Gene | Convergence Status | OR | Dataset |
-|------|-------------------|----|----|
-| GRIK1 | Convergent | 45.7 | CHOOSE |
-| GRIK2 | Convergent | 45.7 | CHOOSE |
-| GRIA4 | Convergent | 45.7 | CHOOSE |
-| GRID2 | Convergent | 45.7 | CHOOSE |
+## What would change this back
 
-**Pattern:** Multiple distinct autism gene knockouts produce coordinated downregulation of these glutamate receptor subunits.
+A clean class-level separation would need to replicate in an independent epilepsy cohort AND an independent autism perturbation screen, with the class effect surviving after removing the 4 driver genes. Until then, treat any "GABA = epilepsy / glutamate = autism" statement as unsupported.
 
-### Epilepsy Evidence: Zero Rare Variant Burden
+## Evidence quality
 
-- Glutamate receptor genes show **zero significant rare variant burden** in Epi25 epilepsy cohorts
-- No enrichment of damaging missense variants
-- No statistical signal in damaging loss-of-function variants
-
-**Interpretation:** Glutamate receptor dysfunction appears mechanistically distinct from epilepsy genetic architecture.
-
-## Shared Genes: Comorbidity Boundary
-
-**Clinical Reality:** Some patients have both autism and epilepsy. Shared genes likely explain this overlap.
-
-### Shared Genes Predicting Comorbidity
-
-| Gene | Phenotype Profile |
-|------|-------------------|
-| PCDH19 | Autism + Epilepsy |
-| SCN2A | Autism + Epilepsy |
-| KCNB1 | Autism + Epilepsy |
-| GRIN2A | Autism + Epilepsy |
-
-**Pattern:** These genes show:
-- Rare variant burden in epilepsy cohorts
-- Convergent targeting in autism screens
-- Clinical presentation of both phenotypes when mutated
-
-**Mechanistic Interpretation:** These shared genes may encode proteins at the interface of GABAergic and glutamatergic signaling, or occupy critical positions in neural circuit development that affect both excitation/inhibition balance and social-cognitive circuits.
-
-## Clinical Implications
-
-### Genetic Prediction of Comorbidity Risk
-
-The receptor type separation model suggests:
-
-1. **GABAergic dysfunction alone** → epilepsy-only phenotype
-2. **Glutamatergic dysfunction alone** → autism-only phenotype
-3. **Shared gene mutations** → autism + epilepsy comorbidity
-
-This could enable **predictive genetic profiling**: mutations in shared genes should identify patients with higher risk of comorbidity, potentially changing surveillance and treatment strategies.
-
-### Therapeutic Specificity
-
-- Epilepsy treatments targeting GABA receptors (e.g., benzodiazepines) may not address autism-specific pathology
-- Autism interventions targeting glutamate homeostasis may not address seizure risk
-- Shared gene targets might address both phenotypes
-
-## Evidence Quality
-
-**Evidence Tier: B** -- Clean separation in these datasets, but not independently validated.
-
-**Limitations:**
-- Separation observed in Epi25 + CHOOSE datasets
-- Requires validation in independent epilepsy cohort and independent autism perturbation screen
-- Cell-type specificity not fully characterized
-- Mechanistic connection between receptor type and phenotype not definitively established
+Evidence Tier: D (partial) -- initially significant as Tier B, corrected in April 2026 when the class-level tests came back non-significant. The specific shared-gene overlaps remain Tier B (real in Epi25 + CHOOSE, not independently replicated).
 
 ## Datasets
-
-- [Epi25 Consortium](../datasets/Epi25.md) -- Rare variant burden in epilepsy
-- [Paulsen 2023 CHOOSE](../datasets/CHOOSE.md) -- Multiplexed perturbation screen in autism risk genes
+- [Epi25 Consortium](../datasets/Epi25.md) -- rare variant burden in epilepsy
+- [Paulsen 2023 CHOOSE](../datasets/CHOOSE.md) -- multiplexed perturbation screen in autism risk genes
 
 ## Cross-Links
-
-**Related Genes:**
-- [SCN2A](../genes/SCN2A.md) -- Prototypical shared gene at comorbidity boundary
-- [PCDH19](../genes/PCDH19.md) -- Cadherin family gene showing comorbidity association
-- [KCNB1](../genes/KCNB1.md) -- Ion channel gene in comorbidity network
-- [GRIN2A](../genes/GRIN2A.md) -- Glutamate receptor subunit in shared pathway
-
-**Related Concepts:**
-- [Convergence Phenomenon](./convergence_phenomenon.md) -- Why glutamate receptors show convergence
-- [Evidence Tiers](./evidence_tiers.md) -- Why this is Tier B evidence
+- [SCN2A](../genes/SCN2A.md), [PCDH19](../genes/PCDH19.md), [KCNB1](../genes/KCNB1.md), [GRIN2A](../genes/GRIN2A.md) -- the specific shared genes that survive
+- [Convergence Phenomenon](./convergence_phenomenon.md)
+- [Evidence Tiers](./evidence_tiers.md)
 
 ## Sources
-
-- Epi25 Consortium. (2023). Ultra-rare genetic variation in common epilepsies: A case-control analysis. *The Lancet Neurology*, 22(4), 306-316.
-- Grove, J., et al. (2019). Identification of common genetic variants associated with autism spectrum disorder. *Nature Genetics*, 51(3), 431-444.
-- Paulsen, B., et al. (2023). CHOOSE: Multiplexed perturbation of 43 autism risk genes in neural progenitor cells. *Cell Genomics*.
+- Epi25 Collaborative. (2024). Exome sequencing of 20,979 individuals with epilepsy and 33,444 controls. *Nature Neuroscience*.
+- Paulsen, B., Velasco, S., et al. (2023). Single-cell brain organoid screening identifies developmental defects in autism. *Nature* 621:788-797.
+- Internal reanalysis, April 2026 (class-level separation test).
 
 ---
-
-**Last Updated:** 2026-04-04
-**Evidence Tier:** B (Clean separation in Epi25 + CHOOSE, not independently validated)
+**Last Updated:** 2026-07-07
+**Evidence Tier:** D (partial) -- class-level separation corrected; specific shared genes survive

@@ -1,18 +1,29 @@
-# Atlas Daily Scan -- 2026-06-21
+# Atlas Catch-up Scan -- 2026-07-07
 
-## Result: 0 new papers
+## Result: 11 new papers filed (7 INTEGRATE, 4 REVIEW) from a 2-week backlog
 
-PubMed edat window 2026/06/20-2026/06/21 returned 5 unique hits across the 4 queries. All 5 were already evaluated and filed in yesterday's run (2026-06-20), because that run's edat window (2026/06/19-2026/06/20) overlaps today's on 2026/06/20.
+The scheduled scans fired daily since 2026-06-22 but wrote to a dead session path (`/sessions/friendly-serene-ride/...`), so nothing reached this folder. This manual run covers edat window 2026/06/22-2026/07/07: 4 PubMed queries, 40 unique hits triaged, 29 skipped as clinical/behavioral/ML/Mendelian-randomization work.
 
-| PMID | Title (short) | Decision (retained) |
-|------|---------------|---------------------|
-| 42320469 | Single-cell DNA methylation in ASD prefrontal cortex (snmCT-seq, Geschwind/Luo) | INTEGRATE |
-| 42320287 | Bayesian colocalization of psychiatric GWAS with molQTL (histone/neuroimmune) | INTEGRATE |
-| 42321694 | Age-stratified individual-specific fMRI subspace (ABIDE) | INTEGRATE |
-| 42322046 | Valence-arousal eye-tracking, preschool ASD emotion recognition | REVIEW |
-| 42320783 | Orexin/dopaminergic neuron modulation of socio-emotional behavior (mouse) | SKIP |
+## INTEGRATE
+| PMID | Short title | Score | Genes |
+|------|-------------|-------|-------|
+| 42331993 | Prenatal cfDNA methylome detects ASD + maternal obesity | 31 | -- |
+| 42410084 | NMD + SCN2A premature stop codons, position-dependent | 27 | SCN2A |
+| 42343060 | FTO-m6A / Wnt-beta-catenin in mPFC, autism behaviors | 24 | -- |
+| 42399454 | GATOR1 astrocyte metabolic rewiring, glutamate cycling | 20 | -- |
+| 42405393 | DYRK1A signaling review | 17 | DYRK1A |
+| 42371607 | Histone H3K4 methylation in neurodevelopment (review) | 17 | -- |
+| 42353758 | Novel CHD8 variant in ASD patient | 16 | CHD8 |
+
+## REVIEW
+| PMID | Short title | Score |
+|------|-------------|-------|
+| 42399966 | HOXA5 postnatal cerebellar / SFARI genes | 14 |
+| 42349827 | Synapsin triple-KO social deficits | 14 |
+| 42401939 | ASD genetic architecture literature review | 13 |
+| 42357809 | SCN8A GoF self-limited infantile epilepsy | 10 |
 
 ## Notes
-- 42320783 rescored independently today at 14 (borderline REVIEW) vs prior 9 (SKIP). Deferred to the prior SKIP: it is a mouse orexin/dopamine study, lists ASD only as one of several endophenotypes, has no regulatory-variant content and no genes from the 49-gene atlas set.
-- bioRxiv/medRxiv: not scanned. No search_preprints MCP tool is connected, and the public rxiv API is unreachable from the sandbox (web_fetch is provenance-restricted; web search cannot be cleanly date-filtered).
-- No changes to wiki, index, or papers_feed.js -- all qualifying papers were already present.
+- Highest-value hit is 42331993 (prenatal cfDNA methylome): a noncoding epigenetic ASD signal in a real cohort, recapitulating placenta and cortex DMRs. Most on-model paper of the backlog.
+- bioRxiv/medRxiv not scanned: no preprint MCP tool connected (same limitation as every recent run).
+- Feed regenerated to 100 papers. Wiki findings pages and index updated.

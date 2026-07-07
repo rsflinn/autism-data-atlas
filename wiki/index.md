@@ -22,7 +22,7 @@ Master index of all wiki pages with one-line summaries.
 
 ## Concepts
 
-- [Receptor Type Separation](./concepts/receptor_type_separation.md) -- GABA receptors drive epilepsy signal, glutamate receptors drive autism convergence, shared genes predict comorbidity
+- [Receptor Type Separation](./concepts/receptor_type_separation.md) -- PARTIALLY FAILED (Apr 2026): class-level GABA/glutamate separation did not hold (epilepsy MWU p=0.189; GRIN2A epilepsy PTV burden breaks glutamate=autism). Reframed around specific shared genes (SCN2A, KCNB1, PCDH19, GRIN2A) that span autism and epilepsy
 - [Convergence Phenomenon](./concepts/convergence_phenomenon.md) -- Multiple autism gene knockouts produce overlapping downstream effects, but specificity is dataset-dependent
 - [Noncoding Variants in Autism](./concepts/noncoding_variants_in_autism.md) -- Common inherited variants account for ~49% of autism liability; all GWAS-significant loci are regulatory
 - [Evidence Tiers](./concepts/evidence_tiers.md) -- Classification system for experimental evidence quality (A: properly nulled; B: real but not specific; C: descriptive; D: corrected)
@@ -382,3 +382,16 @@ Wiki health fixes: replaced retired "ORC" terminology in the MEF2C index summary
 
 - [Autism-associated substitutions at ASN374 disrupt FOXP2-mediated regulation of DNA binding by TBR1.](./findings/42323999.md) -- Hartman et al., Int J Biol Macromol; autism N374H/N374Y substitutions weaken TBR1 DNA binding and impair FOXP2-dependent regulation of the TBR1-FOXP2 transcription-factor edge (score 18) -- PMID: 42323999
 - [GABAergic neuron fate specification and lineage allocation: from development to disorder.](./findings/42322962.md) -- Dvoretskova et al., Curr Opin Genet Dev; review framing disorder risk as acting through cis-regulatory elements that bias GABAergic interneuron fate and developmental timing (score 24) -- PMID: 42322962
+
+
+## Catch-up scan 2026-07-07 (Jun 22 - Jul 7 backlog)
+
+New INTEGRATE findings filed after the scan pipeline was found writing to a dead session path:
+
+- [Prenatal cell-free DNA methylome detects association with autism and maternal obesity.](findings/42331993.md) -- Williams et al., Commun Biol (2026-06-22)
+- [Nonsense-mediated decay influences position-dependent effects of SCN2A premature stop codons on neuronal excitability and behavior.](findings/42410084.md) -- Al Saneh et al., Mol Psychiatry (2026-07-06)
+- [Epigenetic Dysregulation of the Wnt/beta-Catenin Pathway via FTO-m6A in the mPFC Contributes to Autism-Like Behaviors.](findings/42343060.md) -- Xue et al., Mol Neurobiol (2026-06-25)
+- [GATOR1 signaling defects promote astrocytic metabolic rewiring and excitatory neurotransmitter cycling.](findings/42399454.md) -- Hadj-Aissa et al., EMBO Rep (2026-07-03)
+- [DYRK1A Signaling in the Brain: Molecular Mechanisms and Neurotransmitter Regulation.](findings/42405393.md) -- Paul et al., Curr Neurovasc Res (2026-07-02)
+- [Roles of histone lysine methylation in neurodevelopment and related disorders.](findings/42371607.md) -- Chen et al., Ibrain (2026-06-04)
+- [A Novel Variant of the CHD8 Gene in a Patient with Autism Spectrum Disorder.](findings/42353758.md) -- Falcone et al., Genes (Basel) (2026-05-23)

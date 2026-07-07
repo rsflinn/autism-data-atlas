@@ -63,14 +63,20 @@
       "lipton-2024-mef2c",
       "jin-2020-perturb-seq"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "GEO public (expression); dbGaP controlled (raw reads)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which genes are disrupted by the most mutations at the earliest timepoint (Day 25)?",
       "Do idiopathic ASD organoids show the same expression changes as monogenic forms?",
       "Does ion channel disruption accumulate over developmental time or appear immediately?"
-    ]
+    ],
+    "accession": "GSE271853",
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 41611887, PMC12999519), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "41611887",
+    "pmcid": "PMC12999519"
   },
   {
     "id": "paulsen-2023-choose",
@@ -140,14 +146,20 @@
       "pasca-2026-organoids",
       "jin-2020-perturb-seq"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "CC BY 4.0 (Nature supplementary)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which downstream genes are hit by 5+ different autism gene knockouts (convergent targets)?",
       "Does knocking out FOXP1 produce the same downstream effects as knocking out CHD8?",
       "Are ion channel genes or synaptic genes more commonly affected across perturbations?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 37704762, PMC10499611), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "37704762",
+    "pmcid": "PMC10499611"
   },
   {
     "id": "jin-2020-perturb-seq",
@@ -219,14 +231,20 @@
       "paulsen-2023-choose",
       "pasca-2026-organoids"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "GEO public",
     "bidsCompliant": false,
     "starterQuestions": [
       "Do the same convergent targets from CHOOSE appear in mouse in vivo perturbations?",
       "Which cell types are most affected by autism gene knockouts -- neurons or glia?",
       "Does Scn2a knockout produce downstream effects in projection neurons vs inhibitory neurons?"
-    ]
+    ],
+    "accession": "GSE157977",
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 33243861, PMC7985844), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "33243861",
+    "pmcid": "PMC7985844"
   },
   {
     "id": "lipton-2024-mef2c",
@@ -287,14 +305,20 @@
       "pasca-2026-organoids",
       "paulsen-2023-choose"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Open access (paper); gated (raw data)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which autism transcription factors compensate when MEF2C is reduced by half?",
       "Are the compensatory gene changes specific to neurons or also present in progenitors?",
       "Where does MEF2C protein physically bind in the genome (ChIP-seq peaks)?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 39349966, PMC11919750), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "39349966",
+    "pmcid": "PMC11919750"
   },
   {
     "id": "perez-2025-dup15q",
@@ -345,20 +369,26 @@
       "pasca-2026-organoids",
       "wamsley-2024-scgene"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "CC BY 4.0 (Nature Communications)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Do GABA receptor genes change in dup15q organoids vs postmortem brain tissue?",
       "Which transcription factors are predicted to regulate the disrupted genes?",
       "How does the dup15q expression signature compare to single-gene autism mutations?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 40615364, PMC12227528), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "40615364",
+    "pmcid": "PMC12227528"
   },
   {
     "id": "wamsley-2024-scgene",
     "name": "Wamsley 2024 ASD scGENE (Postmortem Brain)",
     "shortName": "Wamsley scGENE 2024",
-    "description": "The most detailed single-cell map of gene expression changes in autism postmortem brain tissue. 641,000 differential gene expression entries across 36 cell types from 33 autism vs. 31 control brains. Also includes 346 SCENIC regulons (transcription factor activity maps) and LDSC heritability analysis linking cell-type-specific expression to autism GWAS signal.",
+    "description": "The most detailed single-cell map of gene expression changes in autism postmortem brain tissue. 641,000 differential gene expression entries across 36 cell types from 33 autism vs. 31 control brains. Also includes 346 SCENIC regulons (transcription factor activity maps) and LDSC heritability analysis linking cell-type-specific expression to autism GWAS signal. The same Science paper also provides cell-type co-expression module (WGCNA) analysis and LDSC partitioned heritability -- formerly catalogued separately as 'gandal-2024-celltype', merged into this entry 2026-07-07.",
     "whatYouCanDo": "Look up whether any gene is differentially expressed in autism brain, broken down by cell type. Identify which cell types are most affected. Test whether autism GWAS signal is enriched in specific cell types.",
     "whatYouCant": "Determine causation (postmortem data shows correlation, not which changes caused autism vs. resulted from it). Attribute changes to specific mutations (subjects have diverse genetic backgrounds). Study developmental timing (all samples are adult/adolescent brain).",
     "citation": "Wamsley B, et al. Molecular cascades and cell-type-specific signatures in ASD revealed by single-cell genomics. Science. 2024;384:eadh2602.",
@@ -366,7 +396,8 @@
     "dataType": [
       "snRNA-seq",
       "SCENIC regulons",
-      "LDSC heritability"
+      "LDSC heritability",
+      "WGCNA modules"
     ],
     "organism": "Human",
     "sampleSize": "33 ASD + 31 control brains, 36 cell types",
@@ -412,76 +443,23 @@
     "publicationYear": 2024,
     "codeSnippet": "import pandas as pd\n\n# Load cell-type-specific DEGs\ndf = pd.read_csv('wamsley_degs.csv')\nprint(f'{len(df)} DEG entries across {df[\"cell_type\"].nunique()} cell types')\n\n# Filter for a specific gene\ngrin2b = df[df['gene'] == 'GRIN2B']\nprint(grin2b[['cell_type', 'log2FC', 'padj']])",
     "relatedDatasets": [
-      "voineagu-gse28521",
-      "gandal-2024-celltype"
+      "voineagu-gse28521"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "CC BY 4.0 (Dryad); Science supplementary",
     "bidsCompliant": false,
     "starterQuestions": [
       "In which brain cell types is SCN2A most differentially expressed in autism?",
       "Do excitatory and inhibitory neurons show opposite expression changes?",
-      "Which cell types carry the most autism GWAS heritability (LDSC results)?"
-    ]
-  },
-  {
-    "id": "gandal-2024-celltype",
-    "name": "Gandal 2024 Cell-Type ASD Data",
-    "shortName": "Gandal 2024",
-    "description": "Part of the same Science paper as Wamsley. Cell-type-specific differential expression in autism brain, but analyzed at the level of gene co-expression modules rather than individual genes. Identifies convergent molecular cascades shared across cell types and provides LDSC partitioned heritability showing which cell types harbor the most autism genetic risk.",
-    "whatYouCanDo": "Identify which cell types carry the most autism GWAS heritability. Find co-expression modules disrupted across multiple cell types. Cross-reference with perturbation data.",
-    "whatYouCant": "Attribute expression changes to specific mutations (pooled across genotypes). Study developmental trajectory (adult brain only). Separate cause from consequence.",
-    "citation": "Gandal MJ, et al. Molecular cascades and cell-type-specific signatures in ASD revealed by single-cell genomics. Science. 2024;384:eadh2602.",
-    "doi": "10.1126/science.adh2602",
-    "dataType": [
-      "snRNA-seq",
-      "WGCNA modules",
-      "LDSC heritability"
+      "Which cell types carry the most autism GWAS heritability (LDSC results)?",
+      "Which WGCNA co-expression modules are disrupted across multiple cell types?"
     ],
-    "organism": "Human",
-    "sampleSize": "Same cohort as Wamsley (33 ASD + 31 control)",
-    "accessLevel": "PUBLIC",
-    "accessNotes": "Supplementary tables from Science paper. Same dataset as Wamsley, different analytical lens.",
-    "primaryUrl": "https://doi.org/10.1126/science.adh2602",
-    "downloadUrls": [
-      {
-        "label": "See Wamsley 2024 downloads",
-        "url": "https://doi.org/10.1126/science.adh2602",
-        "format": "XLSX",
-        "sizeApprox": "See Wamsley"
-      }
-    ],
-    "fileFormats": [
-      "XLSX"
-    ],
-    "genesRelevant": [
-      "MEF2C",
-      "TCF4",
-      "FOXP1",
-      "MYT1L"
-    ],
-    "tags": [
-      "postmortem",
-      "single-cell",
-      "cell-type-specific",
-      "WGCNA",
-      "heritability"
-    ],
-    "category": "postmortem",
-    "publicationYear": 2024,
-    "codeSnippet": "# Same data source as Wamsley 2024\n# See Wamsley entry for loading code",
-    "relatedDatasets": [
-      "wamsley-2024-scgene",
-      "voineagu-gse28521"
-    ],
-    "lastVerified": "2026-03-25",
-    "license": "Science supplementary (see Wamsley)",
-    "bidsCompliant": false,
-    "starterQuestions": [
-      "Which WGCNA co-expression modules are disrupted across multiple cell types?",
-      "Does the module containing ion channel genes overlap with the autism GWAS signal?",
-      "Are the same molecular cascades disrupted in excitatory neurons and astrocytes?"
-    ]
+    "accession": null,
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "Wamsley et al. 2024 Science (10.1126/science.adh2602, Geschwind lab); DOI confirmed against primary source. DOI confirmed via publisher (Science); not returned by NCBI ID converter. Now subsumes former gandal-2024-celltype entry (WGCNA/LDSC lens).",
+    "pmid": null,
+    "pmcid": null
   },
   {
     "id": "voineagu-gse28521",
@@ -529,17 +507,22 @@
     "publicationYear": 2011,
     "codeSnippet": "import GEOparse\n\n# Download and parse the dataset\ngse = GEOparse.get_GEO('GSE28521', destdir='./geo_data')\nprint(f'{len(gse.gsms)} samples')\n\n# Get expression table for first sample\nfirst_gsm = list(gse.gsms.values())[0]\nprint(first_gsm.table.head())",
     "relatedDatasets": [
-      "wamsley-2024-scgene",
-      "gandal-2024-celltype"
+      "wamsley-2024-scgene"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "GEO public",
     "bidsCompliant": false,
     "starterQuestions": [
       "Is your gene of interest differentially expressed between autism and control cortex?",
       "Do frontal and temporal cortex show the same autism-related expression changes?",
       "Which gene pairs are most correlated in autism brain but not in control brain?"
-    ]
+    ],
+    "accession": "GSE28521",
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 21614001, PMC3607626), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "21614001",
+    "pmcid": "PMC3607626"
   },
   {
     "id": "epi25-wes",
@@ -595,14 +578,20 @@
       "asc-wes",
       "ipsych-pgc-asd-gwas"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (summary statistics)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Does your gene carry more damaging mutations in epilepsy patients than in controls?",
       "Which ion channel genes have the strongest rare variant burden in DEE specifically?",
       "Do GABA receptor genes show epilepsy-specific burden compared to glutamate receptors?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 38212586, PMC11590751), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "38212586",
+    "pmcid": "PMC11590751"
   },
   {
     "id": "asc-wes",
@@ -612,7 +601,7 @@
     "whatYouCanDo": "Look up rare variant burden for any gene in autism. Compare directly to Epi25 epilepsy burden. Identify genes enriched in autism vs. epilepsy vs. both.",
     "whatYouCant": "Access individual-level variant data (summary statistics only). Study regulatory/non-coding variants (exome captures coding regions only).",
     "citation": "Autism Sequencing Consortium. Gene-level burden results from WES of autism families.",
-    "doi": null,
+    "doi": "10.1016/j.cell.2019.12.036",
     "dataType": [
       "WES",
       "burden test statistics"
@@ -621,7 +610,7 @@
     "sampleSize": "Thousands of autism trios and cases",
     "accessLevel": "PUBLIC",
     "accessNotes": "Gene-level results available alongside Epi25 from the WES Browser.",
-    "primaryUrl": "https://epi25.broadinstitute.org/",
+    "primaryUrl": "https://asc.broadinstitute.org/",
     "downloadUrls": [
       {
         "label": "WES Browser (shared with Epi25)",
@@ -655,14 +644,20 @@
       "epi25-wes",
       "denovo-db"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (summary statistics)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Does your gene carry excess rare mutations in autism families?",
       "Which genes have significant burden in autism but not in epilepsy (or vice versa)?",
       "Do the top autism burden genes overlap with the top convergent targets from CHOOSE?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "ASC flagship = Satterstrom et al. 2020 Cell (10.1016/j.cell.2019.12.036). primaryUrl corrected from epi25.broadinstitute.org to asc.broadinstitute.org. DOI resolves to PMID 31981491 (PMC7250485).",
+    "pmid": "31981491",
+    "pmcid": "PMC7250485"
   },
   {
     "id": "ipsych-pgc-asd-gwas",
@@ -706,14 +701,20 @@
       "pgc-cross-disorder",
       "pgc3-scz"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (PGC summary statistics)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Is there common variant association signal near your gene of interest?",
       "Which of the 5 genome-wide significant loci are closest to known autism genes?",
       "How much autism heritability is explained by variants near ion channel genes (LDSC)?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 30804558, PMC6454898), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "30804558",
+    "pmcid": "PMC6454898"
   },
   {
     "id": "pgc-cross-disorder",
@@ -758,14 +759,20 @@
       "ipsych-pgc-asd-gwas",
       "pgc3-scz"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (PGC summary statistics)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Does your genomic region carry autism-specific risk or risk shared across disorders?",
       "Which psychiatric conditions share the most genetic overlap with autism?",
       "Are the pleiotropic loci near genes involved in synaptic function or gene regulation?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 31835028, PMC7077032), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "31835028",
+    "pmcid": "PMC7077032"
   },
   {
     "id": "pgc3-scz",
@@ -812,14 +819,20 @@
       "ipsych-pgc-asd-gwas",
       "pgc-cross-disorder"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (PGC summary statistics)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Does your autism-associated region also carry schizophrenia risk?",
       "Is TCF4 (a top schizophrenia gene) associated with autism risk in GWAS?",
       "How much genetic correlation exists between autism and schizophrenia at this locus?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 35396580, PMC9392466), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "35396580",
+    "pmcid": "PMC9392466"
   },
   {
     "id": "denovo-db",
@@ -872,14 +885,20 @@
       "sfari-gene",
       "gpf-sfari"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public",
     "bidsCompliant": false,
     "starterQuestions": [
       "How many de novo mutations hit your gene in autism probands vs controls?",
       "Are de novo mutations in your gene clustered in a specific protein domain?",
       "Which genes have the highest de novo mutation rate in autism families?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 27899662, PMC5210567), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "27899662",
+    "pmcid": "PMC5210567"
   },
   {
     "id": "gpf-sfari",
@@ -934,14 +953,18 @@
       "denovo-db",
       "sfari-gene"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (API queries)",
     "bidsCompliant": false,
     "starterQuestions": [
       "What variants have been found in your gene across SFARI autism families?",
       "Are the variants in your gene inherited or de novo?",
       "How many autism families carry damaging variants in a specific gene?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "resource-no-doi",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "SFARI GPF genotype/phenotype browser; tool/API, no single dataset DOI. primaryUrl canonical."
   },
   {
     "id": "sfari-gene",
@@ -986,14 +1009,20 @@
       "denovo-db",
       "gpf-sfari"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public",
     "bidsCompliant": false,
     "starterQuestions": [
       "What is the evidence score for your candidate gene in autism?",
       "Which high-confidence autism genes are transcription factors vs ion channels?",
       "How many autism genes overlap with epilepsy gene lists?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 24090431, PMC3851189), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "24090431",
+    "pmcid": "PMC3851189"
   },
   {
     "id": "psychencode-grn",
@@ -1051,14 +1080,20 @@
       "brainscope-grn",
       "psychscreen"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (Synapse open access)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which genes does MEF2C regulate in the brain according to the GRN?",
       "Do multiple autism transcription factors converge on the same target genes?",
       "Which enhancers mediate regulation between your TF and its targets?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 30545857, PMC6413328), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "30545857",
+    "pmcid": "PMC6413328"
   },
   {
     "id": "brainscope-grn",
@@ -1068,7 +1103,7 @@
     "whatYouCanDo": "Look up cell-type-specific regulation for any gene. Compare regulatory relationships across cell types. Identify cell-type-specific TF hubs. Download per-cell-type GRN files.",
     "whatYouCant": "See developmental timing (adult brain). Study rare cell types with low representation. Get experimentally validated links (these are computational predictions).",
     "citation": "brainSCOPE Phase II. Gerstein Lab, Yale University.",
-    "doi": null,
+    "doi": "10.1126/science.adi5199",
     "dataType": [
       "cell-type GRNs",
       "snRNA-seq"
@@ -1109,14 +1144,20 @@
       "psychencode-grn",
       "psychscreen"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public",
     "bidsCompliant": false,
     "starterQuestions": [
       "Does MEF2C regulate different targets in excitatory vs inhibitory neurons?",
       "Which cell type has the most TF-target edges for autism-associated regulators?",
       "Are ion channel genes regulated by different TFs in different cell types?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "brainSCOPE = Emani et al. 2024 Science (10.1126/science.adi5199, PMID 38781369). DOI resolves to PMID 38781369 (PMC11365579).",
+    "pmid": "38781369",
+    "pmcid": "PMC11365579"
   },
   {
     "id": "psychscreen",
@@ -1160,14 +1201,18 @@
       "psychencode-grn",
       "brainscope-grn"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (web interface)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Where are the active enhancers near your autism gene of interest?",
       "Which brain regions express your gene most highly?",
       "Does your gene's expression change across developmental stages?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "resource-no-doi",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "PsychSCREEN (Weng lab) web resource, part of PsychENCODE2; no single dataset DOI. primaryUrl canonical."
   },
   {
     "id": "brainspan",
@@ -1218,14 +1263,20 @@
     "relatedDatasets": [
       "cellxgene-census"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (Allen Institute)",
     "bidsCompliant": false,
     "starterQuestions": [
       "When during development is your autism gene most highly expressed?",
       "Do ion channel genes peak in expression at a different time than transcription factors?",
       "Which brain region shows the highest expression of SCN2A during fetal development?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 24695229, PMC4105188), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "24695229",
+    "pmcid": "PMC4105188"
   },
   {
     "id": "cellxgene-census",
@@ -1235,7 +1286,7 @@
     "whatYouCanDo": "Query gene expression across millions of brain cells by cell type, brain region, disease status. Compare expression patterns between genes. Verify cell-type specificity of autism genes.",
     "whatYouCant": "Run differential expression analysis within the browser (use the API for that). Access all original study metadata. Study developmental time precisely (mixed ages and protocols).",
     "citation": "CZI Single-Cell Biology. CZ CELLxGENE Discover.",
-    "doi": null,
+    "doi": "10.1093/nar/gkae1142",
     "dataType": [
       "scRNA-seq",
       "snRNA-seq"
@@ -1278,14 +1329,20 @@
     "relatedDatasets": [
       "brainspan"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (CZI, CC BY 4.0)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which brain cell types express your gene at the highest levels?",
       "Is your gene expressed in both excitatory and inhibitory neurons?",
       "How does cell-type expression of MEF2C compare to FOXP1?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "CZ CELLxGENE Discover platform paper, Nucleic Acids Research 2024 (10.1093/nar/gkae1142). DOI resolves to PMID 39607691 (PMC11701654).",
+    "pmid": "39607691",
+    "pmcid": "PMC11701654"
   },
   {
     "id": "gnomad",
@@ -1331,14 +1388,20 @@
       "denovo-db",
       "sfari-gene"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (Open Data Commons ODC-By 1.0)",
     "bidsCompliant": false,
     "starterQuestions": [
       "How rare is the variant you found in an autism patient?",
       "How constrained is your gene (pLI/LOEUF scores)?",
       "Is there a population-frequency difference for your variant across ancestries?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 32461654, PMC7334197), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "32461654",
+    "pmcid": "PMC7334197"
   },
   {
     "id": "gnomad-constraint",
@@ -1348,7 +1411,7 @@
     "whatYouCanDo": "Check whether a non-coding region near an autism gene is under evolutionary constraint. Prioritize regulatory variants by genomic conservation. Identify potentially functional non-coding regions.",
     "whatYouCant": "Determine what the constrained region does (constraint just means it matters). Link constraint to specific diseases. Interpret at single-nucleotide resolution (1kb windows).",
     "citation": "gnomAD v3.1.2 constraint scores.",
-    "doi": null,
+    "doi": "10.1038/s41586-023-06045-0",
     "dataType": [
       "non-coding constraint Z-scores"
     ],
@@ -1381,14 +1444,20 @@
     "relatedDatasets": [
       "gnomad"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public",
     "bidsCompliant": false,
     "starterQuestions": [
       "Is the non-coding region near your autism gene under evolutionary constraint?",
       "Which regulatory regions near FOXP1 are most constrained?",
       "Do the constrained non-coding windows overlap known enhancers?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "Gnocchi non-coding constraint = Chen/Francioli et al. 2024 Nature (10.1038/s41586-023-06045-0). DOI resolves to PMID 38057664 (PMC11629659).",
+    "pmid": "38057664",
+    "pmcid": "PMC11629659"
   },
   {
     "id": "hpo",
@@ -1434,14 +1503,20 @@
       "sfari-gene",
       "gnomad"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public (HPO license)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which genes are associated with both 'autism' and 'seizures' phenotypes?",
       "What phenotypes are linked to your candidate gene?",
       "How much phenotype overlap exists between MEF2C syndrome and Rett syndrome?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 37953324, PMC10767975), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "37953324",
+    "pmcid": "PMC10767975"
   },
   {
     "id": "chip-atlas",
@@ -1487,14 +1562,20 @@
     "relatedDatasets": [
       "psychencode-grn"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Public",
     "bidsCompliant": false,
     "starterQuestions": [
       "Which transcription factors bind near the promoter of your gene?",
       "Does MEF2C have ChIP-seq binding data in neural tissue?",
       "Are there TF binding peaks at the regulatory variants you identified?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 38749504, PMC11223792), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "38749504",
+    "pmcid": "PMC11223792"
   },
   {
     "id": "ndar",
@@ -1539,14 +1620,18 @@
       "spark-wgs",
       "sfari-base"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Controlled (NIH DUA required)",
     "bidsCompliant": true,
     "starterQuestions": [
       "Can you correlate genetic findings with clinical severity measures?",
       "What imaging phenotypes associate with variants in your gene?",
       "How do autism subtypes (verbal vs non-verbal) differ genetically?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "resource-no-doi",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "NIMH Data Archive; data-sharing infrastructure, no single dataset DOI. primaryUrl canonical."
   },
   {
     "id": "spark-wgs",
@@ -1595,14 +1680,20 @@
       "gpf-sfari",
       "sfari-gene"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Controlled (SFARI DUA required)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Does your regulatory variant segregate with autism in families?",
       "What non-coding variants near autism genes are found in SPARK trios?",
       "Do families with the same coding mutation show variable phenotypes?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 29420931, PMC7444276), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "29420931",
+    "pmcid": "PMC7444276"
   },
   {
     "id": "sfari-base",
@@ -1654,14 +1745,20 @@
       "spark-wgs",
       "gpf-sfari"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Controlled (SFARI/Autism Speaks DUA required)",
     "bidsCompliant": false,
     "starterQuestions": [
       "What non-coding variants exist near your gene in autism families?",
       "Do families with similar phenotypes share non-coding variants?",
       "What structural variants overlap regulatory regions of autism genes?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-doi-resolved",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "DOI resolves to a live PubMed record (PMID 28263302, PMC5501701), confirmed via NCBI ID converter 2026-07-07.",
+    "pmid": "28263302",
+    "pmcid": "PMC5501701"
   },
   {
     "id": "ucla-asd",
@@ -1671,7 +1768,7 @@
     "whatYouCanDo": "Large-scale brain expression analysis with statistical power that smaller studies lack.",
     "whatYouCant": "Access without PsychENCODE data use agreement. Most researchers will need institutional backing.",
     "citation": "PsychENCODE Consortium.",
-    "doi": null,
+    "doi": "10.1038/nature20612",
     "dataType": [
       "bulk RNA-seq"
     ],
@@ -1707,14 +1804,20 @@
       "psychencode-grn",
       "wamsley-2024-scgene"
     ],
-    "lastVerified": "2026-03-25",
+    "lastVerified": "2026-07-07",
     "license": "Controlled (PsychENCODE DUA via Synapse)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Is your gene differentially expressed in this large autism brain cohort?",
       "Do expression changes replicate findings from smaller postmortem studies?",
       "Which genes show the largest effect sizes in autism vs control brain?"
-    ]
+    ],
+    "accession": "syn4587609",
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "UCLA-ASD = Parikshak et al. 2016 Nature (10.1038/nature20612); PsychENCODE Synapse syn4587609. DOI resolves to PMID 27919067 (PMC7102905).",
+    "pmid": "27919067",
+    "pmcid": "PMC7102905"
   },
   {
     "id": "sanders-2026-ba22-multiomics",
@@ -1724,7 +1827,7 @@
     "whatYouCanDo": "Compare transcriptional and chromatin accessibility changes across 38 cell types between diagnosed and undiagnosed ASD. Analyze RFX3 motif accessibility and expression changes. Examine verbal vs non-verbal regulatory differences in specific neuron subtypes. Look at developmental trajectory of cell composition in controls.",
     "whatYouCant": "Access raw sequencing data (preprint, deposition status unclear). Study brain regions beyond BA22. Know which specific pathogenic variant drives which DEGs in the NDD/ASD group (heterogeneous variants pooled). Generalize verbal/non-verbal findings (small Ns, ~20-26).",
     "citation": "Suresh V, Wigdor EM, Hao Y, et al. Molecular dynamics of Brodmann Area 22 in development and autism. bioRxiv preprint, 2026.",
-    "doi": "pending",
+    "doi": "10.64898/2026.03.31.715694",
     "dataType": [
       "snRNA-seq",
       "snATAC-seq",
@@ -1733,12 +1836,12 @@
     "organism": "Human",
     "sampleSize": "100 donors (~500,000 nuclei), 38 cell types",
     "accessLevel": "GATED",
-    "accessNotes": "Preprint as of April 2026. No GEO accession visible yet. Supplementary Data tables S1-S13 likely contain DEG lists, DARs, motif accessibility, and eRegulon results. Raw data deposition status unknown -- check bioRxiv for updates.",
-    "primaryUrl": "https://www.biorxiv.org/",
+    "accessNotes": "Preprint as of April 2026. No GEO accession visible yet. Supplementary Data tables S1-S13 likely contain DEG lists, DARs, motif accessibility, and eRegulon results. Preprint live on bioRxiv (posted 2026-03-31, Suresh et al.; Sanders & Nowakowski senior) and indexed as PMC13060142. Raw data deposition status still unknown -- no GEO accession visible as of 2026-07-07.",
+    "primaryUrl": "https://www.biorxiv.org/content/10.64898/2026.03.31.715694v1",
     "downloadUrls": [
       {
         "label": "Preprint (bioRxiv)",
-        "url": "https://www.biorxiv.org/",
+        "url": "https://www.biorxiv.org/content/10.64898/2026.03.31.715694v1",
         "format": "PDF",
         "sizeApprox": "N/A"
       },
@@ -1829,13 +1932,19 @@
       "pasca-2026-organoids",
       "lipton-2024-mef2c"
     ],
-    "lastVerified": "2026-04-10",
+    "lastVerified": "2026-07-07",
     "license": "Preprint (data deposition pending)",
     "bidsCompliant": false,
     "starterQuestions": [
       "Do diagnosed and undiagnosed ASD show the same transcriptional changes at different magnitudes?",
       "Which cell types show the most chromatin accessibility changes in autism?",
       "Does the RFX3 transcription factor motif show differential accessibility in your cell type of interest?"
-    ]
+    ],
+    "accession": null,
+    "verificationStatus": "verified-primary",
+    "verificationDate": "2026-07-07",
+    "verificationNote": "Suresh et al. 2026 bioRxiv, 'Molecular dynamics of Brodmann Area 22 in development and autism' (Sanders & Nowakowski senior); PMC13060142. DOI + URL corrected from 'pending'/bare-domain placeholder.",
+    "pmcid": "PMC13060142",
+    "pmid": null
   }
 ]
