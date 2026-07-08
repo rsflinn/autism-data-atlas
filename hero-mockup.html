@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hero — full bleed</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --violet:#9B5BA0; --red:#E94835; --orange:#E5824A;
+    --plum:#2A1B33; --cream:#F4EBE0;
+    --sans:"Inter",system-ui,sans-serif; --disp:"Anton",system-ui,sans-serif;
+  }
+  *{margin:0;padding:0;box-sizing:border-box;}
+  body{font-family:var(--sans);background:#241830;}
+
+  .hero{position:relative;height:100vh;min-height:660px;overflow:hidden;background:#241830;}
+
+  /* blurred copy fills the frame edge-to-edge so nothing hard-crops */
+  .bg-blur{position:absolute;inset:-60px;z-index:0;
+    background:url("Glass Brain Flowers.png") center/cover no-repeat;
+    filter:blur(42px) brightness(.5) saturate(1.15);transform:scale(1.16);}
+  /* sharp full head, feathered left/right so it melts into the blur */
+  .photo{position:absolute;top:0;height:100%;left:50%;transform:translateX(-50%);
+    width:auto;z-index:1;
+    -webkit-mask-image:linear-gradient(90deg,transparent 0,#000 15%,#000 85%,transparent 100%);
+            mask-image:linear-gradient(90deg,transparent 0,#000 15%,#000 85%,transparent 100%);}
+  /* warm scrim: dark on the type side, clears over the flowers */
+  .scrim{position:absolute;inset:0;z-index:2;background:
+    linear-gradient(100deg, rgba(42,27,51,.92) 0%, rgba(42,27,51,.64) 40%,
+      rgba(42,27,51,.18) 68%, rgba(42,27,51,.34) 100%),
+    linear-gradient(180deg, rgba(26,18,32,.6) 0%, transparent 20%,
+      transparent 66%, rgba(26,18,32,.55) 100%);}
+
+  .topbar{position:absolute;top:0;left:0;right:0;z-index:4;
+    display:flex;justify-content:space-between;align-items:center;
+    padding:30px 56px;gap:24px;}
+  .topbar span{font-size:12px;font-weight:700;letter-spacing:.18em;
+    text-transform:uppercase;color:var(--cream);opacity:.9;}
+
+  .stage{position:relative;z-index:3;height:100%;display:flex;flex-direction:column;
+    justify-content:center;padding:0 56px;max-width:64%;}
+  .kicker{font-family:var(--sans);font-size:clamp(13px,1.1vw,15px);font-weight:700;
+    letter-spacing:.2em;text-transform:uppercase;color:var(--orange);margin-bottom:18px;}
+  h1{font-family:var(--disp);font-weight:400;font-size:clamp(56px,8.6vw,150px);
+    line-height:.84;letter-spacing:.012em;text-transform:uppercase;color:var(--cream);}
+  h1 .pop{color:var(--orange);}
+  .lead{font-size:clamp(17px,1.45vw,22px);line-height:1.5;color:rgba(244,235,224,.94);
+    max-width:46ch;margin-top:26px;text-shadow:0 1px 16px rgba(0,0,0,.45);}
+  .cta{display:flex;gap:14px;margin-top:32px;flex-wrap:wrap;}
+  .btn{display:inline-flex;align-items:center;gap:9px;border-radius:999px;
+    font-size:15px;font-weight:600;letter-spacing:.02em;padding:16px 28px;
+    text-decoration:none;transition:transform .2s,background .2s;}
+  .btn:hover{transform:translateY(-2px);}
+  .btn.solid{background:var(--orange);color:#241017;}
+  .btn.solid:hover{background:#f0975f;}
+  .btn.ghost{border:1.5px solid rgba(244,235,224,.65);color:var(--cream);}
+  .btn.ghost:hover{background:rgba(244,235,224,.12);}
+
+  @media(max-width:900px){
+    .stage{max-width:100%;}
+    .scrim{background:
+      linear-gradient(180deg, rgba(42,27,51,.5) 0%, rgba(42,27,51,.72) 55%, rgba(26,18,32,.86) 100%);}
+    .topbar span:last-child{display:none;}
+  }
+</style>
+</head>
+<body>
+  <section class="hero">
+    <div class="bg-blur"></div>
+    <img class="photo" src="Glass Brain Flowers.png" alt="Glass head filled with flowers, roots reaching below">
+    <div class="scrim"></div>
+    <div class="topbar">
+      <span>Autism Genome Atlas</span>
+      <span>For families &amp; clinicians</span>
+    </div>
+    <div class="stage">
+      <p class="kicker">When the genetic test comes back clear</p>
+      <h1>Autism<br>has many<br><span class="pop">roots.</span></h1>
+      <p class="lead">A standard exome reads a small slice of the genome. Much of the biology behind autism sits outside it. Start here to see what the test can miss and where to look next.</p>
+      <div class="cta">
+        <a href="#" class="btn solid">Start here →</a>
+        <a href="#" class="btn ghost">Explore the research</a>
+      </div>
+    </div>
+  </section>
+</body>
+</html>

@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Autism Genome Atlas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+<style>
+  :root {
+    --violet: #9B5BA0;
+    --red: #E94835;
+    --orange: #E5824A;
+    --plum: #2A1B33;
+    --cream: #F4EBE0;
+    --pop: #E94835;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body { height: 100%; }
+
+  body {
+    font-family: "Inter", system-ui, -apple-system, sans-serif;
+    background: var(--plum);
+    color: var(--cream);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  .hero {
+    position: relative;
+    width: 100%;
+    min-height: 100svh;
+    min-height: 100vh;
+    overflow: hidden;
+    background: var(--plum);
+    isolation: isolate;
+  }
+
+  /* Layer 1 — blurred, darkened backfill so the frame is full-bleed
+     without ever hard-cropping the flowers or roots of the sharp copy. */
+  .bg-blur {
+    position: absolute;
+    inset: -6%;
+    background: url("Glass Brain Flowers.png") no-repeat center center;
+    background-size: cover;
+    filter: blur(38px) saturate(1.15) brightness(0.62);
+    transform: scale(1.12);
+    z-index: 0;
+    animation: driftZoom 26s ease-in-out infinite alternate;
+  }
+
+  /* Layer 2 — sharp, fully-contained image anchored right.
+     Because it's `contain`, the whole head stays visible: flowers up top,
+     roots trailing into the neck at the bottom. */
+  .photo {
+    position: absolute;
+    inset: 0;
+    background: url("Glass Brain Flowers.png") no-repeat;
+    background-size: contain;
+    background-position: right center;
+    z-index: 1;
+    animation: floatIn 1.4s cubic-bezier(.2,.7,.2,1) both;
+  }
+
+  /* Layer 3 — scrims. Left-to-right on desktop keeps the type side dark
+     for WCAG-safe contrast while letting the image breathe on the right. */
+  .scrim {
+    position: absolute;
+    inset: 0;
+    z-index: 2;
+    pointer-events: none;
+    background:
+      linear-gradient(90deg,
+        rgba(42,27,51,0.97) 0%,
+        rgba(42,27,51,0.90) 26%,
+        rgba(42,27,51,0.55) 48%,
+        rgba(42,27,51,0.10) 66%,
+        rgba(42,27,51,0.0) 80%),
+      linear-gradient(180deg,
+        rgba(42,27,51,0.55) 0%,
+        rgba(42,27,51,0.0) 22%,
+        rgba(42,27,51,0.0) 78%,
+        rgba(42,27,51,0.45) 100%);
+  }
+
+  /* Editorial inset frame */
+  .frame {
+    position: absolute;
+    inset: 22px;
+    z-index: 4;
+    border: 1px solid rgba(244,235,224,0.28);
+    pointer-events: none;
+  }
+
+  /* Corner labels — small uppercase, deck-style */
+  .labels {
+    position: absolute;
+    top: 40px;
+    left: 44px;
+    right: 44px;
+    z-index: 5;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 16px;
+    font-size: 11px;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    color: rgba(244,235,224,0.82);
+    font-weight: 600;
+  }
+
+  .labels .right { color: rgba(244,235,224,0.62); }
+
+  .labels .dot::before {
+    content: "";
+    display: inline-block;
+    width: 7px; height: 7px;
+    margin-right: 10px;
+    border-radius: 50%;
+    background: var(--pop);
+    vertical-align: middle;
+    transform: translateY(-1px);
+  }
+
+  /* Content */
+  .content {
+    position: relative;
+    z-index: 5;
+    min-height: 100svh;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 120px 44px 88px;
+  }
+
+  .inner { max-width: 780px; }
+
+  .kicker {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    font-size: clamp(0.72rem, 1vw, 0.82rem);
+    letter-spacing: 0.24em;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: var(--cream);
+    margin-bottom: 26px;
+    animation: rise 0.9s ease both 0.1s;
+  }
+  .kicker::before {
+    content: "";
+    width: clamp(28px, 4vw, 54px);
+    height: 2px;
+    background: var(--pop);
+    flex: none;
+  }
+
+  h1 {
+    font-family: "Anton", "Inter", sans-serif;
+    font-weight: 400;
+    text-transform: uppercase;
+    font-size: clamp(3.2rem, 11.5vw, 9.2rem);
+    line-height: 0.86;
+    letter-spacing: 0.005em;
+    color: var(--cream);
+    margin-bottom: 34px;
+    animation: rise 1s ease both 0.2s;
+  }
+  h1 .pop { color: var(--pop); }
+  h1 .thin { display: block; }
+
+  .lead {
+    font-size: clamp(1rem, 1.35vw, 1.2rem);
+    line-height: 1.6;
+    color: rgba(244,235,224,0.9);
+    max-width: 46ch;
+    margin-bottom: 42px;
+    animation: rise 1s ease both 0.32s;
+  }
+
+  .actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    animation: rise 1s ease both 0.44s;
+  }
+
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    font-family: "Inter", sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    padding: 17px 30px;
+    border-radius: 2px;
+    text-decoration: none;
+    cursor: pointer;
+    border: 1.5px solid transparent;
+    transition: transform 0.2s ease, background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  }
+  .btn-primary {
+    background: var(--pop);
+    color: var(--plum);
+  }
+  .btn-primary:hover { transform: translateY(-2px); background: #ff5a45; }
+  .btn-primary .arrow { transition: transform 0.2s ease; }
+  .btn-primary:hover .arrow { transform: translateX(4px); }
+
+  .btn-secondary {
+    background: transparent;
+    color: var(--cream);
+    border-color: rgba(244,235,224,0.5);
+  }
+  .btn-secondary:hover {
+    transform: translateY(-2px);
+    border-color: var(--cream);
+    background: rgba(244,235,224,0.08);
+  }
+
+  /* Animations */
+  @keyframes rise {
+    from { opacity: 0; transform: translateY(22px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+  @keyframes floatIn {
+    from { opacity: 0; transform: translateX(26px) scale(1.02); }
+    to   { opacity: 1; transform: translateX(0) scale(1); }
+  }
+  @keyframes driftZoom {
+    from { transform: scale(1.12) translate(0, 0); }
+    to   { transform: scale(1.2) translate(-1.5%, -1%); }
+  }
+
+  /* ---------- Responsive ---------- */
+
+  /* Tablet / small desktop: pull the sharp head slightly off-frame right
+     so the type has more room, and lean harder on the scrim. */
+  @media (max-width: 1024px) {
+    .photo { background-position: right -6vw center; background-size: 130% auto; }
+    .scrim {
+      background:
+        linear-gradient(90deg,
+          rgba(42,27,51,0.97) 0%,
+          rgba(42,27,51,0.86) 34%,
+          rgba(42,27,51,0.55) 58%,
+          rgba(42,27,51,0.18) 82%,
+          rgba(42,27,51,0.0) 100%),
+        linear-gradient(180deg,
+          rgba(42,27,51,0.5) 0%,
+          rgba(42,27,51,0.0) 24%,
+          rgba(42,27,51,0.0) 74%,
+          rgba(42,27,51,0.5) 100%);
+    }
+  }
+
+  /* Phone: stack it. Image anchors to the TOP (flowers + face visible),
+     type sits in the lower half over a bottom-up scrim. */
+  @media (max-width: 720px) {
+    .frame { inset: 14px; }
+    .labels { top: 30px; left: 30px; right: 30px; font-size: 10px; letter-spacing: 0.2em; }
+    .labels .right { display: none; }
+
+    .photo {
+      background-size: 118% auto;
+      background-position: center top -2vh;
+    }
+    .bg-blur { filter: blur(30px) saturate(1.15) brightness(0.55); }
+
+    .scrim {
+      background:
+        linear-gradient(180deg,
+          rgba(42,27,51,0.55) 0%,
+          rgba(42,27,51,0.15) 26%,
+          rgba(42,27,51,0.35) 46%,
+          rgba(42,27,51,0.9) 66%,
+          rgba(42,27,51,0.98) 100%);
+    }
+
+    .content {
+      justify-content: flex-end;
+      padding: 90px 30px 64px;
+    }
+    .inner { max-width: 100%; }
+    h1 { font-size: clamp(3rem, 17vw, 5rem); margin-bottom: 26px; }
+    .kicker { margin-bottom: 20px; }
+    .lead { font-size: 1rem; max-width: 100%; margin-bottom: 32px; }
+  }
+
+  @media (max-width: 400px) {
+    .content { padding: 80px 22px 52px; }
+    .actions { flex-direction: column; align-items: stretch; }
+    .btn { justify-content: center; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, .bg-blur { animation: none !important; }
+    .btn:hover { transform: none; }
+  }
+</style>
+</head>
+<body>
+  <section class="hero" aria-label="Autism Genome Atlas">
+    <div class="bg-blur" aria-hidden="true"></div>
+    <div class="photo" role="img" aria-label="A clear glass human head filled with vivid red, purple and orange flowers where the brain would be, with plant roots trailing down into the neck."></div>
+    <div class="scrim" aria-hidden="true"></div>
+    <div class="frame" aria-hidden="true"></div>
+
+    <div class="labels">
+      <span class="left dot">Autism Genome Atlas</span>
+      <span class="right">For families &amp; clinicians</span>
+    </div>
+
+    <div class="content">
+      <div class="inner">
+        <p class="kicker">When the genetic test comes back clear</p>
+        <h1>
+          Autism has<br />
+          many <span class="pop">roots.</span>
+        </h1>
+        <p class="lead">
+          A standard exome reads a small slice of the genome. Much of the biology behind autism sits outside it. Start here to see what the test can miss and where to look next.
+        </p>
+        <div class="actions">
+          <a class="btn btn-primary" href="#start">Start here <span class="arrow">&rarr;</span></a>
+          <a class="btn btn-secondary" href="#research">Explore the research</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
