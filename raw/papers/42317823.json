@@ -1,0 +1,17 @@
+{
+  "pmid": "42317823",
+  "title": "Multimodal Training to Unimodal Deployment: Leveraging Unstructured Data During Training to Optimize Structured Data Only Deployment.",
+  "authors": [
+    "Wang, Zigui",
+    "Sun, Minghui",
+    "Shu, Jiang",
+    "Engelhard, Matthew M",
+    "Franz, Lauren",
+    "Goldstein, Benjamin A"
+  ],
+  "abstract": "Unstructured Electronic Health Record (EHR) data-such as clinical notes-contain clinical contextual observations that are not directly reflected in structured data fields. This additional information can substantially improve model learning. However, due to their unstructured nature, these data are often unavailable or impractical to use when deploying a model. We introduce a multimodal learning framework that leverages unstructured EHR data during training while producing a model that can be deployed using only structured EHR data. Using a cohort of 3,466 children evaluated for late talking, we generated note embeddings with BioClinicalBERT and encoded structured embeddings from demographics and medical codes. A note-based teacher model and a structured-only student model were jointly trained using contrastive learning and contrastive knowledge distillation loss, producing a strong classifier (AUROC = 0.985). Our proposed model reached AUROC of 0.705-outperforming the structured-only baseline of 0.656. These results demonstrate that incorporating unstructured data during training enhances the model's capacity to identify task-relevant information within structured EHR data, enabling a deployable structured- only phenotype model.",
+  "journal": "AMIA Joint Summits on Translational Science proceedings. AMIA Joint Summits on Translational Science",
+  "date": "2026-06-01",
+  "mesh_terms": [],
+  "doi": ""
+}

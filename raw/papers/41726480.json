@@ -1,0 +1,21 @@
+{
+  "pmid": "41726480",
+  "title": "RAG vs Reddit: Decoding Autism Conversations on Reddit with LLMs and Topic Modeling.",
+  "authors": [
+    "Wattegama, Deshan",
+    "Black, Benjamin",
+    "Moen, Marcus",
+    "Shyu, Chi-Ren"
+  ],
+  "abstract": "Social media platforms like Reddit have become vital spaces for autistic individuals and caregivers to seek advice, share experiences, and discuss challenges. Simultaneously, Large Language Models (LLMs) are increasingly used to provide medical guidance. This study examines autism-related discussions on Reddit, comparing them with clinician-patient discussions and evaluating the effectiveness of an autism-specific Retrieval-Augmented Generation (RAG) system. We applied BERTopic to identify key discussion themes in r/autism and r/autism_parenting, revealing significant discussions around behavioral challenges, and practical support. Comparing clinical messages from the University of Missouri Thompson Center for Autism and Neurodevelopment, we found caregivers in clinical settings focused more on medication management, whereas online discussions emphasized non-traditional therapies. We then assessed LLM-generated responses against Reddit peer advice, discussing the differences in accuracy, relevance, empathy and helpfulness. This work underscores the potential of RAG systems in enhancing autism-related guidance while emphasizing the importance of community-driven insights in healthcare conversations.",
+  "journal": "AMIA ... Annual Symposium proceedings. AMIA Symposium",
+  "date": "2025-05-22",
+  "mesh_terms": [
+    "Humans",
+    "Large Language Models",
+    "Autistic Disorder",
+    "Social Media",
+    "Communication"
+  ],
+  "doi": ""
+}
