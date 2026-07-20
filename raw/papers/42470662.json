@@ -1,0 +1,20 @@
+{
+  "pmid": "42470662",
+  "doi": "10.1002/epi.70268",
+  "title": "Environmental and treatment-related factors associated with developmental outcomes in genetic epilepsies.",
+  "authors": "Bosselmann et al.",
+  "journal": "Epilepsia",
+  "date": "2026-07-18",
+  "abstract": "Cross-sectional analysis of 970 individuals across 93 NDDs in the Simons Searchlight dataset (67% with epilepsy). Individuals with epilepsy had lower adaptive function (Vineland-3). Environmental exposures explained more outcome variance than genetic etiology alone (additional R2=19.6%), and the added variance was gene-specific, ranging from ~15% (SCN2A, SLC6A1) to >30% (16p11.2 deletion); ~60% of variance remained unexplained.",
+  "source": "pubmed",
+  "relevance_score": 25,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 5
+  },
+  "decision": "INTEGRATE"
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "42472273",
+  "doi": "10.1002/jcv2.70148",
+  "title": "Shared genetics between ADHD and reading/language abilities: Genome-wide correlations, stratified enrichment, cross-trait association, and mendelian randomization.",
+  "authors": "Zhao et al.",
+  "journal": "JCPP Advances",
+  "date": "2026-07-18",
+  "abstract": "Integrated PGC ADHD GWAS (38,691 cases; 186,843 controls) with GenLang language/reading GWAS. Genome-wide genetic correlations were negative and significant between ADHD and word reading, nonword reading, spelling and phoneme awareness. Stratified LDSC showed heritability enrichment concentrated in conserved/constrained annotations (GERP, phastCons); cross-trait loci mapped near neurodevelopmental genes including DCC, MEF2C and ST3GAL3. Authors caution effect sizes are modest.",
+  "source": "pubmed",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 8,
+    "novelty": 6,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

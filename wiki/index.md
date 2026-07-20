@@ -395,3 +395,8 @@ New INTEGRATE findings filed after the scan pipeline was found writing to a dead
 - [DYRK1A Signaling in the Brain: Molecular Mechanisms and Neurotransmitter Regulation.](findings/42405393.md) -- Paul et al., Curr Neurovasc Res (2026-07-02)
 - [Roles of histone lysine methylation in neurodevelopment and related disorders.](findings/42371607.md) -- Chen et al., Ibrain (2026-06-04)
 - [A Novel Variant of the CHD8 Gene in a Patient with Autism Spectrum Disorder.](findings/42353758.md) -- Falcone et al., Genes (Basel) (2026-05-23)
+
+### Daily scan 2026-07-20
+- [Rare Variants in Purinergic P2X Receptor Genes in Individuals With Autism Spectrum Disorder: An Exploratory Study.](findings/42471841.md) -- Human Mutation, 2026-07-18 (score 21, tier C)
+- [Shared genetics between ADHD and reading/language abilities: Genome-wide correlations, stratified enrichment, cross-trait association, and mendelian randomization.](findings/42472273.md) -- JCPP Advances, 2026-07-18 (score 30, tier C)
+- [Environmental and treatment-related factors associated with developmental outcomes in genetic epilepsies.](findings/42470662.md) -- Epilepsia, 2026-07-18 (score 25, tier C)

@@ -1,0 +1,20 @@
+{
+  "pmid": "42471841",
+  "doi": "10.1155/humu/5522396",
+  "title": "Rare Variants in Purinergic P2X Receptor Genes in Individuals With Autism Spectrum Disorder: An Exploratory Study.",
+  "authors": "Unsel-Bolat et al.",
+  "journal": "Human Mutation",
+  "date": "2026-07-18",
+  "abstract": "Retrospective WES review of individuals diagnosed with ASD. Eleven individuals carried heterozygous variants in purinergic P2X receptor genes (P2RX4, P2RX5, P2RX7), including an in-frame deletion (p.Ile322del), a truncating variant (p.Tyr366LeufsTer7) and a canonical splice-site variant (c.614+1G>A). Core clinical features across all genes were ASD, intellectual disability and epilepsy. Authors state findings are hypothesis-generating and lack segregation and functional validation.",
+  "source": "pubmed",
+  "relevance_score": 21,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 1,
+    "novelty": 6,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}
