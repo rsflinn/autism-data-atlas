@@ -400,3 +400,4 @@ New INTEGRATE findings filed after the scan pipeline was found writing to a dead
 - [Rare Variants in Purinergic P2X Receptor Genes in Individuals With Autism Spectrum Disorder: An Exploratory Study.](findings/42471841.md) -- Human Mutation, 2026-07-18 (score 21, tier C)
 - [Shared genetics between ADHD and reading/language abilities: Genome-wide correlations, stratified enrichment, cross-trait association, and mendelian randomization.](findings/42472273.md) -- JCPP Advances, 2026-07-18 (score 30, tier C)
 - [Environmental and treatment-related factors associated with developmental outcomes in genetic epilepsies.](findings/42470662.md) -- Epilepsia, 2026-07-18 (score 25, tier C)
+- [2026-07-20] [A cross-scale physical framework for transcription-associated CPEB4 microexon susceptibility and crowding-enhanced isoform self-association: toward a biophysical mechanism of idiopathic autism.](findings/42476190.md) -- score 20, INTEGRATE (CPEB4 microexon, theoretical)

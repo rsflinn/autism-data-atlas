@@ -1,0 +1,20 @@
+{
+  "pmid": "42476190",
+  "doi": "10.1088/1478-3975/ae8d70",
+  "title": "A cross-scale physical framework for transcription-associated CPEB4 microexon susceptibility and crowding-enhanced isoform self-association: toward a biophysical mechanism of idiopathic autism.",
+  "authors": "Alvarado et al.",
+  "journal": "Physical biology",
+  "date": "2026-07-20",
+  "abstract": "Co-transcriptional splicing and protein self-assembly are governed by coupled kinetic and thermodynamic constraints, such that modest changes in exon processing can propagate into substantial shifts in isoform-dependent mesoscale behavior. Here, we develop a cross-scale physical framework to examine whether transcription-associated kinetic pressure could differentially bias CPEB4 microexon selection and thereby reshape downstream isoform behavior. Using a simplified transcriptional kinetic model, we define an acetylation-associated high-throughput regime as a coarse-grained proxy for reduced time available for co-transcriptional exon recognition. Comparative sequence and structural analyses identify microexon 4 (me4) as less robust than microexon 3 (me3), with weaker cis-regulatory support and lower thermodynamic stability, consistent with greater susceptibility to omission under kinetically constrained conditions. A reduced probabilistic splicing framework accordingly predicts a directional bias against me4, superimposed on a basal transcript landscape in which the full-length isoform remains present. As a complementary downstream analysis, scaled-particle-theory calculations indicate that representative delta4-enriched scenarios thermodynamically favor homotypic self-association under macromolecular crowding, suggesting a plausible physical amplification route for modest splicing bias. Orthogonal measurements in a yeast perturbation system identify oxidative and spectroscopic signatures compatible with strong butyrate-associated physicochemical stress, but these are interpreted as perturbation readouts rather than direct measurements of neuronal histone acetylation or splicing. Together, these results define a testable cross-scale framework linking transcription-associated kinetic constraints, directional microexon susceptibility, and crowding-dependent remodeling of the CPEB4 isoform assembly landscape.",
+  "source": "pubmed",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 1,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 0
+  },
+  "decision": "INTEGRATE"
+}
