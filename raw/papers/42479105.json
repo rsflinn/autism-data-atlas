@@ -1,0 +1,20 @@
+{
+  "pmid": "42479105",
+  "title": "Differentially Methylated Regions in Human Rhombic Lip Compartments Are Enriched in Putative Active Enhancers, Human Accelerated Regions, and Medulloblastoma Copy Number Aberrations.",
+  "authors": "Sun et al.",
+  "journal": "Cerebellum (London, England)",
+  "date": "2026-07-21",
+  "abstract": "The cerebellar rhombic lip (RL) of the prenatal hindbrain is a progenitor niche essential for cerebellar glutamatergic neurogenesis. Humans demonstrate a structural elaboration of this niche with a rhombic lip subventricular zone (RL-SVZ). Disruption of this zone causes cerebellar malformations and tumors, yet its gene regulatory networks are poorly understood. We present a predicted gene regulatory network for the human RL inferred from epigenomic maps of the developing human cerebellum. We generated DNA methylomes from microdissected mid-gestation human RL ventricular zone (RL-VZ) and RL-SVZ (N=9; 15-16 post-conception weeks) using low-input Enzymatic MethylSeq, and profiled histone marks of active promoters and enhancers in whole fetal cerebellum (N=6; 14 and 18 weeks). Transition from RL-VZ to RL-SVZ is accompanied by widespread hypomethylation, including 9,855 differentially methylated regions (DMRs) enriched for binding sites of ATOH1, NEUROD1/2, and HMGA1. Of these, 88.9% are hypomethylated in RL-SVZ, enriched in active enhancers and human accelerated regions, and depleted at promoters. By integrating DMRs with bulk tissue histone maps as well as single-cell chromatin accessibility and transcriptomic maps of the mid-gestation cerebellum, we inferred over 100,000 transcription factor-enhancer-gene links. Twenty-five DMRs overlap human accelerated regions near genes implicated in intellectual disability, autism spectrum disorder, and neurological deficits. DMRs are also enriched in copy-number aberrations in medulloblastoma, with ~25% overlapping known aberrant regions, nominating disrupted promoters and enhancers. These data provide a framework for interpreting non-coding variation in human cerebellar development and disease.",
+  "source": "pubmed",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "direct_autism_relevance": 5,
+    "noncoding_regulatory_relevance": 9,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 0
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1007/s12311-026-02057-4"
+}
