@@ -1,0 +1,20 @@
+{
+  "pmid": "42481851",
+  "title": "Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy.",
+  "authors": "Kim-McManus et al.",
+  "journal": "Nat Med",
+  "date": "2026-07-21",
+  "abstract": "Allele-selective ASOs targeting intronic SNPs reduced mutant SCN2A transcript in two boys with SCN2A-DEE; seizures fell 26% and 90% with neurodevelopmental gains; 16% of a separate SCN2A-RD cohort had compatible SNPs for allele-selective targeting.",
+  "source": "pubmed",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "autism_relevance": 7,
+    "noncoding_regulatory": 7,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "celltype_specificity": 1,
+    "phenotype_severity": 5
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1038/s41591-026-04527-y"
+}

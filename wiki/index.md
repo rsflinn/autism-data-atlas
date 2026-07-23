@@ -402,3 +402,31 @@ New INTEGRATE findings filed after the scan pipeline was found writing to a dead
 - [Environmental and treatment-related factors associated with developmental outcomes in genetic epilepsies.](findings/42470662.md) -- Epilepsia, 2026-07-18 (score 25, tier C)
 - [2026-07-20] [A cross-scale physical framework for transcription-associated CPEB4 microexon susceptibility and crowding-enhanced isoform self-association: toward a biophysical mechanism of idiopathic autism.](findings/42476190.md) -- score 20, INTEGRATE (CPEB4 microexon, theoretical)
 - [Differentially Methylated Regions in Human Rhombic Lip Compartments Are Enriched in Putative Active Enhancers, Human Accelerated Regions, and Medulloblastoma Copy Number Aberrations.](findings/42479105.md) -- Sun et al., Cerebellum (London, England) (2026-07-21). Score 32, INTEGRATE.
+
+## Daily Scan -- 2026-07-23
+
+### INTEGRATE (4 papers)
+
+- [Non-Coding RNA Dysregulation in Autism Spectrum Disorder: Mechanisms, Biomarkers, and Therapeutic Perspectives.](findings/42480870.md) -- Elangovan et al., Behav Brain Res (2026-07-21). Score 28, INTEGRATE.
+- [16p11.2 microdeletion enhances gene expression variability between human iPSC-derived forebrain interneuron progenitor cells in culture.](findings/42488723.md) -- Yang et al., Front Mol Neurosci (2026-07-08). Score 35, INTEGRATE.
+- [Individualized antisense oligonucleotides for SCN2A-related developmental epileptic encephalopathy.](findings/42481851.md) -- Kim-McManus et al., Nat Med (2026-07-21). Score 32, INTEGRATE.
+- [Brain structure abnormalities in neurodevelopmental synaptopathies.](findings/42485845.md) -- Romagosa-Perez et al., Neuroimage Clin (2026-07-20). Score 22, INTEGRATE.
+
+### REVIEW (2 papers)
+
+- Psychiatric difficulties in females with fragile X syndrome: a systematic review and meta-analyses. (PMID 42487767) -- score 14, REVIEW.
+- CRISPR/Cas9-Engineered HEK293T Cellular Model Harboring the Pathogenic CDKL5 c.172A>T Variant Recapitulates Core Molecular Phenotypes of CDKL5 Deficiency Disorder. (PMID 42488191) -- score 14, REVIEW.
+
+### SKIP (7 papers)
+
+- Examining the Roles of Retrieval Practice and Post-Retrieval Feedback in Learning Among Autistic Adults. (PMID 42487339) -- score 9, SKIP.
+- Sex differences in internalising and externalising symptom patterns, pathway and persistence in adolescents receiving psychiatric care: a 2-year follow-up of the MILESTONE European cohort. (PMID 42481172) -- score 9, SKIP.
+- The Mirror Neuron System in Typically and Atypically Developing Children: Evolution, Dysfunction and Rehabilitative Purpose. A Systematic Review. (PMID 42480680) -- score 8, SKIP.
+- Isolation and characterization of a novel exopolysaccharide from the fermented probiotic ZZU-1 and its application for attenuating autism-like behaviors. (PMID 42487714) -- score 9, SKIP.
+- Perceptual distortions in PredNet and quantification of top-down/bottom-up flow. (PMID 42483304) -- score 6, SKIP.
+- The neuro-psychological dimensions of piano interaction: from mental health therapy to intelligent systems. (PMID 42482724) -- score 3, SKIP.
+- "My Sensory Experiences Tool": A Neurodiversity-Affirming Therapeutic Tool to Support the Sensory Challenges and Preferences of Autistic Children and Adults. (PMID 42483768) -- score 9, SKIP.
+
+### Notes
+- bioRxiv/medRxiv preprint search skipped: preprint MCP server required authentication in this non-interactive run. PubMed-only scan.
+

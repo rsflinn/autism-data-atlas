@@ -1,0 +1,20 @@
+{
+  "pmid": "42485845",
+  "title": "Brain structure abnormalities in neurodevelopmental synaptopathies.",
+  "authors": "Romagosa-Perez et al.",
+  "journal": "Neuroimage Clin",
+  "date": "2026-07-20",
+  "abstract": "MRI volumetry across SYNGAP1, GRIN-family and STXBP1 disorders found shared basal ganglia/thalamus/ventricle enlargement and white matter/cerebellar/limbic reduction; ventricular enlargement tracked ID, language and motor severity; amygdala deficits prominent in SYNGAP1 and GRINpathies.",
+  "source": "pubmed",
+  "relevance_score": 22,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 4,
+    "novelty": 5,
+    "celltype_specificity": 1,
+    "phenotype_severity": 5
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1016/j.nicl.2026.104038"
+}

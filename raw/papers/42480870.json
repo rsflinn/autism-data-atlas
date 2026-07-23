@@ -1,0 +1,20 @@
+{
+  "pmid": "42480870",
+  "title": "Non-Coding RNA Dysregulation in Autism Spectrum Disorder: Mechanisms, Biomarkers, and Therapeutic Perspectives.",
+  "authors": "Elangovan et al.",
+  "journal": "Behav Brain Res",
+  "date": "2026-07-21",
+  "abstract": "Review of ncRNA dysregulation (miRNA, lncRNA, circRNA, piRNA) in ASD, competing endogenous RNA networks regulating SHANK3, SYNGAP1, CHD8 and NMDAR signaling; proposes ncRNAs as candidate biomarkers pending replication.",
+  "source": "pubmed",
+  "relevance_score": 28,
+  "score_breakdown": {
+    "autism_relevance": 10,
+    "noncoding_regulatory": 9,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "celltype_specificity": 2,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.1016/j.bbr.2026.116379"
+}

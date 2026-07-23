@@ -1,0 +1,20 @@
+{
+  "pmid": "42488723",
+  "title": "16p11.2 microdeletion enhances gene expression variability between human iPSC-derived forebrain interneuron progenitor cells in culture.",
+  "authors": "Yang et al.",
+  "journal": "Front Mol Neurosci",
+  "date": "2026-07-08",
+  "abstract": "Isogenic iPSC interneuron progenitors with heterozygous 16p11.2 microdeletion show significantly greater cell-to-cell transcript variability across regulons and random gene sets; most-variable regulons enriched for cell-cycle genes regulated by autism/obesity-associated TFs.",
+  "source": "pubmed",
+  "relevance_score": 35,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 6,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "celltype_specificity": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.3389/fnmol.2026.1872405"
+}
