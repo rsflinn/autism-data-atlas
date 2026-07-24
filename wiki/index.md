@@ -430,3 +430,31 @@ New INTEGRATE findings filed after the scan pipeline was found writing to a dead
 ### Notes
 - bioRxiv/medRxiv preprint search skipped: preprint MCP server required authentication in this non-interactive run. PubMed-only scan.
 
+
+
+## Daily scan 2026-07-24
+
+PubMed edat window 2026/07/23-2026/07/24. 14 papers scored: 1 INTEGRATE, 6 REVIEW, 7 SKIP.
+
+### INTEGRATE
+- [findings/42488723.md](findings/42488723.md) -- 16p11.2 microdeletion enhances gene expression variability between human iPSC-derived forebrain interneuron progenitor cells in culture (PMID 42488723) -- score 33.
+
+### REVIEW
+- CRISPR/Cas9-Engineered HEK293T Cellular Model Harboring the Pathogenic CDKL5 c.172A>T Variant Recapitulates Core Molecular Phenotypes of CDKL5 Deficiency Disorder (PMID 42488191) -- score 14. [genes: CDKL5]
+- Psychiatric difficulties in females with fragile X syndrome: a systematic review and meta-analyses (PMID 42487767) -- score 14.
+- Brain structure abnormalities in neurodevelopmental synaptopathies (PMID 42485845) -- score 14. [genes: SYNGAP1, GRIN2A, STXBP1]
+- Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model (PMID 42493511) -- score 14.
+- Insights from zebrafish models of glutamatergic and GABAergic dysregulation in neurological and psychiatric disorders (PMID 42492721) -- score 13.
+- Disentangling Oscillatory and Aperiodic Neural Activity in Autism: A Spectral Parameterization Analysis of Neurofeedback Intervention (PMID 42492845) -- score 11.
+
+### SKIP
+- A Qualitative Study Exploring the Acceptability of Taking Part in a Large Multicentre RCT of Medication for Anxiety in Autistic Adults (the STRATA Trial) (PMID 42494082) -- score 9, SKIP.
+- Feasibility and Preliminary Efficacy of a Caregiver-Assisted Group-Based Naturalistic Developmental Behavioral Intervention Program for Autistic Preschoolers: A Pilot Randomized Controlled Trial (PMID 42494078) -- score 9, SKIP.
+- Transcranial direct current stimulation reshapes the high-speed dynamic Organization of the autistic brain: An EEG microstate and brain network analysis (PMID 42492722) -- score 8, SKIP.
+- Examining the Roles of Retrieval Practice and Post-Retrieval Feedback in Learning Among Autistic Adults (PMID 42487339) -- score 7, SKIP.
+- Fostering inclusion in clinical and research procedures in autistic youth through augmentative and alternative communication: a narrative review and a proposal for visual aids application in brain stimulation (PMID 42494744) -- score 5, SKIP.
+- Isolation and characterization of a novel exopolysaccharide from the fermented probiotic ZZU-1 and its application for attenuating autism-like behaviors (PMID 42487714) -- score 5, SKIP.
+- Chemogenetic Inhibition of the Cortical Amygdala Reduces Alcohol Intake and Decreases Disrupted Thalamic Connectivity During Alcohol Withdrawal in Dependent Female Mice (PMID 42492630) -- score 3, SKIP.
+
+### Notes
+- bioRxiv/medRxiv preprint search skipped: preprint MCP servers required authentication in this non-interactive run. PubMed-only scan.

@@ -1,20 +1,20 @@
 {
   "pmid": "42488723",
-  "title": "16p11.2 microdeletion enhances gene expression variability between human iPSC-derived forebrain interneuron progenitor cells in culture.",
+  "title": "16p11.2 microdeletion enhances gene expression variability between human iPSC-derived forebrain interneuron progenitor cells in culture",
   "authors": "Yang et al.",
   "journal": "Front Mol Neurosci",
   "date": "2026-07-08",
-  "abstract": "Isogenic iPSC interneuron progenitors with heterozygous 16p11.2 microdeletion show significantly greater cell-to-cell transcript variability across regulons and random gene sets; most-variable regulons enriched for cell-cycle genes regulated by autism/obesity-associated TFs.",
+  "doi": "10.3389/fnmol.2026.1872405",
+  "abstract": "The 574-kb 16p11.2 microdeletion raises risk for neurodevelopmental and energy-balance conditions, particularly autism and obesity, with considerable clinical heterogeneity. Using human iPSC-derived ventral telencephalic interneuron progenitors isogenic except for a heterozygous 16p11.2 microdeletion, single-cell RNA-seq revealed hundreds of differentially expressed transcripts (cell signaling, chromatin, neurodevelopment) and significantly greater transcript-level variability between heterozygous progenitors than isogenic wild-type, for regulon gene sets and random gene sets, indicating the locus itself has a genome-wide transcription-stabilizing property. The most variable regulons were enriched for cell-cycle genes and often regulated by transcription factors linked to autism and/or obesity.",
   "source": "pubmed",
-  "relevance_score": 35,
+  "relevance_score": 33,
   "score_breakdown": {
-    "autism_relevance": 9,
-    "noncoding_regulatory": 6,
-    "dataset_availability": 6,
-    "novelty": 7,
-    "celltype_specificity": 5,
+    "autism_relevance": 8,
+    "noncoding_regulatory": 5,
+    "dataset_availability": 7,
+    "novelty": 6,
+    "cell_type_specificity": 5,
     "phenotype_severity": 2
   },
-  "decision": "INTEGRATE",
-  "doi": "10.3389/fnmol.2026.1872405"
+  "decision": "INTEGRATE"
 }
