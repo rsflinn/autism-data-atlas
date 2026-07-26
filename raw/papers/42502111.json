@@ -1,0 +1,20 @@
+{
+  "pmid": "42502111",
+  "title": "Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model.",
+  "authors": "Alberca CD et al.",
+  "journal": "Molecular psychiatry",
+  "date": "2026-07-25",
+  "abstract": "Autism spectrum disorder (ASD) is a multifactorial neurodevelopmental disorder with complex molecular etiology. Since genetic causes account for less than 50% of ASD cases, novel approaches are required to overcome the challenges of characterizing genes and molecular pathways linking risk alleles to phenotype. Here we use RNA-sequencing, 3-dimensional protein-centric chromatin conformation (Hi-ChIP), and whole genome DNA methylation sequencing approaches to investigate hippocampal tissue from an ASD mouse model (Cntnap2 knockout) to determine if multi-omic data integration improves the resolution of key molecular pathways contributing to the complex ASD phenotype. Each omic dataset individually identified disruptions in numerous genes and pathways: 699 downregulated genes with enrichment of neuronal ontological terms; unique chromatin interactions in Cntnap2 KO mice; and most differentially methylated genes (1220/1659) with a neuronal function. The multi-omic data integration reduced heterogeneity and refined the data to 43 genes with links to ASD (e.g., Zbtb18, Cttnbp2, Gabbr2). Pathway analysis of these 43 genes identified one gene ontological term: regulation of neuronal synaptic plasticity. Findings are consistent with large-scale gene expression studies of human ASD postmortem brain tissue.",
+  "doi": "10.1038/s41380-026-03772-4",
+  "source": "pubmed",
+  "relevance_score": 31,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 7,
+    "dataset_availability": 6,
+    "novelty": 7,
+    "cell_type_specificity": 2,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

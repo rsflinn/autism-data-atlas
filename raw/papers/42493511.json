@@ -1,0 +1,20 @@
+{
+  "pmid": "42493511",
+  "doi": "10.1038/s41467-026-74958-1",
+  "title": "Acute rapamycin treatment reveals distinct mechanisms of dysfunction in a maternal inflammation mouse model.",
+  "authors": "Le Belle JE, Condro MC, Cepeda C, ... Geschwind D, ... Kornblum HI",
+  "journal": "Nature Communications",
+  "date": "2026-07-23",
+  "abstract": "Maternal inflammatory response (MIR) during early mouse gestation induces physiological and behavioral changes associated with ASD. Mild MIR causes chronic systemic and brain inflammation, mTOR pathway activation, mild brain overgrowth, sensory processing dysregulation and repetitive behavior. Acute rapamycin (within 2 hours) rescues neuronal hyperexcitability, seizure susceptibility, functional network connectivity, brain community structure, repetitive behaviors and sensory over-responsivity in adult MIR offspring. These effects coincide with altered expression of genes associated with ASD, ion channels and epilepsy. mTOR dysregulation drives dysfunctional brain development but the adult brain remains amenable to rapid functional normalization. Restoring E/I imbalance and sensory network modularity may be therapeutic targets.",
+  "source": "pubmed",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 4,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}
