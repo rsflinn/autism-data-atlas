@@ -462,3 +462,4 @@ PubMed edat window 2026/07/23-2026/07/24. 14 papers scored: 1 INTEGRATE, 6 REVIE
 ## Daily scan additions
 - [2026-07-25] [Acute rapamycin / maternal inflammation ASD mouse model (mTOR, ion channels, seizure susceptibility)](findings/42493511.md) -- INTEGRATE (score 30), Nat Commun, PMID 42493511
 - [Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model.](findings/42502111.md) — Mol Psychiatry, 2026-07-25, score 31, INTEGRATE [CNTNAP2] (added 2026-07-26)
+- [Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model.](findings/42502111.md) — Molecular Psychiatry, 2026-07-25 (score 30, INTEGRATE) — added 2026-07-27
