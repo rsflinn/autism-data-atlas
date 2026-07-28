@@ -1,0 +1,30 @@
+{
+  "pmid": "42512492",
+  "title": "Widespread Hyper-Coupling and Frequency-Specific Dysregulation of Phase-Amplitude Coupling in Young Children with Autism Spectrum Disorder.",
+  "authors": "Kang J",
+  "journal": "Brain Sci",
+  "date": "2026-07-04",
+  "abstract": "Resting-state EEG in 237 children with ASD aged 3-9 and 201 age-matched typically developing children. Analysis examined low-frequency oscillation phase (delta, theta, alpha) modulation of high-frequency oscillation amplitude (beta, low gamma) at intra-region and inter-region scalp levels, quantified by modulation index with Bonferroni correction. ASD showed enhanced delta/theta/alpha-gamma coupling across measured scalp regions, increased delta-beta coupling in frontal, temporal and occipital regions, and reduced alpha-beta coupling in frontal and central regions. Elevated PAC strength in delta/theta/alpha-gamma bands correlated negatively with Autism Behavior Checklist scores.",
+  "source": "pubmed",
+  "relevance_score": 17,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.3390/brainsci16070718",
+  "url": "https://doi.org/10.3390/brainsci16070718",
+  "genes_mentioned": [],
+  "concepts": [
+    "EEG",
+    "phase-amplitude coupling",
+    "excitation-inhibition balance",
+    "symptom severity correlation",
+    "cortical oscillations"
+  ],
+  "evidence_tier": "C"
+}

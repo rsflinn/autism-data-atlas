@@ -463,3 +463,18 @@ PubMed edat window 2026/07/23-2026/07/24. 14 papers scored: 1 INTEGRATE, 6 REVIE
 - [2026-07-25] [Acute rapamycin / maternal inflammation ASD mouse model (mTOR, ion channels, seizure susceptibility)](findings/42493511.md) -- INTEGRATE (score 30), Nat Commun, PMID 42493511
 - [Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model.](findings/42502111.md) — Mol Psychiatry, 2026-07-25, score 31, INTEGRATE [CNTNAP2] (added 2026-07-26)
 - [Multi-omic data integration improves the resolution of the molecular etiology of autism in a mouse model.](findings/42502111.md) — Molecular Psychiatry, 2026-07-25 (score 30, INTEGRATE) — added 2026-07-27
+
+## Daily scan 2026-07-28
+### INTEGRATE
+- [Advances in Functional Genomics for Human Health.](findings/42510803.md) — Genes (Basel), 2026-06-30, score 23, PMID 42510803
+- [Widespread Hyper-Coupling and Frequency-Specific Dysregulation of Phase-Amplitude Coupling in Young Children with Autism Spectrum Disorder.](findings/42512492.md) — Brain Sci, 2026-07-04, score 17, PMID 42512492
+### REVIEW
+- Interventions to Promote Communication in Minimally Verbal Autistic Children: A Systematic Review. (PMID 42506357) — score 11.
+### SKIP
+- Sex-Dependent Brain Plasticity in Neurological Disease: From Biological Variability to Adaptive, Compensatory, and Maladaptive Trajectories. (PMID 42510722) — score 9, SKIP.
+- A Study on the Intervention Effect of the Creative Problem Solving (CPS) Model in Serious Games for Children with Autism Spectrum Disorder. (PMID 42510335) — score 8, SKIP.
+- Occupational Performance Coaching in Children: A Scoping Review. (PMID 42516107) — score 6, SKIP.
+- Barriers and Facilitators of Parental Involvement in Applied Behavior Analysis: A Phenomenological Study. (PMID 42510255) — score 6, SKIP.
+- A Comprehensive Review of the Gut-Microbiota-Brain Axis in Alzheimer's Disease: From Pathophysiology to Potential Therapies. (PMID 42514986) — score 2, SKIP.
+### Notes
+- bioRxiv/medRxiv 24-hour preprint sweep NOT completed. The preprint MCP server requires OAuth (unavailable in a non-interactive run) and the bioRxiv/medRxiv REST API is outside the fetch allowlist. Web search returned no preprints dated 2026-07-27 or 2026-07-28. Preprint coverage for this date window is a known gap, not a null result.

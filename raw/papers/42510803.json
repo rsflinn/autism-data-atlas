@@ -1,0 +1,33 @@
+{
+  "pmid": "42510803",
+  "title": "Advances in Functional Genomics for Human Health.",
+  "authors": "Gonzales PR",
+  "journal": "Genes (Basel)",
+  "date": "2026-06-30",
+  "abstract": "Cytogenomics, including karyotyping, FISH, chromosomal microarrays, and optical genome mapping, has yielded significant results for clinical phenotypes in constitutional and cancer genetics, including intellectual disability, autism spectrum disorders, dysmorphic features, and hematological and solid-tissue neoplasia. However, some of these assays have yielded results of unclear significance because the abnormalities detected were often located in intergenic regions of the genome. Because these abnormalities are within the 'dark matter' of the genome, their clinical significance has been a matter of speculation. However, functional genomics can explore the clinical implications of such abnormalities more robustly, whether the abnormalities disrupt topologically associating domains (TADs), delete regulatory regions, etc. Some human genetic diseases associated with these intergenic abnormalities and characterized by functional genomics include preaxial polydactyly, Pierre Robin syndrome, and 5q14.3 microdeletion syndrome. While functional genomics is a broad research topic, this review focuses on prior and current efforts to leverage functional genomics within the intergenic regions for human health.",
+  "source": "pubmed",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 9,
+    "dataset_availability": 2,
+    "novelty": 4,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "doi": "10.3390/genes17070763",
+  "url": "https://doi.org/10.3390/genes17070763",
+  "genes_mentioned": [
+    "MEF2C"
+  ],
+  "concepts": [
+    "intergenic variation",
+    "topologically associating domains",
+    "regulatory element deletion",
+    "cytogenomics",
+    "structural variation",
+    "copy number variation"
+  ],
+  "evidence_tier": "C"
+}
