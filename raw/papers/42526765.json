@@ -1,0 +1,20 @@
+{
+  "pmid": "42526765",
+  "doi": "10.1016/j.mocell.2026.100387",
+  "title": "USP15 mutation associated with autism spectrum disorder alters progenitor fate and neuronal maturation in human brain organoids.",
+  "authors": "Park et al.",
+  "journal": "Mol Cells",
+  "date": "2026-07-29",
+  "abstract": "De novo variants in the ubiquitin-proteasome pathway are linked to ASD. Isogenic iPSC-derived brain organoids carrying USP15 variants showed genotype-dependent, progenitor-centered alterations during corticogenesis. Heterozygous organoids showed a shift toward later pseudotime states with altered maturation and synaptic organization of deep-layer neurons; homozygous organoids showed mitotic suppression, aberrant HOX expression and stress-response activation. Regulon analysis showed reduced SOX2, NR2F1 and NR2F2 activity. USP15-mutant expression patterns were enriched for established ASD risk genes and overlapped Fezf2 and Foxp1 mutant signatures.",
+  "source": "pubmed",
+  "relevance_score": 37,
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 8,
+    "novelty": 8,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 2
+  },
+  "decision": "INTEGRATE"
+}

@@ -1,0 +1,20 @@
+{
+  "pmid": "42523702",
+  "doi": "10.3389/fmolb.2026.1883784",
+  "title": "The RNA-binding protein CELF4: from molecular regulatory networks to clinical translation in cross-system diseases.",
+  "authors": "Wang et al.",
+  "journal": "Front Mol Biosci",
+  "date": "2026-07-14",
+  "abstract": "CELF4, encoded at human chromosome 18q12.2, is an RNA-binding protein that recognizes UG-rich sequences within 3'UTRs of target mRNAs to regulate splicing, stability and local translation. It exerts translational repression during synaptic development in the CNS, maintains excitatory homeostasis and sets peripheral sensory thresholds. In autism spectrum disorder, major depressive disorder, epilepsy, chronic pain and endometrial cancer, its downregulation or epigenetic silencing causes translational derepression of target mRNAs. Pleiotropic genetic loci near CELF4 have been linked to gut-brain axis comorbidities. CELF4 haploinsufficiency is incorporated into genetic diagnosis of 18q12.2 microdeletion syndrome.",
+  "source": "pubmed",
+  "relevance_score": 20,
+  "score_breakdown": {
+    "direct_autism_relevance": 6,
+    "noncoding_regulatory_relevance": 7,
+    "dataset_availability": 1,
+    "novelty": 3,
+    "cell_type_specificity": 1,
+    "phenotype_severity_data": 2
+  },
+  "decision": "INTEGRATE"
+}

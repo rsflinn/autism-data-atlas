@@ -1,0 +1,20 @@
+{
+  "pmid": "42528611",
+  "doi": "10.64898/2026.07.14.26358034",
+  "title": "Are CNV Risk Scores Linked to Neurodevelopmental and Mental Health Characteristics Within CNV-Associated Intellectual Disability?",
+  "authors": "Chi et al.",
+  "journal": "medRxiv",
+  "date": "2026-07-16",
+  "abstract": "Analysis of the UK IMAGINE-ID cohort (N=1,640 children and young people aged 4-19 with intellectual disability and clinically reported CNVs). CNVs were annotated with Gencode 19 to calculate CNV risk scores including summed pLI and dosage sensitivity. Higher summed pLI unexpectedly predicted fewer mental health difficulties and lower likelihood of neurodevelopmental diagnoses, after accounting for demographics and CNV inheritance. Post-hoc analyses identified a threshold effect: within the lower pLI range higher scores were associated with greater difficulties, consistent with population samples, while within the higher pLI range higher scores were associated with fewer difficulties.",
+  "source": "medrxiv",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "direct_autism_relevance": 7,
+    "noncoding_regulatory_relevance": 4,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 5
+  },
+  "decision": "INTEGRATE"
+}

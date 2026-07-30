@@ -1,0 +1,20 @@
+{
+  "pmid": "42523404",
+  "doi": "10.64898/2026.07.16.738569",
+  "title": "Age-Related Increases in 40Hz Neural Synchrony Are Specific to Typical Development: A Cross-Sectional Study of Autism Spectrum Disorder.",
+  "authors": "Thinakaran et al.",
+  "journal": "bioRxiv",
+  "date": "2026-07-17",
+  "abstract": "40Hz inter-trial phase coherence was examined across ages 2-37 in 127 participants: typically developing (n=43), ASD without intellectual disability (n=37), ASD with intellectual disability (n=24) and Phelan-McDermid syndrome (n=23). 40Hz ITPC increased significantly with age in typically developing individuals, while this trajectory was absent in ASD without intellectual disability. Among participants under 18, ITPC did not differ across TD, ASD with ID and PMS, and IQ did not predict ITPC in clinical groups. Post-hoc analysis found higher ITPC in TD males than females, with no sex differences in ASD or PMS.",
+  "source": "biorxiv",
+  "relevance_score": 26,
+  "score_breakdown": {
+    "direct_autism_relevance": 9,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity_data": 5
+  },
+  "decision": "INTEGRATE"
+}

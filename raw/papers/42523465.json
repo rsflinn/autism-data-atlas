@@ -1,0 +1,20 @@
+{
+  "pmid": "42523465",
+  "doi": "10.21203/rs.3.rs-9900286/v1",
+  "title": "Clinical, cellular, and genomic consequences of a population-enriched SETD1A missense variant.",
+  "authors": "Ament et al.",
+  "journal": "Res Sq",
+  "date": "2026-07-13",
+  "abstract": "Exome sequencing (n=3,736) revealed a population-enriched SETD1A missense variant (P596L) in the Lancaster Old Order Amish founder population. Carriers showed nearly two-fold increased risk for bipolar disorder and allele dose-dependent cognitive deficits in adulthood. iPSCs from homozygous carriers showed SETD1A hypofunction signatures including reduced proliferation and heightened susceptibility to replication stress and DNA double-strand breaks. Homozygous mutant cells showed premature activation of neurodevelopmental transcriptional programs but impaired neural rosette formation, reduced neurite complexity and early progenitor senescence. Multi-omic profiling revealed dysregulation converging on replication stress pathways and neuronal regulatory networks enriched for autism and psychiatric risk genes. KDM5 inhibition partially rescued replication stress and neurite deficits.",
+  "source": "pubmed",
+  "relevance_score": 31,
+  "score_breakdown": {
+    "direct_autism_relevance": 5,
+    "noncoding_regulatory_relevance": 5,
+    "dataset_availability": 6,
+    "novelty": 8,
+    "cell_type_specificity": 3,
+    "phenotype_severity_data": 4
+  },
+  "decision": "INTEGRATE"
+}

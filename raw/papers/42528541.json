@@ -1,0 +1,20 @@
+{
+  "pmid": "42528541",
+  "doi": "10.64898/2026.07.12.26357864",
+  "title": "The independent and joint effects of outdoor air pollution exposure and genetic risk on mental health trajectories during adolescence.",
+  "authors": "Cattarinussi et al.",
+  "journal": "medRxiv",
+  "date": "2026-07-15",
+  "abstract": "Longitudinal data from n=10,620 ABCD Study participants were used to test sex-stratified associations of PM2.5 exposure and polygenic risk with mental health trajectories across ages 9-16. PM2.5 was associated with smaller decreases in psychotic-like experiences over time in females. Higher PRS-SCZ and PRS-MDD were linked to greater increases in internalising symptoms in females. In females an interaction between PM2.5 and PRS-MDD on PLE trajectories was observed.",
+  "source": "medrxiv",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "direct_autism_relevance": 1,
+    "noncoding_regulatory_relevance": 3,
+    "dataset_availability": 7,
+    "novelty": 5,
+    "cell_type_specificity": 0,
+    "phenotype_severity_data": 3
+  },
+  "decision": "INTEGRATE"
+}

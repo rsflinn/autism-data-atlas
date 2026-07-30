@@ -1,0 +1,20 @@
+{
+  "pmid": "42523286",
+  "doi": "10.64898/2026.07.15.737608",
+  "title": "A Role for Astrocyte Metabolism in Species-Specific Neuronal Development.",
+  "authors": "Steiner et al.",
+  "journal": "bioRxiv",
+  "date": "2026-07-17",
+  "abstract": "Delayed onset of gliogenesis was identified in human versus non-human primate organoid models. Transcriptomic and 13C metabolic flux analyses of iPSC-derived astrocytes revealed distinct profiles: NHP astrocytes show increased serine and glycine synthesis, human astrocytes show elevated lactate secretion. Human neurons cultured with rhesus astrocyte conditioned media showed increased electrophysiological maturation and altered transcriptomic developmental trajectory. Chemical inhibition of PHGDH showed these changes are partially mediated by astrocyte metabolic differences.",
+  "source": "biorxiv",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "direct_autism_relevance": 1,
+    "noncoding_regulatory_relevance": 2,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 4,
+    "phenotype_severity_data": 0
+  },
+  "decision": "INTEGRATE"
+}

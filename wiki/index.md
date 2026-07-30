@@ -478,3 +478,27 @@ PubMed edat window 2026/07/23-2026/07/24. 14 papers scored: 1 INTEGRATE, 6 REVIE
 - A Comprehensive Review of the Gut-Microbiota-Brain Axis in Alzheimer's Disease: From Pathophysiology to Potential Therapies. (PMID 42514986) — score 2, SKIP.
 ### Notes
 - bioRxiv/medRxiv 24-hour preprint sweep NOT completed. The preprint MCP server requires OAuth (unavailable in a non-interactive run) and the bioRxiv/medRxiv REST API is outside the fetch allowlist. Web search returned no preprints dated 2026-07-27 or 2026-07-28. Preprint coverage for this date window is a known gap, not a null result.
+
+
+## Daily scan 2026-07-30
+
+Searched PubMed entry dates 2026/07/29-2026/07/30. 27 papers scored: 15 INTEGRATE, 2 REVIEW, 10 SKIP. Scoring followed the rubric threshold as written (>=15 INTEGRATE). Four INTEGRATE papers (42523306, 42523286, 42528585, 42528541) score <=2 on direct autism relevance and cleared the threshold on dataset quality and novelty alone; they are flagged as low autism specificity on their wiki pages.
+bioRxiv/medRxiv MCP was unauthenticated this run; preprints were captured via their PubMed-indexed records instead, which is narrower coverage than a direct server query.
+
+- [USP15 mutation associated with autism spectrum disorder alters progenitor fate and neuronal maturation in human brain organoids.](findings/42526765.md) - Park et al., Mol Cells (2026-07-29), score 37 - genes: FOXP1
+- [Fever-like temperatures improve cognitive deficits in the Scn2a autism mouse model via increases in potassium channel activity.](findings/42527542.md) - Shen et al., Mol Psychiatry (2026-07-29), score 32 - genes: SCN2A, KCNB1, KCNA2, KCNQ2
+- [Are CNV Risk Scores Linked to Neurodevelopmental and Mental Health Characteristics Within CNV-Associated Intellectual Disability?](findings/42528611.md) - Chi et al., medRxiv (2026-07-16), score 30
+- [Developmental signaling reveals functionally enriched human-specific gene regulation in telencephalic progenitors.](findings/42523397.md) - McMullen et al., bioRxiv (2026-07-14), score 33
+- [A consensus atlas of human brain development defines cell type-specific maturation trajectories across the lifespan.](findings/42523206.md) - Venkatesan et al., bioRxiv (2026-07-17), score 30
+- [Clinical, cellular, and genomic consequences of a population-enriched SETD1A missense variant.](findings/42523465.md) - Ament et al., Res Sq (2026-07-13), score 31
+- [Convergent Inhibitory Cortical Circuit Disruption Drives Genetically Distinct Absence Seizures.](findings/42523478.md) - Song et al., bioRxiv (2026-07-16), score 24 - genes: CACNA1A
+- [Age-Related Increases in 40Hz Neural Synchrony Are Specific to Typical Development: A Cross-Sectional Study of Autism Spectrum Disorder.](findings/42523404.md) - Thinakaran et al., bioRxiv (2026-07-17), score 26 - genes: SHANK3
+- [Truncating ASXL1 variants rewire cellular metabolism via mitochondrial pyruvate carrier repression.](findings/42523271.md) - Lin et al., bioRxiv (2026-07-17), score 25
+- [The RNA-binding protein CELF4: from molecular regulatory networks to clinical translation in cross-system diseases.](findings/42523702.md) - Wang et al., Front Mol Biosci (2026-07-14), score 20 - genes: RBFOX1
+- [Sex-specific developmental phenotypes and their response to neonatal Dyrk1a reduction in the Ts65Dn Down syndrome mouse model.](findings/42523386.md) - Duerst et al., bioRxiv (2026-07-17), score 21 - genes: DYRK1A
+- [The Disease Gene THAP12 is a Transcriptional Regulator of Mitochondrial ETC Complex I.](findings/42523306.md) - Desousa et al., bioRxiv (2026-07-17), score 23
+- [A Role for Astrocyte Metabolism in Species-Specific Neuronal Development.](findings/42523286.md) - Steiner et al., bioRxiv (2026-07-17), score 19
+- [Shared genetic and molecular architecture between insulin resistance and cognitive performance.](findings/42528585.md) - Martone et al., medRxiv (2026-07-16), score 23
+- [The independent and joint effects of outdoor air pollution exposure and genetic risk on mental health trajectories during adolescence.](findings/42528541.md) - Cattarinussi et al., medRxiv (2026-07-15), score 19
+
+REVIEW tier (logged, no wiki page): Naaran (42527387, score 14), Tong (42522543, score 11)

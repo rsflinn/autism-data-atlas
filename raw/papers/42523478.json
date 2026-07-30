@@ -1,0 +1,20 @@
+{
+  "pmid": "42523478",
+  "doi": "10.64898/2026.07.10.737818",
+  "title": "Convergent Inhibitory Cortical Circuit Disruption Drives Genetically Distinct Absence Seizures.",
+  "authors": "Song et al.",
+  "journal": "bioRxiv",
+  "date": "2026-07-16",
+  "abstract": "Using stargazer and tottering mice, two absence epilepsy models carrying point mutations in distinct genes altering pre- and postsynaptic transmission, the authors show that a translaminar inhibitory circuit motif defined by layer 6 corticothalamic neurons and a Tac1 interneuron subtype is selectively disrupted in both models. This early functional defect was followed by synaptic collapse of deep-layer somatostatin interneurons coinciding with seizure onset. Chemogenetic disruption of the L6 CT-Tac1 motif alone in wild-type mice was sufficient to induce both the secondary interneuron collapse and emergence of spike-wave discharges.",
+  "source": "biorxiv",
+  "relevance_score": 24,
+  "score_breakdown": {
+    "direct_autism_relevance": 3,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 3
+  },
+  "decision": "INTEGRATE"
+}

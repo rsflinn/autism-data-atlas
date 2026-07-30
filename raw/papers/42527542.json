@@ -1,0 +1,20 @@
+{
+  "pmid": "42527542",
+  "doi": "10.1038/s41380-026-03743-9",
+  "title": "Fever-like temperatures improve cognitive deficits in the Scn2a autism mouse model via increases in potassium channel activity.",
+  "authors": "Shen et al.",
+  "journal": "Mol Psychiatry",
+  "date": "2026-07-29",
+  "abstract": "In some children with autism, fever improves cognition. Using the Scn2a autism mouse model, fever-like temperatures independent of direct immune activation normalized cognitive function. Scn2a juvenile mice at normal body temperature failed to learn an escape route, whereas Scn2a mice exposed to infrared light-induced fever exhibited normal learning. In somatosensory cortex, fever-like temperatures reduced excess spiking in Scn2a pyramidal neurons by increasing potassium channel activation and spike threshold. Chemogenetically reducing spiking at normal temperatures replicated the effects of fever.",
+  "source": "pubmed",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "direct_autism_relevance": 10,
+    "noncoding_regulatory_relevance": 1,
+    "dataset_availability": 4,
+    "novelty": 9,
+    "cell_type_specificity": 4,
+    "phenotype_severity_data": 4
+  },
+  "decision": "INTEGRATE"
+}
