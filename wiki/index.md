@@ -502,3 +502,19 @@ bioRxiv/medRxiv MCP was unauthenticated this run; preprints were captured via th
 - [The independent and joint effects of outdoor air pollution exposure and genetic risk on mental health trajectories during adolescence.](findings/42528541.md) - Cattarinussi et al., medRxiv (2026-07-15), score 19
 
 REVIEW tier (logged, no wiki page): Naaran (42527387, score 14), Tong (42522543, score 11)
+
+
+## Daily scan 2026-07-31
+
+Searched PubMed entry dates 2026/07/30-2026/07/31 across the 4 standard queries; 7 unique PMIDs returned. 3 were already scored and filed by the 2026-07-30 run (42526765 USP15, 42527542 SCN2A/fever, 42527387 pupillary attention -- REVIEW) due to overlapping entry-date windows and were not re-logged. Of the 4 genuinely new papers, 1 INTEGRATE and 3 SKIP. bioRxiv/medRxiv dedicated MCP again required authentication unavailable in this non-interactive run; a WebSearch fallback could not reliably filter to a 24-hour recency window (results skewed toward older, keyword-relevant preprints from earlier in 2026), so no new preprints are claimed this run. That connector needs reauthorization for preprint coverage to resume.
+
+### INTEGRATE (1 paper)
+- [Arid1b haploinsufficiency in excitatory neurons alters neocortical circuits but not social behavior or seizure phenotypes.](findings/42532136.md) - Marshall et al., Exp Neurol (2026-07-30), score 28 - genes: ARID1B
+
+### SKIP (3 papers)
+- The Effect of Online Parent Training With and Without Coaching Support on the Well-Being of Families of Children With Neurodisabilities (42533552, score 7) -- intervention/family-well-being RCT, no genetics content
+- Antiracist Practices Across the Stages of a Research Project (42534715, score 1) -- general research-methods review, not autism-specific
+- Coping Strategies for Social Challenges in Mothers of Children With Autism (42534562, score 7) -- qualitative psychosocial study, no genetics content
+
+### Notes
+Already-logged duplicates (not re-scored): 42526765, 42527542, 42527387. bioRxiv/medRxiv coverage gap flagged above.

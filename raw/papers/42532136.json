@@ -1,0 +1,31 @@
+{
+  "pmid": "42532136",
+  "doi": "10.1016/j.expneurol.2026.115950",
+  "title": "Arid1b haploinsufficiency in excitatory neurons alters neocortical circuits but not social behavior or seizure phenotypes.",
+  "authors": [
+    "Marshall AH",
+    "Hanson MA",
+    "Boyle DJ",
+    "Nagarajan D",
+    "Bibi N",
+    "Fitzgerald J",
+    "Gaitten E",
+    "Kokiko-Cochran ON",
+    "Gu B",
+    "Wester JC"
+  ],
+  "journal": "Experimental Neurology",
+  "date": "2026-07-30",
+  "abstract": "Arid1b is a high confidence risk gene for autism spectrum disorder that encodes a subunit of a chromatin remodeling complex initially expressed in neuronal progenitors. Haploinsufficiency causes a broad range of social, behavioral, and intellectual disability phenotypes, including Coffin-Siris syndrome. Here, transgenic mice were used to investigate how Arid1b dysfunction restricted to cortical excitatory neurons impacts intrinsic membrane properties, synaptic connectivity, local circuit physiology, social behavior, and seizure susceptibility. Loss of both copies of Arid1b altered proportions of excitatory neuron cell-types in superficial cortical layers, with mostly unchanged intrinsic membrane properties. Conditional Arid1b haploinsufficiency in excitatory neurons increased synaptic connectivity between excitatory neurons and reduced excitatory synapse strength onto parvalbumin (PV) interneurons, alongside hyperpolarized action potential threshold in deep layers, suggesting increased excitation-to-inhibition ratio partially offset by enhanced PV-to-excitatory inhibition. Excitatory-neuron-restricted Arid1b haploinsufficiency was insufficient to reproduce the social deficits and seizure phenotypes seen in germline haploinsufficient mice, indicating excitatory neurons contribute to circuit changes but are not the primary cellular locus of the behavioral and seizure phenotypes.",
+  "source": "pubmed",
+  "relevance_score": 28,
+  "score_breakdown": {
+    "direct_autism_relevance": 8,
+    "noncoding_regulatory_relevance": 2,
+    "dataset_availability": 3,
+    "novelty": 6,
+    "cell_type_specificity": 5,
+    "phenotype_severity_data": 4
+  },
+  "decision": "INTEGRATE"
+}
