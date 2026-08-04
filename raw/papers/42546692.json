@@ -1,0 +1,36 @@
+{
+  "pmid": "42546692",
+  "doi": "10.1016/j.ajhg.2026.07.005",
+  "title": "Cell villages and Dirichlet modeling map human cell fitness genetics.",
+  "authors": "Hanson C et al.",
+  "journal": "American Journal of Human Genetics",
+  "date": "2026-08-03",
+  "abstract": "The capacity of cells to proliferate and survive is central to development and disease. The authors designed and validated a 'cell village'-based fitness screening approach using pooled cultures of 12-39 genetically distinct human neural progenitor cell (NPC) lines, and developed Townlet, a Dirichlet-regression statistical framework for proportional data from cell villages. They identified hyperproliferation in NPCs harboring the autism risk factor chromosome 16p11.2 deletion, mapped common genetic variants near ZFHX3 associated with NPC proliferation rate, and discovered genetic modifiers of lead (Pb) sensitivity implicating ARNT2.",
+  "source": "pubmed",
+  "relevance_score": 30,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 5,
+    "dataset_availability": 7,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "ZFHX3",
+    "ARNT2"
+  ],
+  "genes_in_atlas_set": [],
+  "concepts": [
+    "common variant effects on cell phenotype",
+    "16p11.2 deletion",
+    "neural progenitor cells",
+    "GWAS-in-a-dish",
+    "gene-environment interaction",
+    "Dirichlet regression"
+  ],
+  "evidence_tier": "B",
+  "caveats": "Association-based mapping across a small number of donor lines (12-39). NPC proliferation is a proxy phenotype, not an autism phenotype. No autism cases or phenotype/severity data. Null expectation and replication for the ZFHX3 association are not established from the abstract alone.",
+  "scanned": "2026-08-04T07:04:57.348298"
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "42543733",
+  "doi": "10.1111/dmcn.70434",
+  "title": "Caregiver-reported quality of life among individuals with neurodevelopmental genetic conditions.",
+  "authors": "Schuck RK et al.",
+  "journal": "Developmental Medicine and Child Neurology",
+  "date": "2026-08-02",
+  "abstract": "Caregivers of 201 individuals with neurodevelopmental genetic conditions (PTEN hamartoma tumor syndrome, SYNGAP1-related conditions, Malan syndrome) completed online questionnaires. Hierarchical regressions identified correlates of family quality of life (FQoL) and health-related quality of life (HRQoL). Greater social communication and interaction, higher speech level, fewer challenging behaviors, and greater executive functioning were related to higher FQoL. Male sex, decreased mood dysregulation, and fewer sleep problems were related to greater HRQoL.",
+  "source": "pubmed",
+  "relevance_score": 16,
+  "score_breakdown": {
+    "autism_relevance": 6,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 2,
+    "novelty": 3,
+    "cell_type_specificity": 0,
+    "phenotype_severity": 5
+  },
+  "decision": "INTEGRATE",
+  "genes_mentioned": [
+    "PTEN",
+    "SYNGAP1",
+    "NFIX"
+  ],
+  "genes_in_atlas_set": [
+    "PTEN",
+    "SYNGAP1"
+  ],
+  "concepts": [
+    "genotype-phenotype variability",
+    "severity measurement",
+    "caregiver-reported outcomes",
+    "monogenic NDD cohorts"
+  ],
+  "evidence_tier": "C",
+  "caveats": "Caregiver report only, cross-sectional, no molecular data, no comparison to idiopathic autism. Regression correlates are not causal. Cohort is heavily weighted toward PHTS, so SYNGAP1-specific inference is limited. Scored INTEGRATE at 16/50 on phenotype value alone; it contributes nothing to the regulatory-variant side of the atlas.",
+  "scanned": "2026-08-04T07:04:57.348298"
+}

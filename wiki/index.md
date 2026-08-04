@@ -518,3 +518,17 @@ Searched PubMed entry dates 2026/07/30-2026/07/31 across the 4 standard queries;
 
 ### Notes
 Already-logged duplicates (not re-scored): 42526765, 42527542, 42527387. bioRxiv/medRxiv coverage gap flagged above.
+- [Caregiver-reported quality of life among individuals with neurodevelopmental genetic conditions.](findings/42543733.md) -- Developmental Medicine and Child Neurology, 2026-08-02 (score 18, INTEGRATE)
+
+### Notes 2026-08-03
+bioRxiv/medRxiv scan NOT run this cycle: the bioRxiv MCP server requires OAuth authorization, which cannot be completed in a non-interactive scheduled run, and the bioRxiv REST API is outside the web_fetch provenance allowlist. Coverage for this date is PubMed-only.
+
+## Daily scan 2026-08-04
+
+- [Cell villages and Dirichlet modeling map human cell fitness genetics](findings/42546692.md) -- American Journal of Human Genetics, 2026-08-03 -- score 30/50
+
+### Notes 2026-08-04
+
+bioRxiv/medRxiv scan NOT run again this cycle -- same blocker as 2026-08-03 (bioRxiv MCP needs OAuth, unavailable in a non-interactive run; bioRxiv REST API outside the web_fetch allowlist). Two consecutive PubMed-only days. This needs a fix, not another log line.
+
+PMID 42543733 was already filed on the 2026-08-03 scan at score 18 and was re-scored 16 today (it fell inside both edat windows). Same decision (INTEGRATE) both times; the JSON and wiki page were overwritten with the 16 version. Duplicate line exists in the evaluation log. No de-duplication step currently guards against papers spanning two edat windows.
