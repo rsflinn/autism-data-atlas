@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.07.10.737441",
+  "title": "Aberrant expression of stress-related Hsr\u03c9-n lncRNA contributes to CGG repeat-mediated toxicity in a Drosophila model of FXTAS",
+  "authors": "Ahmed, N. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "Fragile X-associated tremor/ataxia syndrome (FXTAS) is an adult-onset neurodegenerative disease associated with carriers of premutation (PM) alleles of the fragile X messenger ribonucleoprotein 1 (FMR1) gene. Expanded CGG repeats in the PM alleles are sufficient to cause cellular stress and toxicity in animal and cellular models of FXTAS. Here, we show that in a Drosophila transgenic model of FXTAS, expanded CGG repeats result in the overexpression of heat shock RNA omega-nuclear (Hsr{omega}-n), a stress-related long non-coding RNA (lncRNA) that dominantly enhances expanded CGG-induced neurotoxicity, whereas its reduction suppresses CGG-induced neurotoxicity. Furthermore, overexpression of Hsr{omega}-n lncRNA concomitantly resulted in a significant enhancement in its association with Hrb87F, the fly ortholog of one of the previously identified CGG repeat RNA-binding proteins, hnRNP A2/B1, and with the imitation switch (ISWI) protein, a chromatin remodeling factor. We extended the findings of Hsr{omega}-n to show that the mammalian stress-related lncRNAs SatIII and Neat1 are elevated in cells expressing expanded CGG repeats. Together, these findings highlight the critical roles of stress-related lncRNAs in CGG repeat-mediated toxicity and support a model in which the total steady-state levels of stress-related lncRNAs increase in the presence of expanded CGG repeats as part of the normal regulatory response to combat stress. However, the effects of chronic expanded CGG repeat expression in post-mitotic neurons may result in altered distribution and/or sequestration of specific RNA-binding proteins or chromatin remodeling factors associated with stress-related lncRNAs. This could contribute to the altered cellular homeostasis and genomic instability associated with FXTAS.",
+  "source": "biorxiv",
+  "relevance_score": 19,
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 7,
+    "dataset_availability": 2,
+    "novelty": 5,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

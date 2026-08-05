@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.08.03.742543",
+  "title": "Rescue schizophrenia-related phenotypes caused by Setd1a deficiency by histone demethylase inhibitors",
+  "authors": "Liu, Y. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "Schizophrenia (SCZ) is a genetically complex neuropsychiatric disorder in which rare loss-of-function mutations in the histone methyltransferase SETD1A confer substantial risk. Although SETD1A haploinsufficiency had been linked to morphological, synaptic and behavioral abnormalities in the prefrontal cortex, whether and how SETD1A coordinates transcriptional and functional programs across different brain regions remains unknown. Here, we delineate the brain region-specific effects of SETD1A-associated dysfunction using conditional Setd1a knockout mice. We find that the dorsal striatum (dStr) and mediodorsal thalamus (MD) exhibit distinct transcriptomic and neuronal alterations to those in the PFC, and show transcriptomic enrichment for other SCZ risk genes. Loss of Setd1a in the dStr or MD drives selective vulnerability in key behavioral assays, suggesting important roles for these brain regions in the etiology of SCZ. By screening 6 existing H3K4 demethylase inhibitors, we identify the LSD1 (KDM1A) inhibitor TAK-418 as a potent modulator capable of restoring H3K4me3 levels and gene expression, as well as rescuing synaptic and SCZ-like behavioral phenotypes in the Setd1a+/- mice. Thus, our work provides a mechanistic link between high-penetrance SETD1A variants and region-specific brain dysfunction, establishing a framework for connecting rare loss-of-function variation in chromatin regulators to multidimensional neuropsychiatric phenotypes.",
+  "source": "biorxiv",
+  "relevance_score": 22,
+  "score_breakdown": {
+    "autism_relevance": 3,
+    "noncoding_regulatory": 4,
+    "dataset_availability": 4,
+    "novelty": 6,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

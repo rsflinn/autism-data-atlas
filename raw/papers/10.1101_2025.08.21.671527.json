@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.1101/2025.08.21.671527",
+  "title": "Learning-Associated Flexibility of Cortical Taste Coding Is Impaired in Shank3 Knockout Mice",
+  "authors": "Wu, C.-H. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "The ability to update the valence of sensory perception to influence behavior is crucial for survival. A common phenotype in autism spectrum disorders (ASDs) is defects in sensory processing, but whether these defects impair flexible sensory encoding is largely unexplored. In particular, how genetic risk factors such as Shank3 deletion affect the adaptability of cortical taste processing and downstream behavior is unknown. To address this gap, we performed two-photon calcium imaging during a conditioned taste aversion (CTA) learning paradigm, an ethologically relevant form of associative learning that depends on taste processing in the gustatory cortex (GC), to examine how Shank3 knockout alters taste-related neuronal activity in GC and influences CTA learning. We found that GC neurons in Shank3 knockout mice exhibited reduced stimulus-evoked suppression and increased trial-to-trial correlated variability during the acquisition of CTA memory. These activity changes, which likely reduced signal-to-noise ratio in GC, were associated with slower CTA acquisition in knockout mice. In both genotypes, CTA learning enhanced, while subsequent extinction reduced, taste discriminability in GC, and both extinction and the associated reduction in discriminability were faster in knockout than in wild-type mice. Together, these results show that Shank3 loss is associated with destabilized cortical activity dynamics in GC, which may contribute to inefficient encoding and maintenance of learned taste aversion. These findings show that loss of Shank3 compromises the ability of animals to update behavior to incorporate negative outcomes, and suggest this loss of flexibility may be an important feature of monogenic ASDs.",
+  "source": "biorxiv",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 3,
+    "novelty": 6,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}

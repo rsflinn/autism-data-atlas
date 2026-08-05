@@ -1,0 +1,20 @@
+{
+  "pmid": "42550007",
+  "doi": "10.47626/2237-6089-2026-1336",
+  "title": "Autism-specific spliceosomal transcriptomic signatures in prefrontal cortex contrasted with bipolar disorder.",
+  "authors": "Marmontel P et al.",
+  "journal": "Trends in Psychiatry and Psychotherapy",
+  "date": "2026-08-04",
+  "abstract": "",
+  "source": "pubmed",
+  "relevance_score": 32,
+  "score_breakdown": {
+    "autism_relevance": 10,
+    "noncoding_regulatory": 8,
+    "dataset_availability": 6,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

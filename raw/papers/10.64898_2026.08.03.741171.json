@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.08.03.741171",
+  "title": "Granule microenvironment regulates the dual functions of FMR1",
+  "authors": "Grewal, V. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "Fragile X Messenger Ribonucleoprotein 1 (FMR1) is an evolutionarily conserved RNA binding protein with important functions in cognition and female reproduction, and its disruption is associated with neurodevelopmental and reproductive disorders including the Fragile X syndrome. FMR1 is best known for its role as a translation repressor. However, several recent studies also suggest a role of FMR1 as a translation enhancer raising fundamental questions about the molecular regulation of these opposing functions. In this study, we identify FMR1 as part of the oskar mRNA-protein complex in the Drosophila oocyte and study the role of FMR1 as a translational enhancer of oskar. We provide the molecular mechanism for the dual functions of FMR1 and show that the two major RNA-binding domains of FMR1, the KH domains and the RGG box, play distinct separable roles in regulating translation. The KH domains enhance translation of mRNAs while the RGG box containing C-terminal domain (CTD) is required to repress translation. We further show that the condensation propensity of FMR1 containing granules regulates the two antagonistic functions, such that phase separation by FMR1-CTD creates the molecular microenvironment necessary for the repressive activity, whereas reduction in phase separation is associated with increased translation. Our findings highlight the importance of biomolecular condensates not just as a means of molecular compartmentalization but as a fundamental regulatory principle that dictates the functional output of modular protein domains.",
+  "source": "biorxiv",
+  "relevance_score": 16,
+  "score_breakdown": {
+    "autism_relevance": 5,
+    "noncoding_regulatory": 2,
+    "dataset_availability": 2,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 0
+  },
+  "decision": "INTEGRATE"
+}

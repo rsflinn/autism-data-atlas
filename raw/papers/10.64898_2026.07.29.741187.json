@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.07.29.741187",
+  "title": "Genetic and stochastic basis of phenotypic discordance in 16p11.2 mouse model deletion",
+  "authors": "Taranda, J. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "Recurrent copy number variations such as the 16p11.2 deletion (del/+) represent a significant genetic risk for neurodevelopmental disorders, showing incomplete penetrance and variable expressivity. Here we describe a striking discordance in a genetic mouse model of human 16p11.2 deletion. Using electrocorticography experiments, we detected that approximately 50% of the isogenic del/+ mice exhibited increased susceptibility to seizures from low doses of the convulsant drug pentylenetetrazole (PTZ). Some of these mice also displayed spontaneous epileptiform brain activity. Next, we used two-photon microscopy tomography (STPT) with c-Fos-GFP (c-Fos+) as a reporter of neuronal activity to obtain images of the entire mouse brain. We examined del/+ mice that exhibited low or high responses to PTZ. Low responders exhibited minimal c-Fos+ activation. However, they had activating circuits that suggest the presence of compensatory mechanisms that suppress seizures. These circuits include the reticular nucleus of the thalamus, the pretectal region, the pedunculopontine nucleus, and the superior colliculus. In contrast, high-responder mice exhibited high c-Fos+ expression, corresponding to a fast seizure phenotype. Using whole-brain imaging, we analyzed brain volume and detected significant differences in the cortex between low-responder and high-responder del/+ mice. In the group with higher seizure susceptibility, we observed a notable decrease in cortical volume with significant differences in several brain regions compared to low responders. Additionally, some high-responder mice showed null expansion areas compared to low-responder mice. During the longitudinal behavioral analysis, the high-responder group of mice exhibited more severe sleep disturbances and an increase in repetitive grooming. Finally, to identify transcriptional correlates of the low- versus high-response phenotypes in adulthood, we performed bulk RNA-seq on somatosensory cortex punches from adult del/+ mice stratified by seizure response. Seizure-prone del/+ mice exhibited reduced activity-dependent immediate early gene signatures and coordinated changes in regulatory programs, including decreased expression of transcriptional regulators and metabotropic glutamate receptor genes, compared to low responders. Together, these findings define two distinct adult del/+ subgroups with convergent circuit, structural, behavioral, and molecular signatures.",
+  "source": "biorxiv",
+  "relevance_score": 29,
+  "score_breakdown": {
+    "autism_relevance": 8,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 4,
+    "novelty": 8,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 5
+  },
+  "decision": "INTEGRATE"
+}

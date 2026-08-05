@@ -532,3 +532,43 @@ bioRxiv/medRxiv scan NOT run this cycle: the bioRxiv MCP server requires OAuth a
 bioRxiv/medRxiv scan NOT run again this cycle -- same blocker as 2026-08-03 (bioRxiv MCP needs OAuth, unavailable in a non-interactive run; bioRxiv REST API outside the web_fetch allowlist). Two consecutive PubMed-only days. This needs a fix, not another log line.
 
 PMID 42543733 was already filed on the 2026-08-03 scan at score 18 and was re-scored 16 today (it fell inside both edat windows). Same decision (INTEGRATE) both times; the JSON and wiki page were overwritten with the 16 version. Duplicate line exists in the evaluation log. No de-duplication step currently guards against papers spanning two edat windows.
+
+## Daily scan 2026-08-05
+
+First cycle with bioRxiv/medRxiv coverage restored. The blocker logged on 08-03 and 08-04 was worked around by calling the bioRxiv REST API from the Mac (via osascript) instead of the OAuth-gated MCP server. 392 bioRxiv and 57 medRxiv posts screened for the 2026-08-04/05 window; 39 passed keyword screen, 14 were scored individually.
+
+### INTEGRATE (14 papers)
+
+- [Autism-associated NRXN1a deletion rewires the H3K27me3 landscape and epigenetically disrupts human neural induction](findings/10.64898_2026.08.03.742563.md) -- bioRxiv, 2026-08-04 -- score 39/50 -- genes: NRXN1
+- [Cell villages and Dirichlet modeling map human cell fitness genetics](findings/42546692.md) -- see 2026-08-04 entry; caught again in the edat window, not re-filed
+- [Context-dependent regulatory variants in Alzheimer's disease](findings/10.1101_2025.07.11.659973.md) -- bioRxiv, 2026-08-04 -- score 32/50 -- method transfer, no autism content
+- [Autism-specific spliceosomal transcriptomic signatures in prefrontal cortex contrasted with bipolar disorder](findings/42550007.md) -- Trends in Psychiatry and Psychotherapy, 2026-08-04 -- score 32/50
+- [Adults who suspect they may be autistic or have ADHD show corresponding neurodevelopmental polygenic effects](findings/10.64898_2026.08.03.26359559.md) -- medRxiv, 2026-08-04 -- score 30/50
+- [Guidance for clinical variant classification in genes for spliceosomal small nuclear RNAs](findings/10.64898_2026.08.03.26359558.md) -- medRxiv, 2026-08-04 -- score 30/50
+- [Genetic and stochastic basis of phenotypic discordance in 16p11.2 mouse model deletion](findings/10.64898_2026.07.29.741187.md) -- bioRxiv, 2026-08-04 -- score 29/50
+- [BRD4 represses developmental and neuronal genes through interaction with PRC1.6](findings/10.64898_2026.01.31.702994.md) -- bioRxiv, 2026-08-05 -- score 27/50
+- [Activation of Neurotensin Receptor 1 in entorhinal cortex rescues olfactory generalization in two mouse models of autism](findings/10.64898_2026.07.29.741644.md) -- bioRxiv, 2026-08-04 -- score 25/50 -- genes: SHANK3, CNTNAP2
+- [The Neuropsychiatry of 22q11.2 Deletion Syndrome: An Electronic Health Records Study](findings/10.64898_2026.08.03.26359320.md) -- medRxiv, 2026-08-04 -- score 23/50
+- [Learning-Associated Flexibility of Cortical Taste Coding Is Impaired in Shank3 Knockout Mice](findings/10.1101_2025.08.21.671527.md) -- bioRxiv, 2026-08-04 -- score 23/50 -- genes: SHANK3
+- [Brain structural and genetic correlates of motor coordination and learning behaviours: modelling developmental coordination disorder](findings/10.64898_2026.06.19.733401.md) -- bioRxiv, 2026-08-04 -- score 23/50
+- [Rescue schizophrenia-related phenotypes caused by Setd1a deficiency by histone demethylase inhibitors](findings/10.64898_2026.08.03.742543.md) -- bioRxiv, 2026-08-04 -- score 22/50
+- [Aberrant expression of stress-related Hsrw-n lncRNA contributes to CGG repeat-mediated toxicity in a Drosophila model of FXTAS](findings/10.64898_2026.07.10.737441.md) -- bioRxiv, 2026-08-04 -- score 19/50
+- [Granule microenvironment regulates the dual functions of FMR1](findings/10.64898_2026.08.03.741171.md) -- bioRxiv, 2026-08-04 -- score 16/50
+
+### REVIEW (5 papers)
+
+- Epithelial regulatory networks link non-coding genetic variation to clinical heterogeneity in ulcerative colitis (10.64898/2026.08.04.742507, rubric score 28) -- scored INTEGRATE by the rubric but filed REVIEW: autism relevance is zero and the tissue is intestinal epithelium. See rubric note below.
+- Epidemiological characteristics of comorbidities in childhood ADHD and common comorbidity patterns (42553683, score 14)
+- Salidroside enhances hippocampal neurogenesis in a valproic acid-induced mouse model of autism (42551196, score 13)
+- Social Role-based Training Using a Computer Graphics Avatar (42549992, score 12)
+- Views of caregivers, clinicians and epilepsy advocacy representatives on survey instruments for Lennox-Gastaut syndrome (42551406, score 12)
+
+### Notes 2026-08-05
+
+Rubric gap: the 50-point scale has no autism-relevance floor, so a strong non-autism methods or regulatory-genomics paper can clear the INTEGRATE threshold on the other five criteria alone. The ulcerative colitis preprint scored 28 with autism relevance 0. It was filed REVIEW as a documented deviation. The Alzheimer's regulatory-variant preprint scored autism relevance 2 and was kept as INTEGRATE because the method transfers directly to noncoding variant scoring in this project. Recommend adding an explicit autism-relevance gate to the rubric rather than leaving this to per-run judgment.
+
+Coincidence worth naming, not evidence: two independent items today point at spliceosomal snRNA biology -- downregulated snRNAs/snoRNAs in ASD prefrontal cortex (42550007) and a variant-classification framework for snRNA genes in neurodevelopmental disorders (10.64898/2026.08.03.26359558). These are unrelated groups and unrelated designs. The base rate for snRNA papers appearing on any given day is not established here, and the ASD transcriptomic result has no stated sample size in its abstract and no cell-type resolution. Nothing follows from the co-occurrence.
+
+Most relevant single item to the project's guiding question: the 16p11.2 isogenic mouse discordance preprint (10.64898/2026.07.29.741187). Same genotype, same background, controlled environment, roughly 50/50 split in seizure susceptibility. The compensatory-circuit explanation offered is correlational (an activation pattern in low responders), not a manipulation.
+
+De-duplication: PMID 42546692 was already filed on 2026-08-04 and was skipped rather than re-scored this cycle. The edat-window overlap flagged on 08-04 is still unfixed at the query level; it is currently handled by checking papers_feed.js IDs before writing.

@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.07.29.741644",
+  "title": "Activation of Neurotensin Receptor 1 in entorhinal cortex rescues olfactory generalization in two mouse models of autism",
+  "authors": "Sturm, K. L. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "Individuals with Autism Spectrum Disorder (ASD) show impaired transfer of learned information to novel contexts 1 , a computational deficit proposed to contribute to atypical sensory processing in ASD 2. Mouse models carrying mutations in the ASD-associated genes Shank33 and Cntnap24 show preserved target odor identification in familiar backgrounds but impaired generalization to novel odor backgrounds compared with wild-type mice5,6 . Olfactory circuits are disrupted in these models at multiple levels, including the olfactory bulb7,8 and downstream areas such as the cortical amygdala9 and prefrontal cortex10. However, it remains unknown whether restoring olfactory circuit function can rescue impaired sensory generalization. Here, we show that pharmacological activation of neurotensin receptor 1 (Ntsr1) restores the ability of both Cntnap2-/- and Shank3B+/- mice to recognize learned target odors in novel odor backgrounds. We further identify the entorhinal cortex as the principal site mediating this effect. Activation of Ntsr1 in the entorhinal cortex reduced olfactory bulb responses to novel background odors, increasing the similarity between neural representations of novel and previously learned odor mixtures. These changes improved neural generalization and restored behavioral recognition of target odors in novel sensory environments. Together, these results identify the entorhinal cortex as a top-down regulator of early olfactory processing that can rescue sensory generalization deficits in mouse models of ASD. Our findings establish pharmacological Ntsr1 activation in entorhinal cortex as a novel therapeutic target for sensory dysfunction in ASD.",
+  "source": "biorxiv",
+  "relevance_score": 25,
+  "score_breakdown": {
+    "autism_relevance": 9,
+    "noncoding_regulatory": 0,
+    "dataset_availability": 3,
+    "novelty": 7,
+    "cell_type_specificity": 3,
+    "phenotype_severity": 3
+  },
+  "decision": "INTEGRATE"
+}

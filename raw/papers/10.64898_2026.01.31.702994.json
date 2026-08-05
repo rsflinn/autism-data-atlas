@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.01.31.702994",
+  "title": "BRD4 represses developmental and neuronal genes through interaction with PRC1.6",
+  "authors": "Boulet, F. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-05",
+  "abstract": "BRD4 is best known as a transcriptional co-activator, yet heterozygous loss-of-function variants cause craniofacial and neurodevelopmental abnormalities through unclear mechanisms. Using human embryonic stem cells, and neural organoids as an in vitro model of human embryonic brain development, we show that BRD4 represses polycomb-regulated developmental and neuronal genes. BRD4 co-occupies bivalent promoters with PRC1.6 and directly interacts with PCGF6 and RING1B through its C-terminal domain. H3K23ac contribute to BRD4 recruitment through BD2, linking acetylated chromatin recognition to polycomb-associated repression. Acute BRD4 depletion alters PRC1.6 occupancy, reduces ubiquitination of H2AK119 and rapidly increases developmental gene transcription. In neural organoids, BRD4 BD2 mutations alter composition of neuronal cells and increase expression and chromatin accessibility associated with neuronal transcription-factor programmes. These findings establish BRD4 as a context-dependent chromatin regulator that prevents premature activation of developmental genes and provide mechanistic insight into BRD4-associated neurodevelopmental disorders.",
+  "source": "biorxiv",
+  "relevance_score": 27,
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 6,
+    "dataset_availability": 5,
+    "novelty": 7,
+    "cell_type_specificity": 4,
+    "phenotype_severity": 1
+  },
+  "decision": "INTEGRATE"
+}

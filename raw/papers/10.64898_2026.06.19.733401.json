@@ -1,0 +1,20 @@
+{
+  "pmid": null,
+  "doi": "10.64898/2026.06.19.733401",
+  "title": "Brain structural and genetic correlates of motor coordination and learning behaviours: modelling developmental coordination disorder",
+  "authors": "Lerch, J. P. et al.",
+  "journal": "bioRxiv",
+  "date": "2026-08-04",
+  "abstract": "Developmental coordination disorder (DCD) is a common neurodevelopmental condition characterized by impaired motor coordination and learning, yet its neurobiological and genetic bases remain poorly understood. Here, we leverage the BXD recombinant inbred mouse panel to model the polygenic architecture of DCD and link behaviour, brain structure, and genotype. High-resolution ex vivo MRI across 14 strains revealed that DCD-like mice have modestly reduced total brain volume, with a distinct neuroanatomical profile characterized by enlarged cortical regions alongside reduced cerebellar, thalamic, and other subcortical volumes. These structural differences closely mirror findings reported in human DCD. Across strains, variation in brain structure strongly correlated with motor behaviours, with coordinated patterns linking increased cortical and decreased subcortical volumes to poorer motor coordination, while more focal associations were observed for motor learning. Multivariate analysis identified a dominant brain-behaviour axis capturing this cortical-subcortical trade-off. Quantitative trait locus (QTL) mapping revealed multiple loci influencing regional brain volumes, including a prominent locus on chromosome 12 regulating cerebellar structures, but did not identify single loci driving the main multivariate brain-behaviour relationships, consistent with a distributed genetic architecture. Together, these findings demonstrate that DCD-like motor impairments arise from coordinated alterations across distributed brain systems under polygenic control. This work establishes a translational framework linking genetic variation to brain organization and motor function, and suggests that DCD reflects the extreme of a continuous spectrum of neurobiological variation rather than a discrete condition.",
+  "source": "biorxiv",
+  "relevance_score": 23,
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 3,
+    "dataset_availability": 5,
+    "novelty": 6,
+    "cell_type_specificity": 1,
+    "phenotype_severity": 4
+  },
+  "decision": "INTEGRATE"
+}
