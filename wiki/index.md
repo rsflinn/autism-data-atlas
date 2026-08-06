@@ -572,3 +572,7 @@ Coincidence worth naming, not evidence: two independent items today point at spl
 Most relevant single item to the project's guiding question: the 16p11.2 isogenic mouse discordance preprint (10.64898/2026.07.29.741187). Same genotype, same background, controlled environment, roughly 50/50 split in seizure susceptibility. The compensatory-circuit explanation offered is correlational (an activation pattern in low responders), not a manipulation.
 
 De-duplication: PMID 42546692 was already filed on 2026-08-04 and was skipped rather than re-scored this cycle. The edat-window overlap flagged on 08-04 is still unfixed at the query level; it is currently handled by checking papers_feed.js IDs before writing.
+
+### Daily scan 2026-08-06
+
+- [Molecular determinants of functional voltage-gated sodium (Nav) channel diversity in mammalian central neurons](findings/42555659.md) -- The Journal of Physiology, 2026-08-05, score 15 (INTEGRATE)

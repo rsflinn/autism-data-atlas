@@ -1,0 +1,20 @@
+{
+  "pmid": "42555659",
+  "doi": "10.1113/JP289491",
+  "title": "Molecular determinants of functional voltage-gated sodium (Nav) channel diversity in mammalian central neurons.",
+  "authors": "Ransdell JL et al.",
+  "journal": "The Journal of Physiology",
+  "date": "2026-08-05",
+  "abstract": "Voltage-gated sodium (Nav) channels are key determinants of neuronal excitability, shaping action potential waveforms, repetitive firing patterns and responses to synaptic inputs. Transient, persistent and resurgent Nav current components have been distinguished. Native neuronal Nav channels function in macromolecular complexes comprising a pore-forming alpha subunit assembled with accessory/auxiliary proteins. In mature central neurons Nav1.1, Nav1.2 and Nav1.6 alpha subunits are differentially expressed together with Nav beta (Navb1-4), intracellular fibroblast growth factor (iFGF11-14), ankyrin (Ankyrin-B, -G, -R) and other auxiliary proteins, generating Nav channels with diverse cell-type- and circuit-specific expression patterns, subcellular distributions, gating properties and physiological roles. Variants in SCN1A, SCN2A, SCN8A, SCN1B, FGF12, FGF13, FGF14, ANK1, ANK2, ANK3 and other Nav auxiliary and interacting proteins have been linked to congenital neurological disorders including epilepsy and ataxia, as well as neurodevelopmental, neurodegenerative and psychiatric diseases.",
+  "source": "pubmed",
+  "relevance_score": 15,
+  "score_breakdown": {
+    "autism_relevance": 4,
+    "noncoding_regulatory": 1,
+    "dataset_availability": 0,
+    "novelty": 3,
+    "cell_type_specificity": 5,
+    "phenotype_severity": 2
+  },
+  "decision": "INTEGRATE"
+}
